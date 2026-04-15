@@ -1,1 +1,312 @@
-
+{
+    "anime_nhat": [
+        {
+            "name": "Nữ Vương Trùm Cuối Cùng Hung Cực Ác Sẽ Dốc Sức Vì Người Dân (Phần 2)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260415-1/7ba5f25dfed689511b68e27a33b83c0a.jpg",
+            "slug": "nu-vuong-trum-cuoi-cung-hung-cuc-ac-se-doc-suc-vi-nguoi-dan-phan-2"
+        },
+        {
+            "name": "Mai Mối Cho Độc Sư",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260410-1/4afcd4d3802935aea155811909fbb809.jpg",
+            "slug": "mai-moi-cho-doc-su"
+        },
+        {
+            "name": "Xưởng Phép Thuật",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260407-1/b6fdcda10b32c8a92c79a7369a4c199f.jpg",
+            "slug": "xuong-phep-thuat"
+        },
+        {
+            "name": "Trò Chơi Dối Trá",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260411-1/49af586eff3cd03a5f3e5558aa451f58.jpg",
+            "slug": "tro-choi-doi-tra-2026"
+        },
+        {
+            "name": "Cô Lớp Trưởng Vụng Về Và Cô Gái Mặc Váy Ngắn",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260407-1/3059c10258289a44623435464b0200d8.jpg",
+            "slug": "co-lop-truong-vung-ve-va-co-gai-mac-vay-ngan"
+        },
+        {
+            "name": "Cuộc Sống Nông Dân Ở Thế Giới Khác (Phần 2)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260407-1/225773e65bb3c70735c497e0eb1ecc3c.jpg",
+            "slug": "cuoc-song-nong-dan-o-the-gioi-khac-phan-2"
+        },
+        {
+            "name": "Nippon Sangoku",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260414-1/996d72798f08b5b60d89f921e266a9db.jpg",
+            "slug": "nippon-sangoku"
+        },
+        {
+            "name": "Thiên Thần Internet",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260410-1/8ad8e28bef9ff742d59d36fb0061bd5c.jpg",
+            "slug": "thien-than-internet"
+        },
+        {
+            "name": "Dũng Sĩ Cặn Bã",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260114-1/353e77efcf6edac484eaa86408e670a2.jpg",
+            "slug": "dung-si-can-ba"
+        },
+        {
+            "name": "Wistoria Trượng Và Kiếm (Phần 2)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260413-1/d801984433eaf262c354b9edacb0c7d3.jpg",
+            "slug": "wistoria-truong-va-kiem-phan-2"
+        }
+    ],
+    "hh_trung_quoc": [
+        {
+            "name": "Sưu Thần Ký",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260325-1/98023650a08afba1c2697bb8cdb441a5.jpg",
+            "slug": "suu-than-ky"
+        },
+        {
+            "name": "Đạo Yêu Hành",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260312-1/1fd77b198bbcfc53b17dd17f75d70899.jpg",
+            "slug": "dao-yeu-hanh"
+        },
+        {
+            "name": "Còn Ra Thể Thống Gì Nữa (Phần 2)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260125-1/13a49743588595a8eb026d73bc0a6a0b.jpg",
+            "slug": "con-ra-the-thong-gi-nua-phan-2"
+        },
+        {
+            "name": "Đại Đạo Độc Hành",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260410-1/9640194885512a5d1fbbd947af9d4d4d.jpg",
+            "slug": "dai-dao-doc-hanh"
+        },
+        {
+            "name": "Thâm Không Bỉ Ngạn",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260117-1/244d10537faac8dd7541481eea14976e.jpg",
+            "slug": "tham-khong-bi-ngan"
+        },
+        {
+            "name": "Trạch Thiên Ký",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260204-1/1aca6f23b3cda6ce17fbfe32ada51669.jpg",
+            "slug": "trach-thien-ky"
+        },
+        {
+            "name": "Nhất Nhân Chi Hạ (Phần 6) (Người Trên Vạn Người)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260110-1/1c5432188e44458e51aa2119a8ac3aab.jpg",
+            "slug": "nhat-nhan-chi-ha-phan-6-nguoi-tren-van-nguoi"
+        },
+        {
+            "name": "Hoàng Tử Lưu Đày",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260322-1/763dc7da5ea5ac3b112502d5ad3c9f10.jpg",
+            "slug": "hoang-tu-luu-day"
+        },
+        {
+            "name": "Trung Quốc Kỳ Đàm (Phần 2)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260110-1/3b4a9dd7670dd5965fffd56638132a2a.jpg",
+            "slug": "trung-quoc-ky-dam-phan-2"
+        },
+        {
+            "name": "Lăng Thiên Độc Tôn",
+            "year": 2025,
+            "thumb": "https://phimimg.com/upload/vod/20250719-1/9d75341ac87b3cee68b2c02e8726bb0e.jpg",
+            "slug": "lang-thien-doc-ton"
+        }
+    ],
+    "anime_movie": [
+        {
+            "name": "Hoppers: Cú Nhảy Kỳ Diệu",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260330-1/91d30de8c46d4b24ad2987c54376d54d.jpg",
+            "slug": "hoppers-cu-nhay-ky-dieu"
+        },
+        {
+            "name": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260325-1/57000b826e67c1db2727e310aec0b004.jpg",
+            "slug": "tuyen-thu-de-mui-vi-chien-thang"
+        },
+        {
+            "name": "Kaguya: Công Chúa Vũ Trụ!",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260122-1/7eabb2d3cf4f6e8d2216f6cb67d1ee51.jpg",
+            "slug": "kaguya-cong-chua-vu-tru"
+        },
+        {
+            "name": "Tooi-san wa Seishun Shitai! Baka to Smartphone to Romance to",
+            "year": 2025,
+            "thumb": "https://phimimg.com/upload/vod/20260112-1/f26318c7e873fd225b76775322473d5c.jpg",
+            "slug": "tooisan-wa-seishun-shitai-baka-to-smartphone-to-romance-to"
+        },
+        {
+            "name": "Tuổi Trẻ Bất Trị",
+            "year": 2025,
+            "thumb": "https://phimimg.com/upload/vod/20260105-1/00bc9203a71c78a2669a4045ad5b16e9.jpg",
+            "slug": "tuoi-tre-bat-tri"
+        },
+        {
+            "name": "Thanh Gươm Diệt Quỷ: Vô Hạn Thành",
+            "year": 2025,
+            "thumb": "https://phimimg.com/upload/vod/20250722-1/16ea0557ca40cd54a3d25c6750a65c0b.jpg",
+            "slug": "thanh-guom-diet-quy-vo-han-thanh"
+        },
+        {
+            "name": "Doraemon: Nobita Và Cuộc Phiêu Lưu Vào Thế Giới Trong Tranh",
+            "year": 2025,
+            "thumb": "https://phimimg.com/upload/vod/20250827-1/94183f061625e5155a274c0394d5cafb.jpg",
+            "slug": "doraemon-nobita-va-cuoc-phieu-luu-vao-the-gioi-trong-tranh"
+        },
+        {
+            "name": "Chainsaw Man - The Movie: Chương Reze",
+            "year": 2025,
+            "thumb": "https://phimimg.com/upload/vod/20251209-1/c3096886a37e19947c1b6758f7b8829f.jpg",
+            "slug": "chainsaw-man-the-movie-chuong-reze"
+        },
+        {
+            "name": "Lộc Du Ký",
+            "year": 2025,
+            "thumb": "https://phimimg.com/upload/vod/20251214-1/b958c60ba195b9b80bee4a1d29d68d77.jpg",
+            "slug": "loc-du-ky"
+        },
+        {
+            "name": "Nhật Ký Chú Bé Nhút Nhát: Giọt Nước Tràn Ly",
+            "year": 2025,
+            "thumb": "https://phimimg.com/upload/vod/20251213-1/c4145402cd4e57e14b6dd511da4d3040.jpg",
+            "slug": "nhat-ky-chu-be-nhut-nhat-giot-nuoc-tran-ly"
+        }
+    ],
+    "han_quoc_le": [
+        {
+            "name": "Tình Báo Con Người",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260402-1/1dad4e834a4374dc351018defc586fdf.jpg",
+            "slug": "tinh-bao-con-nguoi"
+        },
+        {
+            "name": "Project Y: Gái Ngoan Đổi Đời",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260318-1/ed2843ccbd0785dc0d55d9b85c27c636.jpg",
+            "slug": "project-y-gai-ngoan-doi-doi"
+        },
+        {
+            "name": "BTS: SỰ TRỞ LẠI",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260322-1/05d2a237122937e087e7d3e03bc87aa3.jpg",
+            "slug": "bts-su-tro-lai"
+        },
+        {
+            "name": "Đếm Ngày Xa Mẹ",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260227-1/388f27b93c3074c6c703e634ce37acd4.jpg",
+            "slug": "dem-ngay-xa-me"
+        },
+        {
+            "name": "Pavane",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260221-1/b6fa0c0a854979a81d70e56151864524.jpg",
+            "slug": "pavane"
+        },
+        {
+            "name": "Bẫy Hồi Sinh",
+            "year": 2025,
+            "thumb": "https://phimimg.com/upload/vod/20250919-1/fe2138e44b4deeac1b96a5e9b73eb977.jpg",
+            "slug": "bay-hoi-sinh"
+        },
+        {
+            "name": "Mr. Robot",
+            "year": 2025,
+            "thumb": "https://phimimg.com/upload/vod/20250913-1/107031eef3adc4c383c3e27d14c18f3f.jpg",
+            "slug": "mr-robot"
+        },
+        {
+            "name": "Giao Ước Quỷ Dữ",
+            "year": 2025,
+            "thumb": "https://phimimg.com/upload/vod/20250906-1/a6f26e9da7e4e10fe1d04ed7d9f6ab95.jpg",
+            "slug": "giao-uoc-quy-du"
+        },
+        {
+            "name": "Chuyện Tình Tóc Rối",
+            "year": 2025,
+            "thumb": "https://phimimg.com/upload/vod/20250829-1/3944f6e5daff190a2d54757243689edd.jpg",
+            "slug": "chuyen-tinh-toc-roi"
+        },
+        {
+            "name": "Cảnh Sát Siêu Năng",
+            "year": 2025,
+            "thumb": "https://phimimg.com/upload/vod/20250827-1/ad0c33ebc80aaa6fab3e43479f054f3b.jpg",
+            "slug": "canh-sat-sieu-nang"
+        }
+    ],
+    "trung_quoc_le": [
+        {
+            "name": "Theo Dấu Tội Ác",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260410-1/a2a4aa808ad1e6af220eb525bd2ee13f.jpg",
+            "slug": "theo-dau-toi-ac"
+        },
+        {
+            "name": "Anh Hùng Thành Phố Ẩn Danh",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260410-1/0a261668cb4b257925e5ce78e1eff18c.jpg",
+            "slug": "anh-hung-thanh-pho-an-danh"
+        },
+        {
+            "name": "Truyền Thuyết Linh Tinh (Linh Tinh Truyện)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260409-1/95a669c077e681e2317ecf6e9ed6b3d7.jpg",
+            "slug": "truyen-thuyet-linh-tinh-linh-tinh-truyen"
+        },
+        {
+            "name": "Thanh Đao Sắc Bén Phong Chiến Sĩ",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260409-1/c268434f256487f4b88a485aa522f53f.jpg",
+            "slug": "thanh-dao-sac-ben-phong-chien-si"
+        },
+        {
+            "name": "Mê Vụ Trấn",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260409-1/9a441d4d1bb07f3440300e2564158019.jpg",
+            "slug": "me-vu-tran"
+        },
+        {
+            "name": "Đao Quang Kiếm Ảnh",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260409-1/52f56762b75b2e6b5add813133119677.jpg",
+            "slug": "dao-quang-kiem-anh"
+        },
+        {
+            "name": "Già Thiên Movie: Vác Quan Tài Chiến Vương Đằng",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260404-1/df10006f21897c413d78a6ba88206231.jpg",
+            "slug": "gia-thien-movie-vac-quan-tai-chien-vuong-dang"
+        },
+        {
+            "name": "Tình Quan",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260402-1/dddec363606390bf4c91d661fd445490.jpg",
+            "slug": "tinh-quan"
+        },
+        {
+            "name": "Sứ Mệnh Trừ Độc",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260402-1/d50913aa0a6c21ea5538c1d216d75dc8.jpg",
+            "slug": "su-menh-tru-doc"
+        },
+        {
+            "name": "Lên Như Diều Gặp Gió",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260402-1/36b8608b8ce88fe185965b120289cc06.jpg",
+            "slug": "len-nhu-dieu-gap-gio"
+        }
+    ]
+}
