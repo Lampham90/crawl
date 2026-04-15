@@ -1,0 +1,33 @@
+name: Auto Crawl Movie Data
+
+on:
+  schedule:
+    # Chạy vào lúc 00:00 mỗi ngày (giờ UTC)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Cho phép ông bấm nút chạy thủ công bất cứ lúc nào
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run crawl script
+        run: python crawl_anime.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add data_2026_perfect.json
+          git commit -m "Auto update phim mới ngày $(date)"
+          git push
