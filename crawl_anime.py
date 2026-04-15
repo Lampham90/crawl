@@ -17,13 +17,11 @@ def get_data(url):
 def fetch_until_full_v12(api_type, target_key):
     results = []
     page = 1
-    # Mặc định săn phim 2026
     current_min_year = 2026
     
     print(f"\n--- Đang săn tìm: {target_key} (Mục tiêu: 10 phim {current_min_year}+) ---")
     
     while len(results) < 10:
-        # Nếu đã quét quá sâu (hơn 30 trang) mà vẫn thiếu, hạ xuống 2025 để đủ số lượng
         if page > 30 and current_min_year > 2025:
             current_min_year = 2025
             print(f"  (!) Nới lỏng tiêu chuẩn xuống năm {current_min_year}...")
@@ -47,7 +45,6 @@ def fetch_until_full_v12(api_type, target_key):
             m = detail['movie']
             year = int(m.get('year', 0))
             
-            # Lọc theo năm mặc định (2026)
             if year < current_min_year:
                 continue 
 
@@ -62,11 +59,9 @@ def fetch_until_full_v12(api_type, target_key):
                 "slug": item['slug']
             }
             
-            # Chống trùng lặp
             if any(x['slug'] == item['slug'] for x in results):
                 continue
 
-            # Logic phân loại
             if target_key == "anime_movie":
                 if ep_total == "1" or "full" in status: 
                     results.append(info)
@@ -88,7 +83,6 @@ def fetch_until_full_v12(api_type, target_key):
                     results.append(info)
                     print(f"  [+] Trung lẻ 2026: {info['name']}")
                 
-            # Nghỉ 0.7 giây mỗi lần gọi chi tiết để cực kỳ an toàn
             time.sleep(0.7) 
         
         page += 1
@@ -98,21 +92,22 @@ def fetch_until_full_v12(api_type, target_key):
 def main_v12():
     final_data = {}
     
-    # Thực hiện crawl từng danh mục
     final_data["anime_nhat"] = fetch_until_full_v12("hoat-hinh", "anime_nhat")
     final_data["hh_trung_quoc"] = fetch_until_full_v12("hoat-hinh", "hh_trung_quoc")
     final_data["anime_movie"] = fetch_until_full_v12("hoat-hinh", "anime_movie")
     final_data["han_quoc_le"] = fetch_until_full_v12("quoc-gia/han-quoc", "phim_le_han")
     final_data["trung_quoc_le"] = fetch_until_full_v12("quoc-gia/trung-quoc", "phim_le_trung")
 
-    # Sắp xếp lại để phim 2026 luôn nằm trên cùng
     for k in final_data:
         final_data[k] = sorted(final_data[k], key=lambda x: x.get('year', 0), reverse=True)
 
-    # --- SỬA CHỖ NÀY: Lưu trực tiếp vào thư mục hiện tại để GitHub Actions thấy file ---
     path = "data_2026_perfect.json" 
     
     with open(path, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
     
     print(f"\n[XONG] Script đã hoàn tất. Dữ liệu đã được lưu vào: {path}")
+
+# --- CỰC KỲ QUAN TRỌNG: Phải có 2 dòng này để file chạy được ---
+if __name__ == "__main__":
+    main_v12()
