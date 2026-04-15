@@ -109,11 +109,10 @@ def main_v12():
     for k in final_data:
         final_data[k] = sorted(final_data[k], key=lambda x: x.get('year', 0), reverse=True)
 
-    path = os.path.join(os.path.expanduser("~"), "Desktop", "data_2026_perfect.json")
+    # --- SỬA CHỖ NÀY: Lưu trực tiếp vào thư mục hiện tại để GitHub Actions thấy file ---
+    path = "data_2026_perfect.json" 
+    
     with open(path, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
     
-    print(f"\n[XONG] Script đã hoàn tất. Dữ liệu cực sạch đã sẵn sàng tại Desktop!")
-
-if __name__ == "__main__":
-    main_v12()
+    print(f"\n[XONG] Script đã hoàn tất. Dữ liệu đã được lưu vào: {path}")
