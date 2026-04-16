@@ -139,10 +139,12 @@ def main():
     final_data["long_tieng"] = [m for m in unique_pool if "Lồng Tiếng" in m.get('lang_raw', '')][:15]
     final_data["thuyet_minh"] = [m for m in unique_pool if "Thuyết Minh" in m.get('lang_raw', '')][:15]
 
-    # Xuất file
-    with open("data_2026_perfect.json", "w", encoding="utf-8") as f:
+   path = "data_2026_perfect.json" 
+    
+    with open(path, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
-    print("\n[DONE] Đã hoàn thành 18 danh mục.")
+    
+    print(f"\n[XONG] Script đã hoàn tất. Dữ liệu đã được lưu vào: {path}")
 
 if __name__ == "__main__":
     main()
