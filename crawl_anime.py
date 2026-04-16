@@ -65,8 +65,9 @@ def fetch_until_full_v12(api_type, target_key):
                 "name": m.get('name'), 
                 "year": year, 
                 "thumb": m.get('thumb_url'), 
-                "slug": item['slug'], # Thêm dấu phẩy ở đây
-                "sub_type": sub_display, # Sử dụng sub_display đã chuẩn hóa
+                "poster": m.get('poster_url'), # Thêm dòng này để lấy ảnh dọc
+                "slug": item['slug'],
+                "sub_type": sub_display, 
                 "current_episode": m.get('episode_current', '0'),
                 "total_episodes": m.get('episode_total', '??')
             }
