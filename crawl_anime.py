@@ -28,6 +28,7 @@ def fetch_logic(endpoint, target_key, custom_params=None):
         
         page = 1
         while len(results) < TARGET_COUNT:
+            # Sử dụng các tham số lọc trực tiếp từ API để tăng tốc [cite: 25, 36, 41, 42]
             params = {"page": page, "year": year, "limit": 64}
             if custom_params:
                 params.update(custom_params)
@@ -43,18 +44,22 @@ def fetch_logic(endpoint, target_key, custom_params=None):
                 if len(results) >= TARGET_COUNT: break
                 if item['slug'] in seen_slugs: continue
 
+                # Gọi API chi tiết để lấy chính xác thông tin [cite: 11]
                 detail = get_data(f"https://phimapi.com/phim/{item['slug']}")
                 if not detail or 'movie' not in detail: continue
                 
                 m = detail['movie']
                 ep_total = str(m.get('episode_total', '')).lower()
                 status = str(m.get('episode_current', '')).lower()
+                
+                # Xử lý an toàn cho country [cite: 40]
                 country_list = m.get('country', [{}])
                 country_name = country_list[0].get('name', '') if country_list else ''
-                lang_raw = m.get('lang', '')
-                m_type = m.get('type', '')
+                
+                lang_raw = str(m.get('lang', ''))
+                m_type = m.get('type', 'series') # Định nghĩa m_type để tránh lỗi
 
-                # --- Định nghĩa sub_display từ lang_raw ---
+                # --- Định nghĩa sub_display (Fix lỗi biến không tồn tại) [cite: 38] ---
                 sub_display = "Vietsub"
                 if "Lồng Tiếng" in lang_raw:
                     sub_display = "Lồng Tiếng"
@@ -75,19 +80,18 @@ def fetch_logic(endpoint, target_key, custom_params=None):
                     is_match = True
 
                 if is_match:
-                    # Sửa lại info đúng theo format m yêu cầu
                     info = {
                         "name": m.get('name'), 
                         "year": year, 
                         "thumb": m.get('thumb_url'), 
-                        "poster": m.get('poster_url'),
+                        "poster": m.get('poster_url'), # Lấy poster [cite: 122]
                         "slug": item['slug'],
                         "sub_type": sub_display,
                         "current_episode": m.get('episode_current', 'Full'),
                         "total_episodes": m.get('episode_total', '1'),
                         "country": country_name,
                         "type": m_type,
-                        "lang_raw": lang_raw # Giữ lại để hàm tổng hợp dùng
+                        "lang_raw": lang_raw 
                     }
                     results.append(info)
                     seen_slugs.add(item['slug'])
@@ -102,47 +106,42 @@ def fetch_logic(endpoint, target_key, custom_params=None):
 def main():
     final_data = {}
     
-    # 1. Phim mới & Chiếu rạp
-    final_data["phim_moi"] = fetch_logic("danh-sach/phim-moi-cap-nhat", "phim_moi")
+    # Thực hiện crawl 18 danh mục như yêu cầu
+    final_data["phim_moi"] = fetch_logic("danh-sach/phim-moi-cap-nhat", "phim_moi") # [cite: 4, 5]
     final_data["chieu_rap"] = fetch_logic("danh-sach/phim-chieu-rap", "chieu_rap")
 
-    # 2. Nhóm Hoạt hình
+    # Nhóm Hoạt hình [cite: 34]
     final_data["anime_movie"] = fetch_logic("danh-sach/hoat-hinh", "anime_movie")
-    final_data["anime_nhat"] = fetch_logic("quoc-gia/nhat-ban", "anime_nhat", {"category": "hoat-hinh"})
+    final_data["anime_nhat"] = fetch_logic("quoc-gia/nhat-ban", "anime_nhat", {"category": "hoat-hinh"}) # [cite: 86, 100]
     final_data["hh_trung_quoc"] = fetch_logic("quoc-gia/trung-quoc", "hh_trung_quoc", {"category": "hoat-hinh"})
 
-    # 3. Phim Lẻ theo quốc gia (Thanh Lan là slug của Thái Lan)
-    final_data["le_vn"] = fetch_logic("quoc-gia/viet-nam", "le_vn", {"category": "phim-le"})
-    final_data["le_han"] = fetch_logic("quoc-gia/han-quoc", "le_han", {"category": "phim-le"})
-    final_data["le_trung"] = fetch_logic("quoc-gia/trung-quoc", "le_trung", {"category": "phim-le"})
-    final_data["le_thai"] = fetch_logic("quoc-gia/thanh-lan", "le_thai", {"category": "phim-le"})
-    final_data["le_au_my"] = fetch_logic("quoc-gia/au-my", "le_au_my", {"category": "phim-le"})
+    # Nhóm Phim Lẻ & Bộ [cite: 34]
+    countries = [
+        ("viet-nam", "vn"), ("han-quoc", "han"), ("trung-quoc", "trung"), 
+        ("thanh-lan", "thai"), ("au-my", "au_my")
+    ]
+    
+    for c_slug, c_key in countries:
+        final_data[f"le_{c_key}"] = fetch_logic(f"quoc-gia/{c_slug}", f"le_{c_key}", {"category": "phim-le"})
+        final_data[f"bo_{c_key}"] = fetch_logic(f"quoc-gia/{c_slug}", f"bo_{c_key}", {"category": "phim-bo"})
 
-    # 4. Phim Bộ theo quốc gia
-    final_data["bo_vn"] = fetch_logic("quoc-gia/viet-nam", "bo_vn", {"category": "phim-bo"})
-    final_data["bo_han"] = fetch_logic("quoc-gia/han-quoc", "bo_han", {"category": "phim-bo"})
-    final_data["bo_trung"] = fetch_logic("quoc-gia/trung-quoc", "bo_trung", {"category": "phim-bo"})
-    final_data["bo_thai"] = fetch_logic("quoc-gia/thanh-lan", "bo_thai", {"category": "phim-bo"})
-    final_data["bo_au_my"] = fetch_logic("quoc-gia/au-my", "bo_au_my", {"category": "phim-bo"})
-
-    # 5. Top 10 phim bộ (Mix tỉ lệ 4:3:2:1)
+    # Mix Top 10 phim bộ (4:3:2:1)
     final_data["top_10_bo"] = (final_data.get("bo_trung", [])[:4] + final_data.get("bo_han", [])[:3] + 
                                final_data.get("bo_au_my", [])[:2] + final_data.get("bo_thai", [])[:1])
 
-    # 6. Tổng hợp Lồng tiếng & Thuyết minh
+    # Tổng hợp Thuyết minh & Lồng tiếng từ "pool" dữ liệu đã crawl [cite: 38]
     all_movies = []
     for k in final_data:
-        if isinstance(final_data[k], list):
-            all_movies.extend(final_data[k])
+        if isinstance(final_data[k], list): all_movies.extend(final_data[k])
     
     unique_pool = {m['slug']: m for m in all_movies}.values()
     final_data["long_tieng"] = [m for m in unique_pool if "Lồng Tiếng" in m.get('lang_raw', '')][:15]
     final_data["thuyet_minh"] = [m for m in unique_pool if "Thuyết Minh" in m.get('lang_raw', '')][:15]
 
-    # Xuất file
+    # Lưu kết quả vào file data_2026_perfect.json
     with open("data_2026_perfect.json", "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
-    print("\n[DONE] Đã hoàn thành 18 danh mục.")
+    print("\n[DONE] Đã cập nhật data_2026_perfect.json thành công.")
 
 if __name__ == "__main__":
     main()
