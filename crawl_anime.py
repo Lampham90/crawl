@@ -52,11 +52,23 @@ def fetch_until_full_v12(api_type, target_key):
             status = str(m.get('episode_current', '')).lower()
             country = m.get('country', [{}])[0].get('name', '')
             
+            # --- Logic chuẩn hóa Thuyết minh/Lồng tiếng ---
+            original_lang = m.get('lang', 'Vietsub')
+            if "Lồng Tiếng" in original_lang:
+                sub_display = "Lồng Tiếng"
+            elif "Thuyết Minh" in original_lang:
+                sub_display = "Thuyết Minh"
+            else:
+                sub_display = "Vietsub" 
+
             info = {
                 "name": m.get('name'), 
                 "year": year, 
                 "thumb": m.get('thumb_url'), 
-                "slug": item['slug']
+                "slug": item['slug'], # Thêm dấu phẩy ở đây
+                "sub_type": sub_display, # Sử dụng sub_display đã chuẩn hóa
+                "current_episode": m.get('episode_current', '0'),
+                "total_episodes": m.get('episode_total', '??')
             }
             
             if any(x['slug'] == item['slug'] for x in results):
@@ -108,6 +120,5 @@ def main_v12():
     
     print(f"\n[XONG] Script đã hoàn tất. Dữ liệu đã được lưu vào: {path}")
 
-# --- CỰC KỲ QUAN TRỌNG: Phải có 2 dòng này để file chạy được ---
 if __name__ == "__main__":
     main_v12()
