@@ -2,58 +2,51 @@ import requests
 import json
 import time
 
-# Cấu hình kiểm tra đơn giản
-BASE_URL = "https://phimapi.com/v1/api/danh-sach"
-LIMIT_TEST = 2 # Mỗi loại lấy đúng 2 phim
-YEAR_TEST = 2025
+# Sử dụng endpoint tìm kiếm để lọc sâu
+SEARCH_URL = "https://phimapi.com/v1/api/tim-kiem"
+YEAR_TEST = 2025 # Test năm 2025 cho nhiều phim
+LIMIT_TEST = 2
 
-def get_test_data(type_list, params):
-    url = f"{BASE_URL}/{type_list}"
+def test_filter(name, params):
     headers = {"User-Agent": "Mozilla/5.0"}
+    # Keyword để trống hoặc dùng dấu cách nếu API bắt buộc, 
+    # nhưng thường dùng params lọc là đủ
+    params.update({"keyword": " ", "limit": LIMIT_TEST, "year": YEAR_TEST})
+    
     try:
-        res = requests.get(url, params=params, headers=headers, timeout=10)
+        res = requests.get(SEARCH_URL, params=params, headers=headers, timeout=10)
         if res.status_code == 200:
             data = res.json()
-            if isinstance(data, dict) and 'data' in data:
-                return data['data'].get('items', [])
+            items = data.get('data', {}).get('items', [])
+            movie_names = [i.get('name') for i in items]
+            print(f"[{name}]: Lọc được {len(movie_names)} phim -> {movie_names}")
+            return items
     except Exception as e:
-        print(f" Lỗi gọi API: {e}")
+        print(f"[{name}]: Lỗi -> {e}")
     return []
 
 def main():
-    test_results = {}
-    
-    # 1. Test Hoạt hình (Sử dụng category và country để lọc) 
-    print("--- ĐANG TEST NHÓM HOẠT HÌNH ---")
-    
-    # Anime Movie (Hoạt hình + Phim lẻ)
-    test_results["anime_movie"] = get_test_data("hoat-hinh", {"year": YEAR_TEST, "limit": LIMIT_TEST, "category": "phim-le"})
-    
-    # Anime Nhật (Hoạt hình + Nhật Bản)
-    test_results["anime_nhat"] = get_test_data("hoat-hinh", {"year": YEAR_TEST, "limit": LIMIT_TEST, "country": "nhat-ban"})
-    
-    # HH Trung Quốc (Hoạt hình + Trung Quốc)
-    test_results["hh_trung_quoc"] = get_test_data("hoat-hinh", {"year": YEAR_TEST, "limit": LIMIT_TEST, "country": "trung-quoc"})
+    print(f"--- ĐANG KIỂM TRA BỘ LỌC API (NĂM {YEAR_TEST}) ---\n")
 
-    # 2. Test Phim Lẻ & Bộ theo Quốc gia 
-    print("--- ĐANG TEST NHÓM QUỐC GIA ---")
-    countries = ["viet-nam", "han-quoc", "trung-quoc", "au-my", "thanh-lan"]
-    
-    for country in countries:
-        # Test Phim Lẻ
-        key_le = f"le_{country}"
-        test_results[key_le] = get_test_data("phim-le", {"year": YEAR_TEST, "limit": LIMIT_TEST, "country": country})
-        
-        # Test Phim Bộ
-        key_bo = f"bo_{country}"
-        test_results[key_bo] = get_test_data("phim-bo", {"year": YEAR_TEST, "limit": LIMIT_TEST, "country": country})
+    # 1. Test Hoạt hình
+    test_filter("ANIME MOVIE", {"category": "hoat-hinh", "sort_lang": "vietsub"}) # Lấy đại diện
+    test_filter("ANIME NHẬT", {"category": "hoat-hinh", "country": "nhat-ban"})
+    test_filter("HH TRUNG QUỐC", {"category": "hoat-hinh", "country": "trung-quoc"})
 
-    # Hiển thị kết quả kiểm tra
-    print("\n========= KẾT QUẢ TEST =========")
-    for key, items in test_results.items():
-        count = len(items)
-        names = [i.get('name') for i in items]
-        print(f"[{key}]: Tìm thấy {count} phim -> {names}")
+    # 2. Test Quốc gia (Lẻ & Bộ)
+    countries = [
+        ("viet-nam", "VIỆT NAM"),
+        ("han-quoc", "HÀN QUỐC"),
+        ("trung-quoc", "TRUNG QUỐC"),
+        ("au-my", "ÂU MỸ"),
+        ("thanh-lan", "THÁI LAN")
+    ]
+
+    for c_slug, c_name in countries:
+        test_filter(f"PHIM LẺ {c_name}", {"category": "phim-le", "country": c_slug})
+        test_filter(f"PHIM BỘ {c_name}", {"category": "phim-bo", "country": c_slug})
+
+    print("\n--- KẾT THÚC KIỂM TRA ---")
 
 if __name__ == "__main__":
     main()
