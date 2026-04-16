@@ -21,6 +21,16 @@
             "total_episodes": "12"
         },
         {
+            "name": "Trò Chơi Dối Trá",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260411-1/49af586eff3cd03a5f3e5558aa451f58.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260411-1/a951760069de3be74886366297435981.jpg",
+            "slug": "tro-choi-doi-tra-2026",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "12"
+        },
+        {
             "name": "Xưởng Phép Thuật",
             "year": 2026,
             "thumb": "https://phimimg.com/upload/vod/20260407-1/b6fdcda10b32c8a92c79a7369a4c199f.jpg",
@@ -41,41 +51,11 @@
             "total_episodes": "12"
         },
         {
-            "name": "Trò Chơi Dối Trá",
-            "year": 2026,
-            "thumb": "https://phimimg.com/upload/vod/20260411-1/49af586eff3cd03a5f3e5558aa451f58.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260411-1/a951760069de3be74886366297435981.jpg",
-            "slug": "tro-choi-doi-tra-2026",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "12"
-        },
-        {
-            "name": "Thiên Thần Internet",
-            "year": 2026,
-            "thumb": "https://phimimg.com/upload/vod/20260410-1/8ad8e28bef9ff742d59d36fb0061bd5c.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260410-1/bea5e2c63c294d8536e1da3350df60a2.jpg",
-            "slug": "thien-than-internet",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "13"
-        },
-        {
             "name": "Cuộc Sống Nông Dân Ở Thế Giới Khác (Phần 2)",
             "year": 2026,
             "thumb": "https://phimimg.com/upload/vod/20260407-1/225773e65bb3c70735c497e0eb1ecc3c.jpg",
             "poster": "https://phimimg.com/upload/vod/20260407-1/be3f60f78bca8b70fd31bbaf47cc140f.jpg",
             "slug": "cuoc-song-nong-dan-o-the-gioi-khac-phan-2",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "12"
-        },
-        {
-            "name": "Wistoria Trượng Và Kiếm (Phần 2)",
-            "year": 2026,
-            "thumb": "https://phimimg.com/upload/vod/20260413-1/d801984433eaf262c354b9edacb0c7d3.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260413-1/fd138da5f67a02843ae32037bb68a651.jpg",
-            "slug": "wistoria-truong-va-kiem-phan-2",
             "sub_type": "Vietsub",
             "current_episode": "Tập 2",
             "total_episodes": "12"
@@ -99,6 +79,26 @@
             "sub_type": "Vietsub",
             "current_episode": "Tập 13",
             "total_episodes": "24"
+        },
+        {
+            "name": "Thiên Thần Internet",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260410-1/8ad8e28bef9ff742d59d36fb0061bd5c.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260410-1/bea5e2c63c294d8536e1da3350df60a2.jpg",
+            "slug": "thien-than-internet",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "13"
+        },
+        {
+            "name": "Wistoria Trượng Và Kiếm (Phần 2)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260413-1/d801984433eaf262c354b9edacb0c7d3.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260413-1/fd138da5f67a02843ae32037bb68a651.jpg",
+            "slug": "wistoria-truong-va-kiem-phan-2",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "12"
         }
     ],
     "hh_trung_quoc": [
@@ -123,16 +123,6 @@
             "total_episodes": "60"
         },
         {
-            "name": "Còn Ra Thể Thống Gì Nữa (Phần 2)",
-            "year": 2026,
-            "thumb": "https://phimimg.com/upload/vod/20260125-1/13a49743588595a8eb026d73bc0a6a0b.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",
-            "slug": "con-ra-the-thong-gi-nua-phan-2",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 14",
-            "total_episodes": "24"
-        },
-        {
             "name": "Đại Đạo Độc Hành",
             "year": 2026,
             "thumb": "https://phimimg.com/upload/vod/20260410-1/9640194885512a5d1fbbd947af9d4d4d.jpg",
@@ -141,6 +131,16 @@
             "sub_type": "Vietsub",
             "current_episode": "Tập 3",
             "total_episodes": "40"
+        },
+        {
+            "name": "Còn Ra Thể Thống Gì Nữa (Phần 2)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260125-1/13a49743588595a8eb026d73bc0a6a0b.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",
+            "slug": "con-ra-the-thong-gi-nua-phan-2",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 14",
+            "total_episodes": "24"
         },
         {
             "name": "Vị Vua Mạnh Nhất Làm Gì Ở Kiếp Thứ Hai (Phần 2)",
