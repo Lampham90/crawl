@@ -7,7 +7,7 @@ BASE_URL = "https://phimapi.com/v1/api"
 # Thêm 2024 để đảm bảo mục nào cũng có phim
 YEARS = [2026, 2025, 2024] 
 TARGET_COUNT = 15
-MAX_WORKERS = 15 # Tăng luồng lên cho máu
+MAX_WORKERS = 5 # Tăng luồng lên cho máu
 
 def get_data(url, params=None):
     headers = {"User-Agent": "Mozilla/5.0"}
@@ -76,7 +76,7 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
                         "lang_raw": str(m.get('lang', ''))
                     })
                     local_seen.add(m.get('slug'))
-            
+            time.sleep(0.5)
             if len(results) > 0:
                 print(f"  + Trang {page} ({year}): {len(results)}/{TARGET_COUNT}")
             
@@ -88,7 +88,7 @@ def main():
 
     # Chạy lần lượt các danh mục
     final_data["phim_moi"] = fetch_final("Phim Mới", "phim-moi-cap-nhat")
-    final_data["chieu_rap"] = fetch_final("Chiếu Rạp", "phim-le", is_movie_logic=True)
+    final_data["chieu_rap"] = fetch_final("Chiếu Rạp", "phim-chieu-rap", is_movie_logic=True)
     final_data["anime_movie"] = fetch_final("Anime Movie", "hoat-hinh", is_movie_logic=True)
     final_data["anime_nhat"] = fetch_final("Anime Nhật", "hoat-hinh", country_target="Nhật Bản", is_movie_logic=False)
     final_data["hh_trung_quoc"] = fetch_final("HH Trung Quốc", "hoat-hinh", country_target="Trung Quốc", is_movie_logic=False)
