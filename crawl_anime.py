@@ -30,7 +30,7 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
     for year in YEARS:
         if len(results) >= TARGET_COUNT: break
         
-        for page in range(1, 5): # Quét 4 trang đầu
+        for page in range(1, 20): # Quét 20 trang đầu
             if len(results) >= TARGET_COUNT: break
             
             url = f"{BASE_URL}/danh-sach/{endpoint}?year={year}&page={page}&limit=64"
