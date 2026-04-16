@@ -1,7 +1,131 @@
 {
-    "anime_nhat": [],
-    "hh_trung_quoc": [],
-    "anime_movie": [],
+    "thai_lan_bo": [
+        {
+            "name": "Tình Yêu Phản Bội",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260403-1/93687521ef7c8ec3e2ef8800f90da089.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260403-1/b21288eb60ac6655368a9186cc5cfe60.jpg",
+            "slug": "tinh-yeu-phan-boi",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 5",
+            "total_episodes": "12"
+        },
+        {
+            "name": "Xe Đạp Tình Yêu",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260309-1/db310dc4b8e76dcb6b155966cdd705db.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260309-1/7d078965051821b5f07d4e8af9e402f9.jpg",
+            "slug": "xe-dap-tinh-yeu",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 7",
+            "total_episodes": "10"
+        },
+        {
+            "name": "Hình Phạt Vì Yêu Em",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260416-1/c0ddec0dcd021f43bfeda4f331177dd2.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260416-1/18270e9517eb33fa07130dfdb196603c.jpg",
+            "slug": "hinh-phat-vi-yeu-em",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 1",
+            "total_episodes": "19"
+        },
+        {
+            "name": "Thử Thách Thần Tượng Thái Lan",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260415-1/ab9cc9c4f324dcb664e032378b6581f5.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260415-1/eab53b6ea12ca48af74d07be409430f8.jpg",
+            "slug": "thu-thach-than-tuong-thai-lan",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "10"
+        },
+        {
+            "name": "Tình Yêu Đích Thực Sau Khi Cưới (Chân Tình Sau Cưới)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260205-1/e3e53c43db70b1e3544a6262b291d02b.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260205-1/3ff78f2b631d5d8aaf7c891486b67bd8.jpg",
+            "slug": "tinh-yeu-dich-thuc-sau-khi-cuoi-chan-tinh-sau-cuoi",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 11",
+            "total_episodes": "12"
+        },
+        {
+            "name": "The Face Men 4",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260404-1/0de8543ae57541263a2c240fa35e26a8.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260404-1/2cc9884e35dcf16137d4a02450eb7404.jpg",
+            "slug": "the-face-men-4",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "8"
+        },
+        {
+            "name": "Tình Yêu Bọ Xít",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260203-1/610ef761198897ffbf87df213991bb66.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260203-1/4f012b3b1425ea6f159faeede915d199.jpg",
+            "slug": "tinh-yeu-bo-xit",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 11",
+            "total_episodes": "12"
+        },
+        {
+            "name": "Người Yêu Miền Quê",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260407-1/1dcc5617ab314f874e49844c210e96f6.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260407-1/dad52d55fc16488e0a5b223aab03fe71.jpg",
+            "slug": "nguoi-yeu-mien-que",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "8"
+        },
+        {
+            "name": "Duyên Kiếp Bên Người",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260330-1/2fc516104f83e29a4922b9e6b8085293.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260330-1/317afc1b759d35308ed20ce62a990f1a.jpg",
+            "slug": "duyen-kiep-ben-nguoi",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 3",
+            "total_episodes": "12"
+        },
+        {
+            "name": "Dòng Sông Mưu Mẹo",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260323-1/08980cac09ceebc2f7e3e5ac77c8e612.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260323-1/bd347dcb38ff8dc21f27d6e3696721eb.jpg",
+            "slug": "dong-song-muu-meo",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "8"
+        }
+    ],
+    "thai_lan_le": [],
+    "viet_nam_le": [],
+    "trung_quoc_le": [],
+    "au_my_bo": [
+        {
+            "name": "Daredevil: Tái Xuất (Phần 2)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260325-1/4ba73b9444858633f1592a417fa2c0dc.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260325-1/7268bfab7c97370dad7a07d1c93ff834.jpg",
+            "slug": "daredevil-tai-xuat-phan-2",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 5",
+            "total_episodes": "9"
+        },
+        {
+            "name": "Bất Khả Chiến Bại (Phần 4)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260322-1/6a1253cfac6b7498aa2e14e335addd6b.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260322-1/070b9d4fa73fa1fc799a0bcdfede7f4d.jpg",
+            "slug": "bat-kha-chien-bai-phan-4",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 7",
+            "total_episodes": "8"
+        }
+    ],
     "han_quoc_le": [
         {
             "name": "Tình Báo Con Người",
@@ -12,124 +136,165 @@
             "sub_type": "Thuyết Minh",
             "current_episode": "Full",
             "total_episodes": "1"
-        },
-        {
-            "name": "Project Y: Gái Ngoan Đổi Đời",
-            "year": 2026,
-            "thumb": "https://phimimg.com/upload/vod/20260318-1/ed2843ccbd0785dc0d55d9b85c27c636.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260318-1/8545339897a3469172ad61ba0a43ee75.jpg",
-            "slug": "project-y-gai-ngoan-doi-doi",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1"
         }
     ],
-    "trung_quoc_le": [
+    "trung_quoc_bo": [
         {
-            "name": "Truyền Thuyết Linh Tinh (Linh Tinh Truyện)",
+            "name": "Thái Bình Niên",
             "year": 2026,
-            "thumb": "https://phimimg.com/upload/vod/20260409-1/95a669c077e681e2317ecf6e9ed6b3d7.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260409-1/8747b92390dfae3a02f753124da724e9.jpg",
-            "slug": "truyen-thuyet-linh-tinh-linh-tinh-truyen",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1"
-        },
-        {
-            "name": "Đao Quang Kiếm Ảnh",
-            "year": 2026,
-            "thumb": "https://phimimg.com/upload/vod/20260409-1/52f56762b75b2e6b5add813133119677.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260409-1/1d116ef17489a82d578bfefdbe7db2d5.jpg",
-            "slug": "dao-quang-kiem-anh",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1"
-        },
-        {
-            "name": "Tình Quan",
-            "year": 2026,
-            "thumb": "https://phimimg.com/upload/vod/20260402-1/dddec363606390bf4c91d661fd445490.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260402-1/7bd5cd7710774a0f550c2b479fa84ed8.jpg",
-            "slug": "tinh-quan",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1"
-        },
-        {
-            "name": "Sứ Mệnh Trừ Độc",
-            "year": 2026,
-            "thumb": "https://phimimg.com/upload/vod/20260402-1/d50913aa0a6c21ea5538c1d216d75dc8.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260402-1/3b63f204e8db70745f2816619a26422a.jpg",
-            "slug": "su-menh-tru-doc",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1"
-        },
-        {
-            "name": "Già Thiên Movie: Vác Quan Tài Chiến Vương Đằng",
-            "year": 2026,
-            "thumb": "https://phimimg.com/upload/vod/20260404-1/df10006f21897c413d78a6ba88206231.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260404-1/0dc0e027ba14407627ecdff3b7ac8644.jpg",
-            "slug": "gia-thien-movie-vac-quan-tai-chien-vuong-dang",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1"
-        },
-        {
-            "name": "Đèn Dẫn Hồn 2",
-            "year": 2026,
-            "thumb": "https://phimimg.com/upload/vod/20260402-1/d8a8dcb708ce96b52f6885f8c078ff42.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260402-1/455bdf1f70c606b0585721cd4a92eaff.jpg",
-            "slug": "den-dan-hon-2",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1"
-        },
-        {
-            "name": "Cổ Kiếm Kỳ Đàm: Cầm Tâm Kiếm Phách",
-            "year": 2026,
-            "thumb": "https://phimimg.com/upload/vod/20260402-1/702c77d0c8659aa4d0daef95ae5847a0.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260402-1/da31a42486651e2c7831f72c3b515d66.jpg",
-            "slug": "co-kiem-ky-dam-cam-tam-kiem-phach",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1"
-        },
-        {
-            "name": "Liều Mạng Trốn Chạy",
-            "year": 2026,
-            "thumb": "",
-            "poster": "https://phimimg.com/upload/vod/20260326-1/6b45ea22d6c92a16f519ba168d47fb44.jpg",
-            "slug": "lieu-mang-tron-chay",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1"
-        },
-        {
-            "name": "Đột Phá Vòng Vây",
-            "year": 2025,
-            "thumb": "https://phimimg.com/upload/vod/20250704-1/d131ddef6bcde78502660abff391362a.jpg",
-            "poster": "https://phimimg.com/upload/vod/20250704-1/1114df097df2822e0fe9a55bc6303ea0.jpg",
-            "slug": "dot-pha-vong-vay",
+            "thumb": "https://phimimg.com/upload/vod/20260124-1/0be72950d217cc243d213c4b9f91df7f.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260124-1/230377b369c8b86013a47bfa8599b9e1.jpg",
+            "slug": "thai-binh-nien",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1"
+            "current_episode": "Hoàn Tất (48/48)",
+            "total_episodes": "48"
         },
         {
-            "name": "Bảo Vệ Đặc Biệt",
+            "name": "Tám Nghìn Dặm Đường Mây Và Trăng",
             "year": 2026,
-            "thumb": "https://phimimg.com/upload/vod/20260320-1/5bc5c8d87392d465bdf4f4d0f1324c22.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260320-1/c3b8ed5432ccdf55e14e177cd66aea3d.jpg",
-            "slug": "bao-ve-dac-biet",
+            "thumb": "https://phimimg.com/upload/vod/20260411-1/6675afdbb380e65c1425bbc8b5c79947.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260411-1/25080e45410b1d8aae29adc7c6d3c136.jpg",
+            "slug": "tam-nghin-dam-duong-may-va-trang",
             "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1"
+            "current_episode": "Tập 18",
+            "total_episodes": "40"
+        },
+        {
+            "name": "Nguyệt Lân Ỷ Kỷ",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260401-1/eedf100eab6203b36b0cc7c1fec5eddc.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260401-1/adc0e8e7f7694ee4596df33805c6e5d2.jpg",
+            "slug": "nguyet-lan-y-ky",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 24",
+            "total_episodes": "29"
+        },
+        {
+            "name": "Thất Cốt",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260406-1/006c787040ecee174297dd4b6b89d7b6.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260406-1/192e03eeb8aa33f9be31ca5524d0810c.jpg",
+            "slug": "that-cot",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 21",
+            "total_episodes": "24"
+        },
+        {
+            "name": "Chị Đẹp Đạp Gió 2026",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260408-1/a79d07e1ea72e04391eec886fa04e736.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260408-1/f38fdd69f3add352de03cb15478d83cf.jpg",
+            "slug": "chi-dep-dap-gio-2026",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2B",
+            "total_episodes": "244"
+        },
+        {
+            "name": "Sưu Thần Ký",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260325-1/98023650a08afba1c2697bb8cdb441a5.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260325-1/18e0ca05e3053f41ad19342b0b78a2b3.jpg",
+            "slug": "suu-than-ky",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "18"
+        },
+        {
+            "name": "Mật Ngữ Kỷ",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260414-1/ede3ec4c1b60ff630886057ae59c7afd.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260414-1/b3dd5a4774a86dbf9c39e3de6881289a.jpg",
+            "slug": "mat-ngu-ky",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "38"
         }
     ],
-    "viet_nam_le": [],
-    "thai_lan_le": [],
-    "han_quoc_bo": [],
-    "trung_quoc_bo": [],
-    "thai_lan_bo": [],
-    "au_my_bo": []
+    "han_quoc_bo": [
+        {
+            "name": "Mùa Rực Rỡ Của Em (Mùa Em Rực Rỡ)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260223-1/62667ee973537d0636ed2105c1d16dcc.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260223-1/8a44c515d71551459012656dfccf6e31.jpg",
+            "slug": "mua-ruc-ro-cua-em-mua-em-ruc-ro",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (12/12)",
+            "total_episodes": "12"
+        },
+        {
+            "name": "Cực Hạn",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260317-1/a1b772bb127660d04caec55e9e078aae.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260317-1/a48394f3e66faf31b648658324ef3381.jpg",
+            "slug": "cuc-han",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (10/10)",
+            "total_episodes": "10"
+        },
+        {
+            "name": "Lớp Học Của Tae Ri",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260309-1/616597d9e87019a72fe6aa71d9a69d15.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260309-1/37f25717bf68f8dbe17fe60f8225d06f.jpg",
+            "slug": "lop-hoc-cua-tae-ri",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "10"
+        },
+        {
+            "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260411-1/e6bb5b889cf566a8851149e472bd9a0e.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260411-1/19fba2a3671a42514f6506f9d5d3534a.jpg",
+            "slug": "phu-nhan-dai-quan-the-ky-21",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "12"
+        },
+        {
+            "name": "Tin Đồn Tình Yêu",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260411-1/80b7946e133c587e98b4461d540d1f80.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260411-1/914298f15e5b27d9381fca76d7c0834d.jpg",
+            "slug": "tin-don-tinh-yeu",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "10"
+        },
+        {
+            "name": "Luật Sư Bóng Ma (Văn Phòng Luật Sư Shin I Rang)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260314-1/8d048e1956a9a918f4c58ce087d00105.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260314-1/3c0e3fe8e9dcfacb2ac5ff882a3b6af9.jpg",
+            "slug": "luat-su-bong-ma-van-phong-luat-su-shin-i-rang",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 10",
+            "total_episodes": "16"
+        }
+    ],
+    "hh_trung_quoc": [
+        {
+            "name": "Sưu Thần Ký",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260325-1/98023650a08afba1c2697bb8cdb441a5.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260325-1/18e0ca05e3053f41ad19342b0b78a2b3.jpg",
+            "slug": "suu-than-ky",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "18"
+        }
+    ],
+    "anime_movie": [],
+    "anime_nhat": [
+        {
+            "name": "Nữ Vương Trùm Cuối Cùng Hung Cực Ác Sẽ Dốc Sức Vì Người Dân (Phần 2)",
+            "year": 2026,
+            "thumb": "https://phimimg.com/upload/vod/20260415-1/7ba5f25dfed689511b68e27a33b83c0a.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260415-1/afbf9cf3edf9d21a9990282099bab6ec.jpg",
+            "slug": "nu-vuong-trum-cuoi-cung-hung-cuc-ac-se-doc-suc-vi-nguoi-dan-phan-2",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "12"
+        }
+    ]
 }
