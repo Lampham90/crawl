@@ -182,190 +182,22 @@
             "lang_raw": "Vietsub"
         }
     ],
-    "anime_movie": [],
-    "anime_nhat": [],
-    "hh_trung_quoc": [
+    "anime_movie": [
         {
-            "name": "Tiên Kiếm Kỳ Hiệp Truyện 3",
-            "year": 2025,
-            "slug": "tien-kiem-ky-hiep-truyen-3",
-            "thumb": "https://phimimg.com/upload/vod/20251230-1/868ae9dcda90a490b619fb5cddfb166c.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251230-1/369d8444034098215ab537a4bd859582.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 18",
-            "total_episodes": "26",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Quang Âm Chi Ngoại",
-            "year": 2025,
-            "slug": "quang-am-chi-ngoai",
-            "thumb": "https://phimimg.com/upload/vod/20251229-1/fce1ee8b2fe5ee1e48e670ddf1417ee8.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251229-1/d7f24b91fd95fb7cf353e1369e2318b7.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 17",
-            "total_episodes": "26",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Kiếm Lai (Phần 2)",
-            "year": 2025,
-            "slug": "kiem-lai-phan-2",
-            "thumb": "https://phimimg.com/upload/vod/20251226-1/9045124c0428d6bce416e9a37e969a53.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251226-1/08023551b828aed0a2ec631575945f5d.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 18",
-            "total_episodes": "26",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Tu La Võ Thần (Phần 2)",
-            "year": 2025,
-            "slug": "tu-la-vo-than-phan-2",
-            "thumb": "https://phimimg.com/upload/vod/20260310-1/5c50ef5c9bcb92a52d4665015fa59649.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260310-1/5b56e675bd0548eb2de184a0c3e139f3.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (16/16)",
-            "total_episodes": "16",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Thiên Tướng",
-            "year": 2025,
-            "slug": "thien-tuong",
-            "thumb": "https://phimimg.com/upload/vod/20251016-1/2a923fb8548dce03226efe8829acbf0e.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251016-1/c967089ca411a66fe76ef9f47090a34d.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (26/26)",
-            "total_episodes": "26",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Mật Mã Sơn Hải Kinh",
-            "year": 2025,
-            "slug": "mat-ma-son-hai-kinh",
-            "thumb": "https://phimimg.com/upload/vod/20251227-1/7b15f609a33bc18894e805af8090252b.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251227-1/742d098275e824287307f2dcfb1605ff.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 13",
-            "total_episodes": "13",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Tiến Hóa Siêu Phàm",
-            "year": 2025,
-            "slug": "tien-hoa-sieu-pham",
-            "thumb": "https://phimimg.com/upload/vod/20251223-1/fb516e49ce04c07dd7a996ead6c8552f.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251223-1/56636bf7b2da2f80332ff4db6e9e0c95.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 14",
-            "total_episodes": "14",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Tử Cấm Ngự Miêu Phòng",
-            "year": 2025,
-            "slug": "tu-cam-ngu-mieu-phong",
-            "thumb": "https://phimimg.com/upload/vod/20251221-1/b267c7b58d2e1bcb4621d0972d46bd90.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251221-1/50d393dd4701de0d722bae33ff0fe8bd.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (16/16)",
-            "total_episodes": "16",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Đại Đường Thừa Phong Lục",
-            "year": 2025,
-            "slug": "dai-duong-thua-phong-luc",
-            "thumb": "https://phimimg.com/upload/vod/20251009-1/137248e69dac83158d98343551c96f1c.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251009-1/cb26aaba629c262c548b24e81d9e05e5.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 26",
-            "total_episodes": "26",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Nhật Ký Thường Ngày Của Tiên Vương (Phần 5)",
-            "year": 2025,
-            "slug": "nhat-ky-thuong-ngay-cua-tien-vuong-phan-5",
-            "thumb": "https://phimimg.com/upload/vod/20251215-1/46624dc958de19ab73572a41420a9475.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251215-1/cafdf1486379c365b3bfefec4440c10e.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 12",
-            "total_episodes": "12",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Ba Đường Luân Hồi",
-            "year": 2025,
-            "slug": "ba-duong-luan-hoi",
-            "thumb": "https://phimimg.com/upload/vod/20251207-1/d360d7630f92c0b4e106f6fd3f162b3f.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251207-1/c4bba4c2126eb72d88a6f538bb85b265.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (18/18)",
-            "total_episodes": "18",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Tử Xuyên (Phần 2)",
-            "year": 2025,
-            "slug": "tu-xuyen-phan-2",
-            "thumb": "https://phimimg.com/upload/vod/20250813-1/073c45e99877cd52574b86cc3c0baba1.jpg",
-            "poster": "https://phimimg.com/upload/vod/20250813-1/f4d31a926b46f7bfd809527d9df711ae.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 40",
-            "total_episodes": "52",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Ta Ở Thiên Đình Thu Phế Phẩm (Tôi Thu Mua Phế Liệu Ở Thiên Đình)",
-            "year": 2025,
-            "slug": "ta-o-thien-dinh-thu-phe-pham-toi-thu-mua-phe-lieu-o-thien-dinh",
-            "thumb": "https://phimimg.com/upload/vod/20250928-1/0bd472f83f52bc4fddc60af748681252.jpg",
-            "poster": "https://phimimg.com/upload/vod/20250928-1/fc897b8d00a63c3a24f65f279424298e.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (40/40)",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Ngạo Thế Đan Thần",
-            "year": 2025,
-            "slug": "ngao-the-dan-than",
-            "thumb": "https://phimimg.com/upload/vod/20251211-1/080116ae369c3b088d3d3992b232682b.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251211-1/2a40b5cf98c8efe66ac8dd89684f6d56.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (12/12)",
-            "total_episodes": "12",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Hoang Cổ Ân Cừu Lục: Phá Phong",
-            "year": 2025,
-            "slug": "hoang-co-an-cuu-luc-pha-phong",
-            "thumb": "https://phimimg.com/upload/vod/20250930-1/f11f0b3e77f2bbd6bdbc29ee75a8eaae.jpg",
-            "poster": "https://phimimg.com/upload/vod/20250930-1/b152d95b7f11513dd9194f0da3290cb2.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 40",
-            "total_episodes": "80",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub"
+            "name": "Hoppers: Cú Nhảy Kỳ Diệu",
+            "year": 2026,
+            "slug": "hoppers-cu-nhay-ky-dieu",
+            "thumb": "https://phimimg.com/upload/vod/20260330-1/91d30de8c46d4b24ad2987c54376d54d.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260330-1/d8c96083ab5b6d8a2a3e1fdafc9d0bc0.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "lang_raw": "Vietsub + Lồng Tiếng"
         }
     ],
+    "anime_nhat": [],
+    "hh_trung_quoc": [],
     "le_vn": [],
     "bo_vn": [],
     "le_han": [],
@@ -376,7 +208,20 @@
     "bo_au_my": [],
     "le_thai": [],
     "bo_thai": [],
-    "long_tieng": [],
+    "long_tieng": [
+        {
+            "name": "Hoppers: Cú Nhảy Kỳ Diệu",
+            "year": 2026,
+            "slug": "hoppers-cu-nhay-ky-dieu",
+            "thumb": "https://phimimg.com/upload/vod/20260330-1/91d30de8c46d4b24ad2987c54376d54d.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260330-1/d8c96083ab5b6d8a2a3e1fdafc9d0bc0.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "lang_raw": "Vietsub + Lồng Tiếng"
+        }
+    ],
     "thuyet_minh": [
         {
             "name": "Tiếng Thét 7",
@@ -448,42 +293,6 @@
             "current_episode": "Full",
             "total_episodes": "1",
             "country": "Trung Quốc",
-            "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Kiếm Lai (Phần 2)",
-            "year": 2025,
-            "slug": "kiem-lai-phan-2",
-            "thumb": "https://phimimg.com/upload/vod/20251226-1/9045124c0428d6bce416e9a37e969a53.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251226-1/08023551b828aed0a2ec631575945f5d.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 18",
-            "total_episodes": "26",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Tu La Võ Thần (Phần 2)",
-            "year": 2025,
-            "slug": "tu-la-vo-than-phan-2",
-            "thumb": "https://phimimg.com/upload/vod/20260310-1/5c50ef5c9bcb92a52d4665015fa59649.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260310-1/5b56e675bd0548eb2de184a0c3e139f3.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (16/16)",
-            "total_episodes": "16",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Tử Xuyên (Phần 2)",
-            "year": 2025,
-            "slug": "tu-xuyen-phan-2",
-            "thumb": "https://phimimg.com/upload/vod/20250813-1/073c45e99877cd52574b86cc3c0baba1.jpg",
-            "poster": "https://phimimg.com/upload/vod/20250813-1/f4d31a926b46f7bfd809527d9df711ae.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 40",
-            "total_episodes": "52",
-            "country": "Trung Quốc",
             "lang_raw": "Vietsub + Thuyết Minh"
         }
     ]
