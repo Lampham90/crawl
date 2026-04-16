@@ -4,33 +4,33 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api"
-YEARS = [2026, 2025]
+# Thêm 2024 để đảm bảo mục nào cũng có phim
+YEARS = [2026, 2025, 2024] 
 TARGET_COUNT = 15
-MAX_WORKERS = 10 # Số luồng chạy cùng lúc, để 10 là vừa đẹp không sợ bị khóa IP
+MAX_WORKERS = 15 # Tăng luồng lên cho máu
 
 def get_data(url, params=None):
     headers = {"User-Agent": "Mozilla/5.0"}
     try:
         res = requests.get(url, params=params, timeout=10)
-        if res.status_code == 200:
-            return res.json()
-    except:
-        pass
+        if res.status_code == 200: return res.json()
+    except: pass
     return None
 
 def fetch_detail(slug):
-    """Hàm bổ trợ để lấy chi tiết 1 bộ phim (Dùng cho đa luồng)"""
     return get_data(f"https://phimapi.com/phim/{slug}")
 
 def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None):
     results = []
-    seen_slugs = set()
+    # seen_slugs ĐỂ TRONG NÀY: Để phim giữa các danh mục lớn không cắn nhau
+    local_seen = set() 
     print(f"\n[Săn tìm] {target_name}...")
     
     for year in YEARS:
         if len(results) >= TARGET_COUNT: break
         
-        for page in range(1, 11): # Quét 20 trang đầu
+        # Quét sâu tới trang 10 để vét bằng hết
+        for page in range(1, 11): 
             if len(results) >= TARGET_COUNT: break
             
             url = f"{BASE_URL}/danh-sach/{endpoint}?year={year}&page={page}&limit=64"
@@ -40,9 +40,10 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
                 break
                 
             items = data['data']['items']
-            slugs_to_fetch = [item['slug'] for item in items if item['slug'] not in seen_slugs]
+            slugs_to_fetch = [item['slug'] for item in items if item['slug'] not in local_seen]
 
-            # --- SỬ DỤNG ĐA LUỒNG ĐỂ LẤY CHI TIẾT PHIM ---
+            if not slugs_to_fetch: continue
+
             with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
                 details = list(executor.map(fetch_detail, slugs_to_fetch))
 
@@ -52,7 +53,6 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
                 
                 m = detail['movie']
                 countries = [c.get('name') for c in m.get('country', [])]
-                
                 ep_total_val = str(m.get('episode_total', '1'))
                 status = str(m.get('episode_current', '')).lower()
                 is_movie = (ep_total_val == "1" or "full" in status)
@@ -63,26 +63,22 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
                 if is_movie_logic is False and is_movie: match_type = False
 
                 if match_country and match_type:
-                    lang_raw = str(m.get('lang', ''))
-                    sub_display = "Vietsub"
-                    if "Lồng Tiếng" in lang_raw: sub_display = "Lồng Tiếng"
-                    elif "Thuyết Minh" in lang_raw: sub_display = "Thuyết Minh"
-
                     results.append({
                         "name": m.get('name'),
                         "year": m.get('year'),
                         "slug": m.get('slug'),
                         "thumb": m.get('thumb_url'),
                         "poster": m.get('poster_url'),
-                        "sub_type": sub_display,
+                        "sub_type": "Lồng Tiếng" if "Lồng Tiếng" in str(m.get('lang')) else ("Thuyết Minh" if "Thuyết Minh" in str(m.get('lang')) else "Vietsub"),
                         "current_episode": m.get('episode_current', 'Full'),
-                        "total_episodes": ep_total_val, # Thêm vào info như m yêu cầu
+                        "total_episodes": ep_total_val,
                         "country": countries[0] if countries else "",
-                        "lang_raw": lang_raw
+                        "lang_raw": str(m.get('lang', ''))
                     })
-                    seen_slugs.add(m.get('slug'))
+                    local_seen.add(m.get('slug'))
             
-            print(f"  + Hoàn thành quét trang {page} - Đang có: {len(results)}/{TARGET_COUNT}")
+            if len(results) > 0:
+                print(f"  + Trang {page} ({year}): {len(results)}/{TARGET_COUNT}")
             
     return results
 
@@ -90,28 +86,19 @@ def main():
     start_time = time.time()
     final_data = {}
 
-    # 1. Nhóm Đặc biệt
-    final_data["phim_moi"] = fetch_final("Phim Mới Cập Nhật", "phim-moi-cap-nhat")
-    final_data["chieu_rap"] = fetch_final("Phim Chiếu Rạp", "phim-le", is_movie_logic=True)
-
-    # 2. Nhóm Hoạt hình
+    # Chạy lần lượt các danh mục
+    final_data["phim_moi"] = fetch_final("Phim Mới", "phim-moi-cap-nhat")
+    final_data["chieu_rap"] = fetch_final("Chiếu Rạp", "phim-le", is_movie_logic=True)
     final_data["anime_movie"] = fetch_final("Anime Movie", "hoat-hinh", is_movie_logic=True)
     final_data["anime_nhat"] = fetch_final("Anime Nhật", "hoat-hinh", country_target="Nhật Bản", is_movie_logic=False)
     final_data["hh_trung_quoc"] = fetch_final("HH Trung Quốc", "hoat-hinh", country_target="Trung Quốc", is_movie_logic=False)
 
-    # 3. Nhóm Quốc gia
-    mapping = [
-        ("Việt Nam", "vn"), ("Hàn Quốc", "han"), ("Trung Quốc", "trung"), 
-        ("Âu Mỹ", "au_my"), ("Thái Lan", "thai")
-    ]
+    mapping = [("Việt Nam", "vn"), ("Hàn Quốc", "han"), ("Trung Quốc", "trung"), ("Âu Mỹ", "au_my"), ("Thái Lan", "thai")]
     for c_name, c_key in mapping:
         final_data[f"le_{c_key}"] = fetch_final(f"Lẻ {c_name}", "phim-le", country_target=c_name, is_movie_logic=True)
         final_data[f"bo_{c_key}"] = fetch_final(f"Bộ {c_name}", "phim-bo", country_target=c_name, is_movie_logic=False)
 
-    # 4. Top 10 & Sub/Dub pool
-    final_data["top_10_bo"] = (final_data.get("bo_trung", [])[:4] + final_data.get("bo_han", [])[:3] + 
-                               final_data.get("bo_au_my", [])[:2] + final_data.get("bo_thai", [])[:1])
-
+    # Tổng hợp Top 10 & Lang pool
     all_pool = []
     for v in final_data.values():
         if isinstance(v, list): all_pool.extend(v)
@@ -123,8 +110,7 @@ def main():
     with open("data_2026_perfect.json", "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
     
-    end_time = time.time()
-    print(f"\n[XONG] Tổng thời gian chạy: {int(end_time - start_time)} giây.")
+    print(f"\n[XONG] Thời gian: {int(time.time() - start_time)}s. Check file ngay ní!")
 
 if __name__ == "__main__":
     main()
