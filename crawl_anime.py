@@ -20,73 +20,67 @@ def fetch_detail(slug):
     return get_data(f"https://phimapi.com/phim/{slug}")
 
 def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None):
-    results = []
+    all_potential_movies = [] # Chứa tất cả phim tìm được trước khi lọc
     local_seen = set() 
     print(f"\n[Săn tìm] {target_name}...")
     
-    # FIX: Nếu là 'phim-chieu-rap' thì API thực tế vẫn là 'phim-le'
     api_path = "phim-le" if endpoint == "phim-chieu-rap" else endpoint
 
+    # Bước 1: Thu thập slug từ TẤT CẢ các năm trước
+    all_slugs = []
     for year in YEARS:
-        if len(results) >= TARGET_COUNT: break
-        
-        for page in range(1, 11): # Quét sâu 10 trang để đảm bảo CÓ phim
-            if len(results) >= TARGET_COUNT: break
-            
+        for page in range(1, 4): # Quét 3 trang đầu mỗi năm để lấy slug
             url = f"{BASE_URL}/danh-sach/{api_path}"
             params = {"year": year, "page": page, "limit": 64}
             data = get_data(url, params)
+            if data and 'data' in data:
+                items = data['data'].get('items', [])
+                all_slugs.extend([it['slug'] for it in items if it['slug'] not in local_seen])
+                for it in items: local_seen.add(it['slug'])
+
+    # Bước 2: Lấy chi tiết đa luồng cho đống slug vừa tìm được
+    if not all_slugs: return []
+    
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        details = list(executor.map(fetch_detail, all_slugs))
+
+    # Bước 3: Lọc và ƯU TIÊN NĂM CAO NHẤT
+    valid_movies = []
+    for detail in details:
+        if not detail or 'movie' not in detail: continue
+        m = detail['movie']
+        
+        # Logic lọc quốc gia & loại phim (giữ nguyên như cũ)
+        countries = [c.get('name') for c in m.get('country', [])]
+        m_type = m.get('type', '')
+        ep_total_val = str(m.get('episode_total', '1'))
+        is_movie = (m_type == 'single' or ep_total_val == "1")
+
+        if (not country_target or country_target in countries) and \
+           (is_movie_logic is None or is_movie == is_movie_logic):
             
-            if not data or 'data' not in data or not data['data'].get('items'): break
-                
-            items = data['data']['items']
-            slugs_to_fetch = [item['slug'] for item in items if item['slug'] not in local_seen]
-            if not slugs_to_fetch: continue
+            lang = str(m.get('lang', ''))
+            valid_movies.append({
+                "name": m.get('name'),
+                "year": int(m.get('year', 0)), # Chuyển về int để sort
+                "slug": m.get('slug'),
+                "thumb": m.get('thumb_url'),
+                "poster": m.get('poster_url'),
+                "sub_type": "Lồng Tiếng" if "Lồng Tiếng" in lang else ("Thuyết Minh" if "Thuyết Minh" in lang else "Vietsub"),
+                "current_episode": m.get('episode_current', 'Full'),
+                "total_episodes": ep_total_val,
+                "country": countries[0] if countries else "",
+                "lang_raw": lang
+            })
 
-            with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-                details = list(executor.map(fetch_detail, slugs_to_fetch))
-
-            for detail in details:
-                if len(results) >= TARGET_COUNT: break
-                if not detail or 'movie' not in detail: continue
-                
-                m = detail['movie']
-                countries = [c.get('name') for c in m.get('country', [])]
-                
-                # Logic phân loại Lẻ/Bộ
-                m_type = m.get('type', '')
-                ep_total_val = str(m.get('episode_total', '1'))
-                # Phim lẻ là type single HOẶC chỉ có 1 tập
-                is_movie = (m_type == 'single' or ep_total_val == "1")
-
-                match_country = True if not country_target else (country_target in countries)
-                match_type = True
-                if is_movie_logic is True and not is_movie: match_type = False
-                if is_movie_logic is False and is_movie: match_type = False
-
-                if match_country and match_type:
-                    lang = str(m.get('lang', ''))
-                    sub_display = "Lồng Tiếng" if "Lồng Tiếng" in lang else ("Thuyết Minh" if "Thuyết Minh" in lang else "Vietsub")
-                    
-                    results.append({
-                        "name": m.get('name'),
-                        "year": m.get('year'),
-                        "slug": m.get('slug'),
-                        "thumb": m.get('thumb_url'),
-                        "poster": m.get('poster_url'),
-                        "sub_type": sub_display,
-                        "current_episode": m.get('episode_current', 'Full'),
-                        "total_episodes": ep_total_val,
-                        "country": countries[0] if countries else "",
-                        "lang_raw": lang
-                    })
-                    local_seen.add(m.get('slug'))
-            
-            time.sleep(0.3) 
-            if len(results) > 0:
-                print(f"  + {year} - Trang {page}: {len(results)}/{TARGET_COUNT}")
-                
-    return results
+    # Bước 4: Sắp xếp theo năm giảm dần (2026 -> 2025 -> 2024)
+    valid_movies.sort(key=lambda x: x['year'], reverse=True)
+    
+    # Bước 5: Lấy đúng 15 con đầu bảng
+    final_selection = valid_movies[:TARGET_COUNT]
+    print(f"  + Tổng kết: Lấy được {len(final_selection)} phim (Ưu tiên năm mới nhất)")
+    
+    return final_selection
 
 def main():
     start_time = time.time()
