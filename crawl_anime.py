@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor
 BASE_URL = "https://phimapi.com/v1/api"
 YEARS = [2026, 2025, 2024] 
 TARGET_COUNT = 15
-MAX_WORKERS = 5
+MAX_WORKERS = 10
 
 def get_data(url, params=None):
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
