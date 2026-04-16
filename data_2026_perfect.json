@@ -2,6 +2,42 @@
     "phim_moi": [],
     "chieu_rap": [
         {
+            "name": "Quỷ dữ",
+            "year": 2026,
+            "slug": "quy-du-2026",
+            "thumb": "https://phimimg.com/upload/vod/20260312-1/412204d03063c993a1b725f6da9a4f66.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260312-1/992ae96f87cb0c540c6e2159f3280879.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Úc",
+            "lang_raw": "Vietsub"
+        },
+        {
+            "name": "tần số ngầm",
+            "year": 2026,
+            "slug": "tan-so-ngam",
+            "thumb": "https://phimimg.com/upload/vod/20260416-1/b3f8c3248fd102cac5ddfa1ee5d13745.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260416-1/55237a39087e4a44cc9cbc5c44a25ab2.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Canada",
+            "lang_raw": "Vietsub"
+        },
+        {
+            "name": "Máy nướng bánh",
+            "year": 2026,
+            "slug": "may-nuong-banh",
+            "thumb": "https://phimimg.com/upload/vod/20260416-1/78ea5820ef97f0fbabb0ca5445b65a90.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260416-1/3ca803f8d3d9281d845f2d261bb0332f.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Ấn Độ",
+            "lang_raw": "Vietsub"
+        },
+        {
             "name": "Bí mật giới thể thao: Portland Trail Blazers",
             "year": 2026,
             "slug": "bi-mat-gioi-the-thao-portland-trail-blazers",
@@ -144,42 +180,6 @@
             "total_episodes": "1",
             "country": "Âu Mỹ",
             "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Mrithyunjay",
-            "year": 2026,
-            "slug": "mrithyunjay",
-            "thumb": "https://phimimg.com/upload/vod/20260413-1/867ebc14106c1e0b20ae685f03f9ac35.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260413-1/96ac27d4582573df513df8e17b3b3a76.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Ấn Độ",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Theo Dấu Tội Ác",
-            "year": 2026,
-            "slug": "theo-dau-toi-ac",
-            "thumb": "https://phimimg.com/upload/vod/20260410-1/a2a4aa808ad1e6af220eb525bd2ee13f.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260410-1/895471e7964fe16464d58b0c662172de.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Sát Nhân Giấu Mặt: Chương 3",
-            "year": 2026,
-            "slug": "sat-nhan-giau-mat-chuong-3",
-            "thumb": "https://phimimg.com/upload/vod/20260413-1/1ed2158d188345ca1d9697786946a184.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260413-1/19be01aba2e20bfc66943ad1dc0e9e2f.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Anh",
-            "lang_raw": "Vietsub"
         }
     ],
     "anime_movie": [
@@ -206,114 +206,6 @@
             "total_episodes": "1",
             "country": "Âu Mỹ",
             "lang_raw": "Vietsub + Lồng Tiếng"
-        },
-        {
-            "name": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
-            "year": 2026,
-            "slug": "tuyen-thu-de-mui-vi-chien-thang",
-            "thumb": "https://phimimg.com/upload/vod/20260325-1/57000b826e67c1db2727e310aec0b004.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260325-1/1f5f942c1627deb2064d8be37d172855.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Kaguya: Công Chúa Vũ Trụ!",
-            "year": 2026,
-            "slug": "kaguya-cong-chua-vu-tru",
-            "thumb": "https://phimimg.com/upload/vod/20260122-1/7eabb2d3cf4f6e8d2216f6cb67d1ee51.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260122-1/04e6b18a66ac7116d54146be5bcc7f6e.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Nhật Bản",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Cô Gái Cơ Khí",
-            "year": 2025,
-            "slug": "co-gai-co-khi",
-            "thumb": "https://phimimg.com/upload/vod/20260329-1/a2e6bac24f6037fca9c62ad0ee9a4921.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260329-1/371ac116f4e204c5897a079d471462a8.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Nhật Bản",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Cô Bé Amélie Và Tính Cách Của Mưa",
-            "year": 2025,
-            "slug": "co-be-amelie-va-tinh-cach-cua-mua",
-            "thumb": "https://phimimg.com/upload/vod/20260312-1/7319aff42a64df9474fe4be0cdba170c.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260312-1/3f5aa77ed6ed7b8fc4b65b0d30de5d2a.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Pháp",
-            "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Vua Của Những Vị Vua (Vua Của Các Vua)",
-            "year": 2025,
-            "slug": "vua-cua-nhung-vi-vua-vua-cua-cac-vua",
-            "thumb": "https://phimimg.com/upload/vod/20250708-1/8dd3eeb5d1ebb5d45fce1b2ec27bf166.jpg",
-            "poster": "https://phimimg.com/upload/vod/20250708-1/89473a8b979b437b2b176d539c894622.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Hàn Quốc",
-            "lang_raw": "Vietsub + Thuyết Minh + Lồng Tiếng"
-        },
-        {
-            "name": "Phi Vụ Động Trời 2",
-            "year": 2025,
-            "slug": "phi-vu-dong-troi-2",
-            "thumb": "https://phimimg.com/upload/vod/20251223-1/7154384c306c73664e46942f2477e574.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251223-1/6bc1d549b86e490274d93bab66a3654d.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Hầu Gái Rồng Nhà Kobayashi: Rồng Cô Đơn Muốn Được Yêu Thương",
-            "year": 2025,
-            "slug": "hau-gai-rong-nha-kobayashi-rong-co-don-muon-duoc-yeu-thuong",
-            "thumb": "https://phimimg.com/upload/vod/20260121-1/f056db01b6e21dc110cb7c1f6371d545.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260121-1/3a3376ee5dfe04ed54ed3693bb9e6177.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Nhật Bản",
-            "lang_raw": "Vietsub"
-        },
-        {
-            "name": "Cô Bé Chiến Binh",
-            "year": 2025,
-            "slug": "co-be-chien-binh",
-            "thumb": "https://phimimg.com/upload/vod/20250606-1/6c68125eec2b79f5b35b4b3d88f34e4b.jpg",
-            "poster": "https://phimimg.com/upload/vod/20250606-1/8a984cde72e3f3376f8a2ea71ca0a26b.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Peru",
-            "lang_raw": "Vietsub + Lồng Tiếng"
-        },
-        {
-            "name": "Năm Nữ Điệp Vụ: Thợ Xử Lý Vương Miện 4",
-            "year": 2025,
-            "slug": "nam-nu-diep-vu-tho-xu-ly-vuong-mien-4",
-            "thumb": "https://phimimg.com/upload/vod/20260117-1/11e14384f6a491cecaa555749df595dc.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260117-1/a4b20f17535c027cb1369282fb04eb2c.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Nhật Bản",
-            "lang_raw": "Vietsub"
         }
     ],
     "anime_nhat": [],
@@ -328,6 +220,7 @@
     "bo_au_my": [],
     "le_thai": [],
     "bo_thai": [],
+    "trending_phim_bo": [],
     "long_tieng": [
         {
             "name": "Hoppers: Cú Nhảy Kỳ Diệu",
@@ -339,30 +232,6 @@
             "current_episode": "Full",
             "total_episodes": "1",
             "country": "Âu Mỹ",
-            "lang_raw": "Vietsub + Lồng Tiếng"
-        },
-        {
-            "name": "Vua Của Những Vị Vua (Vua Của Các Vua)",
-            "year": 2025,
-            "slug": "vua-cua-nhung-vi-vua-vua-cua-cac-vua",
-            "thumb": "https://phimimg.com/upload/vod/20250708-1/8dd3eeb5d1ebb5d45fce1b2ec27bf166.jpg",
-            "poster": "https://phimimg.com/upload/vod/20250708-1/89473a8b979b437b2b176d539c894622.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Hàn Quốc",
-            "lang_raw": "Vietsub + Thuyết Minh + Lồng Tiếng"
-        },
-        {
-            "name": "Cô Bé Chiến Binh",
-            "year": 2025,
-            "slug": "co-be-chien-binh",
-            "thumb": "https://phimimg.com/upload/vod/20250606-1/6c68125eec2b79f5b35b4b3d88f34e4b.jpg",
-            "poster": "https://phimimg.com/upload/vod/20250606-1/8a984cde72e3f3376f8a2ea71ca0a26b.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Peru",
             "lang_raw": "Vietsub + Lồng Tiếng"
         }
     ],
@@ -421,66 +290,6 @@
             "slug": "co-dau",
             "thumb": "https://phimimg.com/upload/vod/20260409-1/43305e5e217ff699a63ca56d2894a0cc.jpg",
             "poster": "https://phimimg.com/upload/vod/20260409-1/d6269335b48762ea0beb444ec33237fd.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Theo Dấu Tội Ác",
-            "year": 2026,
-            "slug": "theo-dau-toi-ac",
-            "thumb": "https://phimimg.com/upload/vod/20260410-1/a2a4aa808ad1e6af220eb525bd2ee13f.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260410-1/895471e7964fe16464d58b0c662172de.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Trung Quốc",
-            "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
-            "year": 2026,
-            "slug": "tuyen-thu-de-mui-vi-chien-thang",
-            "thumb": "https://phimimg.com/upload/vod/20260325-1/57000b826e67c1db2727e310aec0b004.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260325-1/1f5f942c1627deb2064d8be37d172855.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Cô Bé Amélie Và Tính Cách Của Mưa",
-            "year": 2025,
-            "slug": "co-be-amelie-va-tinh-cach-cua-mua",
-            "thumb": "https://phimimg.com/upload/vod/20260312-1/7319aff42a64df9474fe4be0cdba170c.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260312-1/3f5aa77ed6ed7b8fc4b65b0d30de5d2a.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Pháp",
-            "lang_raw": "Vietsub + Thuyết Minh"
-        },
-        {
-            "name": "Vua Của Những Vị Vua (Vua Của Các Vua)",
-            "year": 2025,
-            "slug": "vua-cua-nhung-vi-vua-vua-cua-cac-vua",
-            "thumb": "https://phimimg.com/upload/vod/20250708-1/8dd3eeb5d1ebb5d45fce1b2ec27bf166.jpg",
-            "poster": "https://phimimg.com/upload/vod/20250708-1/89473a8b979b437b2b176d539c894622.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Hàn Quốc",
-            "lang_raw": "Vietsub + Thuyết Minh + Lồng Tiếng"
-        },
-        {
-            "name": "Phi Vụ Động Trời 2",
-            "year": 2025,
-            "slug": "phi-vu-dong-troi-2",
-            "thumb": "https://phimimg.com/upload/vod/20251223-1/7154384c306c73664e46942f2477e574.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251223-1/6bc1d549b86e490274d93bab66a3654d.jpg",
             "sub_type": "Thuyết Minh",
             "current_episode": "Full",
             "total_episodes": "1",
