@@ -2,9 +2,11 @@ name: Auto Crawl Movie Data
 
 on:
   schedule:
-    # Chạy vào lúc 00:00 mỗi ngày (giờ UTC)
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Cho phép ông bấm nút chạy thủ công bất cứ lúc nào
+    # 1h sáng VN = 18h tối hôm trước (UTC)
+    # 12h trưa VN = 5h sáng (UTC)
+    # 18h tối VN = 11h trưa (UTC)
+    - cron: '0 18,5,11 * * *'
+  workflow_dispatch: # Cho phép bấm chạy thủ công
 
 jobs:
   build:
@@ -26,8 +28,9 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add data_2026_perfect.json
-          git commit -m "Auto update phim mới ngày $(date)"
-          git push
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Thêm cả file json và file text lưu ngày chạy
+          git add data_2026_perfect.json last_run.txt
+          # Kiểm tra nếu không có gì thay đổi thì không commit để tránh lỗi Action
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update phim: $(date)" && git push)
