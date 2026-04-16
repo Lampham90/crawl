@@ -2,91 +2,89 @@ import requests
 import json
 import time
 
-# Endpoint chuẩn dựa trên tài liệu theo năm
-BASE_URL = "https://phimapi.com/v1/api/nam"
+BASE_URL = "https://phimapi.com/v1/api"
 YEARS = [2026, 2025]
-TARGET = 2 # Test mỗi loại 2 phim theo ý m
+TARGET = 2 # Mỗi loại lấy đúng 2 phim để test cho nhanh
 
-def fetch_and_parse(target_name, year, params):
-    url = f"{BASE_URL}/{year}"
+def get_data(url, params=None):
     headers = {"User-Agent": "Mozilla/5.0"}
-    
-    # Tham số lọc từ API
-    query_params = {"page": 1, "limit": 64}
-    query_params.update(params)
-    
     try:
-        res = requests.get(url, params=query_params, headers=headers, timeout=10)
+        res = requests.get(url, params=params, timeout=10)
         if res.status_code == 200:
-            data = res.json()
-            # API trả về danh sách phim trong data['items']
-            items = data.get('data', {}).get('items', [])
+            return res.json()
+    except:
+        pass
+    return None
+
+def fetch_traditional(target_name, endpoint, country_target=None, is_movie_logic=None):
+    results = []
+    print(f"\n[Săn tìm] {target_name}...")
+    
+    for year in YEARS:
+        if len(results) >= TARGET: break
+        
+        # Thử quét 3 trang đầu của danh mục đó
+        for page in range(1, 4):
+            if len(results) >= TARGET: break
             
-            results = []
-            for item in items[:20]: # Quét nhanh 20 phim đầu để lọc
+            url = f"{BASE_URL}/danh-sach/{endpoint}?year={year}&page={page}&limit=64"
+            data = get_data(url)
+            
+            if not data or 'data' not in data or not data['data'].get('items'):
+                break
+                
+            for item in data['data']['items']:
                 if len(results) >= TARGET: break
                 
-                # Gọi chi tiết để lấy đúng cấu trúc JSON m gửi
-                d_res = requests.get(f"https://phimapi.com/phim/{item['slug']}")
-                if d_res.status_code != 200: continue
+                # Lấy detail để kiểm tra quốc gia và loại phim (JSON m gửi nằm ở đây)
+                detail = get_data(f"https://phimapi.com/phim/{item['slug']}")
+                if not detail or 'movie' not in detail: continue
                 
-                detail = d_res.json()
-                m = detail.get('movie', {})
-                if not m: continue
-
-                # --- XỬ LÝ JSON THỰC TẾ ---
-                # Lấy tên quốc gia (đọc từ mảng object)
+                m = detail['movie']
+                
+                # 1. Lấy danh sách quốc gia
                 countries = [c.get('name') for c in m.get('country', [])]
-                # Lấy thể loại
-                categories = [cat.get('slug') for cat in m.get('category', [])]
-                
-                # Biến kiểm tra
+                # 2. Kiểm tra logic phim lẻ/bộ
                 ep_total = str(m.get('episode_total', '1'))
-                m_type = m.get('type', '') # 'series' hoặc 'single'
+                status = str(m.get('episode_current', '')).lower()
+                is_movie = (ep_total == "1" or "full" in status)
 
-                # Logic phân loại đơn giản
-                is_match = False
-                if target_name == "ANIME NHẬT" and "hoat-hinh" in categories and "Chile" not in countries: # Chile là ví dụ từ JSON m gửi
-                     if "Nhật Bản" in countries: is_match = True
-                elif target_name == "HH TRUNG QUỐC" and "hoat-hinh" in categories and "Trung Quốc" in countries:
-                    is_match = True
-                elif "PHIM BỘ" in target_name and m_type == "series":
-                    is_match = True
-                elif "PHIM LẺ" in target_name and m_type == "single":
-                    is_match = True
-                else:
-                    # Nếu không gán gì thì lấy đại diện để test kết nối
-                    is_match = True
+                # --- BỘ LỌC TRUYỀN THỐNG ---
+                match_country = True if not country_target else (country_target in countries)
+                match_type = True
+                if is_movie_logic is True and not is_movie: match_type = False
+                if is_movie_logic is False and is_movie: match_type = False
 
-                if is_match:
+                if match_country and match_type:
                     results.append(m.get('name'))
-                    print(f"  + [{target_name}]: {m.get('name')} ({m.get('year')})")
-            
-            return results
-    except Exception as e:
-        print(f"Lỗi: {e}")
-    return []
+                    print(f"  + Thành công: {m.get('name')} ({year}) [{', '.join(countries)}]")
+                    
+                time.sleep(0.05) # Tránh bị block
+    return results
 
 def main():
-    print("--- TEST LỌC THEO JSON THỰC TẾ ---")
-    
-    for y in YEARS:
-        print(f"\n--- NĂM {y} ---")
-        # 1. Anime & Hoạt hình
-        fetch_and_parse("ANIME NHẬT", y, {"category": "hoat-hinh", "country": "nhat-ban"})
-        fetch_and_parse("HH TRUNG QUỐC", y, {"category": "hoat-hinh", "country": "trung-quoc"})
+    final_results = {}
 
-        # 2. Quốc gia (Việt, Hàn, Trung, Âu Mỹ, Thái)
-        mapping = [
-            ("viet-nam", "VIỆT NAM"), ("han-quoc", "HÀN QUỐC"), 
-            ("trung-quoc", "TRUNG QUỐC"), ("au-my", "ÂU MỸ"), ("thanh-lan", "THÁI LAN")
-        ]
-        
-        for c_slug, c_name in mapping:
-            fetch_and_parse(f"PHIM LẺ {c_name}", y, {"category": "phim-le", "country": c_slug})
-            fetch_and_parse(f"PHIM BỘ {c_name}", y, {"category": "phim-bo", "country": c_slug})
+    # 1. Nhóm Hoạt hình
+    final_results["anime_movie"] = fetch_traditional("Anime Movie", "hoat-hinh", is_movie_logic=True)
+    final_results["anime_nhat"] = fetch_traditional("Anime Nhật (Bộ)", "hoat-hinh", country_target="Nhật Bản", is_movie_logic=False)
+    final_results["hh_trung_quoc"] = fetch_traditional("HH Trung Quốc (Bộ)", "hoat-hinh", country_target="Trung Quốc", is_movie_logic=False)
 
-    print("\n--- HOÀN TẤT ---")
+    # 2. Nhóm Quốc gia
+    mapping = [
+        ("Việt Nam", "vn"), ("Hàn Quốc", "han"), ("Trung Quốc", "trung"), 
+        ("Âu Mỹ", "au_my"), ("Thái Lan", "thai")
+    ]
+
+    for c_name, c_key in mapping:
+        # Lấy 2 phim lẻ của quốc gia này
+        final_results[f"le_{c_key}"] = fetch_traditional(f"Phim Lẻ {c_name}", "phim-le", country_target=c_name)
+        # Lấy 2 phim bộ của quốc gia này
+        final_results[f"bo_{c_key}"] = fetch_traditional(f"Phim Bộ {c_name}", "phim-bo", country_target=c_name)
+
+    # Xuất kết quả
+    print("\n========= TỔNG KẾT TEST =========")
+    print(json.dumps(final_results, indent=4, ensure_ascii=False))
 
 if __name__ == "__main__":
     main()
