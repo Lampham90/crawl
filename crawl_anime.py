@@ -2,90 +2,147 @@ import requests
 import json
 import time
 
+# Cấu hình chung
 BASE_URL = "https://phimapi.com/v1/api"
+TARGET_COUNT = 15
+YEARS = [2026, 2025]
 
-def get_movies(endpoint, target_count=15, params=None):
+def get_data(url, params=None):
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    try:
+        res = requests.get(url, params=params, headers=headers, timeout=15)
+        if res.status_code == 200:
+            return res.json()
+    except:
+        pass
+    return None
+
+def fetch_logic(endpoint, target_key, custom_params=None):
     results = []
-    years = [2026, 2025]
+    seen_slugs = set()
     
-    for year in years:
-        if len(results) >= target_count:
-            break
-            
+    print(f"\n[Săn tìm] {target_key}...")
+
+    for year in YEARS:
+        if len(results) >= TARGET_COUNT: break
+        
         page = 1
-        while len(results) < target_count:
-            # Build params
-            current_params = params.copy() if params else {}
-            current_params.update({'page': page, 'year': year, 'limit': 20})
+        while len(results) < TARGET_COUNT:
+            params = {"page": page, "year": year, "limit": 64}
+            if custom_params:
+                params.update(custom_params)
             
-            try:
-                response = requests.get(f"{BASE_URL}/{endpoint}", params=current_params).json()
-                items = response.get('data', {}).get('items', [])
-                if not items:
-                    break
+            url = f"{BASE_URL}/{endpoint}"
+            data = get_data(url, params)
+            
+            if not data or 'data' not in data or not data['data'].get('items'):
+                break 
+            
+            items = data['data']['items']
+            for item in items:
+                if len(results) >= TARGET_COUNT: break
+                if item['slug'] in seen_slugs: continue
+
+                detail = get_data(f"https://phimapi.com/phim/{item['slug']}")
+                if not detail or 'movie' not in detail: continue
                 
-                for item in items:
-                    if len(results) < target_count:
-                        # Tránh trùng lặp
-                        if item['_id'] not in [x['_id'] for x in results]:
-                            results.append(item)
-                    else:
-                        break
-                page += 1
-            except:
-                break
+                m = detail['movie']
+                ep_total = str(m.get('episode_total', '')).lower()
+                status = str(m.get('episode_current', '')).lower()
+                country_list = m.get('country', [{}])
+                country_name = country_list[0].get('name', '') if country_list else ''
+                lang_raw = m.get('lang', '')
+                m_type = m.get('type', '')
+
+                # --- Định nghĩa sub_display từ lang_raw ---
+                sub_display = "Vietsub"
+                if "Lồng Tiếng" in lang_raw:
+                    sub_display = "Lồng Tiếng"
+                elif "Thuyết Minh" in lang_raw:
+                    sub_display = "Thuyết Minh"
+
+                # --- BỘ LỌC LOGIC THEO THỐNG NHẤT ---
+                is_movie = (ep_total == "1" or "full" in status or "full" in ep_total)
+                is_match = False
+
+                if target_key == "anime_movie":
+                    if is_movie: is_match = True
+                elif target_key == "anime_nhat":
+                    if country_name == "Nhật Bản" and not is_movie: is_match = True
+                elif target_key == "hh_trung_quoc":
+                    if country_name == "Trung Quốc" and not is_movie: is_match = True
+                else:
+                    is_match = True
+
+                if is_match:
+                    # Sửa lại info đúng theo format m yêu cầu
+                    info = {
+                        "name": m.get('name'), 
+                        "year": year, 
+                        "thumb": m.get('thumb_url'), 
+                        "poster": m.get('poster_url'),
+                        "slug": item['slug'],
+                        "sub_type": sub_display,
+                        "current_episode": m.get('episode_current', 'Full'),
+                        "total_episodes": m.get('episode_total', '1'),
+                        "country": country_name,
+                        "type": m_type,
+                        "lang_raw": lang_raw # Giữ lại để hàm tổng hợp dùng
+                    }
+                    results.append(info)
+                    seen_slugs.add(item['slug'])
+                    print(f"  + {len(results)}/{TARGET_COUNT}: {info['name']} ({year})")
+                
+                time.sleep(0.1) 
+            page += 1
+            if page > 5: break 
+            
     return results
 
-def crawl_all():
-    all_data = {}
+def main():
+    final_data = {}
     
-    # 1. Phim mới cập nhật (Dùng API riêng theo trang 1 tài liệu)
-    all_data['phim_moi'] = get_movies("danh-sach/phim-moi-cap-nhat", 15) # [cite: 5]
+    # 1. Phim mới & Chiếu rạp
+    final_data["phim_moi"] = fetch_logic("danh-sach/phim-moi-cap-nhat", "phim_moi")
+    final_data["chieu_rap"] = fetch_logic("danh-sach/phim-chieu-rap", "chieu_rap")
 
-    # 2. Phim chiếu rạp
-    all_data['chieu_rap'] = get_movies("danh-sach/phim-chieu-rap", 15) # 
+    # 2. Nhóm Hoạt hình
+    final_data["anime_movie"] = fetch_logic("danh-sach/hoat-hinh", "anime_movie")
+    final_data["anime_nhat"] = fetch_logic("quoc-gia/nhat-ban", "anime_nhat", {"category": "hoat-hinh"})
+    final_data["hh_trung_quoc"] = fetch_logic("quoc-gia/trung-quoc", "hh_trung_quoc", {"category": "hoat-hinh"})
 
-    # 3. Anime Movie (API Hoạt hình + lọc số tập là Full/1)
-    anime_list = get_movies("danh-sach/hoat-hinh", 50) 
-    all_data['anime_movie'] = [m for m in anime_list if str(m.get('episode_total', '')).lower() in ['full', '1', '01']][:15]
+    # 3. Phim Lẻ theo quốc gia (Thanh Lan là slug của Thái Lan)
+    final_data["le_vn"] = fetch_logic("quoc-gia/viet-nam", "le_vn", {"category": "phim-le"})
+    final_data["le_han"] = fetch_logic("quoc-gia/han-quoc", "le_han", {"category": "phim-le"})
+    final_data["le_trung"] = fetch_logic("quoc-gia/trung-quoc", "le_trung", {"category": "phim-le"})
+    final_data["le_thai"] = fetch_logic("quoc-gia/thanh-lan", "le_thai", {"category": "phim-le"})
+    final_data["le_au_my"] = fetch_logic("quoc-gia/au-my", "le_au_my", {"category": "phim-le"})
 
-    # 4. Anime Nhật Bản (Bộ)
-    all_data['anime_nhat'] = get_movies("quoc-gia/nhat-ban", 15, {'category': 'hoat-hinh'}) # [cite: 86]
-    # Lọc bỏ movie nếu cần dựa trên logic ep_total != full
+    # 4. Phim Bộ theo quốc gia
+    final_data["bo_vn"] = fetch_logic("quoc-gia/viet-nam", "bo_vn", {"category": "phim-bo"})
+    final_data["bo_han"] = fetch_logic("quoc-gia/han-quoc", "bo_han", {"category": "phim-bo"})
+    final_data["bo_trung"] = fetch_logic("quoc-gia/trung-quoc", "bo_trung", {"category": "phim-bo"})
+    final_data["bo_thai"] = fetch_logic("quoc-gia/thanh-lan", "bo_thai", {"category": "phim-bo"})
+    final_data["bo_au_my"] = fetch_logic("quoc-gia/au-my", "bo_au_my", {"category": "phim-bo"})
 
-    # 5. HH Trung Quốc (Bộ)
-    all_data['hh_trung_quoc'] = get_movies("quoc-gia/trung-quoc", 15, {'category': 'hoat-hinh'}) # [cite: 86]
+    # 5. Top 10 phim bộ (Mix tỉ lệ 4:3:2:1)
+    final_data["top_10_bo"] = (final_data.get("bo_trung", [])[:4] + final_data.get("bo_han", [])[:3] + 
+                               final_data.get("bo_au_my", [])[:2] + final_data.get("bo_thai", [])[:1])
 
-    # Nhóm Phim Lẻ (phim-le) 
-    all_data['phim_le'] = get_movies("danh-sach/phim-le", 15)
-    all_data['le_vn'] = get_movies("quoc-gia/viet-nam", 15, {'category': 'phim-le'})
-    all_data['le_han'] = get_movies("quoc-gia/han-quoc", 15, {'category': 'phim-le'})
-    all_data['le_trung'] = get_movies("quoc-gia/trung-quoc", 15, {'category': 'phim-le'})
-    all_data['le_thai'] = get_movies("quoc-gia/thanh-lan", 15, {'category': 'phim-le'})
-    all_data['le_au_my'] = get_movies("quoc-gia/au-my", 15, {'category': 'phim-le'})
-
-    # Nhóm Phim Bộ (phim-bo) 
-    all_data['bo_vn'] = get_movies("quoc-gia/viet-nam", 15, {'category': 'phim-bo'})
-    all_data['bo_han'] = get_movies("quoc-gia/han-quoc", 15, {'category': 'phim-bo'})
-    all_data['bo_trung'] = get_movies("quoc-gia/trung-quoc", 15, {'category': 'phim-bo'})
-    all_data['bo_thai'] = get_movies("quoc-gia/thanh-lan", 15, {'category': 'phim-bo'})
-    all_data['bo_au_my'] = get_movies("quoc-gia/au-my", 15, {'category': 'phim-bo'})
-
-    # 17. Top 10 phim bộ (Mix từ kết quả trên)
-    all_data['top_10_bo'] = (all_data['bo_trung'][:4] + all_data['bo_han'][:3] + 
-                             all_data['bo_au_my'][:2] + all_data['bo_thai'][:1])
-
-    # 18 & 19. Phim Lồng tiếng & Thuyết minh (Tổng hợp từ toàn bộ data đã crawl)
-    # Gom tất cả phim đã tìm thấy vào một tập hợp duy nhất
-    pool = []
-    for key in all_data:
-        pool.extend(all_data[key])
+    # 6. Tổng hợp Lồng tiếng & Thuyết minh
+    all_movies = []
+    for k in final_data:
+        if isinstance(final_data[k], list):
+            all_movies.extend(final_data[k])
     
-    # Lọc dựa trên bảng mã ngôn ngữ trong tài liệu [cite: 38, 53, 78]
-    all_data['long_tieng'] = [m for m in pool if 'long-tieng' in str(m.get('lang', '')).lower()][:15]
-    all_data['thuyet_minh'] = [m for m in pool if 'thuyet-minh' in str(m.get('lang', '')).lower()][:15]
+    unique_pool = {m['slug']: m for m in all_movies}.values()
+    final_data["long_tieng"] = [m for m in unique_pool if "Lồng Tiếng" in m.get('lang_raw', '')][:15]
+    final_data["thuyet_minh"] = [m for m in unique_pool if "Thuyết Minh" in m.get('lang_raw', '')][:15]
 
-    return all_data
+    # Xuất file
+    with open("data_2026_perfect.json", "w", encoding="utf-8") as f:
+        json.dump(final_data, f, ensure_ascii=False, indent=4)
+    print("\n[DONE] Đã hoàn thành 18 danh mục.")
 
-# Thực thi crawl
-final_results = crawl_all()
+if __name__ == "__main__":
+    main()
