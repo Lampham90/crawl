@@ -10,7 +10,7 @@ BASE_URL = "https://phimapi.com/v1/api"
 YEAR_RANGE = list(range(2026, 2009, -1)) 
 # Mỗi loại lấy 500 phim cho kho tổng hợp
 LIMIT_PER_LANG = 500 
-MAX_WORKERS = 5
+MAX_WORKERS = 3
 # ĐÂY LÀ TÊN FILE SẼ LƯU
 OUTPUT_FILE = "data_all_lang_library.json"
 
