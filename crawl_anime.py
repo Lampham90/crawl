@@ -17,7 +17,7 @@ TIME_FILE = "last_run.txt"
 def get_data(url, params=None):
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
     try:
-        res = requests.get(url, params=params, timeout=15) # Tăng timeout lên tí cho chắc
+        res = requests.get(url, params=params, timeout=15)
         if res.status_code == 200: return res.json()
     except: pass
     return None
@@ -28,7 +28,7 @@ def fetch_detail(slug):
 def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None):
     results = []
     local_seen = set() 
-    print(f"\n[Săn tìm] {target_name}...")
+    print(f"> Đang quét: {target_name}...")
     
     for year in YEARS:
         if len(results) >= TARGET_COUNT: break
@@ -93,8 +93,28 @@ def interleave_trending(tr, han, au, thai):
 
 def main():
     start_time = time.time()
-    
-    # Check Trending (3 ngày/lần)
+    final_data = {}
+    report = []
+
+    # Hàm hỗ trợ chạy và thu thập báo cáo
+    def run_and_report(key, name, endpoint, country=None, is_movie=None):
+        res = fetch_final(name, endpoint, country, is_movie)
+        final_data[key] = res
+        status = "✅ ĐỦ" if len(res) >= TARGET_COUNT else f"⚠️ THIẾU ({len(res)}/{TARGET_COUNT})"
+        report.append(f"| {name:20} | {status:15} |")
+        return res
+
+    # 1. Quét các mục chính
+    run_and_report("anime_movie", "Anime Movie", "hoat-hinh", is_movie=True)
+    run_and_report("anime_nhat", "Anime Nhật", "hoat-hinh", country="Nhật Bản", is_movie=False)
+    run_and_report("hh_trung_quoc", "HH Trung Quốc", "hoat-hinh", country="Trung Quốc", is_movie=False)
+
+    mapping = [("Việt Nam", "vn"), ("Hàn Quốc", "han"), ("Trung Quốc", "trung"), ("Âu Mỹ", "au_my"), ("Thái Lan", "thai")]
+    for c_name, c_key in mapping:
+        run_and_report(f"le_{c_key}", f"Lẻ {c_name}", "phim-le", country=c_name, is_movie=True)
+        run_and_report(f"bo_{c_key}", f"Bộ {c_name}", "phim-bo", country=c_name, is_movie=False)
+
+    # 2. Xử lý logic Trending 3 ngày/lần
     should_update_trending = True
     if os.path.exists(TIME_FILE):
         with open(TIME_FILE, "r") as f:
@@ -104,49 +124,53 @@ def main():
                     should_update_trending = False
             except: pass
 
+    # Đọc data cũ để giữ Trending nếu chưa đến ngày
     old_data = {}
-    if os.path.exists(DATA_FILE):
+    if not should_update_trending and os.path.exists(DATA_FILE):
         with open(DATA_FILE, "r", encoding="utf-8") as f:
             try: old_data = json.load(f)
             except: pass
 
-    final_data = {}
-    
-    # Crawl chính
-    final_data["anime_movie"] = fetch_final("Anime Movie", "hoat-hinh", is_movie_logic=True)
-    final_data["anime_nhat"] = fetch_final("Anime Nhật", "hoat-hinh", country_target="Nhật Bản", is_movie_logic=False)
-    final_data["hh_trung_quoc"] = fetch_final("HH Trung Quốc", "hoat-hinh", country_target="Trung Quốc", is_movie_logic=False)
-
-    mapping = [("Việt Nam", "vn"), ("Hàn Quốc", "han"), ("Trung Quốc", "trung"), ("Âu Mỹ", "au_my"), ("Thái Lan", "thai")]
-    for c_name, c_key in mapping:
-        final_data[f"le_{c_key}"] = fetch_final(f"Lẻ {c_name}", "phim-le", country_target=c_name, is_movie_logic=True)
-        final_data[f"bo_{c_key}"] = fetch_final(f"Bộ {c_name}", "phim-bo", country_target=c_name, is_movie_logic=False)
-
-    # Xử lý Trending
     if should_update_trending:
-        print("\n[Hệ thống] Đang cập nhật Trending...")
+        print("\n[Hệ thống] Đang làm mới Trending...")
         final_data["trending_phim_bo"] = interleave_trending(
             final_data.get("bo_trung", []), final_data.get("bo_han", []),
             final_data.get("bo_au_my", []), final_data.get("bo_thai", [])
         )
         with open(TIME_FILE, "w") as f:
             f.write(datetime.now().strftime("%Y-%m-%d"))
+        report.append(f"| {'Top Phim Bộ':20} | {'🔥 MỚI':15} |")
     else:
         print("\n[Hệ thống] Giữ Trending cũ.")
         final_data["trending_phim_bo"] = old_data.get("trending_phim_bo", [])
+        report.append(f"| {'Top Phim Bộ':20} | {'♻️ CŨ':15} |")
 
-    # Mix Lồng tiếng / Thuyết minh
+    # 3. Tạo pool Lồng Tiếng / Thuyết Minh
     all_pool = []
     for v in final_data.values():
         if isinstance(v, list): all_pool.extend(v)
     unique_pool = {m['slug']: m for m in all_pool}.values()
+    
     final_data["long_tieng"] = [m for m in unique_pool if "Lồng Tiếng" in m['lang_raw']][:15]
     final_data["thuyet_minh"] = [m for m in unique_pool if "Thuyết Minh" in m['lang_raw']][:15]
+    
+    report.append(f"| {'Lồng Tiếng':20} | {('✅' if final_data['long_tieng'] else '❌'):15} |")
+    report.append(f"| {'Thuyết Minh':20} | {('✅' if final_data['thuyet_minh'] else '❌'):15} |")
 
+    # 4. Lưu file JSON
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
-    
-    print(f"\n[XONG] Tổng thời gian: {int(time.time() - start_time)}s.")
+
+    # 5. IN BÁO CÁO CUỐI CÙNG
+    print("\n" + "="*45)
+    print(f"   BÁO CÁO CRAWL - {datetime.now().strftime('%d/%m/%Y %H:%M')}")
+    print("="*45)
+    print(f"| {'Hạng mục':22} | {'Trạng thái':16} |")
+    print("-" * 45)
+    for line in report:
+        print(line)
+    print("="*45)
+    print(f"Tổng thời gian: {int(time.time() - start_time)}s\n")
 
 if __name__ == "__main__":
     main()
