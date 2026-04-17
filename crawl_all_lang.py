@@ -1,13 +1,17 @@
 import requests
 import json
 import time
+import os
 from concurrent.futures import ThreadPoolExecutor
 
 # --- CẤU HÌNH ---
 BASE_URL = "https://phimapi.com/v1/api"
-YEAR_RANGE = list(range(2026, 2009, -1)) # Quét lùi từ 2026 về 2010
-LIMIT_PER_LANG = 500 # Mỗi loại lấy 500 phim cho App TV kéo mỏi tay
+# Quét từ 2026 lùi về 2010
+YEAR_RANGE = list(range(2026, 2009, -1)) 
+# Mỗi loại lấy 500 phim cho kho tổng hợp
+LIMIT_PER_LANG = 500 
 MAX_WORKERS = 5
+# ĐÂY LÀ TÊN FILE SẼ LƯU
 OUTPUT_FILE = "data_all_lang_library.json"
 
 def get_data(url, params=None):
@@ -33,7 +37,9 @@ def crawl_entire_library(lang_code, lang_name):
         params = {
             "page": 1, 
             "sort_lang": lang_code,
-            "limit": 64 # Hốt trọn 1 trang phim chất lượng nhất mỗi năm
+            "sort_field": "modified.time",
+            "sort_type": "desc",
+            "limit": 64 
         }
         
         data = get_data(url, params)
@@ -75,15 +81,30 @@ def main():
     start_time = time.time()
     library_data = {}
 
-    # Quét cả 2 kho lồng tiếng và thuyết minh
+    # 1. Quét kho Lồng Tiếng
     library_data["all_long_tieng"] = crawl_entire_library("long-tieng", "Lồng Tiếng")
+    
+    # 2. Quét kho Thuyết Minh
     library_data["all_thuyet_minh"] = crawl_entire_library("thuyet-minh", "Thuyết Minh")
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(library_data, f, ensure_ascii=False, indent=4)
+    # 3. LƯU DỮ LIỆU VÀO FILE JSON (Đoạn này nè ní!)
+    print(f"\n[Hệ thống] Đang ghi dữ liệu vào file: {OUTPUT_FILE}...")
+    try:
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump(library_data, f, ensure_ascii=False, indent=4)
+        print(f"✅ Đã lưu file thành công!")
+    except Exception as e:
+        print(f"❌ Lỗi khi lưu file: {e}")
 
-    print(f"\n[XONG] Tổng phim: {len(library_data['all_long_tieng']) + len(library_data['all_thuyet_minh'])}")
-    print(f"Thời gian: {int(time.time() - start_time) // 60} phút.")
+    # 4. Tổng kết
+    total_films = len(library_data["all_long_tieng"]) + len(library_data["all_thuyet_minh"])
+    duration = int(time.time() - start_time)
+    print(f"\n" + "="*40)
+    print(f" TỔNG KẾT QUÉT THƯ VIỆN")
+    print(f" - Tổng phim: {total_films}")
+    print(f" - Thời gian: {duration // 60} phút {duration % 60} giây")
+    print(f" - Tên file: {OUTPUT_FILE}")
+    print("="*40)
 
 if __name__ == "__main__":
     main()
