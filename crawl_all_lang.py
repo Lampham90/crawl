@@ -146,9 +146,11 @@ def main():
         final_library["quoc_gia"][cou['slug']] = res
         report.append(f"| {cou['name']:22} | {len(res):16} |")
 
-    # Lưu file
+    # Lưu file kiểu nén (Minify) để giảm dung lượng nhưng giữ nguyên tên Key
+    print(f"\n[Hệ thống] Đang ghi file {OUTPUT_FILE} (Bản tối ưu dung lượng)...")
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(final_library, f, ensure_ascii=False, indent=4)
+        # Bỏ indent=4, thêm separators để xóa khoảng trắng thừa
+        json.dump(final_library, f, ensure_ascii=False, separators=(',', ':'))
 
     # In báo cáo cuối cùng
     print("\n" + "="*45)
