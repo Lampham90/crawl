@@ -52,6 +52,8 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
                 if len(results) >= TARGET_COUNT: break
                 if not detail or 'movie' not in detail: continue
                 m = detail['movie']
+                
+                # --- LOGIC LỌC DỮ LIỆU ---
                 m_year = int(m.get('year', 0))
                 countries = [c.get('name') for c in m.get('country', [])]
                 m_type = m.get('type', '')
@@ -63,6 +65,10 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
                    (m_year == year):
                     
                     lang = str(m.get('lang', ''))
+                    
+                    # LẤY GIỚI THIỆU PHIM (Xóa các thẻ HTML nếu có)
+                    desc = m.get('content', '').replace('<p>', '').replace('</p>', '').replace('\n', ' ').strip()
+
                     results.append({
                         "name": m.get('name'),
                         "year": m_year,
@@ -73,7 +79,7 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
                         "current_episode": m.get('episode_current', 'Full'),
                         "total_episodes": ep_total_val,
                         "country": countries[0] if countries else "",
-                        "lang_raw": lang
+                        "description": desc # <-- THÊM TRƯỜNG NÀY
                     })
                     local_seen.add(m.get('slug'))
             time.sleep(0.3)
@@ -104,6 +110,10 @@ def fetch_by_lang(lang_code, lang_name):
             if not detail or 'movie' not in detail: continue
             m = detail['movie']
             lang = str(m.get('lang', ''))
+            
+            # LẤY GIỚI THIỆU PHIM
+            desc = m.get('content', '').replace('<p>', '').replace('</p>', '').replace('\n', ' ').strip()
+
             results.append({
                 "name": m.get('name'),
                 "year": int(m.get('year', 0)),
@@ -114,28 +124,21 @@ def fetch_by_lang(lang_code, lang_name):
                 "current_episode": m.get('episode_current', 'Full'),
                 "total_episodes": str(m.get('episode_total', '1')),
                 "country": m.get('country', [{}])[0].get('name', ''),
-                "lang_raw": lang
+                "description": desc # <-- THÊM TRƯỜNG NÀY
             })
             local_seen.add(m.get('slug'))
         time.sleep(0.3)
     return results
 
 def interleave_trending(tr, han, au, thai, rap):
-    # Trộn các nguồn phim để tạo Trending, ưu tiên thêm phim Chiếu Rạp
     trending = []
-    l_tr = list(tr[:4])
-    l_han = list(han[:3])
-    l_au = list(au[:3])
-    l_thai = list(thai[:2])
-    l_rap = list(rap[:3]) # Lấy 3 phim chiếu rạp cho Trending
-
+    l_tr, l_han, l_au, l_thai, l_rap = list(tr[:4]), list(han[:3]), list(au[:3]), list(thai[:2]), list(rap[:3])
     while l_tr or l_han or l_au or l_thai or l_rap:
         if l_tr: trending.append(l_tr.pop(0))
         if l_rap: trending.append(l_rap.pop(0))
         if l_han: trending.append(l_han.pop(0))
         if l_au: trending.append(l_au.pop(0))
         if l_thai: trending.append(l_thai.pop(0))
-    
     random.shuffle(trending)
     return trending[:15]
 
@@ -151,12 +154,11 @@ def main():
         report.append(f"| {name:22} | {status:16} |")
         return res
 
-    # 1. Quét các mục cũ (Giữ nguyên Key cho Android)
     run_and_report("anime_movie", "Anime Movie", "hoat-hinh", is_movie=True)
     run_and_report("anime_nhat", "Anime Nhật", "hoat-hinh", country="Nhật Bản", is_movie=False)
     run_and_report("hh_trung_quoc", "HH Trung Quốc", "hoat-hinh", country="Trung Quốc", is_movie=False)
     
-    # --- MỤC MỚI: PHIM CHIẾU RẠP ---
+    # CHIẾU RẠP
     rap_data = run_and_report("phim_chieu_rap", "Phim Chiếu Rạp", "phim-chieu-rap")
 
     mapping = [("Việt Nam", "vn"), ("Hàn Quốc", "han"), ("Trung Quốc", "trung"), ("Âu Mỹ", "au_my"), ("Thái Lan", "thai")]
@@ -164,38 +166,19 @@ def main():
         run_and_report(f"le_{c_key}", f"Lẻ {c_name}", "phim-le", country=c_name, is_movie=True)
         run_and_report(f"bo_{c_key}", f"Bộ {c_name}", "phim-bo", country=c_name, is_movie=False)
 
-    # 2. Làm mới Trending (Đã gộp phim chiếu rạp vào đây)
-    print("\n[Hệ thống] Đang cập nhật Top Trending (bao gồm Chiếu Rạp)...")
     final_data["trending_phim_bo"] = interleave_trending(
-        final_data.get("bo_trung", []), 
-        final_data.get("bo_han", []),
-        final_data.get("bo_au_my", []), 
-        final_data.get("bo_thai", []),
+        final_data.get("bo_trung", []), final_data.get("bo_han", []),
+        final_data.get("bo_au_my", []), final_data.get("bo_thai", []),
         final_data.get("phim_chieu_rap", [])
     )
-    report.append(f"| {'Top Phim Bộ':22} | {'🔥 CẬP NHẬT':16} |")
-
-    # 3. Lọc Lồng Tiếng / Thuyết Minh
+    
     final_data["long_tieng"] = fetch_by_lang("long-tieng", "Lồng Tiếng")
     final_data["thuyet_minh"] = fetch_by_lang("thuyet-minh", "Thuyết Minh")
-    
-    report.append(f"| {'Lồng Tiếng':22} | {('✅ ĐỦ' if len(final_data['long_tieng'])>=TARGET_COUNT else '⚠️ THIẾU'):16} |")
-    report.append(f"| {'Thuyết Minh':22} | {('✅ ĐỦ' if len(final_data['thuyet_minh'])>=TARGET_COUNT else '⚠️ THIẾU'):16} |")
 
-    # 4. Lưu file JSON (Giữ indent=4 cho ní dễ kiểm tra)
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
 
-    # 5. IN BÁO CÁO
-    print("\n" + "="*45)
-    print(f"    BÁO CÁO CRAWL - {datetime.now().strftime('%d/%m/%Y %H:%M')}")
-    print("="*45)
-    print(f"| {'Hạng mục':22} | {'Trạng thái':16} |")
-    print("-" * 45)
-    for line in report:
-        print(line)
-    print("="*45)
-    print(f"Tổng thời gian: {int(time.time() - start_time)}s\n")
+    print("\n--- HOÀN THÀNH ---")
 
 if __name__ == "__main__":
     main()
