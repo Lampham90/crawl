@@ -4,18 +4,17 @@ import time
 import os
 import random
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime, timedelta
+from datetime import datetime
 
 # --- CẤU HÌNH ---
 BASE_URL = "https://phimapi.com/v1/api"
 YEARS = [2026, 2025, 2024] 
 TARGET_COUNT = 15
-MAX_WORKERS = 2
+MAX_WORKERS = 3 # Tăng nhẹ worker cho nhanh
 DATA_FILE = "data_2026_perfect.json"
-TIME_FILE = "last_run.txt"
 
 def get_data(url, params=None):
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"}
     try:
         res = requests.get(url, params=params, timeout=15)
         if res.status_code == 200: return res.json()
@@ -80,7 +79,6 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
             time.sleep(0.3)
     return results
 
-# MỚI: Hàm lấy phim theo ngôn ngữ dùng API /nam/
 def fetch_by_lang(lang_code, lang_name):
     results = []
     local_seen = set()
@@ -123,6 +121,7 @@ def fetch_by_lang(lang_code, lang_name):
     return results
 
 def interleave_trending(tr, han, au, thai):
+    # Trộn các nguồn phim khác nhau để tạo cảm giác Trending đa dạng
     trending = []
     l_tr, l_han, l_au, l_thai = list(tr[:5]), list(han[:4]), list(au[:3]), list(thai[:3])
     while l_tr or l_han or l_au or l_thai:
@@ -130,6 +129,8 @@ def interleave_trending(tr, han, au, thai):
         if l_han: trending.append(l_han.pop(0))
         if l_au: trending.append(l_au.pop(0))
         if l_thai: trending.append(l_thai.pop(0))
+    
+    # Xáo trộn nhẹ và lấy đúng 15 phim
     random.shuffle(trending)
     return trending[:15]
 
@@ -145,7 +146,7 @@ def main():
         report.append(f"| {name:22} | {status:16} |")
         return res
 
-    # 1. Quét các mục chính
+    # 1. Quét dữ liệu nền
     run_and_report("anime_movie", "Anime Movie", "hoat-hinh", is_movie=True)
     run_and_report("anime_nhat", "Anime Nhật", "hoat-hinh", country="Nhật Bản", is_movie=False)
     run_and_report("hh_trung_quoc", "HH Trung Quốc", "hoat-hinh", country="Trung Quốc", is_movie=False)
@@ -155,48 +156,28 @@ def main():
         run_and_report(f"le_{c_key}", f"Lẻ {c_name}", "phim-le", country=c_name, is_movie=True)
         run_and_report(f"bo_{c_key}", f"Bộ {c_name}", "phim-bo", country=c_name, is_movie=False)
 
-    # 2. Xử lý logic Trending 3 ngày/lần
-    should_update_trending = True
-    if os.path.exists(TIME_FILE):
-        with open(TIME_FILE, "r") as f:
-            try:
-                last_date = datetime.strptime(f.read().strip(), "%Y-%m-%d")
-                if datetime.now() < last_date + timedelta(days=3):
-                    should_update_trending = False
-            except: pass
+    # 2. Luôn làm mới Trending từ dữ liệu vừa hốt
+    print("\n[Hệ thống] Đang cập nhật Top Trending mới nhất...")
+    final_data["trending_phim_bo"] = interleave_trending(
+        final_data.get("bo_trung", []), 
+        final_data.get("bo_han", []),
+        final_data.get("bo_au_my", []), 
+        final_data.get("bo_thai", [])
+    )
+    report.append(f"| {'Top Phim Bộ':22} | {'🔥 CẬP NHẬT':16} |")
 
-    old_data = {}
-    if not should_update_trending and os.path.exists(DATA_FILE):
-        with open(DATA_FILE, "r", encoding="utf-8") as f:
-            try: old_data = json.load(f)
-            except: pass
-
-    if should_update_trending:
-        print("\n[Hệ thống] Đang làm mới Trending...")
-        final_data["trending_phim_bo"] = interleave_trending(
-            final_data.get("bo_trung", []), final_data.get("bo_han", []),
-            final_data.get("bo_au_my", []), final_data.get("bo_thai", [])
-        )
-        with open(TIME_FILE, "w") as f:
-            f.write(datetime.now().strftime("%Y-%m-%d"))
-        report.append(f"| {'Top Phim Bộ':22} | {'🔥 MỚI':16} |")
-    else:
-        print("\n[Hệ thống] Giữ Trending cũ.")
-        final_data["trending_phim_bo"] = old_data.get("trending_phim_bo", [])
-        report.append(f"| {'Top Phim Bộ':22} | {'♻️ CŨ':16} |")
-
-    # 3. Lọc Lồng Tiếng / Thuyết Minh bằng API chuẩn
+    # 3. Lọc Lồng Tiếng / Thuyết Minh
     final_data["long_tieng"] = fetch_by_lang("long-tieng", "Lồng Tiếng")
     final_data["thuyet_minh"] = fetch_by_lang("thuyet-minh", "Thuyết Minh")
     
     report.append(f"| {'Lồng Tiếng':22} | {('✅ ĐỦ' if len(final_data['long_tieng'])>=TARGET_COUNT else '⚠️ THIẾU'):16} |")
     report.append(f"| {'Thuyết Minh':22} | {('✅ ĐỦ' if len(final_data['thuyet_minh'])>=TARGET_COUNT else '⚠️ THIẾU'):16} |")
 
-    # 4. Lưu file JSON
+    # 4. Lưu file JSON (Minify để app load nhanh)
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
 
-    # 5. IN BÁO CÁO CUỐI CÙNG
+    # 5. IN BÁO CÁO
     print("\n" + "="*45)
     print(f"   BÁO CÁO CRAWL - {datetime.now().strftime('%d/%m/%Y %H:%M')}")
     print("="*45)
