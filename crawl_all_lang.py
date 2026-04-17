@@ -1,21 +1,34 @@
 import requests
 import json
 import time
-import os
 from concurrent.futures import ThreadPoolExecutor
 
 # --- CẤU HÌNH ---
 BASE_URL = "https://phimapi.com/v1/api"
-# Quét từ 2026 lùi về 2010
-YEAR_RANGE = list(range(2026, 2009, -1)) 
-# Mỗi loại lấy 500 phim cho kho tổng hợp
-LIMIT_PER_LANG = 500 
+YEARS = [2026, 2025, 2024] # Với thể loại, mình ưu tiên phim mới cho chất lượng
+LIMIT_PER_SECTION = 100 
 MAX_WORKERS = 3
-# ĐÂY LÀ TÊN FILE SẼ LƯU
 OUTPUT_FILE = "data_all_lang_library.json"
 
+# Danh sách slug Thể loại và Quốc gia ní muốn lấy (có thể thêm bớt tùy ý)
+CATEGORIES = [
+    {"name": "Hành Động", "slug": "hanh-dong"},
+    {"name": "Cổ Trang", "slug": "co-trang"},
+    {"name": "Chiến Tranh", "slug": "chien-tranh"},
+    {"name": "Viễn Tưởng", "slug": "vien-tuong"},
+    {"name": "Kinh Dị", "slug": "kinh-di"},
+    {"name": "Tâm Lý", "slug": "tam-ly"}
+]
+
+COUNTRIES = [
+    {"name": "Hàn Quốc", "slug": "han-quoc"},
+    {"name": "Trung Quốc", "slug": "trung-quoc"},
+    {"name": "Âu Mỹ", "slug": "au-my"},
+    {"name": "Nhật Bản", "slug": "nhat-ban"},
+    {"name": "Thái Lan", "slug": "thai-lan"}
+]
+
 def get_data(url, params=None):
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
     try:
         res = requests.get(url, params=params, timeout=20)
         if res.status_code == 200: return res.json()
@@ -25,39 +38,42 @@ def get_data(url, params=None):
 def fetch_detail(slug):
     return get_data(f"https://phimapi.com/phim/{slug}")
 
-def crawl_entire_library(lang_code, lang_name):
+def crawl_by_filter(filter_type, slug, display_name):
+    """
+    filter_type: 'nam', 'the-loai', 'quoc-gia'
+    """
     results = []
-    seen_slugs = set()
-    print(f"\n[BẮT ĐẦU] Đang xây dựng kho phim {lang_name}...")
+    seen = set()
+    print(f"> Đang hốt mục: {display_name}...")
 
-    for year in YEAR_RANGE:
-        if len(results) >= LIMIT_PER_LANG: break
+    # Quét qua các năm để đảm bảo có phim mới nhất cho thể loại đó
+    for year in YEARS:
+        if len(results) >= LIMIT_PER_SECTION: break
         
+        # Dùng API Năm kết hợp lọc category/country
         url = f"{BASE_URL}/nam/{year}"
         params = {
-            "page": 1, 
-            "sort_lang": lang_code,
+            "page": 1,
+            "limit": 64,
             "sort_field": "modified.time",
-            "sort_type": "desc",
-            "limit": 64 
+            "sort_type": "desc"
         }
-        
+        if filter_type == 'the-loai': params['category'] = slug
+        if filter_type == 'quoc-gia': params['country'] = slug
+        if filter_type == 'lang': params['sort_lang'] = slug
+
         data = get_data(url, params)
-        if not data or 'data' not in data or not data['data'].get('items'):
-            continue
+        if not data or 'data' not in data or not data['data'].get('items'): continue
             
         items = data['data']['items']
-        slugs_to_fetch = [it['slug'] for it in items if it['slug'] not in seen_slugs]
+        slugs = [it['slug'] for it in items if it['slug'] not in seen]
         
-        if not slugs_to_fetch: continue
-
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            details = list(executor.map(fetch_detail, slugs_to_fetch))
+            details = list(executor.map(fetch_detail, slugs))
 
         for detail in details:
-            if len(results) >= LIMIT_PER_LANG: break
+            if len(results) >= LIMIT_PER_SECTION: break
             if not detail or 'movie' not in detail: continue
-            
             m = detail['movie']
             results.append({
                 "name": m.get('name'),
@@ -65,46 +81,44 @@ def crawl_entire_library(lang_code, lang_name):
                 "slug": m.get('slug'),
                 "thumb": m.get('thumb_url'),
                 "poster": m.get('poster_url'),
-                "sub_type": lang_name,
+                "sub_type": "Thuyết Minh" if "Thuyết Minh" in str(m.get('lang')) else "Vietsub",
                 "current_episode": m.get('episode_current', 'Full'),
-                "total_episodes": str(m.get('episode_total', '1')),
                 "country": m.get('country', [{}])[0].get('name', '')
             })
-            seen_slugs.add(m.get('slug'))
-
-        print(f"  > Năm {year}: Đã hốt được {len(results)} phim {lang_name}")
-        time.sleep(0.5)
-
+            seen.add(m.get('slug'))
+        time.sleep(0.3)
     return results
 
 def main():
     start_time = time.time()
-    library_data = {}
+    final_library = {
+        "long_tieng": [],
+        "thuyet_minh": [],
+        "the_loai": {},
+        "quoc_gia": {}
+    }
 
-    # 1. Quét kho Lồng Tiếng
-    library_data["all_long_tieng"] = crawl_entire_library("long-tieng", "Lồng Tiếng")
-    
-    # 2. Quét kho Thuyết Minh
-    library_data["all_thuyet_minh"] = crawl_entire_library("thuyet-minh", "Thuyết Minh")
+    # 1. Quét Lồng Tiếng & Thuyết Minh (Kho 100 phim/loại)
+    # Tăng limit riêng cho mục này vì ní muốn nó là "Thư viện"
+    global LIMIT_PER_SECTION
+    LIMIT_PER_SECTION = 100 
+    final_library["long_tieng"] = crawl_by_filter('lang', 'long-tieng', 'Lồng Tiếng')
+    final_library["thuyet_minh"] = crawl_by_filter('lang', 'thuyet-minh', 'Thuyết Minh')
 
-    # 3. LƯU DỮ LIỆU VÀO FILE JSON (Đoạn này nè ní!)
-    print(f"\n[Hệ thống] Đang ghi dữ liệu vào file: {OUTPUT_FILE}...")
-    try:
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(library_data, f, ensure_ascii=False, indent=4)
-        print(f"✅ Đã lưu file thành công!")
-    except Exception as e:
-        print(f"❌ Lỗi khi lưu file: {e}")
+    # 2. Quét Thể Loại (Kho 30 phim/loại)
+    LIMIT_PER_SECTION = 30
+    for cat in CATEGORIES:
+        final_library["the_loai"][cat['slug']] = crawl_by_filter('the-loai', cat['slug'], cat['name'])
 
-    # 4. Tổng kết
-    total_films = len(library_data["all_long_tieng"]) + len(library_data["all_thuyet_minh"])
-    duration = int(time.time() - start_time)
-    print(f"\n" + "="*40)
-    print(f" TỔNG KẾT QUÉT THƯ VIỆN")
-    print(f" - Tổng phim: {total_films}")
-    print(f" - Thời gian: {duration // 60} phút {duration % 60} giây")
-    print(f" - Tên file: {OUTPUT_FILE}")
-    print("="*40)
+    # 3. Quét Quốc Gia (Kho 30 phim/loại)
+    for cou in COUNTRIES:
+        final_library["quoc_gia"][cou['slug']] = crawl_by_filter('quoc-gia', cou['slug'], cou['name'])
+
+    # Lưu file
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(final_library, f, ensure_ascii=False, indent=4)
+
+    print(f"\n✅ ĐÃ XONG! Tổng thời gian: {int(time.time() - start_time)//60} phút.")
 
 if __name__ == "__main__":
     main()
