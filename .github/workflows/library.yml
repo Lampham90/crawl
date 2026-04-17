@@ -1,0 +1,27 @@
+name: Full Library Update
+
+on:
+  schedule:
+    # Chạy vào 2h sáng VN ngày 1, 11, 21 hàng tháng
+    - cron: '0 19 1,11,21 * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Run Scan
+        run: |
+          pip install requests
+          python crawl_all_lang.py
+      - name: Push data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git add data_all_lang_library.json
+          git commit -m "Update Library $(date)" || exit 0
+          git push
