@@ -10,7 +10,7 @@ from datetime import datetime
 BASE_URL = "https://phimapi.com/v1/api"
 YEARS = [2026, 2025, 2024] 
 TARGET_COUNT = 15
-MAX_WORKERS = 3 # Tăng nhẹ worker cho nhanh
+MAX_WORKERS = 3 
 DATA_FILE = "data_2026_perfect.json"
 
 def get_data(url, params=None):
@@ -120,17 +120,22 @@ def fetch_by_lang(lang_code, lang_name):
         time.sleep(0.3)
     return results
 
-def interleave_trending(tr, han, au, thai):
-    # Trộn các nguồn phim khác nhau để tạo cảm giác Trending đa dạng
+def interleave_trending(tr, han, au, thai, rap):
+    # Trộn các nguồn phim để tạo Trending, ưu tiên thêm phim Chiếu Rạp
     trending = []
-    l_tr, l_han, l_au, l_thai = list(tr[:5]), list(han[:4]), list(au[:3]), list(thai[:3])
-    while l_tr or l_han or l_au or l_thai:
+    l_tr = list(tr[:4])
+    l_han = list(han[:3])
+    l_au = list(au[:3])
+    l_thai = list(thai[:2])
+    l_rap = list(rap[:3]) # Lấy 3 phim chiếu rạp cho Trending
+
+    while l_tr or l_han or l_au or l_thai or l_rap:
         if l_tr: trending.append(l_tr.pop(0))
+        if l_rap: trending.append(l_rap.pop(0))
         if l_han: trending.append(l_han.pop(0))
         if l_au: trending.append(l_au.pop(0))
         if l_thai: trending.append(l_thai.pop(0))
     
-    # Xáo trộn nhẹ và lấy đúng 15 phim
     random.shuffle(trending)
     return trending[:15]
 
@@ -146,23 +151,27 @@ def main():
         report.append(f"| {name:22} | {status:16} |")
         return res
 
-    # 1. Quét dữ liệu nền
+    # 1. Quét các mục cũ (Giữ nguyên Key cho Android)
     run_and_report("anime_movie", "Anime Movie", "hoat-hinh", is_movie=True)
     run_and_report("anime_nhat", "Anime Nhật", "hoat-hinh", country="Nhật Bản", is_movie=False)
     run_and_report("hh_trung_quoc", "HH Trung Quốc", "hoat-hinh", country="Trung Quốc", is_movie=False)
+    
+    # --- MỤC MỚI: PHIM CHIẾU RẠP ---
+    rap_data = run_and_report("phim_chieu_rap", "Phim Chiếu Rạp", "phim-chieu-rap")
 
     mapping = [("Việt Nam", "vn"), ("Hàn Quốc", "han"), ("Trung Quốc", "trung"), ("Âu Mỹ", "au_my"), ("Thái Lan", "thai")]
     for c_name, c_key in mapping:
         run_and_report(f"le_{c_key}", f"Lẻ {c_name}", "phim-le", country=c_name, is_movie=True)
         run_and_report(f"bo_{c_key}", f"Bộ {c_name}", "phim-bo", country=c_name, is_movie=False)
 
-    # 2. Luôn làm mới Trending từ dữ liệu vừa hốt
-    print("\n[Hệ thống] Đang cập nhật Top Trending mới nhất...")
+    # 2. Làm mới Trending (Đã gộp phim chiếu rạp vào đây)
+    print("\n[Hệ thống] Đang cập nhật Top Trending (bao gồm Chiếu Rạp)...")
     final_data["trending_phim_bo"] = interleave_trending(
         final_data.get("bo_trung", []), 
         final_data.get("bo_han", []),
         final_data.get("bo_au_my", []), 
-        final_data.get("bo_thai", [])
+        final_data.get("bo_thai", []),
+        final_data.get("phim_chieu_rap", [])
     )
     report.append(f"| {'Top Phim Bộ':22} | {'🔥 CẬP NHẬT':16} |")
 
@@ -173,13 +182,13 @@ def main():
     report.append(f"| {'Lồng Tiếng':22} | {('✅ ĐỦ' if len(final_data['long_tieng'])>=TARGET_COUNT else '⚠️ THIẾU'):16} |")
     report.append(f"| {'Thuyết Minh':22} | {('✅ ĐỦ' if len(final_data['thuyet_minh'])>=TARGET_COUNT else '⚠️ THIẾU'):16} |")
 
-    # 4. Lưu file JSON (Minify để app load nhanh)
+    # 4. Lưu file JSON (Giữ indent=4 cho ní dễ kiểm tra)
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
 
     # 5. IN BÁO CÁO
     print("\n" + "="*45)
-    print(f"   BÁO CÁO CRAWL - {datetime.now().strftime('%d/%m/%Y %H:%M')}")
+    print(f"    BÁO CÁO CRAWL - {datetime.now().strftime('%d/%m/%Y %H:%M')}")
     print("="*45)
     print(f"| {'Hạng mục':22} | {'Trạng thái':16} |")
     print("-" * 45)
