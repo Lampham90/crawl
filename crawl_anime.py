@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 BASE_URL = "https://phimapi.com/v1/api"
 YEARS = [2026, 2025, 2024] 
 TARGET_COUNT = 15
-MAX_WORKERS = 3
+MAX_WORKERS = 2
 DATA_FILE = "data_2026_perfect.json"
 TIME_FILE = "last_run.txt"
 
