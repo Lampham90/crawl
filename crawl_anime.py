@@ -3,45 +3,41 @@ import json
 import time
 from concurrent.futures import ThreadPoolExecutor
 
-# --- CẤU HÌNH TEST ---
+# --- CẤU HÌNH ---
 BASE_URL = "https://phimapi.com/v1/api"
-YEARS = [2026, 2025, 2024]
-TARGET_COUNT = 15
-MAX_WORKERS = 3
-TEST_FILE = "data_test_lang.json"
+# Quét từ năm hiện tại lùi về năm 2010 (hoặc sâu hơn tùy ní)
+YEAR_RANGE = list(range(2026, 2009, -1)) 
+LIMIT_PER_LANG = 300 # Giới hạn lấy 300 phim mỗi loại để tránh file quá nặng
+MAX_WORKERS = 5
+OUTPUT_FILE = "data_all_lang_library.json"
 
 def get_data(url, params=None):
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
     try:
-        res = requests.get(url, params=params, timeout=15)
+        res = requests.get(url, params=params, timeout=20)
         if res.status_code == 200: return res.json()
     except: pass
     return None
 
 def fetch_detail(slug):
-    # API chi tiết vẫn dùng endpoint cũ
     return get_data(f"https://phimapi.com/phim/{slug}")
 
-def fetch_by_lang(lang_code, lang_name):
-    """
-    lang_code: 'long-tieng' hoặc 'thuyet-minh'
-    """
+def crawl_entire_library(lang_code, lang_name):
     results = []
-    local_seen = set()
-    print(f"\n[Săn tìm] Phim {lang_name} (Sử dụng API lọc theo năm)...")
+    seen_slugs = set()
+    print(f"\n[BẮT ĐẦU] Quét toàn bộ kho phim {lang_name}...")
 
-    for year in YEARS:
-        if len(results) >= TARGET_COUNT: break
+    for year in YEAR_RANGE:
+        if len(results) >= LIMIT_PER_LANG: break
         
-        # Dùng API theo năm để lọc chính xác ngôn ngữ
-        # GET https://phimapi.com/v1/api/nam/{year}
+        # Gọi API theo năm kết hợp lọc ngôn ngữ
         url = f"{BASE_URL}/nam/{year}"
         params = {
             "page": 1,
             "sort_field": "modified.time",
             "sort_type": "desc",
             "sort_lang": lang_code,
-            "limit": 64
+            "limit": 64 # Lấy tối đa 1 trang mỗi năm để đa dạng phim
         }
         
         data = get_data(url, params)
@@ -49,23 +45,19 @@ def fetch_by_lang(lang_code, lang_name):
             continue
             
         items = data['data']['items']
-        # Chỉ lấy những slug chưa có trong list
-        slugs_to_fetch = [item['slug'] for item in items if item['slug'] not in local_seen]
+        slugs_to_fetch = [it['slug'] for it in items if it['slug'] not in seen_slugs]
         
         if not slugs_to_fetch: continue
 
-        # Lấy chi tiết để có đủ thông tin thumb, poster, tập phim...
+        # Lấy chi tiết song song
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             details = list(executor.map(fetch_detail, slugs_to_fetch))
 
         for detail in details:
-            if len(results) >= TARGET_COUNT: break
+            if len(results) >= LIMIT_PER_LANG: break
             if not detail or 'movie' not in detail: continue
             
             m = detail['movie']
-            # Mặc dù API đã lọc, tui vẫn check lại cho chắc cú
-            lang = str(m.get('lang', ''))
-            
             results.append({
                 "name": m.get('name'),
                 "year": m.get('year'),
@@ -75,30 +67,30 @@ def fetch_by_lang(lang_code, lang_name):
                 "sub_type": lang_name,
                 "current_episode": m.get('episode_current', 'Full'),
                 "total_episodes": str(m.get('episode_total', '1')),
-                "country": m.get('country', [{}])[0].get('name', ''),
-                "lang_raw": lang
+                "country": m.get('country', [{}])[0].get('name', '')
             })
-            local_seen.add(m.get('slug'))
-            
-        print(f"  + Năm {year}: Đã lấy {len(results)}/{TARGET_COUNT}")
-        time.sleep(0.5)
+            seen_slugs.add(m.get('slug'))
+
+        print(f"  > Năm {year}: Đã gom {len(results)} phim {lang_name}")
+        time.sleep(1) # Nghỉ lâu hơn tí vì đây là quét diện rộng
 
     return results
 
 def main():
     start_time = time.time()
-    test_data = {}
+    library_data = {}
 
-    # Chạy test riêng 2 mục
-    test_data["long_tieng"] = fetch_by_lang("long-tieng", "Lồng Tiếng")
-    test_data["thuyet_minh"] = fetch_by_lang("thuyet-minh", "Thuyết Minh")
+    # Quét cả 2 kho
+    library_data["all_long_tieng"] = crawl_entire_library("long-tieng", "Lồng Tiếng")
+    library_data["all_thuyet_minh"] = crawl_entire_library("thuyet-minh", "Thuyết Minh")
 
-    # Lưu file test
-    with open(TEST_FILE, "w", encoding="utf-8") as f:
-        json.dump(test_data, f, ensure_ascii=False, indent=4)
+    # Lưu file
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(library_data, f, ensure_ascii=False, indent=4)
 
-    print(f"\n[XONG] Đã tạo file {TEST_FILE}")
-    print(f"Thời gian test: {int(time.time() - start_time)}s")
+    total_time = int(time.time() - start_time)
+    print(f"\n[HOÀN THÀNH] Đã hốt xong {len(library_data['all_long_tieng']) + len(library_data['all_thuyet_minh'])} phim.")
+    print(f"Thời gian thực hiện: {total_time // 60} phút {total_time % 60} giây.")
 
 if __name__ == "__main__":
     main()
