@@ -9,8 +9,8 @@ from datetime import datetime
 # --- CẤU HÌNH ---
 BASE_URL = "https://phimapi.com/v1/api"
 TARGET_COUNT = 15
-MAX_WORKERS = 3
-DATA_FILE = "data_all_lang_library.json"
+MAX_WORKERS = 2
+DATA_FILE = "data_2026_perfect.json"
 
 def get_data(url, params=None):
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"}
@@ -26,19 +26,19 @@ def fetch_detail(slug):
 def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None):
     results = []
     local_seen = set()
-    print(f"> Đang hốt mới nhất: {target_name}...")
+    print(f"> Đang quét: {target_name}...")
     
-    for page in range(1, 6):
+    # Duyệt qua các trang để lấy phim mới nhất (không lọc theo năm)
+    for page in range(1, 10):
         if len(results) >= TARGET_COUNT: break
-        
         url = f"{BASE_URL}/danh-sach/{endpoint}"
-        params = {"page": page, "limit": 40}
+        params = {"page": page, "limit": 64}
         data = get_data(url, params)
         
         if not data or 'data' not in data or not data['data'].get('items'): break
         items = data['data']['items']
-        
         slugs_to_fetch = [item['slug'] for item in items if item['slug'] not in local_seen]
+        
         if not slugs_to_fetch: continue
 
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
@@ -54,6 +54,7 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
             ep_total_val = str(m.get('episode_total', '1'))
             is_movie = (m_type == 'single' or ep_total_val == "1")
 
+            # Lọc theo nước và thể loại, bỏ điều kiện m_year == year
             if (not country_target or country_target in countries) and \
                (is_movie_logic is None or is_movie == is_movie_logic):
                 
@@ -62,7 +63,7 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
 
                 results.append({
                     "name": m.get('name'),
-                    "year": m.get('year'),
+                    "year": int(m.get('year', 0)),
                     "slug": m.get('slug'),
                     "thumb": m.get('thumb_url'),
                     "poster": m.get('poster_url'),
@@ -73,36 +74,21 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
                     "description": desc
                 })
                 local_seen.add(m.get('slug'))
-        
-        time.sleep(0.2)
+        time.sleep(0.3)
     return results
 
 def main():
     start_time = time.time()
-    # Khởi tạo đúng cấu trúc Catalog để App TV/Web gọi cho chuẩn
-    final_data = {
-        "all_long_tieng": fetch_final("Lồng Tiếng", "phim-moi"),
-        "all_thuyet_minh": fetch_final("Thuyết Minh", "phim-moi"),
-        "phim_bo": fetch_final("Phim Bộ", "phim-bo"),
-        "the_loai": {
-            "kinh-di": fetch_final("Kinh Dị", "kinh-di"),
-            "hai-huoc": fetch_final("Hài Hước", "hai-huoc"),
-            "hoat-hinh": fetch_final("Hoạt Hình", "hoat-hinh"),
-            "phim-chieu-rap": fetch_final("Phim Rạp", "phim-chieu-rap")
-        },
-        "quoc_gia": {
-            "han-quoc": fetch_final("Hàn Quốc", "phim-moi", country_target="Hàn Quốc"),
-            "trung-quoc": fetch_final("Trung Quốc", "phim-moi", country_target="Trung Quốc"),
-            "au-my": fetch_final("Âu Mỹ", "phim-moi", country_target="Âu Mỹ"),
-            "nhat-ban": fetch_final("Nhật Bản", "phim-moi", country_target="Nhật Bản"),
-            "thai-lan": fetch_final("Thái Lan", "phim-moi", country_target="Thái Lan"),
-            "viet-nam": fetch_final("Việt Nam", "phim-moi", country_target="Việt Nam")
-        }
-    }
+    final_data = {}
 
-    # Lưu file nén gọn (Minify) để Web/TV load cho mượt
+    # Chạy các mục theo đúng logic cũ của ní
+    final_data["phim_bo_moi"] = fetch_final("Phim Bộ Mới", "phim-bo")
+    final_data["phim_le_moi"] = fetch_final("Phim Lẻ Mới", "phim-le")
+    final_data["hoat_hinh"] = fetch_final("Hoạt Hình", "hoat-hinh")
+    final_data["phim_chieu_rap"] = fetch_final("Phim Chiếu Rạp", "phim-chieu-rap")
+
     with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(final_data, f, ensure_ascii=False, separators=(',', ':'))
+        json.dump(final_data, f, ensure_ascii=False, indent=4)
 
     print(f"\n✅ Xong! Tổng thời gian: {int(time.time() - start_time)}s")
 
