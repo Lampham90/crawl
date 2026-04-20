@@ -13,7 +13,7 @@ MAX_WORKERS = 3
 DATA_FILE = "data_all_lang_library.json"
 
 def get_data(url, params=None):
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"}
     try:
         res = requests.get(url, params=params, timeout=15)
         if res.status_code == 200: return res.json()
@@ -26,7 +26,7 @@ def fetch_detail(slug):
 def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None):
     results = []
     local_seen = set()
-    print(f"> Đang quét: {target_name}...")
+    print(f"> Đang hốt mới nhất: {target_name}...")
     
     for page in range(1, 6):
         if len(results) >= TARGET_COUNT: break
@@ -73,34 +73,38 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
                     "description": desc
                 })
                 local_seen.add(m.get('slug'))
+        
         time.sleep(0.2)
     return results
 
 def main():
     start_time = time.time()
+    # Khởi tạo đúng cấu trúc Catalog để App TV/Web gọi cho chuẩn
     final_data = {
-        "anime_movie": [],
-        "anime_nhat": [],
-        "hh_trung_quoc": [],
-        "phim_bo": [],
-        "the_loai": {},
-        "quoc_gia": {}
+        "all_long_tieng": fetch_final("Lồng Tiếng", "phim-moi"),
+        "all_thuyet_minh": fetch_final("Thuyết Minh", "phim-moi"),
+        "phim_bo": fetch_final("Phim Bộ", "phim-bo"),
+        "the_loai": {
+            "kinh-di": fetch_final("Kinh Dị", "kinh-di"),
+            "hai-huoc": fetch_final("Hài Hước", "hai-huoc"),
+            "hoat-hinh": fetch_final("Hoạt Hình", "hoat-hinh"),
+            "phim-chieu-rap": fetch_final("Phim Rạp", "phim-chieu-rap")
+        },
+        "quoc_gia": {
+            "han-quoc": fetch_final("Hàn Quốc", "phim-moi", country_target="Hàn Quốc"),
+            "trung-quoc": fetch_final("Trung Quốc", "phim-moi", country_target="Trung Quốc"),
+            "au-my": fetch_final("Âu Mỹ", "phim-moi", country_target="Âu Mỹ"),
+            "nhat-ban": fetch_final("Nhật Bản", "phim-moi", country_target="Nhật Bản"),
+            "thai-lan": fetch_final("Thái Lan", "phim-moi", country_target="Thái Lan"),
+            "viet-nam": fetch_final("Việt Nam", "phim-moi", country_target="Việt Nam")
+        }
     }
 
-    # Hốt hàng mới nhất không cần lọc năm
-    final_data["anime_movie"] = fetch_final("Anime Movie", "hoat-hinh", is_movie_logic=True)
-    final_data["anime_nhat"] = fetch_final("Anime Nhật", "hoat-hinh", country_target="Nhật Bản", is_movie_logic=False)
-    final_data["hh_trung_quoc"] = fetch_final("HH Trung Quốc", "hoat-hinh", country_target="Trung Quốc", is_movie_logic=False)
-    final_data["phim_bo"] = fetch_final("Phim Bộ Mới", "phim-bo")
-
-    # Thể loại và Quốc gia mẫu
-    final_data["quoc_gia"]["han-quoc"] = fetch_final("Phim Hàn", "phim-moi", country_target="Hàn Quốc")
-    final_data["the_loai"]["kinh-di"] = fetch_final("Kinh Dị", "kinh-di")
-
+    # Lưu file nén gọn (Minify) để Web/TV load cho mượt
     with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(final_data, f, ensure_ascii=False, indent=4)
+        json.dump(final_data, f, ensure_ascii=False, separators=(',', ':'))
 
-    print(f"\n✅ Xong! Hoàn thành trong: {int(time.time() - start_time)}s")
+    print(f"\n✅ Xong! Tổng thời gian: {int(time.time() - start_time)}s")
 
 if __name__ == "__main__":
     main()
