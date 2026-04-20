@@ -8,7 +8,7 @@ from datetime import datetime
 
 # --- CẤU HÌNH ---
 BASE_URL = "https://phimapi.com/v1/api"
-YEARS = [2026, 2025, 2024] 
+
 TARGET_COUNT = 15
 MAX_WORKERS = 2
 DATA_FILE = "data_2026_perfect.json"
