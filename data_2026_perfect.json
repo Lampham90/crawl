@@ -1397,6 +1397,18 @@
     ],
     "le_trung": [
         {
+            "name": "Liêu Trai: Mỹ Nhân Thủ",
+            "year": 2026,
+            "slug": "lieu-trai-my-nhan-thu",
+            "thumb": "https://phimimg.com/upload/vod/20260421-1/72c23e6ba1f8dd8b0ceba723166862fb.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260421-1/1c742336fc9ee2f7a99328fd6396db38.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Trung Quốc",
+            "description": "Câu chuyện về thiếu nữ dũng cảm và thông minh A Nguyệt đến nhà trọ Duyệt Lai. Cô lấy danh nghĩa tổ chức tiệc Trung Thu để tập hợp tất cả những người liên quan đến vụ án &quot;thủy quái giết người&quot; xảy ra ba năm trước, khéo léo bày kế tìm ra hung thủ đã hại chết chị gái A Ly của mình năm đó. Cuối cùng cô phá bỏ mê tín, bảo vệ chính nghĩa."
+        },
+        {
             "name": "Thời Đại Cuồng Dã",
             "year": 2025,
             "slug": "thoi-dai-cuong-da",
@@ -1563,18 +1575,6 @@
             "total_episodes": "1",
             "country": "Trung Quốc",
             "description": "Bộ phim xoay quanh nữ cảnh sát đặc nhiệm Thịnh Nam. Trong một lần tham gia triển lãm trang sức, cô vô tình đối mặt với nhóm cướp hung tợn đang bắt giữ con tin. Với bản lĩnh của một đặc nhiệm, Thịnh Nam đã vượt qua mọi khó khăn, phối hợp cùng đồng đội dưới sự chỉ đạo của lãnh đạo cục. Dựa vào kỹ năng tác chiến thượng thừa và tâm lý vững vàng, cô đã phản công ngoạn mục giữa những cạm bẫy và âm mưu ám sát hiểm độc. Như một lưỡi dao sắc bén và bộ giáp kiên cường, Thịnh Nam chiến đấu hết mình, giáng đòn chính xác để đập tan âm mưu của nhóm tội phạm tài chính quốc tế, tóm gọn toàn bộ băng đảng."
-        },
-        {
-            "name": "Kiếm Âm Dương",
-            "year": 2021,
-            "slug": "kiem-am-duong",
-            "thumb": "https://phimimg.com/upload/vod/20260409-1/6dbe93cb3fb037e6865e72e6167bc17c.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260409-1/64881e07a219672d3777f9b08ca32f4c.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Trung Quốc",
-            "description": "Cả nhà của cô dâu Nguyên Như Ý bị giết hại vào đêm tân hôn và một người che mặt cứu nàng ra. Một năm sau, Như Ý được biết sự thật từ người buôn tình báo Bao Đại Đình. Hóa ra năm đó cha nàng từng giết một cường đạo để cứu giúp bà con và con của cường đạo đó Đà Gia tàn sát nhà Nguyên trả thù cho cha. Với sự giúp đỡ của Bao Đại Đình, Như Ý tìm được nhược điểm của kẻ địch và lên đường trả thù..."
         }
     ],
     "bo_trung": [
@@ -2417,16 +2417,76 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Tình Yêu Đích Thực Sau Khi Cưới (Chân Tình Sau Cưới)",
-            "year": 2026,
-            "slug": "tinh-yeu-dich-thuc-sau-khi-cuoi-chan-tinh-sau-cuoi",
-            "thumb": "https://phimimg.com/upload/vod/20260205-1/e3e53c43db70b1e3544a6262b291d02b.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260205-1/3ff78f2b631d5d8aaf7c891486b67bd8.jpg",
+            "name": "Điệp Vụ Cuối Cùng",
+            "year": 2023,
+            "slug": "diep-vu-cuoi-cung",
+            "thumb": "https://phimimg.com/upload/vod/20260420-1/ae94cb6ae984a4b32e7dec6923db9b44.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260420-1/f2b288cf6246c54f5abf2d8f1641a532.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (12/12)",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Ai đó đang tống tiền CIA bằng cách ám sát các nhà báo nước ngoài và khiến cơ quan này có vẻ phải chịu trách nhiệm. Khi thế giới bắt đầu đoàn kết chống lại Hoa Kỳ, CIA phải lôi kéo đặc vụ xuất sắc nhất và nổi loạn nhất của mình sắp nghỉ hưu, buộc anh ta phải đối mặt với quá khứ đầy sóng gió của mình trong khi làm sáng tỏ một âm mưu quốc tế."
+        },
+        {
+            "name": "Cô Vợ Tí Hon",
+            "year": 2026,
+            "slug": "co-vo-ti-hon",
+            "thumb": "https://phimimg.com/upload/vod/20260410-1/66328b575dbd7d62a709496af3774029.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260410-1/b77835417aa223d6b9b8e96bc558b064.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Một bộ phim hài kịch hôn nhân với cốt truyện độc đáo, khám phá sự cân bằng quyền lực giữa hai vợ chồng, Lindy và Les, những người đấu tranh giành quyền tối cao sau khi một tai nạn công nghệ gây ra cuộc khủng hoảng tột cùng trong mối quan hệ của họ."
+        },
+        {
+            "name": "Babylon",
+            "year": 2022,
+            "slug": "babylon",
+            "thumb": "https://phimimg.com/upload/vod/20260420-1/9475295bef3b1a5b8a2586e4ea960dc6.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260420-1/1532c970fc346bd5187c21548bc597a0.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Từ đạo diễn Damien Chazelle, BABYLON là bộ phim lấy bối cảnh Los Angeles vào những năm 1920, do Brad Pitt, Margot Robbie và Diego Calva đóng chính, cùng dàn diễn viên bao gồm Jovan Adepo, Li Jun Li và Jean Smart. Một câu chuyện về sự tham vọng và xa hoa thái quá, cùng với đó là sự thăng trầm của nhiều nhân vật trong thời đại suy đồi và sa đọa không thể kiềm chế ở Hollywood thời sơ khai."
+        },
+        {
+            "name": "Phạm Vi 800m",
+            "year": 2026,
+            "slug": "pham-vi-800m",
+            "thumb": "https://phimimg.com/upload/vod/20260420-1/d44eff81da6dba535352bd3a6cb1e06e.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260420-1/44c57e244639f8e213fe8b8711cc3be0.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "20",
+            "country": "Trung Quốc",
+            "description": "Vào cuối thập niên 90 của thế kỷ trước, tại khu mỏ của thị trấn Phong Dương, sự xuất hiện của một thi thể nữ vô danh đã phá vỡ vẻ yên bình bề ngoài ở nơi đây. Cảnh sát Trần Hồng Binh lập tức tiến hành điều tra và bất ngờ phát hiện mảnh kính trên cổ nạn nhân rất giống với vỏ chai của một loại thuốc cấm. Trong một lần làm nhiệm vụ sau đó, anh còn phát hiện trong thị trấn có người đang sử dụng chính loại thuốc cấm này. Để tìm ra sự thật và triệt phá đường dây buôn bán thuốc cấm, Trần Hồng Binh cùng đồng đội đã tiến hành điều tra. Nhưng điều anh không ngờ tới là kẻ đứng sau tất cả lại chính là người thân cận nhất của mình. Sự giằng xé giữa trách nhiệm và tình thân, giữa pháp luật và nhân tính, khiến gia đình anh cùng cả thị trấn phải đối mặt với những lựa chọn và thử thách về thiện ác."
+        },
+        {
+            "name": "Nữ Thần Chính Nghĩa (Nữ Thần Công Lý)",
+            "year": 2026,
+            "slug": "nu-than-chinh-nghia-nu-than-cong-ly",
+            "thumb": "https://phimimg.com/upload/vod/20260418-1/ae1cea3cd7cc5ea36f5b49d4753fca33.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260418-1/3edd7be12c0753eb113fe1211e53adf0.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Tập 7",
+            "total_episodes": "25",
+            "country": "Trung Quốc",
+            "description": "Ở đỉnh cao sự nghiệp, Thẩm phán Ngôn Huệ Tri của Tòa án Tối cao bất ngờ xin chuyển xuống Tòa án Thiếu niên, khiến nhiều người ngỡ ngàng. Không chỉ từ bỏ tiền đồ đang rộng mở, quyết định &quot;đi ngược dòng&quot; này còn đẩy cuộc hôn nhân giữa cô với chồng là công tố viên Khâu Quang Chính đến bờ vực đổ vỡ. Vụ án then chốt khiến cô chấp nhận đánh đổi tất cả, chính là vụ mà luật sư danh tiếng Cao Thục Hoa biện hộ cho con trai của mình. Để rồi từ đó, Huệ Tri quyết tâm đi sâu vào những vụ án liên quan đến thanh thiếu niên, trực tiếp xử lý từng vụ ngay từ nguồn – Tòa án Thiếu niên, nhằm ngăn chặn sự hình thành những thiếu niên &quot;ác ma&quot; trong xã hội."
+        },
+        {
+            "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+            "year": 2026,
+            "slug": "phu-nhan-dai-quan-the-ky-21",
+            "thumb": "https://phimimg.com/upload/vod/20260411-1/e6bb5b889cf566a8851149e472bd9a0e.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260411-1/19fba2a3671a42514f6506f9d5d3534a.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
             "total_episodes": "12",
-            "country": "Thái Lan",
-            "description": "Sau khi kết hôn với một kẻ lừa đảo vì tình yêu, người thừa kế tỷ phú phải tìm cách thoát khỏi cái bẫy tiền hôn nhân đầy hỗn loạn. Trong khi đó, người em họ của anh ta lại tiếp tục rơi vào lưới tình với một kẻ lừa đảo khác."
+            "country": "Hàn Quốc",
+            "description": "Trong một chế độ quân chủ lập hiến thế kỷ 21, một người phụ nữ có tất cả mọi thứ nhưng vẫn là thường dân tình cờ gặp gỡ một vị hoàng tử, người dù thuộc dòng dõi hoàng tộc nhưng lại cảm thấy bất lực—dẫn đến một tình yêu vượt qua rào cản địa vị xã hội."
         },
         {
             "name": "Cuộc Chiến Trong Chúng Ta",
@@ -2441,6 +2501,30 @@
             "description": "Chạm đáy sau 20 năm theo đuổi bộ phim đầu tay, một đạo diễn đầy khát vọng gặp một nhà sản xuất kiệt sức – và rồi cô giúp anh tìm lại giá trị bản thân."
         },
         {
+            "name": "Tình Yêu Đích Thực Sau Khi Cưới (Chân Tình Sau Cưới)",
+            "year": 2026,
+            "slug": "tinh-yeu-dich-thuc-sau-khi-cuoi-chan-tinh-sau-cuoi",
+            "thumb": "https://phimimg.com/upload/vod/20260205-1/e3e53c43db70b1e3544a6262b291d02b.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260205-1/3ff78f2b631d5d8aaf7c891486b67bd8.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (12/12)",
+            "total_episodes": "12",
+            "country": "Thái Lan",
+            "description": "Sau khi kết hôn với một kẻ lừa đảo vì tình yêu, người thừa kế tỷ phú phải tìm cách thoát khỏi cái bẫy tiền hôn nhân đầy hỗn loạn. Trong khi đó, người em họ của anh ta lại tiếp tục rơi vào lưới tình với một kẻ lừa đảo khác."
+        },
+        {
+            "name": "Lật Ngược Cuộc Đời",
+            "year": 2026,
+            "slug": "lat-nguoc-cuoc-doi",
+            "thumb": "https://phimimg.com/upload/vod/20260420-1/a3d7bdf94a644f3705ce4e429a2a9b70.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260420-1/ce2259a1837f23b905c9d241dc0fccf8.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 10",
+            "total_episodes": "30",
+            "country": "Trung Quốc",
+            "description": "Chàng trai trẻ Trương Tiểu Bắc rơi vào bước đường cùng, nhưng bất ngờ có được chiếc chìa khóa thay đổi số phận khi hoán đổi cuộc đời với Thịnh Nguyên Châu, cậu ấm của một gia tộc tài phiệt. Từ vực sâu nghịch cảnh, cậu từng bước vươn mình, đổi đời để bảo vệ gia đình, đồng thời quyết tâm truy tìm hung thủ đã hại chị gái mình.Hai thiếu niên, trong hành trình cứu rỗi và chữa lành lẫn nhau, phải đối mặt với vô vàn thử thách về bản chất con người trong 30 ngày định mệnh. Cuối cùng, cả hai bắt tay vạch trần âm mưu chốn hào môn và tung đòn báo thù đanh thép nhắm thẳng vào kẻ đứng sau mọi chuyện!"
+        },
+        {
             "name": "Ronaldinho: Huyền Thoại Duy Nhất",
             "year": 2026,
             "slug": "ronaldinho-huyen-thoai-duy-nhat",
@@ -2453,16 +2537,28 @@
             "description": "Bộ phim tài liệu theo chân hành trình của Ronaldinho từ cậu bé đam mê bóng đá tại Porto Alegre đến khi trở thành biểu tượng toàn cầu, tái hiện những khoảnh khắc đỉnh cao trong sự nghiệp, danh hiệu Quả Bóng Vàng và phong cách chơi bóng đầy ngẫu hứng làm say đắm hàng triệu người hâm mộ."
         },
         {
-            "name": "Cô Vợ Tí Hon",
+            "name": "Bù Nhìn Bóng Đêm",
             "year": 2026,
-            "slug": "co-vo-ti-hon",
-            "thumb": "https://phimimg.com/upload/vod/20260410-1/66328b575dbd7d62a709496af3774029.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260410-1/b77835417aa223d6b9b8e96bc558b064.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "10",
+            "slug": "bu-nhin-bong-dem",
+            "thumb": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260421-1/f650d2178218b84e7277bdafbf2a95b9.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 1",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Bị giáng chức về vùng quê Gangseong, cựu thám tử sừng sỏ Kang Tae-ju rơi vào tâm điểm của chuỗi vụ án giết người hàng loạt rúng động. Để lật tẩy sự thật tàn khốc bị vùi lấp suốt 31 năm (từ 1988 đến 2019) và khôi phục lại danh dự, anh buộc phải bắt tay với kẻ mình căm ghét nhất - công tố viên Cha Shi-young. Khi lần theo sự thật, họ nhận ra kẻ sát nhân không chỉ lặp lại quá khứ mà đang hoàn thành thứ còn dang dở."
+        },
+        {
+            "name": "Trò Chơi Của Quỷ 2",
+            "year": 2026,
+            "slug": "tro-choi-cua-quy-2",
+            "thumb": "https://phimimg.com/upload/vod/20260414-1/1c7cf71a4786d031a3c9037657ba5d2d.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260414-1/23fcd2dcacc4a0d5b25b3d21ba98520c.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Full",
+            "total_episodes": "1",
             "country": "Âu Mỹ",
-            "description": "Một bộ phim hài kịch hôn nhân với cốt truyện độc đáo, khám phá sự cân bằng quyền lực giữa hai vợ chồng, Lindy và Les, những người đấu tranh giành quyền tối cao sau khi một tai nạn công nghệ gây ra cuộc khủng hoảng tột cùng trong mối quan hệ của họ."
+            "description": "Chỉ ít phút sau khi sống sót khỏi cuộc tấn công toàn diện của gia tộc Le Domas, Grace nhận ra mình đã bước sang cấp độ tiếp theo của trò chơi ác mộng — lần này, với người chị em xa cách Faith đứng bên cạnh. Grace chỉ có một cơ hội để sống sót, bảo vệ em gái, và giành lấy Ngai Cao của Hội Đồng — thế lực đang kiểm soát cả thế giới. Bốn gia tộc đối địch đang truy lùng cô để đoạt lấy ngai vàng, và kẻ chiến thắng sẽ thống trị tất cả."
         },
         {
             "name": "Yêu Thầy Bằng Cả Thế Giới",
@@ -2489,54 +2585,6 @@
             "description": "Một nhóm học sinh trung học đang lần tìm hướng đi trong tình yêu và tình bạn giữa một thế giới tràn đầy ma túy, tình dục, đau khổ và truyền thông xã hội hỗn loạn."
         },
         {
-            "name": "Phạm Vi 800m",
-            "year": 2026,
-            "slug": "pham-vi-800m",
-            "thumb": "https://phimimg.com/upload/vod/20260420-1/d44eff81da6dba535352bd3a6cb1e06e.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260420-1/44c57e244639f8e213fe8b8711cc3be0.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "20",
-            "country": "Trung Quốc",
-            "description": "Vào cuối thập niên 90 của thế kỷ trước, tại khu mỏ của thị trấn Phong Dương, sự xuất hiện của một thi thể nữ vô danh đã phá vỡ vẻ yên bình bề ngoài ở nơi đây. Cảnh sát Trần Hồng Binh lập tức tiến hành điều tra và bất ngờ phát hiện mảnh kính trên cổ nạn nhân rất giống với vỏ chai của một loại thuốc cấm. Trong một lần làm nhiệm vụ sau đó, anh còn phát hiện trong thị trấn có người đang sử dụng chính loại thuốc cấm này. Để tìm ra sự thật và triệt phá đường dây buôn bán thuốc cấm, Trần Hồng Binh cùng đồng đội đã tiến hành điều tra. Nhưng điều anh không ngờ tới là kẻ đứng sau tất cả lại chính là người thân cận nhất của mình. Sự giằng xé giữa trách nhiệm và tình thân, giữa pháp luật và nhân tính, khiến gia đình anh cùng cả thị trấn phải đối mặt với những lựa chọn và thử thách về thiện ác."
-        },
-        {
-            "name": "Điệp Vụ Cuối Cùng",
-            "year": 2023,
-            "slug": "diep-vu-cuoi-cung",
-            "thumb": "https://phimimg.com/upload/vod/20260420-1/ae94cb6ae984a4b32e7dec6923db9b44.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260420-1/f2b288cf6246c54f5abf2d8f1641a532.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Ai đó đang tống tiền CIA bằng cách ám sát các nhà báo nước ngoài và khiến cơ quan này có vẻ phải chịu trách nhiệm. Khi thế giới bắt đầu đoàn kết chống lại Hoa Kỳ, CIA phải lôi kéo đặc vụ xuất sắc nhất và nổi loạn nhất của mình sắp nghỉ hưu, buộc anh ta phải đối mặt với quá khứ đầy sóng gió của mình trong khi làm sáng tỏ một âm mưu quốc tế."
-        },
-        {
-            "name": "Bù Nhìn Bóng Đêm",
-            "year": 2026,
-            "slug": "bu-nhin-bong-dem",
-            "thumb": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260421-1/f650d2178218b84e7277bdafbf2a95b9.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 1",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Bị giáng chức về vùng quê Gangseong, cựu thám tử sừng sỏ Kang Tae-ju rơi vào tâm điểm của chuỗi vụ án giết người hàng loạt rúng động. Để lật tẩy sự thật tàn khốc bị vùi lấp suốt 31 năm (từ 1988 đến 2019) và khôi phục lại danh dự, anh buộc phải bắt tay với kẻ mình căm ghét nhất - công tố viên Cha Shi-young. Khi lần theo sự thật, họ nhận ra kẻ sát nhân không chỉ lặp lại quá khứ mà đang hoàn thành thứ còn dang dở."
-        },
-        {
-            "name": "Babylon",
-            "year": 2022,
-            "slug": "babylon",
-            "thumb": "https://phimimg.com/upload/vod/20260420-1/9475295bef3b1a5b8a2586e4ea960dc6.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260420-1/1532c970fc346bd5187c21548bc597a0.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Từ đạo diễn Damien Chazelle, BABYLON là bộ phim lấy bối cảnh Los Angeles vào những năm 1920, do Brad Pitt, Margot Robbie và Diego Calva đóng chính, cùng dàn diễn viên bao gồm Jovan Adepo, Li Jun Li và Jean Smart. Một câu chuyện về sự tham vọng và xa hoa thái quá, cùng với đó là sự thăng trầm của nhiều nhân vật trong thời đại suy đồi và sa đọa không thể kiềm chế ở Hollywood thời sơ khai."
-        },
-        {
             "name": "Mật Ngữ Kỷ",
             "year": 2026,
             "slug": "mat-ngu-ky",
@@ -2547,54 +2595,6 @@
             "total_episodes": "38",
             "country": "Trung Quốc",
             "description": "Cuộc hôn nhân hoàn hảo của Hứa Mật Ngữ bỗng chốc tan vỡ vào đúng kỷ niệm 10 năm ngày cưới. Cô nhận ra bấy lâu nay mình luôn cam chịu và đánh mất bản thân trong mối quan hệ ấy, nên đã quyết định dứt khoát ly hôn. Trong khi đó, Kỷ Phong, người quản lý khách sạn lựa chọn quay về làm việc tại khách sạn Phổ Vinh, nơi anh bắt đầu sự nghiệp. Hứa Mật Ngữ cũng bắt đầu lại từ con số không với công việc nhân viên buồng phòng tại đây, còn Kỷ Phong chính thức ra mắt với tư cách là Tổng giám đốc của khách sạn Phổ Vinh. Cả hai đã cùng nhau sát cánh đối mặt với những thử thách nơi công sở, và trong quá trình đồng cam cộng khổ ấy, tình yêu giữa họ đã đầm chồi. Cuối cùng, họ không chỉ có được tình yêu viên mãn mà còn đưa khách sạn Phổ Vinh trở thành một biểu tượng mới của thành phố..."
-        },
-        {
-            "name": "Nữ Thần Chính Nghĩa (Nữ Thần Công Lý)",
-            "year": 2026,
-            "slug": "nu-than-chinh-nghia-nu-than-cong-ly",
-            "thumb": "https://phimimg.com/upload/vod/20260418-1/ae1cea3cd7cc5ea36f5b49d4753fca33.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260418-1/3edd7be12c0753eb113fe1211e53adf0.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Tập 7",
-            "total_episodes": "25",
-            "country": "Trung Quốc",
-            "description": "Ở đỉnh cao sự nghiệp, Thẩm phán Ngôn Huệ Tri của Tòa án Tối cao bất ngờ xin chuyển xuống Tòa án Thiếu niên, khiến nhiều người ngỡ ngàng. Không chỉ từ bỏ tiền đồ đang rộng mở, quyết định &quot;đi ngược dòng&quot; này còn đẩy cuộc hôn nhân giữa cô với chồng là công tố viên Khâu Quang Chính đến bờ vực đổ vỡ. Vụ án then chốt khiến cô chấp nhận đánh đổi tất cả, chính là vụ mà luật sư danh tiếng Cao Thục Hoa biện hộ cho con trai của mình. Để rồi từ đó, Huệ Tri quyết tâm đi sâu vào những vụ án liên quan đến thanh thiếu niên, trực tiếp xử lý từng vụ ngay từ nguồn – Tòa án Thiếu niên, nhằm ngăn chặn sự hình thành những thiếu niên &quot;ác ma&quot; trong xã hội."
-        },
-        {
-            "name": "Lật Ngược Cuộc Đời",
-            "year": 2026,
-            "slug": "lat-nguoc-cuoc-doi",
-            "thumb": "https://phimimg.com/upload/vod/20260420-1/a3d7bdf94a644f3705ce4e429a2a9b70.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260420-1/ce2259a1837f23b905c9d241dc0fccf8.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 10",
-            "total_episodes": "30",
-            "country": "Trung Quốc",
-            "description": "Chàng trai trẻ Trương Tiểu Bắc rơi vào bước đường cùng, nhưng bất ngờ có được chiếc chìa khóa thay đổi số phận khi hoán đổi cuộc đời với Thịnh Nguyên Châu, cậu ấm của một gia tộc tài phiệt. Từ vực sâu nghịch cảnh, cậu từng bước vươn mình, đổi đời để bảo vệ gia đình, đồng thời quyết tâm truy tìm hung thủ đã hại chị gái mình.Hai thiếu niên, trong hành trình cứu rỗi và chữa lành lẫn nhau, phải đối mặt với vô vàn thử thách về bản chất con người trong 30 ngày định mệnh. Cuối cùng, cả hai bắt tay vạch trần âm mưu chốn hào môn và tung đòn báo thù đanh thép nhắm thẳng vào kẻ đứng sau mọi chuyện!"
-        },
-        {
-            "name": "Phu Nhân Đại Quân Thế Kỷ 21",
-            "year": 2026,
-            "slug": "phu-nhan-dai-quan-the-ky-21",
-            "thumb": "https://phimimg.com/upload/vod/20260411-1/e6bb5b889cf566a8851149e472bd9a0e.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260411-1/19fba2a3671a42514f6506f9d5d3534a.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Trong một chế độ quân chủ lập hiến thế kỷ 21, một người phụ nữ có tất cả mọi thứ nhưng vẫn là thường dân tình cờ gặp gỡ một vị hoàng tử, người dù thuộc dòng dõi hoàng tộc nhưng lại cảm thấy bất lực—dẫn đến một tình yêu vượt qua rào cản địa vị xã hội."
-        },
-        {
-            "name": "Trò Chơi Của Quỷ 2",
-            "year": 2026,
-            "slug": "tro-choi-cua-quy-2",
-            "thumb": "https://phimimg.com/upload/vod/20260414-1/1c7cf71a4786d031a3c9037657ba5d2d.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260414-1/23fcd2dcacc4a0d5b25b3d21ba98520c.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Chỉ ít phút sau khi sống sót khỏi cuộc tấn công toàn diện của gia tộc Le Domas, Grace nhận ra mình đã bước sang cấp độ tiếp theo của trò chơi ác mộng — lần này, với người chị em xa cách Faith đứng bên cạnh. Grace chỉ có một cơ hội để sống sót, bảo vệ em gái, và giành lấy Ngai Cao của Hội Đồng — thế lực đang kiểm soát cả thế giới. Bốn gia tộc đối địch đang truy lùng cô để đoạt lấy ngai vàng, và kẻ chiến thắng sẽ thống trị tất cả."
         }
     ],
     "long_tieng": [],
