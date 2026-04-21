@@ -9,11 +9,11 @@ from datetime import datetime
 # --- CẤU HÌNH ---
 BASE_URL = "https://phimapi.com/v1/api"
 TARGET_COUNT = 15
-MAX_WORKERS = 2
+MAX_WORKERS = 3 # Tăng lên chút cho nhanh
 DATA_FILE = "data_2026_perfect.json"
 
 def get_data(url, params=None):
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"}
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
     try:
         res = requests.get(url, params=params, timeout=15)
         if res.status_code == 200: return res.json()
@@ -28,10 +28,8 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
     local_seen = set() 
     print(f"> Đang quét: {target_name}...")
     
-    # Quét từ trang 1 đến 10 để lấy hàng mới nhất thay vì lọc theo năm
     for page in range(1, 11): 
         if len(results) >= TARGET_COUNT: break
-        
         url = f"{BASE_URL}/danh-sach/{endpoint}"
         params = {"page": page, "limit": 64}
         data = get_data(url, params)
@@ -77,13 +75,14 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
         time.sleep(0.3)
     return results
 
+# FIX CHỖ NÀY: Quét theo danh sách phim mới nhất để lọc Lang
 def fetch_by_lang(lang_code, lang_name):
     results = []
     local_seen = set()
-    print(f"> Đang quét: Phim {lang_name} (Mới cập nhật)...")
+    print(f"> Đang hốt phim {lang_name} mới nhất...")
 
-    # Quét trực tiếp danh sách phim mới để lọc ngôn ngữ
-    for page in range(1, 11):
+    # Quét trang /danh-sach/phim-moi - đây là chỗ hàng về liên tục
+    for page in range(1, 15): 
         if len(results) >= TARGET_COUNT: break
         url = f"{BASE_URL}/danh-sach/phim-moi"
         params = {"page": page, "limit": 64}
@@ -93,7 +92,6 @@ def fetch_by_lang(lang_code, lang_name):
             
         items = data['data']['items']
         slugs_to_fetch = [it['slug'] for it in items if it['slug'] not in local_seen]
-        if not slugs_to_fetch: continue
 
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             details = list(executor.map(fetch_detail, slugs_to_fetch))
@@ -104,10 +102,12 @@ def fetch_by_lang(lang_code, lang_name):
             m = detail['movie']
             lang = str(m.get('lang', ''))
             
-            # Lọc đúng loại ngôn ngữ (long-tieng hoặc thuyet-minh)
-            if (lang_code == "long-tieng" and "Lồng Tiếng" in lang) or \
-               (lang_code == "thuyet-minh" and "Thuyết Minh" in lang):
-                
+            # Kiểm tra tag trong info
+            is_match = False
+            if lang_code == "long-tieng" and "Lồng Tiếng" in lang: is_match = True
+            elif lang_code == "thuyet-minh" and "Thuyết Minh" in lang: is_match = True
+            
+            if is_match:
                 desc = m.get('content', '').replace('<p>', '').replace('</p>', '').replace('\n', ' ').strip()
                 results.append({
                     "name": m.get('name'),
@@ -122,7 +122,7 @@ def fetch_by_lang(lang_code, lang_name):
                     "description": desc
                 })
                 local_seen.add(m.get('slug'))
-        time.sleep(0.3)
+        time.sleep(0.2)
     return results
 
 def interleave_trending(tr, han, au, thai, rap):
@@ -149,7 +149,7 @@ def main():
         report.append(f"| {name:22} | {status:16} |")
         return res
 
-    # 1. Quét dữ liệu (Giữ nguyên Key cho Android Studio)
+    # Giữ nguyên thứ tự và danh mục ní cần
     run_and_report("anime_movie", "Anime Movie", "hoat-hinh", is_movie=True)
     run_and_report("anime_nhat", "Anime Nhật", "hoat-hinh", country="Nhật Bản", is_movie=False)
     run_and_report("hh_trung_quoc", "HH Trung Quốc", "hoat-hinh", country="Trung Quốc", is_movie=False)
@@ -160,33 +160,27 @@ def main():
         run_and_report(f"le_{c_key}", f"Lẻ {c_name}", "phim-le", country=c_name, is_movie=True)
         run_and_report(f"bo_{c_key}", f"Bộ {c_name}", "phim-bo", country=c_name, is_movie=False)
 
-    # 2. Trending
     final_data["trending_phim_bo"] = interleave_trending(
         final_data.get("bo_trung", []), final_data.get("bo_han", []),
         final_data.get("bo_au_my", []), final_data.get("bo_thai", []),
         final_data.get("phim_chieu_rap", [])
     )
-    report.append(f"| {'Top Trending':22} | {'🔥 MIXED':16} |")
 
-    # 3. Lồng Tiếng / Thuyết Minh
+    # Chạy Lồng tiếng / Thuyết minh sau cùng để tận dụng list phim mới nhất
     final_data["long_tieng"] = fetch_by_lang("long-tieng", "Lồng Tiếng")
     final_data["thuyet_minh"] = fetch_by_lang("thuyet-minh", "Thuyết Minh")
 
-    # 4. Lưu file JSON với Indent 4
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
 
-    # --- BẢNG THÔNG BÁO ---
     print("\n" + "="*45)
-    print(f"    BÁO CÁO CRAWL - {datetime.now().strftime('%d/%m/%Y %H:%M')}")
+    print(f"    BÁO CÁO CRAWL - {datetime.now().strftime('%H:%M %d/%m/%Y')}")
     print("="*45)
-    print(f"| {'Hạng mục':22} | {'Trạng thái':16} |")
-    print("-" * 45)
-    for line in report:
-        print(line)
+    for line in report: print(line)
+    print(f"| {'Lồng Tiếng':22} | {'✅' if len(final_data['long_tieng']) > 0 else '❌' :16} |")
+    print(f"| {'Thuyết Minh':22} | {'✅' if len(final_data['thuyet_minh']) > 0 else '❌' :16} |")
     print("="*45)
-    print(f"Tổng thời gian: {int(time.time() - start_time)}s")
-    print(f"File lưu tại: {DATA_FILE} (Indent=4)\n")
+    print(f"Tổng thời gian: {int(time.time() - start_time)}s\n")
 
 if __name__ == "__main__":
     main()
