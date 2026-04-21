@@ -7,7 +7,7 @@ from datetime import datetime
 # --- CẤU HÌNH ---
 BASE_URL = "https://phimapi.com/v1/api"
 TARGET_COUNT = 15
-MAX_WORKERS = 3 Tăng worker để bào info cho lẹ
+MAX_WORKERS = 3 # Tăng worker để bào info cho lẹ
 DATA_FILE = "data_2026_perfect.json"
 
 def get_data(url, params=None):
