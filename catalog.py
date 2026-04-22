@@ -9,7 +9,7 @@ from datetime import datetime
 BASE_URL = "https://phimapi.com/v1/api"
 YEARS = [2026, 2025, 2024, 2023, 2022] 
 LIMIT_COUNT = 200
-MAX_WORKERS = 3
+MAX_WORKERS = 2
 OUTPUT_DIR = "data_categories"
 
 if not os.path.exists(OUTPUT_DIR):
