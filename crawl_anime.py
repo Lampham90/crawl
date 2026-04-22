@@ -14,7 +14,7 @@ MAX_WORKERS = 2
 DATA_FILE = "data_2026_perfect.json"
 
 def get_data(url, params=None):
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"}
+    headers = {"User-Agent": f"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{random.randint(110, 125)}.0.0.0 Safari/537.36"}
     try:
         res = requests.get(url, params=params, timeout=15)
         if res.status_code == 200: return res.json()
@@ -29,10 +29,9 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
     local_seen = set() 
     print(f"> Đang quét: {target_name}...")
     
-    # Duyệt qua các năm nhưng KHÔNG lọc cứng năm của phim trả về
     for year in YEARS:
         if len(results) >= TARGET_COUNT: break
-        max_pages = 15 if year == 2026 else 5
+        max_pages = 10
         
         for page in range(1, max_pages + 1): 
             if len(results) >= TARGET_COUNT: break
@@ -54,13 +53,11 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
                 if not detail or 'movie' not in detail: continue
                 m = detail['movie']
                 
-                m_year = int(m.get('year', 0))
                 countries = [c.get('name') for c in m.get('country', [])]
                 m_type = m.get('type', '')
                 ep_total_val = str(m.get('episode_total', '1'))
                 is_movie = (m_type == 'single' or ep_total_val == "1")
 
-                # BỎ LỌC NĂM: Chỉ lọc quốc gia và loại phim lẻ/bộ
                 if (not country_target or country_target in countries) and \
                    (is_movie_logic is None or is_movie == is_movie_logic):
                     
@@ -69,7 +66,7 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
 
                     results.append({
                         "name": m.get('name'),
-                        "year": m_year,
+                        "year": m.get('year', 0),
                         "slug": m.get('slug'),
                         "thumb": m.get('thumb_url'),
                         "poster": m.get('poster_url'),
@@ -80,44 +77,36 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
                         "description": desc
                     })
                     local_seen.add(m.get('slug'))
-            time.sleep(0.3)
+            time.sleep(0.2)
     return results
 
 def fetch_by_lang(lang_code, lang_name):
-    # GIỮ NGUYÊN LỌC NĂM CHO LỒNG TIẾNG/THUYẾT MINH
     results = []
     local_seen = set()
-    print(f"> Đang quét: Phim {lang_name} (API lọc theo năm)...")
+    print(f"> Đang quét: {lang_name} (Ưu tiên năm 2024-2026)...")
 
     for year in YEARS:
         if len(results) >= TARGET_COUNT: break
         url = f"{BASE_URL}/nam/{year}"
-        params = {"page": 1, "sort_field": "modified.time", "sort_type": "desc", "sort_lang": lang_code, "limit": 64}
-        
+        params = {"page": 1, "sort_lang": lang_code, "limit": 64}
         data = get_data(url, params)
         if not data or 'data' not in data or not data['data'].get('items'): continue
             
         items = data['data']['items']
-        slugs_to_fetch = [it['slug'] for it in items if it['slug'] not in local_seen]
-        if not slugs_to_fetch: continue
-
+        slugs = [it['slug'] for it in items if it['slug'] not in local_seen]
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            details = list(executor.map(fetch_detail, slugs_to_fetch))
+            details = list(executor.map(fetch_detail, slugs))
 
         for detail in details:
             if len(results) >= TARGET_COUNT: break
             if not detail or 'movie' not in detail: continue
             m = detail['movie']
-            
-            # Lọc cứng đúng năm cho hạng mục này
             if int(m.get('year', 0)) != year: continue
 
-            lang = str(m.get('lang', ''))
             desc = m.get('content', '').replace('<p>', '').replace('</p>', '').replace('\n', ' ').strip()
-
             results.append({
                 "name": m.get('name'),
-                "year": int(m.get('year', 0)),
+                "year": year,
                 "slug": m.get('slug'),
                 "thumb": m.get('thumb_url'),
                 "poster": m.get('poster_url'),
@@ -128,7 +117,6 @@ def fetch_by_lang(lang_code, lang_name):
                 "description": desc
             })
             local_seen.add(m.get('slug'))
-        time.sleep(0.3)
     return results
 
 def interleave_trending(tr, han, au, thai, rap):
@@ -155,7 +143,7 @@ def main():
         report.append(f"| {name:22} | {status:16} |")
         return res
 
-    # 1. Quét dữ liệu (Bỏ lọc năm bên trong fetch_final)
+    # 1. Quét các mục (Bỏ lọc năm)
     run_and_report("anime_movie", "Anime Movie", "hoat-hinh", is_movie=True)
     run_and_report("anime_nhat", "Anime Nhật", "hoat-hinh", country="Nhật Bản", is_movie=False)
     run_and_report("hh_trung_quoc", "HH Trung Quốc", "hoat-hinh", country="Trung Quốc", is_movie=False)
@@ -174,11 +162,18 @@ def main():
     )
     report.append(f"| {'Top Trending':22} | {'🔥 MIXED':16} |")
 
-    # 3. Lồng Tiếng / Thuyết Minh (Giữ lọc năm)
-    final_data["long_tieng"] = fetch_by_lang("long-tieng", "Lồng Tiếng")
-    final_data["thuyet_minh"] = fetch_by_lang("thuyet-minh", "Thuyết Minh")
+    # 3. Lồng Tiếng / Thuyết Minh (Giữ lọc năm và THÊM VÀO BÁO CÁO)
+    lt = fetch_by_lang("long-tieng", "Lồng Tiếng")
+    final_data["long_tieng"] = lt
+    status_lt = "✅ ĐỦ" if len(lt) >= TARGET_COUNT else f"⚠️ THIẾU ({len(lt)}/{TARGET_COUNT})"
+    report.append(f"| {'Phim Lồng Tiếng':22} | {status_lt:16} |")
 
-    # 4. Lưu file JSON
+    tm = fetch_by_lang("thuyet-minh", "Thuyết Minh")
+    final_data["thuyet_minh"] = tm
+    status_tm = "✅ ĐỦ" if len(tm) >= TARGET_COUNT else f"⚠️ THIẾU ({len(tm)}/{TARGET_COUNT})"
+    report.append(f"| {'Phim Thuyết Minh':22} | {status_tm:16} |")
+
+    # 4. Lưu file
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
 
@@ -190,8 +185,7 @@ def main():
     for line in report:
         print(line)
     print("="*45)
-    print(f"Tổng thời gian: {int(time.time() - start_time)}s")
-    print(f"File lưu tại: {DATA_FILE}\n")
+    print(f"Hoàn thành trong: {int(time.time() - start_time)}s\n")
 
 if __name__ == "__main__":
     main()
