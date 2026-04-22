@@ -5,8 +5,8 @@ from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api/danh-sach/hoat-hinh"
 DETAIL_URL = "https://phimapi.com/phim/"
-LIMIT_COUNT = 200
-MAX_WORKERS = 10 
+LIMIT_COUNT = 20
+MAX_WORKERS = 2 
 
 def get_data(url, params=None):
     try:
