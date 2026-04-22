@@ -9,7 +9,7 @@ from datetime import datetime
 BASE_URL = "https://phimapi.com/v1/api"
 YEARS = [2026, 2025, 2024, 2023, 2022] # Quét sâu để đủ 200 phim
 LIMIT_COUNT = 200
-MAX_WORKERS = 5 # Tăng tốc độ bào dữ liệu
+MAX_WORKERS = 3 # Tăng tốc độ bào dữ liệu
 OUTPUT_DIR = "data_categories"
 
 if not os.path.exists(OUTPUT_DIR):
