@@ -1,0 +1,34 @@
+name: Auto Crawl Catalog
+
+# Kịch bản chạy: Cho phép bấm tay hoặc chạy tự động hàng ngày
+on:
+  workflow_dispatch: # Xuất hiện nút "Run workflow" để ní bấm tay
+  schedule:
+    - cron: '0 17 * * *' # Chạy tự động lúc 0h sáng giờ VN hàng ngày (17h UTC)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run Crawler
+        run: python catalog.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Auto Update Data: $(date)" || echo "No changes to commit"
+          git push
