@@ -45,7 +45,7 @@ def crawl_hoat_hinh(name, filename, country=None, is_movie=None):
                 "slug": m.get('slug'), 
                 "thumb": m.get('thumb_url'), 
                 "poster": m.get('poster_url'), 
-                "sub_type": "Lồng Tiếng" if "Lồng Tiếng" in str(m.get('lang','')) else "Thuyết Minh", 
+                "sub_type": m.get('lang', 'Vietsub'), 
                 "current_episode": m.get('episode_current', 'Full'), 
                 "total_episodes": str(m.get('episode_total', '1')), 
                 "country": m_countries[0] if m_countries else ""
@@ -63,16 +63,22 @@ def crawl_rap():
         data = get_data(f"{BASE_URL}/danh-sach/phim-chieu-rap", {"year": year, "page": 1, "limit": 64})
         if not data or 'data' not in data or data['data'].get('items') is None: continue
         
-        for m in data['data']['items']:
+        slugs = [it['slug'] for it in data['data']['items'] if it['slug'] not in seen]
+        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+            details = list(executor.map(fetch_detail, slugs))
+
+        for d in details:
             if len(results) >= LIMIT_COUNT: break
+            if not d or 'movie' not in d: continue
+            m = d['movie']
             results.append({
                 "name": m.get('name'), 
-                "year": year, 
+                "year": int(m.get('year', 0)), 
                 "slug": m.get('slug'), 
                 "thumb": m.get('thumb_url'), 
                 "poster": m.get('poster_url'), 
-                "sub_type": "Vietsub", 
-                "current_episode": "Full", 
+                "sub_type": m.get('lang', 'Vietsub'), 
+                "current_episode": m.get('episode_current', 'Full'), 
                 "total_episodes": "1", 
                 "country": ""
             })
