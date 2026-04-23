@@ -27,6 +27,7 @@ jobs:
           python crawler_anime_rap.py
           python crawler_phim_quoc_gia.py
           python crawler_others.py
+          python report.py
 
       - name: Commit and Push changes
         run: |
