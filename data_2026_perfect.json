@@ -1275,6 +1275,18 @@
     ],
     "bo_han": [
         {
+            "name": "Hôm Nay Lại Bán Hết",
+            "year": 2026,
+            "slug": "hom-nay-lai-ban-het",
+            "thumb": "https://phimimg.com/upload/vod/20260423-1/59594f0abd8f6235405c87ee435a827d.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260423-1/31d7521253c2c0ef3bd8f4c557c05127.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 1",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Một nữ MC bán hàng qua truyền hình cuồng công việc về vùng quê để vực dậy chương trình của mình, nhưng một chàng nông dân bí ẩn khiến mọi kế hoạch – và cả trái tim cô – chao đảo."
+        },
+        {
             "name": "Bù Nhìn Bóng Đêm",
             "year": 2026,
             "slug": "bu-nhin-bong-dem",
@@ -1441,18 +1453,6 @@
             "total_episodes": "7",
             "country": "Hàn Quốc",
             "description": "Hai võ sĩ trẻ bắt tay với một người cho vay nhân từ để hạ bệ kẻ cho vay nặng lãi tàn nhẫn chuyên săn lùng những người túng quẫn tài chính."
-        },
-        {
-            "name": "Đừng Quên Kẻ Thù",
-            "year": 2026,
-            "slug": "dung-quen-ke-thu",
-            "thumb": "https://phimimg.com/upload/vod/20260321-1/014b4d5234072df4117b77b916e99cba.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260321-1/844e5a3b8fb51a3cf7aab038822dc097.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
-            "country": "Thái Lan",
-            "description": "Diệp Tiểu Ái – cô gái luôn khao khát trở thành nhà thiết kế và Trang Ly Ly – người mẫu đang chạy trốn khỏi bạo hành gia đình, đã tình cờ gặp gỡ và trở thành bạn thân. Tiểu Ái đã sát cánh giúp Ly Ly chống lại gã chồng tồi Lý Tấn, còn Ly Ly giúp Tiểu Ái tháo gỡ được khúc mắc với &quot;chú trẻ&quot; Lâm Sâm. Trải qua những tháng ngày bên nhau, cả hai cô gái cuối cùng cũng thực hiện được ước mơ và cùng bước sang một trang hoàn toàn mới của cuộc đời."
         }
     ],
     "le_trung": [
@@ -2003,6 +2003,18 @@
     ],
     "bo_au_my": [
         {
+            "name": "Thị Trấn Ác Mộng (Phần 4)",
+            "year": 2026,
+            "slug": "thi-tran-ac-mong-phan-4",
+            "thumb": "https://phimimg.com/upload/vod/20260423-1/072edb466660a2d84553a19c93f8c33c.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260423-1/95cb687835c1321b9ebc17330ecbd20d.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 1",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Làm sáng tỏ bí ẩn về một thành phố ở Trung Mỹ giam giữ tất cả những ai bước vào. Khi các cư dân đấu tranh để trở &nbsp;lại bình thường và tìm kiếm một lối thoát, họ cũng phải sống sót trước các mối đe dọa của khu rừng xung quanh."
+        },
+        {
             "name": "Siêu Anh Hùng Phá Hoại (Phần 5)",
             "year": 2026,
             "slug": "sieu-anh-hung-pha-hoai-phan-5",
@@ -2169,18 +2181,6 @@
             "total_episodes": "10",
             "country": "Âu Mỹ",
             "description": "Thế giới sẽ ra sao nếu cuộc chạy đua vào không gian chưa bao giờ kết thúc? Ronald D. Moore thử tìm lời đáp qua câu chuyện giả tưởng ly kỳ về các phi hành gia ngôi sao của NASA và gia đình họ."
-        },
-        {
-            "name": "Bạn Bè & Hàng Xóm (Phần 2)",
-            "year": 2026,
-            "slug": "ban-be-hang-xom-phan-2",
-            "thumb": "https://phimimg.com/upload/vod/20260410-1/46ee5af3e308d7abffbb2056bc508974.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260410-1/1491dd99231608d1832bed578668dfa0.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Khi một đại gia tài chính đột ngột rơi vào cảnh ly hôn và mất việc, anh ta bắt đầu đi ăn trộm những nhà hàng xóm giàu có để trang trải cuộc sống. Ăn trộm của hội mình chơi cùng đem lại khoái cảm kỳ lạ, nhưng dần dần khiến anh ta sa vào hố sâu chết chóc."
         }
     ],
     "le_thai": [
@@ -2549,18 +2549,6 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Rắc Rối Tiền Bạc Của Margo",
-            "year": 2026,
-            "slug": "rac-roi-tien-bac-cua-margo",
-            "thumb": "https://phimimg.com/upload/vod/20260420-1/eb8e826d7fed0482bd24c6cb8bcd5fd6.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260420-1/661235c88b4beb7cf1d5c8be427deef0.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "8",
-            "country": "Âu Mỹ",
-            "description": "Khi nữ nhà văn đầy tham vọng Margo Millet mang thai, cô buộc phải bỏ dở đại học và đối mặt với cảnh túng quẫn. Nhưng khi người cha xa cách là cựu đô vật chuyên nghiệp xuất hiện, Margo tìm thấy một cách bất ngờ để kiếm tiền từ tài năng kể chuyện của mình."
-        },
-        {
             "name": "Quyết Chiến Vương Triều",
             "year": 2026,
             "slug": "quyet-chien-vuong-trieu",
@@ -2571,138 +2559,6 @@
             "total_episodes": "10",
             "country": "Thái Lan",
             "description": "Phim kể về mối quan hệ phức tạp giữa Hoàng tử Naresuan và Mingyi Swa khi Ayutthaya thất thủ dưới tay Hongsawadi. Từ đôi bạn lớn lên như anh em trong cảnh làm con tin, sự tàn khốc của chiến tranh và khát vọng tự do đã đẩy họ vào thế đối đầu sinh tử. Phim tái hiện cuộc chiến khốc liệt giữa lòng trung thành và âm mưu chính trị, nơi tình huynh đệ bị phá vỡ để nhường chỗ cho bổn phận với vương quốc."
-        },
-        {
-            "name": "Lật Ngược Cuộc Đời",
-            "year": 2026,
-            "slug": "lat-nguoc-cuoc-doi",
-            "thumb": "https://phimimg.com/upload/vod/20260420-1/a3d7bdf94a644f3705ce4e429a2a9b70.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260420-1/ce2259a1837f23b905c9d241dc0fccf8.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 14",
-            "total_episodes": "30",
-            "country": "Trung Quốc",
-            "description": "Chàng trai trẻ Trương Tiểu Bắc rơi vào bước đường cùng, nhưng bất ngờ có được chiếc chìa khóa thay đổi số phận khi hoán đổi cuộc đời với Thịnh Nguyên Châu, cậu ấm của một gia tộc tài phiệt. Từ vực sâu nghịch cảnh, cậu từng bước vươn mình, đổi đời để bảo vệ gia đình, đồng thời quyết tâm truy tìm hung thủ đã hại chị gái mình.Hai thiếu niên, trong hành trình cứu rỗi và chữa lành lẫn nhau, phải đối mặt với vô vàn thử thách về bản chất con người trong 30 ngày định mệnh. Cuối cùng, cả hai bắt tay vạch trần âm mưu chốn hào môn và tung đòn báo thù đanh thép nhắm thẳng vào kẻ đứng sau mọi chuyện!"
-        },
-        {
-            "name": "Giấc Mơ Điên Rồ",
-            "year": 2026,
-            "slug": "giac-mo-dien-ro",
-            "thumb": "https://phimimg.com/upload/vod/20260422-1/0ad2b8563974be65fcbfeec48b78ef94.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260422-1/7e55136675663862cc7b94dde8fa882c.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (12/12)",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Diễn ra tại Hàn Quốc, nơi mà sự thành công thường được đo bằng việc sở hữu một tòa nhà. Nhân vật chính, Ki Su Jong, từng là một nhân viên văn phòng bình thường, quyết tâm đầu tư tất cả sức lực của mình vào việc trở thành chủ đất, bất chấp nguy cơ lún sâu vào nợ nần. Tuy nhiên, khi làn sóng đầu tư toàn cầu tràn đến và đe dọa khiến tòa nhà của anh bị tịch thu,"
-        },
-        {
-            "name": "Xe Đạp Tình Yêu",
-            "year": 2026,
-            "slug": "xe-dap-tinh-yeu",
-            "thumb": "https://phimimg.com/upload/vod/20260309-1/db310dc4b8e76dcb6b155966cdd705db.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260309-1/7d078965051821b5f07d4e8af9e402f9.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "10",
-            "country": "Thái Lan",
-            "description": "Ba anh em nuôi thân thiết cùng điều hành một quán cà phê xe đạp thân thiện ở Pattaya, vừa trải nghiệm tình yêu và cuộc sống, vừa chữa lành bên cạnh cộng đồng của mình."
-        },
-        {
-            "name": "Tám Nghìn Dặm Đường Mây Và Trăng",
-            "year": 2026,
-            "slug": "tam-nghin-dam-duong-may-va-trang",
-            "thumb": "https://phimimg.com/upload/vod/20260411-1/6675afdbb380e65c1425bbc8b5c79947.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260411-1/25080e45410b1d8aae29adc7c6d3c136.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 32",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "description": "Chiến dịch Tùng Hỗ bùng nổ, đầu bếp Mạnh Vạn Phúc chỉ muốn sống sót nhưng bị Quốc Dân Đảng bắt đi đóng quân. Lữ đoàn trưởng Trương Vân Khôi một lòng báo quốc nhưng vì sự chỉ huy sai lầm của cấp trên mà lâm vào nguy hiểm. Trên chiến trường, Trương Vân Khôi liều chết dẫn tàn quân đột phá vòng vây để đón quân tiếp viện. Mạnh Vạn Phúc nhận lời giao phó của anh, vượt đường xa đến Nam Kinh báo tang. Thế rồi Trương Vân Khôi sống sót một cách kỳ diệu nhưng bị cấp trên Quốc Dân đảng vu oan là &quot;quân đào ngũ&quot;. Sau khi khiếu nại không được chấp nhận, anh gặp được chỉ huy trung đoàn Tạ Ngữ Phong của Tân Tứ quân và lại bùng lên hy vọng. Anh trở về quê, thành lập đoàn dân quân chống Nhật và gia nhập Đảng Cộng sản Trung Quốc. Trong khi đó, Mạnh Vạn Phúc tình cờ lại chăm sóc cho cả gia đình nhà họ Trương. Anh ta cùng vợ của Trương Vân Khôi là Đinh Ngọc Kiều hoạn nạn có nhau. Dưới sự dẫn dắt của đảng viên ngầm Tăng Tuyết Phi, cả hai lần lượt tham gia cách mạng cộng sản."
-        },
-        {
-            "name": "Daredevil: Tái Xuất (Phần 2)",
-            "year": 2026,
-            "slug": "daredevil-tai-xuat-phan-2",
-            "thumb": "https://phimimg.com/upload/vod/20260325-1/4ba73b9444858633f1592a417fa2c0dc.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260325-1/7268bfab7c97370dad7a07d1c93ff834.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "9",
-            "country": "Âu Mỹ",
-            "description": "Bộ phim xoay quanh Matt Murdock (do Charlie Cox thủ vai), một luật sư mù ở Hell’s Kitchen, New York, người sống hai cuộc đời: ban ngày là một luật sư đấu tranh cho công lý, ban đêm là Daredevil – một siêu anh hùng đeo mặt nạ bảo vệ thành phố. Phim lấy bối cảnh vài năm sau các sự kiện của loạt phim Netflix, khi Matt cùng hai người bạn thân là Foggy Nelson (Elden Henson) và Karen Page (Deborah Ann Woll) đã tìm thấy sự ổn định trong cuộc sống với văn phòng luật của họ.Tuy nhiên, sự yên bình này không kéo dài khi Wilson Fisk (Vincent D’Onofrio), tức Kingpin – kẻ thù truyền kiếp của Daredevil, tái xuất với một kế hoạch đầy tham vọng. Không còn hoạt động trong thế giới ngầm như trước, Fisk giờ đây hướng đến chính trường và trở thành một nhân vật quyền lực tại New York, thậm chí có thể là thị trưởng. Mâu thuẫn giữa Matt và Fisk leo thang khi cả hai đối đầu trong một cuộc chiến vừa mang tính cá nhân vừa ảnh hưởng đến cả thành phố."
-        },
-        {
-            "name": "Siêu Anh Hùng Phá Hoại (Phần 5)",
-            "year": 2026,
-            "slug": "sieu-anh-hung-pha-hoai-phan-5",
-            "thumb": "https://phimimg.com/upload/vod/20260408-1/13482a7245be0124f084a1fcd1793a19.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260408-1/4c8735b0b4d97204847815710e357bed.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "8",
-            "country": "Âu Mỹ",
-            "description": "Trong một thế giới mà các siêu anh hùng chìm trong mặt tối của sự nổi tiếng và danh vọng to lớn của họ, THE BOYS tập trung vào một nhóm tự phát được biết đến với cái tên không chính thức là nhóm “Trai điên”, những người đặt ra mục tiêu hạ gục các siêu anh hùng tồi tệ này chỉ với sự gan góc và sẵn sàng chơi bẩn của họ."
-        },
-        {
-            "name": "Cuộc Chiến Trong Chúng Ta",
-            "year": 2026,
-            "slug": "cuoc-chien-trong-chung-ta",
-            "thumb": "https://phimimg.com/upload/vod/20260419-1/3c33f126df2ec7c53ce4b20c507ef046.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260422-1/97dec6daa40158d359854d4d07dcc772.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Chạm đáy sau 20 năm theo đuổi bộ phim đầu tay, một đạo diễn đầy khát vọng gặp một nhà sản xuất kiệt sức – và rồi cô giúp anh tìm lại giá trị bản thân."
-        },
-        {
-            "name": "Phạm Vi 800m",
-            "year": 2026,
-            "slug": "pham-vi-800m",
-            "thumb": "https://phimimg.com/upload/vod/20260420-1/d44eff81da6dba535352bd3a6cb1e06e.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260420-1/44c57e244639f8e213fe8b8711cc3be0.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "20",
-            "country": "Trung Quốc",
-            "description": "Vào cuối thập niên 90 của thế kỷ trước, tại khu mỏ của thị trấn Phong Dương, sự xuất hiện của một thi thể nữ vô danh đã phá vỡ vẻ yên bình bề ngoài ở nơi đây. Cảnh sát Trần Hồng Binh lập tức tiến hành điều tra và bất ngờ phát hiện mảnh kính trên cổ nạn nhân rất giống với vỏ chai của một loại thuốc cấm. Trong một lần làm nhiệm vụ sau đó, anh còn phát hiện trong thị trấn có người đang sử dụng chính loại thuốc cấm này. Để tìm ra sự thật và triệt phá đường dây buôn bán thuốc cấm, Trần Hồng Binh cùng đồng đội đã tiến hành điều tra. Nhưng điều anh không ngờ tới là kẻ đứng sau tất cả lại chính là người thân cận nhất của mình. Sự giằng xé giữa trách nhiệm và tình thân, giữa pháp luật và nhân tính, khiến gia đình anh cùng cả thị trấn phải đối mặt với những lựa chọn và thử thách về thiện ác."
-        },
-        {
-            "name": "Hoppers: Cú Nhảy Kỳ Diệu",
-            "year": 2026,
-            "slug": "hoppers-cu-nhay-ky-dieu",
-            "thumb": "https://phimimg.com/upload/vod/20260330-1/91d30de8c46d4b24ad2987c54376d54d.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260330-1/d8c96083ab5b6d8a2a3e1fdafc9d0bc0.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Các nhà khoa học đã khám phá ra cách &quot;nhảy&quot; ý thức con người vào những con vật robot sống động như thật, cho phép con người giao tiếp với động vật dưới hình dạng động vật! Nhờ công nghệ mới này, Mabel sẽ khám phá những bí ẩn trong thế giới động vật vượt xa mọi điều cô từng tưởng tượng."
-        },
-        {
-            "name": "Mật Ngữ Kỷ",
-            "year": 2026,
-            "slug": "mat-ngu-ky",
-            "thumb": "https://phimimg.com/upload/vod/20260414-1/ede3ec4c1b60ff630886057ae59c7afd.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260414-1/b3dd5a4774a86dbf9c39e3de6881289a.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 20",
-            "total_episodes": "38",
-            "country": "Trung Quốc",
-            "description": "Cuộc hôn nhân hoàn hảo của Hứa Mật Ngữ bỗng chốc tan vỡ vào đúng kỷ niệm 10 năm ngày cưới. Cô nhận ra bấy lâu nay mình luôn cam chịu và đánh mất bản thân trong mối quan hệ ấy, nên đã quyết định dứt khoát ly hôn. Trong khi đó, Kỷ Phong, người quản lý khách sạn lựa chọn quay về làm việc tại khách sạn Phổ Vinh, nơi anh bắt đầu sự nghiệp. Hứa Mật Ngữ cũng bắt đầu lại từ con số không với công việc nhân viên buồng phòng tại đây, còn Kỷ Phong chính thức ra mắt với tư cách là Tổng giám đốc của khách sạn Phổ Vinh. Cả hai đã cùng nhau sát cánh đối mặt với những thử thách nơi công sở, và trong quá trình đồng cam cộng khổ ấy, tình yêu giữa họ đã đầm chồi. Cuối cùng, họ không chỉ có được tình yêu viên mãn mà còn đưa khách sạn Phổ Vinh trở thành một biểu tượng mới của thành phố..."
-        },
-        {
-            "name": "Bù Nhìn Bóng Đêm",
-            "year": 2026,
-            "slug": "bu-nhin-bong-dem",
-            "thumb": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260421-1/f650d2178218b84e7277bdafbf2a95b9.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 2",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Bị giáng chức về vùng quê Gangseong, cựu thám tử sừng sỏ Kang Tae-ju rơi vào tâm điểm của chuỗi vụ án giết người hàng loạt rúng động. Để lật tẩy sự thật tàn khốc bị vùi lấp suốt 31 năm (từ 1988 đến 2019) và khôi phục lại danh dự, anh buộc phải bắt tay với kẻ mình căm ghét nhất - công tố viên Cha Shi-young. Khi lần theo sự thật, họ nhận ra kẻ sát nhân không chỉ lặp lại quá khứ mà đang hoàn thành thứ còn dang dở."
         },
         {
             "name": "Trò Chơi Của Quỷ 2",
@@ -2717,6 +2573,114 @@
             "description": "Chỉ ít phút sau khi sống sót khỏi cuộc tấn công toàn diện của gia tộc Le Domas, Grace nhận ra mình đã bước sang cấp độ tiếp theo của trò chơi ác mộng — lần này, với người chị em xa cách Faith đứng bên cạnh. Grace chỉ có một cơ hội để sống sót, bảo vệ em gái, và giành lấy Ngai Cao của Hội Đồng — thế lực đang kiểm soát cả thế giới. Bốn gia tộc đối địch đang truy lùng cô để đoạt lấy ngai vàng, và kẻ chiến thắng sẽ thống trị tất cả."
         },
         {
+            "name": "Phạm Vi 800m",
+            "year": 2026,
+            "slug": "pham-vi-800m",
+            "thumb": "https://phimimg.com/upload/vod/20260420-1/d44eff81da6dba535352bd3a6cb1e06e.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260420-1/44c57e244639f8e213fe8b8711cc3be0.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "20",
+            "country": "Trung Quốc",
+            "description": "Vào cuối thập niên 90 của thế kỷ trước, tại khu mỏ của thị trấn Phong Dương, sự xuất hiện của một thi thể nữ vô danh đã phá vỡ vẻ yên bình bề ngoài ở nơi đây. Cảnh sát Trần Hồng Binh lập tức tiến hành điều tra và bất ngờ phát hiện mảnh kính trên cổ nạn nhân rất giống với vỏ chai của một loại thuốc cấm. Trong một lần làm nhiệm vụ sau đó, anh còn phát hiện trong thị trấn có người đang sử dụng chính loại thuốc cấm này. Để tìm ra sự thật và triệt phá đường dây buôn bán thuốc cấm, Trần Hồng Binh cùng đồng đội đã tiến hành điều tra. Nhưng điều anh không ngờ tới là kẻ đứng sau tất cả lại chính là người thân cận nhất của mình. Sự giằng xé giữa trách nhiệm và tình thân, giữa pháp luật và nhân tính, khiến gia đình anh cùng cả thị trấn phải đối mặt với những lựa chọn và thử thách về thiện ác."
+        },
+        {
+            "name": "Bù Nhìn Bóng Đêm",
+            "year": 2026,
+            "slug": "bu-nhin-bong-dem",
+            "thumb": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260421-1/f650d2178218b84e7277bdafbf2a95b9.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 2",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Bị giáng chức về vùng quê Gangseong, cựu thám tử sừng sỏ Kang Tae-ju rơi vào tâm điểm của chuỗi vụ án giết người hàng loạt rúng động. Để lật tẩy sự thật tàn khốc bị vùi lấp suốt 31 năm (từ 1988 đến 2019) và khôi phục lại danh dự, anh buộc phải bắt tay với kẻ mình căm ghét nhất - công tố viên Cha Shi-young. Khi lần theo sự thật, họ nhận ra kẻ sát nhân không chỉ lặp lại quá khứ mà đang hoàn thành thứ còn dang dở."
+        },
+        {
+            "name": "Xe Đạp Tình Yêu",
+            "year": 2026,
+            "slug": "xe-dap-tinh-yeu",
+            "thumb": "https://phimimg.com/upload/vod/20260309-1/db310dc4b8e76dcb6b155966cdd705db.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260309-1/7d078965051821b5f07d4e8af9e402f9.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "10",
+            "country": "Thái Lan",
+            "description": "Ba anh em nuôi thân thiết cùng điều hành một quán cà phê xe đạp thân thiện ở Pattaya, vừa trải nghiệm tình yêu và cuộc sống, vừa chữa lành bên cạnh cộng đồng của mình."
+        },
+        {
+            "name": "Siêu Anh Hùng Phá Hoại (Phần 5)",
+            "year": 2026,
+            "slug": "sieu-anh-hung-pha-hoai-phan-5",
+            "thumb": "https://phimimg.com/upload/vod/20260408-1/13482a7245be0124f084a1fcd1793a19.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260408-1/4c8735b0b4d97204847815710e357bed.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "8",
+            "country": "Âu Mỹ",
+            "description": "Trong một thế giới mà các siêu anh hùng chìm trong mặt tối của sự nổi tiếng và danh vọng to lớn của họ, THE BOYS tập trung vào một nhóm tự phát được biết đến với cái tên không chính thức là nhóm “Trai điên”, những người đặt ra mục tiêu hạ gục các siêu anh hùng tồi tệ này chỉ với sự gan góc và sẵn sàng chơi bẩn của họ."
+        },
+        {
+            "name": "Thị Trấn Ác Mộng (Phần 4)",
+            "year": 2026,
+            "slug": "thi-tran-ac-mong-phan-4",
+            "thumb": "https://phimimg.com/upload/vod/20260423-1/072edb466660a2d84553a19c93f8c33c.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260423-1/95cb687835c1321b9ebc17330ecbd20d.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 1",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Làm sáng tỏ bí ẩn về một thành phố ở Trung Mỹ giam giữ tất cả những ai bước vào. Khi các cư dân đấu tranh để trở &nbsp;lại bình thường và tìm kiếm một lối thoát, họ cũng phải sống sót trước các mối đe dọa của khu rừng xung quanh."
+        },
+        {
+            "name": "Mật Ngữ Kỷ",
+            "year": 2026,
+            "slug": "mat-ngu-ky",
+            "thumb": "https://phimimg.com/upload/vod/20260414-1/ede3ec4c1b60ff630886057ae59c7afd.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260414-1/b3dd5a4774a86dbf9c39e3de6881289a.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 20",
+            "total_episodes": "38",
+            "country": "Trung Quốc",
+            "description": "Cuộc hôn nhân hoàn hảo của Hứa Mật Ngữ bỗng chốc tan vỡ vào đúng kỷ niệm 10 năm ngày cưới. Cô nhận ra bấy lâu nay mình luôn cam chịu và đánh mất bản thân trong mối quan hệ ấy, nên đã quyết định dứt khoát ly hôn. Trong khi đó, Kỷ Phong, người quản lý khách sạn lựa chọn quay về làm việc tại khách sạn Phổ Vinh, nơi anh bắt đầu sự nghiệp. Hứa Mật Ngữ cũng bắt đầu lại từ con số không với công việc nhân viên buồng phòng tại đây, còn Kỷ Phong chính thức ra mắt với tư cách là Tổng giám đốc của khách sạn Phổ Vinh. Cả hai đã cùng nhau sát cánh đối mặt với những thử thách nơi công sở, và trong quá trình đồng cam cộng khổ ấy, tình yêu giữa họ đã đầm chồi. Cuối cùng, họ không chỉ có được tình yêu viên mãn mà còn đưa khách sạn Phổ Vinh trở thành một biểu tượng mới của thành phố..."
+        },
+        {
+            "name": "Giấc Mơ Điên Rồ",
+            "year": 2026,
+            "slug": "giac-mo-dien-ro",
+            "thumb": "https://phimimg.com/upload/vod/20260422-1/0ad2b8563974be65fcbfeec48b78ef94.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260422-1/7e55136675663862cc7b94dde8fa882c.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (12/12)",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Diễn ra tại Hàn Quốc, nơi mà sự thành công thường được đo bằng việc sở hữu một tòa nhà. Nhân vật chính, Ki Su Jong, từng là một nhân viên văn phòng bình thường, quyết tâm đầu tư tất cả sức lực của mình vào việc trở thành chủ đất, bất chấp nguy cơ lún sâu vào nợ nần. Tuy nhiên, khi làn sóng đầu tư toàn cầu tràn đến và đe dọa khiến tòa nhà của anh bị tịch thu,"
+        },
+        {
+            "name": "Lật Ngược Cuộc Đời",
+            "year": 2026,
+            "slug": "lat-nguoc-cuoc-doi",
+            "thumb": "https://phimimg.com/upload/vod/20260420-1/a3d7bdf94a644f3705ce4e429a2a9b70.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260420-1/ce2259a1837f23b905c9d241dc0fccf8.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 14",
+            "total_episodes": "30",
+            "country": "Trung Quốc",
+            "description": "Chàng trai trẻ Trương Tiểu Bắc rơi vào bước đường cùng, nhưng bất ngờ có được chiếc chìa khóa thay đổi số phận khi hoán đổi cuộc đời với Thịnh Nguyên Châu, cậu ấm của một gia tộc tài phiệt. Từ vực sâu nghịch cảnh, cậu từng bước vươn mình, đổi đời để bảo vệ gia đình, đồng thời quyết tâm truy tìm hung thủ đã hại chị gái mình.Hai thiếu niên, trong hành trình cứu rỗi và chữa lành lẫn nhau, phải đối mặt với vô vàn thử thách về bản chất con người trong 30 ngày định mệnh. Cuối cùng, cả hai bắt tay vạch trần âm mưu chốn hào môn và tung đòn báo thù đanh thép nhắm thẳng vào kẻ đứng sau mọi chuyện!"
+        },
+        {
+            "name": "Rắc Rối Tiền Bạc Của Margo",
+            "year": 2026,
+            "slug": "rac-roi-tien-bac-cua-margo",
+            "thumb": "https://phimimg.com/upload/vod/20260420-1/eb8e826d7fed0482bd24c6cb8bcd5fd6.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260420-1/661235c88b4beb7cf1d5c8be427deef0.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "8",
+            "country": "Âu Mỹ",
+            "description": "Khi nữ nhà văn đầy tham vọng Margo Millet mang thai, cô buộc phải bỏ dở đại học và đối mặt với cảnh túng quẫn. Nhưng khi người cha xa cách là cựu đô vật chuyên nghiệp xuất hiện, Margo tìm thấy một cách bất ngờ để kiếm tiền từ tài năng kể chuyện của mình."
+        },
+        {
             "name": "Tiếng Thét 7",
             "year": 2026,
             "slug": "tieng-thet-7",
@@ -2727,6 +2691,42 @@
             "total_episodes": "1",
             "country": "Âu Mỹ",
             "description": "Sidney Evans (Neve Campbell), nạn nhân sống sót của một vụ thảm sát nhiều năm trước, giờ đang sống hạnh phúc cùng chồng và con gái ở một thị trấn khác thì tên sát nhân Ghostface mới lại xuất hiện. Những nỗi sợ hãi đen tối nhất của cô trở thành hiện thực khi con gái cô Tatum Evans (Isabel May) trở thành mục tiêu tiếp theo. Quyết tâm bảo vệ gia đình, Sidney buộc phải đối mặt với những kinh hoàng trong quá khứ để chấm dứt cuộc đổ máu một lần và mãi mãi."
+        },
+        {
+            "name": "Hôm Nay Lại Bán Hết",
+            "year": 2026,
+            "slug": "hom-nay-lai-ban-het",
+            "thumb": "https://phimimg.com/upload/vod/20260423-1/59594f0abd8f6235405c87ee435a827d.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260423-1/31d7521253c2c0ef3bd8f4c557c05127.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 1",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Một nữ MC bán hàng qua truyền hình cuồng công việc về vùng quê để vực dậy chương trình của mình, nhưng một chàng nông dân bí ẩn khiến mọi kế hoạch – và cả trái tim cô – chao đảo."
+        },
+        {
+            "name": "Hoppers: Cú Nhảy Kỳ Diệu",
+            "year": 2026,
+            "slug": "hoppers-cu-nhay-ky-dieu",
+            "thumb": "https://phimimg.com/upload/vod/20260330-1/91d30de8c46d4b24ad2987c54376d54d.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260330-1/d8c96083ab5b6d8a2a3e1fdafc9d0bc0.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Các nhà khoa học đã khám phá ra cách &quot;nhảy&quot; ý thức con người vào những con vật robot sống động như thật, cho phép con người giao tiếp với động vật dưới hình dạng động vật! Nhờ công nghệ mới này, Mabel sẽ khám phá những bí ẩn trong thế giới động vật vượt xa mọi điều cô từng tưởng tượng."
+        },
+        {
+            "name": "Tám Nghìn Dặm Đường Mây Và Trăng",
+            "year": 2026,
+            "slug": "tam-nghin-dam-duong-may-va-trang",
+            "thumb": "https://phimimg.com/upload/vod/20260411-1/6675afdbb380e65c1425bbc8b5c79947.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260411-1/25080e45410b1d8aae29adc7c6d3c136.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 32",
+            "total_episodes": "40",
+            "country": "Trung Quốc",
+            "description": "Chiến dịch Tùng Hỗ bùng nổ, đầu bếp Mạnh Vạn Phúc chỉ muốn sống sót nhưng bị Quốc Dân Đảng bắt đi đóng quân. Lữ đoàn trưởng Trương Vân Khôi một lòng báo quốc nhưng vì sự chỉ huy sai lầm của cấp trên mà lâm vào nguy hiểm. Trên chiến trường, Trương Vân Khôi liều chết dẫn tàn quân đột phá vòng vây để đón quân tiếp viện. Mạnh Vạn Phúc nhận lời giao phó của anh, vượt đường xa đến Nam Kinh báo tang. Thế rồi Trương Vân Khôi sống sót một cách kỳ diệu nhưng bị cấp trên Quốc Dân đảng vu oan là &quot;quân đào ngũ&quot;. Sau khi khiếu nại không được chấp nhận, anh gặp được chỉ huy trung đoàn Tạ Ngữ Phong của Tân Tứ quân và lại bùng lên hy vọng. Anh trở về quê, thành lập đoàn dân quân chống Nhật và gia nhập Đảng Cộng sản Trung Quốc. Trong khi đó, Mạnh Vạn Phúc tình cờ lại chăm sóc cho cả gia đình nhà họ Trương. Anh ta cùng vợ của Trương Vân Khôi là Đinh Ngọc Kiều hoạn nạn có nhau. Dưới sự dẫn dắt của đảng viên ngầm Tăng Tuyết Phi, cả hai lần lượt tham gia cách mạng cộng sản."
         }
     ],
     "long_tieng": [
