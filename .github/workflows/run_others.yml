@@ -1,0 +1,29 @@
+name: Run Others Movies Crawler
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *' # Chạy lúc 10h sáng VN
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run Crawler
+        run: |
+          python crawler_others.py
+          python report.py
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Update Others Data" || echo "No changes"
+          git pull --rebase origin main
+          git push origin main
