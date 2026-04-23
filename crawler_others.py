@@ -1,7 +1,9 @@
 import requests, json, time, os
+from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api"
 LIMIT_COUNT = 200
+MAX_WORKERS = 2
 OUTPUT_DIR = "data_categories"
 
 def get_data(url, params=None):
@@ -9,6 +11,9 @@ def get_data(url, params=None):
         res = requests.get(url, params=params, timeout=15)
         return res.json() if res.status_code == 200 else None
     except: return None
+
+def fetch_detail(slug):
+    return get_data(f"https://phimapi.com/phim/{slug}")
 
 def crawl_simple(display_name, filename, endpoint, category=None, lang=None):
     results, seen = [], set()
@@ -22,19 +27,26 @@ def crawl_simple(display_name, filename, endpoint, category=None, lang=None):
         data = get_data(f"{BASE_URL}/nam/{year}", params)
         if not data or 'data' not in data or data['data'].get('items') is None: continue
         
-        for m in data['data']['items']:
+        items = data['data']['items']
+        slugs = [it['slug'] for it in items if it['slug'] not in seen]
+        
+        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+            details = list(executor.map(fetch_detail, slugs))
+            
+        for d in details:
             if len(results) >= LIMIT_COUNT: break
-            if m.get('slug') in seen: continue
+            if not d or 'movie' not in d: continue
+            m = d['movie']
             
             results.append({
                 "name": m.get('name'), 
-                "year": year, 
+                "year": int(m.get('year', 0)), 
                 "slug": m.get('slug'), 
                 "thumb": m.get('thumb_url'), 
                 "poster": m.get('poster_url'), 
-                "sub_type": display_name if lang else "Vietsub", 
+                "sub_type": m.get('lang', 'Vietsub'), 
                 "current_episode": m.get('episode_current', 'Full'), 
-                "total_episodes": "1", 
+                "total_episodes": str(m.get('episode_total', '1')), 
                 "country": ""
             })
             seen.add(m.get('slug'))
