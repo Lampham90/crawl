@@ -1,8 +1,8 @@
 name: Run Anime and Cinema Crawler
 on:
-  workflow_dispatch: # Chạy bằng tay
+  workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *' # Chạy tự động lúc 8h sáng VN
+    - cron: '0 1 * * *'
 
 jobs:
   build:
@@ -16,14 +16,12 @@ jobs:
       - name: Install dependencies
         run: pip install requests
       - name: Run Crawler
-        run: |
-          python crawler_anime_rap.py
-          python report.py
+        run: python crawler_anime_rap.py
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "Update Anime Data" || echo "No changes"
+          git commit -m "Update Anime & Cinema Data" || echo "No changes"
           git pull --rebase origin main
           git push origin main
