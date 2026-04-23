@@ -3,7 +3,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api"
 LIMIT_COUNT = 200
-MAX_WORKERS = 10
+MAX_WORKERS = 1
 OUTPUT_DIR = "data_categories"
 if not os.path.exists(OUTPUT_DIR): os.makedirs(OUTPUT_DIR)
 
