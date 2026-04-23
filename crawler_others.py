@@ -1,9 +1,7 @@
 import requests, json, time, os
-from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api"
 LIMIT_COUNT = 200
-MAX_WORKERS = 2
 OUTPUT_DIR = "data_categories"
 
 def get_data(url, params=None):
@@ -20,12 +18,27 @@ def crawl_simple(display_name, filename, endpoint, category=None, lang=None):
         params = {"page": 1, "limit": 64}
         if category: params['category'] = category
         if lang: params['sort_lang'] = lang
+        
         data = get_data(f"{BASE_URL}/nam/{year}", params)
-        if not data: continue
+        if not data or 'data' not in data or data['data'].get('items') is None: continue
+        
         for m in data['data']['items']:
             if len(results) >= LIMIT_COUNT: break
-            results.append({"name": m.get('name'), "year": year, "slug": m.get('slug'), "thumb": m.get('thumb_url'), "poster": m.get('poster_url'), "sub_type": display_name if lang else "Vietsub", "current_episode": m.get('episode_current', 'Full'), "total_episodes": "1", "country": ""})
-            seen.add(m['slug'])
+            if m.get('slug') in seen: continue
+            
+            results.append({
+                "name": m.get('name'), 
+                "year": year, 
+                "slug": m.get('slug'), 
+                "thumb": m.get('thumb_url'), 
+                "poster": m.get('poster_url'), 
+                "sub_type": display_name if lang else "Vietsub", 
+                "current_episode": m.get('episode_current', 'Full'), 
+                "total_episodes": "1", 
+                "country": ""
+            })
+            seen.add(m.get('slug'))
+            
     with open(os.path.join(OUTPUT_DIR, f"{filename}.json"), "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, separators=(',', ':'))
 
