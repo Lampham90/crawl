@@ -2,7 +2,7 @@ name: Run Country Movies Crawler
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * *' # Chạy lúc 9h sáng VN
+    - cron: '0 2 * * *'
 
 jobs:
   build:
@@ -16,14 +16,12 @@ jobs:
       - name: Install dependencies
         run: pip install requests
       - name: Run Crawler
-        run: |
-          python crawler_phim_quoc_gia.py
-          python report.py
+        run: python crawler_phim_quoc_gia.py
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "Update Country Data" || echo "No changes"
+          git commit -m "Update Country Movies Data" || echo "No changes"
           git pull --rebase origin main
           git push origin main
