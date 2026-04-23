@@ -2,7 +2,7 @@ name: Run Others Movies Crawler
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 3 * * *' # Chạy lúc 10h sáng VN
+    - cron: '0 3 * * *'
 
 jobs:
   build:
@@ -16,9 +16,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
       - name: Run Crawler
-        run: |
-          python crawler_others.py
-          python report.py
+        run: python crawler_others.py
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
