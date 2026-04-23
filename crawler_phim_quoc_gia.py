@@ -24,7 +24,6 @@ def crawl_country_logic(display_name, filename, endpoint, country, is_movie):
         for page in range(1, 15):
             if len(results) >= LIMIT_COUNT: break
             data = get_data(f"{BASE_URL}/danh-sach/{endpoint}", {"year": year, "page": page, "limit": 64})
-            
             if not data or 'data' not in data or data['data'].get('items') is None: continue
             
             items = data['data']['items']
@@ -39,7 +38,6 @@ def crawl_country_logic(display_name, filename, endpoint, country, is_movie):
                 if not d or 'movie' not in d: continue
                 m = d['movie']
                 
-                # Loại trừ hoạt hình
                 m_cats = [c.get('slug') for c in m.get('category', [])]
                 if 'hoat-hinh' in m_cats: continue
                 
@@ -52,7 +50,7 @@ def crawl_country_logic(display_name, filename, endpoint, country, is_movie):
                     "slug": m.get('slug'), 
                     "thumb": m.get('thumb_url'), 
                     "poster": m.get('poster_url'), 
-                    "sub_type": "Vietsub", 
+                    "sub_type": m.get('lang', 'Vietsub'), 
                     "current_episode": m.get('episode_current', 'Full'), 
                     "total_episodes": str(m.get('episode_total', '1')), 
                     "country": country
