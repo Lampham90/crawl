@@ -2,7 +2,7 @@ import requests, json, time, os
 from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api"
-LIMIT_COUNT = 200
+LIMIT_COUNT = 10
 MAX_WORKERS = 2
 # Danh sách năm ní muốn test lọc
 TEST_YEARS = [2026, 2025, 2024] 
