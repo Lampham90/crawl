@@ -3,7 +3,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api"
 LIMIT_COUNT = 400
-MAX_WORKERS = 3
+MAX_WORKERS = 4
 OUTPUT_DIR = "data_categories"
 
 if not os.path.exists(OUTPUT_DIR): 
@@ -22,14 +22,12 @@ def crawl_simple(display_name, filename, endpoint, category=None, lang=None):
     results, seen = [], set()
     print(f"\n>>> Đang bào {display_name}...")
     
-    # Dùng vòng lặp năm để lấy phim mới nhất
-    for year in [2026, 2025, 2024, 2023, 2022, 2021]:
+    # Quét qua các năm từ 2026 lùi về để đảm bảo phim mới nhất
+    for year in [2026, 2025, 2024, 2023, 2022]:
         if len(results) >= LIMIT_COUNT: break
-        
-        for page in range(1, 6): # Vét khoảng 5 trang mỗi năm là đủ
+        for page in range(1, 8): # Tăng lên 7 trang để vét kỹ hơn
             if len(results) >= LIMIT_COUNT: break
             
-            # Tùy biến tham số dựa trên loại danh mục
             url = f"{BASE_URL}/nam/{year}"
             params = {"page": page, "limit": 64}
             if category: params['category'] = category
@@ -37,9 +35,7 @@ def crawl_simple(display_name, filename, endpoint, category=None, lang=None):
             
             data = get_data(url, params)
             if not data or 'data' not in data or not data['data'].get('items'): break
-            
-            items = data['data']['items']
-            process_and_add(items, results, seen)
+            process_and_add(data['data']['items'], results, seen)
                 
     with open(os.path.join(OUTPUT_DIR, f"{filename}.json"), "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, separators=(',', ':'))
@@ -57,11 +53,30 @@ def process_and_add(items, results, seen):
         if not d or 'data' not in d or 'item' not in d['data']: continue
         m = d['data']['item']
         
-        # --- CHỐT CHẶN LOẠI TRỪ HOẠT HÌNH ---
-        cat_slugs = [c.get('slug') for c in m.get('category', []) if c.get('slug')]
-        if 'hoat-hinh' in cat_slugs or m.get('type') == 'hoat-hinh':
+        # --- LOGIC CHẶN TẬN GỐC DỰA TRÊN VÍ DỤ NÍ GỬI ---
+        
+        # 1. Lấy Type và ép kiểu về chuỗi thường để so sánh
+        m_type = str(m.get('type', '')).lower().replace(" ", "")
+        
+        # 2. Lấy danh sách slug thể loại
+        cat_slugs = [str(c.get('slug', '')).lower() for c in m.get('category', [])]
+        
+        # 3. Kiểm tra từ khóa trong tên phim và nội dung ngắn (nếu cần)
+        m_name = m.get('name', '').lower()
+
+        # ĐIỀU KIỆN LOẠI BỎ (Chỉ cần dính 1 trong các dấu hiệu này)
+        is_animation = (
+            "hoathinh" in m_type or             # Chặn đúng ví dụ ní gửi
+            "hoat-hinh" in m_type or            # Chặn biến thể có gạch
+            "hoat-hinh" in cat_slugs or         # Chặn theo tag thể loại
+            "anime" in cat_slugs or             # Chặn Anime
+            "hoạt hình" in m_name or            # Chặn theo tên phim
+            "hoat hinh" in m_name               # Chặn tên không dấu
+        )
+        
+        if is_animation:
             continue 
-        # ------------------------------------
+        # ----------------------------------------------
 
         results.append({
             "name": m.get('name'), 
@@ -78,7 +93,6 @@ def process_and_add(items, results, seen):
 
 if __name__ == "__main__":
     report = {}
-    # Danh sách các mục ní cần đây
     targets = [
         ("Lồng Tiếng", "long_tieng", "phim-moi", None, "long-tieng"), 
         ("Thuyết Minh", "thuyet_minh", "phim-moi", None, "thuyet-minh"),
@@ -92,7 +106,7 @@ if __name__ == "__main__":
     for d_name, f_name, endp, cat, lng in targets:
         report[f"{f_name}.json"] = crawl_simple(d_name, f_name, endp, cat, lng)
     
-    print("\n" + "="*45 + "\n| BÁO CÁO CÀO DỮ LIỆU (KHÔNG HOẠT HÌNH) |\n" + "-"*45)
+    print("\n" + "="*45 + "\n| BÁO CÁO CÀO DỮ LIỆU: SẠCH 100% |\n" + "-"*45)
     for k, v in report.items(): 
         print(f"| {k:22} | {v:14} |")
     print("="*45)
