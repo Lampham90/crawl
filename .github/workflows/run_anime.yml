@@ -1,4 +1,4 @@
-name: Run Anime and Cinema Crawler
+name: Cào Anime và chiếu rạp
 on:
   workflow_dispatch:
   schedule:
