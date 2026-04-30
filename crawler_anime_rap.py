@@ -3,8 +3,8 @@ from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api"
 LIMIT_COUNT = 400
-MAX_WORKERS = 2 # Nâng lên chút cho nhanh ní ơi
-CRAWL_YEARS = [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016] # Thu hẹp lại tí cho đỡ tốn thời gian, cần thì thêm sau
+MAX_WORKERS = 2
+CRAWL_YEARS = [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012] # Ưu tiên hốt phim mới theo năm
 OUTPUT_DIR = "data_categories"
 
 if not os.path.exists(OUTPUT_DIR): 
@@ -13,14 +13,12 @@ if not os.path.exists(OUTPUT_DIR):
 def get_data(url, params=None):
     try:
         res = requests.get(url, params=params, timeout=15)
-        # SỬA LỖI: status_code phải là 200
         return res.json() if res.status_code == 200 else None
     except: 
         return None
 
 def fetch_detail(slug):
-    # SỬA LỖI: Link chi tiết nên có v1/api cho đồng bộ
-    return get_data(f"{BASE_URL}/phim/{slug}")
+    return get_data(f"https://phimapi.com/phim/{slug}")
 
 def crawl_by_year_logic(display_name, filename, endpoint, country=None, is_movie=None):
     results, seen = [], set()
@@ -29,13 +27,11 @@ def crawl_by_year_logic(display_name, filename, endpoint, country=None, is_movie
     for year in CRAWL_YEARS:
         if len(results) >= LIMIT_COUNT: break
         
-        # Gọi API danh sách theo endpoint và năm
+        # Gọi API lọc theo năm của endpoint tương ứng
         params = {"year": year, "page": 1, "limit": 64}
-        url = f"{BASE_URL}/danh-sach/{endpoint}"
-        data = get_data(url, params)
+        data = get_data(f"{BASE_URL}/danh-sach/{endpoint}", params)
         
-        # Check dữ liệu trả về từ API v1 (thường nằm trong data['items'])
-        if not data or 'data' not in data or not data['data'].get('items'):
+        if not data or 'data' not in data or data['data'].get('items') is None:
             continue
             
         items = data['data']['items']
@@ -48,10 +44,9 @@ def crawl_by_year_logic(display_name, filename, endpoint, country=None, is_movie
             
         for d in details:
             if len(results) >= LIMIT_COUNT: break
-            if not d or 'data' not in d or 'item' not in d['data']: continue
+            if not d or 'movie' not in d: continue
             
-            # API v1 của phimapi cấu trúc là d['data']['item']
-            m = d['data']['item']
+            m = d['movie']
             m_countries = [c.get('name') for c in m.get('country', [])]
             m_year = int(m.get('year', 0))
             
@@ -82,19 +77,19 @@ def crawl_by_year_logic(display_name, filename, endpoint, country=None, is_movie
 if __name__ == "__main__":
     report = {}
     
-    # 1. Anime Movie
+    # 1. Anime Movie (Hoạt hình + Phim lẻ)
     report['anime_movie.json'] = crawl_by_year_logic('Anime Movie', 'anime_movie', 'hoat-hinh', is_movie=True)
     
-    # 2. Anime Nhật
+    # 2. Anime Nhật (Hoạt hình + Nhật Bản + Phim bộ)
     report['anime_nhat.json'] = crawl_by_year_logic('Anime Nhật', 'anime_nhat', 'hoat-hinh', country='Nhật Bản', is_movie=False)
     
-    # 3. Hoạt hình Trung Quốc
+    # 3. Hoạt hình Trung Quốc (Hoạt hình + Trung Quốc + Phim bộ)
     report['hh_trung_quoc.json'] = crawl_by_year_logic('HH Trung Quốc', 'hh_trung_quoc', 'hoat-hinh', country='Trung Quốc', is_movie=False)
     
-    # 4. Phim Chiếu Rạp
+    # 4. Phim Chiếu Rạp (Dùng endpoint riêng, ưu tiên năm)
     report['phim_chieu_rap.json'] = crawl_by_year_logic('Phim Chiếu Rạp', 'phim_chieu_rap', 'phim-chieu-rap')
     
-    print("\n" + "="*35 + "\n| BÁO CÁO ANIME & RẠP |\n" + "-"*35)
+    print("\n" + "="*35 + "\n| BÁO CÁO ANIME & RẠP (THEO NĂM) |\n" + "-"*35)
     for k, v in report.items(): 
         print(f"| {k:22} | {v:7} |")
     print("="*35)
