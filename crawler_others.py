@@ -3,7 +3,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api"
 LIMIT_COUNT = 400
-MAX_WORKERS = 2
+MAX_WORKERS = 2 
 OUTPUT_DIR = "data_categories"
 
 if not os.path.exists(OUTPUT_DIR): 
@@ -11,76 +11,78 @@ if not os.path.exists(OUTPUT_DIR):
 
 def get_data(url, params=None):
     try:
+        # Nhớ check status_code == 200 mới lấy dữ liệu
         res = requests.get(url, params=params, timeout=15)
         return res.json() if res.status_code == 200 else None
     except: return None
 
 def fetch_detail(slug):
-    return get_data(f"https://phimapi.com/phim/{slug}")
+    # Link chi tiết chuẩn cho API v1
+    return get_data(f"{BASE_URL}/phim/{slug}")
 
 def crawl_simple(display_name, filename, endpoint, category=None, lang=None):
     results, seen = [], set()
+    print(f"\n>>> Đang bào {display_name}...")
     
-    # CHỖ NÀY QUAN TRỌNG: Chia rõ đường đi cho TV Show và các loại khác
     if endpoint == "tv-shows":
-        # TV Show quét trực tiếp từ danh sách TV Show
-        for page in range(1, 10): # Quét 10 trang để hốt cho đủ 300
+        # Logic cho TV Show: Quét thẳng danh mục từ trang 1-10
+        for page in range(1, 11):
             if len(results) >= LIMIT_COUNT: break
             url = f"{BASE_URL}/danh-sach/tv-shows"
             data = get_data(url, {"page": page, "limit": 64})
-            
             if not data or 'data' not in data or not data['data'].get('items'): break
             
             items = data['data']['items']
-            slugs = [it['slug'] for it in items if it['slug'] not in seen]
-            
-            with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-                details = list(executor.map(fetch_detail, slugs))
-                
-            for d in details:
-                if len(results) >= LIMIT_COUNT: break
-                if not d or 'movie' not in d: continue
-                m = d['movie']
-                results.append({
-                    "name": m.get('name'), "year": int(m.get('year', 0)), "slug": m.get('slug'), 
-                    "thumb": m.get('thumb_url'), "poster": m.get('poster_url'), 
-                    "sub_type": m.get('lang', 'Vietsub'), "current_episode": m.get('episode_current', 'Full'), 
-                    "total_episodes": str(m.get('episode_total', '1')), "country": ""
-                })
-                seen.add(m.get('slug'))
+            process_and_add(items, results, seen)
     else:
-        # Các mục khác vẫn quét theo năm 2026 -> 2015
+        # Logic cho Thể loại: Quét từng năm, mỗi năm quét 3 trang (192 phim/năm)
         for year in [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]:
             if len(results) >= LIMIT_COUNT: break
-            url = f"{BASE_URL}/nam/{year}"
-            params = {"page": 1, "limit": 64}
-            if category: params['category'] = category
-            if lang: params['sort_lang'] = lang
             
-            data = get_data(url, params)
-            if not data or 'data' not in data or not data['data'].get('items'): continue
-            
-            items = data['data']['items']
-            slugs = [it['slug'] for it in items if it['slug'] not in seen]
-            
-            with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-                details = list(executor.map(fetch_detail, slugs))
-            
-            for d in details:
+            for page in range(1, 4): # Đã thêm vòng lặp trang ở đây để quét đủ năm
                 if len(results) >= LIMIT_COUNT: break
-                if not d or 'movie' not in d: continue
-                m = d['movie']
-                results.append({
-                    "name": m.get('name'), "year": int(m.get('year', 0)), "slug": m.get('slug'), 
-                    "thumb": m.get('thumb_url'), "poster": m.get('poster_url'), 
-                    "sub_type": m.get('lang', 'Vietsub'), "current_episode": m.get('episode_current', 'Full'), 
-                    "total_episodes": str(m.get('episode_total', '1')), "country": ""
-                })
-                seen.add(m.get('slug'))
-    
+                
+                url = f"{BASE_URL}/nam/{year}"
+                params = {"page": page, "limit": 64}
+                if category: params['category'] = category
+                if lang: params['sort_lang'] = lang
+                
+                data = get_data(url, params)
+                if not data or 'data' not in data or not data['data'].get('items'): break
+                
+                items = data['data']['items']
+                process_and_add(items, results, seen)
+                
     with open(os.path.join(OUTPUT_DIR, f"{filename}.json"), "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, separators=(',', ':'))
     return len(results)
+
+def process_and_add(items, results, seen):
+    """Hàm phụ để xử lý chi tiết phim và thêm vào danh sách"""
+    slugs = [it['slug'] for it in items if it['slug'] not in seen]
+    if not slugs: return
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        details = list(executor.map(fetch_detail, slugs))
+    
+    for d in details:
+        if len(results) >= LIMIT_COUNT: break
+        # Sửa lỗi d['movie'] sang d['data']['item'] của ní nè
+        if not d or 'data' not in d or 'item' not in d['data']: continue
+        m = d['data']['item']
+        
+        results.append({
+            "name": m.get('name'), 
+            "year": int(m.get('year', 0)), 
+            "slug": m.get('slug'), 
+            "thumb": m.get('thumb_url'), 
+            "poster": m.get('poster_url'), 
+            "sub_type": m.get('lang', 'Vietsub'), 
+            "current_episode": m.get('episode_current', 'Full'), 
+            "total_episodes": str(m.get('episode_total', '1')), 
+            "country": ""
+        })
+        seen.add(m.get('slug'))
 
 if __name__ == "__main__":
     report = {}
@@ -97,7 +99,7 @@ if __name__ == "__main__":
     for d_name, f_name, endp, cat, lng in targets:
         report[f"{f_name}.json"] = crawl_simple(d_name, f_name, endp, cat, lng)
     
-    print("\n" + "="*40 + "\n| BÁO CÁO THỂ LOẠI KHÁC |\n" + "-"*40)
+    print("\n" + "="*45 + "\n| BÁO CÁO CÀO DỮ LIỆU HOÀN TẤT |\n" + "-"*45)
     for k, v in report.items(): 
-        print(f"| {k:22} | {v:11} |")
-    print("="*40)
+        print(f"| {k:22} | {v:14} |")
+    print("="*45)
