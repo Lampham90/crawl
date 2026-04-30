@@ -1,4 +1,4 @@
-name: Run Others Movies Crawler
+name: Cào phim LT, TM, Thể loại
 on:
   workflow_dispatch:
   schedule:
