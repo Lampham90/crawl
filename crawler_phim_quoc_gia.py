@@ -2,8 +2,8 @@ import requests, json, time, os
 from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api"
-YEARS = [2026, 2025, 2024, 2023]
-LIMIT_COUNT = 200
+YEARS = [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
+LIMIT_COUNT = 300
 MAX_WORKERS = 2
 OUTPUT_DIR = "data_categories"
 
