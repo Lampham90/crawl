@@ -2,7 +2,7 @@ import requests, json, time, os
 from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api"
-LIMIT_COUNT = 200
+LIMIT_COUNT = 300
 MAX_WORKERS = 2
 OUTPUT_DIR = "data_categories"
 
@@ -24,7 +24,7 @@ def crawl_simple(display_name, filename, endpoint, category=None, lang=None):
     # CHỖ NÀY QUAN TRỌNG: Chia rõ đường đi cho TV Show và các loại khác
     if endpoint == "tv-shows":
         # TV Show quét trực tiếp từ danh sách TV Show
-        for page in range(1, 6): # Quét 5 trang để hốt cho đủ 200
+        for page in range(1, 10): # Quét 10 trang để hốt cho đủ 300
             if len(results) >= LIMIT_COUNT: break
             url = f"{BASE_URL}/danh-sach/tv-shows"
             data = get_data(url, {"page": page, "limit": 64})
@@ -49,8 +49,8 @@ def crawl_simple(display_name, filename, endpoint, category=None, lang=None):
                 })
                 seen.add(m.get('slug'))
     else:
-        # Các mục khác vẫn quét theo năm 2026 -> 2023
-        for year in [2026, 2025, 2024, 2023]:
+        # Các mục khác vẫn quét theo năm 2026 -> 2015
+        for year in [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]:
             if len(results) >= LIMIT_COUNT: break
             url = f"{BASE_URL}/nam/{year}"
             params = {"page": 1, "limit": 64}
