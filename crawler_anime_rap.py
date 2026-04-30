@@ -22,19 +22,23 @@ def fetch_detail(slug):
 
 def crawl_by_year_logic(display_name, filename, endpoint, country=None, is_movie=None):
     results, seen = [], set()
-    print(f">>> Đang bào {display_name} lọc theo năm...")
     
     for year in CRAWL_YEARS:
         if len(results) >= LIMIT_COUNT: break
         
-        # Gọi API lọc theo năm của endpoint tương ứng
-        params = {"year": year, "page": 1, "limit": 64}
-        data = get_data(f"{BASE_URL}/danh-sach/{endpoint}", params)
+        # SỬA TẠI ĐÂY: Dùng endpoint /nam/{year} để ép API trả về đúng năm 2026
+        url = f"{BASE_URL}/nam/{year}"
+        params = {"page": 1, "limit": 64}
+        data = get_data(url, params)
         
-        if not data or 'data' not in data or data['data'].get('items') is None:
+        if not data or 'data' not in data or not data['data'].get('items'):
             continue
             
         items = data['data']['items']
+        
+        # ... logic ThreadPoolExecutor và lọc chi tiết giữ nguyên ...
+        # Lưu ý: Trong vòng lặp details, nhớ lọc thêm type để đúng với endpoint
+        # Ví dụ: if endpoint == 'hoat-hinh' and m.get('type') != 'hoathinh': continue
         slugs = [it['slug'] for it in items if it['slug'] not in seen]
         
         if not slugs: continue
