@@ -3,7 +3,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api"
 LIMIT_COUNT = 400
-MAX_WORKERS = 2 
+MAX_WORKERS = 10 
 OUTPUT_DIR = "data_categories"
 
 if not os.path.exists(OUTPUT_DIR): 
@@ -11,13 +11,11 @@ if not os.path.exists(OUTPUT_DIR):
 
 def get_data(url, params=None):
     try:
-        # Nhớ check status_code == 200 mới lấy dữ liệu
         res = requests.get(url, params=params, timeout=15)
         return res.json() if res.status_code == 200 else None
     except: return None
 
 def fetch_detail(slug):
-    # Link chi tiết chuẩn cho API v1
     return get_data(f"{BASE_URL}/phim/{slug}")
 
 def crawl_simple(display_name, filename, endpoint, category=None, lang=None):
@@ -25,31 +23,24 @@ def crawl_simple(display_name, filename, endpoint, category=None, lang=None):
     print(f"\n>>> Đang bào {display_name}...")
     
     if endpoint == "tv-shows":
-        # Logic cho TV Show: Quét thẳng danh mục từ trang 1-10
         for page in range(1, 11):
             if len(results) >= LIMIT_COUNT: break
             url = f"{BASE_URL}/danh-sach/tv-shows"
             data = get_data(url, {"page": page, "limit": 64})
             if not data or 'data' not in data or not data['data'].get('items'): break
-            
             items = data['data']['items']
             process_and_add(items, results, seen)
     else:
-        # Logic cho Thể loại: Quét từng năm, mỗi năm quét 3 trang (192 phim/năm)
         for year in [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]:
             if len(results) >= LIMIT_COUNT: break
-            
-            for page in range(1, 5): # Đã thêm vòng lặp trang ở đây để quét đủ năm
+            for page in range(1, 4):
                 if len(results) >= LIMIT_COUNT: break
-                
                 url = f"{BASE_URL}/nam/{year}"
                 params = {"page": page, "limit": 64}
                 if category: params['category'] = category
                 if lang: params['sort_lang'] = lang
-                
                 data = get_data(url, params)
                 if not data or 'data' not in data or not data['data'].get('items'): break
-                
                 items = data['data']['items']
                 process_and_add(items, results, seen)
                 
@@ -58,7 +49,6 @@ def crawl_simple(display_name, filename, endpoint, category=None, lang=None):
     return len(results)
 
 def process_and_add(items, results, seen):
-    """Hàm phụ để xử lý chi tiết phim và thêm vào danh sách"""
     slugs = [it['slug'] for it in items if it['slug'] not in seen]
     if not slugs: return
 
@@ -67,10 +57,16 @@ def process_and_add(items, results, seen):
     
     for d in details:
         if len(results) >= LIMIT_COUNT: break
-        # Sửa lỗi d['movie'] sang d['data']['item'] của ní nè
         if not d or 'data' not in d or 'item' not in d['data']: continue
         m = d['data']['item']
         
+        # --- ĐIỀU KIỆN LOẠI TRỪ HOẠT HÌNH ---
+        # Lấy danh sách slug của tất cả thể loại phim này thuộc về
+        movie_cats = [c.get('slug') for c in m.get('category', [])]
+        if 'hoat-hinh' in movie_cats: 
+            continue # Nếu là hoạt hình thì bỏ qua, không thêm vào list
+        # ------------------------------------
+
         results.append({
             "name": m.get('name'), 
             "year": int(m.get('year', 0)), 
