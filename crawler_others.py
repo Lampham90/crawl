@@ -31,7 +31,8 @@ def crawl_simple(display_name, filename, endpoint, category=None, lang=None):
             items = data['data']['items']
             process_and_add(items, results, seen)
     else:
-        for year in [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]:
+        # Quét theo năm và vét nhiều trang mỗi năm
+        for year in [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]:
             if len(results) >= LIMIT_COUNT: break
             for page in range(1, 4):
                 if len(results) >= LIMIT_COUNT: break
@@ -39,6 +40,7 @@ def crawl_simple(display_name, filename, endpoint, category=None, lang=None):
                 params = {"page": page, "limit": 64}
                 if category: params['category'] = category
                 if lang: params['sort_lang'] = lang
+                
                 data = get_data(url, params)
                 if not data or 'data' not in data or not data['data'].get('items'): break
                 items = data['data']['items']
@@ -49,6 +51,7 @@ def crawl_simple(display_name, filename, endpoint, category=None, lang=None):
     return len(results)
 
 def process_and_add(items, results, seen):
+    """Hàm xử lý chi tiết và LỌC HOẠT HÌNH"""
     slugs = [it['slug'] for it in items if it['slug'] not in seen]
     if not slugs: return
 
@@ -60,11 +63,11 @@ def process_and_add(items, results, seen):
         if not d or 'data' not in d or 'item' not in d['data']: continue
         m = d['data']['item']
         
-        # --- ĐIỀU KIỆN LOẠI TRỪ HOẠT HÌNH ---
-        # Lấy danh sách slug của tất cả thể loại phim này thuộc về
-        movie_cats = [c.get('slug') for c in m.get('category', [])]
-        if 'hoat-hinh' in movie_cats: 
-            continue # Nếu là hoạt hình thì bỏ qua, không thêm vào list
+        # --- ĐOẠN FIX: LOẠI TRỪ HOẠT HÌNH ---
+        # Kiểm tra nếu phim có tag 'hoat-hinh' thì bỏ qua (continue)
+        categories = [c.get('slug') for c in m.get('category', [])]
+        if 'hoat-hinh' in categories:
+            continue 
         # ------------------------------------
 
         results.append({
