@@ -3,7 +3,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api"
 LIMIT_COUNT = 400
-MAX_WORKERS = 3 # Nâng lên chút cho nhanh ní ơi
+MAX_WORKERS = 2 # Nâng lên chút cho nhanh ní ơi
 CRAWL_YEARS = [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016] # Thu hẹp lại tí cho đỡ tốn thời gian, cần thì thêm sau
 OUTPUT_DIR = "data_categories"
 
