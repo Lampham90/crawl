@@ -13,7 +13,7 @@ if not os.path.exists(OUTPUT_DIR):
 def get_data(url, params=None):
     try:
         res = requests.get(url, params=params, timeout=15)
-        return res.json() if res.status_code == 400 else None
+        return res.json() if res.status_code == 200 else None
     except: 
         return None
 
