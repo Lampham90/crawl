@@ -2,7 +2,7 @@ import requests, json, time, os
 from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api"
-LIMIT_COUNT = 300
+LIMIT_COUNT = 400
 MAX_WORKERS = 2
 CRAWL_YEARS = [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009] # Ưu tiên hốt phim mới theo năm
 OUTPUT_DIR = "data_categories"
@@ -13,7 +13,7 @@ if not os.path.exists(OUTPUT_DIR):
 def get_data(url, params=None):
     try:
         res = requests.get(url, params=params, timeout=15)
-        return res.json() if res.status_code == 200 else None
+        return res.json() if res.status_code == 400 else None
     except: 
         return None
 
