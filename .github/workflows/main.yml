@@ -2,10 +2,12 @@ name: Cào Home
 
 on:
   schedule:
-    # 1h sáng VN = 18h tối hôm trước (UTC)
-    # 12h trưa VN = 5h sáng (UTC)
-    # 18h tối VN = 11h trưa (UTC)
-    - cron: '0 18,5,11 * * *'
+    # Chỉnh lại giờ Việt Nam (UTC = VN - 7 tiếng):
+    # 4h sáng VN  -> 21h tối hôm trước (UTC)
+    # 10h sáng VN -> 3h sáng (UTC)
+    # 15h chiều VN -> 8h sáng (UTC)
+    # 19h tối VN   -> 12h trưa (UTC)
+    - cron: '0 21,3,8,12 * * *'
   workflow_dispatch: # Cho phép bấm chạy thủ công
 
 jobs:
@@ -14,6 +16,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          # Lấy lịch sử commit để tránh lỗi khi pull rebase
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,7 +35,18 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # Thêm cả file json và file text lưu ngày chạy
+          
+          # Thêm các file kết quả
           git add data_2026_perfect.json last_run.txt
-          # Kiểm tra nếu không có gì thay đổi thì không commit để tránh lỗi Action
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update phim: $(date)" && git push)
+          
+          # Kiểm tra nếu có thay đổi thì mới tiến hành push
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto update phim: $(date)"
+            
+            # Khắc phục lỗi ! [rejected] bằng cách pull dữ liệu mới nhất về trước khi push
+            git pull --rebase origin main
+            
+            git push origin main
+          else
+            echo "Không có dữ liệu mới để cập nhật."
+          fi
