@@ -30,7 +30,7 @@ def crawl_by_year_logic(display_name, filename, endpoint, country=None, is_movie
         if len(results) >= LIMIT_COUNT: break
         
         # Thêm vòng lặp trang để không sót phim (quét tối đa 5 trang mỗi năm)
-        for page in range(1, 6):
+        for page in range(1, 20):
             if len(results) >= LIMIT_COUNT: break
             
             params = {"year": year, "page": page, "limit": 64}
