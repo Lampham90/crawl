@@ -3,7 +3,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 BASE_URL = "https://phimapi.com/v1/api"
 LIMIT_COUNT = 400
-MAX_WORKERS = 3
+MAX_WORKERS = 2
 OUTPUT_DIR = "data_categories"
 
 if not os.path.exists(OUTPUT_DIR): 
@@ -18,42 +18,32 @@ def get_data(url, params=None):
 def fetch_detail(slug):
     return get_data(f"{BASE_URL}/phim/{slug}")
 
-def crawl_flexible(display_name, filename, cat_slug=None, lang=""):
+def crawl_universal(display_name, filename, cat_slug=None, lang=None):
     results, seen = [], set()
     print(f"\n>>> Đang bào {display_name}...")
-
-    # Chạy lùi năm từ 2026 về 2023 để gom cho đủ LIMIT_COUNT
+    
+    # Duyệt qua các năm từ 2026 về 2023 để hốt đủ 400 phim
     for year in [2026, 2025, 2024, 2023]:
         if len(results) >= LIMIT_COUNT: break
-        print(f"  + Đang quét năm {year}...")
-
-        # CHỌN ENDPOINT PHÙ HỢP
-        # Nếu là Lồng tiếng/Thuyết minh (không có cat_slug), dùng danh-sach/phim-moi
-        if cat_slug is None:
-            endpoint = "danh-sach/phim-moi"
-        else:
-            endpoint = f"the-loai/{cat_slug}"
-
+        
         for page in range(1, 15):
             if len(results) >= LIMIT_COUNT: break
             
-            params = {
-                "page": page,
-                "limit": 40,
-                "sort_field": "modified.time",
-                "sort_type": "desc",
-                "sort_lang": lang,
-                "year": year
-            }
-            
-            data = get_data(f"{BASE_URL}/{endpoint}", params)
-            if not data or 'data' not in data or not data['data'].get('items'):
-                break
+            # --- CHỌN LOGIC ENDPOINT ---
+            if cat_slug is None:
+                # Dành cho Lồng tiếng / Thuyết minh (Dùng endpoint Năm như code cũ của ní)
+                url = f"{BASE_URL}/nam/{year}"
+                params = {"page": page, "limit": 40, "sort_lang": lang}
+            else:
+                # Dành cho Thể loại (Dùng endpoint Thể loại hỗ trợ lọc Năm cực chuẩn)
+                url = f"{BASE_URL}/the-loai/{cat_slug}"
+                params = {"page": page, "limit": 40, "year": year, "sort_field": "modified.time", "sort_type": "desc"}
+
+            data = get_data(url, params)
+            if not data or 'data' not in data or not data['data'].get('items'): 
+                break # Hết phim năm này, nhảy sang năm sau
                 
             items = data['data']['items']
-            # Nếu page này không trả về phim nào của năm đang tìm thì qua năm tiếp theo
-            if not items: break
-            
             process_and_add(items, results, seen)
                 
     with open(os.path.join(OUTPUT_DIR, f"{filename}.json"), "w", encoding="utf-8") as f:
@@ -81,7 +71,6 @@ def process_and_add(items, results, seen):
            any(x in cat_slugs for x in ['hoat-hinh', 'anime']) or \
            "hoạt hình" in m_name or "hoat hinh" in m_name:
             continue 
-        # ------------------------
 
         results.append({
             "name": m.get('name'), 
@@ -98,21 +87,22 @@ def process_and_add(items, results, seen):
 
 if __name__ == "__main__":
     report = {}
+    # (Tên hiển thị, Tên file, Slug thể loại, Lang filter)
+    # LƯU Ý: Lồng tiếng/Thuyết minh để Slug thể loại là None để dùng endpoint Năm.
     targets = [
-        # (Tên, File, Slug thể loại, Lang)
         ("Lồng Tiếng", "long_tieng", None, "long-tieng"), 
         ("Thuyết Minh", "thuyet_minh", None, "thuyet-minh"),
-        ("Kinh Dị", "kinh_di", "kinh-di", ""), 
-        ("Hài Hước", "hai_huoc", "hai-huoc", ""),
-        ("Cổ Trang", "co_trang", "co-trang", ""), 
-        ("Khoa Học", "khoa_hoc", "khoa-hoc", ""),
-        ("Hành Động", "hanh_dong", "hanh-dong", "")
+        ("Kinh Dị", "kinh_di", "kinh-di", None), 
+        ("Hài Hước", "hai_huoc", "hai-huoc", None),
+        ("Cổ Trang", "co_trang", "co-trang", None), 
+        ("Khoa Học", "khoa_hoc", "khoa-hoc", None),
+        ("Hành Động", "hanh_dong", "hanh-dong", None)
     ]
     
-    for d_name, f_name, cat_slug, lng in targets:
-        report[f"{f_name}.json"] = crawl_flexible(d_name, f_name, cat_slug, lng)
+    for d_name, f_name, cat, lng in targets:
+        report[f"{f_name}.json"] = crawl_universal(d_name, f_name, cat, lng)
     
-    print("\n" + "="*45 + "\n| BÁO CÁO: VÉT ĐỦ 400 PHIM / FILE |\n" + "-"*45)
+    print("\n" + "="*45 + "\n| BÁO CÁO: KẾT HỢP CẢ 2 PHƯƠNG PHÁP |\n" + "-"*45)
     for k, v in report.items(): 
         print(f"| {k:22} | {v:14} |")
     print("="*45)
