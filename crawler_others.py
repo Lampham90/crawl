@@ -22,28 +22,34 @@ def crawl_universal(display_name, filename, cat_slug=None, lang=None):
     results, seen = [], set()
     print(f"\n>>> Đang bào {display_name}...")
     
-    # Duyệt qua các năm từ 2026 về 2023 để hốt đủ 400 phim
-    for year in [2026, 2025, 2024, 2023]:
+    # Mở rộng danh sách năm để đảm bảo đủ 400 phim (về tận 2020 nếu cần)
+    years_to_check = [2026, 2025, 2024, 2023, 2022, 2021, 2020]
+    
+    for year in years_to_check:
         if len(results) >= LIMIT_COUNT: break
+        print(f"  + Quét năm {year}...")
         
-        for page in range(1, 15):
+        # Tăng số trang quét lên (ví dụ 30 trang) để không sót phim Lồng tiếng nào
+        for page in range(1, 31): 
             if len(results) >= LIMIT_COUNT: break
             
-            # --- CHỌN LOGIC ENDPOINT ---
             if cat_slug is None:
-                # Dành cho Lồng tiếng / Thuyết minh (Dùng endpoint Năm như code cũ của ní)
+                # Dành cho Lồng tiếng / Thuyết minh
                 url = f"{BASE_URL}/nam/{year}"
                 params = {"page": page, "limit": 40, "sort_lang": lang}
             else:
-                # Dành cho Thể loại (Dùng endpoint Thể loại hỗ trợ lọc Năm cực chuẩn)
+                # Dành cho Thể loại
                 url = f"{BASE_URL}/the-loai/{cat_slug}"
                 params = {"page": page, "limit": 40, "year": year, "sort_field": "modified.time", "sort_type": "desc"}
 
             data = get_data(url, params)
-            if not data or 'data' not in data or not data['data'].get('items'): 
-                break # Hết phim năm này, nhảy sang năm sau
+            # Nếu data rỗng hoặc không có items thì dừng trang của năm đó
+            if not data or 'data' not in data or not data['data'].get('items'):
+                break
                 
             items = data['data']['items']
+            if not items: break
+            
             process_and_add(items, results, seen)
                 
     with open(os.path.join(OUTPUT_DIR, f"{filename}.json"), "w", encoding="utf-8") as f:
@@ -87,8 +93,6 @@ def process_and_add(items, results, seen):
 
 if __name__ == "__main__":
     report = {}
-    # (Tên hiển thị, Tên file, Slug thể loại, Lang filter)
-    # LƯU Ý: Lồng tiếng/Thuyết minh để Slug thể loại là None để dùng endpoint Năm.
     targets = [
         ("Lồng Tiếng", "long_tieng", None, "long-tieng"), 
         ("Thuyết Minh", "thuyet_minh", None, "thuyet-minh"),
@@ -102,7 +106,7 @@ if __name__ == "__main__":
     for d_name, f_name, cat, lng in targets:
         report[f"{f_name}.json"] = crawl_universal(d_name, f_name, cat, lng)
     
-    print("\n" + "="*45 + "\n| BÁO CÁO: KẾT HỢP CẢ 2 PHƯƠNG PHÁP |\n" + "-"*45)
+    print("\n" + "="*45 + "\n| BÁO CÁO: TỐI ƯU SỐ LƯỢNG PHIM |\n" + "-"*45)
     for k, v in report.items(): 
         print(f"| {k:22} | {v:14} |")
     print("="*45)
