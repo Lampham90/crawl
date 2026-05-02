@@ -7,7 +7,7 @@ on:
     # 10h sáng VN -> 3h sáng (UTC)
     # 15h chiều VN -> 8h sáng (UTC)
     # 19h tối VN   -> 12h trưa (UTC)
-    cron: '19 21,3,8,12 * * *'
+    cron: '15 21,3,8,12 * * *'
   workflow_dispatch: # Cho phép bấm chạy thủ công
 
 jobs:
