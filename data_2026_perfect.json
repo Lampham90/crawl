@@ -2367,9 +2367,9 @@
     ],
     "bo_thai": [
         {
-            "name": "Wu",
+            "name": "Nam Phù Thủy",
             "year": 2026,
-            "slug": "wu",
+            "slug": "nam-phu-thuy",
             "thumb": "https://phimimg.com/upload/vod/20260506-1/07bbce9a6b0e8f159f13ef2e42cf3252.jpg",
             "poster": "https://phimimg.com/upload/vod/20260506-1/94c1e5ae93ccfd42ab8c76af91416256.jpg",
             "sub_type": "Vietsub",
@@ -2549,6 +2549,18 @@
     ],
     "trending_phim_bo": [
         {
+            "name": "Mặt Chẳng Theo Lòng",
+            "year": 2026,
+            "slug": "mat-chang-theo-long",
+            "thumb": "https://phimimg.com/upload/vod/20260506-1/ebe9f7b5d88a760fb5a911ad046ae5a2.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260506-1/a0327f82d018fee124d0ac2acf0db137.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "20",
+            "country": "Trung Quốc",
+            "description": "Để thu thập chứng cứ, Ôn Nhan đành phải trà trộn vào hào môn, trở thành dâu thứ trong gia tộc; còn Lục Đình Kiêu vì báo thù cho mẹ nên bày mưu đoạt quyền. Trớ trêu thay, cô lại chính là &quot;kẻ giả mạo&quot; từng có một đêm dây dưa với anh. Ban ngày, cô ra tay dạy dỗ người chồng nhu nhược; anh thì âm thầm giăng bẫy. Đêm đến, cả hai đều mang toan tính riêng, giằng co đến cực hạn, từ chỗ đề phòng lẫn nhau đến liên thủ lật đổ cả gia tộc. Mối tình cấm kỵ cũng theo những âm mưu toan tính đó mà dần trở nên mất kiểm soát."
+        },
+        {
             "name": "Dưới Bóng Điện Hạ",
             "year": 2026,
             "slug": "duoi-bong-dien-ha",
@@ -2573,64 +2585,28 @@
             "description": "Bộ phim khám phá những mối quan hệ đan xen phức tạp của sáu người phụ nữ.&nbsp; Trung tâm của câu chuyện là Bambi, người bất ngờ xuất hiện trở lại trong cuộc đời của bạn gái cũ. Cô thuê Prim — một doanh nhân đang lên, người cùng bạn thân Min điều hành một công ty quảng cáo — để dẫn dắt chiến dịch cho thương hiệu thời trang mới của mẹ mình.&nbsp; Chiến dịch này quy tụ một đội ngũ đầy năng động: Gorya, đàn em khóa dưới thời trung học của Prim, được chỉ định làm stylist cho dự án; trong khi đó, nàng mẫu đầy lôi cuốn Shasha trở thành gương mặt đại diện cho chiến dịch. Sự phức tạp càng tăng thêm khi Praew — một nhiếp ảnh gia tài năng tại hộp đêm mà Min thường ghé thăm — cũng tham gia vào đội ngũ sản xuất.&nbsp; Thông qua những mối liên kết ngày càng rắc rối giữa họ, bộ phim hé lộ lý do tại sao các quy tắc luôn tồn tại trong cả kinh doanh lẫn tình yêu, và điều gì sẽ xảy ra khi những ranh giới đó bị vượt qua."
         },
         {
-            "name": "Cuộc Chiến Trong Chúng Ta",
+            "name": "Nam Phù Thủy",
             "year": 2026,
-            "slug": "cuoc-chien-trong-chung-ta",
-            "thumb": "https://phimimg.com/upload/vod/20260419-1/3c33f126df2ec7c53ce4b20c507ef046.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260422-1/97dec6daa40158d359854d4d07dcc772.jpg",
+            "slug": "nam-phu-thuy",
+            "thumb": "https://phimimg.com/upload/vod/20260506-1/07bbce9a6b0e8f159f13ef2e42cf3252.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260506-1/94c1e5ae93ccfd42ab8c76af91416256.jpg",
             "sub_type": "Vietsub",
+            "current_episode": "Tập 1",
+            "total_episodes": "9",
+            "country": "Thái Lan",
+            "description": "Một chàng trai trẻ mang trong mình mảnh linh hồn của quỷ dữ đã bắt tay cùng một đồng minh bí ẩn để săn lùng những thực thể siêu nhiên chuyên hút sinh lực của con người. Giữa cuộc chiến khốc liệt với bóng tối, anh vừa phải tìm cách kiểm soát sức mạnh tà ác đang dần trỗi dậy trong chính cơ thể mình, vừa phải bảo vệ nhân loại khỏi những hiểm họa vô hình đang rình rập."
+        },
+        {
+            "name": "Bù Nhìn Bóng Đêm",
+            "year": 2026,
+            "slug": "bu-nhin-bong-dem",
+            "thumb": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260421-1/f650d2178218b84e7277bdafbf2a95b9.jpg",
+            "sub_type": "Thuyết Minh",
             "current_episode": "Tập 6",
             "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Chạm đáy sau 20 năm theo đuổi bộ phim đầu tay, một đạo diễn đầy khát vọng gặp một nhà sản xuất kiệt sức – và rồi cô giúp anh tìm lại giá trị bản thân."
-        },
-        {
-            "name": "Mặt Chẳng Theo Lòng",
-            "year": 2026,
-            "slug": "mat-chang-theo-long",
-            "thumb": "https://phimimg.com/upload/vod/20260506-1/ebe9f7b5d88a760fb5a911ad046ae5a2.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260506-1/a0327f82d018fee124d0ac2acf0db137.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "20",
-            "country": "Trung Quốc",
-            "description": "Để thu thập chứng cứ, Ôn Nhan đành phải trà trộn vào hào môn, trở thành dâu thứ trong gia tộc; còn Lục Đình Kiêu vì báo thù cho mẹ nên bày mưu đoạt quyền. Trớ trêu thay, cô lại chính là &quot;kẻ giả mạo&quot; từng có một đêm dây dưa với anh. Ban ngày, cô ra tay dạy dỗ người chồng nhu nhược; anh thì âm thầm giăng bẫy. Đêm đến, cả hai đều mang toan tính riêng, giằng co đến cực hạn, từ chỗ đề phòng lẫn nhau đến liên thủ lật đổ cả gia tộc. Mối tình cấm kỵ cũng theo những âm mưu toan tính đó mà dần trở nên mất kiểm soát."
-        },
-        {
-            "name": "Lật Ngược Cuộc Đời",
-            "year": 2026,
-            "slug": "lat-nguoc-cuoc-doi",
-            "thumb": "https://phimimg.com/upload/vod/20260420-1/a3d7bdf94a644f3705ce4e429a2a9b70.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260420-1/ce2259a1837f23b905c9d241dc0fccf8.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (30/30)",
-            "total_episodes": "30",
-            "country": "Trung Quốc",
-            "description": "Chàng trai trẻ Trương Tiểu Bắc rơi vào bước đường cùng, nhưng bất ngờ có được chiếc chìa khóa thay đổi số phận khi hoán đổi cuộc đời với Thịnh Nguyên Châu, cậu ấm của một gia tộc tài phiệt. Từ vực sâu nghịch cảnh, cậu từng bước vươn mình, đổi đời để bảo vệ gia đình, đồng thời quyết tâm truy tìm hung thủ đã hại chị gái mình.Hai thiếu niên, trong hành trình cứu rỗi và chữa lành lẫn nhau, phải đối mặt với vô vàn thử thách về bản chất con người trong 30 ngày định mệnh. Cuối cùng, cả hai bắt tay vạch trần âm mưu chốn hào môn và tung đòn báo thù đanh thép nhắm thẳng vào kẻ đứng sau mọi chuyện!"
-        },
-        {
-            "name": "Cú Sốc",
-            "year": 2026,
-            "slug": "cu-soc",
-            "thumb": "https://phimimg.com/upload/vod/20260505-1/8d2f42eb4d2a2db443d7ad863d83ba51.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260505-1/aa5419bddec64990d591f77262fc2e42.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Một cặp đôi đang hạnh phúc chuẩn bị kết hôn bất ngờ bị thử thách khi một biến cố ngoài dự kiến khiến cả tuần lễ cưới của họ rơi vào hỗn loạn."
-        },
-        {
-            "name": "Chưởng Trung Nhận",
-            "year": 2026,
-            "slug": "chuong-trung-nhan",
-            "thumb": "https://phimimg.com/upload/vod/20260428-1/2d8c2c614fc91b33f9c192d22d95042c.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260428-1/7dc95353b828664381cd1531c004e51c.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 23",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Thái tử Ân Trú để né tránh sự điều tra và tai họa đã quyết định giả danh Cố Triều Tịch để thâm nhập vào Cố gia. Trong khi đó, Cố Ngư Lạc lại muốn lợi dụng sự hiện diện của Ân Trú để tìm ra sự thật về thân thế bí ẩn của chính mình. Cả hai đều che giấu những bí mật riêng, từ những kẻ đối đầu gay gắt ban đầu, họ dần trở thành những người đồng đội ăn ý và tin tưởng lẫn nhau. Đứng trước vòng xoáy của nhân tính và dục vọng quyền lực, giữa những lời nói dối và sự thật tàn khốc, họ sẽ phải đưa ra lựa chọn thế nào khi đối mặt với ranh giới sinh tử?"
+            "description": "Bị giáng chức về vùng quê Gangseong, cựu thám tử sừng sỏ Kang Tae-ju rơi vào tâm điểm của chuỗi vụ án giết người hàng loạt rúng động. Để lật tẩy sự thật tàn khốc bị vùi lấp suốt 31 năm (từ 1988 đến 2019) và khôi phục lại danh dự, anh buộc phải bắt tay với kẻ mình căm ghét nhất - công tố viên Cha Shi-young. Khi lần theo sự thật, họ nhận ra kẻ sát nhân không chỉ lặp lại quá khứ mà đang hoàn thành thứ còn dang dở."
         },
         {
             "name": "Kinh Doanh Táo Bạo (Phần 1)",
@@ -2645,16 +2621,16 @@
             "description": "Khi chồng mình rơi vào trạng thái hôn mê, Nines — một bà nội trợ truyền thống — đã biến công việc kinh doanh của gia đình thành cửa hàng video dành cho người lớn đầu tiên tại Valladolid."
         },
         {
-            "name": "Thanh Tra Bí Mật",
+            "name": "Cú Sốc",
             "year": 2026,
-            "slug": "thanh-tra-bi-mat",
-            "thumb": "https://phimimg.com/upload/vod/20260502-1/fca7d44d55b98b8e056eab9b7aaa4a60.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260502-1/a90260ebfcbde208d8eca5f570355773.jpg",
+            "slug": "cu-soc",
+            "thumb": "https://phimimg.com/upload/vod/20260505-1/8d2f42eb4d2a2db443d7ad863d83ba51.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260505-1/aa5419bddec64990d591f77262fc2e42.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Kể về Joo In-ah, một trưởng phòng kiểm toán đầy sức hút với một bí mật, và Noh Ki-joon, át chủ bài của phòng, người đột nhiên bị giáng chức và phải giải quyết các vụ bê bối của công ty."
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Một cặp đôi đang hạnh phúc chuẩn bị kết hôn bất ngờ bị thử thách khi một biến cố ngoài dự kiến khiến cả tuần lễ cưới của họ rơi vào hỗn loạn."
         },
         {
             "name": "Daredevil: Tái Xuất (Phần 2)",
@@ -2669,16 +2645,16 @@
             "description": "Bộ phim xoay quanh Matt Murdock (do Charlie Cox thủ vai), một luật sư mù ở Hell’s Kitchen, New York, người sống hai cuộc đời: ban ngày là một luật sư đấu tranh cho công lý, ban đêm là Daredevil – một siêu anh hùng đeo mặt nạ bảo vệ thành phố. Phim lấy bối cảnh vài năm sau các sự kiện của loạt phim Netflix, khi Matt cùng hai người bạn thân là Foggy Nelson (Elden Henson) và Karen Page (Deborah Ann Woll) đã tìm thấy sự ổn định trong cuộc sống với văn phòng luật của họ.Tuy nhiên, sự yên bình này không kéo dài khi Wilson Fisk (Vincent D’Onofrio), tức Kingpin – kẻ thù truyền kiếp của Daredevil, tái xuất với một kế hoạch đầy tham vọng. Không còn hoạt động trong thế giới ngầm như trước, Fisk giờ đây hướng đến chính trường và trở thành một nhân vật quyền lực tại New York, thậm chí có thể là thị trưởng. Mâu thuẫn giữa Matt và Fisk leo thang khi cả hai đối đầu trong một cuộc chiến vừa mang tính cá nhân vừa ảnh hưởng đến cả thành phố."
         },
         {
-            "name": "Mật Ngữ Kỷ",
+            "name": "Cuộc Chiến Trong Chúng Ta",
             "year": 2026,
-            "slug": "mat-ngu-ky",
-            "thumb": "https://phimimg.com/upload/vod/20260414-1/ede3ec4c1b60ff630886057ae59c7afd.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260414-1/b3dd5a4774a86dbf9c39e3de6881289a.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (38/38)",
-            "total_episodes": "38",
-            "country": "Trung Quốc",
-            "description": "Cuộc hôn nhân hoàn hảo của Hứa Mật Ngữ bỗng chốc tan vỡ vào đúng kỷ niệm 10 năm ngày cưới. Cô nhận ra bấy lâu nay mình luôn cam chịu và đánh mất bản thân trong mối quan hệ ấy, nên đã quyết định dứt khoát ly hôn. Trong khi đó, Kỷ Phong, người quản lý khách sạn lựa chọn quay về làm việc tại khách sạn Phổ Vinh, nơi anh bắt đầu sự nghiệp. Hứa Mật Ngữ cũng bắt đầu lại từ con số không với công việc nhân viên buồng phòng tại đây, còn Kỷ Phong chính thức ra mắt với tư cách là Tổng giám đốc của khách sạn Phổ Vinh. Cả hai đã cùng nhau sát cánh đối mặt với những thử thách nơi công sở, và trong quá trình đồng cam cộng khổ ấy, tình yêu giữa họ đã đầm chồi. Cuối cùng, họ không chỉ có được tình yêu viên mãn mà còn đưa khách sạn Phổ Vinh trở thành một biểu tượng mới của thành phố..."
+            "slug": "cuoc-chien-trong-chung-ta",
+            "thumb": "https://phimimg.com/upload/vod/20260419-1/3c33f126df2ec7c53ce4b20c507ef046.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260422-1/97dec6daa40158d359854d4d07dcc772.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Chạm đáy sau 20 năm theo đuổi bộ phim đầu tay, một đạo diễn đầy khát vọng gặp một nhà sản xuất kiệt sức – và rồi cô giúp anh tìm lại giá trị bản thân."
         },
         {
             "name": "Siêu Anh Hùng Phá Hoại (Phần 5)",
@@ -2693,16 +2669,40 @@
             "description": "Trong một thế giới mà các siêu anh hùng chìm trong mặt tối của sự nổi tiếng và danh vọng to lớn của họ, THE BOYS tập trung vào một nhóm tự phát được biết đến với cái tên không chính thức là nhóm “Trai điên”, những người đặt ra mục tiêu hạ gục các siêu anh hùng tồi tệ này chỉ với sự gan góc và sẵn sàng chơi bẩn của họ."
         },
         {
-            "name": "Wu",
+            "name": "Mật Ngữ Kỷ",
             "year": 2026,
-            "slug": "wu",
-            "thumb": "https://phimimg.com/upload/vod/20260506-1/07bbce9a6b0e8f159f13ef2e42cf3252.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260506-1/94c1e5ae93ccfd42ab8c76af91416256.jpg",
+            "slug": "mat-ngu-ky",
+            "thumb": "https://phimimg.com/upload/vod/20260414-1/ede3ec4c1b60ff630886057ae59c7afd.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260414-1/b3dd5a4774a86dbf9c39e3de6881289a.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (38/38)",
+            "total_episodes": "38",
+            "country": "Trung Quốc",
+            "description": "Cuộc hôn nhân hoàn hảo của Hứa Mật Ngữ bỗng chốc tan vỡ vào đúng kỷ niệm 10 năm ngày cưới. Cô nhận ra bấy lâu nay mình luôn cam chịu và đánh mất bản thân trong mối quan hệ ấy, nên đã quyết định dứt khoát ly hôn. Trong khi đó, Kỷ Phong, người quản lý khách sạn lựa chọn quay về làm việc tại khách sạn Phổ Vinh, nơi anh bắt đầu sự nghiệp. Hứa Mật Ngữ cũng bắt đầu lại từ con số không với công việc nhân viên buồng phòng tại đây, còn Kỷ Phong chính thức ra mắt với tư cách là Tổng giám đốc của khách sạn Phổ Vinh. Cả hai đã cùng nhau sát cánh đối mặt với những thử thách nơi công sở, và trong quá trình đồng cam cộng khổ ấy, tình yêu giữa họ đã đầm chồi. Cuối cùng, họ không chỉ có được tình yêu viên mãn mà còn đưa khách sạn Phổ Vinh trở thành một biểu tượng mới của thành phố..."
+        },
+        {
+            "name": "Lật Ngược Cuộc Đời",
+            "year": 2026,
+            "slug": "lat-nguoc-cuoc-doi",
+            "thumb": "https://phimimg.com/upload/vod/20260420-1/a3d7bdf94a644f3705ce4e429a2a9b70.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260420-1/ce2259a1837f23b905c9d241dc0fccf8.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 1",
-            "total_episodes": "9",
-            "country": "Thái Lan",
-            "description": "Một chàng trai trẻ mang trong mình mảnh linh hồn của quỷ dữ đã bắt tay cùng một đồng minh bí ẩn để săn lùng những thực thể siêu nhiên chuyên hút sinh lực của con người. Giữa cuộc chiến khốc liệt với bóng tối, anh vừa phải tìm cách kiểm soát sức mạnh tà ác đang dần trỗi dậy trong chính cơ thể mình, vừa phải bảo vệ nhân loại khỏi những hiểm họa vô hình đang rình rập."
+            "current_episode": "Hoàn Tất (30/30)",
+            "total_episodes": "30",
+            "country": "Trung Quốc",
+            "description": "Chàng trai trẻ Trương Tiểu Bắc rơi vào bước đường cùng, nhưng bất ngờ có được chiếc chìa khóa thay đổi số phận khi hoán đổi cuộc đời với Thịnh Nguyên Châu, cậu ấm của một gia tộc tài phiệt. Từ vực sâu nghịch cảnh, cậu từng bước vươn mình, đổi đời để bảo vệ gia đình, đồng thời quyết tâm truy tìm hung thủ đã hại chị gái mình.Hai thiếu niên, trong hành trình cứu rỗi và chữa lành lẫn nhau, phải đối mặt với vô vàn thử thách về bản chất con người trong 30 ngày định mệnh. Cuối cùng, cả hai bắt tay vạch trần âm mưu chốn hào môn và tung đòn báo thù đanh thép nhắm thẳng vào kẻ đứng sau mọi chuyện!"
+        },
+        {
+            "name": "Chưởng Trung Nhận",
+            "year": 2026,
+            "slug": "chuong-trung-nhan",
+            "thumb": "https://phimimg.com/upload/vod/20260428-1/2d8c2c614fc91b33f9c192d22d95042c.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260428-1/7dc95353b828664381cd1531c004e51c.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 23",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Thái tử Ân Trú để né tránh sự điều tra và tai họa đã quyết định giả danh Cố Triều Tịch để thâm nhập vào Cố gia. Trong khi đó, Cố Ngư Lạc lại muốn lợi dụng sự hiện diện của Ân Trú để tìm ra sự thật về thân thế bí ẩn của chính mình. Cả hai đều che giấu những bí mật riêng, từ những kẻ đối đầu gay gắt ban đầu, họ dần trở thành những người đồng đội ăn ý và tin tưởng lẫn nhau. Đứng trước vòng xoáy của nhân tính và dục vọng quyền lực, giữa những lời nói dối và sự thật tàn khốc, họ sẽ phải đưa ra lựa chọn thế nào khi đối mặt với ranh giới sinh tử?"
         },
         {
             "name": "Cá Con Cau Có",
@@ -2717,16 +2717,16 @@
             "description": "Sống trên một con tàu đắm cũ nát, ông Cá một ngày nọ phát hiện ra một con rồng biển nhỏ hiếu động tên Pip – kẻ nhầm nhà ông là bãi phế liệu – đang ăn cắp đồ đạc của ông. Cuộc tranh cãi nảy lửa sau đó khiến cả hai ngôi nhà đều bị tàn phá. Nhưng vẫn còn hy vọng! Bắt đầu một cuộc hành trình tưởng chừng như bất khả thi để tìm kiếm &quot;Ánh sáng lấp lánh&quot; huyền thoại nhằm ban điều ước, chỉ có một vấn đề: có kẻ khác cũng đang săn lùng nó…"
         },
         {
-            "name": "Bù Nhìn Bóng Đêm",
+            "name": "Thanh Tra Bí Mật",
             "year": 2026,
-            "slug": "bu-nhin-bong-dem",
-            "thumb": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260421-1/f650d2178218b84e7277bdafbf2a95b9.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 6",
+            "slug": "thanh-tra-bi-mat",
+            "thumb": "https://phimimg.com/upload/vod/20260502-1/fca7d44d55b98b8e056eab9b7aaa4a60.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260502-1/a90260ebfcbde208d8eca5f570355773.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
             "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Bị giáng chức về vùng quê Gangseong, cựu thám tử sừng sỏ Kang Tae-ju rơi vào tâm điểm của chuỗi vụ án giết người hàng loạt rúng động. Để lật tẩy sự thật tàn khốc bị vùi lấp suốt 31 năm (từ 1988 đến 2019) và khôi phục lại danh dự, anh buộc phải bắt tay với kẻ mình căm ghét nhất - công tố viên Cha Shi-young. Khi lần theo sự thật, họ nhận ra kẻ sát nhân không chỉ lặp lại quá khứ mà đang hoàn thành thứ còn dang dở."
+            "description": "Kể về Joo In-ah, một trưởng phòng kiểm toán đầy sức hút với một bí mật, và Noh Ki-joon, át chủ bài của phòng, người đột nhiên bị giáng chức và phải giải quyết các vụ bê bối của công ty."
         }
     ],
     "long_tieng": [
