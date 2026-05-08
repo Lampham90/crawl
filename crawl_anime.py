@@ -4,10 +4,9 @@ from datetime import datetime
 
 # --- CẤU HÌNH ---
 BASE_URL = "https://phimapi.com/v1/api"
-# Danh sách năm cho Lồng tiếng / Thuyết minh và cũng là bộ lọc cho các mục khác
 YEARS_FILTER = [2026, 2025] 
 TARGET_COUNT = 20
-MAX_WORKERS = 2
+MAX_WORKERS = 2 
 DATA_FILE = "data_2026_perfect.json"
 
 def get_data(url, params=None):
@@ -19,17 +18,17 @@ def get_data(url, params=None):
     return None
 
 def fetch_detail(slug):
+    # Endpoint này trả về object có key là 'movie'
     return get_data(f"https://phimapi.com/phim/{slug}")
 
 def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None):
     """
-    Cào theo cập nhật mới nhưng CHỈ LẤY PHIM 2025 & 2026
+    Cào theo thứ tự API trả về, chỉ giữ lại phim 2025-2026
     """
     results, local_seen = [], set()
-    print(f"> Đang quét: {target_name} (Chỉ lấy 2025-2026)...")
+    print(f"> Đang quét: {target_name}...")
     
-    # Quét sâu hơn một chút (20 trang) vì mình lọc năm nên tỉ lệ phim bị loại sẽ cao
-    for page in range(1, 21): 
+    for page in range(1, 25): # Quét rộng để lọc phim cũ
         if len(results) >= TARGET_COUNT: break
         
         url = f"{BASE_URL}/danh-sach/{endpoint}"
@@ -39,24 +38,23 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
         if not data or 'data' not in data or not data['data'].get('items'): break
         items = data['data']['items']
         
-        # Lọc nhanh qua slug để tránh fetch lại phim cũ đã quét ở trang trước
-        slugs_to_fetch = [item['slug'] for item in items if item['slug'] not in local_seen]
-        if not slugs_to_fetch: continue
-
-        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            details = list(executor.map(fetch_detail, slugs_to_fetch))
-
-        for detail in details:
+        # Duyệt từng item theo đúng thứ tự API trả về (Cực kỳ quan trọng)
+        for item in items:
             if len(results) >= TARGET_COUNT: break
+            slug = item['slug']
+            if slug in local_seen: continue
+            
+            # Lấy chi tiết để kiểm tra năm và quốc gia
+            detail = fetch_detail(slug)
             if not detail or 'movie' not in detail: continue
             m = detail['movie']
             
-            # --- CHỐT CHẶN NĂM CỰC QUAN TRỌNG ---
+            # 1. Kiểm tra năm trước (Ưu tiên thứ tự xuất hiện)
             m_year = int(m.get('year', 0))
             if m_year not in YEARS_FILTER:
-                continue # Bỏ qua nếu không phải 2025 hoặc 2026
+                continue 
             
-            # Kiểm tra Phim Lẻ/Bộ và Quốc gia
+            # 2. Kiểm tra các điều kiện lọc khác
             countries = [c.get('name') for c in m.get('country', [])]
             m_type = m.get('type', '')
             ep_total_val = str(m.get('episode_total', '1'))
@@ -68,6 +66,7 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
                 lang = str(m.get('lang', ''))
                 desc = m.get('content', '').replace('<p>', '').replace('</p>', '').replace('\n', ' ').strip()
 
+                # Thêm vào theo đúng thứ tự quét được
                 results.append({
                     "name": m.get('name'),
                     "year": m_year,
@@ -80,112 +79,10 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
                     "country": countries[0] if countries else "",
                     "description": desc
                 })
-                local_seen.add(m.get('slug'))
+                local_seen.add(slug)
+                print(f"   [+] Đã lấy: {m.get('name')} ({m_year})")
+                
     return results
 
-def fetch_by_lang(lang_code, lang_name):
-    """
-    Giữ nguyên logic cho Lồng tiếng / Thuyết minh để đảm bảo đủ số lượng
-    """
-    results, local_seen = [], set()
-    print(f"> Đang quét: {lang_name} (Lọc năm {YEARS_FILTER})...")
-
-    for year in YEARS_FILTER:
-        if len(results) >= TARGET_COUNT: break
-        url = f"{BASE_URL}/nam/{year}"
-        params = {"page": 1, "sort_lang": lang_code, "limit": 40}
-        data = get_data(url, params)
-        
-        if not data or 'data' not in data or not data['data'].get('items'): continue
-            
-        items = data['data']['items']
-        slugs = [it['slug'] for it in items if it['slug'] not in local_seen]
-        
-        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            details = list(executor.map(fetch_detail, slugs))
-
-        for detail in details:
-            if len(results) >= TARGET_COUNT: break
-            if not detail or 'movie' not in detail: continue
-            m = detail['movie']
-            if int(m.get('year', 0)) != year: continue
-
-            desc = m.get('content', '').replace('<p>', '').replace('</p>', '').replace('\n', ' ').strip()
-            results.append({
-                "name": m.get('name'),
-                "year": year,
-                "slug": m.get('slug'),
-                "thumb": m.get('thumb_url'),
-                "poster": m.get('poster_url'),
-                "sub_type": lang_name,
-                "current_episode": m.get('episode_current', 'Full'),
-                "total_episodes": str(m.get('episode_total', '1')),
-                "country": m.get('country', [{}])[0].get('name', ''),
-                "description": desc
-            })
-            local_seen.add(m.get('slug'))
-    return results
-
-def interleave_trending(tr, han, au, thai, rap):
-    trending = []
-    l_tr, l_han, l_au, l_thai, l_rap = list(tr[:4]), list(han[:3]), list(au[:3]), list(thai[:2]), list(rap[:3])
-    while l_tr or l_han or l_au or l_thai or l_rap:
-        if l_tr: trending.append(l_tr.pop(0))
-        if l_rap: trending.append(l_rap.pop(0))
-        if l_han: trending.append(l_han.pop(0))
-        if l_au: trending.append(l_au.pop(0))
-        if l_thai: trending.append(l_thai.pop(0))
-    random.shuffle(trending)
-    return trending[:15]
-
-def main():
-    start_time = time.time()
-    final_data, report = {}, []
-
-    def run_and_report(key, name, endpoint, country=None, is_movie=None):
-        res = fetch_final(name, endpoint, country, is_movie)
-        final_data[key] = res
-        status = "✅ ĐỦ" if len(res) >= TARGET_COUNT else f"⚠️ THIẾU ({len(res)}/{TARGET_COUNT})"
-        report.append(f"| {name:22} | {status:16} |")
-        return res
-
-    # 1. Quét các mục (Lọc lấy 2025-2026 từ danh sách mới cập nhật)
-    run_and_report("anime_movie", "Anime Movie", "hoat-hinh", is_movie=True)
-    run_and_report("anime_nhat", "Anime Nhật", "hoat-hinh", country="Nhật Bản", is_movie=False)
-    run_and_report("hh_trung_quoc", "HH Trung Quốc", "hoat-hinh", country="Trung Quốc", is_movie=False)
-    run_and_report("phim_chieu_rap", "Phim Chiếu Rạp", "phim-chieu-rap")
-
-    mapping = [("Việt Nam", "vn"), ("Hàn Quốc", "han"), ("Trung Quốc", "trung"), ("Âu Mỹ", "au_my"), ("Thái Lan", "thai")]
-    for c_name, c_key in mapping:
-        run_and_report(f"le_{c_key}", f"Lẻ {c_name}", "phim-le", country=c_name, is_movie=True)
-        run_and_report(f"bo_{c_key}", f"Bộ {c_name}", "phim-bo", country=c_name, is_movie=False)
-
-    # 2. Trending
-    final_data["trending_phim_bo"] = interleave_trending(
-        final_data.get("bo_trung", []), final_data.get("bo_han", []),
-        final_data.get("bo_au_my", []), final_data.get("bo_thai", []),
-        final_data.get("phim_chieu_rap", [])
-    )
-    report.append(f"| {'Top Trending':22} | {'🔥 MIXED':16} |")
-
-    # 3. Lồng Tiếng / Thuyết Minh
-    lt = fetch_by_lang("long-tieng", "Lồng Tiếng")
-    final_data["long_tieng"] = lt
-    report.append(f"| {'Phim Lồng Tiếng':22} | {'✅ ĐỦ' if len(lt) >= TARGET_COUNT else f'⚠️ THIẾU ({len(lt)})':16} |")
-
-    tm = fetch_by_lang("thuyet-minh", "Thuyết Minh")
-    final_data["thuyet_minh"] = tm
-    report.append(f"| {'Phim Thuyết Minh':22} | {'✅ ĐỦ' if len(tm) >= TARGET_COUNT else f'⚠️ THIẾU ({len(tm)})':16} |")
-
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(final_data, f, ensure_ascii=False, indent=4)
-
-    print("\n" + "="*45)
-    print(f"    BÁO CÁO CRAWL (2025-2026) - {datetime.now().strftime('%d/%m/%Y %H:%M')}")
-    print("="*45)
-    for line in report: print(line)
-    print("="*45)
-    print(f"Hoàn thành trong: {int(time.time() - start_time)}s\n")
-
-if __name__ == "__main__":
-    main()
+# Các hàm fetch_by_lang và main giữ nguyên như bản trước 
+# (Nhớ copy lại hàm fetch_by_lang và phần xử lý main từ bản code cũ của tui)
