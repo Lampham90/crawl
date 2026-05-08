@@ -4,7 +4,8 @@ from datetime import datetime
 
 # --- CẤU HÌNH ---
 BASE_URL = "https://phimapi.com/v1/api"
-YEARS = [2026, 2025, 2024]  # Chỉ dùng cho Lồng tiếng / Thuyết minh
+# Danh sách năm cho Lồng tiếng / Thuyết minh và cũng là bộ lọc cho các mục khác
+YEARS_FILTER = [2026, 2025] 
 TARGET_COUNT = 20
 MAX_WORKERS = 2
 DATA_FILE = "data_2026_perfect.json"
@@ -18,26 +19,27 @@ def get_data(url, params=None):
     return None
 
 def fetch_detail(slug):
-    # Dùng endpoint này để lấy đầy đủ info movie (content, country, lang...)
     return get_data(f"https://phimapi.com/phim/{slug}")
 
 def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None):
     """
-    Hàm cào theo danh sách mới cập nhật (KHÔNG LỌC NĂM)
+    Cào theo cập nhật mới nhưng CHỈ LẤY PHIM 2025 & 2026
     """
     results, local_seen = [], set()
-    print(f"> Đang quét: {target_name} (Theo cập nhật mới nhất)...")
+    print(f"> Đang quét: {target_name} (Chỉ lấy 2025-2026)...")
     
-    for page in range(1, 11): # Quét tối đa 10 trang để tìm đủ phim thỏa điều kiện
+    # Quét sâu hơn một chút (20 trang) vì mình lọc năm nên tỉ lệ phim bị loại sẽ cao
+    for page in range(1, 21): 
         if len(results) >= TARGET_COUNT: break
         
         url = f"{BASE_URL}/danh-sach/{endpoint}"
-        params = {"page": page, "limit": 40} # Giảm limit một chút để API ổn định hơn
+        params = {"page": page, "limit": 40}
         data = get_data(url, params)
         
         if not data or 'data' not in data or not data['data'].get('items'): break
         items = data['data']['items']
         
+        # Lọc nhanh qua slug để tránh fetch lại phim cũ đã quét ở trang trước
         slugs_to_fetch = [item['slug'] for item in items if item['slug'] not in local_seen]
         if not slugs_to_fetch: continue
 
@@ -49,7 +51,12 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
             if not detail or 'movie' not in detail: continue
             m = detail['movie']
             
-            # Kiểm tra điều kiện Phim Lẻ/Bộ và Quốc gia
+            # --- CHỐT CHẶN NĂM CỰC QUAN TRỌNG ---
+            m_year = int(m.get('year', 0))
+            if m_year not in YEARS_FILTER:
+                continue # Bỏ qua nếu không phải 2025 hoặc 2026
+            
+            # Kiểm tra Phim Lẻ/Bộ và Quốc gia
             countries = [c.get('name') for c in m.get('country', [])]
             m_type = m.get('type', '')
             ep_total_val = str(m.get('episode_total', '1'))
@@ -63,7 +70,7 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
 
                 results.append({
                     "name": m.get('name'),
-                    "year": m.get('year', 0),
+                    "year": m_year,
                     "slug": m.get('slug'),
                     "thumb": m.get('thumb_url'),
                     "poster": m.get('poster_url'),
@@ -78,14 +85,13 @@ def fetch_final(target_name, endpoint, country_target=None, is_movie_logic=None)
 
 def fetch_by_lang(lang_code, lang_name):
     """
-    Hàm cào RIÊNG cho Lồng tiếng / Thuyết minh (CÓ LỌC NĂM)
+    Giữ nguyên logic cho Lồng tiếng / Thuyết minh để đảm bảo đủ số lượng
     """
     results, local_seen = [], set()
-    print(f"> Đang quét: {lang_name} (Lọc theo năm {YEARS})...")
+    print(f"> Đang quét: {lang_name} (Lọc năm {YEARS_FILTER})...")
 
-    for year in YEARS:
+    for year in YEARS_FILTER:
         if len(results) >= TARGET_COUNT: break
-        # Dùng endpoint /nam/ để lọc chính xác năm và sort_lang
         url = f"{BASE_URL}/nam/{year}"
         params = {"page": 1, "sort_lang": lang_code, "limit": 40}
         data = get_data(url, params)
@@ -102,8 +108,6 @@ def fetch_by_lang(lang_code, lang_name):
             if len(results) >= TARGET_COUNT: break
             if not detail or 'movie' not in detail: continue
             m = detail['movie']
-            
-            # Ép buộc đúng năm trong vòng lặp
             if int(m.get('year', 0)) != year: continue
 
             desc = m.get('content', '').replace('<p>', '').replace('</p>', '').replace('\n', ' ').strip()
@@ -124,7 +128,6 @@ def fetch_by_lang(lang_code, lang_name):
 
 def interleave_trending(tr, han, au, thai, rap):
     trending = []
-    # Lấy mẫu từ các danh mục để trộn
     l_tr, l_han, l_au, l_thai, l_rap = list(tr[:4]), list(han[:3]), list(au[:3]), list(thai[:2]), list(rap[:3])
     while l_tr or l_han or l_au or l_thai or l_rap:
         if l_tr: trending.append(l_tr.pop(0))
@@ -146,7 +149,7 @@ def main():
         report.append(f"| {name:22} | {status:16} |")
         return res
 
-    # 1. Quét các mục (Dùng cập nhật mới nhất - KHÔNG LỌC NĂM)
+    # 1. Quét các mục (Lọc lấy 2025-2026 từ danh sách mới cập nhật)
     run_and_report("anime_movie", "Anime Movie", "hoat-hinh", is_movie=True)
     run_and_report("anime_nhat", "Anime Nhật", "hoat-hinh", country="Nhật Bản", is_movie=False)
     run_and_report("hh_trung_quoc", "HH Trung Quốc", "hoat-hinh", country="Trung Quốc", is_movie=False)
@@ -157,7 +160,7 @@ def main():
         run_and_report(f"le_{c_key}", f"Lẻ {c_name}", "phim-le", country=c_name, is_movie=True)
         run_and_report(f"bo_{c_key}", f"Bộ {c_name}", "phim-bo", country=c_name, is_movie=False)
 
-    # 2. Trending (Trộn từ kết quả trên)
+    # 2. Trending
     final_data["trending_phim_bo"] = interleave_trending(
         final_data.get("bo_trung", []), final_data.get("bo_han", []),
         final_data.get("bo_au_my", []), final_data.get("bo_thai", []),
@@ -165,7 +168,7 @@ def main():
     )
     report.append(f"| {'Top Trending':22} | {'🔥 MIXED':16} |")
 
-    # 3. Lồng Tiếng / Thuyết Minh (RIÊNG 2 MỤC NÀY LỌC THEO NĂM)
+    # 3. Lồng Tiếng / Thuyết Minh
     lt = fetch_by_lang("long-tieng", "Lồng Tiếng")
     final_data["long_tieng"] = lt
     report.append(f"| {'Phim Lồng Tiếng':22} | {'✅ ĐỦ' if len(lt) >= TARGET_COUNT else f'⚠️ THIẾU ({len(lt)})':16} |")
@@ -174,16 +177,12 @@ def main():
     final_data["thuyet_minh"] = tm
     report.append(f"| {'Phim Thuyết Minh':22} | {'✅ ĐỦ' if len(tm) >= TARGET_COUNT else f'⚠️ THIẾU ({len(tm)})':16} |")
 
-    # 4. Lưu file
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
 
-    # In báo cáo
     print("\n" + "="*45)
-    print(f"    BÁO CÁO CRAWL - {datetime.now().strftime('%d/%m/%Y %H:%M')}")
+    print(f"    BÁO CÁO CRAWL (2025-2026) - {datetime.now().strftime('%d/%m/%Y %H:%M')}")
     print("="*45)
-    print(f"| {'Hạng mục':22} | {'Trạng thái':16} |")
-    print("-" * 45)
     for line in report: print(line)
     print("="*45)
     print(f"Hoàn thành trong: {int(time.time() - start_time)}s\n")
