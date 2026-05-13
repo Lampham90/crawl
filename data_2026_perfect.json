@@ -1275,6 +1275,18 @@
     ],
     "bo_han": [
         {
+            "name": "Xanh Chạm Đáy Trời (Ánh Xuân Lam)",
+            "year": 2026,
+            "slug": "xanh-cham-day-troi-anh-xuan-lam",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/f3f0b508f513e1da2d515963c15114de.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/4965a7168f8a27c6b9a10340ed3980e1.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 2",
+            "total_episodes": "6",
+            "country": "Hàn Quốc",
+            "description": "Bộ phim xoay quanh Deok Hyeon - người đàn ông trung niên bị mắc kẹt trong quá khứ và An Na - cô gái trẻ đang tìm việc nhưng bị nỗi lo âu về tương lai kìm hãm. Họ lựa chọn trở thành haenyeo (thợ lặn), hòa mình vào đại dương để tìm thấy những cảm xúc mà thế giới cũ chưa từng mang lại."
+        },
+        {
             "name": "Huyền Thoại Lính Bếp (Anh Nuôi - Thăng Cấp Thành Huyền Thoại)",
             "year": 2026,
             "slug": "huyen-thoai-linh-bep-anh-nuoi-thang-cap-thanh-huyen-thoai",
@@ -1309,18 +1321,6 @@
             "total_episodes": "10",
             "country": "Hàn Quốc",
             "description": "Sau khi tình cờ phát hiện ra một kho vàng khổng lồ, Heejoo phải đối mặt với lòng tham, sự phản bội và cuộc chiến sinh tồn."
-        },
-        {
-            "name": "Xanh Chạm Đáy Trời",
-            "year": 2026,
-            "slug": "xanh-cham-day-troi",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/f3f0b508f513e1da2d515963c15114de.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/4965a7168f8a27c6b9a10340ed3980e1.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 1",
-            "total_episodes": "6",
-            "country": "Hàn Quốc",
-            "description": "Bộ phim xoay quanh Deok Hyeon - người đàn ông trung niên bị mắc kẹt trong quá khứ và An Na - cô gái trẻ đang tìm việc nhưng bị nỗi lo âu về tương lai kìm hãm. Họ lựa chọn trở thành haenyeo (thợ lặn), hòa mình vào đại dương để tìm thấy những cảm xúc mà thế giới cũ chưa từng mang lại."
         },
         {
             "name": "Bù Nhìn Bóng Đêm",
@@ -1425,7 +1425,7 @@
             "thumb": "https://phimimg.com/upload/vod/20260423-1/59594f0abd8f6235405c87ee435a827d.jpg",
             "poster": "https://phimimg.com/upload/vod/20260423-1/31d7521253c2c0ef3bd8f4c557c05127.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
+            "current_episode": "Tập 7",
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Một nữ MC bán hàng qua truyền hình cuồng công việc về vùng quê để vực dậy chương trình của mình, nhưng một chàng nông dân bí ẩn khiến mọi kế hoạch – và cả trái tim cô – chao đảo."
@@ -1639,6 +1639,18 @@
     ],
     "bo_trung": [
         {
+            "name": "Vũ Lâm Linh",
+            "year": 2026,
+            "slug": "vu-lam-linh",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 3",
+            "total_episodes": "37",
+            "country": "Trung Quốc",
+            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
+        },
+        {
             "name": "Trốn Không Thoát Tội",
             "year": 2026,
             "slug": "tron-khong-thoat-toi",
@@ -1805,18 +1817,6 @@
             "total_episodes": "28",
             "country": "Trung Quốc",
             "description": "Tập đoàn họ Hứa ở Cảng Thành liên tiếp gặp sóng gió, đứng trên bờ vực sụp đổ. Hứa Vãn Tín đành cầu cứu gia đình có hôn ước nhưng lại bị thừa nước đục thả câu. Đúng lúc này, thiên tài công nghệ Thẩm Cố mang theo số cổ phần lớn bất ngờ trở về và ký kết khế ước hôn nhân với cô. Cả hai hợp lực chống lại sự thâu tóm của tư bản ngoại, đập tan âm mưu của cha con họ Thẩm, rồi dần nảy sinh chân tình khi kề vai sát cánh bảo vệ gia nghiệp. Thế nhưng, trong mắt ông nội Hứa, mối nhân duyên giữa Vãn Tín và Thẩm Cố thực chất đã bắt nguồn từ một đôi vợ chồng huyền thoại thời Dân quốc..."
-        },
-        {
-            "name": "Pháo Hoa",
-            "year": 2026,
-            "slug": "phao-hoa-2026",
-            "thumb": "https://phimimg.com/upload/vod/20260428-1/f792b277795ccb12f6a4e68803334974.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260428-1/480866abbe591b9e336be4f1f3f689c2.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (24/24)",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Thiên kim ngoan hiền của một gia tộc tài phiệt – Kiều Niệm – sau khi rơi từ trên tầng xuống đã bị kẻ khác chiếm đoạt thân xác. Linh hồn cô buộc phải nhập vào cơ thể của Giang Trạch Thần. Nếu trong vòng 7 ngày không tìm lại được thân xác thật của Kiều Niệm, cả hai sẽ hồn phi phách tán. Bị người vợ du hồn nhập vào, Giang Trạch Thần buộc phải dấn thân vào hành trình truy tìm tung tích thân xác đã biến mất của Kiều Niệm, đồng thời từng bước vạch trần chân tướng và phản công kẻ đứng sau mọi chuyện."
         }
     ],
     "le_au_my": [
@@ -2695,6 +2695,18 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Xanh Chạm Đáy Trời (Ánh Xuân Lam)",
+            "year": 2026,
+            "slug": "xanh-cham-day-troi-anh-xuan-lam",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/f3f0b508f513e1da2d515963c15114de.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/4965a7168f8a27c6b9a10340ed3980e1.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 2",
+            "total_episodes": "6",
+            "country": "Hàn Quốc",
+            "description": "Bộ phim xoay quanh Deok Hyeon - người đàn ông trung niên bị mắc kẹt trong quá khứ và An Na - cô gái trẻ đang tìm việc nhưng bị nỗi lo âu về tương lai kìm hãm. Họ lựa chọn trở thành haenyeo (thợ lặn), hòa mình vào đại dương để tìm thấy những cảm xúc mà thế giới cũ chưa từng mang lại."
+        },
+        {
             "name": "Tội Ác Ngớ Ngẩn (Tội Phạm IQ Thấp)",
             "year": 2026,
             "slug": "toi-ac-ngo-ngan-toi-pham-iq-thap",
@@ -2717,18 +2729,6 @@
             "total_episodes": "40",
             "country": "Trung Quốc",
             "description": "Đại cô nương nhà họ Cố - Cố Cẩm Triêu (Nhậm Mẫn) từ nhỏ đã được nuôi dưỡng tại nhà ngoại tổ. Tuy bị cha mẹ ruột thờ ơ, nhưng nhờ được ngoại tổ mẫu yêu thương, nàng vẫn sống một cuộc đời tự do, phóng khoáng. Sau khi trở về nhà họ Cố, Cố Cẩm Triêu luôn mạnh mẽ đối đầu với mọi người và mọi việc. Khác biệt với những cô gái bình thường, nàng đã thu hút sự chú ý sâu sắc của các nhân vật quyền thế như trọng thần trong nội các - Trần Ngạn Doãn (Thử Sa), Thế tử gia Diệp Hạn (Đổng Tư Thành), và bậc quân tử đoan chính - Trần Huyền Thanh (Tả Diệp). Đối mặt với chuyện hôn nhân, Cố Cẩm Triêu có quan điểm riêng của mình. Khi dần hiểu rõ lòng mình, nàng kiên định lựa chọn Trần Ngạn Doãn - người tôn trọng bản chất thật của nàng và cho nàng được sống là chính mình. Sau khi thành hôn, nàng dần trưởng thành, trở thành người vợ xứng đáng của trọng thần, phụ tá Trần Ngạn Doãn bước lên vị trí Thủ phụ. Họ cùng nhau thực hiện các chính sách vì dân vì nước, xoa dịu nỗi khổ của bá tánh, kiến tạo thời đại thái bình thịnh trị."
-        },
-        {
-            "name": "Xanh Chạm Đáy Trời",
-            "year": 2026,
-            "slug": "xanh-cham-day-troi",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/f3f0b508f513e1da2d515963c15114de.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/4965a7168f8a27c6b9a10340ed3980e1.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 1",
-            "total_episodes": "6",
-            "country": "Hàn Quốc",
-            "description": "Bộ phim xoay quanh Deok Hyeon - người đàn ông trung niên bị mắc kẹt trong quá khứ và An Na - cô gái trẻ đang tìm việc nhưng bị nỗi lo âu về tương lai kìm hãm. Họ lựa chọn trở thành haenyeo (thợ lặn), hòa mình vào đại dương để tìm thấy những cảm xúc mà thế giới cũ chưa từng mang lại."
         },
         {
             "name": "Dục Vọng Thầm Kín (Cánh Chim Giấu Tình)",
@@ -2889,6 +2889,102 @@
             "description": "Dính “Thính” Là Yêu là bộ phim hài lãng mạn xoay quanh cô nàng Taek-seon (Bae Doo-na) - bộ trưởng bộ thờ ơ, chủ tịch hội vô cảm, trưởng nhóm anti tình yêu. Đang sống cuộc đời như một “tảng băng di động”, Taek-seon bất ngờ bị nhiễm “virus tình yêu” - cơn dịch bệnh kỳ lạ khiến con người không thể kiềm chế ham muốn yêu và được yêu. Nếu không tìm được tình yêu đích thực của đời mình trong vòng 5 ngày, người nhiễm virus sẽ chết… vì cô đơn, theo đúng nghĩa đen. Đứng trước những ngã rẽ là can đảm đi tìm tình yêu hay chấp nhận từ bỏ cuộc sống, Taek-seon đã gặp gỡ 3 người đàn ông với hi vọng họ có thể thay đổi số phận của cô. Đó là nhà nghiên cứu Nam Soo-pil (Son Suk-ku), bạn học cùng tiểu học Kim Yeon-woo (Chang Ki-ha) và chuyên gia y tế Lee Kyun (Kim Yoon-seok). Những phản ứng tình yêu “dở khóc dở cười” bắt đầu bùng nổ trên hành trình chữa bệnh của Taek-seon khiến cô phải tự hỏi: Liệu đây chỉ là triệu chứng mà virus mang lại hay đó chính là tình yêu thật sự?"
         },
         {
+            "name": "Tình Người Duyên Ma: Tái Hợp",
+            "year": 2025,
+            "slug": "tinh-nguoi-duyen-ma-tai-hop-2025",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/453e2737621593c8c81466fb9549fb38.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/68a170ab4199009439aa534577570055.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Indonesia",
+            "description": "Solah Vicenzio trở về quê hương cùng nhóm bạn Fajrul, Jaka và Supra. Solah cứ ngỡ ngày về của mình sẽ được chào đón như một vị anh hùng, nhưng trớ trêu thay, dân làng lại nhầm tưởng anh là một hồn ma. Nỗi thất vọng càng thêm chồng chất khi anh biết rằng Dara Gonzales – cô gái anh thầm thương trộm nhớ bao lâu nay – chuẩn bị kết hôn với chính em trai mình, Iqbal.&nbsp; Tuy nhiên, đám cưới của họ bị gián đoạn bởi sự xuất hiện kinh hoàng của Nenek Gayung – hồn ma &quot;Bà già gáo múc nước&quot; chuyên đi tìm kiếm nạn nhân tiếp theo để tắm rửa cho xác chết. Cách duy nhất để cứu vãn đám cưới của Iqbal và Dara là Solah cùng nhóm bạn phải đối mặt với Nenek Gayung và tìm kiếm sự giúp đỡ từ Kangmas Pusi."
+        },
+        {
+            "name": "Tình Yêu Phản Bội",
+            "year": 2026,
+            "slug": "tinh-yeu-phan-boi",
+            "thumb": "https://phimimg.com/upload/vod/20260403-1/93687521ef7c8ec3e2ef8800f90da089.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260403-1/b21288eb60ac6655368a9186cc5cfe60.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 13",
+            "total_episodes": "19",
+            "country": "Thái Lan",
+            "description": "Sau lần đổ vỡ trong tình yêu, một cô dâu mới cưới sẵn sàng bắt đầu lại. Nhưng khi phát hiện chồng mình lại là bạn với mối tình đầu, cô quyết định giữ kín quá khứ của họ."
+        },
+        {
+            "name": "Vũ Lâm Linh",
+            "year": 2026,
+            "slug": "vu-lam-linh",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 3",
+            "total_episodes": "37",
+            "country": "Trung Quốc",
+            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
+        },
+        {
+            "name": "Siêu Anh Hùng Phá Hoại (Phần 5)",
+            "year": 2026,
+            "slug": "sieu-anh-hung-pha-hoai-phan-5",
+            "thumb": "https://phimimg.com/upload/vod/20260408-1/13482a7245be0124f084a1fcd1793a19.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260408-1/4c8735b0b4d97204847815710e357bed.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Tập 7",
+            "total_episodes": "8",
+            "country": "Âu Mỹ",
+            "description": "Trong một thế giới mà các siêu anh hùng chìm trong mặt tối của sự nổi tiếng và danh vọng to lớn của họ, THE BOYS tập trung vào một nhóm tự phát được biết đến với cái tên không chính thức là nhóm “Trai điên”, những người đặt ra mục tiêu hạ gục các siêu anh hùng tồi tệ này chỉ với sự gan góc và sẵn sàng chơi bẩn của họ."
+        },
+        {
+            "name": "Tiên Nhân Chi Thượng",
+            "year": 2026,
+            "slug": "tien-nhan-chi-thuong",
+            "thumb": "https://phimimg.com/upload/vod/20260512-1/58124729097d7ac9d457012c06bbdcc1.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260512-1/38edc04152e20de210f72ea8404d4dc8.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 10",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Thần thoại viễn cổ giáng thế, Thiên Đình hoang tàn lơ lửng giữa trời, từng vị thần linh đờ đẫn bước đi như xác sống. Khi loài người được “tiên nhân” ban phước và đứng trước bờ vực bị đồng hóa, luôn có một nhóm người đứng ra, kiên định giữ vững bản tâm của mình!"
+        },
+        {
+            "name": "Thanh Tra Bí Mật",
+            "year": 2026,
+            "slug": "thanh-tra-bi-mat",
+            "thumb": "https://phimimg.com/upload/vod/20260502-1/fca7d44d55b98b8e056eab9b7aaa4a60.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260502-1/a90260ebfcbde208d8eca5f570355773.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Kể về Joo In-ah, một trưởng phòng kiểm toán đầy sức hút với một bí mật, và Noh Ki-joon, át chủ bài của phòng, người đột nhiên bị giáng chức và phải giải quyết các vụ bê bối của công ty."
+        },
+        {
+            "name": "Tiên Tri Tình Yêu",
+            "year": 2026,
+            "slug": "tien-tri-tinh-yeu",
+            "thumb": "https://phimimg.com/upload/vod/20260423-1/3589c3c1c058b0a71cf2d172d3ec1db1.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260423-1/10ec151d7bd9724043f06af1618bbcf1.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "10",
+            "country": "Thái Lan",
+            "description": "Một sinh viên kiến trúc năm cuối dồn hết tâm huyết vào đồ án tốt nghiệp lấy cảm hứng từ “đá rune”. Cuộc sống của cậu bất ngờ rẽ sang hướng khác khi tình cờ trở thành thầy bói tại quán bar Magic Move của bạn mình, và những lời tiên đoán chính xác đến khó tin khiến cậu nổi tiếng chỉ sau một đêm. Rồi định mệnh đưa cậu bước vào một mối tình hỗn loạn—thứ sẽ thay đổi cuộc đời cậu mãi mãi."
+        },
+        {
+            "name": "Mọi người đều rất ổn (Phần 2)",
+            "year": 2026,
+            "slug": "moi-nguoi-deu-rat-on-phan-2",
+            "thumb": "https://phimimg.com/upload/vod/20260512-1/3523f92634d101b350fbe164db69d2bd.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260512-1/0520e377b5d55ffed6cd9ffbdfe169fb.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (8/8)",
+            "total_episodes": "8",
+            "country": "Âu Mỹ",
+            "description": "Jeremy ngày càng xuống tinh thần sau khi ly thân với Andrea. Anh cố cai nghiện, chữa lành bản thân nhưng liên tục tái phạm vì áp lực cuộc sống và cảm giác thất bại. Jeremy vẫn yêu Andrea, nhưng mối quan hệ của họ gần như không thể cứu vãn vì sự thiếu tin tưởng và những sai lầm cũ."
+        },
+        {
             "name": "Phim Super Mario Thiên Hà",
             "year": 2026,
             "slug": "phim-super-mario-thien-ha",
@@ -2911,42 +3007,6 @@
             "total_episodes": "37",
             "country": "Trung Quốc",
             "description": "Lâm Triển Kiều là một phụ nữ thành thị độc lập về kinh tế, chín chắn trong suy nghĩ. Xung quanh cô không thiếu người theo đuổi, nhưng cô vẫn lựa chọn cuộc sống độc thân. Không phải cô bài xích hôn nhân, mà là không muốn thỏa hiệp; sâu thẳm trong lòng, cô luôn khao khát một tình yêu chân thành và một cuộc hôn nhân thuần khiết. Sau khi gặp Hà Đức Chương, giữa hai người ban đầu tồn tại không ít hiểu lầm. Thế nhưng, trong hành trình cùng nhau trưởng thành và đứng trước những lựa chọn của tình yêu lẫn sự nghiệp, họ dần nhận ra đối phương chính là người bạn đời lý tưởng của mình. Vượt qua muôn vàn trở ngại từ thực tế, cả hai quyết định nắm tay bước vào hôn nhân. Những người bạn của Lâm Triển Kiều, sau khi đưa ra lựa chọn cho cuộc đời mình, cũng tìm được bến đỗ riêng. Cuối cùng, tất cả họ đều thấu hiểu ý nghĩa đích thực của tình yêu và hôn nhân, sống một cuộc đời bình dị mà hạnh phúc, giản đơn nhưng không hề tầm thường."
-        },
-        {
-            "name": "Tiên Tri Tình Yêu",
-            "year": 2026,
-            "slug": "tien-tri-tinh-yeu",
-            "thumb": "https://phimimg.com/upload/vod/20260423-1/3589c3c1c058b0a71cf2d172d3ec1db1.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260423-1/10ec151d7bd9724043f06af1618bbcf1.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "10",
-            "country": "Thái Lan",
-            "description": "Một sinh viên kiến trúc năm cuối dồn hết tâm huyết vào đồ án tốt nghiệp lấy cảm hứng từ “đá rune”. Cuộc sống của cậu bất ngờ rẽ sang hướng khác khi tình cờ trở thành thầy bói tại quán bar Magic Move của bạn mình, và những lời tiên đoán chính xác đến khó tin khiến cậu nổi tiếng chỉ sau một đêm. Rồi định mệnh đưa cậu bước vào một mối tình hỗn loạn—thứ sẽ thay đổi cuộc đời cậu mãi mãi."
-        },
-        {
-            "name": "Vùng Đất Vàng",
-            "year": 2026,
-            "slug": "vung-dat-vang",
-            "thumb": "https://phimimg.com/upload/vod/20260502-1/0861846dff67867e6eff1780de5c482c.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260502-1/a2dd161f4f874f1c9c7079e91ad2237d.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Sau khi tình cờ phát hiện ra một kho vàng khổng lồ, Heejoo phải đối mặt với lòng tham, sự phản bội và cuộc chiến sinh tồn."
-        },
-        {
-            "name": "Tình Yêu Phản Bội",
-            "year": 2026,
-            "slug": "tinh-yeu-phan-boi",
-            "thumb": "https://phimimg.com/upload/vod/20260403-1/93687521ef7c8ec3e2ef8800f90da089.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260403-1/b21288eb60ac6655368a9186cc5cfe60.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 13",
-            "total_episodes": "19",
-            "country": "Thái Lan",
-            "description": "Sau lần đổ vỡ trong tình yêu, một cô dâu mới cưới sẵn sàng bắt đầu lại. Nhưng khi phát hiện chồng mình lại là bạn với mối tình đầu, cô quyết định giữ kín quá khứ của họ."
         },
         {
             "name": "Trốn Không Thoát Tội",
@@ -2985,76 +3045,16 @@
             "description": "Xoay quanh một chàng lính trẻ bình thường được phân vào đội nhà bếp trong quân đội. Ban đầu anh bị xem thường vì không có năng lực chiến đấu nổi bật, nhưng lại sở hữu tài nấu ăn cực kỳ đặc biệt. Nhờ khả năng này, anh dần trở thành “huyền thoại nhà bếp” trong doanh trại."
         },
         {
-            "name": "Tình Người Duyên Ma: Tái Hợp",
-            "year": 2025,
-            "slug": "tinh-nguoi-duyen-ma-tai-hop-2025",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/453e2737621593c8c81466fb9549fb38.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/68a170ab4199009439aa534577570055.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Indonesia",
-            "description": "Solah Vicenzio trở về quê hương cùng nhóm bạn Fajrul, Jaka và Supra. Solah cứ ngỡ ngày về của mình sẽ được chào đón như một vị anh hùng, nhưng trớ trêu thay, dân làng lại nhầm tưởng anh là một hồn ma. Nỗi thất vọng càng thêm chồng chất khi anh biết rằng Dara Gonzales – cô gái anh thầm thương trộm nhớ bao lâu nay – chuẩn bị kết hôn với chính em trai mình, Iqbal.&nbsp; Tuy nhiên, đám cưới của họ bị gián đoạn bởi sự xuất hiện kinh hoàng của Nenek Gayung – hồn ma &quot;Bà già gáo múc nước&quot; chuyên đi tìm kiếm nạn nhân tiếp theo để tắm rửa cho xác chết. Cách duy nhất để cứu vãn đám cưới của Iqbal và Dara là Solah cùng nhóm bạn phải đối mặt với Nenek Gayung và tìm kiếm sự giúp đỡ từ Kangmas Pusi."
-        },
-        {
-            "name": "Thanh Tra Bí Mật",
+            "name": "Xanh Chạm Đáy Trời (Ánh Xuân Lam)",
             "year": 2026,
-            "slug": "thanh-tra-bi-mat",
-            "thumb": "https://phimimg.com/upload/vod/20260502-1/fca7d44d55b98b8e056eab9b7aaa4a60.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260502-1/a90260ebfcbde208d8eca5f570355773.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "12",
+            "slug": "xanh-cham-day-troi-anh-xuan-lam",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/f3f0b508f513e1da2d515963c15114de.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/4965a7168f8a27c6b9a10340ed3980e1.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 2",
+            "total_episodes": "6",
             "country": "Hàn Quốc",
-            "description": "Kể về Joo In-ah, một trưởng phòng kiểm toán đầy sức hút với một bí mật, và Noh Ki-joon, át chủ bài của phòng, người đột nhiên bị giáng chức và phải giải quyết các vụ bê bối của công ty."
-        },
-        {
-            "name": "Siêu Anh Hùng Phá Hoại (Phần 5)",
-            "year": 2026,
-            "slug": "sieu-anh-hung-pha-hoai-phan-5",
-            "thumb": "https://phimimg.com/upload/vod/20260408-1/13482a7245be0124f084a1fcd1793a19.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260408-1/4c8735b0b4d97204847815710e357bed.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Tập 7",
-            "total_episodes": "8",
-            "country": "Âu Mỹ",
-            "description": "Trong một thế giới mà các siêu anh hùng chìm trong mặt tối của sự nổi tiếng và danh vọng to lớn của họ, THE BOYS tập trung vào một nhóm tự phát được biết đến với cái tên không chính thức là nhóm “Trai điên”, những người đặt ra mục tiêu hạ gục các siêu anh hùng tồi tệ này chỉ với sự gan góc và sẵn sàng chơi bẩn của họ."
-        },
-        {
-            "name": "Mặt Chẳng Theo Lòng",
-            "year": 2026,
-            "slug": "mat-chang-theo-long",
-            "thumb": "https://phimimg.com/upload/vod/20260506-1/ebe9f7b5d88a760fb5a911ad046ae5a2.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260506-1/a0327f82d018fee124d0ac2acf0db137.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 16",
-            "total_episodes": "20",
-            "country": "Trung Quốc",
-            "description": "Để thu thập chứng cứ, Ôn Nhan đành phải trà trộn vào hào môn, trở thành dâu thứ trong gia tộc; còn Lục Đình Kiêu vì báo thù cho mẹ nên bày mưu đoạt quyền. Trớ trêu thay, cô lại chính là &quot;kẻ giả mạo&quot; từng có một đêm dây dưa với anh. Ban ngày, cô ra tay dạy dỗ người chồng nhu nhược; anh thì âm thầm giăng bẫy. Đêm đến, cả hai đều mang toan tính riêng, giằng co đến cực hạn, từ chỗ đề phòng lẫn nhau đến liên thủ lật đổ cả gia tộc. Mối tình cấm kỵ cũng theo những âm mưu toan tính đó mà dần trở nên mất kiểm soát."
-        },
-        {
-            "name": "Tiên Nhân Chi Thượng",
-            "year": 2026,
-            "slug": "tien-nhan-chi-thuong",
-            "thumb": "https://phimimg.com/upload/vod/20260512-1/58124729097d7ac9d457012c06bbdcc1.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260512-1/38edc04152e20de210f72ea8404d4dc8.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 10",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Thần thoại viễn cổ giáng thế, Thiên Đình hoang tàn lơ lửng giữa trời, từng vị thần linh đờ đẫn bước đi như xác sống. Khi loài người được “tiên nhân” ban phước và đứng trước bờ vực bị đồng hóa, luôn có một nhóm người đứng ra, kiên định giữ vững bản tâm của mình!"
-        },
-        {
-            "name": "Mọi người đều rất ổn (Phần 2)",
-            "year": 2026,
-            "slug": "moi-nguoi-deu-rat-on-phan-2",
-            "thumb": "https://phimimg.com/upload/vod/20260512-1/3523f92634d101b350fbe164db69d2bd.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260512-1/0520e377b5d55ffed6cd9ffbdfe169fb.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
-            "country": "Âu Mỹ",
-            "description": "Jeremy ngày càng xuống tinh thần sau khi ly thân với Andrea. Anh cố cai nghiện, chữa lành bản thân nhưng liên tục tái phạm vì áp lực cuộc sống và cảm giác thất bại. Jeremy vẫn yêu Andrea, nhưng mối quan hệ của họ gần như không thể cứu vãn vì sự thiếu tin tưởng và những sai lầm cũ."
+            "description": "Bộ phim xoay quanh Deok Hyeon - người đàn ông trung niên bị mắc kẹt trong quá khứ và An Na - cô gái trẻ đang tìm việc nhưng bị nỗi lo âu về tương lai kìm hãm. Họ lựa chọn trở thành haenyeo (thợ lặn), hòa mình vào đại dương để tìm thấy những cảm xúc mà thế giới cũ chưa từng mang lại."
         }
     ]
 }
