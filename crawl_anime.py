@@ -6,7 +6,7 @@ from datetime import datetime
 BASE_URL = "https://phimapi.com/v1/api"
 YEARS_FILTER = [2026, 2025] 
 TARGET_COUNT = 15
-MAX_WORKERS = 2
+MAX_WORKERS = 2 # Tăng nhẹ luồng để lọc trailer nhanh hơn
 DATA_FILE = "data_2026_perfect.json"
 
 def get_data(url, params=None):
@@ -38,7 +38,7 @@ def parse_movie(m):
 def fetch_universal(target_name, endpoint, country_target=None, is_movie_logic=None):
     results, local_seen = [], set()
     print(f">>> Đang bào: {target_name}...")
-    for page in range(1, 31):
+    for page in range(1, 41): # Tăng số trang quét vì phim trailer năm 2025-2026 rất nhiều
         if len(results) >= TARGET_COUNT: break
         data = get_data(f"{BASE_URL}/danh-sach/{endpoint}", {"page": page, "limit": 40})
         if not data or 'data' not in data or not data['data'].get('items'): break
@@ -49,10 +49,17 @@ def fetch_universal(target_name, endpoint, country_target=None, is_movie_logic=N
             if len(results) >= TARGET_COUNT: break
             if not d or 'data' not in d or 'item' not in d['data']: continue
             m = d['data']['item']
+            
+            # --- LOGIC LOẠI BỎ TRAILER ---
+            ep_current = str(m.get('episode_current', '')).lower()
+            if "trailer" in ep_current or "sắp ra mắt" in ep_current or "coming soon" in ep_current:
+                continue
+
             if int(m.get('year', 0)) not in YEARS_FILTER: continue
             countries = [c.get('name') for c in m.get('country', [])]
             m_type = m.get('type', '')
             is_movie = (m_type == 'single' or str(m.get('episode_total')) == "1")
+            
             if (not country_target or country_target in countries) and (is_movie_logic is None or is_movie == is_movie_logic):
                 results.append(parse_movie(m))
                 local_seen.add(m['slug'])
@@ -72,6 +79,12 @@ def fetch_special_lang(target_name, lang_code):
             if len(results) >= TARGET_COUNT: break
             if not d or 'data' not in d or 'item' not in d['data']: continue
             m = d['data']['item']
+            
+            # --- LOGIC LOẠI BỎ TRAILER ---
+            ep_current = str(m.get('episode_current', '')).lower()
+            if "trailer" in ep_current or "sắp ra mắt" in ep_current:
+                continue
+
             results.append(parse_movie(m))
     return results
 
@@ -119,7 +132,7 @@ def main():
     report.append(f"| {'Lồng Tiếng':22} | {'✅' if len(lt)>=TARGET_COUNT else len(lt)} |")
     report.append(f"| {'Thuyết Minh':22} | {'✅' if len(tm)>=TARGET_COUNT else len(tm)} |")
 
-    # 4. HÀNG MIX (TRENDING) - ĐÃ QUAY TRỞ LẠI
+    # 4. HÀNG MIX (TRENDING)
     final_data["trending_phim_bo"] = interleave_trending(
         final_data.get("bo_trung", []), final_data.get("bo_han", []),
         final_data.get("bo_au_my", []), final_data.get("bo_thai", []),
