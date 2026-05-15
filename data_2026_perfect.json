@@ -1275,6 +1275,18 @@
     ],
     "bo_han": [
         {
+            "name": "Biệt Đội Siêu Khờ",
+            "year": 2026,
+            "slug": "biet-doi-sieu-kho",
+            "thumb": "https://phimimg.com/upload/vod/20260515-1/085e2fde72531db8a9cadea7a1c95c65.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260515-1/ea04332b4572392a919e1c6587b9f2f3.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (8/8)",
+            "total_episodes": "8",
+            "country": "Hàn Quốc",
+            "description": "Yoo In Sik (&quot;Nữ luật sư kỳ lạ Woo Young Woo&quot;) đạo diễn loạt phim hài hành động này về ba kẻ lạc loài tình cờ sở hữu siêu năng lực – nhưng không biết cách sử dụng."
+        },
+        {
             "name": "Các Tế Bào Của Yumi (Phần 3)",
             "year": 2026,
             "slug": "cac-te-bao-cua-yumi-phan-3",
@@ -1441,18 +1453,6 @@
             "total_episodes": "16",
             "country": "Hàn Quốc",
             "description": "Eui-ju, một nữ sinh trầm lặng ban ngày, là một tiểu thuyết gia viết tiểu thuyết tình cảm ban đêm, được truyền cảm hứng khi bốn giáo viên điển trai xuất hiện: Woo-su lạnh lùng, Da-ju sôi nổi, Gi-jeon cộc cằn và Dong-ju dịu dàng. Cô đưa họ vào cuốn tiểu thuyết mới của mình, và nó nổi tiếng chỉ sau một đêm! Nhưng bí mật của cô bị Woo-su, kẻ thù không đội trời chung từ trước đến giờ, phát hiện. Cô chấp nhận lời đề nghị của anh ta để bảo vệ bí mật của mình, nhưng liệu cô có thể hoàn thành cuốn tiểu thuyết này mà không bị tổn hại gì không?"
-        },
-        {
-            "name": "Tin Đồn Tình Yêu",
-            "year": 2026,
-            "slug": "tin-don-tinh-yeu",
-            "thumb": "https://phimimg.com/upload/vod/20260411-1/80b7946e133c587e98b4461d540d1f80.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260411-1/914298f15e5b27d9381fca76d7c0834d.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (10/10)",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Trong ngành công nghiệp thần tượng bị thương mại hóa cao độ, cảm xúc thường được &quot;sản xuất&quot; và bán đi như một phần của thương hiệu. Scandal Love theo chân bốn người phụ nữ đang chèo lái qua những tầng nấc quyền lực khác nhau trong hệ thống nhóm nhạc nữ K-pop. Khi phải vật lộn với những bản hợp đồng khắc nghiệt, sự soi mói quá mức từ công chúng và những rung cảm thực sự của chính mình, mỗi người đều buộc phải đưa ra những lựa chọn bất khả thi. Bộ phim khám phá một câu hỏi cốt lõi: Liệu tình yêu thực sự có thể tồn tại bên trong những mối quan hệ đã được thiết kế và kiểm soát một cách tỉ mỉ?"
         }
     ],
     "le_trung": [
@@ -1645,7 +1645,7 @@
             "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
             "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 5",
+            "current_episode": "Tập 7",
             "total_episodes": "37",
             "country": "Trung Quốc",
             "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
@@ -2701,7 +2701,7 @@
             "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
             "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 5",
+            "current_episode": "Tập 7",
             "total_episodes": "37",
             "country": "Trung Quốc",
             "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
@@ -2877,28 +2877,40 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Vũ Lâm Linh",
+            "name": "Siêu Anh Hùng Phá Hoại (Phần 5)",
             "year": 2026,
-            "slug": "vu-lam-linh",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 5",
-            "total_episodes": "37",
-            "country": "Trung Quốc",
-            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
+            "slug": "sieu-anh-hung-pha-hoai-phan-5",
+            "thumb": "https://phimimg.com/upload/vod/20260408-1/13482a7245be0124f084a1fcd1793a19.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260408-1/4c8735b0b4d97204847815710e357bed.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Tập 7",
+            "total_episodes": "8",
+            "country": "Âu Mỹ",
+            "description": "Trong một thế giới mà các siêu anh hùng chìm trong mặt tối của sự nổi tiếng và danh vọng to lớn của họ, THE BOYS tập trung vào một nhóm tự phát được biết đến với cái tên không chính thức là nhóm “Trai điên”, những người đặt ra mục tiêu hạ gục các siêu anh hùng tồi tệ này chỉ với sự gan góc và sẵn sàng chơi bẩn của họ."
         },
         {
-            "name": "Trốn Không Thoát Tội",
+            "name": "Các Tế Bào Của Yumi (Phần 3)",
             "year": 2026,
-            "slug": "tron-khong-thoat-toi",
-            "thumb": "https://phimimg.com/upload/vod/20260512-1/deb242e23a9fc12d4cf922fb7c09ce53.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260512-1/2b64b47185b49f5d1c30bb944a38bafb.jpg",
+            "slug": "cac-te-bao-cua-yumi-phan-3",
+            "thumb": "https://phimimg.com/upload/vod/20260515-1/57f28e5e6d6399e53687174216c67bf6.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260515-1/9bdab524f98b5904ac478b03c17853b3.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 9",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Để kiếm tiền chạy chữa cho con gái bị bệnh nặng, La Tiêu bị tên trùm băng đảng Trần Vĩnh Giang uy hiếp và vướng vào vụ án giết người chặt xác. Để tự bảo vệ mình, anh đã giết Trần Vĩnh Giang, thế chỗ hắn tiếp quản hoạt động rửa tiền của tổ chức tín dụng đen. Trong quá trình điều tra, cảnh sát Trương Hanh dần phát hiện ra dấu vết phạm tội của La Tiêu, cùng mạng lưới tài chính chằng chịt phía sau. Theo từng bước đi sâu điều tra của cảnh sát, cả mạng lưới tội phạm khổng lồ liên quan đến giết người, rửa tiền và góc khuất y tế dần được phơi bày qua hàng loạt những cuộc đối đầu và lựa chọn đầy kịch tính."
+            "current_episode": "Hoàn Tất (8/8)",
+            "total_episodes": "8",
+            "country": "Hàn Quốc",
+            "description": "Xoay quanh câu chuyện của Yumi, một nhân viên văn phòng bình thường nhưng sống theo quan điểm của nhiều tế bào não trong đầu cô ấy điều khiển mọi suy nghĩ, cảm xúc và hành động của cô ấy. Vì cú sốc sau mối tình không thành, Yumi đã không còn tin vào câu chuyện tình yêu. Tuy nhiên, tế bào bị ngủ quên của Yumi sẽ được Goo Woong đánh thức. Liệu rồi Yumi có chịu thay đổi, có được hạnh phúc?"
+        },
+        {
+            "name": "Hôm Nay Lại Bán Hết",
+            "year": 2026,
+            "slug": "hom-nay-lai-ban-het",
+            "thumb": "https://phimimg.com/upload/vod/20260423-1/59594f0abd8f6235405c87ee435a827d.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260423-1/31d7521253c2c0ef3bd8f4c557c05127.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Một nữ MC bán hàng qua truyền hình cuồng công việc về vùng quê để vực dậy chương trình của mình, nhưng một chàng nông dân bí ẩn khiến mọi kế hoạch – và cả trái tim cô – chao đảo."
         },
         {
             "name": "Lương Trần Mỹ Cẩm",
@@ -2925,66 +2937,6 @@
             "description": "Dính “Thính” Là Yêu là bộ phim hài lãng mạn xoay quanh cô nàng Taek-seon (Bae Doo-na) - bộ trưởng bộ thờ ơ, chủ tịch hội vô cảm, trưởng nhóm anti tình yêu. Đang sống cuộc đời như một “tảng băng di động”, Taek-seon bất ngờ bị nhiễm “virus tình yêu” - cơn dịch bệnh kỳ lạ khiến con người không thể kiềm chế ham muốn yêu và được yêu. Nếu không tìm được tình yêu đích thực của đời mình trong vòng 5 ngày, người nhiễm virus sẽ chết… vì cô đơn, theo đúng nghĩa đen. Đứng trước những ngã rẽ là can đảm đi tìm tình yêu hay chấp nhận từ bỏ cuộc sống, Taek-seon đã gặp gỡ 3 người đàn ông với hi vọng họ có thể thay đổi số phận của cô. Đó là nhà nghiên cứu Nam Soo-pil (Son Suk-ku), bạn học cùng tiểu học Kim Yeon-woo (Chang Ki-ha) và chuyên gia y tế Lee Kyun (Kim Yoon-seok). Những phản ứng tình yêu “dở khóc dở cười” bắt đầu bùng nổ trên hành trình chữa bệnh của Taek-seon khiến cô phải tự hỏi: Liệu đây chỉ là triệu chứng mà virus mang lại hay đó chính là tình yêu thật sự?"
         },
         {
-            "name": "Siêu Anh Hùng Phá Hoại (Phần 5)",
-            "year": 2026,
-            "slug": "sieu-anh-hung-pha-hoai-phan-5",
-            "thumb": "https://phimimg.com/upload/vod/20260408-1/13482a7245be0124f084a1fcd1793a19.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260408-1/4c8735b0b4d97204847815710e357bed.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Tập 7",
-            "total_episodes": "8",
-            "country": "Âu Mỹ",
-            "description": "Trong một thế giới mà các siêu anh hùng chìm trong mặt tối của sự nổi tiếng và danh vọng to lớn của họ, THE BOYS tập trung vào một nhóm tự phát được biết đến với cái tên không chính thức là nhóm “Trai điên”, những người đặt ra mục tiêu hạ gục các siêu anh hùng tồi tệ này chỉ với sự gan góc và sẵn sàng chơi bẩn của họ."
-        },
-        {
-            "name": "Lực Lượng Marshals",
-            "year": 2026,
-            "slug": "luc-luong-marshals",
-            "thumb": "https://phimimg.com/upload/vod/20260313-1/4409eaf231fcbcf80844dc99467dcf95.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260313-1/3f3338df36c67cc619fb17365f9529de.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 11",
-            "total_episodes": "13",
-            "country": "Âu Mỹ",
-            "description": "Rời xa trang trại Yellowstone, Kayce Dutton gia nhập một đơn vị tinh nhuệ của Lực lượng Cảnh sát Tư pháp Hoa Kỳ (U.S. Marshals). Tại đây, anh kết hợp kỹ năng của một chàng cao bồi và một đặc nhiệm Navy SEAL để thực thi công lý trên các vùng thảo nguyên ở Montana. Anh cùng các đồng đội phải tìm cách cân bằng giữa gia đình, nghĩa vụ và những cái giá đắt về tâm lý khi đóng vai trò là lá chắn cuối cùng trong cuộc chiến chống bạo lực tại khu vực này."
-        },
-        {
-            "name": "Tình Người Duyên Ma: Tái Hợp",
-            "year": 2025,
-            "slug": "tinh-nguoi-duyen-ma-tai-hop-2025",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/453e2737621593c8c81466fb9549fb38.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/68a170ab4199009439aa534577570055.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Indonesia",
-            "description": "Solah Vicenzio trở về quê hương cùng nhóm bạn Fajrul, Jaka và Supra. Solah cứ ngỡ ngày về của mình sẽ được chào đón như một vị anh hùng, nhưng trớ trêu thay, dân làng lại nhầm tưởng anh là một hồn ma. Nỗi thất vọng càng thêm chồng chất khi anh biết rằng Dara Gonzales – cô gái anh thầm thương trộm nhớ bao lâu nay – chuẩn bị kết hôn với chính em trai mình, Iqbal.&nbsp; Tuy nhiên, đám cưới của họ bị gián đoạn bởi sự xuất hiện kinh hoàng của Nenek Gayung – hồn ma &quot;Bà già gáo múc nước&quot; chuyên đi tìm kiếm nạn nhân tiếp theo để tắm rửa cho xác chết. Cách duy nhất để cứu vãn đám cưới của Iqbal và Dara là Solah cùng nhóm bạn phải đối mặt với Nenek Gayung và tìm kiếm sự giúp đỡ từ Kangmas Pusi."
-        },
-        {
-            "name": "Tiên Nhân Chi Thượng",
-            "year": 2026,
-            "slug": "tien-nhan-chi-thuong",
-            "thumb": "https://phimimg.com/upload/vod/20260512-1/58124729097d7ac9d457012c06bbdcc1.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260512-1/38edc04152e20de210f72ea8404d4dc8.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 12",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Thần thoại viễn cổ giáng thế, Thiên Đình hoang tàn lơ lửng giữa trời, từng vị thần linh đờ đẫn bước đi như xác sống. Khi loài người được “tiên nhân” ban phước và đứng trước bờ vực bị đồng hóa, luôn có một nhóm người đứng ra, kiên định giữ vững bản tâm của mình!"
-        },
-        {
-            "name": "Các Tế Bào Của Yumi (Phần 3)",
-            "year": 2026,
-            "slug": "cac-te-bao-cua-yumi-phan-3",
-            "thumb": "https://phimimg.com/upload/vod/20260515-1/57f28e5e6d6399e53687174216c67bf6.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260515-1/9bdab524f98b5904ac478b03c17853b3.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
-            "country": "Hàn Quốc",
-            "description": "Xoay quanh câu chuyện của Yumi, một nhân viên văn phòng bình thường nhưng sống theo quan điểm của nhiều tế bào não trong đầu cô ấy điều khiển mọi suy nghĩ, cảm xúc và hành động của cô ấy. Vì cú sốc sau mối tình không thành, Yumi đã không còn tin vào câu chuyện tình yêu. Tuy nhiên, tế bào bị ngủ quên của Yumi sẽ được Goo Woong đánh thức. Liệu rồi Yumi có chịu thay đổi, có được hạnh phúc?"
-        },
-        {
             "name": "Mặt Trái Của Mất Tích (Bản Thái)",
             "year": 2026,
             "slug": "mat-trai-cua-mat-tich-ban-thai",
@@ -2995,6 +2947,18 @@
             "total_episodes": "12",
             "country": "Thái Lan",
             "description": "Tại một ngôi làng bí ẩn, có những linh hồn vất vưởng vẫn chưa thể siêu thoát vì cái chết của họ vẫn còn nhiều uẩn khúc. Trong lúc đi tìm một đứa trẻ mất tích, thám tử tư Thamnitthi đã vô tình đặt chân đến ngôi làng này và phát hiện anh có khả năng nhìn thấy những hồn ma ở nơi đây. Cũng từ đó, anh bắt đầu bước chân vào hành trình làm sáng tỏ sự thật phía sau sự ra đi của những người đã khuất để giúp họ an lòng rời khỏi thế giới người sống và sang thế giới bên kia."
+        },
+        {
+            "name": "Biệt Đội Siêu Khờ",
+            "year": 2026,
+            "slug": "biet-doi-sieu-kho",
+            "thumb": "https://phimimg.com/upload/vod/20260515-1/085e2fde72531db8a9cadea7a1c95c65.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260515-1/ea04332b4572392a919e1c6587b9f2f3.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (8/8)",
+            "total_episodes": "8",
+            "country": "Hàn Quốc",
+            "description": "Yoo In Sik (&quot;Nữ luật sư kỳ lạ Woo Young Woo&quot;) đạo diễn loạt phim hài hành động này về ba kẻ lạc loài tình cờ sở hữu siêu năng lực – nhưng không biết cách sử dụng."
         },
         {
             "name": "Tổ Quốc Trong Tim: The Concert Film",
@@ -3009,16 +2973,28 @@
             "description": "Sau thành công rực rỡ của “Concert Quốc gia – Tổ Quốc Trong Tim” diễn ra ngày 10/8 tại Sân vận động Quốc gia Mỹ Đình, cùng với sự mong đợi và yêu cầu từ đông đảo công chúng, Báo Nhân Dân quyết định ra mắt “Tổ Quốc Trong Tim: The Concert Film”. Bộ phim không chỉ tái hiện lại một sự kiện văn hóa – nghệ thuật mang dấu ấn lịch sử, mà còn là hành trình lan tỏa mạnh mẽ tình yêu Tổ quốc và niềm tự hào dân tộc."
         },
         {
-            "name": "Bạn Tri Kỷ",
+            "name": "Vũ Lâm Linh",
             "year": 2026,
-            "slug": "ban-tri-ky",
-            "thumb": "https://phimimg.com/upload/vod/20260514-1/b43691c877615d77054040c8f53ff554.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260514-1/0261c80d8e3439ed1cafd45f1438fdef.jpg",
+            "slug": "vu-lam-linh",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 7",
+            "total_episodes": "37",
+            "country": "Trung Quốc",
+            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
+        },
+        {
+            "name": "Tình Người Duyên Ma: Tái Hợp",
+            "year": 2025,
+            "slug": "tinh-nguoi-duyen-ma-tai-hop-2025",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/453e2737621593c8c81466fb9549fb38.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/68a170ab4199009439aa534577570055.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
-            "country": "Hàn Quốc",
-            "description": "Isomura Hayato vào vai Ryu – một sinh viên Nhật Bản mang tổn thương nội tâm – tìm lại ý nghĩa của cuộc sống và tình yêu sau khi gặp một võ sĩ người Hàn mệt mỏi với cuộc đời."
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Indonesia",
+            "description": "Solah Vicenzio trở về quê hương cùng nhóm bạn Fajrul, Jaka và Supra. Solah cứ ngỡ ngày về của mình sẽ được chào đón như một vị anh hùng, nhưng trớ trêu thay, dân làng lại nhầm tưởng anh là một hồn ma. Nỗi thất vọng càng thêm chồng chất khi anh biết rằng Dara Gonzales – cô gái anh thầm thương trộm nhớ bao lâu nay – chuẩn bị kết hôn với chính em trai mình, Iqbal.&nbsp; Tuy nhiên, đám cưới của họ bị gián đoạn bởi sự xuất hiện kinh hoàng của Nenek Gayung – hồn ma &quot;Bà già gáo múc nước&quot; chuyên đi tìm kiếm nạn nhân tiếp theo để tắm rửa cho xác chết. Cách duy nhất để cứu vãn đám cưới của Iqbal và Dara là Solah cùng nhóm bạn phải đối mặt với Nenek Gayung và tìm kiếm sự giúp đỡ từ Kangmas Pusi."
         },
         {
             "name": "Món Quà Của Kluay",
@@ -3045,16 +3021,40 @@
             "description": "Một viên cảnh sát cứng đầu (Matthew Law) bất chấp ranh giới pháp luật để lật mặt tên trộm bậc thầy (Ylan Noel) đang ẩn mình giữa thanh thiên bạch nhật."
         },
         {
-            "name": "Hôm Nay Lại Bán Hết",
+            "name": "Lực Lượng Marshals",
             "year": 2026,
-            "slug": "hom-nay-lai-ban-het",
-            "thumb": "https://phimimg.com/upload/vod/20260423-1/59594f0abd8f6235405c87ee435a827d.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260423-1/31d7521253c2c0ef3bd8f4c557c05127.jpg",
+            "slug": "luc-luong-marshals",
+            "thumb": "https://phimimg.com/upload/vod/20260313-1/4409eaf231fcbcf80844dc99467dcf95.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260313-1/3f3338df36c67cc619fb17365f9529de.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Một nữ MC bán hàng qua truyền hình cuồng công việc về vùng quê để vực dậy chương trình của mình, nhưng một chàng nông dân bí ẩn khiến mọi kế hoạch – và cả trái tim cô – chao đảo."
+            "current_episode": "Tập 11",
+            "total_episodes": "13",
+            "country": "Âu Mỹ",
+            "description": "Rời xa trang trại Yellowstone, Kayce Dutton gia nhập một đơn vị tinh nhuệ của Lực lượng Cảnh sát Tư pháp Hoa Kỳ (U.S. Marshals). Tại đây, anh kết hợp kỹ năng của một chàng cao bồi và một đặc nhiệm Navy SEAL để thực thi công lý trên các vùng thảo nguyên ở Montana. Anh cùng các đồng đội phải tìm cách cân bằng giữa gia đình, nghĩa vụ và những cái giá đắt về tâm lý khi đóng vai trò là lá chắn cuối cùng trong cuộc chiến chống bạo lực tại khu vực này."
+        },
+        {
+            "name": "Tiên Nhân Chi Thượng",
+            "year": 2026,
+            "slug": "tien-nhan-chi-thuong",
+            "thumb": "https://phimimg.com/upload/vod/20260512-1/58124729097d7ac9d457012c06bbdcc1.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260512-1/38edc04152e20de210f72ea8404d4dc8.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 12",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Thần thoại viễn cổ giáng thế, Thiên Đình hoang tàn lơ lửng giữa trời, từng vị thần linh đờ đẫn bước đi như xác sống. Khi loài người được “tiên nhân” ban phước và đứng trước bờ vực bị đồng hóa, luôn có một nhóm người đứng ra, kiên định giữ vững bản tâm của mình!"
+        },
+        {
+            "name": "Trốn Không Thoát Tội",
+            "year": 2026,
+            "slug": "tron-khong-thoat-toi",
+            "thumb": "https://phimimg.com/upload/vod/20260512-1/deb242e23a9fc12d4cf922fb7c09ce53.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260512-1/2b64b47185b49f5d1c30bb944a38bafb.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 9",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Để kiếm tiền chạy chữa cho con gái bị bệnh nặng, La Tiêu bị tên trùm băng đảng Trần Vĩnh Giang uy hiếp và vướng vào vụ án giết người chặt xác. Để tự bảo vệ mình, anh đã giết Trần Vĩnh Giang, thế chỗ hắn tiếp quản hoạt động rửa tiền của tổ chức tín dụng đen. Trong quá trình điều tra, cảnh sát Trương Hanh dần phát hiện ra dấu vết phạm tội của La Tiêu, cùng mạng lưới tài chính chằng chịt phía sau. Theo từng bước đi sâu điều tra của cảnh sát, cả mạng lưới tội phạm khổng lồ liên quan đến giết người, rửa tiền và góc khuất y tế dần được phơi bày qua hàng loạt những cuộc đối đầu và lựa chọn đầy kịch tính."
         }
     ]
 }
