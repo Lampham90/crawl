@@ -183,6 +183,18 @@
     ],
     "anime_nhat": [
         {
+            "name": "Xưởng Phép Thuật",
+            "year": 2026,
+            "slug": "xuong-phep-thuat",
+            "thumb": "https://phimimg.com/upload/vod/20260407-1/b6fdcda10b32c8a92c79a7369a4c199f.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260407-1/3bb5bc3b3643a8ebc77c97b3c86fdf96.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "13",
+            "country": "Nhật Bản",
+            "description": "Trong một thế giới nơi phép thuật là đặc quyền bẩm sinh, Coco khám phá ra cách khác để trở thành phù thủy – để rồi bị cuốn vào trung tâm của cuộc chiến có thể định hình lại xã hội."
+        },
+        {
             "name": "Vào Ma Giới Rồi Đấy! Iruma-kun (Phần 4)",
             "year": 2026,
             "slug": "vao-ma-gioi-roi-day-irumakun-phan-4",
@@ -349,18 +361,6 @@
             "total_episodes": "24",
             "country": "Nhật Bản",
             "description": "Câu chuyện khởi nguồn tại Làng Đông, một ngôi làng nhỏ biệt lập trên núi, nơi thời gian như ngừng trôi suốt 400 năm. Chàng thợ săn trẻ Yuru sống bình yên bên mây ngàn gió núi và làm nhiệm vụ bảo vệ người em gái sinh đôi Asa. Thế nhưng, thế giới thanh bình ấy bỗng chốc vỡ vụn khi những “con rồng sắc” bay đầy trời, kéo theo một đạo quân trang bị vũ khí tối tân tàn sát dân làng. Từ đây, Yuru bước vào một hành trình đẫm máu tại xã hội hiện đại. Tâm điểm của cuộc chiến chính là bí ẩn về “Cặp song sinh chia cắt ngày và đêm” cùng sức mạnh thao túng Song Tinh, những linh thể mang sức mạnh hủy diệt luôn tồn tại theo đôi theo cặp."
-        },
-        {
-            "name": "Sát Thủ Đi Học",
-            "year": 2026,
-            "slug": "sat-thu-di-hoc",
-            "thumb": "https://phimimg.com/upload/vod/20260413-1/406337aee7c2b03513e52e9b7089ae3a.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260413-1/d227b15e62f370befc4cece6b751caa2.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "12",
-            "country": "Nhật Bản",
-            "description": "Sau một tai nạn biến gã sát thủ huyền thoại 39 tuổi thành cậu nhóc 13 tuổi, anh đành trà trộn vào trường cấp hai, vừa chật vật với chuyện học hành vừa thực hiện nhiệm vụ."
         }
     ],
     "hh_trung_quoc": [
@@ -1645,7 +1645,7 @@
             "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
             "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 13",
+            "current_episode": "Tập 14",
             "total_episodes": "37",
             "country": "Trung Quốc",
             "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
@@ -2701,7 +2701,7 @@
             "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
             "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 13",
+            "current_episode": "Tập 14",
             "total_episodes": "37",
             "country": "Trung Quốc",
             "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
@@ -2877,102 +2877,6 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Cuộc Chiến Trong Chúng Ta",
-            "year": 2026,
-            "slug": "cuoc-chien-trong-chung-ta",
-            "thumb": "https://phimimg.com/upload/vod/20260419-1/3c33f126df2ec7c53ce4b20c507ef046.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260422-1/97dec6daa40158d359854d4d07dcc772.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 10",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Chạm đáy sau 20 năm theo đuổi bộ phim đầu tay, một đạo diễn đầy khát vọng gặp một nhà sản xuất kiệt sức – và rồi cô giúp anh tìm lại giá trị bản thân."
-        },
-        {
-            "name": "Vũ Lâm Linh",
-            "year": 2026,
-            "slug": "vu-lam-linh",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 13",
-            "total_episodes": "37",
-            "country": "Trung Quốc",
-            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
-        },
-        {
-            "name": "Thanh Tra Bí Mật (Kiểm Toán Tình Yêu)",
-            "year": 2026,
-            "slug": "thanh-tra-bi-mat-kiem-toan-tinh-yeu",
-            "thumb": "https://phimimg.com/upload/vod/20260502-1/fca7d44d55b98b8e056eab9b7aaa4a60.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260502-1/a90260ebfcbde208d8eca5f570355773.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 7",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Kể về Joo In-ah, một trưởng phòng kiểm toán đầy sức hút với một bí mật, và Noh Ki-joon, át chủ bài của phòng, người đột nhiên bị giáng chức và phải giải quyết các vụ bê bối của công ty."
-        },
-        {
-            "name": "Tổ Quốc Trong Tim: The Concert Film",
-            "year": 2025,
-            "slug": "to-quoc-trong-tim-the-concert-film",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/ad207ba831a1be34987ff26253e9a2cb.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/3201764cd0f14ea80343edae10724beb.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Việt Nam",
-            "description": "Sau thành công rực rỡ của “Concert Quốc gia – Tổ Quốc Trong Tim” diễn ra ngày 10/8 tại Sân vận động Quốc gia Mỹ Đình, cùng với sự mong đợi và yêu cầu từ đông đảo công chúng, Báo Nhân Dân quyết định ra mắt “Tổ Quốc Trong Tim: The Concert Film”. Bộ phim không chỉ tái hiện lại một sự kiện văn hóa – nghệ thuật mang dấu ấn lịch sử, mà còn là hành trình lan tỏa mạnh mẽ tình yêu Tổ quốc và niềm tự hào dân tộc."
-        },
-        {
-            "name": "Trốn Không Thoát Tội",
-            "year": 2026,
-            "slug": "tron-khong-thoat-toi",
-            "thumb": "https://phimimg.com/upload/vod/20260512-1/deb242e23a9fc12d4cf922fb7c09ce53.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260512-1/2b64b47185b49f5d1c30bb944a38bafb.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 18",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Để kiếm tiền chạy chữa cho con gái bị bệnh nặng, La Tiêu bị tên trùm băng đảng Trần Vĩnh Giang uy hiếp và vướng vào vụ án giết người chặt xác. Để tự bảo vệ mình, anh đã giết Trần Vĩnh Giang, thế chỗ hắn tiếp quản hoạt động rửa tiền của tổ chức tín dụng đen. Trong quá trình điều tra, cảnh sát Trương Hanh dần phát hiện ra dấu vết phạm tội của La Tiêu, cùng mạng lưới tài chính chằng chịt phía sau. Theo từng bước đi sâu điều tra của cảnh sát, cả mạng lưới tội phạm khổng lồ liên quan đến giết người, rửa tiền và góc khuất y tế dần được phơi bày qua hàng loạt những cuộc đối đầu và lựa chọn đầy kịch tính."
-        },
-        {
-            "name": "Tiên Nhân Chi Thượng",
-            "year": 2026,
-            "slug": "tien-nhan-chi-thuong",
-            "thumb": "https://phimimg.com/upload/vod/20260512-1/58124729097d7ac9d457012c06bbdcc1.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260512-1/38edc04152e20de210f72ea8404d4dc8.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 18",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Thần thoại viễn cổ giáng thế, Thiên Đình hoang tàn lơ lửng giữa trời, từng vị thần linh đờ đẫn bước đi như xác sống. Khi loài người được “tiên nhân” ban phước và đứng trước bờ vực bị đồng hóa, luôn có một nhóm người đứng ra, kiên định giữ vững bản tâm của mình!"
-        },
-        {
-            "name": "Lâng Lâng (Phê Pha) (Phần 3)",
-            "year": 2026,
-            "slug": "lang-lang-phe-pha-phan-3",
-            "thumb": "https://phimimg.com/upload/vod/20260420-1/be237597b257f26d935f11870d9c58a8.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260420-1/c2a8041decf522c54931a4bb799c797e.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "8",
-            "country": "Âu Mỹ",
-            "description": "Một nhóm học sinh trung học đang lần tìm hướng đi trong tình yêu và tình bạn giữa một thế giới tràn đầy ma túy, tình dục, đau khổ và truyền thông xã hội hỗn loạn."
-        },
-        {
-            "name": "Phu Nhân Đại Quân Thế Kỷ 21",
-            "year": 2026,
-            "slug": "phu-nhan-dai-quan-the-ky-21",
-            "thumb": "https://phimimg.com/upload/vod/20260411-1/e6bb5b889cf566a8851149e472bd9a0e.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260411-1/19fba2a3671a42514f6506f9d5d3534a.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (12/12)",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Trong một chế độ quân chủ lập hiến thế kỷ 21, một người phụ nữ có tất cả mọi thứ nhưng vẫn là thường dân tình cờ gặp gỡ một vị hoàng tử, người dù thuộc dòng dõi hoàng tộc nhưng lại cảm thấy bất lực—dẫn đến một tình yêu vượt qua rào cản địa vị xã hội."
-        },
-        {
             "name": "Thị Trấn Ác Mộng (Hồi Chuông Lạ) (Phần 4)",
             "year": 2026,
             "slug": "thi-tran-ac-mong-hoi-chuong-la-phan-4",
@@ -2983,54 +2887,6 @@
             "total_episodes": "10",
             "country": "Âu Mỹ",
             "description": "Làm sáng tỏ bí ẩn về một thành phố ở Trung Mỹ giam giữ tất cả những ai bước vào. Khi các cư dân đấu tranh để trở &nbsp;lại bình thường và tìm kiếm một lối thoát, họ cũng phải sống sót trước các mối đe dọa của khu rừng xung quanh."
-        },
-        {
-            "name": "Một bộ phim của Lee Cronin: Xác ướp",
-            "year": 2026,
-            "slug": "mot-bo-phim-cua-lee-cronin-xac-uop",
-            "thumb": "https://phimimg.com/upload/vod/20260518-1/0038dbccf56b4dbd0440a77635a24242.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260518-1/d61dfd33287e3e437ad74dde5ca7e892.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Con gái nhỏ của một nhà báo biến mất không dấu vết giữa sa mạc. Tám năm sau, gia đình tan vỡ của họ bàng hoàng khi cô bé bất ngờ được đưa trở về — nhưng cuộc đoàn tụ tưởng chừng hạnh phúc nhanh chóng biến thành một cơn ác mộng sống."
-        },
-        {
-            "name": "Người Ngoại Tộc (Phần 8)",
-            "year": 2026,
-            "slug": "nguoi-ngoai-toc-phan-8",
-            "thumb": "https://phimimg.com/upload/vod/20260308-1/458244ff38756d80d19cd8fba05493d1.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260308-1/8c5e85835861252c6f58ab41b99dd26d.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (10/10)",
-            "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Câu chuyện được phóng tác từ loạt tiểu thuyết lãng mạn – kỳ ảo nổi tiếng của Diana Gabaldon và tập trung vào chuyện của hai người yêu nhau vượt thời gian."
-        },
-        {
-            "name": "Gió Thoảng Tình Theo",
-            "year": 2026,
-            "slug": "gio-thoang-tinh-theo",
-            "thumb": "https://phimimg.com/upload/vod/20260518-1/44e82161567f7c384837926ad3ee9407.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260518-1/915794645eafc3f63b90e9a4175bf5f6.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 1",
-            "total_episodes": "8",
-            "country": "Thái Lan",
-            "description": "Công chúa Blue, người thừa kế ngai vàng xứ Madelin, có chuyến công du đến Thái Lan và gặp gỡ Wayo Wathinwanit – một sĩ quan cảnh sát được giao nhiệm vụ bảo vệ an toàn cho cô. Tuy nhiên, chuyến đi nhanh chóng trở thành một cơn ác mộng khi một âm mưu ám sát nổ ra, buộc công chúa phải tháo chạy, và Lom là người duy nhất có thể bảo vệ cô.&nbsp; Trong thời gian lẩn trốn kẻ thù, cả hai phải đối mặt với vô vàn hiểm nguy và những tình huống ngặt nghèo. Chính sự đồng cam cộng khổ ấy đã kéo họ lại gần nhau hơn, làm nảy sinh một thứ tình cảm thân mật và cấm đoán không thể cứu vãn. Dù biết rõ rằng mối tình này là bất khả thi, trái tim của Lom vẫn thúc giục cô phải bảo vệ công chúa bằng mọi giá. Khi kẻ thù tìm ra nơi ẩn náu của họ, một trận chiến sinh tử cuối cùng chuẩn bị bắt đầu."
-        },
-        {
-            "name": "Dính 'Thính' Là Yêu",
-            "year": 2025,
-            "slug": "dinh-thinh-la-yeu",
-            "thumb": "https://phimimg.com/upload/vod/20250629-1/8f05a55f565c4540bbad93904a89f954.jpg",
-            "poster": "https://phimimg.com/upload/vod/20250629-1/a1550769d6e726d9afe2c579f7bc4494.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Hàn Quốc",
-            "description": "Dính “Thính” Là Yêu là bộ phim hài lãng mạn xoay quanh cô nàng Taek-seon (Bae Doo-na) - bộ trưởng bộ thờ ơ, chủ tịch hội vô cảm, trưởng nhóm anti tình yêu. Đang sống cuộc đời như một “tảng băng di động”, Taek-seon bất ngờ bị nhiễm “virus tình yêu” - cơn dịch bệnh kỳ lạ khiến con người không thể kiềm chế ham muốn yêu và được yêu. Nếu không tìm được tình yêu đích thực của đời mình trong vòng 5 ngày, người nhiễm virus sẽ chết… vì cô đơn, theo đúng nghĩa đen. Đứng trước những ngã rẽ là can đảm đi tìm tình yêu hay chấp nhận từ bỏ cuộc sống, Taek-seon đã gặp gỡ 3 người đàn ông với hi vọng họ có thể thay đổi số phận của cô. Đó là nhà nghiên cứu Nam Soo-pil (Son Suk-ku), bạn học cùng tiểu học Kim Yeon-woo (Chang Ki-ha) và chuyên gia y tế Lee Kyun (Kim Yoon-seok). Những phản ứng tình yêu “dở khóc dở cười” bắt đầu bùng nổ trên hành trình chữa bệnh của Taek-seon khiến cô phải tự hỏi: Liệu đây chỉ là triệu chứng mà virus mang lại hay đó chính là tình yêu thật sự?"
         },
         {
             "name": "Yêu Được Chưa",
@@ -3045,6 +2901,114 @@
             "description": "Sau khi bị mối tình đầu phản bội, Wayruree luôn phải vật lộn với nỗi đau và không còn niềm tin vào tình yêu. Mọi thứ bắt đầu thay đổi khi cô gặp Mr. TJ — người đã dẫn dắt cô trên hành trình trưởng thành và dạy cô hiểu được ý nghĩa thực sự của tình yêu. Nhờ sự chân thành của anh, Wayruree dần chữa lành những vết thương lòng và một lần nữa mở rộng trái tim để đón nhận hạnh phúc."
         },
         {
+            "name": "Gió Thoảng Tình Theo",
+            "year": 2026,
+            "slug": "gio-thoang-tinh-theo",
+            "thumb": "https://phimimg.com/upload/vod/20260518-1/44e82161567f7c384837926ad3ee9407.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260518-1/915794645eafc3f63b90e9a4175bf5f6.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 1",
+            "total_episodes": "8",
+            "country": "Thái Lan",
+            "description": "Công chúa Blue, người thừa kế ngai vàng xứ Madelin, có chuyến công du đến Thái Lan và gặp gỡ Wayo Wathinwanit – một sĩ quan cảnh sát được giao nhiệm vụ bảo vệ an toàn cho cô. Tuy nhiên, chuyến đi nhanh chóng trở thành một cơn ác mộng khi một âm mưu ám sát nổ ra, buộc công chúa phải tháo chạy, và Lom là người duy nhất có thể bảo vệ cô.&nbsp; Trong thời gian lẩn trốn kẻ thù, cả hai phải đối mặt với vô vàn hiểm nguy và những tình huống ngặt nghèo. Chính sự đồng cam cộng khổ ấy đã kéo họ lại gần nhau hơn, làm nảy sinh một thứ tình cảm thân mật và cấm đoán không thể cứu vãn. Dù biết rõ rằng mối tình này là bất khả thi, trái tim của Lom vẫn thúc giục cô phải bảo vệ công chúa bằng mọi giá. Khi kẻ thù tìm ra nơi ẩn náu của họ, một trận chiến sinh tử cuối cùng chuẩn bị bắt đầu."
+        },
+        {
+            "name": "Lâng Lâng (Phê Pha) (Phần 3)",
+            "year": 2026,
+            "slug": "lang-lang-phe-pha-phan-3",
+            "thumb": "https://phimimg.com/upload/vod/20260420-1/be237597b257f26d935f11870d9c58a8.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260420-1/c2a8041decf522c54931a4bb799c797e.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "8",
+            "country": "Âu Mỹ",
+            "description": "Một nhóm học sinh trung học đang lần tìm hướng đi trong tình yêu và tình bạn giữa một thế giới tràn đầy ma túy, tình dục, đau khổ và truyền thông xã hội hỗn loạn."
+        },
+        {
+            "name": "Trốn Không Thoát Tội",
+            "year": 2026,
+            "slug": "tron-khong-thoat-toi",
+            "thumb": "https://phimimg.com/upload/vod/20260512-1/deb242e23a9fc12d4cf922fb7c09ce53.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260512-1/2b64b47185b49f5d1c30bb944a38bafb.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 18",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Để kiếm tiền chạy chữa cho con gái bị bệnh nặng, La Tiêu bị tên trùm băng đảng Trần Vĩnh Giang uy hiếp và vướng vào vụ án giết người chặt xác. Để tự bảo vệ mình, anh đã giết Trần Vĩnh Giang, thế chỗ hắn tiếp quản hoạt động rửa tiền của tổ chức tín dụng đen. Trong quá trình điều tra, cảnh sát Trương Hanh dần phát hiện ra dấu vết phạm tội của La Tiêu, cùng mạng lưới tài chính chằng chịt phía sau. Theo từng bước đi sâu điều tra của cảnh sát, cả mạng lưới tội phạm khổng lồ liên quan đến giết người, rửa tiền và góc khuất y tế dần được phơi bày qua hàng loạt những cuộc đối đầu và lựa chọn đầy kịch tính."
+        },
+        {
+            "name": "Thanh Tra Bí Mật (Kiểm Toán Tình Yêu)",
+            "year": 2026,
+            "slug": "thanh-tra-bi-mat-kiem-toan-tinh-yeu",
+            "thumb": "https://phimimg.com/upload/vod/20260502-1/fca7d44d55b98b8e056eab9b7aaa4a60.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260502-1/a90260ebfcbde208d8eca5f570355773.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 7",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Kể về Joo In-ah, một trưởng phòng kiểm toán đầy sức hút với một bí mật, và Noh Ki-joon, át chủ bài của phòng, người đột nhiên bị giáng chức và phải giải quyết các vụ bê bối của công ty."
+        },
+        {
+            "name": "Một bộ phim của Lee Cronin: Xác ướp",
+            "year": 2026,
+            "slug": "mot-bo-phim-cua-lee-cronin-xac-uop",
+            "thumb": "https://phimimg.com/upload/vod/20260518-1/0038dbccf56b4dbd0440a77635a24242.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260518-1/d61dfd33287e3e437ad74dde5ca7e892.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Con gái nhỏ của một nhà báo biến mất không dấu vết giữa sa mạc. Tám năm sau, gia đình tan vỡ của họ bàng hoàng khi cô bé bất ngờ được đưa trở về — nhưng cuộc đoàn tụ tưởng chừng hạnh phúc nhanh chóng biến thành một cơn ác mộng sống."
+        },
+        {
+            "name": "Tiên Nhân Chi Thượng",
+            "year": 2026,
+            "slug": "tien-nhan-chi-thuong",
+            "thumb": "https://phimimg.com/upload/vod/20260512-1/58124729097d7ac9d457012c06bbdcc1.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260512-1/38edc04152e20de210f72ea8404d4dc8.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 18",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Thần thoại viễn cổ giáng thế, Thiên Đình hoang tàn lơ lửng giữa trời, từng vị thần linh đờ đẫn bước đi như xác sống. Khi loài người được “tiên nhân” ban phước và đứng trước bờ vực bị đồng hóa, luôn có một nhóm người đứng ra, kiên định giữ vững bản tâm của mình!"
+        },
+        {
+            "name": "Người Ngoại Tộc (Phần 8)",
+            "year": 2026,
+            "slug": "nguoi-ngoai-toc-phan-8",
+            "thumb": "https://phimimg.com/upload/vod/20260308-1/458244ff38756d80d19cd8fba05493d1.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260308-1/8c5e85835861252c6f58ab41b99dd26d.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (10/10)",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Câu chuyện được phóng tác từ loạt tiểu thuyết lãng mạn – kỳ ảo nổi tiếng của Diana Gabaldon và tập trung vào chuyện của hai người yêu nhau vượt thời gian."
+        },
+        {
+            "name": "Dính 'Thính' Là Yêu",
+            "year": 2025,
+            "slug": "dinh-thinh-la-yeu",
+            "thumb": "https://phimimg.com/upload/vod/20250629-1/8f05a55f565c4540bbad93904a89f954.jpg",
+            "poster": "https://phimimg.com/upload/vod/20250629-1/a1550769d6e726d9afe2c579f7bc4494.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Hàn Quốc",
+            "description": "Dính “Thính” Là Yêu là bộ phim hài lãng mạn xoay quanh cô nàng Taek-seon (Bae Doo-na) - bộ trưởng bộ thờ ơ, chủ tịch hội vô cảm, trưởng nhóm anti tình yêu. Đang sống cuộc đời như một “tảng băng di động”, Taek-seon bất ngờ bị nhiễm “virus tình yêu” - cơn dịch bệnh kỳ lạ khiến con người không thể kiềm chế ham muốn yêu và được yêu. Nếu không tìm được tình yêu đích thực của đời mình trong vòng 5 ngày, người nhiễm virus sẽ chết… vì cô đơn, theo đúng nghĩa đen. Đứng trước những ngã rẽ là can đảm đi tìm tình yêu hay chấp nhận từ bỏ cuộc sống, Taek-seon đã gặp gỡ 3 người đàn ông với hi vọng họ có thể thay đổi số phận của cô. Đó là nhà nghiên cứu Nam Soo-pil (Son Suk-ku), bạn học cùng tiểu học Kim Yeon-woo (Chang Ki-ha) và chuyên gia y tế Lee Kyun (Kim Yoon-seok). Những phản ứng tình yêu “dở khóc dở cười” bắt đầu bùng nổ trên hành trình chữa bệnh của Taek-seon khiến cô phải tự hỏi: Liệu đây chỉ là triệu chứng mà virus mang lại hay đó chính là tình yêu thật sự?"
+        },
+        {
+            "name": "Tổ Quốc Trong Tim: The Concert Film",
+            "year": 2025,
+            "slug": "to-quoc-trong-tim-the-concert-film",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/ad207ba831a1be34987ff26253e9a2cb.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/3201764cd0f14ea80343edae10724beb.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Việt Nam",
+            "description": "Sau thành công rực rỡ của “Concert Quốc gia – Tổ Quốc Trong Tim” diễn ra ngày 10/8 tại Sân vận động Quốc gia Mỹ Đình, cùng với sự mong đợi và yêu cầu từ đông đảo công chúng, Báo Nhân Dân quyết định ra mắt “Tổ Quốc Trong Tim: The Concert Film”. Bộ phim không chỉ tái hiện lại một sự kiện văn hóa – nghệ thuật mang dấu ấn lịch sử, mà còn là hành trình lan tỏa mạnh mẽ tình yêu Tổ quốc và niềm tự hào dân tộc."
+        },
+        {
             "name": "Người Giữ Đèn Ở Chùa Ký Cốt",
             "year": 2026,
             "slug": "nguoi-giu-den-o-chua-ky-cot",
@@ -3055,6 +3019,42 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Giữa thời quân phiệt hỗn chiến loạn lạc, một quân y nghiện rượu biệt danh Lão Tửu Quỷ trở về quê nhà, tá túc trong ngôi chùa lưu giữ hài cốt. Tại đây, ông cứu góa phụ Như Linh, vạch trần âm mưu &quot;tế sống trẻ con cho Sơn Thần&quot; và trở thành người canh đèn của ngôi chùa. Ông cảm hóa gã lãng tử Đông Sinh, giúp anh phá vụ án buôn lậu vũ khí, cứu Thu Anh khỏi số phận vật hiến tế, đồng thời đấu trí với tà giáo và giải cứu những chí sĩ yêu nước. Cuối cùng, Lão Tửu Quỷ thanh thản nhắm mắt xuôi tay, còn những người từng được ông cứu đều dấn thân vào con đường cách mạng."
+        },
+        {
+            "name": "Vũ Lâm Linh",
+            "year": 2026,
+            "slug": "vu-lam-linh",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 14",
+            "total_episodes": "37",
+            "country": "Trung Quốc",
+            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
+        },
+        {
+            "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+            "year": 2026,
+            "slug": "phu-nhan-dai-quan-the-ky-21",
+            "thumb": "https://phimimg.com/upload/vod/20260411-1/e6bb5b889cf566a8851149e472bd9a0e.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260411-1/19fba2a3671a42514f6506f9d5d3534a.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (12/12)",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Trong một chế độ quân chủ lập hiến thế kỷ 21, một người phụ nữ có tất cả mọi thứ nhưng vẫn là thường dân tình cờ gặp gỡ một vị hoàng tử, người dù thuộc dòng dõi hoàng tộc nhưng lại cảm thấy bất lực—dẫn đến một tình yêu vượt qua rào cản địa vị xã hội."
+        },
+        {
+            "name": "Cuộc Chiến Trong Chúng Ta",
+            "year": 2026,
+            "slug": "cuoc-chien-trong-chung-ta",
+            "thumb": "https://phimimg.com/upload/vod/20260419-1/3c33f126df2ec7c53ce4b20c507ef046.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260422-1/97dec6daa40158d359854d4d07dcc772.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 10",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Chạm đáy sau 20 năm theo đuổi bộ phim đầu tay, một đạo diễn đầy khát vọng gặp một nhà sản xuất kiệt sức – và rồi cô giúp anh tìm lại giá trị bản thân."
         }
     ]
 }
