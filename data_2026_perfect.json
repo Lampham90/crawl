@@ -1,18 +1,6 @@
 {
     "anime_movie": [
         {
-            "name": "Phim Super Mario Thiên Hà",
-            "year": 2026,
-            "slug": "phim-super-mario-thien-ha",
-            "thumb": "https://phimimg.com/upload/vod/20260508-1/b9482988285cb67c118bc092404d804a.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260508-1/6bf821d68045c5310a192c5244992ac0.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Nhật Bản",
-            "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
-        },
-        {
             "name": "Cá Con Cau Có",
             "year": 2026,
             "slug": "ca-con-cau-co",
@@ -23,6 +11,18 @@
             "total_episodes": "1",
             "country": "Úc",
             "description": "Sống trên một con tàu đắm cũ nát, ông Cá một ngày nọ phát hiện ra một con rồng biển nhỏ hiếu động tên Pip – kẻ nhầm nhà ông là bãi phế liệu – đang ăn cắp đồ đạc của ông. Cuộc tranh cãi nảy lửa sau đó khiến cả hai ngôi nhà đều bị tàn phá. Nhưng vẫn còn hy vọng! Bắt đầu một cuộc hành trình tưởng chừng như bất khả thi để tìm kiếm &quot;Ánh sáng lấp lánh&quot; huyền thoại nhằm ban điều ước, chỉ có một vấn đề: có kẻ khác cũng đang săn lùng nó…"
+        },
+        {
+            "name": "Phim Super Mario Thiên Hà",
+            "year": 2026,
+            "slug": "phim-super-mario-thien-ha",
+            "thumb": "https://phimimg.com/upload/vod/20260508-1/b9482988285cb67c118bc092404d804a.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260508-1/6bf821d68045c5310a192c5244992ac0.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Nhật Bản",
+            "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
         },
         {
             "name": "Cuộc phiêu lưu biến hóa",
@@ -547,6 +547,18 @@
     ],
     "phim_chieu_rap": [
         {
+            "name": "Cá Con Cau Có",
+            "year": 2026,
+            "slug": "ca-con-cau-co",
+            "thumb": "https://phimimg.com/upload/vod/20260504-1/b7f9ecfbe2cd89e6cdbab2da48dc4382.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260504-1/3691fae54d7ae1386cf2dee9d2f78367.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Úc",
+            "description": "Sống trên một con tàu đắm cũ nát, ông Cá một ngày nọ phát hiện ra một con rồng biển nhỏ hiếu động tên Pip – kẻ nhầm nhà ông là bãi phế liệu – đang ăn cắp đồ đạc của ông. Cuộc tranh cãi nảy lửa sau đó khiến cả hai ngôi nhà đều bị tàn phá. Nhưng vẫn còn hy vọng! Bắt đầu một cuộc hành trình tưởng chừng như bất khả thi để tìm kiếm &quot;Ánh sáng lấp lánh&quot; huyền thoại nhằm ban điều ước, chỉ có một vấn đề: có kẻ khác cũng đang săn lùng nó…"
+        },
+        {
             "name": "Cuộc Chiến Sinh Tử II",
             "year": 2026,
             "slug": "cuoc-chien-sinh-tu-ii",
@@ -653,18 +665,6 @@
             "total_episodes": "1",
             "country": "Âu Mỹ",
             "description": "Một cặp đôi đang hạnh phúc chuẩn bị kết hôn bất ngờ bị thử thách khi một biến cố ngoài dự kiến khiến cả tuần lễ cưới của họ rơi vào hỗn loạn."
-        },
-        {
-            "name": "Cá Con Cau Có",
-            "year": 2026,
-            "slug": "ca-con-cau-co",
-            "thumb": "https://phimimg.com/upload/vod/20260504-1/b7f9ecfbe2cd89e6cdbab2da48dc4382.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260504-1/3691fae54d7ae1386cf2dee9d2f78367.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Úc",
-            "description": "Sống trên một con tàu đắm cũ nát, ông Cá một ngày nọ phát hiện ra một con rồng biển nhỏ hiếu động tên Pip – kẻ nhầm nhà ông là bãi phế liệu – đang ăn cắp đồ đạc của ông. Cuộc tranh cãi nảy lửa sau đó khiến cả hai ngôi nhà đều bị tàn phá. Nhưng vẫn còn hy vọng! Bắt đầu một cuộc hành trình tưởng chừng như bất khả thi để tìm kiếm &quot;Ánh sáng lấp lánh&quot; huyền thoại nhằm ban điều ước, chỉ có một vấn đề: có kẻ khác cũng đang săn lùng nó…"
         },
         {
             "name": "Nhà Hai Chủ",
@@ -847,6 +847,66 @@
             "total_episodes": "1",
             "country": "Việt Nam",
             "description": "Câu chuyện xoay quanh Thúy Vân (Thiên Ân) và người chị &quot;trời đánh&quot; Thúy Kiều (Thu Trang) đang phải đối mặt với món nợ lớn do người tình gây ra. Đứng trước nguy cơ mất trắng, cả hai buộc phải vạch kế hoạch chinh phục &quot;Nụ Hôn Bạc Tỷ&quot; từ hai chàng thiếu gia Quang (Lê Xuân Tiền) và Tú (Ma Ran Đô)."
+        },
+        {
+            "name": "Tử Chiến Trên Không",
+            "year": 2025,
+            "slug": "tu-chien-tren-khong",
+            "thumb": "https://phimimg.com/upload/vod/20260131-1/675f2fb9a0465602ff0599e16649c6ca.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260131-1/4e3b2c7d88c55d852dfe756e4acc56c1.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Việt Nam",
+            "description": "Tử Chiến Trên Không là phim điện ảnh hành động - kịch tính, được lấy cảm hứng từ vụ cướp máy bay có thật tại Việt Nam sau năm 1975."
+        },
+        {
+            "name": "Quỷ Nhập Tràng",
+            "year": 2025,
+            "slug": "quy-nhap-trang",
+            "thumb": "https://phimimg.com/upload/vod/20260129-1/3558b82723d946ca1a0fa9e36197ec70.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260129-1/4d420dcef0d8f183b115788140d02614.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Việt Nam",
+            "description": "Phim lấy cảm hứng từ &quot;truyền thuyết kinh dị nhất về người chết sống lại&quot;, kể về vợ chồng Quang và Như sống bằng nghề mai táng ở một ngôi làng vùng cao. Cuộc sống yên bình của họ bị xáo trộn khi phát hiện một cỗ quan tài vô chủ trên mảnh đất nhà mình. Từ đây, những hiện tượng kỳ lạ bắt đầu xảy ra và ám ảnh cả ngôi làng."
+        },
+        {
+            "name": "Khế Ước Bán Dâu",
+            "year": 2025,
+            "slug": "khe-uoc-ban-dau",
+            "thumb": "https://phimimg.com/upload/vod/20260118-1/490d98873185f55f8be905ee3f01baf1.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260118-1/9876156c3ce357e76504844eea7fb38a.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Việt Nam",
+            "description": "Lấy cảm hứng từ tiểu thuyết tâm linh của nhà văn Thục Linh kể về Nhài, một cô dâu trẻ xuất thân nghèo khó, được gả vào gia tộc họ Vũ giàu có tại vùng Kinh Bắc với hy vọng đổi đời.&nbsp; Tuy nhiên, cuộc hôn nhân sắp đặt nhanh chóng trở nên đáng sợ khi cô bị cuốn vào “khế ước” kinh hoàng nghi liên quan đến quỷ dữ và những nghi lễ tâm linh tăm tối. Dưới vẻ hào nhoáng, gia tộc che giấu bí mật đen tối, dẫn đến chuỗi sự kiện kỳ bí và sinh tử chờ Nhài đối mặt.&nbsp;"
+        },
+        {
+            "name": "Đàn Cá Gỗ",
+            "year": 2025,
+            "slug": "dan-ca-go",
+            "thumb": "https://phimimg.com/upload/vod/20260115-1/747b72e7cf61a7bf7d365ae2200f32b0.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260115-1/39c50219936f03a50156032173a3acf7.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Việt Nam",
+            "description": "Phim ngắn “Đàn Cá Gỗ” - cùng giải thưởng Phim ngắn xuất sắc nhất tại Cánh Diều Vàng 2024; kể về hành trình của Cường, chàng trai miền biển phải gác lại đam mê âm nhạc để chăm lo cho gia đình. Phim là câu chuyện dịu dàng về tình yêu, khát vọng và những lựa chọn khó khăn trong cuộc sống."
+        },
+        {
+            "name": "Tay Anh Giữ Một Vì Sao",
+            "year": 2025,
+            "slug": "tay-anh-giu-mot-vi-sao",
+            "thumb": "https://phimimg.com/upload/vod/20260101-1/d4996c364d140f3419448c6fb455a37a.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260101-1/1f84d38287b85555cfefd5bbd36798ee.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Hàn Quốc",
+            "description": "Siêu sao Kang Jun Woo – “Hoàng tử Châu Á” – rơi vào tình cảnh “mắc kẹt” tại Việt Nam sau một loạt sự cố dở khóc dở cười, nơi anh gặp Thảo – một cô gái bán cà phê đầy đam mê, quyết tâm theo đuổi ước mơ của mình."
         }
     ],
     "bo_vn": [
@@ -2817,76 +2877,16 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Người Ngoại Tộc (Phần 8)",
+            "name": "Một bộ phim của Lee Cronin: Xác ướp",
             "year": 2026,
-            "slug": "nguoi-ngoai-toc-phan-8",
-            "thumb": "https://phimimg.com/upload/vod/20260308-1/458244ff38756d80d19cd8fba05493d1.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260308-1/8c5e85835861252c6f58ab41b99dd26d.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (10/10)",
-            "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Câu chuyện được phóng tác từ loạt tiểu thuyết lãng mạn – kỳ ảo nổi tiếng của Diana Gabaldon và tập trung vào chuyện của hai người yêu nhau vượt thời gian."
-        },
-        {
-            "name": "Tình Yêu Phản Bội",
-            "year": 2026,
-            "slug": "tinh-yeu-phan-boi",
-            "thumb": "https://phimimg.com/upload/vod/20260403-1/93687521ef7c8ec3e2ef8800f90da089.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260403-1/b21288eb60ac6655368a9186cc5cfe60.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 14",
-            "total_episodes": "19",
-            "country": "Thái Lan",
-            "description": "Sau lần đổ vỡ trong tình yêu, một cô dâu mới cưới sẵn sàng bắt đầu lại. Nhưng khi phát hiện chồng mình lại là bạn với mối tình đầu, cô quyết định giữ kín quá khứ của họ."
-        },
-        {
-            "name": "Bù Nhìn Bóng Đêm",
-            "year": 2026,
-            "slug": "bu-nhin-bong-dem",
-            "thumb": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260421-1/f650d2178218b84e7277bdafbf2a95b9.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 9",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Bị giáng chức về vùng quê Gangseong, cựu thám tử sừng sỏ Kang Tae-ju rơi vào tâm điểm của chuỗi vụ án giết người hàng loạt rúng động. Để lật tẩy sự thật tàn khốc bị vùi lấp suốt 31 năm (từ 1988 đến 2019) và khôi phục lại danh dự, anh buộc phải bắt tay với kẻ mình căm ghét nhất - công tố viên Cha Shi-young. Khi lần theo sự thật, họ nhận ra kẻ sát nhân không chỉ lặp lại quá khứ mà đang hoàn thành thứ còn dang dở."
-        },
-        {
-            "name": "Cuộc Chiến Trong Chúng Ta",
-            "year": 2026,
-            "slug": "cuoc-chien-trong-chung-ta",
-            "thumb": "https://phimimg.com/upload/vod/20260419-1/3c33f126df2ec7c53ce4b20c507ef046.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260422-1/97dec6daa40158d359854d4d07dcc772.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 10",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Chạm đáy sau 20 năm theo đuổi bộ phim đầu tay, một đạo diễn đầy khát vọng gặp một nhà sản xuất kiệt sức – và rồi cô giúp anh tìm lại giá trị bản thân."
-        },
-        {
-            "name": "Tổ Quốc Trong Tim: The Concert Film",
-            "year": 2025,
-            "slug": "to-quoc-trong-tim-the-concert-film",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/ad207ba831a1be34987ff26253e9a2cb.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/3201764cd0f14ea80343edae10724beb.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Việt Nam",
-            "description": "Sau thành công rực rỡ của “Concert Quốc gia – Tổ Quốc Trong Tim” diễn ra ngày 10/8 tại Sân vận động Quốc gia Mỹ Đình, cùng với sự mong đợi và yêu cầu từ đông đảo công chúng, Báo Nhân Dân quyết định ra mắt “Tổ Quốc Trong Tim: The Concert Film”. Bộ phim không chỉ tái hiện lại một sự kiện văn hóa – nghệ thuật mang dấu ấn lịch sử, mà còn là hành trình lan tỏa mạnh mẽ tình yêu Tổ quốc và niềm tự hào dân tộc."
-        },
-        {
-            "name": "Cuộc Chiến Sinh Tử II",
-            "year": 2026,
-            "slug": "cuoc-chien-sinh-tu-ii",
-            "thumb": "https://phimimg.com/upload/vod/20260519-1/d68170850071c3aa73dfb26e6a18133e.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260519-1/3c295de9c27fa4449eb82919363a80d7.jpg",
+            "slug": "mot-bo-phim-cua-lee-cronin-xac-uop",
+            "thumb": "https://phimimg.com/upload/vod/20260518-1/0038dbccf56b4dbd0440a77635a24242.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260518-1/d61dfd33287e3e437ad74dde5ca7e892.jpg",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
             "country": "Âu Mỹ",
-            "description": "Những chiến binh được yêu thích nhất — nay có thêm sự góp mặt của Johnny Cage — buộc phải đối đầu lẫn nhau trong trận chiến tối thượng đẫm máu và không khoan nhượng. Mục tiêu: đánh bại sự thống trị tàn bạo của Shao Kahn, kẻ đang đe dọa sự tồn vong của Địa Giới và tất cả những ai đứng lên bảo vệ nó."
+            "description": "Con gái nhỏ của một nhà báo biến mất không dấu vết giữa sa mạc. Tám năm sau, gia đình tan vỡ của họ bàng hoàng khi cô bé bất ngờ được đưa trở về — nhưng cuộc đoàn tụ tưởng chừng hạnh phúc nhanh chóng biến thành một cơn ác mộng sống."
         },
         {
             "name": "Huyền Giới Chi Môn",
@@ -2901,6 +2901,18 @@
             "description": "Huyền Giới Chi Môn, câu chuyện về hành trình từ một cậu thiếu niên tầm thường cho đến trở thành võ giả chân chính của Thạch Mục với những nốt thăng trầm đáng nhớ. Vốn xuất thân tầm thường, tầm thường đến mức chỉ là một con nuôi trong một thế gia, vậy nên Thạch Mục cũng bị phân biệt đối xử chẳng được ai coi trọng, việc tu luyện của cậu cũng vậy, chẳng có gì để trợ giúp như những người khác cả, phải tự thân vận động thôi. Bắt buộc phải trở thành võ giả, bởi chỉ có võ giả thì mới nhận được sự thừa nhận về năng lực cũng như sự kính trọng từ mọi người. Nhưng hành trình ấy của Thạch Mục cũng chẳng hề dễ dàng, gian nan và cũng không thiếu nguy hiểm. Từ những trận chiến thập tử nhất sinh, tưởng hẹo mười mươi, cho đến những ngày tháng bị rượt đuổi chạy như bị Tào Tháo rượt, những những khoảnh khắc ấy đã tôi luyện cho Thạch Mục ngày càng trưởng thành, trở thành một võ giả có thể cứu rỗi tương lai của muôn người."
         },
         {
+            "name": "Mặt Trái Của Mất Tích (Bản Thái)",
+            "year": 2026,
+            "slug": "mat-trai-cua-mat-tich-ban-thai",
+            "thumb": "https://phimimg.com/upload/vod/20260508-1/89eebf5df41b8d49a4ca3104fbae8b8d.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260508-1/d831a279c7601239f09cc867d0c515c3.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (12/12)",
+            "total_episodes": "12",
+            "country": "Thái Lan",
+            "description": "Tại một ngôi làng bí ẩn, có những linh hồn vất vưởng vẫn chưa thể siêu thoát vì cái chết của họ vẫn còn nhiều uẩn khúc. Trong lúc đi tìm một đứa trẻ mất tích, thám tử tư Thamnitthi đã vô tình đặt chân đến ngôi làng này và phát hiện anh có khả năng nhìn thấy những hồn ma ở nơi đây. Cũng từ đó, anh bắt đầu bước chân vào hành trình làm sáng tỏ sự thật phía sau sự ra đi của những người đã khuất để giúp họ an lòng rời khỏi thế giới người sống và sang thế giới bên kia."
+        },
+        {
             "name": "Gia Nghiệp",
             "year": 2026,
             "slug": "gia-nghiep",
@@ -2913,16 +2925,64 @@
             "description": "Giữa thời Minh, một hộp mực cống nạp khiến ngành mực Huy Châu rơi vào biến động, kéo theo sự suy tàn của gia tộc Lý Mạc. Nhiều năm sau, Lý Trinh quyết tâm khôi phục nghề tổ. Nhờ tài năng và nghị lực, cô nhanh chóng tỏa sáng. Cùng lúc, Lạc Văn Khiêm cũng âm thầm tái thiết gia tộc. Cả hai hợp lực đối đầu với thế lực mới họ Điền, đưa mực Huy Châu trở lại thời hoàng kim. Khi lệnh cấm hàng hải bị dỡ bỏ, họ cùng nhau sáng tạo nên tuyệt phẩm mực, giành danh hiệu &quot;Thiên hạ đệ nhất mực&quot;, và nên duyên vợ chồng, tiếp nối huyền thoại ngành mực Huy Châu."
         },
         {
-            "name": "Lương Trần Mỹ Cẩm",
+            "name": "Bù Nhìn Bóng Đêm",
             "year": 2026,
-            "slug": "luong-tran-my-cam",
-            "thumb": "https://phimimg.com/upload/vod/20260504-1/95985e2f2e38ad97c847ff0c7b375486.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260504-1/52232226fda0a7c261fcd55d3a6dbdc2.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Tập 32",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "description": "Đại cô nương nhà họ Cố - Cố Cẩm Triêu (Nhậm Mẫn) từ nhỏ đã được nuôi dưỡng tại nhà ngoại tổ. Tuy bị cha mẹ ruột thờ ơ, nhưng nhờ được ngoại tổ mẫu yêu thương, nàng vẫn sống một cuộc đời tự do, phóng khoáng. Sau khi trở về nhà họ Cố, Cố Cẩm Triêu luôn mạnh mẽ đối đầu với mọi người và mọi việc. Khác biệt với những cô gái bình thường, nàng đã thu hút sự chú ý sâu sắc của các nhân vật quyền thế như trọng thần trong nội các - Trần Ngạn Doãn (Thử Sa), Thế tử gia Diệp Hạn (Đổng Tư Thành), và bậc quân tử đoan chính - Trần Huyền Thanh (Tả Diệp). Đối mặt với chuyện hôn nhân, Cố Cẩm Triêu có quan điểm riêng của mình. Khi dần hiểu rõ lòng mình, nàng kiên định lựa chọn Trần Ngạn Doãn - người tôn trọng bản chất thật của nàng và cho nàng được sống là chính mình. Sau khi thành hôn, nàng dần trưởng thành, trở thành người vợ xứng đáng của trọng thần, phụ tá Trần Ngạn Doãn bước lên vị trí Thủ phụ. Họ cùng nhau thực hiện các chính sách vì dân vì nước, xoa dịu nỗi khổ của bá tánh, kiến tạo thời đại thái bình thịnh trị."
+            "slug": "bu-nhin-bong-dem",
+            "thumb": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260421-1/f650d2178218b84e7277bdafbf2a95b9.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 9",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Bị giáng chức về vùng quê Gangseong, cựu thám tử sừng sỏ Kang Tae-ju rơi vào tâm điểm của chuỗi vụ án giết người hàng loạt rúng động. Để lật tẩy sự thật tàn khốc bị vùi lấp suốt 31 năm (từ 1988 đến 2019) và khôi phục lại danh dự, anh buộc phải bắt tay với kẻ mình căm ghét nhất - công tố viên Cha Shi-young. Khi lần theo sự thật, họ nhận ra kẻ sát nhân không chỉ lặp lại quá khứ mà đang hoàn thành thứ còn dang dở."
+        },
+        {
+            "name": "Lâng Lâng (Phê Pha) (Phần 3)",
+            "year": 2026,
+            "slug": "lang-lang-phe-pha-phan-3",
+            "thumb": "https://phimimg.com/upload/vod/20260420-1/be237597b257f26d935f11870d9c58a8.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260420-1/c2a8041decf522c54931a4bb799c797e.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "8",
+            "country": "Âu Mỹ",
+            "description": "Một nhóm học sinh trung học đang lần tìm hướng đi trong tình yêu và tình bạn giữa một thế giới tràn đầy ma túy, tình dục, đau khổ và truyền thông xã hội hỗn loạn."
+        },
+        {
+            "name": "Tình Yêu Phản Bội",
+            "year": 2026,
+            "slug": "tinh-yeu-phan-boi",
+            "thumb": "https://phimimg.com/upload/vod/20260403-1/93687521ef7c8ec3e2ef8800f90da089.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260403-1/b21288eb60ac6655368a9186cc5cfe60.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 14",
+            "total_episodes": "19",
+            "country": "Thái Lan",
+            "description": "Sau lần đổ vỡ trong tình yêu, một cô dâu mới cưới sẵn sàng bắt đầu lại. Nhưng khi phát hiện chồng mình lại là bạn với mối tình đầu, cô quyết định giữ kín quá khứ của họ."
+        },
+        {
+            "name": "Cuộc Chiến Sinh Tử II",
+            "year": 2026,
+            "slug": "cuoc-chien-sinh-tu-ii",
+            "thumb": "https://phimimg.com/upload/vod/20260519-1/d68170850071c3aa73dfb26e6a18133e.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260519-1/3c295de9c27fa4449eb82919363a80d7.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Những chiến binh được yêu thích nhất — nay có thêm sự góp mặt của Johnny Cage — buộc phải đối đầu lẫn nhau trong trận chiến tối thượng đẫm máu và không khoan nhượng. Mục tiêu: đánh bại sự thống trị tàn bạo của Shao Kahn, kẻ đang đe dọa sự tồn vong của Địa Giới và tất cả những ai đứng lên bảo vệ nó."
+        },
+        {
+            "name": "Người Ngoại Tộc (Phần 8)",
+            "year": 2026,
+            "slug": "nguoi-ngoai-toc-phan-8",
+            "thumb": "https://phimimg.com/upload/vod/20260308-1/458244ff38756d80d19cd8fba05493d1.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260308-1/8c5e85835861252c6f58ab41b99dd26d.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (10/10)",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Câu chuyện được phóng tác từ loạt tiểu thuyết lãng mạn – kỳ ảo nổi tiếng của Diana Gabaldon và tập trung vào chuyện của hai người yêu nhau vượt thời gian."
         },
         {
             "name": "Thị Trấn Ác Mộng (Hồi Chuông Lạ) (Phần 4)",
@@ -2937,28 +2997,40 @@
             "description": "Làm sáng tỏ bí ẩn về một thành phố ở Trung Mỹ giam giữ tất cả những ai bước vào. Khi các cư dân đấu tranh để trở &nbsp;lại bình thường và tìm kiếm một lối thoát, họ cũng phải sống sót trước các mối đe dọa của khu rừng xung quanh."
         },
         {
-            "name": "Xanh Chạm Đáy Trời (Ánh Xuân Lam)",
+            "name": "Lương Trần Mỹ Cẩm",
             "year": 2026,
-            "slug": "xanh-cham-day-troi-anh-xuan-lam",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/f3f0b508f513e1da2d515963c15114de.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/4965a7168f8a27c6b9a10340ed3980e1.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 3",
-            "total_episodes": "6",
-            "country": "Hàn Quốc",
-            "description": "Bộ phim xoay quanh Deok Hyeon - người đàn ông trung niên bị mắc kẹt trong quá khứ và An Na - cô gái trẻ đang tìm việc nhưng bị nỗi lo âu về tương lai kìm hãm. Họ lựa chọn trở thành haenyeo (thợ lặn), hòa mình vào đại dương để tìm thấy những cảm xúc mà thế giới cũ chưa từng mang lại."
+            "slug": "luong-tran-my-cam",
+            "thumb": "https://phimimg.com/upload/vod/20260504-1/95985e2f2e38ad97c847ff0c7b375486.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260504-1/52232226fda0a7c261fcd55d3a6dbdc2.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Tập 32",
+            "total_episodes": "40",
+            "country": "Trung Quốc",
+            "description": "Đại cô nương nhà họ Cố - Cố Cẩm Triêu (Nhậm Mẫn) từ nhỏ đã được nuôi dưỡng tại nhà ngoại tổ. Tuy bị cha mẹ ruột thờ ơ, nhưng nhờ được ngoại tổ mẫu yêu thương, nàng vẫn sống một cuộc đời tự do, phóng khoáng. Sau khi trở về nhà họ Cố, Cố Cẩm Triêu luôn mạnh mẽ đối đầu với mọi người và mọi việc. Khác biệt với những cô gái bình thường, nàng đã thu hút sự chú ý sâu sắc của các nhân vật quyền thế như trọng thần trong nội các - Trần Ngạn Doãn (Thử Sa), Thế tử gia Diệp Hạn (Đổng Tư Thành), và bậc quân tử đoan chính - Trần Huyền Thanh (Tả Diệp). Đối mặt với chuyện hôn nhân, Cố Cẩm Triêu có quan điểm riêng của mình. Khi dần hiểu rõ lòng mình, nàng kiên định lựa chọn Trần Ngạn Doãn - người tôn trọng bản chất thật của nàng và cho nàng được sống là chính mình. Sau khi thành hôn, nàng dần trưởng thành, trở thành người vợ xứng đáng của trọng thần, phụ tá Trần Ngạn Doãn bước lên vị trí Thủ phụ. Họ cùng nhau thực hiện các chính sách vì dân vì nước, xoa dịu nỗi khổ của bá tánh, kiến tạo thời đại thái bình thịnh trị."
         },
         {
-            "name": "Mặt Trái Của Mất Tích (Bản Thái)",
+            "name": "Cuộc Chiến Trong Chúng Ta",
             "year": 2026,
-            "slug": "mat-trai-cua-mat-tich-ban-thai",
-            "thumb": "https://phimimg.com/upload/vod/20260508-1/89eebf5df41b8d49a4ca3104fbae8b8d.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260508-1/d831a279c7601239f09cc867d0c515c3.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (12/12)",
+            "slug": "cuoc-chien-trong-chung-ta",
+            "thumb": "https://phimimg.com/upload/vod/20260419-1/3c33f126df2ec7c53ce4b20c507ef046.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260422-1/97dec6daa40158d359854d4d07dcc772.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 10",
             "total_episodes": "12",
-            "country": "Thái Lan",
-            "description": "Tại một ngôi làng bí ẩn, có những linh hồn vất vưởng vẫn chưa thể siêu thoát vì cái chết của họ vẫn còn nhiều uẩn khúc. Trong lúc đi tìm một đứa trẻ mất tích, thám tử tư Thamnitthi đã vô tình đặt chân đến ngôi làng này và phát hiện anh có khả năng nhìn thấy những hồn ma ở nơi đây. Cũng từ đó, anh bắt đầu bước chân vào hành trình làm sáng tỏ sự thật phía sau sự ra đi của những người đã khuất để giúp họ an lòng rời khỏi thế giới người sống và sang thế giới bên kia."
+            "country": "Hàn Quốc",
+            "description": "Chạm đáy sau 20 năm theo đuổi bộ phim đầu tay, một đạo diễn đầy khát vọng gặp một nhà sản xuất kiệt sức – và rồi cô giúp anh tìm lại giá trị bản thân."
+        },
+        {
+            "name": "Cá Con Cau Có",
+            "year": 2026,
+            "slug": "ca-con-cau-co",
+            "thumb": "https://phimimg.com/upload/vod/20260504-1/b7f9ecfbe2cd89e6cdbab2da48dc4382.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260504-1/3691fae54d7ae1386cf2dee9d2f78367.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Úc",
+            "description": "Sống trên một con tàu đắm cũ nát, ông Cá một ngày nọ phát hiện ra một con rồng biển nhỏ hiếu động tên Pip – kẻ nhầm nhà ông là bãi phế liệu – đang ăn cắp đồ đạc của ông. Cuộc tranh cãi nảy lửa sau đó khiến cả hai ngôi nhà đều bị tàn phá. Nhưng vẫn còn hy vọng! Bắt đầu một cuộc hành trình tưởng chừng như bất khả thi để tìm kiếm &quot;Ánh sáng lấp lánh&quot; huyền thoại nhằm ban điều ước, chỉ có một vấn đề: có kẻ khác cũng đang săn lùng nó…"
         },
         {
             "name": "Mê Hoặc",
@@ -2973,28 +3045,16 @@
             "description": "Lin Moqing giả mạo danh tính để thao túng và huấn luyện Lan Hewei như một phần trong kế hoạch tính toán nhằm chống lại gia tộc quyền lực của anh ta. Nhưng khi sự lừa dối, những liên minh thay đổi và những động cơ ngầm va chạm, Lan Hewei chứng tỏ mình mạnh mẽ hơn nhiều so với dự đoán. Điều bắt đầu như một trò chơi chiến lược giành quyền kiểm soát dần dần phát triển thành một mối quan hệ căng thẳng và khó lường, nơi sự cạnh tranh và sức hút hòa quyện vào nhau—và không ai có thể đoán trước được ai sẽ là người chiến thắng."
         },
         {
-            "name": "Một bộ phim của Lee Cronin: Xác ướp",
+            "name": "Xanh Chạm Đáy Trời (Ánh Xuân Lam)",
             "year": 2026,
-            "slug": "mot-bo-phim-cua-lee-cronin-xac-uop",
-            "thumb": "https://phimimg.com/upload/vod/20260518-1/0038dbccf56b4dbd0440a77635a24242.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260518-1/d61dfd33287e3e437ad74dde5ca7e892.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Con gái nhỏ của một nhà báo biến mất không dấu vết giữa sa mạc. Tám năm sau, gia đình tan vỡ của họ bàng hoàng khi cô bé bất ngờ được đưa trở về — nhưng cuộc đoàn tụ tưởng chừng hạnh phúc nhanh chóng biến thành một cơn ác mộng sống."
-        },
-        {
-            "name": "Lâng Lâng (Phê Pha) (Phần 3)",
-            "year": 2026,
-            "slug": "lang-lang-phe-pha-phan-3",
-            "thumb": "https://phimimg.com/upload/vod/20260420-1/be237597b257f26d935f11870d9c58a8.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260420-1/c2a8041decf522c54931a4bb799c797e.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "8",
-            "country": "Âu Mỹ",
-            "description": "Một nhóm học sinh trung học đang lần tìm hướng đi trong tình yêu và tình bạn giữa một thế giới tràn đầy ma túy, tình dục, đau khổ và truyền thông xã hội hỗn loạn."
+            "slug": "xanh-cham-day-troi-anh-xuan-lam",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/f3f0b508f513e1da2d515963c15114de.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/4965a7168f8a27c6b9a10340ed3980e1.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 3",
+            "total_episodes": "6",
+            "country": "Hàn Quốc",
+            "description": "Bộ phim xoay quanh Deok Hyeon - người đàn ông trung niên bị mắc kẹt trong quá khứ và An Na - cô gái trẻ đang tìm việc nhưng bị nỗi lo âu về tương lai kìm hãm. Họ lựa chọn trở thành haenyeo (thợ lặn), hòa mình vào đại dương để tìm thấy những cảm xúc mà thế giới cũ chưa từng mang lại."
         }
     ]
 }
