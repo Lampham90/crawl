@@ -1639,6 +1639,18 @@
     ],
     "bo_trung": [
         {
+            "name": "Vũ Lâm Linh",
+            "year": 2026,
+            "slug": "vu-lam-linh",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 19",
+            "total_episodes": "37",
+            "country": "Trung Quốc",
+            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
+        },
+        {
             "name": "Lương Trần Mỹ Cẩm",
             "year": 2026,
             "slug": "luong-tran-my-cam",
@@ -1661,18 +1673,6 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Một đôi giày thêu hoa đã mở ra hành trình phiêu lưu của chuyên gia cổ vật Trần Hữu Hi. Trên đường tìm kiếm ngọc Linh Tiêu, nhóm thám hiểm bốn người đã nhiều lần phải đối đầu với bọn trộm mộ. Nhưng sau khi tìm được viên ngọc Linh Tiêu đầu tiên, họ lại phát hiện mình đã rơi vào một âm mưu còn lớn hơn…"
-        },
-        {
-            "name": "Vũ Lâm Linh",
-            "year": 2026,
-            "slug": "vu-lam-linh",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 17",
-            "total_episodes": "37",
-            "country": "Trung Quốc",
-            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
         },
         {
             "name": "Trốn Không Thoát Tội",
@@ -2695,6 +2695,18 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Vũ Lâm Linh",
+            "year": 2026,
+            "slug": "vu-lam-linh",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 19",
+            "total_episodes": "37",
+            "country": "Trung Quốc",
+            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
+        },
+        {
             "name": "Lương Trần Mỹ Cẩm",
             "year": 2026,
             "slug": "luong-tran-my-cam",
@@ -2717,18 +2729,6 @@
             "total_episodes": "18",
             "country": "Thái Lan",
             "description": "Soi và Mala là hai người bạn thân và cùng là vũ nữ trong một đoàn kịch. Những tưởng họ sẽ đồng hành cùng nhau vươn đến đỉnh cao sự nghiệp, nhưng sự xuất hiện của một người đàn ông đã làm rạn nứt tình cảm giữa hai cô gái, khiến Mala phải dứt áo ra đi. Mặc dù vậy, trong suốt nhiều năm tháng sau đó, số phận của Soi và Mala vẫn gắn liền với nhau qua bao thăng trầm, tổn thương và mất mát của cuộc đời. Không chỉ là câu chuyện yêu hận tình thù giữa hai nàng vũ nữ, Vũ Điệu Tình Thù còn khắc họa thời kỳ hoàng kim của múa truyền thống Thái Lan và những yếu tố lịch sử dẫn đến sự suy tàn của môn nghệ thuật này."
-        },
-        {
-            "name": "Vũ Lâm Linh",
-            "year": 2026,
-            "slug": "vu-lam-linh",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 17",
-            "total_episodes": "37",
-            "country": "Trung Quốc",
-            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
         },
         {
             "name": "Gia Nghiệp",
@@ -2877,28 +2877,16 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Bù Nhìn Bóng Đêm",
+            "name": "Lương Trần Mỹ Cẩm",
             "year": 2026,
-            "slug": "bu-nhin-bong-dem",
-            "thumb": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260421-1/f650d2178218b84e7277bdafbf2a95b9.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 10",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Bị giáng chức về vùng quê Gangseong, cựu thám tử sừng sỏ Kang Tae-ju rơi vào tâm điểm của chuỗi vụ án giết người hàng loạt rúng động. Để lật tẩy sự thật tàn khốc bị vùi lấp suốt 31 năm (từ 1988 đến 2019) và khôi phục lại danh dự, anh buộc phải bắt tay với kẻ mình căm ghét nhất - công tố viên Cha Shi-young. Khi lần theo sự thật, họ nhận ra kẻ sát nhân không chỉ lặp lại quá khứ mà đang hoàn thành thứ còn dang dở."
-        },
-        {
-            "name": "Cam Kết Thỏa Mãn Tột Cùng",
-            "year": 2026,
-            "slug": "cam-ket-thoa-man-tot-cung",
-            "thumb": "https://phimimg.com/upload/vod/20260521-1/ed43621ae21ba30c0e26750a08015c33.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260521-1/03a0c10b0dff685c4b64716275d056c1.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Một bà mẹ vừa ly hôn bất ngờ rơi vào vòng xoáy nguy hiểm của tống tiền, án mạng và... bóng đá thiếu nhi."
+            "slug": "luong-tran-my-cam",
+            "thumb": "https://phimimg.com/upload/vod/20260504-1/95985e2f2e38ad97c847ff0c7b375486.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260504-1/52232226fda0a7c261fcd55d3a6dbdc2.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Tập 35",
+            "total_episodes": "40",
+            "country": "Trung Quốc",
+            "description": "Đại cô nương nhà họ Cố - Cố Cẩm Triêu (Nhậm Mẫn) từ nhỏ đã được nuôi dưỡng tại nhà ngoại tổ. Tuy bị cha mẹ ruột thờ ơ, nhưng nhờ được ngoại tổ mẫu yêu thương, nàng vẫn sống một cuộc đời tự do, phóng khoáng. Sau khi trở về nhà họ Cố, Cố Cẩm Triêu luôn mạnh mẽ đối đầu với mọi người và mọi việc. Khác biệt với những cô gái bình thường, nàng đã thu hút sự chú ý sâu sắc của các nhân vật quyền thế như trọng thần trong nội các - Trần Ngạn Doãn (Thử Sa), Thế tử gia Diệp Hạn (Đổng Tư Thành), và bậc quân tử đoan chính - Trần Huyền Thanh (Tả Diệp). Đối mặt với chuyện hôn nhân, Cố Cẩm Triêu có quan điểm riêng của mình. Khi dần hiểu rõ lòng mình, nàng kiên định lựa chọn Trần Ngạn Doãn - người tôn trọng bản chất thật của nàng và cho nàng được sống là chính mình. Sau khi thành hôn, nàng dần trưởng thành, trở thành người vợ xứng đáng của trọng thần, phụ tá Trần Ngạn Doãn bước lên vị trí Thủ phụ. Họ cùng nhau thực hiện các chính sách vì dân vì nước, xoa dịu nỗi khổ của bá tánh, kiến tạo thời đại thái bình thịnh trị."
         },
         {
             "name": "Vũ Điệu Tình Thù",
@@ -2913,30 +2901,6 @@
             "description": "Soi và Mala là hai người bạn thân và cùng là vũ nữ trong một đoàn kịch. Những tưởng họ sẽ đồng hành cùng nhau vươn đến đỉnh cao sự nghiệp, nhưng sự xuất hiện của một người đàn ông đã làm rạn nứt tình cảm giữa hai cô gái, khiến Mala phải dứt áo ra đi. Mặc dù vậy, trong suốt nhiều năm tháng sau đó, số phận của Soi và Mala vẫn gắn liền với nhau qua bao thăng trầm, tổn thương và mất mát của cuộc đời. Không chỉ là câu chuyện yêu hận tình thù giữa hai nàng vũ nữ, Vũ Điệu Tình Thù còn khắc họa thời kỳ hoàng kim của múa truyền thống Thái Lan và những yếu tố lịch sử dẫn đến sự suy tàn của môn nghệ thuật này."
         },
         {
-            "name": "Siêu Anh Hùng Phá Hoại (Phần 5)",
-            "year": 2026,
-            "slug": "sieu-anh-hung-pha-hoai-phan-5",
-            "thumb": "https://phimimg.com/upload/vod/20260408-1/13482a7245be0124f084a1fcd1793a19.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260408-1/4c8735b0b4d97204847815710e357bed.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
-            "country": "Âu Mỹ",
-            "description": "Trong một thế giới mà các siêu anh hùng chìm trong mặt tối của sự nổi tiếng và danh vọng to lớn của họ, THE BOYS tập trung vào một nhóm tự phát được biết đến với cái tên không chính thức là nhóm “Trai điên”, những người đặt ra mục tiêu hạ gục các siêu anh hùng tồi tệ này chỉ với sự gan góc và sẵn sàng chơi bẩn của họ."
-        },
-        {
-            "name": "Vũ Lâm Linh",
-            "year": 2026,
-            "slug": "vu-lam-linh",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 17",
-            "total_episodes": "37",
-            "country": "Trung Quốc",
-            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
-        },
-        {
             "name": "Trốn Không Thoát Tội",
             "year": 2026,
             "slug": "tron-khong-thoat-toi",
@@ -2949,52 +2913,16 @@
             "description": "Để kiếm tiền chạy chữa cho con gái bị bệnh nặng, La Tiêu bị tên trùm băng đảng Trần Vĩnh Giang uy hiếp và vướng vào vụ án giết người chặt xác. Để tự bảo vệ mình, anh đã giết Trần Vĩnh Giang, thế chỗ hắn tiếp quản hoạt động rửa tiền của tổ chức tín dụng đen. Trong quá trình điều tra, cảnh sát Trương Hanh dần phát hiện ra dấu vết phạm tội của La Tiêu, cùng mạng lưới tài chính chằng chịt phía sau. Theo từng bước đi sâu điều tra của cảnh sát, cả mạng lưới tội phạm khổng lồ liên quan đến giết người, rửa tiền và góc khuất y tế dần được phơi bày qua hàng loạt những cuộc đối đầu và lựa chọn đầy kịch tính."
         },
         {
-            "name": "Cuộc Chiến Sinh Tử II",
+            "name": "Minh Châu Kỳ Đàm (Phần 3)",
             "year": 2026,
-            "slug": "cuoc-chien-sinh-tu-ii",
-            "thumb": "https://phimimg.com/upload/vod/20260519-1/d68170850071c3aa73dfb26e6a18133e.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260519-1/3c295de9c27fa4449eb82919363a80d7.jpg",
+            "slug": "minh-chau-ky-dam-phan-3",
+            "thumb": "https://phimimg.com/upload/vod/20260521-1/2518bcd9664be1653b0a0eec93fa67ee.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260521-1/eae7a598d013b3add22e33da1dd1527f.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Những chiến binh được yêu thích nhất — nay có thêm sự góp mặt của Johnny Cage — buộc phải đối đầu lẫn nhau trong trận chiến tối thượng đẫm máu và không khoan nhượng. Mục tiêu: đánh bại sự thống trị tàn bạo của Shao Kahn, kẻ đang đe dọa sự tồn vong của Địa Giới và tất cả những ai đứng lên bảo vệ nó."
-        },
-        {
-            "name": "Một bộ phim của Lee Cronin: Xác ướp",
-            "year": 2026,
-            "slug": "mot-bo-phim-cua-lee-cronin-xac-uop",
-            "thumb": "https://phimimg.com/upload/vod/20260518-1/0038dbccf56b4dbd0440a77635a24242.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260518-1/d61dfd33287e3e437ad74dde5ca7e892.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Con gái nhỏ của một nhà báo biến mất không dấu vết giữa sa mạc. Tám năm sau, gia đình tan vỡ của họ bàng hoàng khi cô bé bất ngờ được đưa trở về — nhưng cuộc đoàn tụ tưởng chừng hạnh phúc nhanh chóng biến thành một cơn ác mộng sống."
-        },
-        {
-            "name": "Hôm Nay Lại Bán Hết",
-            "year": 2026,
-            "slug": "hom-nay-lai-ban-het",
-            "thumb": "https://phimimg.com/upload/vod/20260423-1/59594f0abd8f6235405c87ee435a827d.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260423-1/31d7521253c2c0ef3bd8f4c557c05127.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 9",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Một nữ MC bán hàng qua truyền hình cuồng công việc về vùng quê để vực dậy chương trình của mình, nhưng một chàng nông dân bí ẩn khiến mọi kế hoạch – và cả trái tim cô – chao đảo."
-        },
-        {
-            "name": "Lương Trần Mỹ Cẩm",
-            "year": 2026,
-            "slug": "luong-tran-my-cam",
-            "thumb": "https://phimimg.com/upload/vod/20260504-1/95985e2f2e38ad97c847ff0c7b375486.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260504-1/52232226fda0a7c261fcd55d3a6dbdc2.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Tập 35",
-            "total_episodes": "40",
+            "current_episode": "Tập 6",
+            "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Đại cô nương nhà họ Cố - Cố Cẩm Triêu (Nhậm Mẫn) từ nhỏ đã được nuôi dưỡng tại nhà ngoại tổ. Tuy bị cha mẹ ruột thờ ơ, nhưng nhờ được ngoại tổ mẫu yêu thương, nàng vẫn sống một cuộc đời tự do, phóng khoáng. Sau khi trở về nhà họ Cố, Cố Cẩm Triêu luôn mạnh mẽ đối đầu với mọi người và mọi việc. Khác biệt với những cô gái bình thường, nàng đã thu hút sự chú ý sâu sắc của các nhân vật quyền thế như trọng thần trong nội các - Trần Ngạn Doãn (Thử Sa), Thế tử gia Diệp Hạn (Đổng Tư Thành), và bậc quân tử đoan chính - Trần Huyền Thanh (Tả Diệp). Đối mặt với chuyện hôn nhân, Cố Cẩm Triêu có quan điểm riêng của mình. Khi dần hiểu rõ lòng mình, nàng kiên định lựa chọn Trần Ngạn Doãn - người tôn trọng bản chất thật của nàng và cho nàng được sống là chính mình. Sau khi thành hôn, nàng dần trưởng thành, trở thành người vợ xứng đáng của trọng thần, phụ tá Trần Ngạn Doãn bước lên vị trí Thủ phụ. Họ cùng nhau thực hiện các chính sách vì dân vì nước, xoa dịu nỗi khổ của bá tánh, kiến tạo thời đại thái bình thịnh trị."
+            "description": "Một đôi giày thêu hoa đã mở ra hành trình phiêu lưu của chuyên gia cổ vật Trần Hữu Hi. Trên đường tìm kiếm ngọc Linh Tiêu, nhóm thám hiểm bốn người đã nhiều lần phải đối đầu với bọn trộm mộ. Nhưng sau khi tìm được viên ngọc Linh Tiêu đầu tiên, họ lại phát hiện mình đã rơi vào một âm mưu còn lớn hơn…"
         },
         {
             "name": "Xanh Chạm Đáy Trời (Ánh Xuân Lam)",
@@ -3009,30 +2937,6 @@
             "description": "Bộ phim xoay quanh Deok Hyeon - người đàn ông trung niên bị mắc kẹt trong quá khứ và An Na - cô gái trẻ đang tìm việc nhưng bị nỗi lo âu về tương lai kìm hãm. Họ lựa chọn trở thành haenyeo (thợ lặn), hòa mình vào đại dương để tìm thấy những cảm xúc mà thế giới cũ chưa từng mang lại."
         },
         {
-            "name": "Cá Con Cau Có",
-            "year": 2026,
-            "slug": "ca-con-cau-co",
-            "thumb": "https://phimimg.com/upload/vod/20260504-1/b7f9ecfbe2cd89e6cdbab2da48dc4382.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260504-1/3691fae54d7ae1386cf2dee9d2f78367.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Úc",
-            "description": "Sống trên một con tàu đắm cũ nát, ông Cá một ngày nọ phát hiện ra một con rồng biển nhỏ hiếu động tên Pip – kẻ nhầm nhà ông là bãi phế liệu – đang ăn cắp đồ đạc của ông. Cuộc tranh cãi nảy lửa sau đó khiến cả hai ngôi nhà đều bị tàn phá. Nhưng vẫn còn hy vọng! Bắt đầu một cuộc hành trình tưởng chừng như bất khả thi để tìm kiếm &quot;Ánh sáng lấp lánh&quot; huyền thoại nhằm ban điều ước, chỉ có một vấn đề: có kẻ khác cũng đang săn lùng nó…"
-        },
-        {
-            "name": "Rak Rak: Trực Giác Tình Yêu",
-            "year": 2026,
-            "slug": "rak-rak-truc-giac-tinh-yeu",
-            "thumb": "https://phimimg.com/upload/vod/20260430-1/b9371757be9971be0f77e57c07427615.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260430-1/52d73be2ab6e0cc20b795169743a30c5.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 5",
-            "total_episodes": "8",
-            "country": "Thái Lan",
-            "description": "Khi cảm xúc dâng trào và trái tim đối mặt với những phép thử, chẳng có gì là bất biến. Trong Rak Rak, chỉ một khoảnh khắc cũng có thể thay đổi tất cả, giữa rung động và lý trí, họ sẽ lựa chọn điều gì?"
-        },
-        {
             "name": "Tái Xuất (Phần 3)",
             "year": 2026,
             "slug": "tai-xuat-phan-3",
@@ -3045,16 +2949,112 @@
             "description": "Đối với Valerie Cherish, không có cái giá nào là quá đắt để có thể níu giữ ánh hào quang sân khấu. Tuyệt vọng trong việc hồi sinh sự nghiệp đang lụi tàn của mình, cô đồng ý trở thành ngôi sao trong một chương trình truyền hình thực tế, cho phép máy quay theo sát mọi cử động khi cô giành được một vai diễn trong bộ phim hài tình huống (sitcom) mới của nhà đài."
         },
         {
-            "name": "Minh Châu Kỳ Đàm (Phần 3)",
+            "name": "Cuộc Chiến Sinh Tử II",
             "year": 2026,
-            "slug": "minh-chau-ky-dam-phan-3",
-            "thumb": "https://phimimg.com/upload/vod/20260521-1/2518bcd9664be1653b0a0eec93fa67ee.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260521-1/eae7a598d013b3add22e33da1dd1527f.jpg",
+            "slug": "cuoc-chien-sinh-tu-ii",
+            "thumb": "https://phimimg.com/upload/vod/20260519-1/d68170850071c3aa73dfb26e6a18133e.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260519-1/3c295de9c27fa4449eb82919363a80d7.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "24",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Những chiến binh được yêu thích nhất — nay có thêm sự góp mặt của Johnny Cage — buộc phải đối đầu lẫn nhau trong trận chiến tối thượng đẫm máu và không khoan nhượng. Mục tiêu: đánh bại sự thống trị tàn bạo của Shao Kahn, kẻ đang đe dọa sự tồn vong của Địa Giới và tất cả những ai đứng lên bảo vệ nó."
+        },
+        {
+            "name": "Hôm Nay Lại Bán Hết",
+            "year": 2026,
+            "slug": "hom-nay-lai-ban-het",
+            "thumb": "https://phimimg.com/upload/vod/20260423-1/59594f0abd8f6235405c87ee435a827d.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260423-1/31d7521253c2c0ef3bd8f4c557c05127.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 9",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Một nữ MC bán hàng qua truyền hình cuồng công việc về vùng quê để vực dậy chương trình của mình, nhưng một chàng nông dân bí ẩn khiến mọi kế hoạch – và cả trái tim cô – chao đảo."
+        },
+        {
+            "name": "Một bộ phim của Lee Cronin: Xác ướp",
+            "year": 2026,
+            "slug": "mot-bo-phim-cua-lee-cronin-xac-uop",
+            "thumb": "https://phimimg.com/upload/vod/20260518-1/0038dbccf56b4dbd0440a77635a24242.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260518-1/d61dfd33287e3e437ad74dde5ca7e892.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Con gái nhỏ của một nhà báo biến mất không dấu vết giữa sa mạc. Tám năm sau, gia đình tan vỡ của họ bàng hoàng khi cô bé bất ngờ được đưa trở về — nhưng cuộc đoàn tụ tưởng chừng hạnh phúc nhanh chóng biến thành một cơn ác mộng sống."
+        },
+        {
+            "name": "Cam Kết Thỏa Mãn Tột Cùng",
+            "year": 2026,
+            "slug": "cam-ket-thoa-man-tot-cung",
+            "thumb": "https://phimimg.com/upload/vod/20260521-1/ed43621ae21ba30c0e26750a08015c33.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260521-1/03a0c10b0dff685c4b64716275d056c1.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Một bà mẹ vừa ly hôn bất ngờ rơi vào vòng xoáy nguy hiểm của tống tiền, án mạng và... bóng đá thiếu nhi."
+        },
+        {
+            "name": "Siêu Anh Hùng Phá Hoại (Phần 5)",
+            "year": 2026,
+            "slug": "sieu-anh-hung-pha-hoai-phan-5",
+            "thumb": "https://phimimg.com/upload/vod/20260408-1/13482a7245be0124f084a1fcd1793a19.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260408-1/4c8735b0b4d97204847815710e357bed.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Hoàn Tất (8/8)",
+            "total_episodes": "8",
+            "country": "Âu Mỹ",
+            "description": "Trong một thế giới mà các siêu anh hùng chìm trong mặt tối của sự nổi tiếng và danh vọng to lớn của họ, THE BOYS tập trung vào một nhóm tự phát được biết đến với cái tên không chính thức là nhóm “Trai điên”, những người đặt ra mục tiêu hạ gục các siêu anh hùng tồi tệ này chỉ với sự gan góc và sẵn sàng chơi bẩn của họ."
+        },
+        {
+            "name": "Bù Nhìn Bóng Đêm",
+            "year": 2026,
+            "slug": "bu-nhin-bong-dem",
+            "thumb": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260421-1/f650d2178218b84e7277bdafbf2a95b9.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 10",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Bị giáng chức về vùng quê Gangseong, cựu thám tử sừng sỏ Kang Tae-ju rơi vào tâm điểm của chuỗi vụ án giết người hàng loạt rúng động. Để lật tẩy sự thật tàn khốc bị vùi lấp suốt 31 năm (từ 1988 đến 2019) và khôi phục lại danh dự, anh buộc phải bắt tay với kẻ mình căm ghét nhất - công tố viên Cha Shi-young. Khi lần theo sự thật, họ nhận ra kẻ sát nhân không chỉ lặp lại quá khứ mà đang hoàn thành thứ còn dang dở."
+        },
+        {
+            "name": "Cá Con Cau Có",
+            "year": 2026,
+            "slug": "ca-con-cau-co",
+            "thumb": "https://phimimg.com/upload/vod/20260504-1/b7f9ecfbe2cd89e6cdbab2da48dc4382.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260504-1/3691fae54d7ae1386cf2dee9d2f78367.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Úc",
+            "description": "Sống trên một con tàu đắm cũ nát, ông Cá một ngày nọ phát hiện ra một con rồng biển nhỏ hiếu động tên Pip – kẻ nhầm nhà ông là bãi phế liệu – đang ăn cắp đồ đạc của ông. Cuộc tranh cãi nảy lửa sau đó khiến cả hai ngôi nhà đều bị tàn phá. Nhưng vẫn còn hy vọng! Bắt đầu một cuộc hành trình tưởng chừng như bất khả thi để tìm kiếm &quot;Ánh sáng lấp lánh&quot; huyền thoại nhằm ban điều ước, chỉ có một vấn đề: có kẻ khác cũng đang săn lùng nó…"
+        },
+        {
+            "name": "Vũ Lâm Linh",
+            "year": 2026,
+            "slug": "vu-lam-linh",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 19",
+            "total_episodes": "37",
             "country": "Trung Quốc",
-            "description": "Một đôi giày thêu hoa đã mở ra hành trình phiêu lưu của chuyên gia cổ vật Trần Hữu Hi. Trên đường tìm kiếm ngọc Linh Tiêu, nhóm thám hiểm bốn người đã nhiều lần phải đối đầu với bọn trộm mộ. Nhưng sau khi tìm được viên ngọc Linh Tiêu đầu tiên, họ lại phát hiện mình đã rơi vào một âm mưu còn lớn hơn…"
+            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
+        },
+        {
+            "name": "Rak Rak: Trực Giác Tình Yêu",
+            "year": 2026,
+            "slug": "rak-rak-truc-giac-tinh-yeu",
+            "thumb": "https://phimimg.com/upload/vod/20260430-1/b9371757be9971be0f77e57c07427615.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260430-1/52d73be2ab6e0cc20b795169743a30c5.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 5",
+            "total_episodes": "8",
+            "country": "Thái Lan",
+            "description": "Khi cảm xúc dâng trào và trái tim đối mặt với những phép thử, chẳng có gì là bất biến. Trong Rak Rak, chỉ một khoảnh khắc cũng có thể thay đổi tất cả, giữa rung động và lý trí, họ sẽ lựa chọn điều gì?"
         }
     ]
 }
