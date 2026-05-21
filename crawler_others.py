@@ -68,6 +68,11 @@ def process_and_add(items, results, seen):
         if not d or 'data' not in d or 'item' not in d['data']: continue
         m = d['data']['item']
         
+        # --- LOGIC LOẠI BỎ TRAILER ---
+        ep_current = str(m.get('episode_current', '')).lower()
+        if "trailer" in ep_current or "sắp ra mắt" in ep_current or "coming soon" in ep_current:
+            continue
+        
         # --- BỘ LỌC HOẠT HÌNH ---
         m_type = str(m.get('type', '')).lower().replace(" ", "")
         cat_slugs = [str(c.get('slug', '')).lower() for c in m.get('category', [])]
