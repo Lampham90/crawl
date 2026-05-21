@@ -39,9 +39,14 @@ def crawl_country_logic(display_name, filename, endpoint, country, is_movie):
             
             for d in details:
                 if len(results) >= LIMIT_COUNT: break
-                # FIX: Đổi 'movie' thành 'data' và 'item'
+                # FIX: Đổi 'movie' thành 'data' and 'item'
                 if not d or 'data' not in d or 'item' not in d['data']: continue
                 m = d['data']['item']
+                
+                # --- LOGIC LOẠI BỎ TRAILER ---
+                ep_current = str(m.get('episode_current', '')).lower()
+                if "trailer" in ep_current or "sắp ra mắt" in ep_current or "coming soon" in ep_current:
+                    continue
                 
                 # Logic lọc Hoạt hình và Quốc gia
                 if 'hoat-hinh' in [c.get('slug') for c in m.get('category', [])]: continue
