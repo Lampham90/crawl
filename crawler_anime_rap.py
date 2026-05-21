@@ -55,6 +55,12 @@ def crawl_by_year_logic(display_name, filename, endpoint, country=None, is_movie
                 if not d or 'data' not in d or 'item' not in d['data']: continue
                 
                 m = d['data']['item']
+                
+                # --- LOGIC LOẠI BỎ TRAILER ---
+                ep_current = str(m.get('episode_current', '')).lower()
+                if "trailer" in ep_current or "sắp ra mắt" in ep_current or "coming soon" in ep_current:
+                    continue
+                
                 m_countries = [c.get('name') for c in m.get('country', [])]
                 m_year = int(m.get('year', 0))
                 
