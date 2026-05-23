@@ -365,6 +365,18 @@
     ],
     "hh_trung_quoc": [
         {
+            "name": "Quang Âm Chi Ngoại",
+            "year": 2025,
+            "slug": "quang-am-chi-ngoai",
+            "thumb": "https://phimimg.com/upload/vod/20251229-1/fce1ee8b2fe5ee1e48e670ddf1417ee8.jpg",
+            "poster": "https://phimimg.com/upload/vod/20251229-1/d7f24b91fd95fb7cf353e1369e2318b7.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 23",
+            "total_episodes": "26",
+            "country": "Trung Quốc",
+            "description": "Quang Âm Chi Ngoại, một tác phẩm kinh điển thứ sau của tiểu thuyết gia Nhĩ Căn, người đã từng mang đến rất nhiều những câu chuyện nổi tiếng khác như Tiên Nghịch mà chúng ta vẫn thường theo dõi và thưởng thức. Trong tác phẩm Quang Âm Chi Ngoại này, tác giả Nhĩ Căn sẽ hướng chúng ta vào nam chính Hứa Thanh, một hình tượng nhân vật đầy dũng cảm, bất khuất, và cũng có thể coi là máu lạnh hơn so với anh chàng Vương Lâm si tình rất nhiều. Hứa Thanh cũng sẽ bước vào hành trình tu tiên đầy gian khổ, vô vàn kẻ địch trước mắt, nhưng anh chàng cũng không ngần ngại ra tay với những kẻ có tâm địa xấu xa, nhất là kẻ đang và sẽ nhắm đến anh. Có một chi tiết thú vị hơn chính là việc gặp gỡ giữa Hứa Thanh với Vương Lâm, bởi họ sống cùng với dòng chảy thời gian giữa Quang Âm Chi Ngoại và Tiên Nghịch."
+        },
+        {
             "name": "Trạch Thiên Ký",
             "year": 2026,
             "slug": "trach-thien-ky",
@@ -531,18 +543,6 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Còn Ra Thể Thống Gì Nữa? (How Dare You?!) kể về câu chuyện xoay quanh Dữu Vãn Âm. Một ngày nọ, Dữu Vãn Âm bỗng xuyên không vào tiểu thuyết cung đấu. Vì để đảo ngược số phận mà cô đã chọn hợp lực với một tên bạo chúa nhưng lại không thể ngờ rằng hoàng đế và nữ chính trong truyện cũng là xuyên sách mà tới. Cô vẫn luôn hy vọng rằng ba người hiện đại có thể gác lại những tranh chấp trong hoàng cung và ngồi lại cùng nhau để cùng chơi đấu địa chủ và ăn lẩu. Tuy nhiên, nữ chính trong truyện tin rằng mình là người được chọn và lựa chọn chống lại hoàng đế và Vãn Âm... Dữu Vãn Âm vì để có thể sống sót mà phải ra chiêu, cũng vừa là cứu mình mà cũng là giúp Đại Hạ tránh khỏi cuộc kiếp nạn."
-        },
-        {
-            "name": "Quang Âm Chi Ngoại",
-            "year": 2025,
-            "slug": "quang-am-chi-ngoai",
-            "thumb": "https://phimimg.com/upload/vod/20251229-1/fce1ee8b2fe5ee1e48e670ddf1417ee8.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251229-1/d7f24b91fd95fb7cf353e1369e2318b7.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 22",
-            "total_episodes": "26",
-            "country": "Trung Quốc",
-            "description": "Quang Âm Chi Ngoại, một tác phẩm kinh điển thứ sau của tiểu thuyết gia Nhĩ Căn, người đã từng mang đến rất nhiều những câu chuyện nổi tiếng khác như Tiên Nghịch mà chúng ta vẫn thường theo dõi và thưởng thức. Trong tác phẩm Quang Âm Chi Ngoại này, tác giả Nhĩ Căn sẽ hướng chúng ta vào nam chính Hứa Thanh, một hình tượng nhân vật đầy dũng cảm, bất khuất, và cũng có thể coi là máu lạnh hơn so với anh chàng Vương Lâm si tình rất nhiều. Hứa Thanh cũng sẽ bước vào hành trình tu tiên đầy gian khổ, vô vàn kẻ địch trước mắt, nhưng anh chàng cũng không ngần ngại ra tay với những kẻ có tâm địa xấu xa, nhất là kẻ đang và sẽ nhắm đến anh. Có một chi tiết thú vị hơn chính là việc gặp gỡ giữa Hứa Thanh với Vương Lâm, bởi họ sống cùng với dòng chảy thời gian giữa Quang Âm Chi Ngoại và Tiên Nghịch."
         }
     ],
     "phim_chieu_rap": [
@@ -1639,6 +1639,126 @@
     ],
     "bo_trung": [
         {
+            "name": "Vũ Lâm Linh",
+            "year": 2026,
+            "slug": "vu-lam-linh",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 23",
+            "total_episodes": "37",
+            "country": "Trung Quốc",
+            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
+        },
+        {
+            "name": "Gia Nghiệp",
+            "year": 2026,
+            "slug": "gia-nghiep",
+            "thumb": "https://phimimg.com/upload/vod/20260517-1/e597d3c023ece6133782fa92b37e1b30.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260517-1/00e0c93f1e771c99a81489ca57e15c44.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 16",
+            "total_episodes": "42",
+            "country": "Trung Quốc",
+            "description": "Giữa thời Minh, một hộp mực cống nạp khiến ngành mực Huy Châu rơi vào biến động, kéo theo sự suy tàn của gia tộc Lý Mạc. Nhiều năm sau, Lý Trinh quyết tâm khôi phục nghề tổ. Nhờ tài năng và nghị lực, cô nhanh chóng tỏa sáng. Cùng lúc, Lạc Văn Khiêm cũng âm thầm tái thiết gia tộc. Cả hai hợp lực đối đầu với thế lực mới họ Điền, đưa mực Huy Châu trở lại thời hoàng kim. Khi lệnh cấm hàng hải bị dỡ bỏ, họ cùng nhau sáng tạo nên tuyệt phẩm mực, giành danh hiệu &quot;Thiên hạ đệ nhất mực&quot;, và nên duyên vợ chồng, tiếp nối huyền thoại ngành mực Huy Châu."
+        },
+        {
+            "name": "Rực Cháy Giữa Ban Trưa",
+            "year": 2026,
+            "slug": "ruc-chay-giua-ban-trua",
+            "thumb": "https://phimimg.com/upload/vod/20260523-1/0723b34e9ffdae498a9c073892c42d40.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260523-1/3bfd70f192ef3d08e42c0db6726e7a9a.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "30",
+            "country": "Trung Quốc",
+            "description": "Người anh trai song sinh mạo danh đốc quân, thảm sát cả nhà họ Trang. Trang Vận Thu thoát chết trong gang tấc, giả mạo thiên kim tiểu thư để gả vào phủ đốc quân báo thù. Trong quá trình bày mưu tính kế, cô dần nhận ra điểm bất thường và phát hiện vị đốc quân kia thực chất do người anh sinh đôi đóng giả, còn người em trai thật sự đang âm thầm nhẫn nhịn, bí mật điều tra chứng cứ tội ác. Hai kẻ mang mối thù sâu nặng từ chỗ dò xét lẫn nhau dần nảy sinh tình cảm, rồi cùng liên thủ giăng bẫy, vạch trần tội ác của đám quyền quý, đem lại bình yên cho dân chúng."
+        },
+        {
+            "name": "Đại Đường Mê Vụ",
+            "year": 2026,
+            "slug": "dai-duong-me-vu",
+            "thumb": "https://phimimg.com/upload/vod/20260523-1/9107386291a420ee08f8eb542f07e4bf.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260523-1/9c3cb3ed23c307846bb50a71bf78acf5.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "25",
+            "country": "Trung Quốc",
+            "description": "Nước Đại Đường thời Thùy Củng, Địch Nhân Kiệt bất mãn khi thấy Võ Hậu hy sinh người vô tội để thực hiện dã tâm, nên đã cùng đoàn người rời Thần Đô, đi tuần tra Giang Nam Đạo. Ông không ngờ bên dưới vẻ bề ngoài thịnh thế phồn vinh lại là cảnh tượng yêu ma quỷ quái hoành hành. Những đấu đá quyền lực, lòng tham lợi ích và nỗi ám ảnh cố chấp… đã kéo Địch Nhân Kiệt vào từng thiên la địa võng được sắp đặt tinh vi. Đối diện với kỳ án, bị sương mù che mắt, vị thần thám Đại Đường dùng trí tuệ phi phàm dò xét từng manh mối nhỏ, dùng năng lực siêu việt để thấu tỏ lòng người."
+        },
+        {
+            "name": "Yết Hí",
+            "year": 2026,
+            "slug": "yet-hi",
+            "thumb": "https://phimimg.com/upload/vod/20260109-1/cc0563a07da12a6896dffc6aa176c998.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260109-1/d6d82c20c56d61f31894bd979c3eda4a.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Hoàn Tất (28/28)",
+            "total_episodes": "28",
+            "country": "Trung Quốc",
+            "description": "Tiêu Trĩ Vũ và Hồ Tu gặp gỡ nhờ một buổi chơi “truy tìm lối thoát” có chủ đề dân quốc. Ở thế giới kịch bản đầy tuyết rơi và những bóng ma gián điệp chập chùng, hai người đánh ra tia lửa định mệnh. Thế nhưng, cuộc tái ngộ bất ngờ ngoài đời thực lại mở ra những bí ẩn về thân phận thật sự của đối phương. Xuyên qua không gian đan xen giữa hiện thực và hư cấu, họ cùng nhau bước hành trình trưởng thành song hành, từ những ràng buộc vượt qua mọi chiều không gian, để hoàn thành bước tiến hóa của tình yêu và chính bản thân mình."
+        },
+        {
+            "name": "Trốn Không Thoát Tội",
+            "year": 2026,
+            "slug": "tron-khong-thoat-toi",
+            "thumb": "https://phimimg.com/upload/vod/20260512-1/deb242e23a9fc12d4cf922fb7c09ce53.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260512-1/2b64b47185b49f5d1c30bb944a38bafb.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (24/24)",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Để kiếm tiền chạy chữa cho con gái bị bệnh nặng, La Tiêu bị tên trùm băng đảng Trần Vĩnh Giang uy hiếp và vướng vào vụ án giết người chặt xác. Để tự bảo vệ mình, anh đã giết Trần Vĩnh Giang, thế chỗ hắn tiếp quản hoạt động rửa tiền của tổ chức tín dụng đen. Trong quá trình điều tra, cảnh sát Trương Hanh dần phát hiện ra dấu vết phạm tội của La Tiêu, cùng mạng lưới tài chính chằng chịt phía sau. Theo từng bước đi sâu điều tra của cảnh sát, cả mạng lưới tội phạm khổng lồ liên quan đến giết người, rửa tiền và góc khuất y tế dần được phơi bày qua hàng loạt những cuộc đối đầu và lựa chọn đầy kịch tính."
+        },
+        {
+            "name": "Tiên Nhân Chi Thượng",
+            "year": 2026,
+            "slug": "tien-nhan-chi-thuong",
+            "thumb": "https://phimimg.com/upload/vod/20260512-1/58124729097d7ac9d457012c06bbdcc1.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260512-1/38edc04152e20de210f72ea8404d4dc8.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 23",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Thần thoại viễn cổ giáng thế, Thiên Đình hoang tàn lơ lửng giữa trời, từng vị thần linh đờ đẫn bước đi như xác sống. Khi loài người được “tiên nhân” ban phước và đứng trước bờ vực bị đồng hóa, luôn có một nhóm người đứng ra, kiên định giữ vững bản tâm của mình!"
+        },
+        {
+            "name": "Người Giữ Đèn Ở Chùa Ký Cốt",
+            "year": 2026,
+            "slug": "nguoi-giu-den-o-chua-ky-cot",
+            "thumb": "https://phimimg.com/upload/vod/20260518-1/3edc00db70c870aa5e04c20148e6db04.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260518-1/86e453a3ea87cd3603483e54a458c7d2.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 18",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Giữa thời quân phiệt hỗn chiến loạn lạc, một quân y nghiện rượu biệt danh Lão Tửu Quỷ trở về quê nhà, tá túc trong ngôi chùa lưu giữ hài cốt. Tại đây, ông cứu góa phụ Như Linh, vạch trần âm mưu &quot;tế sống trẻ con cho Sơn Thần&quot; và trở thành người canh đèn của ngôi chùa. Ông cảm hóa gã lãng tử Đông Sinh, giúp anh phá vụ án buôn lậu vũ khí, cứu Thu Anh khỏi số phận vật hiến tế, đồng thời đấu trí với tà giáo và giải cứu những chí sĩ yêu nước. Cuối cùng, Lão Tửu Quỷ thanh thản nhắm mắt xuôi tay, còn những người từng được ông cứu đều dấn thân vào con đường cách mạng."
+        },
+        {
+            "name": "Minh Châu Kỳ Đàm (Phần 3)",
+            "year": 2026,
+            "slug": "minh-chau-ky-dam-phan-3",
+            "thumb": "https://phimimg.com/upload/vod/20260521-1/2518bcd9664be1653b0a0eec93fa67ee.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260521-1/eae7a598d013b3add22e33da1dd1527f.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 12",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Một đôi giày thêu hoa đã mở ra hành trình phiêu lưu của chuyên gia cổ vật Trần Hữu Hi. Trên đường tìm kiếm ngọc Linh Tiêu, nhóm thám hiểm bốn người đã nhiều lần phải đối đầu với bọn trộm mộ. Nhưng sau khi tìm được viên ngọc Linh Tiêu đầu tiên, họ lại phát hiện mình đã rơi vào một âm mưu còn lớn hơn…"
+        },
+        {
+            "name": "Lương Trần Mỹ Cẩm",
+            "year": 2026,
+            "slug": "luong-tran-my-cam",
+            "thumb": "https://phimimg.com/upload/vod/20260504-1/95985e2f2e38ad97c847ff0c7b375486.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260504-1/52232226fda0a7c261fcd55d3a6dbdc2.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Hoàn Tất (40/40)",
+            "total_episodes": "40",
+            "country": "Trung Quốc",
+            "description": "Đại cô nương nhà họ Cố - Cố Cẩm Triêu (Nhậm Mẫn) từ nhỏ đã được nuôi dưỡng tại nhà ngoại tổ. Tuy bị cha mẹ ruột thờ ơ, nhưng nhờ được ngoại tổ mẫu yêu thương, nàng vẫn sống một cuộc đời tự do, phóng khoáng. Sau khi trở về nhà họ Cố, Cố Cẩm Triêu luôn mạnh mẽ đối đầu với mọi người và mọi việc. Khác biệt với những cô gái bình thường, nàng đã thu hút sự chú ý sâu sắc của các nhân vật quyền thế như trọng thần trong nội các - Trần Ngạn Doãn (Thử Sa), Thế tử gia Diệp Hạn (Đổng Tư Thành), và bậc quân tử đoan chính - Trần Huyền Thanh (Tả Diệp). Đối mặt với chuyện hôn nhân, Cố Cẩm Triêu có quan điểm riêng của mình. Khi dần hiểu rõ lòng mình, nàng kiên định lựa chọn Trần Ngạn Doãn - người tôn trọng bản chất thật của nàng và cho nàng được sống là chính mình. Sau khi thành hôn, nàng dần trưởng thành, trở thành người vợ xứng đáng của trọng thần, phụ tá Trần Ngạn Doãn bước lên vị trí Thủ phụ. Họ cùng nhau thực hiện các chính sách vì dân vì nước, xoa dịu nỗi khổ của bá tánh, kiến tạo thời đại thái bình thịnh trị."
+        },
+        {
             "name": "Gả Vào Nhà Quyền Quý",
             "year": 2026,
             "slug": "ga-vao-nha-quyen-quy",
@@ -1663,90 +1783,6 @@
             "description": "Bộ phim kể về hành trình trưởng thành của một nữ nghệ sĩ sân khấu Tần khang từ tầng lớp bình dân vươn lên thành nhân vật nổi tiếng. Trên con đường theo đuổi nghệ thuật, cô phải đối mặt với tình yêu, danh vọng và những biến động của thời đại."
         },
         {
-            "name": "Gia Nghiệp",
-            "year": 2026,
-            "slug": "gia-nghiep",
-            "thumb": "https://phimimg.com/upload/vod/20260517-1/e597d3c023ece6133782fa92b37e1b30.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260517-1/00e0c93f1e771c99a81489ca57e15c44.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 14",
-            "total_episodes": "42",
-            "country": "Trung Quốc",
-            "description": "Giữa thời Minh, một hộp mực cống nạp khiến ngành mực Huy Châu rơi vào biến động, kéo theo sự suy tàn của gia tộc Lý Mạc. Nhiều năm sau, Lý Trinh quyết tâm khôi phục nghề tổ. Nhờ tài năng và nghị lực, cô nhanh chóng tỏa sáng. Cùng lúc, Lạc Văn Khiêm cũng âm thầm tái thiết gia tộc. Cả hai hợp lực đối đầu với thế lực mới họ Điền, đưa mực Huy Châu trở lại thời hoàng kim. Khi lệnh cấm hàng hải bị dỡ bỏ, họ cùng nhau sáng tạo nên tuyệt phẩm mực, giành danh hiệu &quot;Thiên hạ đệ nhất mực&quot;, và nên duyên vợ chồng, tiếp nối huyền thoại ngành mực Huy Châu."
-        },
-        {
-            "name": "Vũ Lâm Linh",
-            "year": 2026,
-            "slug": "vu-lam-linh",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 21",
-            "total_episodes": "37",
-            "country": "Trung Quốc",
-            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
-        },
-        {
-            "name": "Trốn Không Thoát Tội",
-            "year": 2026,
-            "slug": "tron-khong-thoat-toi",
-            "thumb": "https://phimimg.com/upload/vod/20260512-1/deb242e23a9fc12d4cf922fb7c09ce53.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260512-1/2b64b47185b49f5d1c30bb944a38bafb.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 23",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Để kiếm tiền chạy chữa cho con gái bị bệnh nặng, La Tiêu bị tên trùm băng đảng Trần Vĩnh Giang uy hiếp và vướng vào vụ án giết người chặt xác. Để tự bảo vệ mình, anh đã giết Trần Vĩnh Giang, thế chỗ hắn tiếp quản hoạt động rửa tiền của tổ chức tín dụng đen. Trong quá trình điều tra, cảnh sát Trương Hanh dần phát hiện ra dấu vết phạm tội của La Tiêu, cùng mạng lưới tài chính chằng chịt phía sau. Theo từng bước đi sâu điều tra của cảnh sát, cả mạng lưới tội phạm khổng lồ liên quan đến giết người, rửa tiền và góc khuất y tế dần được phơi bày qua hàng loạt những cuộc đối đầu và lựa chọn đầy kịch tính."
-        },
-        {
-            "name": "Tiên Nhân Chi Thượng",
-            "year": 2026,
-            "slug": "tien-nhan-chi-thuong",
-            "thumb": "https://phimimg.com/upload/vod/20260512-1/58124729097d7ac9d457012c06bbdcc1.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260512-1/38edc04152e20de210f72ea8404d4dc8.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 22",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Thần thoại viễn cổ giáng thế, Thiên Đình hoang tàn lơ lửng giữa trời, từng vị thần linh đờ đẫn bước đi như xác sống. Khi loài người được “tiên nhân” ban phước và đứng trước bờ vực bị đồng hóa, luôn có một nhóm người đứng ra, kiên định giữ vững bản tâm của mình!"
-        },
-        {
-            "name": "Người Giữ Đèn Ở Chùa Ký Cốt",
-            "year": 2026,
-            "slug": "nguoi-giu-den-o-chua-ky-cot",
-            "thumb": "https://phimimg.com/upload/vod/20260518-1/3edc00db70c870aa5e04c20148e6db04.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260518-1/86e453a3ea87cd3603483e54a458c7d2.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 17",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Giữa thời quân phiệt hỗn chiến loạn lạc, một quân y nghiện rượu biệt danh Lão Tửu Quỷ trở về quê nhà, tá túc trong ngôi chùa lưu giữ hài cốt. Tại đây, ông cứu góa phụ Như Linh, vạch trần âm mưu &quot;tế sống trẻ con cho Sơn Thần&quot; và trở thành người canh đèn của ngôi chùa. Ông cảm hóa gã lãng tử Đông Sinh, giúp anh phá vụ án buôn lậu vũ khí, cứu Thu Anh khỏi số phận vật hiến tế, đồng thời đấu trí với tà giáo và giải cứu những chí sĩ yêu nước. Cuối cùng, Lão Tửu Quỷ thanh thản nhắm mắt xuôi tay, còn những người từng được ông cứu đều dấn thân vào con đường cách mạng."
-        },
-        {
-            "name": "Minh Châu Kỳ Đàm (Phần 3)",
-            "year": 2026,
-            "slug": "minh-chau-ky-dam-phan-3",
-            "thumb": "https://phimimg.com/upload/vod/20260521-1/2518bcd9664be1653b0a0eec93fa67ee.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260521-1/eae7a598d013b3add22e33da1dd1527f.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 10",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Một đôi giày thêu hoa đã mở ra hành trình phiêu lưu của chuyên gia cổ vật Trần Hữu Hi. Trên đường tìm kiếm ngọc Linh Tiêu, nhóm thám hiểm bốn người đã nhiều lần phải đối đầu với bọn trộm mộ. Nhưng sau khi tìm được viên ngọc Linh Tiêu đầu tiên, họ lại phát hiện mình đã rơi vào một âm mưu còn lớn hơn…"
-        },
-        {
-            "name": "Lương Trần Mỹ Cẩm",
-            "year": 2026,
-            "slug": "luong-tran-my-cam",
-            "thumb": "https://phimimg.com/upload/vod/20260504-1/95985e2f2e38ad97c847ff0c7b375486.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260504-1/52232226fda0a7c261fcd55d3a6dbdc2.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Hoàn Tất (40/40)",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "description": "Đại cô nương nhà họ Cố - Cố Cẩm Triêu (Nhậm Mẫn) từ nhỏ đã được nuôi dưỡng tại nhà ngoại tổ. Tuy bị cha mẹ ruột thờ ơ, nhưng nhờ được ngoại tổ mẫu yêu thương, nàng vẫn sống một cuộc đời tự do, phóng khoáng. Sau khi trở về nhà họ Cố, Cố Cẩm Triêu luôn mạnh mẽ đối đầu với mọi người và mọi việc. Khác biệt với những cô gái bình thường, nàng đã thu hút sự chú ý sâu sắc của các nhân vật quyền thế như trọng thần trong nội các - Trần Ngạn Doãn (Thử Sa), Thế tử gia Diệp Hạn (Đổng Tư Thành), và bậc quân tử đoan chính - Trần Huyền Thanh (Tả Diệp). Đối mặt với chuyện hôn nhân, Cố Cẩm Triêu có quan điểm riêng của mình. Khi dần hiểu rõ lòng mình, nàng kiên định lựa chọn Trần Ngạn Doãn - người tôn trọng bản chất thật của nàng và cho nàng được sống là chính mình. Sau khi thành hôn, nàng dần trưởng thành, trở thành người vợ xứng đáng của trọng thần, phụ tá Trần Ngạn Doãn bước lên vị trí Thủ phụ. Họ cùng nhau thực hiện các chính sách vì dân vì nước, xoa dịu nỗi khổ của bá tánh, kiến tạo thời đại thái bình thịnh trị."
-        },
-        {
             "name": "Tình Yêu Không Có Cổ Tích",
             "year": 2026,
             "slug": "tinh-yeu-khong-co-co-tich",
@@ -1757,18 +1793,6 @@
             "total_episodes": "37",
             "country": "Trung Quốc",
             "description": "Lâm Triển Kiều là một phụ nữ thành thị độc lập về kinh tế, chín chắn trong suy nghĩ. Xung quanh cô không thiếu người theo đuổi, nhưng cô vẫn lựa chọn cuộc sống độc thân. Không phải cô bài xích hôn nhân, mà là không muốn thỏa hiệp; sâu thẳm trong lòng, cô luôn khao khát một tình yêu chân thành và một cuộc hôn nhân thuần khiết. Sau khi gặp Hà Đức Chương, giữa hai người ban đầu tồn tại không ít hiểu lầm. Thế nhưng, trong hành trình cùng nhau trưởng thành và đứng trước những lựa chọn của tình yêu lẫn sự nghiệp, họ dần nhận ra đối phương chính là người bạn đời lý tưởng của mình. Vượt qua muôn vàn trở ngại từ thực tế, cả hai quyết định nắm tay bước vào hôn nhân. Những người bạn của Lâm Triển Kiều, sau khi đưa ra lựa chọn cho cuộc đời mình, cũng tìm được bến đỗ riêng. Cuối cùng, tất cả họ đều thấu hiểu ý nghĩa đích thực của tình yêu và hôn nhân, sống một cuộc đời bình dị mà hạnh phúc, giản đơn nhưng không hề tầm thường."
-        },
-        {
-            "name": "Yết Hí",
-            "year": 2026,
-            "slug": "yet-hi",
-            "thumb": "https://phimimg.com/upload/vod/20260109-1/cc0563a07da12a6896dffc6aa176c998.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260109-1/d6d82c20c56d61f31894bd979c3eda4a.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Hoàn Tất (28/28)",
-            "total_episodes": "28",
-            "country": "Trung Quốc",
-            "description": "Tiêu Trĩ Vũ và Hồ Tu gặp gỡ nhờ một buổi chơi “truy tìm lối thoát” có chủ đề dân quốc. Ở thế giới kịch bản đầy tuyết rơi và những bóng ma gián điệp chập chùng, hai người đánh ra tia lửa định mệnh. Thế nhưng, cuộc tái ngộ bất ngờ ngoài đời thực lại mở ra những bí ẩn về thân phận thật sự của đối phương. Xuyên qua không gian đan xen giữa hiện thực và hư cấu, họ cùng nhau bước hành trình trưởng thành song hành, từ những ràng buộc vượt qua mọi chiều không gian, để hoàn thành bước tiến hóa của tình yêu và chính bản thân mình."
         },
         {
             "name": "Bổn Huyền Nha Là Phúc Tinh",
@@ -1793,33 +1817,21 @@
             "total_episodes": "26",
             "country": "Trung Quốc",
             "description": "Huyền Giới Chi Môn, câu chuyện về hành trình từ một cậu thiếu niên tầm thường cho đến trở thành võ giả chân chính của Thạch Mục với những nốt thăng trầm đáng nhớ. Vốn xuất thân tầm thường, tầm thường đến mức chỉ là một con nuôi trong một thế gia, vậy nên Thạch Mục cũng bị phân biệt đối xử chẳng được ai coi trọng, việc tu luyện của cậu cũng vậy, chẳng có gì để trợ giúp như những người khác cả, phải tự thân vận động thôi. Bắt buộc phải trở thành võ giả, bởi chỉ có võ giả thì mới nhận được sự thừa nhận về năng lực cũng như sự kính trọng từ mọi người. Nhưng hành trình ấy của Thạch Mục cũng chẳng hề dễ dàng, gian nan và cũng không thiếu nguy hiểm. Từ những trận chiến thập tử nhất sinh, tưởng hẹo mười mươi, cho đến những ngày tháng bị rượt đuổi chạy như bị Tào Tháo rượt, những những khoảnh khắc ấy đã tôi luyện cho Thạch Mục ngày càng trưởng thành, trở thành một võ giả có thể cứu rỗi tương lai của muôn người."
-        },
-        {
-            "name": "Mê Hoặc",
-            "year": 2026,
-            "slug": "me-hoac",
-            "thumb": "https://phimimg.com/upload/vod/20260430-1/17f72bb1291939148ca89403f1a09e6c.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260430-1/fcc032d77f4ffb0d2c9531e60f55313c.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (24/24)",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Lin Moqing giả mạo danh tính để thao túng và huấn luyện Lan Hewei như một phần trong kế hoạch tính toán nhằm chống lại gia tộc quyền lực của anh ta. Nhưng khi sự lừa dối, những liên minh thay đổi và những động cơ ngầm va chạm, Lan Hewei chứng tỏ mình mạnh mẽ hơn nhiều so với dự đoán. Điều bắt đầu như một trò chơi chiến lược giành quyền kiểm soát dần dần phát triển thành một mối quan hệ căng thẳng và khó lường, nơi sự cạnh tranh và sức hút hòa quyện vào nhau—và không ai có thể đoán trước được ai sẽ là người chiến thắng."
-        },
-        {
-            "name": "Nữ Thần Bàng Thượng Nhãn (Nữ Thần Che Mắt)",
-            "year": 2026,
-            "slug": "nu-than-bang-thuong-nhan-nu-than-che-mat",
-            "thumb": "https://phimimg.com/upload/vod/20260131-1/747d2683508962605512aee2120a4437.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260131-1/c297a14096ea75f48cf901f8d607767e.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (30/30)",
-            "total_episodes": "30",
-            "country": "Trung Quốc",
-            "description": "“Nữ luật sư bất bại” Đường Doanh Doanh (Tân Chỉ Lôi thủ vai) cùng cấp trên trực tiếp Khang Tuấn (Lâm Vũ Thân thủ vai) liên tục đối đầu trong hàng loạt vụ án phản ánh muôn mặt đời sống. Qua những va chạm ấy, họ từng bước làm sáng tỏ bài toán mang đậm màu sắc Trung Quốc về “tình người và pháp lý”. cuối cùng thu hoạch được câu chuyện động lòng người về sự trưởng thành của bản thân. Bộ phim khai thác nhiều chủ đề được xã hội quan tâm như tình yêu và hôn nhân, sự nghiệp và gia đình, pháp lý và đạo đức…, nỗ lực khắc họa sâu sắc cuộc sống và những lựa chọn của các nhóm người khác nhau, qua đó khích lệ khán giả giữ vững dũng khí và hy vọng khi đối mặt với những thử thách của đời sống."
         }
     ],
     "le_au_my": [
+        {
+            "name": "Xin Nhường Phái Đẹp",
+            "year": 2026,
+            "slug": "xin-nhuong-phai-dep",
+            "thumb": "https://phimimg.com/upload/vod/20260523-1/1810473496ce7859dadc4c8b1e8cf0ca.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260523-1/ae8b01cf4e0bae7c673fb62ce8bfa2db.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Gã sát gái ngạo mạn nhưng cuốn hút thấy cuộc sống đầy tiền tài, quyền lực và những cuộc tình chớp nhoáng của mình bị đảo lộn khi tỉnh dậy ở thế giới song song nơi phụ nữ nắm quyền."
+        },
         {
             "name": "Cuộc Chiến Sinh Tử II",
             "year": 2026,
@@ -1987,21 +1999,21 @@
             "total_episodes": "1",
             "country": "Âu Mỹ",
             "description": "Bộ phim tài liệu này tái hiện lại kỳ World Cup 2010 đầy tranh cãi của đội tuyển bóng đá Pháp và cuộc đình công xe buýt đã gây chấn động toàn cầu và dư luận quốc gia."
-        },
-        {
-            "name": "Dolphin Summer",
-            "year": 2026,
-            "slug": "dolphin-summer",
-            "thumb": "https://phimimg.com/upload/vod/20260511-1/ef75ac9512344c28eef812a530f0e972.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260511-1/23af7edbc90d67b8410c6dc3590c7394.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Sarah, một người có ước mơ trở thành nhà sinh vật học biển, đã nắm bắt cơ hội thực tập tại Khu bảo tồn biển đảo Abaco. Sarah, bạn bè của cô và người dân thị trấn đã cùng nhau khởi động chương trình phát trực tiếp “Khám phá cá heo” để cứu khu bảo tồn"
         }
     ],
     "bo_au_my": [
+        {
+            "name": "Kylie",
+            "year": 2026,
+            "slug": "kylie",
+            "thumb": "https://phimimg.com/upload/vod/20260523-1/c507bca8b035b35cd463d1ceb9b73c0f.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260523-1/731ab6bfa96ae3e19fcb72361c84ad62.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (3/3)",
+            "total_episodes": "3",
+            "country": "Âu Mỹ",
+            "description": "Bộ phim mang đến cái nhìn sâu sắc về cuộc đời của Minogue, khi cô lần đầu mở lại kho lưu trữ cá nhân và chiêm nghiệm về một sự nghiệp lẫy lừng với hơn 80 triệu bản thu âm được bán ra, cùng những lần cô tự tái định hình bản thân – và qua đó là cả nền âm nhạc đại chúng. Những thước phim tự quay tại nhà, những bức ảnh cá nhân chưa từng công bố cùng các cuộc phỏng vấn mới nhất sẽ hé mở một bức tranh toàn cảnh về cuộc đời cô. Tại đây, nữ ca sĩ cũng thẳng thắn chia sẻ về cách cô đối diện với sự soi mói của công chúng, những mất mát cá nhân và cả những biến cố bạo bệnh trong đời."
+        },
         {
             "name": "Cuộc Chiến Không Gian (Phần 5)",
             "year": 2026,
@@ -2169,18 +2181,6 @@
             "total_episodes": "8",
             "country": "Âu Mỹ",
             "description": "Một viên cảnh sát cứng đầu (Matthew Law) bất chấp ranh giới pháp luật để lật mặt tên trộm bậc thầy (Ylan Noel) đang ẩn mình giữa thanh thiên bạch nhật."
-        },
-        {
-            "name": "Rắc Rối Tiền Bạc Của Margo",
-            "year": 2026,
-            "slug": "rac-roi-tien-bac-cua-margo",
-            "thumb": "https://phimimg.com/upload/vod/20260420-1/eb8e826d7fed0482bd24c6cb8bcd5fd6.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260420-1/661235c88b4beb7cf1d5c8be427deef0.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 7",
-            "total_episodes": "8",
-            "country": "Âu Mỹ",
-            "description": "Khi nữ nhà văn đầy tham vọng Margo Millet mang thai, cô buộc phải bỏ dở đại học và đối mặt với cảnh túng quẫn. Nhưng khi người cha xa cách là cựu đô vật chuyên nghiệp xuất hiện, Margo tìm thấy một cách bất ngờ để kiếm tiền từ tài năng kể chuyện của mình."
         }
     ],
     "le_thai": [
@@ -2695,6 +2695,30 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Vũ Lâm Linh",
+            "year": 2026,
+            "slug": "vu-lam-linh",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 23",
+            "total_episodes": "37",
+            "country": "Trung Quốc",
+            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
+        },
+        {
+            "name": "Gia Nghiệp",
+            "year": 2026,
+            "slug": "gia-nghiep",
+            "thumb": "https://phimimg.com/upload/vod/20260517-1/e597d3c023ece6133782fa92b37e1b30.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260517-1/00e0c93f1e771c99a81489ca57e15c44.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 16",
+            "total_episodes": "42",
+            "country": "Trung Quốc",
+            "description": "Giữa thời Minh, một hộp mực cống nạp khiến ngành mực Huy Châu rơi vào biến động, kéo theo sự suy tàn của gia tộc Lý Mạc. Nhiều năm sau, Lý Trinh quyết tâm khôi phục nghề tổ. Nhờ tài năng và nghị lực, cô nhanh chóng tỏa sáng. Cùng lúc, Lạc Văn Khiêm cũng âm thầm tái thiết gia tộc. Cả hai hợp lực đối đầu với thế lực mới họ Điền, đưa mực Huy Châu trở lại thời hoàng kim. Khi lệnh cấm hàng hải bị dỡ bỏ, họ cùng nhau sáng tạo nên tuyệt phẩm mực, giành danh hiệu &quot;Thiên hạ đệ nhất mực&quot;, và nên duyên vợ chồng, tiếp nối huyền thoại ngành mực Huy Châu."
+        },
+        {
             "name": "Yết Hí",
             "year": 2026,
             "slug": "yet-hi",
@@ -2717,30 +2741,6 @@
             "total_episodes": "40",
             "country": "Trung Quốc",
             "description": "Đại cô nương nhà họ Cố - Cố Cẩm Triêu (Nhậm Mẫn) từ nhỏ đã được nuôi dưỡng tại nhà ngoại tổ. Tuy bị cha mẹ ruột thờ ơ, nhưng nhờ được ngoại tổ mẫu yêu thương, nàng vẫn sống một cuộc đời tự do, phóng khoáng. Sau khi trở về nhà họ Cố, Cố Cẩm Triêu luôn mạnh mẽ đối đầu với mọi người và mọi việc. Khác biệt với những cô gái bình thường, nàng đã thu hút sự chú ý sâu sắc của các nhân vật quyền thế như trọng thần trong nội các - Trần Ngạn Doãn (Thử Sa), Thế tử gia Diệp Hạn (Đổng Tư Thành), và bậc quân tử đoan chính - Trần Huyền Thanh (Tả Diệp). Đối mặt với chuyện hôn nhân, Cố Cẩm Triêu có quan điểm riêng của mình. Khi dần hiểu rõ lòng mình, nàng kiên định lựa chọn Trần Ngạn Doãn - người tôn trọng bản chất thật của nàng và cho nàng được sống là chính mình. Sau khi thành hôn, nàng dần trưởng thành, trở thành người vợ xứng đáng của trọng thần, phụ tá Trần Ngạn Doãn bước lên vị trí Thủ phụ. Họ cùng nhau thực hiện các chính sách vì dân vì nước, xoa dịu nỗi khổ của bá tánh, kiến tạo thời đại thái bình thịnh trị."
-        },
-        {
-            "name": "Gia Nghiệp",
-            "year": 2026,
-            "slug": "gia-nghiep",
-            "thumb": "https://phimimg.com/upload/vod/20260517-1/e597d3c023ece6133782fa92b37e1b30.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260517-1/00e0c93f1e771c99a81489ca57e15c44.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 14",
-            "total_episodes": "42",
-            "country": "Trung Quốc",
-            "description": "Giữa thời Minh, một hộp mực cống nạp khiến ngành mực Huy Châu rơi vào biến động, kéo theo sự suy tàn của gia tộc Lý Mạc. Nhiều năm sau, Lý Trinh quyết tâm khôi phục nghề tổ. Nhờ tài năng và nghị lực, cô nhanh chóng tỏa sáng. Cùng lúc, Lạc Văn Khiêm cũng âm thầm tái thiết gia tộc. Cả hai hợp lực đối đầu với thế lực mới họ Điền, đưa mực Huy Châu trở lại thời hoàng kim. Khi lệnh cấm hàng hải bị dỡ bỏ, họ cùng nhau sáng tạo nên tuyệt phẩm mực, giành danh hiệu &quot;Thiên hạ đệ nhất mực&quot;, và nên duyên vợ chồng, tiếp nối huyền thoại ngành mực Huy Châu."
-        },
-        {
-            "name": "Vũ Lâm Linh",
-            "year": 2026,
-            "slug": "vu-lam-linh",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 21",
-            "total_episodes": "37",
-            "country": "Trung Quốc",
-            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
         },
         {
             "name": "Vũ Điệu Tình Thù",
@@ -2877,30 +2877,6 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Chủ Giác",
-            "year": 2026,
-            "slug": "chu-giac",
-            "thumb": "https://phimimg.com/upload/vod/20260512-1/d0d1e426e13cf5609cc17cea29453405.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260512-1/ce31cf8378a9e681eba0f774f3fec2f4.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 26",
-            "total_episodes": "48",
-            "country": "Trung Quốc",
-            "description": "Bộ phim kể về hành trình trưởng thành của một nữ nghệ sĩ sân khấu Tần khang từ tầng lớp bình dân vươn lên thành nhân vật nổi tiếng. Trên con đường theo đuổi nghệ thuật, cô phải đối mặt với tình yêu, danh vọng và những biến động của thời đại."
-        },
-        {
-            "name": "Gả Vào Nhà Quyền Quý",
-            "year": 2026,
-            "slug": "ga-vao-nha-quyen-quy",
-            "thumb": "https://phimimg.com/upload/vod/20260518-1/724b77523620f8c57913e32b1f01000a.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260518-1/1292c63e44bba61e1f7cb8ab6e130734.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 15",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Thẩm Chi Niệm và đích tỷ Thẩm Nam Kiều cùng trùng sinh. Để tránh thảm họa chốn hậu cung ở kiếp trước, Thẩm Nam Kiều ép Chi Niệm thay mình nhập cung . Thẩm Chi Niệm từng bước thận trọng bày kế, liên tiếp lật ngược thế cờ, nhờ mưu trí khiến hoàng đế Nam Cung Huyền Vũ chú ý. Từ triều đình đến hậu cung đầy rẫy âm mưu xảo quyệt, nàng và Nam Cung Huyền Vũ thăm dò rồi cảm mến nhau, hợp sức cùng phá giải tình thế nguy cấp chốn cung đình!"
-        },
-        {
             "name": "Cuộc Chiến Không Gian (Phần 5)",
             "year": 2026,
             "slug": "cuoc-chien-khong-gian-phan-5",
@@ -2913,52 +2889,52 @@
             "description": "Thế giới sẽ ra sao nếu cuộc chạy đua vào không gian chưa bao giờ kết thúc? Ronald D. Moore thử tìm lời đáp qua câu chuyện giả tưởng ly kỳ về các phi hành gia ngôi sao của NASA và gia đình họ."
         },
         {
-            "name": "Thanh Tra Bí Mật (Kiểm Toán Tình Yêu)",
-            "year": 2026,
-            "slug": "thanh-tra-bi-mat-kiem-toan-tinh-yeu",
-            "thumb": "https://phimimg.com/upload/vod/20260502-1/fca7d44d55b98b8e056eab9b7aaa4a60.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260502-1/a90260ebfcbde208d8eca5f570355773.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Kể về Joo In-ah, một trưởng phòng kiểm toán đầy sức hút với một bí mật, và Noh Ki-joon, át chủ bài của phòng, người đột nhiên bị giáng chức và phải giải quyết các vụ bê bối của công ty."
-        },
-        {
             "name": "Vũ Lâm Linh",
             "year": 2026,
             "slug": "vu-lam-linh",
             "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
             "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 21",
+            "current_episode": "Tập 23",
             "total_episodes": "37",
             "country": "Trung Quốc",
             "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
         },
         {
-            "name": "Bạn Bè & Hàng Xóm (Phần 1)",
-            "year": 2025,
-            "slug": "ban-be-hang-xom-phan-1",
-            "thumb": "https://phimimg.com/upload/vod/20250412-1/b60266c16550d176b38e85648fc9571f.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260410-1/75437b6bc3e11110af393917f7980e17.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (9/9)",
-            "total_episodes": "9",
-            "country": "Âu Mỹ",
-            "description": "Khi một đại gia tài chính đột ngột rơi vào cảnh ly hôn và mất việc, anh ta bắt đầu đi ăn trộm những nhà hàng xóm giàu có để trang trải cuộc sống. Ăn trộm của hội mình chơi cùng đem lại khoái cảm kỳ lạ, nhưng dần dần khiến anh ta sa vào hố sâu chết chóc."
-        },
-        {
-            "name": "Chuyện Tình Silom",
+            "name": "Rực Cháy Giữa Ban Trưa",
             "year": 2026,
-            "slug": "chuyen-tinh-silom",
-            "thumb": "https://phimimg.com/upload/vod/20260428-1/3dc85f5a14c2f7ad5a06c1a837c14dfb.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260428-1/2addc27160eb0c215cf6de244a763823.jpg",
+            "slug": "ruc-chay-giua-ban-trua",
+            "thumb": "https://phimimg.com/upload/vod/20260523-1/0723b34e9ffdae498a9c073892c42d40.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260523-1/3bfd70f192ef3d08e42c0db6726e7a9a.jpg",
             "sub_type": "Vietsub",
             "current_episode": "Tập 6",
+            "total_episodes": "30",
+            "country": "Trung Quốc",
+            "description": "Người anh trai song sinh mạo danh đốc quân, thảm sát cả nhà họ Trang. Trang Vận Thu thoát chết trong gang tấc, giả mạo thiên kim tiểu thư để gả vào phủ đốc quân báo thù. Trong quá trình bày mưu tính kế, cô dần nhận ra điểm bất thường và phát hiện vị đốc quân kia thực chất do người anh sinh đôi đóng giả, còn người em trai thật sự đang âm thầm nhẫn nhịn, bí mật điều tra chứng cứ tội ác. Hai kẻ mang mối thù sâu nặng từ chỗ dò xét lẫn nhau dần nảy sinh tình cảm, rồi cùng liên thủ giăng bẫy, vạch trần tội ác của đám quyền quý, đem lại bình yên cho dân chúng."
+        },
+        {
+            "name": "Kylie",
+            "year": 2026,
+            "slug": "kylie",
+            "thumb": "https://phimimg.com/upload/vod/20260523-1/c507bca8b035b35cd463d1ceb9b73c0f.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260523-1/731ab6bfa96ae3e19fcb72361c84ad62.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (3/3)",
+            "total_episodes": "3",
+            "country": "Âu Mỹ",
+            "description": "Bộ phim mang đến cái nhìn sâu sắc về cuộc đời của Minogue, khi cô lần đầu mở lại kho lưu trữ cá nhân và chiêm nghiệm về một sự nghiệp lẫy lừng với hơn 80 triệu bản thu âm được bán ra, cùng những lần cô tự tái định hình bản thân – và qua đó là cả nền âm nhạc đại chúng. Những thước phim tự quay tại nhà, những bức ảnh cá nhân chưa từng công bố cùng các cuộc phỏng vấn mới nhất sẽ hé mở một bức tranh toàn cảnh về cuộc đời cô. Tại đây, nữ ca sĩ cũng thẳng thắn chia sẻ về cách cô đối diện với sự soi mói của công chúng, những mất mát cá nhân và cả những biến cố bạo bệnh trong đời."
+        },
+        {
+            "name": "Huyền Thoại Lính Bếp (Anh Nuôi - Thăng Cấp Thành Huyền Thoại)",
+            "year": 2026,
+            "slug": "huyen-thoai-linh-bep-anh-nuoi-thang-cap-thanh-huyen-thoai",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/ff75b3cca05dfba9b513fc7e1aad3ee9.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/314a82119610749f0aa109e17d2e3957.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
             "total_episodes": "12",
-            "country": "Thái Lan",
-            "description": "Một viên cảnh sát đang mang trong mình trái tim tan vỡ và phải che giấu một mối tình ngang trái, bất ngờ tìm thấy cơ hội thứ hai trong tình yêu khi anh giải cứu một cậu sinh viên đang gặp rắc rối tại một hộp đêm ở Silom. Giữa ánh đèn mờ ảo và nhịp sống hối hả của khu phố không ngủ, cuộc gặp gỡ định mệnh này đã gắn kết hai tâm hồn đang tổn thương, giúp họ cùng nhau vượt qua những định kiến và rào cản để đi tìm hạnh phúc thực sự."
+            "country": "Hàn Quốc",
+            "description": "Xoay quanh một chàng lính trẻ bình thường được phân vào đội nhà bếp trong quân đội. Ban đầu anh bị xem thường vì không có năng lực chiến đấu nổi bật, nhưng lại sở hữu tài nấu ăn cực kỳ đặc biệt. Nhờ khả năng này, anh dần trở thành “huyền thoại nhà bếp” trong doanh trại."
         },
         {
             "name": "Gia Nghiệp",
@@ -2967,10 +2943,34 @@
             "thumb": "https://phimimg.com/upload/vod/20260517-1/e597d3c023ece6133782fa92b37e1b30.jpg",
             "poster": "https://phimimg.com/upload/vod/20260517-1/00e0c93f1e771c99a81489ca57e15c44.jpg",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 14",
+            "current_episode": "Tập 16",
             "total_episodes": "42",
             "country": "Trung Quốc",
             "description": "Giữa thời Minh, một hộp mực cống nạp khiến ngành mực Huy Châu rơi vào biến động, kéo theo sự suy tàn của gia tộc Lý Mạc. Nhiều năm sau, Lý Trinh quyết tâm khôi phục nghề tổ. Nhờ tài năng và nghị lực, cô nhanh chóng tỏa sáng. Cùng lúc, Lạc Văn Khiêm cũng âm thầm tái thiết gia tộc. Cả hai hợp lực đối đầu với thế lực mới họ Điền, đưa mực Huy Châu trở lại thời hoàng kim. Khi lệnh cấm hàng hải bị dỡ bỏ, họ cùng nhau sáng tạo nên tuyệt phẩm mực, giành danh hiệu &quot;Thiên hạ đệ nhất mực&quot;, và nên duyên vợ chồng, tiếp nối huyền thoại ngành mực Huy Châu."
+        },
+        {
+            "name": "Hôm Nay Lại Bán Hết",
+            "year": 2026,
+            "slug": "hom-nay-lai-ban-het",
+            "thumb": "https://phimimg.com/upload/vod/20260423-1/59594f0abd8f6235405c87ee435a827d.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260423-1/31d7521253c2c0ef3bd8f4c557c05127.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 10",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Một nữ MC bán hàng qua truyền hình cuồng công việc về vùng quê để vực dậy chương trình của mình, nhưng một chàng nông dân bí ẩn khiến mọi kế hoạch – và cả trái tim cô – chao đảo."
+        },
+        {
+            "name": "Người Yêu Miền Quê",
+            "year": 2026,
+            "slug": "nguoi-yeu-mien-que",
+            "thumb": "https://phimimg.com/upload/vod/20260407-1/1dcc5617ab314f874e49844c210e96f6.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260407-1/dad52d55fc16488e0a5b223aab03fe71.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (8/8)",
+            "total_episodes": "8",
+            "country": "Thái Lan",
+            "description": "Si, một tiểu thư thừa kế của giới thượng lưu, luôn khao khát vị trí chủ tịch tập đoàn gia đình. Tuy nhiên, bố mẹ cô lại trao quyền điều hành cho người em gái, vì cho rằng Si quá nuông chiều bản thân, thiếu trách nhiệm và chỉ biết tiêu xài hoang phí. Khi công việc kinh doanh của gia đình rơi vào khủng hoảng do hợp đồng thuê đất quan trọng không được gia hạn, mọi nỗ lực thương lượng đều thất bại — cho đến khi Klaokavee, chủ sở hữu khu đất, đưa ra một đề nghị kỳ lạ: Cô sẽ gia hạn hợp đồng chỉ khi Si đồng ý kết hôn với mình. Bất chấp lối sống hoàn toàn trái ngược, cuộc hôn nhân sắp đặt này đã đưa cả hai vào một mối quan hệ đầy phức tạp và bất ngờ."
         },
         {
             "name": "Cuộc Chiến Sinh Tử II",
@@ -2997,6 +2997,42 @@
             "description": "Con gái nhỏ của một nhà báo biến mất không dấu vết giữa sa mạc. Tám năm sau, gia đình tan vỡ của họ bàng hoàng khi cô bé bất ngờ được đưa trở về — nhưng cuộc đoàn tụ tưởng chừng hạnh phúc nhanh chóng biến thành một cơn ác mộng sống."
         },
         {
+            "name": "Đại Đường Mê Vụ",
+            "year": 2026,
+            "slug": "dai-duong-me-vu",
+            "thumb": "https://phimimg.com/upload/vod/20260523-1/9107386291a420ee08f8eb542f07e4bf.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260523-1/9c3cb3ed23c307846bb50a71bf78acf5.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "25",
+            "country": "Trung Quốc",
+            "description": "Nước Đại Đường thời Thùy Củng, Địch Nhân Kiệt bất mãn khi thấy Võ Hậu hy sinh người vô tội để thực hiện dã tâm, nên đã cùng đoàn người rời Thần Đô, đi tuần tra Giang Nam Đạo. Ông không ngờ bên dưới vẻ bề ngoài thịnh thế phồn vinh lại là cảnh tượng yêu ma quỷ quái hoành hành. Những đấu đá quyền lực, lòng tham lợi ích và nỗi ám ảnh cố chấp… đã kéo Địch Nhân Kiệt vào từng thiên la địa võng được sắp đặt tinh vi. Đối diện với kỳ án, bị sương mù che mắt, vị thần thám Đại Đường dùng trí tuệ phi phàm dò xét từng manh mối nhỏ, dùng năng lực siêu việt để thấu tỏ lòng người."
+        },
+        {
+            "name": "Thanh Tra Bí Mật (Kiểm Toán Tình Yêu)",
+            "year": 2026,
+            "slug": "thanh-tra-bi-mat-kiem-toan-tinh-yeu",
+            "thumb": "https://phimimg.com/upload/vod/20260502-1/fca7d44d55b98b8e056eab9b7aaa4a60.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260502-1/a90260ebfcbde208d8eca5f570355773.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Kể về Joo In-ah, một trưởng phòng kiểm toán đầy sức hút với một bí mật, và Noh Ki-joon, át chủ bài của phòng, người đột nhiên bị giáng chức và phải giải quyết các vụ bê bối của công ty."
+        },
+        {
+            "name": "Chuyện Tình Silom",
+            "year": 2026,
+            "slug": "chuyen-tinh-silom",
+            "thumb": "https://phimimg.com/upload/vod/20260428-1/3dc85f5a14c2f7ad5a06c1a837c14dfb.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260428-1/2addc27160eb0c215cf6de244a763823.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "12",
+            "country": "Thái Lan",
+            "description": "Một viên cảnh sát đang mang trong mình trái tim tan vỡ và phải che giấu một mối tình ngang trái, bất ngờ tìm thấy cơ hội thứ hai trong tình yêu khi anh giải cứu một cậu sinh viên đang gặp rắc rối tại một hộp đêm ở Silom. Giữa ánh đèn mờ ảo và nhịp sống hối hả của khu phố không ngủ, cuộc gặp gỡ định mệnh này đã gắn kết hai tâm hồn đang tổn thương, giúp họ cùng nhau vượt qua những định kiến và rào cản để đi tìm hạnh phúc thực sự."
+        },
+        {
             "name": "Bạn Bè & Hàng Xóm (Phần 2)",
             "year": 2026,
             "slug": "ban-be-hang-xom-phan-2",
@@ -3007,42 +3043,6 @@
             "total_episodes": "10",
             "country": "Âu Mỹ",
             "description": "Khi một đại gia tài chính đột ngột rơi vào cảnh ly hôn và mất việc, anh ta bắt đầu đi ăn trộm những nhà hàng xóm giàu có để trang trải cuộc sống. Ăn trộm của hội mình chơi cùng đem lại khoái cảm kỳ lạ, nhưng dần dần khiến anh ta sa vào hố sâu chết chóc."
-        },
-        {
-            "name": "Người Yêu Miền Quê",
-            "year": 2026,
-            "slug": "nguoi-yeu-mien-que",
-            "thumb": "https://phimimg.com/upload/vod/20260407-1/1dcc5617ab314f874e49844c210e96f6.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260407-1/dad52d55fc16488e0a5b223aab03fe71.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
-            "country": "Thái Lan",
-            "description": "Si, một tiểu thư thừa kế của giới thượng lưu, luôn khao khát vị trí chủ tịch tập đoàn gia đình. Tuy nhiên, bố mẹ cô lại trao quyền điều hành cho người em gái, vì cho rằng Si quá nuông chiều bản thân, thiếu trách nhiệm và chỉ biết tiêu xài hoang phí. Khi công việc kinh doanh của gia đình rơi vào khủng hoảng do hợp đồng thuê đất quan trọng không được gia hạn, mọi nỗ lực thương lượng đều thất bại — cho đến khi Klaokavee, chủ sở hữu khu đất, đưa ra một đề nghị kỳ lạ: Cô sẽ gia hạn hợp đồng chỉ khi Si đồng ý kết hôn với mình. Bất chấp lối sống hoàn toàn trái ngược, cuộc hôn nhân sắp đặt này đã đưa cả hai vào một mối quan hệ đầy phức tạp và bất ngờ."
-        },
-        {
-            "name": "Hôm Nay Lại Bán Hết",
-            "year": 2026,
-            "slug": "hom-nay-lai-ban-het",
-            "thumb": "https://phimimg.com/upload/vod/20260423-1/59594f0abd8f6235405c87ee435a827d.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260423-1/31d7521253c2c0ef3bd8f4c557c05127.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 10",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Một nữ MC bán hàng qua truyền hình cuồng công việc về vùng quê để vực dậy chương trình của mình, nhưng một chàng nông dân bí ẩn khiến mọi kế hoạch – và cả trái tim cô – chao đảo."
-        },
-        {
-            "name": "Huyền Thoại Lính Bếp (Anh Nuôi - Thăng Cấp Thành Huyền Thoại)",
-            "year": 2026,
-            "slug": "huyen-thoai-linh-bep-anh-nuoi-thang-cap-thanh-huyen-thoai",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/ff75b3cca05dfba9b513fc7e1aad3ee9.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/314a82119610749f0aa109e17d2e3957.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Xoay quanh một chàng lính trẻ bình thường được phân vào đội nhà bếp trong quân đội. Ban đầu anh bị xem thường vì không có năng lực chiến đấu nổi bật, nhưng lại sở hữu tài nấu ăn cực kỳ đặc biệt. Nhờ khả năng này, anh dần trở thành “huyền thoại nhà bếp” trong doanh trại."
         },
         {
             "name": "Cá Con Cau Có",
