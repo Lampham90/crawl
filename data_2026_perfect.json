@@ -2901,112 +2901,16 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Phương Hoa Lý",
-            "year": 2026,
-            "slug": "phuong-hoa-ly",
-            "thumb": "https://phimimg.com/upload/vod/20260319-1/18fae768f0cd07c5822074254a8791e1.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260319-1/e8899775153fb79a9974b00329c12705.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (24/24)",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Bị người thân phản bội, Lục Tâm Niệm từ một thiên kim tiểu thư yếu đuối đã trỗi dậy mạnh mẽ, nghịch chuyển số phận để trở thành một nữ chiến thần. Giữa những yêu hận tình thù và quyền mưu với người mình yêu, cô đã tự tay xé bỏ những định kiến áp đặt lên bản thân. Cùng với &quot;Tỷ muội đoàn Phương Hoa&quot;, cô dấn thân vào một cuộc hành trình đầy nhiệt huyết, viết nên một huyền thoại cổ phong rực rỡ!"
-        },
-        {
-            "name": "Lưỡng Tâm Bất Nghi",
-            "year": 2026,
-            "slug": "luong-tam-bat-nghi",
-            "thumb": "https://phimimg.com/upload/vod/20260509-1/6d9a6a62ba90a8bce713634cb748e54e.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260509-1/c76078fd5407de645dd41285a36e0336.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (24/24)",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Vị hoàng đế vốn chỉ trọng văn chương, không chút võ nghệ và vị hoàng hậu xuất thân võ tướng, thích múa đao bắn cung vốn dĩ luôn chán ghét và thiếu tin tưởng lẫn nhau. Sau một tai nạn bất ngờ, hai người bị hoán đổi linh hồn và buộc phải chấp nhận thực tại oái oăm này. Trong quá trình đóng giả thân phận của đối phương, họ dần tháo gỡ được những hiểu lầm và học cách yêu thương, tin tưởng nhau hơn.&nbsp; Khi ở trong thân xác của hoàng hậu, hoàng đế tận mắt chứng kiến cảnh phi tần cung nữ và ngay cả Thái hậu cũng lạnh lùng mỉa mai, bày kế hãm hại vị hoàng hậu vốn không được sủng ái, từ đó mới thấu hiểu nàng đã phải sống khổ cực thế nào. Ngược lại, hoàng hậu trong thân xác hoàng đế cũng cuối cùng đã hiểu được lý do vì sao bấy lâu nay hoàng đế luôn giữ lòng nghi kỵ đối với gia tộc của mình."
-        },
-        {
-            "name": "Thanh Tra Bí Mật (Kiểm Toán Tình Yêu)",
-            "year": 2026,
-            "slug": "thanh-tra-bi-mat-kiem-toan-tinh-yeu",
-            "thumb": "https://phimimg.com/upload/vod/20260502-1/fca7d44d55b98b8e056eab9b7aaa4a60.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260502-1/a90260ebfcbde208d8eca5f570355773.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (12/12)",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Kể về Joo In-ah, một trưởng phòng kiểm toán đầy sức hút với một bí mật, và Noh Ki-joon, át chủ bài của phòng, người đột nhiên bị giáng chức và phải giải quyết các vụ bê bối của công ty."
-        },
-        {
-            "name": "Một bộ phim của Lee Cronin: Xác ướp",
-            "year": 2026,
-            "slug": "mot-bo-phim-cua-lee-cronin-xac-uop",
-            "thumb": "https://phimimg.com/upload/vod/20260518-1/0038dbccf56b4dbd0440a77635a24242.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260518-1/d61dfd33287e3e437ad74dde5ca7e892.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Con gái nhỏ của một nhà báo biến mất không dấu vết giữa sa mạc. Tám năm sau, gia đình tan vỡ của họ bàng hoàng khi cô bé bất ngờ được đưa trở về — nhưng cuộc đoàn tụ tưởng chừng hạnh phúc nhanh chóng biến thành một cơn ác mộng sống."
-        },
-        {
-            "name": "Tafiti và Hành Trình Xuyên Sa Mạc",
+            "name": "Cảnh Sát Trưởng Vùng Quê (Phần 1)",
             "year": 2025,
-            "slug": "tafiti-va-hanh-trinh-xuyen-sa-mac",
-            "thumb": "https://phimimg.com/upload/vod/20260602-1/4d8a686c5cb3447380a59ac1ff08a491.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260602-1/3f29646b49565bf4bca191fd881abd50.jpg",
+            "slug": "canh-sat-truong-vung-que-phan-1",
+            "thumb": "https://phimimg.com/upload/vod/20260319-1/64be320de9027109e11a2daddc51ea39.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260319-1/1fb2ddb865f0b53929b7947539ca321d.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Đức",
-            "description": "Tafiti, một chú cầy meerkat trẻ, ban đầu từ chối tình bạn với Bristles, chú lợn rừng bụi rậm. Nhưng khi ông nội của Tafiti bị rắn cắn, cậu phải dấn thân vào hành trình tìm loài hoa có thể chữa trị. Bristles quyết tâm đồng hành để chứng minh rằng mọi cuộc phiêu lưu đều tuyệt vời hơn khi có bạn bè."
-        },
-        {
-            "name": "Vùng Đất Vàng",
-            "year": 2026,
-            "slug": "vung-dat-vang",
-            "thumb": "https://phimimg.com/upload/vod/20260502-1/0861846dff67867e6eff1780de5c482c.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260502-1/a2dd161f4f874f1c9c7079e91ad2237d.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (10/10)",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Sau khi tình cờ phát hiện ra một kho vàng khổng lồ, Heejoo phải đối mặt với lòng tham, sự phản bội và cuộc chiến sinh tồn."
-        },
-        {
-            "name": "Tình Yêu Phản Bội",
-            "year": 2026,
-            "slug": "tinh-yeu-phan-boi",
-            "thumb": "https://phimimg.com/upload/vod/20260403-1/93687521ef7c8ec3e2ef8800f90da089.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260403-1/b21288eb60ac6655368a9186cc5cfe60.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 18",
-            "total_episodes": "19",
-            "country": "Thái Lan",
-            "description": "Sau lần đổ vỡ trong tình yêu, một cô dâu mới cưới sẵn sàng bắt đầu lại. Nhưng khi phát hiện chồng mình lại là bạn với mối tình đầu, cô quyết định giữ kín quá khứ của họ."
-        },
-        {
-            "name": "Kiều Sở",
-            "year": 2026,
-            "slug": "kieu-so",
-            "thumb": "https://phimimg.com/upload/vod/20260602-1/a8cc94cc8b24db6f9471b0521c13e151.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260602-1/b87ac3cb735ca1bbeb9ef74670272e0e.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 4",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Sở Triêu, con gái đại tướng quân, vì muốn thay đổi số phận bi thảm là quân cờ cho Tiêu Tuần đoạt quyền đã quyết định chủ động tấn công. Với sự hỗ trợ của Tạ Yến Lai, nàng vượt bao hiểm nguy, hộ tống hoàng trưởng tôn vào cung, đấu trí trước điện, phò tá hoàng trưởng tôn kế vị, chặt đứt con đường xưng đế của Tiêu Tuần. Tân đế lên ngôi khi Đại Sở thù trong giặc ngoài, Sở Triêu cùng Tạ Yến Lai vừa khéo léo đối nội vừa cầm quân dẹp loạn, thay đổi vận mệnh của mình, mang lại thái bình cho bá tánh."
-        },
-        {
-            "name": "Nhà Nghỉ B&B Tuyệt Vời Của Jae Seok",
-            "year": 2026,
-            "slug": "nha-nghi-bb-tuyet-voi-cua-jae-seok",
-            "thumb": "https://phimimg.com/upload/vod/20260527-1/b332f42f2ec395008c6149b642061053.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260527-1/b669930cf44a37422d4b4491581c0547.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (10/10)",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Khách hàng là thượng đế — nhưng chủ nhà cũng quyền lực không kém! Yu Jae-seok chính thức khai trương homestay (B&amp;B) đầu tiên của riêng mình, nơi anh vận hành mọi thứ theo phong cách cá nhân độc nhất và &quot;chiêu đãi&quot; các vị khách bằng những trò chơi mang thương hiệu đặc trưng của mình."
+            "current_episode": "Hoàn Tất (20/20)",
+            "total_episodes": "20",
+            "country": "Âu Mỹ",
+            "description": "Mickey Fox điều tra các hoạt động tội phạm và tuần tra trên những con phố của thị trấn nhỏ Edgewater, đồng thời phải đối mặt với người cha từng ngồi tù và một sự cố bí ẩn liên quan đến cô con gái ngỗ ngược của mình."
         },
         {
             "name": "Thị Trấn Ác Mộng (Hồi Chuông Lạ) (Phần 4)",
@@ -3021,16 +2925,28 @@
             "description": "Làm sáng tỏ bí ẩn về một thành phố ở Trung Mỹ giam giữ tất cả những ai bước vào. Khi các cư dân đấu tranh để trở &nbsp;lại bình thường và tìm kiếm một lối thoát, họ cũng phải sống sót trước các mối đe dọa của khu rừng xung quanh."
         },
         {
-            "name": "Ba Trợn",
+            "name": "Thanh Tra Bí Mật (Kiểm Toán Tình Yêu)",
             "year": 2026,
-            "slug": "ba-tron",
-            "thumb": "https://phimimg.com/upload/vod/20260602-1/5b5dc9f7a42a9bd16f53d5ece1f57ed5.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260602-1/2d13c664d8c29d1521097ffc258ab6f4.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Một nhà văn chuyên viết tiểu thuyết kinh dị đến một quán trọ hẻo lánh ở Ireland để rải tro cốt của cha mẹ mình. Không hay biết rằng nơi đây bị đồn đại là bị ám bởi một mụ phù thủy, anh dần nhận ra chuyến đi tưởng như riêng tư và yên lặng này đang kéo anh vào một nỗi kinh hoàng cổ xưa."
+            "slug": "thanh-tra-bi-mat-kiem-toan-tinh-yeu",
+            "thumb": "https://phimimg.com/upload/vod/20260502-1/fca7d44d55b98b8e056eab9b7aaa4a60.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260502-1/a90260ebfcbde208d8eca5f570355773.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (12/12)",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Kể về Joo In-ah, một trưởng phòng kiểm toán đầy sức hút với một bí mật, và Noh Ki-joon, át chủ bài của phòng, người đột nhiên bị giáng chức và phải giải quyết các vụ bê bối của công ty."
+        },
+        {
+            "name": "Kiều Sở",
+            "year": 2026,
+            "slug": "kieu-so",
+            "thumb": "https://phimimg.com/upload/vod/20260602-1/a8cc94cc8b24db6f9471b0521c13e151.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260602-1/b87ac3cb735ca1bbeb9ef74670272e0e.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 4",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Sở Triêu, con gái đại tướng quân, vì muốn thay đổi số phận bi thảm là quân cờ cho Tiêu Tuần đoạt quyền đã quyết định chủ động tấn công. Với sự hỗ trợ của Tạ Yến Lai, nàng vượt bao hiểm nguy, hộ tống hoàng trưởng tôn vào cung, đấu trí trước điện, phò tá hoàng trưởng tôn kế vị, chặt đứt con đường xưng đế của Tiêu Tuần. Tân đế lên ngôi khi Đại Sở thù trong giặc ngoài, Sở Triêu cùng Tạ Yến Lai vừa khéo léo đối nội vừa cầm quân dẹp loạn, thay đổi vận mệnh của mình, mang lại thái bình cho bá tánh."
         },
         {
             "name": "Vũ Lâm Linh",
@@ -3045,16 +2961,28 @@
             "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
         },
         {
-            "name": "Cảnh Sát Trưởng Vùng Quê (Phần 1)",
-            "year": 2025,
-            "slug": "canh-sat-truong-vung-que-phan-1",
-            "thumb": "https://phimimg.com/upload/vod/20260319-1/64be320de9027109e11a2daddc51ea39.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260319-1/1fb2ddb865f0b53929b7947539ca321d.jpg",
+            "name": "Tình Yêu Phản Bội",
+            "year": 2026,
+            "slug": "tinh-yeu-phan-boi",
+            "thumb": "https://phimimg.com/upload/vod/20260403-1/93687521ef7c8ec3e2ef8800f90da089.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260403-1/b21288eb60ac6655368a9186cc5cfe60.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (20/20)",
-            "total_episodes": "20",
+            "current_episode": "Tập 18",
+            "total_episodes": "19",
+            "country": "Thái Lan",
+            "description": "Sau lần đổ vỡ trong tình yêu, một cô dâu mới cưới sẵn sàng bắt đầu lại. Nhưng khi phát hiện chồng mình lại là bạn với mối tình đầu, cô quyết định giữ kín quá khứ của họ."
+        },
+        {
+            "name": "Ba Trợn",
+            "year": 2026,
+            "slug": "ba-tron",
+            "thumb": "https://phimimg.com/upload/vod/20260602-1/5b5dc9f7a42a9bd16f53d5ece1f57ed5.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260602-1/2d13c664d8c29d1521097ffc258ab6f4.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
             "country": "Âu Mỹ",
-            "description": "Mickey Fox điều tra các hoạt động tội phạm và tuần tra trên những con phố của thị trấn nhỏ Edgewater, đồng thời phải đối mặt với người cha từng ngồi tù và một sự cố bí ẩn liên quan đến cô con gái ngỗ ngược của mình."
+            "description": "Một nhà văn chuyên viết tiểu thuyết kinh dị đến một quán trọ hẻo lánh ở Ireland để rải tro cốt của cha mẹ mình. Không hay biết rằng nơi đây bị đồn đại là bị ám bởi một mụ phù thủy, anh dần nhận ra chuyến đi tưởng như riêng tư và yên lặng này đang kéo anh vào một nỗi kinh hoàng cổ xưa."
         },
         {
             "name": "Gián Điệp Toàn Cầu (Phần 2)",
@@ -3079,6 +3007,78 @@
             "total_episodes": "24",
             "country": "Thái Lan",
             "description": "Sau khi người cha nuôi bị sát hại bởi tổ chức bí mật Phượng Hoàng Lửa, Taiga lên đường sang Thái Lan để tìm kiếm sự thật. Bằng cách thâm nhập vào một tập đoàn quyền lực có mối liên hệ mật thiết với thế giới ngầm tội phạm, anh ráo riết truy lùng tung tích của kẻ bí ẩn mang danh &quot;Ác Quỷ&quot;. Tại đây, Taiga liên tục đụng độ với Rin – một vệ sĩ luôn sống khép kín, người cũng mang trong mình mối thù sâu sắc liên quan đến cùng một âm mưu đen tối."
+        },
+        {
+            "name": "Một bộ phim của Lee Cronin: Xác ướp",
+            "year": 2026,
+            "slug": "mot-bo-phim-cua-lee-cronin-xac-uop",
+            "thumb": "https://phimimg.com/upload/vod/20260518-1/0038dbccf56b4dbd0440a77635a24242.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260518-1/d61dfd33287e3e437ad74dde5ca7e892.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Con gái nhỏ của một nhà báo biến mất không dấu vết giữa sa mạc. Tám năm sau, gia đình tan vỡ của họ bàng hoàng khi cô bé bất ngờ được đưa trở về — nhưng cuộc đoàn tụ tưởng chừng hạnh phúc nhanh chóng biến thành một cơn ác mộng sống."
+        },
+        {
+            "name": "Phương Hoa Lý",
+            "year": 2026,
+            "slug": "phuong-hoa-ly",
+            "thumb": "https://phimimg.com/upload/vod/20260319-1/18fae768f0cd07c5822074254a8791e1.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260319-1/e8899775153fb79a9974b00329c12705.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (24/24)",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Bị người thân phản bội, Lục Tâm Niệm từ một thiên kim tiểu thư yếu đuối đã trỗi dậy mạnh mẽ, nghịch chuyển số phận để trở thành một nữ chiến thần. Giữa những yêu hận tình thù và quyền mưu với người mình yêu, cô đã tự tay xé bỏ những định kiến áp đặt lên bản thân. Cùng với &quot;Tỷ muội đoàn Phương Hoa&quot;, cô dấn thân vào một cuộc hành trình đầy nhiệt huyết, viết nên một huyền thoại cổ phong rực rỡ!"
+        },
+        {
+            "name": "Nhà Nghỉ B&B Tuyệt Vời Của Jae Seok",
+            "year": 2026,
+            "slug": "nha-nghi-bb-tuyet-voi-cua-jae-seok",
+            "thumb": "https://phimimg.com/upload/vod/20260527-1/b332f42f2ec395008c6149b642061053.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260527-1/b669930cf44a37422d4b4491581c0547.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (10/10)",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Khách hàng là thượng đế — nhưng chủ nhà cũng quyền lực không kém! Yu Jae-seok chính thức khai trương homestay (B&amp;B) đầu tiên của riêng mình, nơi anh vận hành mọi thứ theo phong cách cá nhân độc nhất và &quot;chiêu đãi&quot; các vị khách bằng những trò chơi mang thương hiệu đặc trưng của mình."
+        },
+        {
+            "name": "Lưỡng Tâm Bất Nghi",
+            "year": 2026,
+            "slug": "luong-tam-bat-nghi",
+            "thumb": "https://phimimg.com/upload/vod/20260509-1/6d9a6a62ba90a8bce713634cb748e54e.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260509-1/c76078fd5407de645dd41285a36e0336.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (24/24)",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Vị hoàng đế vốn chỉ trọng văn chương, không chút võ nghệ và vị hoàng hậu xuất thân võ tướng, thích múa đao bắn cung vốn dĩ luôn chán ghét và thiếu tin tưởng lẫn nhau. Sau một tai nạn bất ngờ, hai người bị hoán đổi linh hồn và buộc phải chấp nhận thực tại oái oăm này. Trong quá trình đóng giả thân phận của đối phương, họ dần tháo gỡ được những hiểu lầm và học cách yêu thương, tin tưởng nhau hơn.&nbsp; Khi ở trong thân xác của hoàng hậu, hoàng đế tận mắt chứng kiến cảnh phi tần cung nữ và ngay cả Thái hậu cũng lạnh lùng mỉa mai, bày kế hãm hại vị hoàng hậu vốn không được sủng ái, từ đó mới thấu hiểu nàng đã phải sống khổ cực thế nào. Ngược lại, hoàng hậu trong thân xác hoàng đế cũng cuối cùng đã hiểu được lý do vì sao bấy lâu nay hoàng đế luôn giữ lòng nghi kỵ đối với gia tộc của mình."
+        },
+        {
+            "name": "Tafiti và Hành Trình Xuyên Sa Mạc",
+            "year": 2025,
+            "slug": "tafiti-va-hanh-trinh-xuyen-sa-mac",
+            "thumb": "https://phimimg.com/upload/vod/20260602-1/4d8a686c5cb3447380a59ac1ff08a491.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260602-1/3f29646b49565bf4bca191fd881abd50.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Đức",
+            "description": "Tafiti, một chú cầy meerkat trẻ, ban đầu từ chối tình bạn với Bristles, chú lợn rừng bụi rậm. Nhưng khi ông nội của Tafiti bị rắn cắn, cậu phải dấn thân vào hành trình tìm loài hoa có thể chữa trị. Bristles quyết tâm đồng hành để chứng minh rằng mọi cuộc phiêu lưu đều tuyệt vời hơn khi có bạn bè."
+        },
+        {
+            "name": "Vùng Đất Vàng",
+            "year": 2026,
+            "slug": "vung-dat-vang",
+            "thumb": "https://phimimg.com/upload/vod/20260502-1/0861846dff67867e6eff1780de5c482c.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260502-1/a2dd161f4f874f1c9c7079e91ad2237d.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (10/10)",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Sau khi tình cờ phát hiện ra một kho vàng khổng lồ, Heejoo phải đối mặt với lòng tham, sự phản bội và cuộc chiến sinh tồn."
         }
     ]
 }
