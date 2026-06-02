@@ -1275,6 +1275,30 @@
     ],
     "bo_han": [
         {
+            "name": "Thanh Tra Bí Mật (Kiểm Toán Tình Yêu)",
+            "year": 2026,
+            "slug": "thanh-tra-bi-mat-kiem-toan-tinh-yeu",
+            "thumb": "https://phimimg.com/upload/vod/20260502-1/fca7d44d55b98b8e056eab9b7aaa4a60.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260502-1/a90260ebfcbde208d8eca5f570355773.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 10",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Kể về Joo In-ah, một trưởng phòng kiểm toán đầy sức hút với một bí mật, và Noh Ki-joon, át chủ bài của phòng, người đột nhiên bị giáng chức và phải giải quyết các vụ bê bối của công ty."
+        },
+        {
+            "name": "Giá Trị Tuyệt Đối Của Lãng Mạn",
+            "year": 2026,
+            "slug": "gia-tri-tuyet-doi-cua-lang-man",
+            "thumb": "https://phimimg.com/upload/vod/20260509-1/40a5a9f7445ae1ebee273a8aa54c73a2.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260509-1/584e66818e68f5429f85d0df2257a8ad.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (16/16)",
+            "total_episodes": "16",
+            "country": "Hàn Quốc",
+            "description": "Eui-ju, một nữ sinh trầm lặng ban ngày, là một tiểu thuyết gia viết tiểu thuyết tình cảm ban đêm, được truyền cảm hứng khi bốn giáo viên điển trai xuất hiện: Woo-su lạnh lùng, Da-ju sôi nổi, Gi-jeon cộc cằn và Dong-ju dịu dàng. Cô đưa họ vào cuốn tiểu thuyết mới của mình, và nó nổi tiếng chỉ sau một đêm! Nhưng bí mật của cô bị Woo-su, kẻ thù không đội trời chung từ trước đến giờ, phát hiện. Cô chấp nhận lời đề nghị của anh ta để bảo vệ bí mật của mình, nhưng liệu cô có thể hoàn thành cuốn tiểu thuyết này mà không bị tổn hại gì không?"
+        },
+        {
             "name": "Chủ Tịch Tập Sự",
             "year": 2026,
             "slug": "chu-tich-tap-su",
@@ -1309,18 +1333,6 @@
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Chạm đáy sau 20 năm theo đuổi bộ phim đầu tay, một đạo diễn đầy khát vọng gặp một nhà sản xuất kiệt sức – và rồi cô giúp anh tìm lại giá trị bản thân."
-        },
-        {
-            "name": "Thanh Tra Bí Mật (Kiểm Toán Tình Yêu)",
-            "year": 2026,
-            "slug": "thanh-tra-bi-mat-kiem-toan-tinh-yeu",
-            "thumb": "https://phimimg.com/upload/vod/20260502-1/fca7d44d55b98b8e056eab9b7aaa4a60.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260502-1/a90260ebfcbde208d8eca5f570355773.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 10",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Kể về Joo In-ah, một trưởng phòng kiểm toán đầy sức hút với một bí mật, và Noh Ki-joon, át chủ bài của phòng, người đột nhiên bị giáng chức và phải giải quyết các vụ bê bối của công ty."
         },
         {
             "name": "Hôm Nay Lại Bán Hết",
@@ -1441,18 +1453,6 @@
             "total_episodes": "8",
             "country": "Hàn Quốc",
             "description": "Xoay quanh câu chuyện của Yumi, một nhân viên văn phòng bình thường nhưng sống theo quan điểm của nhiều tế bào não trong đầu cô ấy điều khiển mọi suy nghĩ, cảm xúc và hành động của cô ấy. Vì cú sốc sau mối tình không thành, Yumi đã không còn tin vào câu chuyện tình yêu. Tuy nhiên, tế bào bị ngủ quên của Yumi sẽ được Goo Woong đánh thức. Liệu rồi Yumi có chịu thay đổi, có được hạnh phúc?"
-        },
-        {
-            "name": "Bạn Tri Kỷ",
-            "year": 2026,
-            "slug": "ban-tri-ky",
-            "thumb": "https://phimimg.com/upload/vod/20260514-1/b43691c877615d77054040c8f53ff554.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260514-1/0261c80d8e3439ed1cafd45f1438fdef.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
-            "country": "Hàn Quốc",
-            "description": "Isomura Hayato vào vai Ryu – một sinh viên Nhật Bản mang tổn thương nội tâm – tìm lại ý nghĩa của cuộc sống và tình yêu sau khi gặp một võ sĩ người Hàn mệt mỏi với cuộc đời."
         }
     ],
     "le_trung": [
@@ -1639,6 +1639,18 @@
     ],
     "bo_trung": [
         {
+            "name": "Kiều Sở",
+            "year": 2026,
+            "slug": "kieu-so",
+            "thumb": "https://phimimg.com/upload/vod/20260602-1/a8cc94cc8b24db6f9471b0521c13e151.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260602-1/b87ac3cb735ca1bbeb9ef74670272e0e.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 4",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Sở Triêu, con gái đại tướng quân, vì muốn thay đổi số phận bi thảm là quân cờ cho Tiêu Tuần đoạt quyền đã quyết định chủ động tấn công. Với sự hỗ trợ của Tạ Yến Lai, nàng vượt bao hiểm nguy, hộ tống hoàng trưởng tôn vào cung, đấu trí trước điện, phò tá hoàng trưởng tôn kế vị, chặt đứt con đường xưng đế của Tiêu Tuần. Tân đế lên ngôi khi Đại Sở thù trong giặc ngoài, Sở Triêu cùng Tạ Yến Lai vừa khéo léo đối nội vừa cầm quân dẹp loạn, thay đổi vận mệnh của mình, mang lại thái bình cho bá tánh."
+        },
+        {
             "name": "Phương Hoa Lý",
             "year": 2026,
             "slug": "phuong-hoa-ly",
@@ -1805,18 +1817,6 @@
             "total_episodes": "48",
             "country": "Trung Quốc",
             "description": "Bộ phim kể về hành trình trưởng thành của một nữ nghệ sĩ sân khấu Tần khang từ tầng lớp bình dân vươn lên thành nhân vật nổi tiếng. Trên con đường theo đuổi nghệ thuật, cô phải đối mặt với tình yêu, danh vọng và những biến động của thời đại."
-        },
-        {
-            "name": "Cưới Rồi Mới Rung Động (Cưới Rồi Mới Động Lòng)",
-            "year": 2026,
-            "slug": "cuoi-roi-moi-rung-dong-cuoi-roi-moi-dong-long",
-            "thumb": "https://phimimg.com/upload/vod/20260527-1/565e12b2001c8ead7d2f0b69b4300c8d.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260527-1/761e80c08920840f519b8e6e441a1f8c.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 14",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Vì muốn kéo dài thời gian tốt nghiệp, tiến sĩ y học Hứa Nam Ca đã thỏa thuận kết hôn cùng ông trùm kinh doanh Hoắc Bắc Yến, anh ta muốn nhân cơ hội này củng cố quyền lực gia tộc, hai người đều đạt được mục đích của mình. Trước mặt người ngoài, họ đóng vai cặp vợ chồng yêu thương thắm thiết, nhưng sau lưng, mỗi người lại có bí mật riêng, cô âm thầm điều tra công ty anh, còn anh treo thưởng để truy tìm thân phận thật của cô. Một cuộc hôn nhân bắt đầu từ toan tính, liệu có thể hóa giả thành thật không?"
         }
     ],
     "le_au_my": [
@@ -2707,6 +2707,30 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Thanh Tra Bí Mật (Kiểm Toán Tình Yêu)",
+            "year": 2026,
+            "slug": "thanh-tra-bi-mat-kiem-toan-tinh-yeu",
+            "thumb": "https://phimimg.com/upload/vod/20260502-1/fca7d44d55b98b8e056eab9b7aaa4a60.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260502-1/a90260ebfcbde208d8eca5f570355773.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 10",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Kể về Joo In-ah, một trưởng phòng kiểm toán đầy sức hút với một bí mật, và Noh Ki-joon, át chủ bài của phòng, người đột nhiên bị giáng chức và phải giải quyết các vụ bê bối của công ty."
+        },
+        {
+            "name": "Kiều Sở",
+            "year": 2026,
+            "slug": "kieu-so",
+            "thumb": "https://phimimg.com/upload/vod/20260602-1/a8cc94cc8b24db6f9471b0521c13e151.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260602-1/b87ac3cb735ca1bbeb9ef74670272e0e.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 4",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Sở Triêu, con gái đại tướng quân, vì muốn thay đổi số phận bi thảm là quân cờ cho Tiêu Tuần đoạt quyền đã quyết định chủ động tấn công. Với sự hỗ trợ của Tạ Yến Lai, nàng vượt bao hiểm nguy, hộ tống hoàng trưởng tôn vào cung, đấu trí trước điện, phò tá hoàng trưởng tôn kế vị, chặt đứt con đường xưng đế của Tiêu Tuần. Tân đế lên ngôi khi Đại Sở thù trong giặc ngoài, Sở Triêu cùng Tạ Yến Lai vừa khéo léo đối nội vừa cầm quân dẹp loạn, thay đổi vận mệnh của mình, mang lại thái bình cho bá tánh."
+        },
+        {
             "name": "Vũ Lâm Linh",
             "year": 2026,
             "slug": "vu-lam-linh",
@@ -2861,104 +2885,44 @@
             "total_episodes": "18",
             "country": "Thái Lan",
             "description": "Soi và Mala là hai người bạn thân và cùng là vũ nữ trong một đoàn kịch. Những tưởng họ sẽ đồng hành cùng nhau vươn đến đỉnh cao sự nghiệp, nhưng sự xuất hiện của một người đàn ông đã làm rạn nứt tình cảm giữa hai cô gái, khiến Mala phải dứt áo ra đi. Mặc dù vậy, trong suốt nhiều năm tháng sau đó, số phận của Soi và Mala vẫn gắn liền với nhau qua bao thăng trầm, tổn thương và mất mát của cuộc đời. Không chỉ là câu chuyện yêu hận tình thù giữa hai nàng vũ nữ, Vũ Điệu Tình Thù còn khắc họa thời kỳ hoàng kim của múa truyền thống Thái Lan và những yếu tố lịch sử dẫn đến sự suy tàn của môn nghệ thuật này."
-        },
-        {
-            "name": "Bù Nhìn Bóng Đêm",
-            "year": 2026,
-            "slug": "bu-nhin-bong-dem",
-            "thumb": "https://phimimg.com/upload/vod/20260421-1/ca215496bd35f5555a42db46c6929593.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260421-1/f650d2178218b84e7277bdafbf2a95b9.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (12/12)",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Bị giáng chức về vùng quê Gangseong, cựu thám tử sừng sỏ Kang Tae-ju rơi vào tâm điểm của chuỗi vụ án giết người hàng loạt rúng động. Để lật tẩy sự thật tàn khốc bị vùi lấp suốt 31 năm (từ 1988 đến 2019) và khôi phục lại danh dự, anh buộc phải bắt tay với kẻ mình căm ghét nhất - công tố viên Cha Shi-young. Khi lần theo sự thật, họ nhận ra kẻ sát nhân không chỉ lặp lại quá khứ mà đang hoàn thành thứ còn dang dở."
-        },
-        {
-            "name": "Xanh Chạm Đáy Trời (Ánh Xuân Lam)",
-            "year": 2026,
-            "slug": "xanh-cham-day-troi-anh-xuan-lam",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/f3f0b508f513e1da2d515963c15114de.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/4965a7168f8a27c6b9a10340ed3980e1.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 6",
-            "total_episodes": "6",
-            "country": "Hàn Quốc",
-            "description": "Bộ phim xoay quanh Deok Hyeon - người đàn ông trung niên bị mắc kẹt trong quá khứ và An Na - cô gái trẻ đang tìm việc nhưng bị nỗi lo âu về tương lai kìm hãm. Họ lựa chọn trở thành haenyeo (thợ lặn), hòa mình vào đại dương để tìm thấy những cảm xúc mà thế giới cũ chưa từng mang lại."
         }
     ],
     "trending_phim_bo": [
         {
-            "name": "Mother Mary: Hào Quang Đơn Độc",
+            "name": "Hổ Giấu Vằn (Payak Raai Sorn Laai)",
             "year": 2026,
-            "slug": "mother-mary-hao-quang-don-doc",
-            "thumb": "https://phimimg.com/upload/vod/20260601-1/ec648abe7535bdab6346219b4bbebdb4.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260601-1/ba90576e2f519506ae92e1cd793e3f93.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Những vết thương chôn giấu từ lâu trỗi dậy khi ngôi sao nhạc pop biểu tượng Mother Mary tái ngộ người bạn thân đã rạn nứt — đồng thời là nhà thiết kế trang phục cũ của cô, Sam Anselm — ngay trước thềm màn trở lại sân khấu."
-        },
-        {
-            "name": "Thị Trấn Ác Mộng (Hồi Chuông Lạ) (Phần 4)",
-            "year": 2026,
-            "slug": "thi-tran-ac-mong-hoi-chuong-la-phan-4",
-            "thumb": "https://phimimg.com/upload/vod/20260423-1/072edb466660a2d84553a19c93f8c33c.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260423-1/95cb687835c1321b9ebc17330ecbd20d.jpg",
+            "slug": "ho-giau-van-payak-raai-sorn-laai",
+            "thumb": "https://phimimg.com/upload/vod/20260516-1/491a74f039db3dc1ecf09fb0f715f57b.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260516-1/77c1b40f3b62b6bbc79c5e1040b2340b.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Làm sáng tỏ bí ẩn về một thành phố ở Trung Mỹ giam giữ tất cả những ai bước vào. Khi các cư dân đấu tranh để trở &nbsp;lại bình thường và tìm kiếm một lối thoát, họ cũng phải sống sót trước các mối đe dọa của khu rừng xung quanh."
+            "current_episode": "Tập 12",
+            "total_episodes": "24",
+            "country": "Thái Lan",
+            "description": "Sau khi người cha nuôi bị sát hại bởi tổ chức bí mật Phượng Hoàng Lửa, Taiga lên đường sang Thái Lan để tìm kiếm sự thật. Bằng cách thâm nhập vào một tập đoàn quyền lực có mối liên hệ mật thiết với thế giới ngầm tội phạm, anh ráo riết truy lùng tung tích của kẻ bí ẩn mang danh &quot;Ác Quỷ&quot;. Tại đây, Taiga liên tục đụng độ với Rin – một vệ sĩ luôn sống khép kín, người cũng mang trong mình mối thù sâu sắc liên quan đến cùng một âm mưu đen tối."
         },
         {
-            "name": "Chủ Tịch Tập Sự",
+            "name": "Lưỡng Tâm Bất Nghi",
             "year": 2026,
-            "slug": "chu-tich-tap-su",
-            "thumb": "https://phimimg.com/upload/vod/20260531-1/8a6d8d1d15ce5d216a24d63ff0572a7c.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg",
+            "slug": "luong-tam-bat-nghi",
+            "thumb": "https://phimimg.com/upload/vod/20260509-1/6d9a6a62ba90a8bce713634cb748e54e.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260509-1/c76078fd5407de645dd41285a36e0336.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Kang Yong Ho là một chủ tịch quyền lực đã đưa tập đoàn của mình vào top 10 thế giới. Sau một tai nạn bất ngờ, linh hồn của ông hoán đổi với một thanh niên trẻ tên Hwang Jun Hyeon. Trong thân xác mới, vị chủ tịch này buộc phải bắt đầu lại từ con số không với tư cách là một nhân viên mới ngay tại chính tập đoàn mình gây dựng. Chủ Tịch Tập Sự (Reborn Rookie) đào sâu góc nhìn độc đáo về sự phân hóa giai cấp, mâu thuẫn trong gia đình tài phiệt và sự khắc nghiệt của môi trường công sở hiện đại, đồng thời truyền tải thông điệp về giá trị của lòng trắc ẩn và sự thấu hiểu từ những vị trí thấp nhất trong xã hội."
-        },
-        {
-            "name": "Cuộc Chiến Trong Chúng Ta",
-            "year": 2026,
-            "slug": "cuoc-chien-trong-chung-ta",
-            "thumb": "https://phimimg.com/upload/vod/20260419-1/3c33f126df2ec7c53ce4b20c507ef046.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260422-1/97dec6daa40158d359854d4d07dcc772.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (12/12)",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Chạm đáy sau 20 năm theo đuổi bộ phim đầu tay, một đạo diễn đầy khát vọng gặp một nhà sản xuất kiệt sức – và rồi cô giúp anh tìm lại giá trị bản thân."
-        },
-        {
-            "name": "Cảnh Sát Trưởng Vùng Quê (Phần 1)",
-            "year": 2025,
-            "slug": "canh-sat-truong-vung-que-phan-1",
-            "thumb": "https://phimimg.com/upload/vod/20260319-1/64be320de9027109e11a2daddc51ea39.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260319-1/1fb2ddb865f0b53929b7947539ca321d.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (20/20)",
-            "total_episodes": "20",
-            "country": "Âu Mỹ",
-            "description": "Mickey Fox điều tra các hoạt động tội phạm và tuần tra trên những con phố của thị trấn nhỏ Edgewater, đồng thời phải đối mặt với người cha từng ngồi tù và một sự cố bí ẩn liên quan đến cô con gái ngỗ ngược của mình."
-        },
-        {
-            "name": "Vũ Lâm Linh",
-            "year": 2026,
-            "slug": "vu-lam-linh",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 34",
-            "total_episodes": "37",
+            "current_episode": "Hoàn Tất (24/24)",
+            "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
+            "description": "Vị hoàng đế vốn chỉ trọng văn chương, không chút võ nghệ và vị hoàng hậu xuất thân võ tướng, thích múa đao bắn cung vốn dĩ luôn chán ghét và thiếu tin tưởng lẫn nhau. Sau một tai nạn bất ngờ, hai người bị hoán đổi linh hồn và buộc phải chấp nhận thực tại oái oăm này. Trong quá trình đóng giả thân phận của đối phương, họ dần tháo gỡ được những hiểu lầm và học cách yêu thương, tin tưởng nhau hơn.&nbsp; Khi ở trong thân xác của hoàng hậu, hoàng đế tận mắt chứng kiến cảnh phi tần cung nữ và ngay cả Thái hậu cũng lạnh lùng mỉa mai, bày kế hãm hại vị hoàng hậu vốn không được sủng ái, từ đó mới thấu hiểu nàng đã phải sống khổ cực thế nào. Ngược lại, hoàng hậu trong thân xác hoàng đế cũng cuối cùng đã hiểu được lý do vì sao bấy lâu nay hoàng đế luôn giữ lòng nghi kỵ đối với gia tộc của mình."
+        },
+        {
+            "name": "Tình Yêu Phản Bội",
+            "year": 2026,
+            "slug": "tinh-yeu-phan-boi",
+            "thumb": "https://phimimg.com/upload/vod/20260403-1/93687521ef7c8ec3e2ef8800f90da089.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260403-1/b21288eb60ac6655368a9186cc5cfe60.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 18",
+            "total_episodes": "19",
+            "country": "Thái Lan",
+            "description": "Sau lần đổ vỡ trong tình yêu, một cô dâu mới cưới sẵn sàng bắt đầu lại. Nhưng khi phát hiện chồng mình lại là bạn với mối tình đầu, cô quyết định giữ kín quá khứ của họ."
         },
         {
             "name": "Phương Hoa Lý",
@@ -2985,64 +2949,76 @@
             "description": "Một cặp đôi đang hạnh phúc chuẩn bị kết hôn bất ngờ bị thử thách khi một biến cố ngoài dự kiến khiến cả tuần lễ cưới của họ rơi vào hỗn loạn."
         },
         {
-            "name": "Lương Trần Mỹ Cẩm",
+            "name": "Vũ Lâm Linh",
             "year": 2026,
-            "slug": "luong-tran-my-cam",
-            "thumb": "https://phimimg.com/upload/vod/20260504-1/95985e2f2e38ad97c847ff0c7b375486.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260504-1/52232226fda0a7c261fcd55d3a6dbdc2.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Hoàn Tất (40/40)",
-            "total_episodes": "40",
+            "slug": "vu-lam-linh",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 34",
+            "total_episodes": "37",
             "country": "Trung Quốc",
-            "description": "Đại cô nương nhà họ Cố - Cố Cẩm Triêu (Nhậm Mẫn) từ nhỏ đã được nuôi dưỡng tại nhà ngoại tổ. Tuy bị cha mẹ ruột thờ ơ, nhưng nhờ được ngoại tổ mẫu yêu thương, nàng vẫn sống một cuộc đời tự do, phóng khoáng. Sau khi trở về nhà họ Cố, Cố Cẩm Triêu luôn mạnh mẽ đối đầu với mọi người và mọi việc. Khác biệt với những cô gái bình thường, nàng đã thu hút sự chú ý sâu sắc của các nhân vật quyền thế như trọng thần trong nội các - Trần Ngạn Doãn (Thử Sa), Thế tử gia Diệp Hạn (Đổng Tư Thành), và bậc quân tử đoan chính - Trần Huyền Thanh (Tả Diệp). Đối mặt với chuyện hôn nhân, Cố Cẩm Triêu có quan điểm riêng của mình. Khi dần hiểu rõ lòng mình, nàng kiên định lựa chọn Trần Ngạn Doãn - người tôn trọng bản chất thật của nàng và cho nàng được sống là chính mình. Sau khi thành hôn, nàng dần trưởng thành, trở thành người vợ xứng đáng của trọng thần, phụ tá Trần Ngạn Doãn bước lên vị trí Thủ phụ. Họ cùng nhau thực hiện các chính sách vì dân vì nước, xoa dịu nỗi khổ của bá tánh, kiến tạo thời đại thái bình thịnh trị."
+            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
         },
         {
-            "name": "Hổ Giấu Vằn (Payak Raai Sorn Laai)",
+            "name": "Kiều Sở",
             "year": 2026,
-            "slug": "ho-giau-van-payak-raai-sorn-laai",
-            "thumb": "https://phimimg.com/upload/vod/20260516-1/491a74f039db3dc1ecf09fb0f715f57b.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260516-1/77c1b40f3b62b6bbc79c5e1040b2340b.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 12",
+            "slug": "kieu-so",
+            "thumb": "https://phimimg.com/upload/vod/20260602-1/a8cc94cc8b24db6f9471b0521c13e151.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260602-1/b87ac3cb735ca1bbeb9ef74670272e0e.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 4",
             "total_episodes": "24",
-            "country": "Thái Lan",
-            "description": "Sau khi người cha nuôi bị sát hại bởi tổ chức bí mật Phượng Hoàng Lửa, Taiga lên đường sang Thái Lan để tìm kiếm sự thật. Bằng cách thâm nhập vào một tập đoàn quyền lực có mối liên hệ mật thiết với thế giới ngầm tội phạm, anh ráo riết truy lùng tung tích của kẻ bí ẩn mang danh &quot;Ác Quỷ&quot;. Tại đây, Taiga liên tục đụng độ với Rin – một vệ sĩ luôn sống khép kín, người cũng mang trong mình mối thù sâu sắc liên quan đến cùng một âm mưu đen tối."
+            "country": "Trung Quốc",
+            "description": "Sở Triêu, con gái đại tướng quân, vì muốn thay đổi số phận bi thảm là quân cờ cho Tiêu Tuần đoạt quyền đã quyết định chủ động tấn công. Với sự hỗ trợ của Tạ Yến Lai, nàng vượt bao hiểm nguy, hộ tống hoàng trưởng tôn vào cung, đấu trí trước điện, phò tá hoàng trưởng tôn kế vị, chặt đứt con đường xưng đế của Tiêu Tuần. Tân đế lên ngôi khi Đại Sở thù trong giặc ngoài, Sở Triêu cùng Tạ Yến Lai vừa khéo léo đối nội vừa cầm quân dẹp loạn, thay đổi vận mệnh của mình, mang lại thái bình cho bá tánh."
         },
         {
-            "name": "Tình Yêu Phản Bội",
+            "name": "Thị Trấn Ác Mộng (Hồi Chuông Lạ) (Phần 4)",
             "year": 2026,
-            "slug": "tinh-yeu-phan-boi",
-            "thumb": "https://phimimg.com/upload/vod/20260403-1/93687521ef7c8ec3e2ef8800f90da089.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260403-1/b21288eb60ac6655368a9186cc5cfe60.jpg",
+            "slug": "thi-tran-ac-mong-hoi-chuong-la-phan-4",
+            "thumb": "https://phimimg.com/upload/vod/20260423-1/072edb466660a2d84553a19c93f8c33c.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260423-1/95cb687835c1321b9ebc17330ecbd20d.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 18",
-            "total_episodes": "19",
-            "country": "Thái Lan",
-            "description": "Sau lần đổ vỡ trong tình yêu, một cô dâu mới cưới sẵn sàng bắt đầu lại. Nhưng khi phát hiện chồng mình lại là bạn với mối tình đầu, cô quyết định giữ kín quá khứ của họ."
+            "current_episode": "Tập 6",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Làm sáng tỏ bí ẩn về một thành phố ở Trung Mỹ giam giữ tất cả những ai bước vào. Khi các cư dân đấu tranh để trở &nbsp;lại bình thường và tìm kiếm một lối thoát, họ cũng phải sống sót trước các mối đe dọa của khu rừng xung quanh."
         },
         {
-            "name": "Thỏ Ơi!!",
+            "name": "Thanh Tra Bí Mật (Kiểm Toán Tình Yêu)",
             "year": 2026,
-            "slug": "tho-oi",
-            "thumb": "https://phimimg.com/upload/vod/20260601-1/a93bfd52980655de0571d55d9c9f2440.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260601-1/034afe4d9f1198904977bb7cd8297a56.jpg",
+            "slug": "thanh-tra-bi-mat-kiem-toan-tinh-yeu",
+            "thumb": "https://phimimg.com/upload/vod/20260502-1/fca7d44d55b98b8e056eab9b7aaa4a60.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260502-1/a90260ebfcbde208d8eca5f570355773.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 10",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Kể về Joo In-ah, một trưởng phòng kiểm toán đầy sức hút với một bí mật, và Noh Ki-joon, át chủ bài của phòng, người đột nhiên bị giáng chức và phải giải quyết các vụ bê bối của công ty."
+        },
+        {
+            "name": "Cảnh Sát Trưởng Vùng Quê (Phần 1)",
+            "year": 2025,
+            "slug": "canh-sat-truong-vung-que-phan-1",
+            "thumb": "https://phimimg.com/upload/vod/20260319-1/64be320de9027109e11a2daddc51ea39.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260319-1/1fb2ddb865f0b53929b7947539ca321d.jpg",
             "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (20/20)",
+            "total_episodes": "20",
+            "country": "Âu Mỹ",
+            "description": "Mickey Fox điều tra các hoạt động tội phạm và tuần tra trên những con phố của thị trấn nhỏ Edgewater, đồng thời phải đối mặt với người cha từng ngồi tù và một sự cố bí ẩn liên quan đến cô con gái ngỗ ngược của mình."
+        },
+        {
+            "name": "Mother Mary: Hào Quang Đơn Độc",
+            "year": 2026,
+            "slug": "mother-mary-hao-quang-don-doc",
+            "thumb": "https://phimimg.com/upload/vod/20260601-1/ec648abe7535bdab6346219b4bbebdb4.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260601-1/ba90576e2f519506ae92e1cd793e3f93.jpg",
+            "sub_type": "Thuyết Minh",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Việt Nam",
-            "description": "Với tâm thế luôn mang đến những điều mới để cho khán giả của mình không nhàm chán, Thỏ Ơi!!&nbsp;-&nbsp;bộ phim điện ảnh thứ 4 của đạo diễn Trấn Thành hứa hẹn sẽ mang đến một màu sắc hoàn toàn khác biệt."
-        },
-        {
-            "name": "Báo Thù",
-            "year": 2026,
-            "slug": "bao-thu-2026",
-            "thumb": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260531-1/44b98f8dceee0f4b7f0a576c9237410e.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 1",
-            "total_episodes": "8",
-            "country": "Thái Lan",
-            "description": "Một nhân viên đòi nợ thuê đang ôm nỗi đau mất mát quyết định dấn thân vào thế giới giải trí đầy rẫy thị phi để tìm cách trả thù. Thế nhưng, tại nơi đây, người này lại bất ngờ rơi vào một mối tình đầy nguy hiểm và mê hoặc với một vị giám đốc điều hành quyền lực."
+            "country": "Âu Mỹ",
+            "description": "Những vết thương chôn giấu từ lâu trỗi dậy khi ngôi sao nhạc pop biểu tượng Mother Mary tái ngộ người bạn thân đã rạn nứt — đồng thời là nhà thiết kế trang phục cũ của cô, Sam Anselm — ngay trước thềm màn trở lại sân khấu."
         },
         {
             "name": "Lâng Lâng (Phê Pha) (Phần 3)",
@@ -3057,16 +3033,40 @@
             "description": "Một nhóm học sinh trung học đang lần tìm hướng đi trong tình yêu và tình bạn giữa một thế giới tràn đầy ma túy, tình dục, đau khổ và truyền thông xã hội hỗn loạn."
         },
         {
-            "name": "Lưỡng Tâm Bất Nghi",
+            "name": "Giá Trị Tuyệt Đối Của Lãng Mạn",
             "year": 2026,
-            "slug": "luong-tam-bat-nghi",
-            "thumb": "https://phimimg.com/upload/vod/20260509-1/6d9a6a62ba90a8bce713634cb748e54e.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260509-1/c76078fd5407de645dd41285a36e0336.jpg",
+            "slug": "gia-tri-tuyet-doi-cua-lang-man",
+            "thumb": "https://phimimg.com/upload/vod/20260509-1/40a5a9f7445ae1ebee273a8aa54c73a2.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260509-1/584e66818e68f5429f85d0df2257a8ad.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (24/24)",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Vị hoàng đế vốn chỉ trọng văn chương, không chút võ nghệ và vị hoàng hậu xuất thân võ tướng, thích múa đao bắn cung vốn dĩ luôn chán ghét và thiếu tin tưởng lẫn nhau. Sau một tai nạn bất ngờ, hai người bị hoán đổi linh hồn và buộc phải chấp nhận thực tại oái oăm này. Trong quá trình đóng giả thân phận của đối phương, họ dần tháo gỡ được những hiểu lầm và học cách yêu thương, tin tưởng nhau hơn.&nbsp; Khi ở trong thân xác của hoàng hậu, hoàng đế tận mắt chứng kiến cảnh phi tần cung nữ và ngay cả Thái hậu cũng lạnh lùng mỉa mai, bày kế hãm hại vị hoàng hậu vốn không được sủng ái, từ đó mới thấu hiểu nàng đã phải sống khổ cực thế nào. Ngược lại, hoàng hậu trong thân xác hoàng đế cũng cuối cùng đã hiểu được lý do vì sao bấy lâu nay hoàng đế luôn giữ lòng nghi kỵ đối với gia tộc của mình."
+            "current_episode": "Hoàn Tất (16/16)",
+            "total_episodes": "16",
+            "country": "Hàn Quốc",
+            "description": "Eui-ju, một nữ sinh trầm lặng ban ngày, là một tiểu thuyết gia viết tiểu thuyết tình cảm ban đêm, được truyền cảm hứng khi bốn giáo viên điển trai xuất hiện: Woo-su lạnh lùng, Da-ju sôi nổi, Gi-jeon cộc cằn và Dong-ju dịu dàng. Cô đưa họ vào cuốn tiểu thuyết mới của mình, và nó nổi tiếng chỉ sau một đêm! Nhưng bí mật của cô bị Woo-su, kẻ thù không đội trời chung từ trước đến giờ, phát hiện. Cô chấp nhận lời đề nghị của anh ta để bảo vệ bí mật của mình, nhưng liệu cô có thể hoàn thành cuốn tiểu thuyết này mà không bị tổn hại gì không?"
+        },
+        {
+            "name": "Thỏ Ơi!!",
+            "year": 2026,
+            "slug": "tho-oi",
+            "thumb": "https://phimimg.com/upload/vod/20260601-1/a93bfd52980655de0571d55d9c9f2440.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260601-1/034afe4d9f1198904977bb7cd8297a56.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Việt Nam",
+            "description": "Với tâm thế luôn mang đến những điều mới để cho khán giả của mình không nhàm chán, Thỏ Ơi!!&nbsp;-&nbsp;bộ phim điện ảnh thứ 4 của đạo diễn Trấn Thành hứa hẹn sẽ mang đến một màu sắc hoàn toàn khác biệt."
+        },
+        {
+            "name": "Chủ Tịch Tập Sự",
+            "year": 2026,
+            "slug": "chu-tich-tap-su",
+            "thumb": "https://phimimg.com/upload/vod/20260531-1/8a6d8d1d15ce5d216a24d63ff0572a7c.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Kang Yong Ho là một chủ tịch quyền lực đã đưa tập đoàn của mình vào top 10 thế giới. Sau một tai nạn bất ngờ, linh hồn của ông hoán đổi với một thanh niên trẻ tên Hwang Jun Hyeon. Trong thân xác mới, vị chủ tịch này buộc phải bắt đầu lại từ con số không với tư cách là một nhân viên mới ngay tại chính tập đoàn mình gây dựng. Chủ Tịch Tập Sự (Reborn Rookie) đào sâu góc nhìn độc đáo về sự phân hóa giai cấp, mâu thuẫn trong gia đình tài phiệt và sự khắc nghiệt của môi trường công sở hiện đại, đồng thời truyền tải thông điệp về giá trị của lòng trắc ẩn và sự thấu hiểu từ những vị trí thấp nhất trong xã hội."
         }
     ]
 }
