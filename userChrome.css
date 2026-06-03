@@ -1,0 +1,11 @@
+#tabbrowser-tabpanels {
+    padding: 0px !important;
+}
+
+#tabbrowser-tabbox {
+    padding: 0px !important;
+}
+
+#statuspanel {
+    display: none !important;
+}
