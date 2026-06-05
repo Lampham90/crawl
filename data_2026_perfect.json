@@ -1639,6 +1639,18 @@
     ],
     "bo_trung": [
         {
+            "name": "Kiều Sở",
+            "year": 2026,
+            "slug": "kieu-so",
+            "thumb": "https://phimimg.com/upload/vod/20260602-1/a8cc94cc8b24db6f9471b0521c13e151.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260602-1/b87ac3cb735ca1bbeb9ef74670272e0e.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 9",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Sở Triêu, con gái đại tướng quân, vì muốn thay đổi số phận bi thảm là quân cờ cho Tiêu Tuần đoạt quyền đã quyết định chủ động tấn công. Với sự hỗ trợ của Tạ Yến Lai, nàng vượt bao hiểm nguy, hộ tống hoàng trưởng tôn vào cung, đấu trí trước điện, phò tá hoàng trưởng tôn kế vị, chặt đứt con đường xưng đế của Tiêu Tuần. Tân đế lên ngôi khi Đại Sở thù trong giặc ngoài, Sở Triêu cùng Tạ Yến Lai vừa khéo léo đối nội vừa cầm quân dẹp loạn, thay đổi vận mệnh của mình, mang lại thái bình cho bá tánh."
+        },
+        {
             "name": "Cùng Người Vượt Kiếp",
             "year": 2026,
             "slug": "cung-nguoi-vuot-kiep",
@@ -1649,18 +1661,6 @@
             "total_episodes": "10",
             "country": "Trung Quốc",
             "description": "Nhân vật trung tâm là Ân Kỳ – một hoàng tử thất sủng sống trong triều đình đầy âm mưu. Người duy nhất luôn đứng về phía anh là Bùi Ngạn Chi, một cận thần lạnh lùng nhưng trung thành tuyệt đối. Ở kiếp đầu, vì tranh quyền đoạt vị và hiểu lầm trong cung, Bùi Ngạn Chi bị hãm hại rồi chết thảm. Ân Kỳ cũng mất tất cả và mang theo hối hận lớn nhất đời mình."
-        },
-        {
-            "name": "Kiều Sở",
-            "year": 2026,
-            "slug": "kieu-so",
-            "thumb": "https://phimimg.com/upload/vod/20260602-1/a8cc94cc8b24db6f9471b0521c13e151.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260602-1/b87ac3cb735ca1bbeb9ef74670272e0e.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 7",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Sở Triêu, con gái đại tướng quân, vì muốn thay đổi số phận bi thảm là quân cờ cho Tiêu Tuần đoạt quyền đã quyết định chủ động tấn công. Với sự hỗ trợ của Tạ Yến Lai, nàng vượt bao hiểm nguy, hộ tống hoàng trưởng tôn vào cung, đấu trí trước điện, phò tá hoàng trưởng tôn kế vị, chặt đứt con đường xưng đế của Tiêu Tuần. Tân đế lên ngôi khi Đại Sở thù trong giặc ngoài, Sở Triêu cùng Tạ Yến Lai vừa khéo léo đối nội vừa cầm quân dẹp loạn, thay đổi vận mệnh của mình, mang lại thái bình cho bá tánh."
         },
         {
             "name": "Vũ Lâm Linh",
@@ -2737,7 +2737,7 @@
             "thumb": "https://phimimg.com/upload/vod/20260602-1/a8cc94cc8b24db6f9471b0521c13e151.jpg",
             "poster": "https://phimimg.com/upload/vod/20260602-1/b87ac3cb735ca1bbeb9ef74670272e0e.jpg",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 7",
+            "current_episode": "Tập 9",
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Sở Triêu, con gái đại tướng quân, vì muốn thay đổi số phận bi thảm là quân cờ cho Tiêu Tuần đoạt quyền đã quyết định chủ động tấn công. Với sự hỗ trợ của Tạ Yến Lai, nàng vượt bao hiểm nguy, hộ tống hoàng trưởng tôn vào cung, đấu trí trước điện, phò tá hoàng trưởng tôn kế vị, chặt đứt con đường xưng đế của Tiêu Tuần. Tân đế lên ngôi khi Đại Sở thù trong giặc ngoài, Sở Triêu cùng Tạ Yến Lai vừa khéo léo đối nội vừa cầm quân dẹp loạn, thay đổi vận mệnh của mình, mang lại thái bình cho bá tánh."
@@ -2913,18 +2913,6 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Cây cam ở nhà cậu ấy nhưng quả cam luôn rơi sang nhà tôi",
-            "year": 2026,
-            "slug": "cay-cam-o-nha-cau-ay-nhung-qua-cam-luon-roi-sang-nha-toi",
-            "thumb": "https://phimimg.com/upload/vod/20260604-1/0bac1b5f368a775a32cbcce15d0a254d.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260604-1/5eba4d6cc1ea46ac42f086d9e9e3c844.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "12",
-            "country": "Thái Lan",
-            "description": "Ko là một cậu bé mê cam hơn bất cứ thứ gì trên đời - nhưng không phải cam nào cậu cũng thích. Nhất định phải là cam từ cây ở nhà bên cạnh mới được. Không có loại cam nào ngon bằng, cũng chẳng có loại nào khiến cậu hạnh phúc đến thế. Thơm, ngọt, ngon lành - mọi thứ về những quả cam nhà trồng ấy, Ko đều yêu thích vô cùng. Chỉ có một điều ngoại lệ: chủ nhân thật sự của cây cam đó. Cậu con trai mang cái tên ngầu y hệt tên cậu. Vì hai người trùng tên nên mọi người gọi cậu ta là “Ko Hai”, theo cách gọi quen thuộc mỗi khi có hai người cùng tên. Và thế là Ko nghiễm nhiên trở thành “Ko Một”. Nhưng ngoài cái tên giống nhau ra, cả hai chẳng có điểm gì chung. Tính cách trái ngược hoàn toàn - như thể ông trời đã phái một vị thần tối cao xuống để trừng trị con quỷ cam tinh nghịch vậy. Trong lúc câu chuyện của hai Ko dần mở ra, họ cũng lớn lên - không chỉ về dáng hình mà cả những cảm xúc âm thầm nảy nở trong tim."
-        },
-        {
             "name": "Huyền Thoại Lính Bếp (Anh Nuôi - Thăng Cấp Thành Huyền Thoại)",
             "year": 2026,
             "slug": "huyen-thoai-linh-bep-anh-nuoi-thang-cap-thanh-huyen-thoai",
@@ -2935,114 +2923,6 @@
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Xoay quanh một chàng lính trẻ bình thường được phân vào đội nhà bếp trong quân đội. Ban đầu anh bị xem thường vì không có năng lực chiến đấu nổi bật, nhưng lại sở hữu tài nấu ăn cực kỳ đặc biệt. Nhờ khả năng này, anh dần trở thành “huyền thoại nhà bếp” trong doanh trại."
-        },
-        {
-            "name": "Bác Sĩ Đảo Hoang",
-            "year": 2026,
-            "slug": "bac-si-dao-hoang",
-            "thumb": "https://phimimg.com/upload/vod/20260603-1/658491161287e882fe760f8e8716d503.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260603-1/2e03fed51702bd8387cc01b428e2a96b.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Một bác sĩ y tế công cộng trên một hòn đảo bị xa lánh và một nữ y tá bí ẩn bắt đầu một mối tình lãng mạn giữa con người và y khoa."
-        },
-        {
-            "name": "Trang Trại Dutton",
-            "year": 2026,
-            "slug": "trang-trai-dutton",
-            "thumb": "https://phimimg.com/upload/vod/20260604-1/40b25c7cee4e1c8455dc7acbfef9f8b4.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260604-1/c714d7ad21f9fea3380edbfba93b72e8.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "9",
-            "country": "Âu Mỹ",
-            "description": "Trang trại Dutton là series cao bồi, chính kịch, tập trung vào hành trình mới của cặp đôi biểu tượng được người hâm mộ vô cùng yêu thích trong vũ trụ nổi tiếng Yellowstone, Beth Dutton và Rip Wheeler. Tiếp nối ngay sau biến cố cuối cùng của gia tộc Dutton trong loạt phim gốc Yellowstone, Beth và Rip quyết định rời khỏi Montana để xây dựng tương lai mới tại Trang trại Dutton ở Texas cùng Carter, cậu bé họ xem như con trai của mình, nhưng vùng đất mới này vốn không hề dễ sống. Trang trại mới của họ nhanh chóng trở thành mục tiêu của bà trùm chăn nuôi địa phương, những tay tài phiệt muốn thâu tóm đất đai và cả giới chính trị. Rip phải quay lại cuộc sống đẫm máu quen thuộc để bảo vệ gia đình, còn Beth tiếp tục dùng trí thông minh, sự tàn nhẫn và bản lĩnh thép để chống lại mọi kẻ thù. Với dàn diễn viên hạng A, cùng với nhịp phim dồn dập, các pha hành động đậm chất Viễn Tây… đã tạo nên thương hiệu của đạo diễn tài năng Taylor Sheridan hứa hẹn dây là bộ phim không thể bỏ lỡ của các tín đồ điện ảnh."
-        },
-        {
-            "name": "Nửa Cơ Hội Sống (Chuyên Gia Tuổi Trung Niên)",
-            "year": 2026,
-            "slug": "nua-co-hoi-song-chuyen-gia-tuoi-trung-nien",
-            "thumb": "https://phimimg.com/upload/vod/20260604-1/cb8fc4d0b70189dd03ab746d707f8ad2.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260604-1/571a4ff47b891a2c50f131b328f59193.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Bộ phim kể về ba người đàn ông trung niên từng có quá khứ lừng lẫy nhưng hiện đang sống một cuộc đời &quot;về hưu&quot; bình lặng. Mọi chuyện thay đổi khi một biến cố bất ngờ xảy ra, buộc bộ ba &quot;lão làng&quot; này phải tập hợp lại. Dù cơ thể không còn nhanh nhẹn như thời trai trẻ và thường xuyên gặp phải những tình huống &quot;dở khóc dở cười&quot; do khoảng cách thế hệ, họ vẫn chứng minh được rằng &quot;gừng càng già càng cay&quot; khi giải quyết các vấn đề theo cách riêng của mình."
-        },
-        {
-            "name": "Michael Jackson: Lời Tuyên Án",
-            "year": 2026,
-            "slug": "michael-jackson-loi-tuyen-an",
-            "thumb": "https://phimimg.com/upload/vod/20260604-1/a8435ad81783d1761a23df9b83dad6fe.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260604-1/c56276ba6b2d47f4a070e21b4529c188.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (3/3)",
-            "total_episodes": "3",
-            "country": "Âu Mỹ",
-            "description": "Được kể bởi những nhân vật chủ chốt có mặt bên trong phòng xử án, bộ phim tài liệu toàn diện này mổ xẻ phiên tòa của Michael Jackson cùng di sản phức tạp của ông."
-        },
-        {
-            "name": "Cam Kết Thỏa Mãn Tột Cùng",
-            "year": 2026,
-            "slug": "cam-ket-thoa-man-tot-cung",
-            "thumb": "https://phimimg.com/upload/vod/20260521-1/ed43621ae21ba30c0e26750a08015c33.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260521-1/03a0c10b0dff685c4b64716275d056c1.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Một bà mẹ vừa ly hôn bất ngờ rơi vào vòng xoáy nguy hiểm của tống tiền, án mạng và... bóng đá thiếu nhi."
-        },
-        {
-            "name": "Một bộ phim của Lee Cronin: Xác ướp",
-            "year": 2026,
-            "slug": "mot-bo-phim-cua-lee-cronin-xac-uop",
-            "thumb": "https://phimimg.com/upload/vod/20260518-1/0038dbccf56b4dbd0440a77635a24242.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260518-1/d61dfd33287e3e437ad74dde5ca7e892.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Con gái nhỏ của một nhà báo biến mất không dấu vết giữa sa mạc. Tám năm sau, gia đình tan vỡ của họ bàng hoàng khi cô bé bất ngờ được đưa trở về — nhưng cuộc đoàn tụ tưởng chừng hạnh phúc nhanh chóng biến thành một cơn ác mộng sống."
-        },
-        {
-            "name": "Vũ Lâm Linh",
-            "year": 2026,
-            "slug": "vu-lam-linh",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (37/37)",
-            "total_episodes": "37",
-            "country": "Trung Quốc",
-            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
-        },
-        {
-            "name": "Kiều Sở",
-            "year": 2026,
-            "slug": "kieu-so",
-            "thumb": "https://phimimg.com/upload/vod/20260602-1/a8cc94cc8b24db6f9471b0521c13e151.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260602-1/b87ac3cb735ca1bbeb9ef74670272e0e.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 7",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Sở Triêu, con gái đại tướng quân, vì muốn thay đổi số phận bi thảm là quân cờ cho Tiêu Tuần đoạt quyền đã quyết định chủ động tấn công. Với sự hỗ trợ của Tạ Yến Lai, nàng vượt bao hiểm nguy, hộ tống hoàng trưởng tôn vào cung, đấu trí trước điện, phò tá hoàng trưởng tôn kế vị, chặt đứt con đường xưng đế của Tiêu Tuần. Tân đế lên ngôi khi Đại Sở thù trong giặc ngoài, Sở Triêu cùng Tạ Yến Lai vừa khéo léo đối nội vừa cầm quân dẹp loạn, thay đổi vận mệnh của mình, mang lại thái bình cho bá tánh."
-        },
-        {
-            "name": "Tafiti và Hành Trình Xuyên Sa Mạc",
-            "year": 2025,
-            "slug": "tafiti-va-hanh-trinh-xuyen-sa-mac",
-            "thumb": "https://phimimg.com/upload/vod/20260602-1/4d8a686c5cb3447380a59ac1ff08a491.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260602-1/3f29646b49565bf4bca191fd881abd50.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Đức",
-            "description": "Tafiti, một chú cầy meerkat trẻ, ban đầu từ chối tình bạn với Bristles, chú lợn rừng bụi rậm. Nhưng khi ông nội của Tafiti bị rắn cắn, cậu phải dấn thân vào hành trình tìm loài hoa có thể chữa trị. Bristles quyết tâm đồng hành để chứng minh rằng mọi cuộc phiêu lưu đều tuyệt vời hơn khi có bạn bè."
         },
         {
             "name": "Vũ Điệu Tình Thù",
@@ -3057,16 +2937,76 @@
             "description": "Soi và Mala là hai người bạn thân và cùng là vũ nữ trong một đoàn kịch. Những tưởng họ sẽ đồng hành cùng nhau vươn đến đỉnh cao sự nghiệp, nhưng sự xuất hiện của một người đàn ông đã làm rạn nứt tình cảm giữa hai cô gái, khiến Mala phải dứt áo ra đi. Mặc dù vậy, trong suốt nhiều năm tháng sau đó, số phận của Soi và Mala vẫn gắn liền với nhau qua bao thăng trầm, tổn thương và mất mát của cuộc đời. Không chỉ là câu chuyện yêu hận tình thù giữa hai nàng vũ nữ, Vũ Điệu Tình Thù còn khắc họa thời kỳ hoàng kim của múa truyền thống Thái Lan và những yếu tố lịch sử dẫn đến sự suy tàn của môn nghệ thuật này."
         },
         {
-            "name": "Cùng Người Vượt Kiếp",
+            "name": "Trang Trại Dutton",
             "year": 2026,
-            "slug": "cung-nguoi-vuot-kiep",
-            "thumb": "https://phimimg.com/upload/vod/20260604-1/a5c8351ba2208c3c223af74d1cf69e33.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260604-1/811a60164649b3028e75c2eb88e2e9a3.jpg",
+            "slug": "trang-trai-dutton",
+            "thumb": "https://phimimg.com/upload/vod/20260604-1/40b25c7cee4e1c8455dc7acbfef9f8b4.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260604-1/c714d7ad21f9fea3380edbfba93b72e8.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 5",
-            "total_episodes": "10",
+            "current_episode": "Tập 4",
+            "total_episodes": "9",
+            "country": "Âu Mỹ",
+            "description": "Trang trại Dutton là series cao bồi, chính kịch, tập trung vào hành trình mới của cặp đôi biểu tượng được người hâm mộ vô cùng yêu thích trong vũ trụ nổi tiếng Yellowstone, Beth Dutton và Rip Wheeler. Tiếp nối ngay sau biến cố cuối cùng của gia tộc Dutton trong loạt phim gốc Yellowstone, Beth và Rip quyết định rời khỏi Montana để xây dựng tương lai mới tại Trang trại Dutton ở Texas cùng Carter, cậu bé họ xem như con trai của mình, nhưng vùng đất mới này vốn không hề dễ sống. Trang trại mới của họ nhanh chóng trở thành mục tiêu của bà trùm chăn nuôi địa phương, những tay tài phiệt muốn thâu tóm đất đai và cả giới chính trị. Rip phải quay lại cuộc sống đẫm máu quen thuộc để bảo vệ gia đình, còn Beth tiếp tục dùng trí thông minh, sự tàn nhẫn và bản lĩnh thép để chống lại mọi kẻ thù. Với dàn diễn viên hạng A, cùng với nhịp phim dồn dập, các pha hành động đậm chất Viễn Tây… đã tạo nên thương hiệu của đạo diễn tài năng Taylor Sheridan hứa hẹn dây là bộ phim không thể bỏ lỡ của các tín đồ điện ảnh."
+        },
+        {
+            "name": "Vũ Lâm Linh",
+            "year": 2026,
+            "slug": "vu-lam-linh",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (37/37)",
+            "total_episodes": "37",
             "country": "Trung Quốc",
-            "description": "Nhân vật trung tâm là Ân Kỳ – một hoàng tử thất sủng sống trong triều đình đầy âm mưu. Người duy nhất luôn đứng về phía anh là Bùi Ngạn Chi, một cận thần lạnh lùng nhưng trung thành tuyệt đối. Ở kiếp đầu, vì tranh quyền đoạt vị và hiểu lầm trong cung, Bùi Ngạn Chi bị hãm hại rồi chết thảm. Ân Kỳ cũng mất tất cả và mang theo hối hận lớn nhất đời mình."
+            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
+        },
+        {
+            "name": "Michael Jackson: Lời Tuyên Án",
+            "year": 2026,
+            "slug": "michael-jackson-loi-tuyen-an",
+            "thumb": "https://phimimg.com/upload/vod/20260604-1/a8435ad81783d1761a23df9b83dad6fe.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260604-1/c56276ba6b2d47f4a070e21b4529c188.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (3/3)",
+            "total_episodes": "3",
+            "country": "Âu Mỹ",
+            "description": "Được kể bởi những nhân vật chủ chốt có mặt bên trong phòng xử án, bộ phim tài liệu toàn diện này mổ xẻ phiên tòa của Michael Jackson cùng di sản phức tạp của ông."
+        },
+        {
+            "name": "Nửa Cơ Hội Sống (Chuyên Gia Tuổi Trung Niên)",
+            "year": 2026,
+            "slug": "nua-co-hoi-song-chuyen-gia-tuoi-trung-nien",
+            "thumb": "https://phimimg.com/upload/vod/20260604-1/cb8fc4d0b70189dd03ab746d707f8ad2.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260604-1/571a4ff47b891a2c50f131b328f59193.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Bộ phim kể về ba người đàn ông trung niên từng có quá khứ lừng lẫy nhưng hiện đang sống một cuộc đời &quot;về hưu&quot; bình lặng. Mọi chuyện thay đổi khi một biến cố bất ngờ xảy ra, buộc bộ ba &quot;lão làng&quot; này phải tập hợp lại. Dù cơ thể không còn nhanh nhẹn như thời trai trẻ và thường xuyên gặp phải những tình huống &quot;dở khóc dở cười&quot; do khoảng cách thế hệ, họ vẫn chứng minh được rằng &quot;gừng càng già càng cay&quot; khi giải quyết các vấn đề theo cách riêng của mình."
+        },
+        {
+            "name": "Cam Kết Thỏa Mãn Tột Cùng",
+            "year": 2026,
+            "slug": "cam-ket-thoa-man-tot-cung",
+            "thumb": "https://phimimg.com/upload/vod/20260521-1/ed43621ae21ba30c0e26750a08015c33.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260521-1/03a0c10b0dff685c4b64716275d056c1.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Một bà mẹ vừa ly hôn bất ngờ rơi vào vòng xoáy nguy hiểm của tống tiền, án mạng và... bóng đá thiếu nhi."
+        },
+        {
+            "name": "Cây cam ở nhà cậu ấy nhưng quả cam luôn rơi sang nhà tôi",
+            "year": 2026,
+            "slug": "cay-cam-o-nha-cau-ay-nhung-qua-cam-luon-roi-sang-nha-toi",
+            "thumb": "https://phimimg.com/upload/vod/20260604-1/0bac1b5f368a775a32cbcce15d0a254d.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260604-1/5eba4d6cc1ea46ac42f086d9e9e3c844.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "12",
+            "country": "Thái Lan",
+            "description": "Ko là một cậu bé mê cam hơn bất cứ thứ gì trên đời - nhưng không phải cam nào cậu cũng thích. Nhất định phải là cam từ cây ở nhà bên cạnh mới được. Không có loại cam nào ngon bằng, cũng chẳng có loại nào khiến cậu hạnh phúc đến thế. Thơm, ngọt, ngon lành - mọi thứ về những quả cam nhà trồng ấy, Ko đều yêu thích vô cùng. Chỉ có một điều ngoại lệ: chủ nhân thật sự của cây cam đó. Cậu con trai mang cái tên ngầu y hệt tên cậu. Vì hai người trùng tên nên mọi người gọi cậu ta là “Ko Hai”, theo cách gọi quen thuộc mỗi khi có hai người cùng tên. Và thế là Ko nghiễm nhiên trở thành “Ko Một”. Nhưng ngoài cái tên giống nhau ra, cả hai chẳng có điểm gì chung. Tính cách trái ngược hoàn toàn - như thể ông trời đã phái một vị thần tối cao xuống để trừng trị con quỷ cam tinh nghịch vậy. Trong lúc câu chuyện của hai Ko dần mở ra, họ cũng lớn lên - không chỉ về dáng hình mà cả những cảm xúc âm thầm nảy nở trong tim."
         },
         {
             "name": "Project Y: Gái Ngoan Đổi Đời",
@@ -3081,6 +3021,54 @@
             "description": "Hai người phụ nữ cùng tuổi và là bạn thân lên kế hoạch táo bạo đánh cắp 6 triệu USD vàng thỏi rồi bỏ trốn khỏi khu vực."
         },
         {
+            "name": "Một bộ phim của Lee Cronin: Xác ướp",
+            "year": 2026,
+            "slug": "mot-bo-phim-cua-lee-cronin-xac-uop",
+            "thumb": "https://phimimg.com/upload/vod/20260518-1/0038dbccf56b4dbd0440a77635a24242.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260518-1/d61dfd33287e3e437ad74dde5ca7e892.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Con gái nhỏ của một nhà báo biến mất không dấu vết giữa sa mạc. Tám năm sau, gia đình tan vỡ của họ bàng hoàng khi cô bé bất ngờ được đưa trở về — nhưng cuộc đoàn tụ tưởng chừng hạnh phúc nhanh chóng biến thành một cơn ác mộng sống."
+        },
+        {
+            "name": "Tafiti và Hành Trình Xuyên Sa Mạc",
+            "year": 2025,
+            "slug": "tafiti-va-hanh-trinh-xuyen-sa-mac",
+            "thumb": "https://phimimg.com/upload/vod/20260602-1/4d8a686c5cb3447380a59ac1ff08a491.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260602-1/3f29646b49565bf4bca191fd881abd50.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Đức",
+            "description": "Tafiti, một chú cầy meerkat trẻ, ban đầu từ chối tình bạn với Bristles, chú lợn rừng bụi rậm. Nhưng khi ông nội của Tafiti bị rắn cắn, cậu phải dấn thân vào hành trình tìm loài hoa có thể chữa trị. Bristles quyết tâm đồng hành để chứng minh rằng mọi cuộc phiêu lưu đều tuyệt vời hơn khi có bạn bè."
+        },
+        {
+            "name": "Kiều Sở",
+            "year": 2026,
+            "slug": "kieu-so",
+            "thumb": "https://phimimg.com/upload/vod/20260602-1/a8cc94cc8b24db6f9471b0521c13e151.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260602-1/b87ac3cb735ca1bbeb9ef74670272e0e.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 9",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Sở Triêu, con gái đại tướng quân, vì muốn thay đổi số phận bi thảm là quân cờ cho Tiêu Tuần đoạt quyền đã quyết định chủ động tấn công. Với sự hỗ trợ của Tạ Yến Lai, nàng vượt bao hiểm nguy, hộ tống hoàng trưởng tôn vào cung, đấu trí trước điện, phò tá hoàng trưởng tôn kế vị, chặt đứt con đường xưng đế của Tiêu Tuần. Tân đế lên ngôi khi Đại Sở thù trong giặc ngoài, Sở Triêu cùng Tạ Yến Lai vừa khéo léo đối nội vừa cầm quân dẹp loạn, thay đổi vận mệnh của mình, mang lại thái bình cho bá tánh."
+        },
+        {
+            "name": "Bác Sĩ Đảo Hoang",
+            "year": 2026,
+            "slug": "bac-si-dao-hoang",
+            "thumb": "https://phimimg.com/upload/vod/20260603-1/658491161287e882fe760f8e8716d503.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260603-1/2e03fed51702bd8387cc01b428e2a96b.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Một bác sĩ y tế công cộng trên một hòn đảo bị xa lánh và một nữ y tá bí ẩn bắt đầu một mối tình lãng mạn giữa con người và y khoa."
+        },
+        {
             "name": "Thần Y Cổ Đại Ở Thành Phố",
             "year": 2026,
             "slug": "than-y-co-dai-o-thanh-pho",
@@ -3091,6 +3079,18 @@
             "total_episodes": "36",
             "country": "Trung Quốc",
             "description": "Truyền nhân của thần y, Ngô Danh xuống núi để truy đuổi kẻ phản bội Quỷ Trần. Bằng tuyệt học gia truyền, anh đã cứu sống gia chủ nhà Dã Điền, khiến hai nàng thiên kim tiểu thư Trí Tử và Mỹ Đại Tử đem lòng ngưỡng mộ. Sau đó, anh lại dùng y thuật cùng tấm lòng nhân hậu chữa khỏi căn bệnh kỳ lạ của sếp tổng mạnh mẽ Tô Uyển, chiếm được cảm tình của cô. Cuối cùng, với sự hỗ trợ của các mỹ nhân, Ngô Danh đã tiêu diệt kẻ phản bội Quỷ Trần. Từ đó về sau, anh và các cô gái cùng đồng hành trên con đường hành y cứu người, cứu đời."
+        },
+        {
+            "name": "Cùng Người Vượt Kiếp",
+            "year": 2026,
+            "slug": "cung-nguoi-vuot-kiep",
+            "thumb": "https://phimimg.com/upload/vod/20260604-1/a5c8351ba2208c3c223af74d1cf69e33.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260604-1/811a60164649b3028e75c2eb88e2e9a3.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 5",
+            "total_episodes": "10",
+            "country": "Trung Quốc",
+            "description": "Nhân vật trung tâm là Ân Kỳ – một hoàng tử thất sủng sống trong triều đình đầy âm mưu. Người duy nhất luôn đứng về phía anh là Bùi Ngạn Chi, một cận thần lạnh lùng nhưng trung thành tuyệt đối. Ở kiếp đầu, vì tranh quyền đoạt vị và hiểu lầm trong cung, Bùi Ngạn Chi bị hãm hại rồi chết thảm. Ân Kỳ cũng mất tất cả và mang theo hối hận lớn nhất đời mình."
         }
     ]
 }
