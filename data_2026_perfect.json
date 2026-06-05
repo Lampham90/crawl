@@ -1275,6 +1275,18 @@
     ],
     "bo_han": [
         {
+            "name": "Bài Học Đáng Đời",
+            "year": 2026,
+            "slug": "bai-hoc-dang-doi",
+            "thumb": "https://phimimg.com/upload/vod/20260605-1/ea103e00fd697f5e3f7779e2c27dd8fa.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260605-1/660b623033d81ce1c8cc931250bd6939.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (10/10)",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Khi kỷ cương trong trường học sụp đổ, những thanh tra lập dị xuất hiện để lập lại trật tự – bằng những bài học đanh thép, không khoan nhượng, chẳng có trong sách vở."
+        },
+        {
             "name": "Nửa Cơ Hội Sống (Chuyên Gia Tuổi Trung Niên)",
             "year": 2026,
             "slug": "nua-co-hoi-song-chuyen-gia-tuoi-trung-nien",
@@ -1285,6 +1297,18 @@
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Bộ phim kể về ba người đàn ông trung niên từng có quá khứ lừng lẫy nhưng hiện đang sống một cuộc đời &quot;về hưu&quot; bình lặng. Mọi chuyện thay đổi khi một biến cố bất ngờ xảy ra, buộc bộ ba &quot;lão làng&quot; này phải tập hợp lại. Dù cơ thể không còn nhanh nhẹn như thời trai trẻ và thường xuyên gặp phải những tình huống &quot;dở khóc dở cười&quot; do khoảng cách thế hệ, họ vẫn chứng minh được rằng &quot;gừng càng già càng cay&quot; khi giải quyết các vấn đề theo cách riêng của mình."
+        },
+        {
+            "name": "Lớp Học Tình Yêu (Phần 3)",
+            "year": 2026,
+            "slug": "lop-hoc-tinh-yeu-phan-3",
+            "thumb": "https://phimimg.com/upload/vod/20260604-1/2353791bb14f17a7f695106b9c7c6852.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260604-1/4e28f3a3299759d4bf98c97b154a46cc.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Hyun Jae và Soo An từng gặp nhau trong một chương trình sống còn tuyển chọn idol. Trong thời gian thi đấu, cả hai dần nảy sinh tình cảm. Tuy nhiên cuối cùng chỉ có Hyun Jae được debut, còn Soo An bị loại, khiến họ phải chia xa dù vẫn còn tình cảm với nhau."
         },
         {
             "name": "Huyền Thoại Lính Bếp (Anh Nuôi - Thăng Cấp Thành Huyền Thoại)",
@@ -1429,30 +1453,6 @@
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Bị giáng chức về vùng quê Gangseong, cựu thám tử sừng sỏ Kang Tae-ju rơi vào tâm điểm của chuỗi vụ án giết người hàng loạt rúng động. Để lật tẩy sự thật tàn khốc bị vùi lấp suốt 31 năm (từ 1988 đến 2019) và khôi phục lại danh dự, anh buộc phải bắt tay với kẻ mình căm ghét nhất - công tố viên Cha Shi-young. Khi lần theo sự thật, họ nhận ra kẻ sát nhân không chỉ lặp lại quá khứ mà đang hoàn thành thứ còn dang dở."
-        },
-        {
-            "name": "Xanh Chạm Đáy Trời (Ánh Xuân Lam)",
-            "year": 2026,
-            "slug": "xanh-cham-day-troi-anh-xuan-lam",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/f3f0b508f513e1da2d515963c15114de.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/4965a7168f8a27c6b9a10340ed3980e1.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 6",
-            "total_episodes": "6",
-            "country": "Hàn Quốc",
-            "description": "Bộ phim xoay quanh Deok Hyeon - người đàn ông trung niên bị mắc kẹt trong quá khứ và An Na - cô gái trẻ đang tìm việc nhưng bị nỗi lo âu về tương lai kìm hãm. Họ lựa chọn trở thành haenyeo (thợ lặn), hòa mình vào đại dương để tìm thấy những cảm xúc mà thế giới cũ chưa từng mang lại."
-        },
-        {
-            "name": "Phu Nhân Đại Quân Thế Kỷ 21",
-            "year": 2026,
-            "slug": "phu-nhan-dai-quan-the-ky-21",
-            "thumb": "https://phimimg.com/upload/vod/20260411-1/e6bb5b889cf566a8851149e472bd9a0e.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260411-1/19fba2a3671a42514f6506f9d5d3534a.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (12/12)",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Trong một chế độ quân chủ lập hiến thế kỷ 21, một người phụ nữ có tất cả mọi thứ nhưng vẫn là thường dân tình cờ gặp gỡ một vị hoàng tử, người dù thuộc dòng dõi hoàng tộc nhưng lại cảm thấy bất lực—dẫn đến một tình yêu vượt qua rào cản địa vị xã hội."
         }
     ],
     "le_trung": [
@@ -1821,6 +1821,18 @@
     ],
     "le_au_my": [
         {
+            "name": "World Cup 1986: Chủ Nhà Mexico",
+            "year": 2026,
+            "slug": "world-cup-1986-chu-nha-mexico",
+            "thumb": "https://phimimg.com/upload/vod/20260605-1/0dc49cd3b67e5a610a325eda844d1a5a.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260605-1/445e782c11b7b870beab04c08f5d50ac.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Mexico",
+            "description": "Táo bạo, điên rồ và đầy sáng tạo theo cách rất Mexico. Năm 1986, Mexico đăng cai giải bóng đá quan trọng nhất dù đối mặt muôn vàn khó khăn. Họ đã làm nên kỳ tích ấy như thế nào?"
+        },
+        {
             "name": "Yêu Nơi Công Sở",
             "year": 2026,
             "slug": "yeu-noi-cong-so",
@@ -1987,18 +1999,6 @@
             "total_episodes": "1",
             "country": "Anh",
             "description": "Khi một tên bạo chúa tàn nhẫn cướp đi khối tài sản trị giá 1 tỷ đô la, một đội đặc nhiệm tinh nhuệ hoạt động bí mật trong bóng tối toàn cầu được giao nhiệm vụ đoạt lại số tiền đó trong một phi vụ mà với bất kỳ ai khác cũng gần như là nhiệm vụ tự sát. Thành thạo thao túng quyền lực và tầm ảnh hưởng không kém gì sử dụng vũ khí tự động và thuốc nổ hạng nặng, họ bước vào một vụ cướp tưởng chừng bất khả thi rồi nhanh chóng bị cuốn vào một cuộc chiến toàn diện của chiến lược, lừa dối và sinh tồn."
-        },
-        {
-            "name": "Ba Trợn",
-            "year": 2026,
-            "slug": "ba-tron",
-            "thumb": "https://phimimg.com/upload/vod/20260602-1/5b5dc9f7a42a9bd16f53d5ece1f57ed5.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260602-1/2d13c664d8c29d1521097ffc258ab6f4.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Một nhà văn chuyên viết tiểu thuyết kinh dị đến một quán trọ hẻo lánh ở Ireland để rải tro cốt của cha mẹ mình. Không hay biết rằng nơi đây bị đồn đại là bị ám bởi một mụ phù thủy, anh dần nhận ra chuyến đi tưởng như riêng tư và yên lặng này đang kéo anh vào một nỗi kinh hoàng cổ xưa."
         }
     ],
     "bo_au_my": [
@@ -2913,16 +2913,40 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Vũ Lâm Linh",
+            "name": "Rak Rak: Trực Giác Tình Yêu",
             "year": 2026,
-            "slug": "vu-lam-linh",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
+            "slug": "rak-rak-truc-giac-tinh-yeu",
+            "thumb": "https://phimimg.com/upload/vod/20260430-1/b9371757be9971be0f77e57c07427615.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260430-1/52d73be2ab6e0cc20b795169743a30c5.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 7",
+            "total_episodes": "8",
+            "country": "Thái Lan",
+            "description": "Khi cảm xúc dâng trào và trái tim đối mặt với những phép thử, chẳng có gì là bất biến. Trong Rak Rak, chỉ một khoảnh khắc cũng có thể thay đổi tất cả, giữa rung động và lý trí, họ sẽ lựa chọn điều gì?"
+        },
+        {
+            "name": "Vũ Điệu Tình Thù",
+            "year": 2026,
+            "slug": "vu-dieu-tinh-thu",
+            "thumb": "https://phimimg.com/upload/vod/20260423-1/50665a7a7cac310f5583e3e0148dfc09.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260423-1/5fbf1f8f8cca55b836d2e8c0ebb39c5d.jpg",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (37/37)",
-            "total_episodes": "37",
-            "country": "Trung Quốc",
-            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
+            "current_episode": "Tập 14",
+            "total_episodes": "18",
+            "country": "Thái Lan",
+            "description": "Soi và Mala là hai người bạn thân và cùng là vũ nữ trong một đoàn kịch. Những tưởng họ sẽ đồng hành cùng nhau vươn đến đỉnh cao sự nghiệp, nhưng sự xuất hiện của một người đàn ông đã làm rạn nứt tình cảm giữa hai cô gái, khiến Mala phải dứt áo ra đi. Mặc dù vậy, trong suốt nhiều năm tháng sau đó, số phận của Soi và Mala vẫn gắn liền với nhau qua bao thăng trầm, tổn thương và mất mát của cuộc đời. Không chỉ là câu chuyện yêu hận tình thù giữa hai nàng vũ nữ, Vũ Điệu Tình Thù còn khắc họa thời kỳ hoàng kim của múa truyền thống Thái Lan và những yếu tố lịch sử dẫn đến sự suy tàn của môn nghệ thuật này."
+        },
+        {
+            "name": "Project Y: Gái Ngoan Đổi Đời",
+            "year": 2026,
+            "slug": "project-y-gai-ngoan-doi-doi",
+            "thumb": "https://phimimg.com/upload/vod/20260318-1/ed2843ccbd0785dc0d55d9b85c27c636.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260318-1/8545339897a3469172ad61ba0a43ee75.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Hàn Quốc",
+            "description": "Hai người phụ nữ cùng tuổi và là bạn thân lên kế hoạch táo bạo đánh cắp 6 triệu USD vàng thỏi rồi bỏ trốn khỏi khu vực."
         },
         {
             "name": "Tafiti và Hành Trình Xuyên Sa Mạc",
@@ -2937,16 +2961,28 @@
             "description": "Tafiti, một chú cầy meerkat trẻ, ban đầu từ chối tình bạn với Bristles, chú lợn rừng bụi rậm. Nhưng khi ông nội của Tafiti bị rắn cắn, cậu phải dấn thân vào hành trình tìm loài hoa có thể chữa trị. Bristles quyết tâm đồng hành để chứng minh rằng mọi cuộc phiêu lưu đều tuyệt vời hơn khi có bạn bè."
         },
         {
-            "name": "Huyền Thoại Lính Bếp (Anh Nuôi - Thăng Cấp Thành Huyền Thoại)",
+            "name": "Tiêu Dao Tứ Công Tử",
             "year": 2026,
-            "slug": "huyen-thoai-linh-bep-anh-nuoi-thang-cap-thanh-huyen-thoai",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/ff75b3cca05dfba9b513fc7e1aad3ee9.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/314a82119610749f0aa109e17d2e3957.jpg",
+            "slug": "tieu-dao-tu-cong-tu",
+            "thumb": "https://phimimg.com/upload/vod/20260601-1/9657c32dbec0837439d0ef3c5b31bac9.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260601-1/7227f672a8292f542dda4ea75277fda5.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Xoay quanh một chàng lính trẻ bình thường được phân vào đội nhà bếp trong quân đội. Ban đầu anh bị xem thường vì không có năng lực chiến đấu nổi bật, nhưng lại sở hữu tài nấu ăn cực kỳ đặc biệt. Nhờ khả năng này, anh dần trở thành “huyền thoại nhà bếp” trong doanh trại."
+            "current_episode": "Tập 18",
+            "total_episodes": "38",
+            "country": "Trung Quốc",
+            "description": "Nam chính xuyên không nhập vào thân xác Ninh Thần, đứa con riêng không được thừa nhận của Ninh phủ tại Đại Huyền Quốc, và đã phải chịu đủ mọi sự khinh miệt và chèn ép. Nhưng từ tận cùng nghịch cảnh, Ninh Thần từng bước phản công và vươn lên mạnh mẽ. Hắn dùng tài thơ phú làm chấn động kinh thành, gia nhập Giám Sát Ty và liên tiếp phá giải những vụ án ly kỳ; chế tạo hỏa khí, thay đổi cục diện chiến trường; thân chinh nơi biên ải, bắt sống tướng địch, đồng thời từng bước vạch trần sự thật về cái chết của mẹ mình. Từ một kẻ bị xem thường, Ninh Thần không ngừng lội ngược dòng, đập tan mọi ánh mắt khinh miệt, từng bước tỏa sáng giữa vòng xoáy quyền mưu và tranh đấu. Cuối cùng, đã trở thành một thiếu niên truyền kỳ lừng danh khắp Đại Huyền Quốc."
+        },
+        {
+            "name": "Michael Jackson: Lời Tuyên Án",
+            "year": 2026,
+            "slug": "michael-jackson-loi-tuyen-an",
+            "thumb": "https://phimimg.com/upload/vod/20260604-1/a8435ad81783d1761a23df9b83dad6fe.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260604-1/c56276ba6b2d47f4a070e21b4529c188.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (3/3)",
+            "total_episodes": "3",
+            "country": "Âu Mỹ",
+            "description": "Được kể bởi những nhân vật chủ chốt có mặt bên trong phòng xử án, bộ phim tài liệu toàn diện này mổ xẻ phiên tòa của Michael Jackson cùng di sản phức tạp của ông."
         },
         {
             "name": "Bạn Bè & Hàng Xóm (Phần 2)",
@@ -2959,18 +2995,6 @@
             "total_episodes": "10",
             "country": "Âu Mỹ",
             "description": "Khi một đại gia tài chính đột ngột rơi vào cảnh ly hôn và mất việc, anh ta bắt đầu đi ăn trộm những nhà hàng xóm giàu có để trang trải cuộc sống. Ăn trộm của hội mình chơi cùng đem lại khoái cảm kỳ lạ, nhưng dần dần khiến anh ta sa vào hố sâu chết chóc."
-        },
-        {
-            "name": "Cam Kết Thỏa Mãn Tột Cùng",
-            "year": 2026,
-            "slug": "cam-ket-thoa-man-tot-cung",
-            "thumb": "https://phimimg.com/upload/vod/20260521-1/ed43621ae21ba30c0e26750a08015c33.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260521-1/03a0c10b0dff685c4b64716275d056c1.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Một bà mẹ vừa ly hôn bất ngờ rơi vào vòng xoáy nguy hiểm của tống tiền, án mạng và... bóng đá thiếu nhi."
         },
         {
             "name": "Nửa Cơ Hội Sống (Chuyên Gia Tuổi Trung Niên)",
@@ -2997,28 +3021,16 @@
             "description": "Người anh trai song sinh mạo danh đốc quân, thảm sát cả nhà họ Trang. Trang Vận Thu thoát chết trong gang tấc, giả mạo thiên kim tiểu thư để gả vào phủ đốc quân báo thù. Trong quá trình bày mưu tính kế, cô dần nhận ra điểm bất thường và phát hiện vị đốc quân kia thực chất do người anh sinh đôi đóng giả, còn người em trai thật sự đang âm thầm nhẫn nhịn, bí mật điều tra chứng cứ tội ác. Hai kẻ mang mối thù sâu nặng từ chỗ dò xét lẫn nhau dần nảy sinh tình cảm, rồi cùng liên thủ giăng bẫy, vạch trần tội ác của đám quyền quý, đem lại bình yên cho dân chúng."
         },
         {
-            "name": "Tiêu Dao Tứ Công Tử",
+            "name": "Bài Học Đáng Đời",
             "year": 2026,
-            "slug": "tieu-dao-tu-cong-tu",
-            "thumb": "https://phimimg.com/upload/vod/20260601-1/9657c32dbec0837439d0ef3c5b31bac9.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260601-1/7227f672a8292f542dda4ea75277fda5.jpg",
+            "slug": "bai-hoc-dang-doi",
+            "thumb": "https://phimimg.com/upload/vod/20260605-1/ea103e00fd697f5e3f7779e2c27dd8fa.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260605-1/660b623033d81ce1c8cc931250bd6939.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 18",
-            "total_episodes": "38",
-            "country": "Trung Quốc",
-            "description": "Nam chính xuyên không nhập vào thân xác Ninh Thần, đứa con riêng không được thừa nhận của Ninh phủ tại Đại Huyền Quốc, và đã phải chịu đủ mọi sự khinh miệt và chèn ép. Nhưng từ tận cùng nghịch cảnh, Ninh Thần từng bước phản công và vươn lên mạnh mẽ. Hắn dùng tài thơ phú làm chấn động kinh thành, gia nhập Giám Sát Ty và liên tiếp phá giải những vụ án ly kỳ; chế tạo hỏa khí, thay đổi cục diện chiến trường; thân chinh nơi biên ải, bắt sống tướng địch, đồng thời từng bước vạch trần sự thật về cái chết của mẹ mình. Từ một kẻ bị xem thường, Ninh Thần không ngừng lội ngược dòng, đập tan mọi ánh mắt khinh miệt, từng bước tỏa sáng giữa vòng xoáy quyền mưu và tranh đấu. Cuối cùng, đã trở thành một thiếu niên truyền kỳ lừng danh khắp Đại Huyền Quốc."
-        },
-        {
-            "name": "Rak Rak: Trực Giác Tình Yêu",
-            "year": 2026,
-            "slug": "rak-rak-truc-giac-tinh-yeu",
-            "thumb": "https://phimimg.com/upload/vod/20260430-1/b9371757be9971be0f77e57c07427615.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260430-1/52d73be2ab6e0cc20b795169743a30c5.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 7",
-            "total_episodes": "8",
-            "country": "Thái Lan",
-            "description": "Khi cảm xúc dâng trào và trái tim đối mặt với những phép thử, chẳng có gì là bất biến. Trong Rak Rak, chỉ một khoảnh khắc cũng có thể thay đổi tất cả, giữa rung động và lý trí, họ sẽ lựa chọn điều gì?"
+            "current_episode": "Hoàn Tất (10/10)",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Khi kỷ cương trong trường học sụp đổ, những thanh tra lập dị xuất hiện để lập lại trật tự – bằng những bài học đanh thép, không khoan nhượng, chẳng có trong sách vở."
         },
         {
             "name": "Thần Y Cổ Đại Ở Thành Phố",
@@ -3033,28 +3045,40 @@
             "description": "Truyền nhân của thần y, Ngô Danh xuống núi để truy đuổi kẻ phản bội Quỷ Trần. Bằng tuyệt học gia truyền, anh đã cứu sống gia chủ nhà Dã Điền, khiến hai nàng thiên kim tiểu thư Trí Tử và Mỹ Đại Tử đem lòng ngưỡng mộ. Sau đó, anh lại dùng y thuật cùng tấm lòng nhân hậu chữa khỏi căn bệnh kỳ lạ của sếp tổng mạnh mẽ Tô Uyển, chiếm được cảm tình của cô. Cuối cùng, với sự hỗ trợ của các mỹ nhân, Ngô Danh đã tiêu diệt kẻ phản bội Quỷ Trần. Từ đó về sau, anh và các cô gái cùng đồng hành trên con đường hành y cứu người, cứu đời."
         },
         {
-            "name": "Michael Jackson: Lời Tuyên Án",
+            "name": "Cam Kết Thỏa Mãn Tột Cùng",
             "year": 2026,
-            "slug": "michael-jackson-loi-tuyen-an",
-            "thumb": "https://phimimg.com/upload/vod/20260604-1/a8435ad81783d1761a23df9b83dad6fe.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260604-1/c56276ba6b2d47f4a070e21b4529c188.jpg",
+            "slug": "cam-ket-thoa-man-tot-cung",
+            "thumb": "https://phimimg.com/upload/vod/20260521-1/ed43621ae21ba30c0e26750a08015c33.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260521-1/03a0c10b0dff685c4b64716275d056c1.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (3/3)",
-            "total_episodes": "3",
+            "current_episode": "Tập 4",
+            "total_episodes": "10",
             "country": "Âu Mỹ",
-            "description": "Được kể bởi những nhân vật chủ chốt có mặt bên trong phòng xử án, bộ phim tài liệu toàn diện này mổ xẻ phiên tòa của Michael Jackson cùng di sản phức tạp của ông."
+            "description": "Một bà mẹ vừa ly hôn bất ngờ rơi vào vòng xoáy nguy hiểm của tống tiền, án mạng và... bóng đá thiếu nhi."
         },
         {
-            "name": "Project Y: Gái Ngoan Đổi Đời",
+            "name": "Lớp Học Tình Yêu (Phần 3)",
             "year": 2026,
-            "slug": "project-y-gai-ngoan-doi-doi",
-            "thumb": "https://phimimg.com/upload/vod/20260318-1/ed2843ccbd0785dc0d55d9b85c27c636.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260318-1/8545339897a3469172ad61ba0a43ee75.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Full",
-            "total_episodes": "1",
+            "slug": "lop-hoc-tinh-yeu-phan-3",
+            "thumb": "https://phimimg.com/upload/vod/20260604-1/2353791bb14f17a7f695106b9c7c6852.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260604-1/4e28f3a3299759d4bf98c97b154a46cc.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "10",
             "country": "Hàn Quốc",
-            "description": "Hai người phụ nữ cùng tuổi và là bạn thân lên kế hoạch táo bạo đánh cắp 6 triệu USD vàng thỏi rồi bỏ trốn khỏi khu vực."
+            "description": "Hyun Jae và Soo An từng gặp nhau trong một chương trình sống còn tuyển chọn idol. Trong thời gian thi đấu, cả hai dần nảy sinh tình cảm. Tuy nhiên cuối cùng chỉ có Hyun Jae được debut, còn Soo An bị loại, khiến họ phải chia xa dù vẫn còn tình cảm với nhau."
+        },
+        {
+            "name": "Vũ Lâm Linh",
+            "year": 2026,
+            "slug": "vu-lam-linh",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/7235dbc79b06a818fca87e79fd1b3dba.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/652c18734c19a60250449ddc87a860f2.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (37/37)",
+            "total_episodes": "37",
+            "country": "Trung Quốc",
+            "description": "Nam hiệp Triển Chiêu (Dương Dương) vì truy tìm manh mối về vụ mưu phản của Tương Dương Vương do cố nhân để lại mà một thân một mình xuống phía Nam. Trên đường đi điều tra Triển Chiêu liên tục bị truy sát, lúc này Triển Chiêu tình cờ kết bạn với Hoắc Linh Lung (Chương Nhược Nam) đang trên đường hành tẩu giang hồ. Để bảo vệ chứng cứ vẹn toàn, Triển Chiêu lấy thân mình làm mồi nhử kẻ địch, vì muốn cứu giúp bách tính mà liên tục rơi vào hiểm cảnh. Trong lúc nguy cấp, Cẩm Mao Thử Bạch Ngọc Đường (Phương Dật Luân) đã ra tay tương cứu. Ba người liên thủ điều tra manh mối, thu thập tội chứng Tương Dương Vương cấu kết với cả 2 phe chính tà áp bức dân lành thông đồng ngoại địch. Cuối cùng Triển Chiêu và bạn bè cùng nhau đập tan âm mưu nơi triều đình lẫn giang hồ, trả lại chính khí cho võ lâm và sự bình yên cho bách tính."
         },
         {
             "name": "Một bộ phim của Lee Cronin: Xác ướp",
@@ -3067,30 +3091,6 @@
             "total_episodes": "1",
             "country": "Âu Mỹ",
             "description": "Con gái nhỏ của một nhà báo biến mất không dấu vết giữa sa mạc. Tám năm sau, gia đình tan vỡ của họ bàng hoàng khi cô bé bất ngờ được đưa trở về — nhưng cuộc đoàn tụ tưởng chừng hạnh phúc nhanh chóng biến thành một cơn ác mộng sống."
-        },
-        {
-            "name": "Bác Sĩ Đảo Hoang",
-            "year": 2026,
-            "slug": "bac-si-dao-hoang",
-            "thumb": "https://phimimg.com/upload/vod/20260603-1/658491161287e882fe760f8e8716d503.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260603-1/2e03fed51702bd8387cc01b428e2a96b.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Một bác sĩ y tế công cộng trên một hòn đảo bị xa lánh và một nữ y tá bí ẩn bắt đầu một mối tình lãng mạn giữa con người và y khoa."
-        },
-        {
-            "name": "Vũ Điệu Tình Thù",
-            "year": 2026,
-            "slug": "vu-dieu-tinh-thu",
-            "thumb": "https://phimimg.com/upload/vod/20260423-1/50665a7a7cac310f5583e3e0148dfc09.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260423-1/5fbf1f8f8cca55b836d2e8c0ebb39c5d.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 14",
-            "total_episodes": "18",
-            "country": "Thái Lan",
-            "description": "Soi và Mala là hai người bạn thân và cùng là vũ nữ trong một đoàn kịch. Những tưởng họ sẽ đồng hành cùng nhau vươn đến đỉnh cao sự nghiệp, nhưng sự xuất hiện của một người đàn ông đã làm rạn nứt tình cảm giữa hai cô gái, khiến Mala phải dứt áo ra đi. Mặc dù vậy, trong suốt nhiều năm tháng sau đó, số phận của Soi và Mala vẫn gắn liền với nhau qua bao thăng trầm, tổn thương và mất mát của cuộc đời. Không chỉ là câu chuyện yêu hận tình thù giữa hai nàng vũ nữ, Vũ Điệu Tình Thù còn khắc họa thời kỳ hoàng kim của múa truyền thống Thái Lan và những yếu tố lịch sử dẫn đến sự suy tàn của môn nghệ thuật này."
         }
     ]
 }
