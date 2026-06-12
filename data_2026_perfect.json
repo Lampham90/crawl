@@ -1821,6 +1821,18 @@
     ],
     "le_au_my": [
         {
+            "name": "Thực Thể Quỷ Quyệt (Hậu Phòng Vô Tận)",
+            "year": 2026,
+            "slug": "thuc-the-quy-quyet-hau-phong-vo-tan",
+            "thumb": "https://phimimg.com/upload/vod/20260612-1/69f147ae19cf9afa3d3cf725ceeb6be6.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260612-1/d23200f7e85fcaa9e9b335a302dc972f.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Một cánh cửa kỳ lạ bất ngờ xuất hiện trong tầng hầm của một cửa hàng trưng bày nội thất, mở ra lối vào một không gian bí ẩn và đáng sợ vượt ngoài mọi hiểu biết."
+        },
+        {
             "name": "Mai Cồ",
             "year": 2026,
             "slug": "mai-co",
@@ -1987,18 +1999,6 @@
             "total_episodes": "1",
             "country": "Âu Mỹ",
             "description": "Tiếp nối phần đầu, tên hề bí ẩn The Jester tiếp tục xuất hiện trong đêm Halloween và nhắm đến những nạn nhân mới. Lần này, một cặp đôi trẻ vô tình chạm mặt hắn. Những trò ảo thuật và hành động tưởng như vô hại nhanh chóng biến thành các màn đe dọa đáng sợ khi The Jester bộc lộ bản chất sát nhân siêu nhiên của mình. Cuộc gặp gỡ ngắn ngủi dần trở thành một trò chơi sinh tử mà nạn nhân khó có thể thoát khỏi."
-        },
-        {
-            "name": "Hiệu Trưởng Khiếm Thính Đầu Tiên",
-            "year": 2025,
-            "slug": "hieu-truong-khiem-thinh-dau-tien",
-            "thumb": "https://phimimg.com/upload/vod/20260606-1/2983fbcefaa682a7d89a0fada4b5dd09.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260606-1/21a480fda4364f3b2970c232e6d2d8b9.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Khám phá câu chuyện về phong trào quyền dân sự lớn nhất từng được biết. Trong tám ngày rúng động năm 1988 ở trường đại học duy nhất cho người điếc trên thế giới, bốn sinh viên phải tìm cách lãnh đạo một cuộc cách mạng - và thay đổi tiến trình lịch sử."
         }
     ],
     "bo_au_my": [
@@ -2645,6 +2645,18 @@
             "description": "Trong một thế giới mà các siêu anh hùng chìm trong mặt tối của sự nổi tiếng và danh vọng to lớn của họ, THE BOYS tập trung vào một nhóm tự phát được biết đến với cái tên không chính thức là nhóm “Trai điên”, những người đặt ra mục tiêu hạ gục các siêu anh hùng tồi tệ này chỉ với sự gan góc và sẵn sàng chơi bẩn của họ."
         },
         {
+            "name": "Berlin Và Bức Họa Người đàn Bà Và Con Chồn",
+            "year": 2026,
+            "slug": "berlin-va-buc-hoa-nguoi-dan-ba-va-con-chon",
+            "thumb": "https://phimimg.com/upload/vod/20260516-1/fc62298a3d190e5baa6406fb73d7a5dd.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260516-1/327b83c08400f6be5d2d6074a0420b26.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Hoàn Tất (8/8)",
+            "total_episodes": "8",
+            "country": "Tây Ban Nha",
+            "description": "Bậc thầy lừa đảo Berlin cùng cả nhóm chuẩn bị vượt qua chính mình với phi vụ mới đầy rủi ro: đánh cắp một kiệt tác vô giá tại Seville."
+        },
+        {
             "name": "Cuộc phiêu lưu biến hóa",
             "year": 2026,
             "slug": "cuoc-phieu-luu-bien-hoa",
@@ -2715,18 +2727,6 @@
             "total_episodes": "7",
             "country": "Hàn Quốc",
             "description": "Hai võ sĩ trẻ bắt tay với một người cho vay nhân từ để hạ bệ kẻ cho vay nặng lãi tàn nhẫn chuyên săn lùng những người túng quẫn tài chính."
-        },
-        {
-            "name": "XO, Kitty (Phần 3)",
-            "year": 2026,
-            "slug": "xo-kitty-phan-3",
-            "thumb": "https://phimimg.com/upload/vod/20260403-1/487b7e6edfc5bab61281c25618365bc9.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260403-1/7ad58061be694df8c5a862ddba12a5d5.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
-            "country": "Âu Mỹ",
-            "description": "Đi theo tiếng gọi trái tim đến một ngôi trường trung học danh giá ở Seoul, cô nàng mai mối tuổi teen Kitty nhận ra cuộc sống, tình yêu và gia đình phức tạp hơn cô từng tưởng tượng."
         }
     ],
     "thuyet_minh": [
@@ -2913,66 +2913,6 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Bác Sĩ Đảo Hoang",
-            "year": 2026,
-            "slug": "bac-si-dao-hoang",
-            "thumb": "https://phimimg.com/upload/vod/20260603-1/658491161287e882fe760f8e8716d503.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260603-1/2e03fed51702bd8387cc01b428e2a96b.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Một bác sĩ y tế công cộng trên một hòn đảo bị xa lánh và một nữ y tá bí ẩn bắt đầu một mối tình lãng mạn giữa con người và y khoa."
-        },
-        {
-            "name": "Mạc Ly",
-            "year": 2026,
-            "slug": "mac-ly",
-            "thumb": "https://phimimg.com/upload/vod/20260609-1/089ebc9ac027d516a2885aaee749d354.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260609-1/ae12c9e970982d4ce4c70e9633b5d2cc.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 10",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "description": "Trưởng nữ Diệp Ly của Diệp Phủ được gả sang Định Vương Phủ suy tàn, \r\nthành thân với kẻ tàn tật hai chân là Định Vương Mặc Tu Nghiêu. Ngày \r\nDiệp Ly xuất giá, Lê Vương Mặc Cảnh Lê cũng thành thân với thứ nữ Diệp \r\nPhủ là Diệp Oánh. Là hậu duệ Ly Sơn, Diệp Ly từng bị nhốt trong núi 8 \r\nnăm. Sau khi thành thân, bề ngoài nàng tỏ ra an phận, nhưng thực chất \r\nlại âm thầm lên kế hoạch loại bỏ từng kẻ từng hãm hại Ly Sơn năm xưa. \r\nTrong quá trình ấy, nàng vấp phải sự nghi ngờ của Mặc Tu Nghiêu, người \r\ncũng đang nuôi chí báo thù. Hai người mỗi bên đều âm thầm hành động, \r\nkhiến mặt hồ tưởng chừng bình lặng dậy sóng. Mặc Cảnh Lê vốn là thanh \r\nmai trúc mã của Diệp Ly, mang tiếng là một &quot;Vương gia mê hí khúc&quot;, hắn \r\nlại âm thầm thao túng thế cuộc, nung nấu dã tâm đoạt ngôi. Cuối cùng, \r\nDiệp Ly và Mặc Tu Nghiêu liên thủ phò tá tiểu hoàng đế chấp chính, liên \r\ntiếp phá tan âm mưu của Mộc Dương Hầu và Lê Vương, mang lại cảnh thái \r\nbình cho thiên hạ."
-        },
-        {
-            "name": "Mai Cồ",
-            "year": 2026,
-            "slug": "mai-co",
-            "thumb": "https://phimimg.com/upload/vod/20260610-1/de455d52d9a992748923792d0e7d711f.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260610-1/5d97ad4e52952ce97e0500cfa68ee61e.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Michael là bức chân dung điện ảnh khắc họa cuộc đời và di sản của một trong những nghệ sĩ có sức ảnh hưởng lớn nhất mà thế giới từng biết đến. Bộ phim kể về cuộc đời của Michael Jackson ngoài âm nhạc, theo dấu hành trình từ khi tài năng phi thường của ông được phát hiện trong vai trò giọng ca chính của nhóm Jackson Five, cho đến khi ông trở thành một nghệ sĩ có tầm nhìn xa, với khát vọng sáng tạo không ngừng để vươn tới danh hiệu “ngôi sao giải trí vĩ đại nhất thế giới”. Cho thấy cuộc sống phía sau hào quang sân khấu lẫn những màn trình diễn mang tính biểu tượng nhất trong giai đoạn đầu sự nghiệp solo, bộ phim mang đến cho khán giả một góc nhìn chân thực hơn bao giờ hết về Michael Jackson. Đây chính là nơi câu chuyện của ông bắt đầu."
-        },
-        {
-            "name": "Mộc Lan Ngọt Ngào (Phần 5)",
-            "year": 2026,
-            "slug": "moc-lan-ngot-ngao-phan-5",
-            "thumb": "https://phimimg.com/upload/vod/20260611-1/fadac77498fa0a72dd4c1eadfb9a1b2d.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260611-1/e786de6befc3a81c8fa53b94a556f1d1.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (10/10)",
-            "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Nhóm bạn chí cốt Maddie, Helen và Dana Sue luôn nâng đỡ nhau khi họ xoay xở giữa các mối quan hệ, gia đình và sự nghiệp ở thị trấn miền Nam nhỏ bé mang tên Serenity."
-        },
-        {
-            "name": "Siêu Quậy Marsupilami",
-            "year": 2026,
-            "slug": "sieu-quay-marsupilami",
-            "thumb": "https://phimimg.com/upload/vod/20260609-1/ce83fd4f831ee631c254b3c9eeb7c9ac.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260609-1/3591605a882f0bd65e1a8f22bbe793f1.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Pháp",
-            "description": "Để cứu lấy công việc, David Ticoule chấp nhận vận chuyển một kiện hàng bí ẩn từ Nam Mỹ về Pháp. Anh đưa con trai Léo và vợ cũ Tess đi cùng, vô tình kéo họ vào một phi vụ nguy hiểm mà chính anh cũng chưa kịp hiểu rõ. Mọi thứ nhanh chóng vượt khỏi tầm kiểm soát khi kiện hàng bị mở ra ngoài ý muốn. Bên trong là một sinh vật nhỏ bé, đáng yêu nhưng kéo theo hàng loạt rắc rối không tưởng. Từ một chuyến đi tưởng chừng đơn giản, hành trình trên biển bỗng biến thành chuỗi tình huống dở khóc dở cười. Giữa đại dương, họ phải học cách tin tưởng và sát cánh bên nhau để vượt qua hỗn loạn, đồng thời bảo vệ chính gia đình mình."
-        },
-        {
             "name": "Thần Y Cổ Đại Ở Thành Phố",
             "year": 2026,
             "slug": "than-y-co-dai-o-thanh-pho",
@@ -2983,30 +2923,6 @@
             "total_episodes": "36",
             "country": "Trung Quốc",
             "description": "Truyền nhân của thần y, Ngô Danh xuống núi để truy đuổi kẻ phản bội Quỷ Trần. Bằng tuyệt học gia truyền, anh đã cứu sống gia chủ nhà Dã Điền, khiến hai nàng thiên kim tiểu thư Trí Tử và Mỹ Đại Tử đem lòng ngưỡng mộ. Sau đó, anh lại dùng y thuật cùng tấm lòng nhân hậu chữa khỏi căn bệnh kỳ lạ của sếp tổng mạnh mẽ Tô Uyển, chiếm được cảm tình của cô. Cuối cùng, với sự hỗ trợ của các mỹ nhân, Ngô Danh đã tiêu diệt kẻ phản bội Quỷ Trần. Từ đó về sau, anh và các cô gái cùng đồng hành trên con đường hành y cứu người, cứu đời."
-        },
-        {
-            "name": "Hổ Giấu Vằn (Payak Raai Sorn Laai)",
-            "year": 2026,
-            "slug": "ho-giau-van-payak-raai-sorn-laai",
-            "thumb": "https://phimimg.com/upload/vod/20260516-1/491a74f039db3dc1ecf09fb0f715f57b.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260516-1/77c1b40f3b62b6bbc79c5e1040b2340b.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 18",
-            "total_episodes": "24",
-            "country": "Thái Lan",
-            "description": "Sau khi người cha nuôi bị sát hại bởi tổ chức bí mật Phượng Hoàng Lửa, Taiga lên đường sang Thái Lan để tìm kiếm sự thật. Bằng cách thâm nhập vào một tập đoàn quyền lực có mối liên hệ mật thiết với thế giới ngầm tội phạm, anh ráo riết truy lùng tung tích của kẻ bí ẩn mang danh &quot;Ác Quỷ&quot;. Tại đây, Taiga liên tục đụng độ với Rin – một vệ sĩ luôn sống khép kín, người cũng mang trong mình mối thù sâu sắc liên quan đến cùng một âm mưu đen tối."
-        },
-        {
-            "name": "Cam Kết Thỏa Mãn Tột Cùng",
-            "year": 2026,
-            "slug": "cam-ket-thoa-man-tot-cung",
-            "thumb": "https://phimimg.com/upload/vod/20260521-1/ed43621ae21ba30c0e26750a08015c33.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260521-1/03a0c10b0dff685c4b64716275d056c1.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 5",
-            "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Một bà mẹ vừa ly hôn bất ngờ rơi vào vòng xoáy nguy hiểm của tống tiền, án mạng và... bóng đá thiếu nhi."
         },
         {
             "name": "Hồ Sơ Nam Bộ",
@@ -3021,16 +2937,64 @@
             "description": "Thời kỳ đầu Dân Quốc, trên vùng biển Nam Dương xảy ra vụ án mạng kỳ bí &quot;Thủy quỷ vọng hương&quot;. Hai nhân viên thuộc Cục Lưu trữ Phía Nam - đơn vị chuyên điều tra các sự kiện huyền bí của gia tộc họ Trương là Trương Hải Diêm và Trương Hải Hà được cử đến hiện trường. Không ngờ họ vướng vào một âm mưu tử thần nhằm săn lùng các thành viên họ Trương ở hải ngoại. Trương Hải Hà hy sinh thân mình để mở đường cho Hải Diêm lên chuyến tàu Nam An trở về Hạ Môn, hy vọng đồng đội có cơ hội sống sót. Nhưng chuyến hải trình đầy sóng gió này mới chỉ là khởi đầu: một tên quân phiệt quyền lực, chàng kế toán trẻ ngây thơ nhưng kiên định, cùng người thân thập niên chưa gặp... Hải Diêm đơn độc đối mặt với những biến cố dồn dập. Và khi chân anh chạm đất Hạ Môn, số phận thực sự của hai chàng trai mới bắt đầu thay đổi..."
         },
         {
-            "name": "Ngôi Nhà Của Những Lời Dối Trá",
+            "name": "Ba Trợn",
             "year": 2026,
-            "slug": "ngoi-nha-cua-nhung-loi-doi-tra",
-            "thumb": "https://phimimg.com/upload/vod/20260606-1/3d42c9f0351cf731faa71f3979d50cf4.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260606-1/149b3de70031b4a373a224e59f46ca2b.jpg",
+            "slug": "ba-tron",
+            "thumb": "https://phimimg.com/upload/vod/20260602-1/5b5dc9f7a42a9bd16f53d5ece1f57ed5.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260602-1/2d13c664d8c29d1521097ffc258ab6f4.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Một nhà văn chuyên viết tiểu thuyết kinh dị đến một quán trọ hẻo lánh ở Ireland để rải tro cốt của cha mẹ mình. Không hay biết rằng nơi đây bị đồn đại là bị ám bởi một mụ phù thủy, anh dần nhận ra chuyến đi tưởng như riêng tư và yên lặng này đang kéo anh vào một nỗi kinh hoàng cổ xưa."
+        },
+        {
+            "name": "Bác Sĩ Đảo Hoang",
+            "year": 2026,
+            "slug": "bac-si-dao-hoang",
+            "thumb": "https://phimimg.com/upload/vod/20260603-1/658491161287e882fe760f8e8716d503.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260603-1/2e03fed51702bd8387cc01b428e2a96b.jpg",
             "sub_type": "Vietsub",
             "current_episode": "Tập 4",
-            "total_episodes": "8",
+            "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Seo I-do, một sát thủ chuyên nghiệp, được giao nhiệm vụ thủ tiêu Heo Dong-hwa tại một căn nhà biệt lập. Tuy nhiên, trước khi hoàn thành nhiệm vụ, anh bất ngờ nhận lệnh phải giữ Dong-hwa sống và giam giữ anh ta thay vì giết chết. Mọi chuyện trở nên phức tạp khi Chu Tae-jeong xuất hiện. Tae-jeong là bạn cũ của Dong-hwa và vô tình nhầm I-do là em trai của Dong-hwa. Để che giấu thân phận thật, I-do tiếp tục sống trong lời nói dối đó. Nhưng anh sớm phát hiện Tae-jeong thực chất là một cảnh sát đang điều tra những bí mật xoay quanh căn nhà và những người trong đó. Trong khi cố giữ bí mật về thân phận sát thủ của mình, I-do dần nảy sinh tình cảm với Tae-jeong. Tình yêu ngày càng lớn khiến anh phải lựa chọn giữa hoàn thành nhiệm vụ và bảo vệ người mình yêu. Khi những bí mật trong quá khứ lần lượt bị phơi bày, tất cả đều phải đối mặt với sự thật đằng sau &quot;ngôi nhà nơi những lời dối trá sinh sống&quot;."
+            "description": "Một bác sĩ y tế công cộng trên một hòn đảo bị xa lánh và một nữ y tá bí ẩn bắt đầu một mối tình lãng mạn giữa con người và y khoa."
+        },
+        {
+            "name": "Hổ Giấu Vằn (Payak Raai Sorn Laai)",
+            "year": 2026,
+            "slug": "ho-giau-van-payak-raai-sorn-laai",
+            "thumb": "https://phimimg.com/upload/vod/20260516-1/491a74f039db3dc1ecf09fb0f715f57b.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260516-1/77c1b40f3b62b6bbc79c5e1040b2340b.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 18",
+            "total_episodes": "24",
+            "country": "Thái Lan",
+            "description": "Sau khi người cha nuôi bị sát hại bởi tổ chức bí mật Phượng Hoàng Lửa, Taiga lên đường sang Thái Lan để tìm kiếm sự thật. Bằng cách thâm nhập vào một tập đoàn quyền lực có mối liên hệ mật thiết với thế giới ngầm tội phạm, anh ráo riết truy lùng tung tích của kẻ bí ẩn mang danh &quot;Ác Quỷ&quot;. Tại đây, Taiga liên tục đụng độ với Rin – một vệ sĩ luôn sống khép kín, người cũng mang trong mình mối thù sâu sắc liên quan đến cùng một âm mưu đen tối."
+        },
+        {
+            "name": "Phi Thăng Giữa Ban Ngày",
+            "year": 2026,
+            "slug": "phi-thang-giua-ban-ngay",
+            "thumb": "https://phimimg.com/upload/vod/20260611-1/32a37dbdc3143ba00681a28c856fad2c.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260611-1/c755978c044430200ed5bdadda533fd2.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 12",
+            "total_episodes": "23",
+            "country": "Trung Quốc",
+            "description": "Tiên Vương Tô Vô Bệnh và Thượng tiên Lâm Ninh Tuyết bị Thiên đạo giáng họa cản trở trong ngày đại hôn. Ninh Tuyết vì bảo vệ Tô Vô Bệnh mà hồn tiêu phách tán, cả hai cùng rơi vào luân hồi."
+        },
+        {
+            "name": "Mộc Lan Ngọt Ngào (Phần 5)",
+            "year": 2026,
+            "slug": "moc-lan-ngot-ngao-phan-5",
+            "thumb": "https://phimimg.com/upload/vod/20260611-1/fadac77498fa0a72dd4c1eadfb9a1b2d.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260611-1/e786de6befc3a81c8fa53b94a556f1d1.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (10/10)",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Nhóm bạn chí cốt Maddie, Helen và Dana Sue luôn nâng đỡ nhau khi họ xoay xở giữa các mối quan hệ, gia đình và sự nghiệp ở thị trấn miền Nam nhỏ bé mang tên Serenity."
         },
         {
             "name": "Lớp Học Tình Yêu (Phần 3)",
@@ -3045,18 +3009,6 @@
             "description": "Hyun Jae và Soo An từng gặp nhau trong một chương trình sống còn tuyển chọn idol. Trong thời gian thi đấu, cả hai dần nảy sinh tình cảm. Tuy nhiên cuối cùng chỉ có Hyun Jae được debut, còn Soo An bị loại, khiến họ phải chia xa dù vẫn còn tình cảm với nhau."
         },
         {
-            "name": "Vũ Điệu Tình Thù",
-            "year": 2026,
-            "slug": "vu-dieu-tinh-thu",
-            "thumb": "https://phimimg.com/upload/vod/20260423-1/50665a7a7cac310f5583e3e0148dfc09.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260423-1/5fbf1f8f8cca55b836d2e8c0ebb39c5d.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 16",
-            "total_episodes": "18",
-            "country": "Thái Lan",
-            "description": "Soi và Mala là hai người bạn thân và cùng là vũ nữ trong một đoàn kịch. Những tưởng họ sẽ đồng hành cùng nhau vươn đến đỉnh cao sự nghiệp, nhưng sự xuất hiện của một người đàn ông đã làm rạn nứt tình cảm giữa hai cô gái, khiến Mala phải dứt áo ra đi. Mặc dù vậy, trong suốt nhiều năm tháng sau đó, số phận của Soi và Mala vẫn gắn liền với nhau qua bao thăng trầm, tổn thương và mất mát của cuộc đời. Không chỉ là câu chuyện yêu hận tình thù giữa hai nàng vũ nữ, Vũ Điệu Tình Thù còn khắc họa thời kỳ hoàng kim của múa truyền thống Thái Lan và những yếu tố lịch sử dẫn đến sự suy tàn của môn nghệ thuật này."
-        },
-        {
             "name": "Mộc Lan Ngọt Ngào (Phần 4)",
             "year": 2025,
             "slug": "moc-lan-ngot-ngao-phan-4",
@@ -3069,28 +3021,76 @@
             "description": "Nhóm Mộc lan nâng ly chúc mừng những ngày tháng sắp tới. Nhà hàng tổ chức một sự kiện sang trọng. Một bữa tiệc Halloween vui vẻ khơi dậy những bất ngờ đầy mê hoặc."
         },
         {
-            "name": "Ba Trợn",
+            "name": "Mạc Ly",
             "year": 2026,
-            "slug": "ba-tron",
-            "thumb": "https://phimimg.com/upload/vod/20260602-1/5b5dc9f7a42a9bd16f53d5ece1f57ed5.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260602-1/2d13c664d8c29d1521097ffc258ab6f4.jpg",
+            "slug": "mac-ly",
+            "thumb": "https://phimimg.com/upload/vod/20260609-1/089ebc9ac027d516a2885aaee749d354.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260609-1/ae12c9e970982d4ce4c70e9633b5d2cc.jpg",
             "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 10",
+            "total_episodes": "40",
+            "country": "Trung Quốc",
+            "description": "Trưởng nữ Diệp Ly của Diệp Phủ được gả sang Định Vương Phủ suy tàn, \r\nthành thân với kẻ tàn tật hai chân là Định Vương Mặc Tu Nghiêu. Ngày \r\nDiệp Ly xuất giá, Lê Vương Mặc Cảnh Lê cũng thành thân với thứ nữ Diệp \r\nPhủ là Diệp Oánh. Là hậu duệ Ly Sơn, Diệp Ly từng bị nhốt trong núi 8 \r\nnăm. Sau khi thành thân, bề ngoài nàng tỏ ra an phận, nhưng thực chất \r\nlại âm thầm lên kế hoạch loại bỏ từng kẻ từng hãm hại Ly Sơn năm xưa. \r\nTrong quá trình ấy, nàng vấp phải sự nghi ngờ của Mặc Tu Nghiêu, người \r\ncũng đang nuôi chí báo thù. Hai người mỗi bên đều âm thầm hành động, \r\nkhiến mặt hồ tưởng chừng bình lặng dậy sóng. Mặc Cảnh Lê vốn là thanh \r\nmai trúc mã của Diệp Ly, mang tiếng là một &quot;Vương gia mê hí khúc&quot;, hắn \r\nlại âm thầm thao túng thế cuộc, nung nấu dã tâm đoạt ngôi. Cuối cùng, \r\nDiệp Ly và Mặc Tu Nghiêu liên thủ phò tá tiểu hoàng đế chấp chính, liên \r\ntiếp phá tan âm mưu của Mộc Dương Hầu và Lê Vương, mang lại cảnh thái \r\nbình cho thiên hạ."
+        },
+        {
+            "name": "Vũ Điệu Tình Thù",
+            "year": 2026,
+            "slug": "vu-dieu-tinh-thu",
+            "thumb": "https://phimimg.com/upload/vod/20260423-1/50665a7a7cac310f5583e3e0148dfc09.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260423-1/5fbf1f8f8cca55b836d2e8c0ebb39c5d.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 16",
+            "total_episodes": "18",
+            "country": "Thái Lan",
+            "description": "Soi và Mala là hai người bạn thân và cùng là vũ nữ trong một đoàn kịch. Những tưởng họ sẽ đồng hành cùng nhau vươn đến đỉnh cao sự nghiệp, nhưng sự xuất hiện của một người đàn ông đã làm rạn nứt tình cảm giữa hai cô gái, khiến Mala phải dứt áo ra đi. Mặc dù vậy, trong suốt nhiều năm tháng sau đó, số phận của Soi và Mala vẫn gắn liền với nhau qua bao thăng trầm, tổn thương và mất mát của cuộc đời. Không chỉ là câu chuyện yêu hận tình thù giữa hai nàng vũ nữ, Vũ Điệu Tình Thù còn khắc họa thời kỳ hoàng kim của múa truyền thống Thái Lan và những yếu tố lịch sử dẫn đến sự suy tàn của môn nghệ thuật này."
+        },
+        {
+            "name": "Siêu Quậy Marsupilami",
+            "year": 2026,
+            "slug": "sieu-quay-marsupilami",
+            "thumb": "https://phimimg.com/upload/vod/20260609-1/ce83fd4f831ee631c254b3c9eeb7c9ac.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260609-1/3591605a882f0bd65e1a8f22bbe793f1.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Pháp",
+            "description": "Để cứu lấy công việc, David Ticoule chấp nhận vận chuyển một kiện hàng bí ẩn từ Nam Mỹ về Pháp. Anh đưa con trai Léo và vợ cũ Tess đi cùng, vô tình kéo họ vào một phi vụ nguy hiểm mà chính anh cũng chưa kịp hiểu rõ. Mọi thứ nhanh chóng vượt khỏi tầm kiểm soát khi kiện hàng bị mở ra ngoài ý muốn. Bên trong là một sinh vật nhỏ bé, đáng yêu nhưng kéo theo hàng loạt rắc rối không tưởng. Từ một chuyến đi tưởng chừng đơn giản, hành trình trên biển bỗng biến thành chuỗi tình huống dở khóc dở cười. Giữa đại dương, họ phải học cách tin tưởng và sát cánh bên nhau để vượt qua hỗn loạn, đồng thời bảo vệ chính gia đình mình."
+        },
+        {
+            "name": "Mai Cồ",
+            "year": 2026,
+            "slug": "mai-co",
+            "thumb": "https://phimimg.com/upload/vod/20260610-1/de455d52d9a992748923792d0e7d711f.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260610-1/5d97ad4e52952ce97e0500cfa68ee61e.jpg",
+            "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
             "country": "Âu Mỹ",
-            "description": "Một nhà văn chuyên viết tiểu thuyết kinh dị đến một quán trọ hẻo lánh ở Ireland để rải tro cốt của cha mẹ mình. Không hay biết rằng nơi đây bị đồn đại là bị ám bởi một mụ phù thủy, anh dần nhận ra chuyến đi tưởng như riêng tư và yên lặng này đang kéo anh vào một nỗi kinh hoàng cổ xưa."
+            "description": "Michael là bức chân dung điện ảnh khắc họa cuộc đời và di sản của một trong những nghệ sĩ có sức ảnh hưởng lớn nhất mà thế giới từng biết đến. Bộ phim kể về cuộc đời của Michael Jackson ngoài âm nhạc, theo dấu hành trình từ khi tài năng phi thường của ông được phát hiện trong vai trò giọng ca chính của nhóm Jackson Five, cho đến khi ông trở thành một nghệ sĩ có tầm nhìn xa, với khát vọng sáng tạo không ngừng để vươn tới danh hiệu “ngôi sao giải trí vĩ đại nhất thế giới”. Cho thấy cuộc sống phía sau hào quang sân khấu lẫn những màn trình diễn mang tính biểu tượng nhất trong giai đoạn đầu sự nghiệp solo, bộ phim mang đến cho khán giả một góc nhìn chân thực hơn bao giờ hết về Michael Jackson. Đây chính là nơi câu chuyện của ông bắt đầu."
         },
         {
-            "name": "Phi Thăng Giữa Ban Ngày",
+            "name": "Cam Kết Thỏa Mãn Tột Cùng",
             "year": 2026,
-            "slug": "phi-thang-giua-ban-ngay",
-            "thumb": "https://phimimg.com/upload/vod/20260611-1/32a37dbdc3143ba00681a28c856fad2c.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260611-1/c755978c044430200ed5bdadda533fd2.jpg",
+            "slug": "cam-ket-thoa-man-tot-cung",
+            "thumb": "https://phimimg.com/upload/vod/20260521-1/ed43621ae21ba30c0e26750a08015c33.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260521-1/03a0c10b0dff685c4b64716275d056c1.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 12",
-            "total_episodes": "23",
-            "country": "Trung Quốc",
-            "description": "Tiên Vương Tô Vô Bệnh và Thượng tiên Lâm Ninh Tuyết bị Thiên đạo giáng họa cản trở trong ngày đại hôn. Ninh Tuyết vì bảo vệ Tô Vô Bệnh mà hồn tiêu phách tán, cả hai cùng rơi vào luân hồi."
+            "current_episode": "Tập 5",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Một bà mẹ vừa ly hôn bất ngờ rơi vào vòng xoáy nguy hiểm của tống tiền, án mạng và... bóng đá thiếu nhi."
+        },
+        {
+            "name": "Ngôi Nhà Của Những Lời Dối Trá",
+            "year": 2026,
+            "slug": "ngoi-nha-cua-nhung-loi-doi-tra",
+            "thumb": "https://phimimg.com/upload/vod/20260606-1/3d42c9f0351cf731faa71f3979d50cf4.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260606-1/149b3de70031b4a373a224e59f46ca2b.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "8",
+            "country": "Hàn Quốc",
+            "description": "Seo I-do, một sát thủ chuyên nghiệp, được giao nhiệm vụ thủ tiêu Heo Dong-hwa tại một căn nhà biệt lập. Tuy nhiên, trước khi hoàn thành nhiệm vụ, anh bất ngờ nhận lệnh phải giữ Dong-hwa sống và giam giữ anh ta thay vì giết chết. Mọi chuyện trở nên phức tạp khi Chu Tae-jeong xuất hiện. Tae-jeong là bạn cũ của Dong-hwa và vô tình nhầm I-do là em trai của Dong-hwa. Để che giấu thân phận thật, I-do tiếp tục sống trong lời nói dối đó. Nhưng anh sớm phát hiện Tae-jeong thực chất là một cảnh sát đang điều tra những bí mật xoay quanh căn nhà và những người trong đó. Trong khi cố giữ bí mật về thân phận sát thủ của mình, I-do dần nảy sinh tình cảm với Tae-jeong. Tình yêu ngày càng lớn khiến anh phải lựa chọn giữa hoàn thành nhiệm vụ và bảo vệ người mình yêu. Khi những bí mật trong quá khứ lần lượt bị phơi bày, tất cả đều phải đối mặt với sự thật đằng sau &quot;ngôi nhà nơi những lời dối trá sinh sống&quot;."
         }
     ]
 }
