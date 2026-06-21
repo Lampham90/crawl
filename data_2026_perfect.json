@@ -1275,6 +1275,18 @@
     ],
     "bo_han": [
         {
+            "name": "Chủ Tịch Tập Sự",
+            "year": 2026,
+            "slug": "chu-tich-tap-su",
+            "thumb": "https://phimimg.com/upload/vod/20260531-1/8a6d8d1d15ce5d216a24d63ff0572a7c.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 7",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Kang Yong Ho là một chủ tịch quyền lực đã đưa tập đoàn của mình vào top 10 thế giới. Sau một tai nạn bất ngờ, linh hồn của ông hoán đổi với một thanh niên trẻ tên Hwang Jun Hyeon. Trong thân xác mới, vị chủ tịch này buộc phải bắt đầu lại từ con số không với tư cách là một nhân viên mới ngay tại chính tập đoàn mình gây dựng. Chủ Tịch Tập Sự (Reborn Rookie) đào sâu góc nhìn độc đáo về sự phân hóa giai cấp, mâu thuẫn trong gia đình tài phiệt và sự khắc nghiệt của môi trường công sở hiện đại, đồng thời truyền tải thông điệp về giá trị của lòng trắc ẩn và sự thấu hiểu từ những vị trí thấp nhất trong xã hội."
+        },
+        {
             "name": "Lớp Học Tình Yêu (Phần 3)",
             "year": 2026,
             "slug": "lop-hoc-tinh-yeu-phan-3",
@@ -1441,18 +1453,6 @@
             "total_episodes": "10",
             "country": "Hàn Quốc",
             "description": "Sau khi tình cờ phát hiện ra một kho vàng khổng lồ, Heejoo phải đối mặt với lòng tham, sự phản bội và cuộc chiến sinh tồn."
-        },
-        {
-            "name": "Giá Trị Tuyệt Đối Của Lãng Mạn",
-            "year": 2026,
-            "slug": "gia-tri-tuyet-doi-cua-lang-man",
-            "thumb": "https://phimimg.com/upload/vod/20260509-1/40a5a9f7445ae1ebee273a8aa54c73a2.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260509-1/584e66818e68f5429f85d0df2257a8ad.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (16/16)",
-            "total_episodes": "16",
-            "country": "Hàn Quốc",
-            "description": "Eui-ju, một nữ sinh trầm lặng ban ngày, là một tiểu thuyết gia viết tiểu thuyết tình cảm ban đêm, được truyền cảm hứng khi bốn giáo viên điển trai xuất hiện: Woo-su lạnh lùng, Da-ju sôi nổi, Gi-jeon cộc cằn và Dong-ju dịu dàng. Cô đưa họ vào cuốn tiểu thuyết mới của mình, và nó nổi tiếng chỉ sau một đêm! Nhưng bí mật của cô bị Woo-su, kẻ thù không đội trời chung từ trước đến giờ, phát hiện. Cô chấp nhận lời đề nghị của anh ta để bảo vệ bí mật của mình, nhưng liệu cô có thể hoàn thành cuốn tiểu thuyết này mà không bị tổn hại gì không?"
         }
     ],
     "le_trung": [
@@ -2913,40 +2913,64 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Tình Yêu Có Pháo Hoa",
+            "name": "Nhất Niệm Sơ Kiến Cẩm Y Dao",
             "year": 2026,
-            "slug": "tinh-yeu-co-phao-hoa",
-            "thumb": "https://phimimg.com/upload/vod/20260615-1/c2def538c0d18eeace93e7a6c358679f.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260615-1/db63587e4b529e6604d423307c8d0258.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 13",
-            "total_episodes": "40",
+            "slug": "nhat-niem-so-kien-cam-y-dao",
+            "thumb": "https://phimimg.com/upload/vod/20260620-1/c1ce152da94b83c8ed93ca1b38a5d053.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260620-1/6d96b21eced6e9b82608f0bd290e3dc8.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "36",
             "country": "Trung Quốc",
-            "description": "Tình Yêu Có Pháo Hoa là bộ phim tình cảm đô thị xoay quanh Lý Diệc Phi, một chuyên gia ngân hàng đầu tư sa cơ sau thất bại trong công việc, và Tiền Phi, cô gái đang chật vật đối mặt với cú sốc thất tình lẫn thất nghiệp. Tình cờ trở thành bạn cùng nhà để giảm bớt gánh nặng tài chính, cả hai liên tục va chạm vì khác biệt về tính cách, hoàn cảnh và quan điểm sống. Thế nhưng qua những ngày chung sống đầy dở khóc dở cười, họ dần thấu hiểu, động viên và giúp nhau trưởng thành, từ đó viết nên một câu chuyện tình yêu ngọt ngào giữa lòng thành phố hiện đại."
+            "description": "Để điều tra chân tướng vụ án oan của cha mình, &quot;nữ thợ săn tiền thưởng&quot; Thẩm Băng Phàm đã gia nhập Bắc Trấn Phủ Ty thuộc Cẩm Y Vệ. Tại đây, cô cùng Trình Hân Điềm và Hoa Mãn Các trở thành những nữ Cẩm Y Vệ tài ba. Trong quá trình điều tra phá án, cô lại liên minh với ông chủ bí ẩn Thường Bắc Minh và cậu tạp dịch Hứa Đa Ngư. Họ cùng nhau đối đầu với các thế lực cường quyền, phá giải hàng loạt kỳ án, từng bước vạch trần sự thật về vụ án năm xưa khi cha cô bị hãm hại..."
         },
         {
-            "name": "Bác Sĩ Đảo Hoang",
+            "name": "Phi Vụ Thế Kỷ 3: Thoắt Ẩn Thoắt Hiện",
+            "year": 2025,
+            "slug": "phi-vu-the-ky-3-thoat-an-thoat-hien",
+            "thumb": "https://phimimg.com/upload/vod/20251130-1/391d51dfd73c3c9f83a652ad97636aeb.jpg",
+            "poster": "https://phimimg.com/upload/vod/20251130-1/a23873fe569bef95355185302c10d872.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Nhóm Tứ Kỵ Sĩ ban đầu tái hợp cùng với một thế hệ ảo thuật gia mới để đối đầu với nữ thừa kế kim cương đầy quyền lực là Veronika Vanderberg. Veronika điều hành một đế chế tội phạm được xây dựng trên hoạt động rửa tiền và buôn bán người.&nbsp; Các ảo thuật gia mới và cũ phải vượt qua những khác biệt của mình để cùng nhau thực hiện vụ trộm đầy tham vọng nhất từ trước đến nay."
+        },
+        {
+            "name": "Vân Tú Hành",
             "year": 2026,
-            "slug": "bac-si-dao-hoang",
-            "thumb": "https://phimimg.com/upload/vod/20260603-1/658491161287e882fe760f8e8716d503.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260603-1/2e03fed51702bd8387cc01b428e2a96b.jpg",
-            "sub_type": "Vietsub",
+            "slug": "van-tu-hanh",
+            "thumb": "https://phimimg.com/upload/vod/20260620-1/00083387b890aaac69f0490b3fda8c13.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260620-1/6b7cf552ac9b66e18a5382c922d2bd0d.jpg",
+            "sub_type": "Thuyết Minh",
             "current_episode": "Tập 6",
+            "total_episodes": "36",
+            "country": "Trung Quốc",
+            "description": "&quot;Vân Tú Hành&quot; là một bộ phim cổ trang do Chu Thiếu Kiệt (Chúc Khanh Hảo) đạo diễn, Lý Nhất Đồng (Cuồng Tiêu), Tăng Thuấn Hy (Liên Hoa Lâu), Đặng Vi (Tiêu Sái Giai Nhân Đạm Đạm Trang&quot;) đóng vai chính. Cửu Thành trong truyền thuyết có một vị tiểu thư nghèo xuất thân danh môn Phạm Vân (Lý Nhất Đồng thủ vai) và một vị thành chủ Tề Tranh (Tăng Thuấn Hy thủ vai). Họ từ việc thử thách đối phương cho đến sự tin tưởng lẫn nhau, hai người cùng nhau vượt qua khó khăn để phục vụ nhân dân, cuối cùng họ có được cả tình bằng hữu và tình yêu; Phạm Vân cũng giúp Tề Tranh bình thiên hạ, phá bỏ lễ giáo cũ và giải quyết khủng hoảng ở Cửu Thành, cùng nhau xây dựng một Cửu Thành phồn thịnh."
+        },
+        {
+            "name": "Chủ Tịch Tập Sự",
+            "year": 2026,
+            "slug": "chu-tich-tap-su",
+            "thumb": "https://phimimg.com/upload/vod/20260531-1/8a6d8d1d15ce5d216a24d63ff0572a7c.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 7",
             "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Một bác sĩ y tế công cộng trên một hòn đảo bị xa lánh và một nữ y tá bí ẩn bắt đầu một mối tình lãng mạn giữa con người và y khoa."
+            "description": "Kang Yong Ho là một chủ tịch quyền lực đã đưa tập đoàn của mình vào top 10 thế giới. Sau một tai nạn bất ngờ, linh hồn của ông hoán đổi với một thanh niên trẻ tên Hwang Jun Hyeon. Trong thân xác mới, vị chủ tịch này buộc phải bắt đầu lại từ con số không với tư cách là một nhân viên mới ngay tại chính tập đoàn mình gây dựng. Chủ Tịch Tập Sự (Reborn Rookie) đào sâu góc nhìn độc đáo về sự phân hóa giai cấp, mâu thuẫn trong gia đình tài phiệt và sự khắc nghiệt của môi trường công sở hiện đại, đồng thời truyền tải thông điệp về giá trị của lòng trắc ẩn và sự thấu hiểu từ những vị trí thấp nhất trong xã hội."
         },
         {
-            "name": "Lớp Học Tình Yêu (Phần 3)",
+            "name": "Trang Trại Dutton",
             "year": 2026,
-            "slug": "lop-hoc-tinh-yeu-phan-3",
-            "thumb": "https://phimimg.com/upload/vod/20260604-1/2353791bb14f17a7f695106b9c7c6852.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260604-1/4e28f3a3299759d4bf98c97b154a46cc.jpg",
+            "slug": "trang-trai-dutton",
+            "thumb": "https://phimimg.com/upload/vod/20260604-1/40b25c7cee4e1c8455dc7acbfef9f8b4.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260604-1/c714d7ad21f9fea3380edbfba93b72e8.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Hyun Jae và Soo An từng gặp nhau trong một chương trình sống còn tuyển chọn idol. Trong thời gian thi đấu, cả hai dần nảy sinh tình cảm. Tuy nhiên cuối cùng chỉ có Hyun Jae được debut, còn Soo An bị loại, khiến họ phải chia xa dù vẫn còn tình cảm với nhau."
+            "current_episode": "Tập 7",
+            "total_episodes": "9",
+            "country": "Âu Mỹ",
+            "description": "Trang trại Dutton là series cao bồi, chính kịch, tập trung vào hành trình mới của cặp đôi biểu tượng được người hâm mộ vô cùng yêu thích trong vũ trụ nổi tiếng Yellowstone, Beth Dutton và Rip Wheeler. Tiếp nối ngay sau biến cố cuối cùng của gia tộc Dutton trong loạt phim gốc Yellowstone, Beth và Rip quyết định rời khỏi Montana để xây dựng tương lai mới tại Trang trại Dutton ở Texas cùng Carter, cậu bé họ xem như con trai của mình, nhưng vùng đất mới này vốn không hề dễ sống. Trang trại mới của họ nhanh chóng trở thành mục tiêu của bà trùm chăn nuôi địa phương, những tay tài phiệt muốn thâu tóm đất đai và cả giới chính trị. Rip phải quay lại cuộc sống đẫm máu quen thuộc để bảo vệ gia đình, còn Beth tiếp tục dùng trí thông minh, sự tàn nhẫn và bản lĩnh thép để chống lại mọi kẻ thù. Với dàn diễn viên hạng A, cùng với nhịp phim dồn dập, các pha hành động đậm chất Viễn Tây… đã tạo nên thương hiệu của đạo diễn tài năng Taylor Sheridan hứa hẹn dây là bộ phim không thể bỏ lỡ của các tín đồ điện ảnh."
         },
         {
             "name": "Báu vật trời cho",
@@ -2961,16 +2985,40 @@
             "description": "Khi cậu bé sáu tuổi trong một gia đình đơn thân vô tình tìm được “người cha trời cho” của mình. Hàng loạt bí mật và định mệnh trớ trêu bị lật mở, để rồi mỗi người phải tự hỏi: Điều gì mới thật sự là báu vật trời cho trong đời mình?"
         },
         {
-            "name": "Tâm Trí Rực Rỡ (Phần 2)",
-            "year": 2025,
-            "slug": "tam-tri-ruc-ro-phan-2",
-            "thumb": "https://phimimg.com/upload/vod/20251010-1/4ce19265c70637c4eb52d0f671a71466.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251010-1/9e857cffbf53f56dbb06c61bc3ac4a95.jpg",
+            "name": "Yêu Được Chưa",
+            "year": 2026,
+            "slug": "yeu-duoc-chua",
+            "thumb": "https://phimimg.com/upload/vod/20260428-1/4662191e6d221754a7a3d4c62e1d7742.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260428-1/d563a77898b12886e0cc5eea272f1745.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 18",
-            "total_episodes": "22",
-            "country": "Âu Mỹ",
-            "description": "Bộ phim đưa khán giả vào một thế giới đầy mê hoặc của khoa học thần kinh, nơi những khám phá mới về bộ não liên tục được hé lộ. Qua đó, khán giả sẽ cùng các nhân vật trải nghiệm những cảm xúc thăng trầm, những mối quan hệ phức tạp và những câu hỏi về bản chất con người."
+            "current_episode": "Tập 17",
+            "total_episodes": "19",
+            "country": "Thái Lan",
+            "description": "Sau khi bị mối tình đầu phản bội, Wayruree luôn phải vật lộn với nỗi đau và không còn niềm tin vào tình yêu. Mọi thứ bắt đầu thay đổi khi cô gặp Mr. TJ — người đã dẫn dắt cô trên hành trình trưởng thành và dạy cô hiểu được ý nghĩa thực sự của tình yêu. Nhờ sự chân thành của anh, Wayruree dần chữa lành những vết thương lòng và một lần nữa mở rộng trái tim để đón nhận hạnh phúc."
+        },
+        {
+            "name": "Tình Yêu Có Pháo Hoa",
+            "year": 2026,
+            "slug": "tinh-yeu-co-phao-hoa",
+            "thumb": "https://phimimg.com/upload/vod/20260615-1/c2def538c0d18eeace93e7a6c358679f.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260615-1/db63587e4b529e6604d423307c8d0258.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 13",
+            "total_episodes": "40",
+            "country": "Trung Quốc",
+            "description": "Tình Yêu Có Pháo Hoa là bộ phim tình cảm đô thị xoay quanh Lý Diệc Phi, một chuyên gia ngân hàng đầu tư sa cơ sau thất bại trong công việc, và Tiền Phi, cô gái đang chật vật đối mặt với cú sốc thất tình lẫn thất nghiệp. Tình cờ trở thành bạn cùng nhà để giảm bớt gánh nặng tài chính, cả hai liên tục va chạm vì khác biệt về tính cách, hoàn cảnh và quan điểm sống. Thế nhưng qua những ngày chung sống đầy dở khóc dở cười, họ dần thấu hiểu, động viên và giúp nhau trưởng thành, từ đó viết nên một câu chuyện tình yêu ngọt ngào giữa lòng thành phố hiện đại."
+        },
+        {
+            "name": "Lớp Học Tình Yêu (Phần 3)",
+            "year": 2026,
+            "slug": "lop-hoc-tinh-yeu-phan-3",
+            "thumb": "https://phimimg.com/upload/vod/20260604-1/2353791bb14f17a7f695106b9c7c6852.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260604-1/4e28f3a3299759d4bf98c97b154a46cc.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Hyun Jae và Soo An từng gặp nhau trong một chương trình sống còn tuyển chọn idol. Trong thời gian thi đấu, cả hai dần nảy sinh tình cảm. Tuy nhiên cuối cùng chỉ có Hyun Jae được debut, còn Soo An bị loại, khiến họ phải chia xa dù vẫn còn tình cảm với nhau."
         },
         {
             "name": "Chi Bằng Gặp Nhau Một Lần",
@@ -3009,52 +3057,16 @@
             "description": "Dù vẫn còn tình cảm với nhau nhưng bị mẹ của Runch chia cắt, hai người phụ nữ phải giả vờ rằng cuộc hôn nhân của họ vẫn hạnh phúc để hoàn tất một thương vụ kinh doanh quan trọng."
         },
         {
-            "name": "Nhất Niệm Sơ Kiến Cẩm Y Dao",
+            "name": "Huyền Thoại Lính Bếp (Anh Nuôi - Thăng Cấp Thành Huyền Thoại)",
             "year": 2026,
-            "slug": "nhat-niem-so-kien-cam-y-dao",
-            "thumb": "https://phimimg.com/upload/vod/20260620-1/c1ce152da94b83c8ed93ca1b38a5d053.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260620-1/6d96b21eced6e9b82608f0bd290e3dc8.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "36",
-            "country": "Trung Quốc",
-            "description": "Để điều tra chân tướng vụ án oan của cha mình, &quot;nữ thợ săn tiền thưởng&quot; Thẩm Băng Phàm đã gia nhập Bắc Trấn Phủ Ty thuộc Cẩm Y Vệ. Tại đây, cô cùng Trình Hân Điềm và Hoa Mãn Các trở thành những nữ Cẩm Y Vệ tài ba. Trong quá trình điều tra phá án, cô lại liên minh với ông chủ bí ẩn Thường Bắc Minh và cậu tạp dịch Hứa Đa Ngư. Họ cùng nhau đối đầu với các thế lực cường quyền, phá giải hàng loạt kỳ án, từng bước vạch trần sự thật về vụ án năm xưa khi cha cô bị hãm hại..."
-        },
-        {
-            "name": "Phi Vụ Thế Kỷ 3: Thoắt Ẩn Thoắt Hiện",
-            "year": 2025,
-            "slug": "phi-vu-the-ky-3-thoat-an-thoat-hien",
-            "thumb": "https://phimimg.com/upload/vod/20251130-1/391d51dfd73c3c9f83a652ad97636aeb.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251130-1/a23873fe569bef95355185302c10d872.jpg",
+            "slug": "huyen-thoai-linh-bep-anh-nuoi-thang-cap-thanh-huyen-thoai",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/ff75b3cca05dfba9b513fc7e1aad3ee9.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/314a82119610749f0aa109e17d2e3957.jpg",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Nhóm Tứ Kỵ Sĩ ban đầu tái hợp cùng với một thế hệ ảo thuật gia mới để đối đầu với nữ thừa kế kim cương đầy quyền lực là Veronika Vanderberg. Veronika điều hành một đế chế tội phạm được xây dựng trên hoạt động rửa tiền và buôn bán người.&nbsp; Các ảo thuật gia mới và cũ phải vượt qua những khác biệt của mình để cùng nhau thực hiện vụ trộm đầy tham vọng nhất từ trước đến nay."
-        },
-        {
-            "name": "Yêu Được Chưa",
-            "year": 2026,
-            "slug": "yeu-duoc-chua",
-            "thumb": "https://phimimg.com/upload/vod/20260428-1/4662191e6d221754a7a3d4c62e1d7742.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260428-1/d563a77898b12886e0cc5eea272f1745.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 17",
-            "total_episodes": "19",
-            "country": "Thái Lan",
-            "description": "Sau khi bị mối tình đầu phản bội, Wayruree luôn phải vật lộn với nỗi đau và không còn niềm tin vào tình yêu. Mọi thứ bắt đầu thay đổi khi cô gặp Mr. TJ — người đã dẫn dắt cô trên hành trình trưởng thành và dạy cô hiểu được ý nghĩa thực sự của tình yêu. Nhờ sự chân thành của anh, Wayruree dần chữa lành những vết thương lòng và một lần nữa mở rộng trái tim để đón nhận hạnh phúc."
-        },
-        {
-            "name": "Trang Trại Dutton",
-            "year": 2026,
-            "slug": "trang-trai-dutton",
-            "thumb": "https://phimimg.com/upload/vod/20260604-1/40b25c7cee4e1c8455dc7acbfef9f8b4.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260604-1/c714d7ad21f9fea3380edbfba93b72e8.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 7",
-            "total_episodes": "9",
-            "country": "Âu Mỹ",
-            "description": "Trang trại Dutton là series cao bồi, chính kịch, tập trung vào hành trình mới của cặp đôi biểu tượng được người hâm mộ vô cùng yêu thích trong vũ trụ nổi tiếng Yellowstone, Beth Dutton và Rip Wheeler. Tiếp nối ngay sau biến cố cuối cùng của gia tộc Dutton trong loạt phim gốc Yellowstone, Beth và Rip quyết định rời khỏi Montana để xây dựng tương lai mới tại Trang trại Dutton ở Texas cùng Carter, cậu bé họ xem như con trai của mình, nhưng vùng đất mới này vốn không hề dễ sống. Trang trại mới của họ nhanh chóng trở thành mục tiêu của bà trùm chăn nuôi địa phương, những tay tài phiệt muốn thâu tóm đất đai và cả giới chính trị. Rip phải quay lại cuộc sống đẫm máu quen thuộc để bảo vệ gia đình, còn Beth tiếp tục dùng trí thông minh, sự tàn nhẫn và bản lĩnh thép để chống lại mọi kẻ thù. Với dàn diễn viên hạng A, cùng với nhịp phim dồn dập, các pha hành động đậm chất Viễn Tây… đã tạo nên thương hiệu của đạo diễn tài năng Taylor Sheridan hứa hẹn dây là bộ phim không thể bỏ lỡ của các tín đồ điện ảnh."
+            "current_episode": "Hoàn Tất (12/12)",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Xoay quanh một chàng lính trẻ bình thường được phân vào đội nhà bếp trong quân đội. Ban đầu anh bị xem thường vì không có năng lực chiến đấu nổi bật, nhưng lại sở hữu tài nấu ăn cực kỳ đặc biệt. Nhờ khả năng này, anh dần trở thành “huyền thoại nhà bếp” trong doanh trại."
         },
         {
             "name": "Thành Phố Phi Hành Gia (Phần 1) (Căn Cứ Star City)",
@@ -3069,28 +3081,16 @@
             "description": "Bước vào một chương mới đầy kịch tính lấy cảm hứng từ Cuộc Chiến Không Gian. Vẫn là vũ trụ lịch sử giả định đó, nhưng từ góc nhìn khác: góc nhìn của Liên Xô. Hãy cùng vượt qua Bức màn Sắt để theo chân các phi hành gia, kỹ sư và sĩ quan tình báo, những người đã đánh cược tất cả trong cuộc đua lên Mặt Trăng."
         },
         {
-            "name": "Vân Tú Hành",
-            "year": 2026,
-            "slug": "van-tu-hanh",
-            "thumb": "https://phimimg.com/upload/vod/20260620-1/00083387b890aaac69f0490b3fda8c13.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260620-1/6b7cf552ac9b66e18a5382c922d2bd0d.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 6",
-            "total_episodes": "36",
-            "country": "Trung Quốc",
-            "description": "&quot;Vân Tú Hành&quot; là một bộ phim cổ trang do Chu Thiếu Kiệt (Chúc Khanh Hảo) đạo diễn, Lý Nhất Đồng (Cuồng Tiêu), Tăng Thuấn Hy (Liên Hoa Lâu), Đặng Vi (Tiêu Sái Giai Nhân Đạm Đạm Trang&quot;) đóng vai chính. Cửu Thành trong truyền thuyết có một vị tiểu thư nghèo xuất thân danh môn Phạm Vân (Lý Nhất Đồng thủ vai) và một vị thành chủ Tề Tranh (Tăng Thuấn Hy thủ vai). Họ từ việc thử thách đối phương cho đến sự tin tưởng lẫn nhau, hai người cùng nhau vượt qua khó khăn để phục vụ nhân dân, cuối cùng họ có được cả tình bằng hữu và tình yêu; Phạm Vân cũng giúp Tề Tranh bình thiên hạ, phá bỏ lễ giáo cũ và giải quyết khủng hoảng ở Cửu Thành, cùng nhau xây dựng một Cửu Thành phồn thịnh."
-        },
-        {
-            "name": "Huyền Thoại Lính Bếp (Anh Nuôi - Thăng Cấp Thành Huyền Thoại)",
-            "year": 2026,
-            "slug": "huyen-thoai-linh-bep-anh-nuoi-thang-cap-thanh-huyen-thoai",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/ff75b3cca05dfba9b513fc7e1aad3ee9.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/314a82119610749f0aa109e17d2e3957.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (12/12)",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Xoay quanh một chàng lính trẻ bình thường được phân vào đội nhà bếp trong quân đội. Ban đầu anh bị xem thường vì không có năng lực chiến đấu nổi bật, nhưng lại sở hữu tài nấu ăn cực kỳ đặc biệt. Nhờ khả năng này, anh dần trở thành “huyền thoại nhà bếp” trong doanh trại."
+            "name": "Tâm Trí Rực Rỡ (Phần 2)",
+            "year": 2025,
+            "slug": "tam-tri-ruc-ro-phan-2",
+            "thumb": "https://phimimg.com/upload/vod/20251010-1/4ce19265c70637c4eb52d0f671a71466.jpg",
+            "poster": "https://phimimg.com/upload/vod/20251010-1/9e857cffbf53f56dbb06c61bc3ac4a95.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 18",
+            "total_episodes": "22",
+            "country": "Âu Mỹ",
+            "description": "Bộ phim đưa khán giả vào một thế giới đầy mê hoặc của khoa học thần kinh, nơi những khám phá mới về bộ não liên tục được hé lộ. Qua đó, khán giả sẽ cùng các nhân vật trải nghiệm những cảm xúc thăng trầm, những mối quan hệ phức tạp và những câu hỏi về bản chất con người."
         }
     ]
 }
