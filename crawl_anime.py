@@ -134,9 +134,9 @@ def main():
 
     # 4. HÀNG MIX (TRENDING)
     final_data["trending_phim_bo"] = interleave_trending(
-        final_data.get("bo_trung", []), final_data.get("bo_han", []),
-        final_data.get("bo_au_my", []), final_data.get("le_viet", []),
-        final_data.get("phim_chieu_rap", [])
+        final_data.get("bo_trung", [2]), final_data.get("bo_han", [2]),
+        final_data.get("bo_au_my", [2]), final_data.get("le_viet", [2]),
+        final_data.get("phim_chieu_rap", [2])
     )
     report.append(f"| {'Top Trending (Mix)':22} | {'🔥 MIXED':16} |")
 
