@@ -139,21 +139,32 @@ def fetch_special_lang(target_name, lang_code):
 
 def interleave_trending(tr, han, au, viet, rap):
     """
-    ĐÃ SỬA: Thay thế biến 'thai' thành 'viet' cho chuẩn logic gọi hàm.
-    Bỏ giới hạn cứng tỉ lệ bốc, gom toàn bộ phim bốc xoay vòng xen kẽ nhau,
-    sau đó mới trộn ngẫu nhiên và cắt đúng 15 phim để tối ưu số lượng (bù trừ data thiếu).
+    Giới hạn chính xác số lượng tối đa của từng loại trước khi trộn:
+    - Bộ Trung Quốc: tối đa 4 phim
+    - Bộ Hàn Quốc: tối đa 3 phim
+    - Bộ Âu Mỹ: tối đa 3 phim
+    - Phim Chiếu Rạp: tối đa 3 phim
+    - Lẻ Việt Nam: tối đa 2 phim
+    Tổng cộng vừa khít: 4 + 3 + 3 + 3 + 2 = 15 phim.
     """
     trending = []
-    l_tr, l_han, l_au, l_viet, l_rap = list(tr), list(han), list(au), list(viet), list(rap)
     
-    while l_tr or l_han or l_au or l_viet or l_rap:
+    # Cắt chuẩn số lượng từng loại ngay từ đầu vào (Đã sửa biến thai thành viet)
+    l_tr = list(tr)[:4]
+    l_han = list(han)[:3]
+    l_au = list(au)[:3]
+    l_rap = list(rap)[:3]
+    l_viet = list(viet)[:2]
+    
+    # Bốc xoay vòng xen kẽ để các nước trộn đều vào nhau (Không dùng random.shuffle nữa)
+    # Cách này giúp phim Trung, Hàn, Rạp... xuất hiện xen kẽ đẹp mắt trên giao diện
+    while l_tr or l_han or l_au or l_rap or l_viet:
         if l_tr: trending.append(l_tr.pop(0))
         if l_rap: trending.append(l_rap.pop(0))
         if l_han: trending.append(l_han.pop(0))
         if l_au: trending.append(l_au.pop(0))
         if l_viet: trending.append(l_viet.pop(0))
         
-    random.shuffle(trending)
     return trending[:15]
 
 def main():
