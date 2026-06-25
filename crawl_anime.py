@@ -1,4 +1,8 @@
-import requests, json, time, os, random
+import requests
+import json
+import time
+import os
+import random
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 
@@ -6,18 +10,22 @@ from datetime import datetime
 BASE_URL = "https://phimapi.com/v1/api"
 YEARS_FILTER = [2026, 2025] 
 TARGET_COUNT = 15
-MAX_WORKERS = 2 # Tăng nhẹ luồng để lọc trailer nhanh hơn
+MAX_WORKERS = 3  # Tối ưu tốc độ gọi chi tiết phim song song
 DATA_FILE = "data_2026_perfect.json"
 
 def get_data(url, params=None):
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
     try:
         res = requests.get(url, params=params, timeout=10)
-        if res.status_code == 200: return res.json()
-    except: pass
+        if res.status_code == 200: 
+            return res.json()
+    except Exception as e:
+        pass
     return None
 
 def fetch_detail(slug):
+    # Tránh spam API quá dồn dập trong luồng song song
+    time.sleep(random.uniform(0.1, 0.3)) 
     return get_data(f"{BASE_URL}/phim/{slug}")
 
 def parse_movie(m):
@@ -32,71 +40,119 @@ def parse_movie(m):
         "current_episode": m.get('episode_current', 'Full'),
         "total_episodes": str(m.get('episode_total', '1')),
         "country": m.get('country', [{}])[0].get('name', ''),
-        "description": m.get('content', '').replace('<p>','').replace('</p>','').strip()
+        "description": m.get('content', '').replace('<p>','').replace('</p>','').replace('<br>', '').strip()
     }
 
 def fetch_universal(target_name, endpoint, country_target=None, is_movie_logic=None):
     results, local_seen = [], set()
     print(f">>> Đang bào: {target_name}...")
-    for page in range(1, 41): # Tăng số trang quét vì phim trailer năm 2025-2026 rất nhiều
-        if len(results) >= TARGET_COUNT: break
+    
+    for page in range(1, 41): 
+        if len(results) >= TARGET_COUNT: 
+            break
+            
         data = get_data(f"{BASE_URL}/danh-sach/{endpoint}", {"page": page, "limit": 40})
-        if not data or 'data' not in data or not data['data'].get('items'): break
+        if not data or 'data' not in data or not data['data'].get('items'): 
+            break
+            
         items = data['data']['items']
+        
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             details = list(executor.map(fetch_detail, [it['slug'] for it in items]))
-        for d in details:
-            if len(results) >= TARGET_COUNT: break
-            if not d or 'data' not in d or 'item' not in d['data']: continue
-            m = d['data']['item']
             
-            # --- LOGIC LOẠI BỎ TRAILER ---
-            ep_current = str(m.get('episode_current', '')).lower()
-            if "trailer" in ep_current or "sắp ra mắt" in ep_current or "coming soon" in ep_current:
+        for d in details:
+            if len(results) >= TARGET_COUNT: 
+                break
+            if not d or 'data' not in d or 'item' not in d['data']: 
+                continue
+                
+            m = d['data']['item']
+            slug = m.get('slug')
+            
+            if slug in local_seen:
                 continue
 
-            if int(m.get('year', 0)) not in YEARS_FILTER: continue
+            # --- LOGIC LOẠI BỎ TRAILER & PHIM SẮP CHIẾU ---
+            ep_current = str(m.get('episode_current', '')).lower()
+            if any(x in ep_current for x in ["trailer", "sắp ra mắt", "coming soon", "tập 0"]):
+                continue
+
+            if int(m.get('year', 0)) not in YEARS_FILTER: 
+                continue
+                
             countries = [c.get('name') for c in m.get('country', [])]
             m_type = m.get('type', '')
             is_movie = (m_type == 'single' or str(m.get('episode_total')) == "1")
             
             if (not country_target or country_target in countries) and (is_movie_logic is None or is_movie == is_movie_logic):
                 results.append(parse_movie(m))
-                local_seen.add(m['slug'])
+                local_seen.add(slug)
+                
+        time.sleep(0.5)  # Nghỉ ngắn giữa các trang
     return results
 
 def fetch_special_lang(target_name, lang_code):
     results = []
+    local_seen = set()
     print(f">>> Đang bào: {target_name}...")
+    
     for year in YEARS_FILTER:
-        if len(results) >= TARGET_COUNT: break
-        data = get_data(f"{BASE_URL}/nam/{year}", {"page": 1, "limit": 40, "sort_lang": lang_code})
-        if not data or 'data' not in data or not data['data'].get('items'): continue
-        items = data['data']['items']
-        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            details = list(executor.map(fetch_detail, [it['slug'] for it in items]))
-        for d in details:
-            if len(results) >= TARGET_COUNT: break
-            if not d or 'data' not in d or 'item' not in d['data']: continue
-            m = d['data']['item']
+        if len(results) >= TARGET_COUNT: 
+            break
             
-            # --- LOGIC LOẠI BỎ TRAILER ---
-            ep_current = str(m.get('episode_current', '')).lower()
-            if "trailer" in ep_current or "sắp ra mắt" in ep_current:
-                continue
+        # ĐÃ SỬA: Thêm vòng lặp trang để quét sâu hơn nếu trang đầu bị loại nhiều trailer
+        for page in range(1, 10): 
+            if len(results) >= TARGET_COUNT: 
+                break
+                
+            data = get_data(f"{BASE_URL}/nam/{year}", {"page": page, "limit": 40, "sort_lang": lang_code})
+            if not data or 'data' not in data or not data['data'].get('items'): 
+                break
+                
+            items = data['data']['items']
+            
+            with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+                details = list(executor.map(fetch_detail, [it['slug'] for it in items]))
+                
+            for d in details:
+                if len(results) >= TARGET_COUNT: 
+                    break
+                if not d or 'data' not in d or 'item' not in d['data']: 
+                    continue
+                    
+                m = d['data']['item']
+                slug = m.get('slug')
+                
+                if slug in local_seen:
+                    continue
 
-            results.append(parse_movie(m))
+                # --- LOGIC LOẠI BỎ TRAILER ---
+                ep_current = str(m.get('episode_current', '')).lower()
+                if any(x in ep_current for x in ["trailer", "sắp ra mắt", "coming soon", "tập 0"]):
+                    continue
+
+                results.append(parse_movie(m))
+                local_seen.add(slug)
+                
+            time.sleep(0.5)
     return results
 
-def interleave_trending(tr, han, au, thai, rap):
+def interleave_trending(tr, han, au, viet, rap):
+    """
+    ĐÃ SỬA: Thay thế biến 'thai' thành 'viet' cho chuẩn logic gọi hàm.
+    Bỏ giới hạn cứng tỉ lệ bốc, gom toàn bộ phim bốc xoay vòng xen kẽ nhau,
+    sau đó mới trộn ngẫu nhiên và cắt đúng 15 phim để tối ưu số lượng (bù trừ data thiếu).
+    """
     trending = []
-    l_tr, l_han, l_au, l_thai, l_rap = list(tr[:4]), list(han[:3]), list(au[:3]), list(thai[:2]), list(rap[:3])
-    while l_tr or l_han or l_au or l_thai or l_rap:
+    l_tr, l_han, l_au, l_viet, l_rap = list(tr), list(han), list(au), list(viet), list(rap)
+    
+    while l_tr or l_han or l_au or l_viet or l_rap:
         if l_tr: trending.append(l_tr.pop(0))
         if l_rap: trending.append(l_rap.pop(0))
         if l_han: trending.append(l_han.pop(0))
         if l_au: trending.append(l_au.pop(0))
-        if l_thai: trending.append(l_thai.pop(0))
+        if l_viet: trending.append(l_viet.pop(0))
+        
     random.shuffle(trending)
     return trending[:15]
 
@@ -122,21 +178,23 @@ def main():
         res_le = fetch_universal(f"Lẻ {c_name}", "phim-le", c_name, True)
         res_bo = fetch_universal(f"Bộ {c_name}", "phim-bo", c_name, False)
         final_data[f"le_{c_key}"], final_data[f"bo_{c_key}"] = res_le, res_bo
-        report.append(f"| Lẻ {c_name:19} | {'✅' if len(res_le)>=TARGET_COUNT else len(res_le)} |")
-        report.append(f"| Bộ {c_name:19} | {'✅' if len(res_bo)>=TARGET_COUNT else len(res_bo)} |")
+        report.append(f"| Lẻ {c_name:19} | {'✅ ĐỦ' if len(res_le)>=TARGET_COUNT else f'⚠️ {len(res_le)}/15':16} |")
+        report.append(f"| Bộ {c_name:19} | {'✅ ĐỦ' if len(res_bo)>=TARGET_COUNT else f'⚠️ {len(res_bo)}/15':16} |")
 
     # 3. Lồng Tiếng & Thuyết Minh
     lt = fetch_special_lang("Lồng Tiếng", "long-tieng")
     tm = fetch_special_lang("Thuyết Minh", "thuyet-minh")
     final_data["long_tieng"], final_data["thuyet_minh"] = lt, tm
-    report.append(f"| {'Lồng Tiếng':22} | {'✅' if len(lt)>=TARGET_COUNT else len(lt)} |")
-    report.append(f"| {'Thuyết Minh':22} | {'✅' if len(tm)>=TARGET_COUNT else len(tm)} |")
+    report.append(f"| {'Lồng Tiếng':22} | {'✅ ĐỦ' if len(lt)>=TARGET_COUNT else f'⚠️ {len(lt)}/15':16} |")
+    report.append(f"| {'Thuyết Minh':22} | {'✅ ĐỦ' if len(tm)>=TARGET_COUNT else f'⚠️ {len(tm)}/15':16} |")
 
-    # 4. HÀNG MIX (TRENDING)
+    # 4. HÀNG MIX (TRENDING) - ĐÃ SỬA: Đổi [2] thành [] và map chuẩn mảng 'le_viet' thay vì biến rác
     final_data["trending_phim_bo"] = interleave_trending(
-        final_data.get("bo_trung", [2]), final_data.get("bo_han", [2]),
-        final_data.get("bo_au_my", [2]), final_data.get("le_viet", [2]),
-        final_data.get("phim_chieu_rap", [2])
+        final_data.get("bo_trung", []), 
+        final_data.get("bo_han", []),
+        final_data.get("bo_au_my", []), 
+        final_data.get("le_viet", []), 
+        final_data.get("phim_chieu_rap", [])
     )
     report.append(f"| {'Top Trending (Mix)':22} | {'🔥 MIXED':16} |")
 
@@ -145,8 +203,9 @@ def main():
         json.dump(final_data, f, ensure_ascii=False, indent=4)
 
     print("\n" + "="*45 + f"\n| BÁO CÁO CRAWL - {datetime.now().strftime('%d/%m %H:%M')} |\n" + "-"*45)
-    for line in report: print(line)
-    print("="*45 + f"\nTime: {int(time.time()-start_time)}s\n")
+    for line in report: 
+        print(line)
+    print("="*45 + f"\nTổng thời gian chạy: {int(time.time()-start_time)}s\n")
 
 if __name__ == "__main__":
     main()
