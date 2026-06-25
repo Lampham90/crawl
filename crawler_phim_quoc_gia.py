@@ -75,7 +75,7 @@ def crawl_country_logic(display_name, filename, endpoint, country, is_movie):
 
 if __name__ == "__main__":
     report = {}
-    countries = [("Việt Nam", "viet"), ("Hàn Quốc", "han"), ("Trung Quốc", "trung"), ("Âu Mỹ", "au_my"), ("Thái Lan", "thai")]
+    countries = [("Việt Nam", "vn"), ("Hàn Quốc", "han"), ("Trung Quốc", "trung"), ("Âu Mỹ", "au_my"), ("Thái Lan", "thai")]
     for c_name, c_key in countries:
         # Giờ đây is_movie (True/False) sẽ thực sự hoạt động
         report[f"le_{c_key}.json"] = crawl_country_logic(f"Lẻ {c_name}", f"le_{c_key}", "phim-le", c_name, True)
