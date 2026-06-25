@@ -13,6 +13,9 @@ TARGET_COUNT = 15
 MAX_WORKERS = 3  # Tối ưu tốc độ gọi chi tiết phim song song
 DATA_FILE = "data_2026_perfect.json"
 
+# Tập hợp kiểm tra trùng lặp trên TOÀN BỘ tiến trình crawl
+GLOBAL_SEEN = set()
+
 def get_data(url, params=None):
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
     try:
@@ -24,7 +27,6 @@ def get_data(url, params=None):
     return None
 
 def fetch_detail(slug):
-    # Tránh spam API quá dồn dập trong luồng song song
     time.sleep(random.uniform(0.1, 0.3)) 
     return get_data(f"{BASE_URL}/phim/{slug}")
 
@@ -44,7 +46,7 @@ def parse_movie(m):
     }
 
 def fetch_universal(target_name, endpoint, country_target=None, is_movie_logic=None):
-    results, local_seen = [], set()
+    results = []
     print(f">>> Đang bào: {target_name}...")
     
     for page in range(1, 41): 
@@ -69,7 +71,8 @@ def fetch_universal(target_name, endpoint, country_target=None, is_movie_logic=N
             m = d['data']['item']
             slug = m.get('slug')
             
-            if slug in local_seen:
+            # Kiểm tra trùng lặp toàn cục
+            if slug in GLOBAL_SEEN:
                 continue
 
             # --- LOGIC LOẠI BỎ TRAILER & PHIM SẮP CHIẾU ---
@@ -86,21 +89,19 @@ def fetch_universal(target_name, endpoint, country_target=None, is_movie_logic=N
             
             if (not country_target or country_target in countries) and (is_movie_logic is None or is_movie == is_movie_logic):
                 results.append(parse_movie(m))
-                local_seen.add(slug)
+                GLOBAL_SEEN.add(slug)
                 
-        time.sleep(0.5)  # Nghỉ ngắn giữa các trang
+        time.sleep(0.5) 
     return results
 
 def fetch_special_lang(target_name, lang_code):
     results = []
-    local_seen = set()
     print(f">>> Đang bào: {target_name}...")
     
     for year in YEARS_FILTER:
         if len(results) >= TARGET_COUNT: 
             break
             
-        # ĐÃ SỬA: Thêm vòng lặp trang để quét sâu hơn nếu trang đầu bị loại nhiều trailer
         for page in range(1, 10): 
             if len(results) >= TARGET_COUNT: 
                 break
@@ -123,7 +124,7 @@ def fetch_special_lang(target_name, lang_code):
                 m = d['data']['item']
                 slug = m.get('slug')
                 
-                if slug in local_seen:
+                if slug in GLOBAL_SEEN:
                     continue
 
                 # --- LOGIC LOẠI BỎ TRAILER ---
@@ -132,38 +133,31 @@ def fetch_special_lang(target_name, lang_code):
                     continue
 
                 results.append(parse_movie(m))
-                local_seen.add(slug)
+                GLOBAL_SEEN.add(slug)
                 
             time.sleep(0.5)
     return results
 
 def interleave_trending(tr, han, au, viet, rap):
     """
-    Giới hạn chính xác số lượng tối đa của từng loại trước khi trộn:
-    - Bộ Trung Quốc: tối đa 4 phim
-    - Bộ Hàn Quốc: tối đa 3 phim
-    - Bộ Âu Mỹ: tối đa 3 phim
-    - Phim Chiếu Rạp: tối đa 3 phim
-    - Lẻ Việt Nam: tối đa 2 phim
-    Tổng cộng vừa khít: 4 + 3 + 3 + 3 + 2 = 15 phim.
+    SỬA LỖI ĐỒNG BỘ: Đảm bảo thứ tự bốc trùng khớp hoàn toàn với thứ tự tham số truyền vào.
+    Khống chế cứng số lượng đầu vào: Trung(4), Hàn(3), Âu Mỹ(3), Việt(2), Rạp(3).
     """
     trending = []
     
-    # Cắt chuẩn số lượng từng loại ngay từ đầu vào (Đã sửa biến thai thành viet)
     l_tr = list(tr)[:4]
     l_han = list(han)[:3]
     l_au = list(au)[:3]
-    l_rap = list(rap)[:3]
     l_viet = list(viet)[:2]
+    l_rap = list(rap)[:3]
     
-    # Bốc xoay vòng xen kẽ để các nước trộn đều vào nhau (Không dùng random.shuffle nữa)
-    # Cách này giúp phim Trung, Hàn, Rạp... xuất hiện xen kẽ đẹp mắt trên giao diện
-    while l_tr or l_han or l_au or l_rap or l_viet:
+    # Vòng lặp bốc xoay vòng theo thứ tự chuẩn
+    while l_tr or l_han or l_au or l_viet or l_rap:
         if l_tr: trending.append(l_tr.pop(0))
-        if l_rap: trending.append(l_rap.pop(0))
         if l_han: trending.append(l_han.pop(0))
         if l_au: trending.append(l_au.pop(0))
         if l_viet: trending.append(l_viet.pop(0))
+        if l_rap: trending.append(l_rap.pop(0))
         
     return trending[:15]
 
@@ -199,7 +193,7 @@ def main():
     report.append(f"| {'Lồng Tiếng':22} | {'✅ ĐỦ' if len(lt)>=TARGET_COUNT else f'⚠️ {len(lt)}/15':16} |")
     report.append(f"| {'Thuyết Minh':22} | {'✅ ĐỦ' if len(tm)>=TARGET_COUNT else f'⚠️ {len(tm)}/15':16} |")
 
-    # 4. HÀNG MIX (TRENDING) - ĐÃ SỬA: Đổi [2] thành [] và map chuẩn mảng 'le_viet' thay vì biến rác
+    # 4. HÀNG MIX (TRENDING) - Thứ tự truyền biến ăn khớp tuyệt đối với định nghĩa hàm
     final_data["trending_phim_bo"] = interleave_trending(
         final_data.get("bo_trung", []), 
         final_data.get("bo_han", []),
