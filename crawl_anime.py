@@ -10,10 +10,9 @@ from datetime import datetime
 BASE_URL = "https://phimapi.com/v1/api"
 YEARS_FILTER = [2026, 2025] 
 TARGET_COUNT = 15
-MAX_WORKERS = 2  # Tối ưu tốc độ gọi chi tiết phim song song
+MAX_WORKERS = 3  
 DATA_FILE = "data_2026_perfect.json"
 
-# Tập hợp kiểm tra trùng lặp trên TOÀN BỘ tiến trình crawl
 GLOBAL_SEEN = set()
 
 def get_data(url, params=None):
@@ -49,12 +48,13 @@ def fetch_universal(target_name, endpoint, country_target=None, is_movie_logic=N
     results = []
     print(f">>> Đang bào: {target_name}...")
     
-    for page in range(1, 41): 
-        if len(results) >= TARGET_COUNT: 
-            break
-            
+    page = 1
+    while len(results) < TARGET_COUNT:  # VÒNG LẶP VÔ HẠN: Chỉ dừng khi ĐỦ 15 PHIM
         data = get_data(f"{BASE_URL}/danh-sach/{endpoint}", {"page": page, "limit": 40})
-        if not data or 'data' not in data or not data['data'].get('items'): 
+        
+        # Nếu hết dữ liệu trên API (không còn trang tiếp theo) thì bắt buộc phải dừng để tránh treo máy
+        if not data or 'data' not in data or not data['data'].get('items') or len(data['data']['items']) == 0: 
+            print(f"⚠️ Cảnh báo: API đã cạn dữ liệu ở trang {page} cho danh mục {target_name}!")
             break
             
         items = data['data']['items']
@@ -71,11 +71,10 @@ def fetch_universal(target_name, endpoint, country_target=None, is_movie_logic=N
             m = d['data']['item']
             slug = m.get('slug')
             
-            # Kiểm tra trùng lặp toàn cục
             if slug in GLOBAL_SEEN:
                 continue
 
-            # --- LOGIC LOẠI BỎ TRAILER & PHIM SẮP CHIẾU ---
+            # LOẠI BỎ TRAILER & PHIM SẮP CHIẾU
             ep_current = str(m.get('episode_current', '')).lower()
             if any(x in ep_current for x in ["trailer", "sắp ra mắt", "coming soon", "tập 0"]):
                 continue
@@ -91,23 +90,27 @@ def fetch_universal(target_name, endpoint, country_target=None, is_movie_logic=N
                 results.append(parse_movie(m))
                 GLOBAL_SEEN.add(slug)
                 
+        print(f"   -> Đang có: {len(results)}/{TARGET_COUNT} phim (Xong trang {page})")
+        page += 1  # Tự động nhảy sang trang tiếp theo nếu chưa đủ phim
         time.sleep(0.5) 
+        
     return results
 
 def fetch_special_lang(target_name, lang_code):
     results = []
     print(f">>> Đang bào: {target_name}...")
     
+    # Duyệt qua từng năm trong cấu hình
     for year in YEARS_FILTER:
         if len(results) >= TARGET_COUNT: 
             break
             
-        for page in range(1, 10): 
-            if len(results) >= TARGET_COUNT: 
-                break
-                
+        page = 1
+        while len(results) < TARGET_COUNT:  # VÒNG LẶP VÔ HẠN: Chạy tiếp cho đến khi đủ 15 phim
             data = get_data(f"{BASE_URL}/nam/{year}", {"page": page, "limit": 40, "sort_lang": lang_code})
-            if not data or 'data' not in data or not data['data'].get('items'): 
+            
+            if not data or 'data' not in data or not data['data'].get('items') or len(data['data']['items']) == 0: 
+                # Nếu năm này hết phim để quét thì break để vòng `for` chuyển sang năm tiếp theo gom tiếp
                 break
                 
             items = data['data']['items']
@@ -127,7 +130,6 @@ def fetch_special_lang(target_name, lang_code):
                 if slug in GLOBAL_SEEN:
                     continue
 
-                # --- LOGIC LOẠI BỎ TRAILER ---
                 ep_current = str(m.get('episode_current', '')).lower()
                 if any(x in ep_current for x in ["trailer", "sắp ra mắt", "coming soon", "tập 0"]):
                     continue
@@ -135,31 +137,28 @@ def fetch_special_lang(target_name, lang_code):
                 results.append(parse_movie(m))
                 GLOBAL_SEEN.add(slug)
                 
-        time.sleep(0.5)
+            print(f"   -> Đang có: {len(results)}/{TARGET_COUNT} phim (Năm {year} - Xong trang {page})")
+            page += 1
+            time.sleep(0.5)
+            
     return results
 
-# 🎉 ĐÃ ĐẢO: Thay đổi thứ tự tham số nhận vào để khớp với yêu cầu mới
 def interleave_trending(rap, tr, han, viet, au):
-    """
-    SỬA LỖI ĐỒNG BỘ VÀ ĐẢO VỊ TRÍ MIX:
-    Thứ tự bốc xoay vòng: Rạp(3) -> Trung(4) -> Hàn(3) -> Việt(2) -> Âu Mỹ(3)
-    """
     trending = []
+    l_rap, l_tr, l_han, l_viet, l_au = list(rap), list(tr), list(han), list(viet), list(au)
     
-    l_rap = list(rap)[:3]
-    l_tr = list(tr)[:4]
-    l_han = list(han)[:3]
-    l_viet = list(viet)[:2]
-    l_au = list(au)[:3]
-    
-    # Vòng lặp bốc xoay vòng theo thứ tự mới chính xác
-    while l_rap or l_tr or l_han or l_viet or l_au:
-        if l_rap: trending.append(l_rap.pop(0))
-        if l_tr: trending.append(l_tr.pop(0))
-        if l_han: trending.append(l_han.pop(0))
-        if l_viet: trending.append(l_viet.pop(0))
-        if l_au: trending.append(l_au.pop(0))
-        
+    while (l_rap or l_tr or l_han or l_viet or l_au) and len(trending) < 15:
+        for _ in range(3):
+            if l_rap: trending.append(l_rap.pop(0))
+        for _ in range(4):
+            if l_tr: trending.append(l_tr.pop(0))
+        for _ in range(3):
+            if l_han: trending.append(l_han.pop(0))
+        for _ in range(2):
+            if l_viet: trending.append(l_viet.pop(0))
+        for _ in range(3):
+            if l_au: trending.append(l_au.pop(0))
+            
     return trending[:15]
 
 def main():
@@ -179,7 +178,7 @@ def main():
         report.append(f"| {name:22} | {'✅ ĐỦ' if len(res)>=TARGET_COUNT else f'⚠️ {len(res)}/15':16} |")
 
     # 2. Quốc gia
-    mapping = [("Việt Nam", "vn"), ("Hàn Quốc", "han"), ("Trung Quốc", "trung"), ("Âu Mỹ", "au_my"), ("Việt Nam", "thai")]
+    mapping = [("Việt Nam", "vn"), ("Hàn Quốc", "han"), ("Trung Quốc", "trung"), ("Âu Mỹ", "au_my"), ("Thái Lan", "thai")]
     for c_name, c_key in mapping:
         res_le = fetch_universal(f"Lẻ {c_name}", "phim-le", c_name, True)
         res_bo = fetch_universal(f"Bộ {c_name}", "phim-bo", c_name, False)
@@ -194,7 +193,7 @@ def main():
     report.append(f"| {'Lồng Tiếng':22} | {'✅ ĐỦ' if len(lt)>=TARGET_COUNT else f'⚠️ {len(lt)}/15':16} |")
     report.append(f"| {'Thuyết Minh':22} | {'✅ ĐỦ' if len(tm)>=TARGET_COUNT else f'⚠️ {len(tm)}/15':16} |")
 
-    # 4. HÀNG MIX (TRENDING) - 🎉 ĐÃ ĐẢO THỨ TỰ TRUYỀN BIẾN ĐỒNG BỘ: Rạp -> Trung -> Hàn -> Việt -> Âu Mỹ
+    # 4. HÀNG MIX (TRENDING)
     final_data["trending_phim_bo"] = interleave_trending(
         final_data.get("phim_chieu_rap", []),
         final_data.get("bo_trung", []), 
