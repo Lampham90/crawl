@@ -10,7 +10,7 @@ from datetime import datetime
 BASE_URL = "https://phimapi.com/v1/api"
 YEARS_FILTER = [2026, 2025] 
 TARGET_COUNT = 15
-MAX_WORKERS = 3  # Tối ưu tốc độ gọi chi tiết phim song song
+MAX_WORKERS = 2  # Tối ưu tốc độ gọi chi tiết phim song song
 DATA_FILE = "data_2026_perfect.json"
 
 # Tập hợp kiểm tra trùng lặp trên TOÀN BỘ tiến trình crawl
