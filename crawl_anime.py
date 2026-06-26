@@ -135,29 +135,30 @@ def fetch_special_lang(target_name, lang_code):
                 results.append(parse_movie(m))
                 GLOBAL_SEEN.add(slug)
                 
-            time.sleep(0.5)
+        time.sleep(0.5)
     return results
 
-def interleave_trending(tr, han, au, viet, rap):
+# 🎉 ĐÃ ĐẢO: Thay đổi thứ tự tham số nhận vào để khớp với yêu cầu mới
+def interleave_trending(rap, tr, han, viet, au):
     """
-    SỬA LỖI ĐỒNG BỘ: Đảm bảo thứ tự bốc trùng khớp hoàn toàn với thứ tự tham số truyền vào.
-    Khống chế cứng số lượng đầu vào: Trung(4), Hàn(3), Âu Mỹ(3), Việt(2), Rạp(3).
+    SỬA LỖI ĐỒNG BỘ VÀ ĐẢO VỊ TRÍ MIX:
+    Thứ tự bốc xoay vòng: Rạp(3) -> Trung(4) -> Hàn(3) -> Việt(2) -> Âu Mỹ(3)
     """
     trending = []
     
+    l_rap = list(rap)[:3]
     l_tr = list(tr)[:4]
     l_han = list(han)[:3]
-    l_au = list(au)[:3]
     l_viet = list(viet)[:2]
-    l_rap = list(rap)[:3]
+    l_au = list(au)[:3]
     
-    # Vòng lặp bốc xoay vòng theo thứ tự chuẩn
-    while l_tr or l_han or l_au or l_viet or l_rap:
+    # Vòng lặp bốc xoay vòng theo thứ tự mới chính xác
+    while l_rap or l_tr or l_han or l_viet or l_au:
+        if l_rap: trending.append(l_rap.pop(0))
         if l_tr: trending.append(l_tr.pop(0))
         if l_han: trending.append(l_han.pop(0))
-        if l_au: trending.append(l_au.pop(0))
         if l_viet: trending.append(l_viet.pop(0))
-        if l_rap: trending.append(l_rap.pop(0))
+        if l_au: trending.append(l_au.pop(0))
         
     return trending[:15]
 
@@ -178,7 +179,7 @@ def main():
         report.append(f"| {name:22} | {'✅ ĐỦ' if len(res)>=TARGET_COUNT else f'⚠️ {len(res)}/15':16} |")
 
     # 2. Quốc gia
-    mapping = [("Việt Nam", "vn"), ("Hàn Quốc", "han"), ("Trung Quốc", "trung"), ("Âu Mỹ", "au_my"), ("Thái Lan", "thai")]
+    mapping = [("Việt Nam", "vn"), ("Hàn Quốc", "han"), ("Trung Quốc", "trung"), ("Âu Mỹ", "au_my"), ("Việt Nam", "thai")]
     for c_name, c_key in mapping:
         res_le = fetch_universal(f"Lẻ {c_name}", "phim-le", c_name, True)
         res_bo = fetch_universal(f"Bộ {c_name}", "phim-bo", c_name, False)
@@ -193,13 +194,13 @@ def main():
     report.append(f"| {'Lồng Tiếng':22} | {'✅ ĐỦ' if len(lt)>=TARGET_COUNT else f'⚠️ {len(lt)}/15':16} |")
     report.append(f"| {'Thuyết Minh':22} | {'✅ ĐỦ' if len(tm)>=TARGET_COUNT else f'⚠️ {len(tm)}/15':16} |")
 
-    # 4. HÀNG MIX (TRENDING) - Thứ tự truyền biến ăn khớp tuyệt đối với định nghĩa hàm
+    # 4. HÀNG MIX (TRENDING) - 🎉 ĐÃ ĐẢO THỨ TỰ TRUYỀN BIẾN ĐỒNG BỘ: Rạp -> Trung -> Hàn -> Việt -> Âu Mỹ
     final_data["trending_phim_bo"] = interleave_trending(
+        final_data.get("phim_chieu_rap", []),
         final_data.get("bo_trung", []), 
         final_data.get("bo_han", []),
-        final_data.get("bo_au_my", []), 
-        final_data.get("le_viet", []), 
-        final_data.get("phim_chieu_rap", [])
+        final_data.get("le_vn", []), 
+        final_data.get("bo_au_my", [])
     )
     report.append(f"| {'Top Trending (Mix)':22} | {'🔥 MIXED':16} |")
 
