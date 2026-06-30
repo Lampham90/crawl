@@ -61,18 +61,6 @@
             "description": "Sống trên một con tàu đắm cũ nát, ông Cá một ngày nọ phát hiện ra một con rồng biển nhỏ hiếu động tên Pip – kẻ nhầm nhà ông là bãi phế liệu – đang ăn cắp đồ đạc của ông. Cuộc tranh cãi nảy lửa sau đó khiến cả hai ngôi nhà đều bị tàn phá. Nhưng vẫn còn hy vọng! Bắt đầu một cuộc hành trình tưởng chừng như bất khả thi để tìm kiếm &quot;Ánh sáng lấp lánh&quot; huyền thoại nhằm ban điều ước, chỉ có một vấn đề: có kẻ khác cũng đang săn lùng nó…"
         },
         {
-            "name": "Phim Super Mario Thiên Hà",
-            "year": 2026,
-            "slug": "phim-super-mario-thien-ha",
-            "thumb": "https://phimimg.com/upload/vod/20260508-1/b9482988285cb67c118bc092404d804a.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260508-1/6bf821d68045c5310a192c5244992ac0.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Nhật Bản",
-            "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
-        },
-        {
             "name": "Cuộc phiêu lưu biến hóa",
             "year": 2026,
             "slug": "cuoc-phieu-luu-bien-hoa",
@@ -179,6 +167,18 @@
             "total_episodes": "1",
             "country": "Canada",
             "description": "Mối tình của chàng trai nghèo dành cho cô gái có những giọt nước mắt hóa thành ngọc trai đã đẩy anh vào một bản giao kèo đầy hiểm nguy giữa tình yêu, lòng tham và sự sinh tồn."
+        },
+        {
+            "name": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
+            "year": 2026,
+            "slug": "tuyen-thu-de-mui-vi-chien-thang",
+            "thumb": "https://phimimg.com/upload/vod/20260325-1/57000b826e67c1db2727e310aec0b004.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260325-1/1f5f942c1627deb2064d8be37d172855.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Will là một chú dê nhỏ với những ước mơ lớn, người có được cơ hội duy nhất trong đời để gia nhập các vận động viên chuyên nghiệp và thi đấu môn rugebol — một môn thể thao cường độ cao, pha trộn và đối kháng toàn diện, nơi các loài động vật nhanh nhất và hung dữ nhất thế giới thống trị. Những đồng đội mới của Will không mấy hào hứng khi có một chú dê nhỏ trong đội hình, nhưng Will quyết tâm tạo nên một cuộc cách mạng cho môn thể thao này và chứng minh một lần và mãi mãi rằng: “Nhỏ bé cũng biết chơi!”"
         }
     ],
     "anime_nhat": [
@@ -365,6 +365,30 @@
     ],
     "hh_trung_quoc": [
         {
+            "name": "Trên Vạn Người",
+            "year": 2026,
+            "slug": "tren-van-nguoi",
+            "thumb": "https://phimimg.com/upload/vod/20260617-1/cecfaa2ea6d4bc1b3661728f21d7dcd9.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260617-1/500ae641389bbc58a6330362a866a44f.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "14",
+            "country": "Trung Quốc",
+            "description": "Dịch Phong xuyên không đến đại lục Tiên Giang, do bẩm sinh không có linh căn nên anh chỉ có thể dựa vào những &quot;kỹ năng sống cơ bản&quot; mà hệ thống ban tặng để sống qua ngày. Thế nhưng anh đâu biết rằng, trong mắt các tu luyện giả, thực lực của anh đã đạt đến cấp độ Thần cấp, mỗi nhất cử nhất động của anh đều làm thay đổi cả cục diện của đại lục Tiên Giang. Dù hoàn toàn không hay biết gì, Dịch Phong vẫn hóa giải các cuộc khủng hoảng trùng trùng một cách vô cùng nhẹ nhàng, đồng thời tạo nên vô số tình huống vừa nhiệt huyết vừa cười ra nước mắt, mang đến những cơ duyên và lựa chọn mới cho chúng sinh trên mảnh đại lục này."
+        },
+        {
+            "name": "Đạo Yêu Hành",
+            "year": 2026,
+            "slug": "dao-yeu-hanh",
+            "thumb": "https://phimimg.com/upload/vod/20260312-1/1fd77b198bbcfc53b17dd17f75d70899.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260312-1/2821d43d21af1b468167989aa1774fa8.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 40",
+            "total_episodes": "60",
+            "country": "Trung Quốc",
+            "description": "Thánh nữ Thiều Nguyệt của Cửu Tuyền Tông bị sắp đặt thành thân cùng thích khách Giang Nguyên bên Thái Huyền Lâu. Cả hai đều chẳng cam tâm, nhưng vì đại cục hai phái, đành kết thành một đôi phu thê trên danh nghĩa. Bề ngoài là cuộc liên hôn tương xứng giữa hai thế lực lớn, song ẩn dưới lớp vỏ hòa thuận ấy lại là toan tính nhắm vào trọng bảo của nhau. Thông qua thân phận vợ chồng hờ, mỗi người âm thầm dò xét, chờ cơ hội chiếm lấy bí vật của đối phương. Ngay trong đêm hợp cẩn, sát ý đã bùng lên. Nhưng khi lưỡi kiếm chạm nhau, cả hai mới nhận ra đối phương đều mang thân thể bất diệt. Nguyên do nằm ở một bí mật chung: Thiều Nguyệt và Giang Nguyên vốn là kẻ lưu lạc từ tinh cầu khác, quê hương từng bị thế lực mang tên “Hư Vô” hủy diệt. Vì tránh kiếp nạn, họ mới trôi dạt tới thế giới này. Không còn đường lui, hai người tiếp tục duy trì mối quan hệ giả tạo ấy, vừa tìm hiểu bí bảo, vừa cùng nhau chống đỡ những hiểm nguy bủa vây. Thế nhưng sống cạnh nhau giữa sinh tử, từ lúc nào chẳng hay, sự đề phòng dần hóa thành tin tưởng, rồi thành đồng minh kề vai sát cánh. Cuối cùng, mục tiêu của họ không còn dừng ở bảo vật nữa. Thứ họ muốn đối mặt chính là “Hư Vô”, kẻ đã chôn vùi quê hương năm cũ. Giữa thế giới đầy toan tính này, hai con người mang chung quá khứ mất mát bắt đầu tìm kiếm cơ hội xoay chuyển số phận, quyết không để bi kịch lặp lại."
+        },
+        {
             "name": "Đại Đạo Độc Hành",
             "year": 2026,
             "slug": "dai-dao-doc-hanh",
@@ -473,18 +497,6 @@
             "description": "Năm Đại Nghiệp thứ ba, biên cương rục rịch bất ổn, Tùy Dương Đế cho tuần tra phương Bắc, uy hiếp biên thùy phía Tây. Tiêu nhân Đao Mã được bằng hữu cũ nhờ hộ tống thủ lĩnh loạn đảng là Tri Thế Lang đến Trường An, hoàn thành lý tưởng cứu giúp loạn thế. Nhưng sau lưng hắn luôn có một kẻ độc nhãn ôm theo mối thù bám riết không buông, cả quá khứ đã qua lẫn hiểm nguy hiện tại cùng ập đến, hãy xem Đao Mã đã khuấy đảo máu tanh giang hồ dưới thời loạn thế như thế nào! Phát Chia sẻ"
         },
         {
-            "name": "Đạo Yêu Hành",
-            "year": 2026,
-            "slug": "dao-yeu-hanh",
-            "thumb": "https://phimimg.com/upload/vod/20260312-1/1fd77b198bbcfc53b17dd17f75d70899.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260312-1/2821d43d21af1b468167989aa1774fa8.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 39",
-            "total_episodes": "60",
-            "country": "Trung Quốc",
-            "description": "Thánh nữ Thiều Nguyệt của Cửu Tuyền Tông bị sắp đặt thành thân cùng thích khách Giang Nguyên bên Thái Huyền Lâu. Cả hai đều chẳng cam tâm, nhưng vì đại cục hai phái, đành kết thành một đôi phu thê trên danh nghĩa. Bề ngoài là cuộc liên hôn tương xứng giữa hai thế lực lớn, song ẩn dưới lớp vỏ hòa thuận ấy lại là toan tính nhắm vào trọng bảo của nhau. Thông qua thân phận vợ chồng hờ, mỗi người âm thầm dò xét, chờ cơ hội chiếm lấy bí vật của đối phương. Ngay trong đêm hợp cẩn, sát ý đã bùng lên. Nhưng khi lưỡi kiếm chạm nhau, cả hai mới nhận ra đối phương đều mang thân thể bất diệt. Nguyên do nằm ở một bí mật chung: Thiều Nguyệt và Giang Nguyên vốn là kẻ lưu lạc từ tinh cầu khác, quê hương từng bị thế lực mang tên “Hư Vô” hủy diệt. Vì tránh kiếp nạn, họ mới trôi dạt tới thế giới này. Không còn đường lui, hai người tiếp tục duy trì mối quan hệ giả tạo ấy, vừa tìm hiểu bí bảo, vừa cùng nhau chống đỡ những hiểm nguy bủa vây. Thế nhưng sống cạnh nhau giữa sinh tử, từ lúc nào chẳng hay, sự đề phòng dần hóa thành tin tưởng, rồi thành đồng minh kề vai sát cánh. Cuối cùng, mục tiêu của họ không còn dừng ở bảo vật nữa. Thứ họ muốn đối mặt chính là “Hư Vô”, kẻ đã chôn vùi quê hương năm cũ. Giữa thế giới đầy toan tính này, hai con người mang chung quá khứ mất mát bắt đầu tìm kiếm cơ hội xoay chuyển số phận, quyết không để bi kịch lặp lại."
-        },
-        {
             "name": "Vị Vua Mạnh Nhất Làm Gì Ở Kiếp Thứ Hai (Phần 2)",
             "year": 2026,
             "slug": "vi-vua-manh-nhat-lam-gi-o-kiep-thu-hai-phan-2",
@@ -531,18 +543,6 @@
             "total_episodes": "18",
             "country": "Trung Quốc",
             "description": "Thần Nông Đế, người xứng đáng được tôn kính nhất trong thời loạn thế thì lại bất ngờ ngã xuống đầy uổn khúc. Đó là thời kỳ mà gian hùng nổi lên như nấm sau mưa, Kim, Mộc, Thủy, Hỏa, Thổ, các tộc người vừa trỗi dậy lại vừa đấu tranh, Hoàng Đế hay là Viêm Đế khi ấy cũng chỉ là cái tên. Thời đại man hoang của Trung Nguyên ấy tưởng chừng như sẽ kéo dài vô tận, chỉ đến khi một thanh niên Thác Bạt Dã xuất hiện, người mà đã may mắn nhận được truyền thừa của Thần Nông Đế trước lúc lâm chung, người mà sẽ đứng ra gánh vác những hành trình dang dở của ngài và tạo nên một câu chuyện đầy hùng tráng."
-        },
-        {
-            "name": "Thành Hoàng Lục",
-            "year": 2026,
-            "slug": "thanh-hoang-luc-2026",
-            "thumb": "https://phimimg.com/upload/vod/20260610-1/9a9b23f99dc5d6fe58df79ac48253370.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260610-1/00bded8495748116463dc924dedc12d4.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "6",
-            "country": "Trung Quốc",
-            "description": "Tại hiện trường của hàng loạt vụ án con người hóa ác quỷ, camera đều ghi lại hình ảnh một hung thủ có khuôn mặt giống hệt nam chính. Nhận được lệnh truy nã từ Địa phủ, nữ chính lập tức bắt giữ nam chính để áp giải về quy án, chờ Hắc Bạch Vô Thường xét xử. Để rửa sạch oan khuất cho bản thân, nam chính bất đắc dĩ phải dùng kế ép nữ chính cùng mình điều tra chân tướng sự việc. Khi vụ án dần được làm sáng tỏ, cả hai lần lượt vén màn âm mưu đằng sau chuỗi vụ án con người hóa ác quỷ, đồng thời phát hiện mối liên hệ bí ẩn giữa hung thủ và nam chính. Thế nhưng, sự thật cuối cùng còn đáng sợ hơn họ tưởng tượng: hóa ra mọi chuyện từ đầu đến cuối đều nằm trong sự sắp đặt của kẻ chủ mưu đứng sau tất cả..."
         }
     ],
     "phim_chieu_rap": [
@@ -911,6 +911,18 @@
     ],
     "bo_vn": [
         {
+            "name": "Tận Hiến",
+            "year": 2026,
+            "slug": "tan-hien",
+            "thumb": "https://phimimg.com/upload/vod/20260513-1/3048bddd30fbd3f3bc95cb636d67efee.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260513-1/51f724508514799548dfaace58be692f.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (15/15)",
+            "total_episodes": "15",
+            "country": "Việt Nam",
+            "description": "Trong giai đoạn chính trị phức tạp ở khu vực Đông Dương thập niên 60 thế kỷ trước, người đàn ông mang bí danh P1 được Bộ Công an Việt Nam giao nhiệm vụ thâm nhập vào hàng ngũ đối phương trên đất Lào. Anh đã phải đánh cược sự an toàn không chỉ của bản thân mà cả gia đình để thực thi sứ mệnh thiêng liêng với Tổ quốc. Bộ phim nhằm tôn vinh sự hy sinh thầm lặng của những chiến sĩ tình báo thuộc lực lượng CAND trên đất Lào từ 1957 đến 1977, với lý tưởng và sự tận hiến, kiên trung, tuyệt đối trung thành với đất nước."
+        },
+        {
             "name": "Phía Bên Kia Thành Phố",
             "year": 2026,
             "slug": "phia-ben-kia-thanh-pho",
@@ -945,18 +957,6 @@
             "total_episodes": "20",
             "country": "Việt Nam",
             "description": "Phim xoay quanh cuộc chiến chống tội phạm ma túy trong thời đại công nghệ số. Một loại ma túy mới mang tên &quot;Bụi Trắng&quot; được ngụy trang dưới nhiều vỏ bọc hợp pháp và lan rộng qua mạng xã hội, livestream và giới giải trí. Lực lượng công an phải đối đầu với các đường dây tội phạm ngày càng tinh vi để triệt phá tổ chức đứng sau."
-        },
-        {
-            "name": "Tận Hiến",
-            "year": 2026,
-            "slug": "tan-hien",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/3048bddd30fbd3f3bc95cb636d67efee.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/51f724508514799548dfaace58be692f.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 14",
-            "total_episodes": "15",
-            "country": "Việt Nam",
-            "description": "Trong giai đoạn chính trị phức tạp ở khu vực Đông Dương thập niên 60 thế kỷ trước, người đàn ông mang bí danh P1 được Bộ Công an Việt Nam giao nhiệm vụ thâm nhập vào hàng ngũ đối phương trên đất Lào. Anh đã phải đánh cược sự an toàn không chỉ của bản thân mà cả gia đình để thực thi sứ mệnh thiêng liêng với Tổ quốc. Bộ phim nhằm tôn vinh sự hy sinh thầm lặng của những chiến sĩ tình báo thuộc lực lượng CAND trên đất Lào từ 1957 đến 1977, với lý tưởng và sự tận hiến, kiên trung, tuyệt đối trung thành với đất nước."
         },
         {
             "name": "Lời Hứa Đầu Tiên",
@@ -1639,6 +1639,30 @@
     ],
     "bo_trung": [
         {
+            "name": "Vân Tú Hành",
+            "year": 2026,
+            "slug": "van-tu-hanh",
+            "thumb": "https://phimimg.com/upload/vod/20260620-1/00083387b890aaac69f0490b3fda8c13.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260620-1/6b7cf552ac9b66e18a5382c922d2bd0d.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 24",
+            "total_episodes": "36",
+            "country": "Trung Quốc",
+            "description": "&quot;Vân Tú Hành&quot; là một bộ phim cổ trang do Chu Thiếu Kiệt (Chúc Khanh Hảo) đạo diễn, Lý Nhất Đồng (Cuồng Tiêu), Tăng Thuấn Hy (Liên Hoa Lâu), Đặng Vi (Tiêu Sái Giai Nhân Đạm Đạm Trang&quot;) đóng vai chính. Cửu Thành trong truyền thuyết có một vị tiểu thư nghèo xuất thân danh môn Phạm Vân (Lý Nhất Đồng thủ vai) và một vị thành chủ Tề Tranh (Tăng Thuấn Hy thủ vai). Họ từ việc thử thách đối phương cho đến sự tin tưởng lẫn nhau, hai người cùng nhau vượt qua khó khăn để phục vụ nhân dân, cuối cùng họ có được cả tình bằng hữu và tình yêu; Phạm Vân cũng giúp Tề Tranh bình thiên hạ, phá bỏ lễ giáo cũ và giải quyết khủng hoảng ở Cửu Thành, cùng nhau xây dựng một Cửu Thành phồn thịnh."
+        },
+        {
+            "name": "Tình Yêu Có Pháo Hoa",
+            "year": 2026,
+            "slug": "tinh-yeu-co-phao-hoa",
+            "thumb": "https://phimimg.com/upload/vod/20260615-1/c2def538c0d18eeace93e7a6c358679f.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260615-1/db63587e4b529e6604d423307c8d0258.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 32",
+            "total_episodes": "40",
+            "country": "Trung Quốc",
+            "description": "Tình Yêu Có Pháo Hoa là bộ phim tình cảm đô thị xoay quanh Lý Diệc Phi, một chuyên gia ngân hàng đầu tư sa cơ sau thất bại trong công việc, và Tiền Phi, cô gái đang chật vật đối mặt với cú sốc thất tình lẫn thất nghiệp. Tình cờ trở thành bạn cùng nhà để giảm bớt gánh nặng tài chính, cả hai liên tục va chạm vì khác biệt về tính cách, hoàn cảnh và quan điểm sống. Thế nhưng qua những ngày chung sống đầy dở khóc dở cười, họ dần thấu hiểu, động viên và giúp nhau trưởng thành, từ đó viết nên một câu chuyện tình yêu ngọt ngào giữa lòng thành phố hiện đại."
+        },
+        {
             "name": "Hạnh Gian Thác (Tâm Gian Thác)",
             "year": 2026,
             "slug": "hanh-gian-thac-tam-gian-thac",
@@ -1685,18 +1709,6 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Khi đang điều tra bí mật về nguyên liệu của công ty mỹ phẩm Quốc tế Mỹ Nghiên, Tô Lê không may gặp tai nạn mất trí nhớ. Cô bị nhận nhầm thành Cố Thanh Mai, nàng dâu nhu nhược của nhà họ Hạ. Tại đây, Tô Lê kết đồng minh với Mục Thiếu Trạch, kẻ đang âm thầm báo thù cho bố. Cả hai sát cánh phá bỏ lớp màn bí ẩn, từng bước vạch trần sự thật đằng sau."
-        },
-        {
-            "name": "Vân Tú Hành",
-            "year": 2026,
-            "slug": "van-tu-hanh",
-            "thumb": "https://phimimg.com/upload/vod/20260620-1/00083387b890aaac69f0490b3fda8c13.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260620-1/6b7cf552ac9b66e18a5382c922d2bd0d.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 23",
-            "total_episodes": "36",
-            "country": "Trung Quốc",
-            "description": "&quot;Vân Tú Hành&quot; là một bộ phim cổ trang do Chu Thiếu Kiệt (Chúc Khanh Hảo) đạo diễn, Lý Nhất Đồng (Cuồng Tiêu), Tăng Thuấn Hy (Liên Hoa Lâu), Đặng Vi (Tiêu Sái Giai Nhân Đạm Đạm Trang&quot;) đóng vai chính. Cửu Thành trong truyền thuyết có một vị tiểu thư nghèo xuất thân danh môn Phạm Vân (Lý Nhất Đồng thủ vai) và một vị thành chủ Tề Tranh (Tăng Thuấn Hy thủ vai). Họ từ việc thử thách đối phương cho đến sự tin tưởng lẫn nhau, hai người cùng nhau vượt qua khó khăn để phục vụ nhân dân, cuối cùng họ có được cả tình bằng hữu và tình yêu; Phạm Vân cũng giúp Tề Tranh bình thiên hạ, phá bỏ lễ giáo cũ và giải quyết khủng hoảng ở Cửu Thành, cùng nhau xây dựng một Cửu Thành phồn thịnh."
         },
         {
             "name": "Môi Giới Đại Cát",
@@ -1805,18 +1817,6 @@
             "total_episodes": "32",
             "country": "Trung Quốc",
             "description": "Một sản phẩm công nghệ mới mang tên “vòng tay filter” đã khiến cho cô gái bình thường Tô Tranh Tranh có năng lực thay đổi diện mạo. Nhờ đó, cô biến thành cô gái xinh đẹp &quot;Tô Diểu&quot;, nữ tiến sĩ thông minh &quot;Phương Cẩn&quot;, chàng trai điển trai như bước ra từ truyện tranh &quot;Toàn Thắng Đường&quot;. Việc này không những khiến cô tận hưởng niềm vui khi lật ngược tình thế mà cô còn giúp đỡ những người yếu thế, thực thi công lý. Cùng lúc đó, Đường Kỳ rung động trước sự dũng cảm của Tô Diểu, đồng điệu với tư duy của Phương Cẩn, tán thưởng sự rạng rỡ, đẹp trai của Toàn Thắng Đường. Để giữ bí mật, Tô Tranh Tranh buộc phải nói dối hết lần này đến lần khác, khiến Đường Kỳ liên tục đánh mất người mình yêu. Trải qua những cú sốc dồn dập, bệnh về mắt của Đường Kỳ ngày càng nghiêm trọng khiến Tô Tranh Tranh chột dạ và áy náy khôn nguôi."
-        },
-        {
-            "name": "Trò Chơi Tình Ái",
-            "year": 2025,
-            "slug": "tro-choi-tinh-ai-2025",
-            "thumb": "https://phimimg.com/upload/vod/20250323-1/224abbf41ff885c982d6e7afbaf5d8ee.jpg",
-            "poster": "https://phimimg.com/upload/vod/20250323-1/ff55d4a9611eef1d013bbf24f575e0cb.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (56/56)",
-            "total_episodes": "56",
-            "country": "Trung Quốc",
-            "description": "Thiên kim của tập đoàn Viễn Phi, Hứa Nặc, từ nhỏ lớn lên trong sự nuông chiều của bố mẹ. Sau khi du học nước ngoài trở về, cô kinh hoàng phát hiện gia đình hạnh phúc ngày nào đã tan nát. Mẹ cô bị đuổi ra khỏi nhà tay trắng, còn người anh không cùng huyết thống được gia đình cô nuôi dưỡng từ nhỏ Thẩm Gia Hòa lại sắp thay cô thừa kế sản nghiệp. Mà vị hôn thê của bố cô chính là Bạch Hạ, bạn gái tin đồn trước đây của Thẩm Gia Hòa, đồng thời cũng là kẻ thù không đội trời chung ngày xưa của cô.Hứa Nặc nhìn thấu âm mưu của Thẩm Gia Hòa. Để giành lại Viễn Phi và vạch trần bộ mặt thật của hắn, cô tính toán kỹ lưỡng, từng bước thực hiện kế hoạch. Cô cố ý dụ dỗ Thẩm Gia Hòa lao vào một canh bạc mang tên &quot;trò chơi tình ái&quot;, mở ra hành trình vừa yêu vừa hận giữa hai người."
         }
     ],
     "le_au_my": [
@@ -2367,6 +2367,18 @@
     ],
     "bo_thai": [
         {
+            "name": "Nam Phù Thủy",
+            "year": 2026,
+            "slug": "nam-phu-thuy",
+            "thumb": "https://phimimg.com/upload/vod/20260506-1/07bbce9a6b0e8f159f13ef2e42cf3252.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260506-1/94c1e5ae93ccfd42ab8c76af91416256.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (9/9)",
+            "total_episodes": "9",
+            "country": "Thái Lan",
+            "description": "Một chàng trai trẻ mang trong mình mảnh linh hồn của quỷ dữ đã bắt tay cùng một đồng minh bí ẩn để săn lùng những thực thể siêu nhiên chuyên hút sinh lực của con người. Giữa cuộc chiến khốc liệt với bóng tối, anh vừa phải tìm cách kiểm soát sức mạnh tà ác đang dần trỗi dậy trong chính cơ thể mình, vừa phải bảo vệ nhân loại khỏi những hiểm họa vô hình đang rình rập."
+        },
+        {
             "name": "Siêu Sao Hay Siêu Xịt",
             "year": 2026,
             "slug": "sieu-sao-hay-sieu-xit",
@@ -2533,18 +2545,6 @@
             "total_episodes": "12",
             "country": "Thái Lan",
             "description": "Dù vẫn còn tình cảm với nhau nhưng bị mẹ của Runch chia cắt, hai người phụ nữ phải giả vờ rằng cuộc hôn nhân của họ vẫn hạnh phúc để hoàn tất một thương vụ kinh doanh quan trọng."
-        },
-        {
-            "name": "Hổ Giấu Vằn (Payak Raai Sorn Laai)",
-            "year": 2026,
-            "slug": "ho-giau-van-payak-raai-sorn-laai",
-            "thumb": "https://phimimg.com/upload/vod/20260516-1/491a74f039db3dc1ecf09fb0f715f57b.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260516-1/77c1b40f3b62b6bbc79c5e1040b2340b.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (24/24)",
-            "total_episodes": "24",
-            "country": "Thái Lan",
-            "description": "Sau khi người cha nuôi bị sát hại bởi tổ chức bí mật Phượng Hoàng Lửa, Taiga lên đường sang Thái Lan để tìm kiếm sự thật. Bằng cách thâm nhập vào một tập đoàn quyền lực có mối liên hệ mật thiết với thế giới ngầm tội phạm, anh ráo riết truy lùng tung tích của kẻ bí ẩn mang danh &quot;Ác Quỷ&quot;. Tại đây, Taiga liên tục đụng độ với Rin – một vệ sĩ luôn sống khép kín, người cũng mang trong mình mối thù sâu sắc liên quan đến cùng một âm mưu đen tối."
         }
     ],
     "long_tieng": [
@@ -2731,18 +2731,6 @@
     ],
     "thuyet_minh": [
         {
-            "name": "Tình Yêu Có Pháo Hoa",
-            "year": 2026,
-            "slug": "tinh-yeu-co-phao-hoa",
-            "thumb": "https://phimimg.com/upload/vod/20260615-1/c2def538c0d18eeace93e7a6c358679f.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260615-1/db63587e4b529e6604d423307c8d0258.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 32",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "description": "Tình Yêu Có Pháo Hoa là bộ phim tình cảm đô thị xoay quanh Lý Diệc Phi, một chuyên gia ngân hàng đầu tư sa cơ sau thất bại trong công việc, và Tiền Phi, cô gái đang chật vật đối mặt với cú sốc thất tình lẫn thất nghiệp. Tình cờ trở thành bạn cùng nhà để giảm bớt gánh nặng tài chính, cả hai liên tục va chạm vì khác biệt về tính cách, hoàn cảnh và quan điểm sống. Thế nhưng qua những ngày chung sống đầy dở khóc dở cười, họ dần thấu hiểu, động viên và giúp nhau trưởng thành, từ đó viết nên một câu chuyện tình yêu ngọt ngào giữa lòng thành phố hiện đại."
-        },
-        {
             "name": "Chú Thuật Hồi Chiến (Phần 3)",
             "year": 2026,
             "slug": "chu-thuat-hoi-chien-phan-3",
@@ -2909,6 +2897,18 @@
             "total_episodes": "1",
             "country": "Âu Mỹ",
             "description": "Hai người bạn thân Maddie và Trish rơi vào tình thế sinh tử khi bị mắc kẹt trong một đầm phá hẻo lánh, nơi trú ngụ của Ceto — một con cá voi sát thủ cực kỳ nguy hiểm. Không có đường thoát, họ buộc phải tìm cách sống sót trước kẻ săn mồi khổng lồ đang rình rập dưới làn nước."
+        },
+        {
+            "name": "Trại Súc Vật",
+            "year": 2026,
+            "slug": "trai-suc-vat",
+            "thumb": "https://phimimg.com/upload/vod/20260602-1/165badf797df3ee02c33dc6f2beb45fb.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260602-1/a231e9e78c5e8c87ded4e56c05e436bf.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Anh",
+            "description": "Một nhóm động vật trong trang trại nổi dậy chống lại người chủ bỏ bê chúng, mang theo giấc mơ về bình đẳng và tự do. Nhưng khi bầy heo nắm quyền kiểm soát, cuộc cách mạng dần biến thành chế độ độc tài, nơi sự thật bị bóp méo và mọi tiếng nói phản kháng đều bị đàn áp."
         }
     ],
     "trending_phim_bo": [
@@ -2949,6 +2949,30 @@
             "description": "Thương hiệu huyền thoại trở lại màn ảnh rộng. Sau 15 năm thất lạc, Thanh Gươm Quyền Năng đưa Hoàng tử Adam (Nicholas Galitzine) trở về hành tinh Eternia và phát hiện quê hương đã rơi vào sự cai trị tàn bạo của Skeletor (Jared Leto). Để cứu gia đình và thế giới của mình, Adam phải sát cánh cùng những đồng minh thân cận như Teela (Camila Mendes) và Duncan/Man-At-Arms (Idris Elba), đồng thời chấp nhận định mệnh thật sự của mình: trở thành He-Man - người đàn ông mạnh nhất vũ trụ."
         },
         {
+            "name": "Vân Tú Hành",
+            "year": 2026,
+            "slug": "van-tu-hanh",
+            "thumb": "https://phimimg.com/upload/vod/20260620-1/00083387b890aaac69f0490b3fda8c13.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260620-1/6b7cf552ac9b66e18a5382c922d2bd0d.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 24",
+            "total_episodes": "36",
+            "country": "Trung Quốc",
+            "description": "&quot;Vân Tú Hành&quot; là một bộ phim cổ trang do Chu Thiếu Kiệt (Chúc Khanh Hảo) đạo diễn, Lý Nhất Đồng (Cuồng Tiêu), Tăng Thuấn Hy (Liên Hoa Lâu), Đặng Vi (Tiêu Sái Giai Nhân Đạm Đạm Trang&quot;) đóng vai chính. Cửu Thành trong truyền thuyết có một vị tiểu thư nghèo xuất thân danh môn Phạm Vân (Lý Nhất Đồng thủ vai) và một vị thành chủ Tề Tranh (Tăng Thuấn Hy thủ vai). Họ từ việc thử thách đối phương cho đến sự tin tưởng lẫn nhau, hai người cùng nhau vượt qua khó khăn để phục vụ nhân dân, cuối cùng họ có được cả tình bằng hữu và tình yêu; Phạm Vân cũng giúp Tề Tranh bình thiên hạ, phá bỏ lễ giáo cũ và giải quyết khủng hoảng ở Cửu Thành, cùng nhau xây dựng một Cửu Thành phồn thịnh."
+        },
+        {
+            "name": "Tình Yêu Có Pháo Hoa",
+            "year": 2026,
+            "slug": "tinh-yeu-co-phao-hoa",
+            "thumb": "https://phimimg.com/upload/vod/20260615-1/c2def538c0d18eeace93e7a6c358679f.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260615-1/db63587e4b529e6604d423307c8d0258.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 32",
+            "total_episodes": "40",
+            "country": "Trung Quốc",
+            "description": "Tình Yêu Có Pháo Hoa là bộ phim tình cảm đô thị xoay quanh Lý Diệc Phi, một chuyên gia ngân hàng đầu tư sa cơ sau thất bại trong công việc, và Tiền Phi, cô gái đang chật vật đối mặt với cú sốc thất tình lẫn thất nghiệp. Tình cờ trở thành bạn cùng nhà để giảm bớt gánh nặng tài chính, cả hai liên tục va chạm vì khác biệt về tính cách, hoàn cảnh và quan điểm sống. Thế nhưng qua những ngày chung sống đầy dở khóc dở cười, họ dần thấu hiểu, động viên và giúp nhau trưởng thành, từ đó viết nên một câu chuyện tình yêu ngọt ngào giữa lòng thành phố hiện đại."
+        },
+        {
             "name": "Hạnh Gian Thác (Tâm Gian Thác)",
             "year": 2026,
             "slug": "hanh-gian-thac-tam-gian-thac",
@@ -2971,30 +2995,6 @@
             "total_episodes": "29",
             "country": "Trung Quốc",
             "description": "Bộ phim kể về câu chuyện cô gái Chu Vãn vì muốn cứu bà mà cố tình tiếp cận chàng trai Lục Tây Kiêu. Trong quá trình cứu rỗi lẫn nhau, cả hai dần nảy sinh tình cảm nhưng lại phải chia cắt vì hiện thực. Mười năm sau gặp lại, mối tình đầy rối ren đó được họ lấy danh nghĩa “trả thù” để lần nữa thắp lại ngọn lửa tình yêu."
-        },
-        {
-            "name": "Mạc Ly",
-            "year": 2026,
-            "slug": "mac-ly",
-            "thumb": "https://phimimg.com/upload/vod/20260609-1/089ebc9ac027d516a2885aaee749d354.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260609-1/ae12c9e970982d4ce4c70e9633b5d2cc.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (40/40)",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "description": "Trưởng nữ Diệp Ly của Diệp Phủ được gả sang Định Vương Phủ suy tàn, \r\nthành thân với kẻ tàn tật hai chân là Định Vương Mặc Tu Nghiêu. Ngày \r\nDiệp Ly xuất giá, Lê Vương Mặc Cảnh Lê cũng thành thân với thứ nữ Diệp \r\nPhủ là Diệp Oánh. Là hậu duệ Ly Sơn, Diệp Ly từng bị nhốt trong núi 8 \r\nnăm. Sau khi thành thân, bề ngoài nàng tỏ ra an phận, nhưng thực chất \r\nlại âm thầm lên kế hoạch loại bỏ từng kẻ từng hãm hại Ly Sơn năm xưa. \r\nTrong quá trình ấy, nàng vấp phải sự nghi ngờ của Mặc Tu Nghiêu, người \r\ncũng đang nuôi chí báo thù. Hai người mỗi bên đều âm thầm hành động, \r\nkhiến mặt hồ tưởng chừng bình lặng dậy sóng. Mặc Cảnh Lê vốn là thanh \r\nmai trúc mã của Diệp Ly, mang tiếng là một &quot;Vương gia mê hí khúc&quot;, hắn \r\nlại âm thầm thao túng thế cuộc, nung nấu dã tâm đoạt ngôi. Cuối cùng, \r\nDiệp Ly và Mặc Tu Nghiêu liên thủ phò tá tiểu hoàng đế chấp chính, liên \r\ntiếp phá tan âm mưu của Mộc Dương Hầu và Lê Vương, mang lại cảnh thái \r\nbình cho thiên hạ."
-        },
-        {
-            "name": "Vợ Vốn Hiền Lương",
-            "year": 2026,
-            "slug": "vo-von-hien-luong",
-            "thumb": "https://phimimg.com/upload/vod/20260623-1/2862b42208ce70206049da9b56385ad6.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260623-1/0cb13c5580ae718af2e4b962c0480997.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 21",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Khi đang điều tra bí mật về nguyên liệu của công ty mỹ phẩm Quốc tế Mỹ Nghiên, Tô Lê không may gặp tai nạn mất trí nhớ. Cô bị nhận nhầm thành Cố Thanh Mai, nàng dâu nhu nhược của nhà họ Hạ. Tại đây, Tô Lê kết đồng minh với Mục Thiếu Trạch, kẻ đang âm thầm báo thù cho bố. Cả hai sát cánh phá bỏ lớp màn bí ẩn, từng bước vạch trần sự thật đằng sau."
         },
         {
             "name": "Lớp Học Tình Yêu (Phần 3)",
