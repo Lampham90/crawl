@@ -10,7 +10,7 @@ from datetime import datetime
 BASE_URL = "https://phimapi.com/v1/api"
 YEARS_FILTER = [2026, 2025] 
 TARGET_COUNT = 15
-MAX_WORKERS = 3  
+MAX_WORKERS = 2  
 DATA_FILE = "data_2026_perfect.json"
 
 GLOBAL_SEEN = set()
