@@ -2,7 +2,7 @@ name: Cào Home
 
 on:
   schedule:
-    - cron: '15 21,3,8,12 * * *'
+    - cron: '15 21,4,8,12 * * *'
   workflow_dispatch:
 
 jobs:
