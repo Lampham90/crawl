@@ -111,7 +111,7 @@ if __name__ == "__main__":
     
     # Cấu trúc: ("slug_api", "Tên quốc gia hiển thị", "Hậu tố file")
     countries = [
-        ("viet-nam", "Việt Nam", "vn"), 
+        ("viet-nam", "Việt Nam", "viet"), 
         ("han-quoc", "Hàn Quốc", "han"), 
         ("trung-quoc", "Trung Quốc", "trung"), 
         ("au-my", "Âu Mỹ", "au_my"), 
