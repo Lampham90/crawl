@@ -6,7 +6,7 @@ from datetime import datetime
 BASE_URL = "https://phimapi.com/v1/api"
 YEARS_FILTER = [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
 LIMIT_COUNT = 300
-MAX_WORKERS = 4  # Số luồng song song an toàn để không bị API chặn IP
+MAX_WORKERS = 2  # Số luồng song song an toàn để không bị API chặn IP
 OUTPUT_DIR = "data_categories"
 
 if not os.path.exists(OUTPUT_DIR): 
