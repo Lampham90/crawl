@@ -131,7 +131,7 @@ if __name__ == "__main__":
     
     # Cấu hình danh mục Quốc gia chuẩn theo API slug
     countries = [
-        ("viet-nam", "Việt Nam", "viet"), 
+        ("viet-nam", "Việt Nam", "vn"), 
         ("han-quoc", "Hàn Quốc", "han"), 
         ("trung-quoc", "Trung Quốc", "trung"), 
         ("au-my", "Âu Mỹ", "au_my"), 
