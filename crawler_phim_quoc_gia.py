@@ -6,7 +6,7 @@ BASE_URL = "https://phimapi.com/v1/api"
 # Giữ YEARS_FILTER để lọc trong bước check chi tiết phim
 YEARS_FILTER = [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
 LIMIT_COUNT = 300
-MAX_WORKERS = 4  # Giảm xuống 4 luồng để tránh bị API chặn IP ngầm
+MAX_WORKERS = 2  # Giảm xuống 4 luồng để tránh bị API chặn IP ngầm
 OUTPUT_DIR = "data_categories"
 
 if not os.path.exists(OUTPUT_DIR): 
