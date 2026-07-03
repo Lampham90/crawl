@@ -923,18 +923,6 @@
             "description": "Phim lấy bối cảnh một khu phố lao động ven đô, xoay quanh đôi bạn thân trái tính trái nết là Cương và Khuê. Cả hai cùng trải qua những biến động tâm lý tuổi học đường, áp lực thành tích và rạn nứt tình cảm khi một cô bạn mới xuất hiện, khơi lại những bí mật quá khứ của gia đình họ."
         },
         {
-            "name": "Lửa Trắng",
-            "year": 2026,
-            "slug": "lua-trang-2026",
-            "thumb": "https://phimimg.com/upload/vod/20260620-1/3e4a5707b7b1cd0e9e4fcee32e630cf1.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 5",
-            "total_episodes": "20",
-            "country": "Việt Nam",
-            "description": "Phim xoay quanh cuộc chiến chống tội phạm ma túy trong thời đại công nghệ số. Một loại ma túy mới mang tên &quot;Bụi Trắng&quot; được ngụy trang dưới nhiều vỏ bọc hợp pháp và lan rộng qua mạng xã hội, livestream và giới giải trí. Lực lượng công an phải đối đầu với các đường dây tội phạm ngày càng tinh vi để triệt phá tổ chức đứng sau."
-        },
-        {
             "name": "Dưới Ô Cửa Sáng Đèn",
             "year": 2026,
             "slug": "duoi-o-cua-sang-den",
@@ -1089,6 +1077,18 @@
             "total_episodes": "30",
             "country": "Việt Nam",
             "description": "Mái ấm tưởng chừng như hoàn hảo giữa Tường Lan và Tùng bỗng sụp đổ với sự xuất hiện của kẻ thứ ba, một cô gái trẻ đẹp tên Angela. Không chỉ chen chân vào cuộc hôn nhân giữa Lan và Tùng, Angela còn rắp tâm muốn hủy hoại thanh danh và sự nghiệp của Lan. Sau một thời gian dài tranh chấp với chồng và tình nhân của chồng, cuối cùng Lan cũng có thể ra đi mà không phải đánh mất tất cả. Trong quá trình tìm lại bản thân sau cuộc hôn nhân thất bại, Lan bất ngờ rơi vào Mê Cung Ái Tình với một chàng trai trẻ. Liệu rằng đó sẽ là cái kết đẹp cho một chuyện tình cổ tích hay là âm mưu thâm độc nào khác?"
+        },
+        {
+            "name": "Không Giới Hạn",
+            "year": 2026,
+            "slug": "khong-gioi-han-2026",
+            "thumb": "https://phimimg.com/upload/vod/20260203-1/250664c33b94bbefcb56a6b40289ccf4.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260203-1/85198540649e37fd8ab33b0adbdb05be.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 35",
+            "total_episodes": "35",
+            "country": "Việt Nam",
+            "description": "Bộ phim khai thác hình ảnh người lính Quân đội nhân dân Việt Nam trong thời bình, đặc biệt là vai trò thầm lặng nhưng mang tính quyết định của Bộ Tổng Tham mưu trong công tác phòng thủ dân sự, cứu hộ cứu nạn và bảo vệ Tổ quốc trước các thách thức an ninh mới."
         }
     ],
     "le_han": [
