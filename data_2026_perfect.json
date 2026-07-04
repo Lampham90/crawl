@@ -1275,6 +1275,18 @@
     ],
     "bo_han": [
         {
+            "name": "Báo Thù",
+            "year": 2026,
+            "slug": "bao-thu-2026",
+            "thumb": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260531-1/44b98f8dceee0f4b7f0a576c9237410e.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "8",
+            "country": "Thái Lan",
+            "description": "Một nhân viên đòi nợ thuê đang ôm nỗi đau mất mát quyết định dấn thân vào thế giới giải trí đầy rẫy thị phi để tìm cách trả thù. Thế nhưng, tại nơi đây, người này lại bất ngờ rơi vào một mối tình đầy nguy hiểm và mê hoặc với một vị giám đốc điều hành quyền lực."
+        },
+        {
             "name": "Đặc Vụ Kim Tái Khởi Động",
             "year": 2026,
             "slug": "dac-vu-kim-tai-khoi-dong",
@@ -1441,18 +1453,6 @@
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Hai chị em song sinh, chỉ giống nhau ngoại hình song tính cách trái ngược, tráo đổi thân phận giữa những rối ren riêng và bước vào hành trình tìm lại tình yêu và ý nghĩa cuộc sống."
-        },
-        {
-            "name": "Các Tế Bào Của Yumi (Phần 3)",
-            "year": 2026,
-            "slug": "cac-te-bao-cua-yumi-phan-3",
-            "thumb": "https://phimimg.com/upload/vod/20260515-1/57f28e5e6d6399e53687174216c67bf6.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260515-1/9bdab524f98b5904ac478b03c17853b3.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
-            "country": "Hàn Quốc",
-            "description": "Xoay quanh câu chuyện của Yumi, một nhân viên văn phòng bình thường nhưng sống theo quan điểm của nhiều tế bào não trong đầu cô ấy điều khiển mọi suy nghĩ, cảm xúc và hành động của cô ấy. Vì cú sốc sau mối tình không thành, Yumi đã không còn tin vào câu chuyện tình yêu. Tuy nhiên, tế bào bị ngủ quên của Yumi sẽ được Goo Woong đánh thức. Liệu rồi Yumi có chịu thay đổi, có được hạnh phúc?"
         }
     ],
     "le_trung": [
@@ -2367,6 +2367,18 @@
     ],
     "bo_thai": [
         {
+            "name": "Báo Thù",
+            "year": 2026,
+            "slug": "bao-thu-2026",
+            "thumb": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260531-1/44b98f8dceee0f4b7f0a576c9237410e.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "8",
+            "country": "Thái Lan",
+            "description": "Một nhân viên đòi nợ thuê đang ôm nỗi đau mất mát quyết định dấn thân vào thế giới giải trí đầy rẫy thị phi để tìm cách trả thù. Thế nhưng, tại nơi đây, người này lại bất ngờ rơi vào một mối tình đầy nguy hiểm và mê hoặc với một vị giám đốc điều hành quyền lực."
+        },
+        {
             "name": "Theo Đuổi Tình Yêu",
             "year": 2026,
             "slug": "theo-duoi-tinh-yeu-2026",
@@ -2533,18 +2545,6 @@
             "total_episodes": "20",
             "country": "Thái Lan",
             "description": "Phim kể về Rawee, người thừa kế khối tài sản kếch xù từ cha và có một cuộc hôn nhân sắp đặt. Anh bị sát hại sau khi phát hiện vợ mình ngoại tình. Rất may, Rawee không chết mà chỉ mất trí nhớ và được cô gái Lockchan cứu sống. Liệu Rawee có lấy lại được ký ức để trả thù những kẻ đã từng giết hại mình?"
-        },
-        {
-            "name": "Oan Gia Thành Đôi",
-            "year": 2026,
-            "slug": "oan-gia-thanh-doi",
-            "thumb": "https://phimimg.com/upload/vod/20260604-1/e769f9fdc95b050450fa90171a393d98.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260604-1/5855383b097fbc952cdb1c054e5cf25f.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 9",
-            "total_episodes": "10",
-            "country": "Thái Lan",
-            "description": "Hai người luôn đối đầu ở nơi làm việc như “kẻ thù truyền kiếp”. Nhưng sau một đêm ngoài ý muốn, họ bắt đầu mối quan hệ kiểu “friends with benefits” — chỉ thân mật thể xác, không yêu đương. Để tránh đồng nghiệp phát hiện, cả hai vẫn giả vờ ghét nhau ở công ty. Tuy nhiên càng ở gần nhau, mối quan hệ dần chuyển thành tình cảm thật."
         }
     ],
     "long_tieng": [
@@ -2937,16 +2937,16 @@
             "description": "&quot;Vân Tú Hành&quot; là một bộ phim cổ trang do Chu Thiếu Kiệt (Chúc Khanh Hảo) đạo diễn, Lý Nhất Đồng (Cuồng Tiêu), Tăng Thuấn Hy (Liên Hoa Lâu), Đặng Vi (Tiêu Sái Giai Nhân Đạm Đạm Trang&quot;) đóng vai chính. Cửu Thành trong truyền thuyết có một vị tiểu thư nghèo xuất thân danh môn Phạm Vân (Lý Nhất Đồng thủ vai) và một vị thành chủ Tề Tranh (Tăng Thuấn Hy thủ vai). Họ từ việc thử thách đối phương cho đến sự tin tưởng lẫn nhau, hai người cùng nhau vượt qua khó khăn để phục vụ nhân dân, cuối cùng họ có được cả tình bằng hữu và tình yêu; Phạm Vân cũng giúp Tề Tranh bình thiên hạ, phá bỏ lễ giáo cũ và giải quyết khủng hoảng ở Cửu Thành, cùng nhau xây dựng một Cửu Thành phồn thịnh."
         },
         {
-            "name": "Đặc Vụ Kim Tái Khởi Động",
+            "name": "Báo Thù",
             "year": 2026,
-            "slug": "dac-vu-kim-tai-khoi-dong",
-            "thumb": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 3",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
+            "slug": "bao-thu-2026",
+            "thumb": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260531-1/44b98f8dceee0f4b7f0a576c9237410e.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "8",
+            "country": "Thái Lan",
+            "description": "Một nhân viên đòi nợ thuê đang ôm nỗi đau mất mát quyết định dấn thân vào thế giới giải trí đầy rẫy thị phi để tìm cách trả thù. Thế nhưng, tại nơi đây, người này lại bất ngờ rơi vào một mối tình đầy nguy hiểm và mê hoặc với một vị giám đốc điều hành quyền lực."
         },
         {
             "name": "Phí Phông: Quỷ Máu Rừng Thiêng",
@@ -2997,16 +2997,16 @@
             "description": "Một thiên thạch mang theo thần thụ Kiến Mộc và trái thần có thể ban cho người sở hữu sức mạnh vô thượng, khiến tam giới rơi vào chiến tranh. Một trăm năm sau, cô gái mồ côi Khương Lê Phi (Tiểu Bổng Chùy) gia nhập Thư viện Sồ Phượng và gặp Lôi Tu Viễn. Từ những toan tính ban đầu, cả hai dần nảy sinh tình cảm, cùng nhau khám phá thân thế bí ẩn, chống lại số mệnh và bảo vệ sự cân bằng của tam giới."
         },
         {
-            "name": "Lớp Học Tình Yêu (Phần 3)",
+            "name": "Đặc Vụ Kim Tái Khởi Động",
             "year": 2026,
-            "slug": "lop-hoc-tinh-yeu-phan-3",
-            "thumb": "https://phimimg.com/upload/vod/20260604-1/2353791bb14f17a7f695106b9c7c6852.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260604-1/4e28f3a3299759d4bf98c97b154a46cc.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 12",
-            "total_episodes": "16",
+            "slug": "dac-vu-kim-tai-khoi-dong",
+            "thumb": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 3",
+            "total_episodes": "10",
             "country": "Hàn Quốc",
-            "description": "Hyun Jae và Soo An từng gặp nhau trong một chương trình sống còn tuyển chọn idol. Trong thời gian thi đấu, cả hai dần nảy sinh tình cảm. Tuy nhiên cuối cùng chỉ có Hyun Jae được debut, còn Soo An bị loại, khiến họ phải chia xa dù vẫn còn tình cảm với nhau."
+            "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
         },
         {
             "name": "Báu vật trời cho",
@@ -3057,16 +3057,16 @@
             "description": "Nữ thiên tài ngành tài chính Lý Thanh Thanh bất ngờ xuyên không về thời cổ đại, trở thành phu nhân của xa kỵ tướng quân Phan Dương. Cô chỉ mong muốn sống yên ổn, không ngờ ba năm sau, phu quân của cô lại dẫn theo tình nhân Lý Mộc Nhan cùng trở về nhà. Bí mật tráo đổi thân phận của Lý gia cũng được đưa ra ánh sáng, hóa ra Lý Mộc Nhan mới là thiên kim thật sự của Lý gia."
         },
         {
-            "name": "Người Khí",
+            "name": "Lớp Học Tình Yêu (Phần 3)",
             "year": 2026,
-            "slug": "nguoi-khi",
-            "thumb": "https://phimimg.com/upload/vod/20260703-1/0cccb4533fddf8a025ae5f6e72cbfe38.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260703-1/aec38e37af07d2d6ec8ae157e3c1a7b9.jpg",
+            "slug": "lop-hoc-tinh-yeu-phan-3",
+            "thumb": "https://phimimg.com/upload/vod/20260604-1/2353791bb14f17a7f695106b9c7c6852.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260604-1/4e28f3a3299759d4bf98c97b154a46cc.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
+            "current_episode": "Tập 12",
+            "total_episodes": "16",
             "country": "Hàn Quốc",
-            "description": "Một cái chết trên sóng truyền hình trực tiếp. Một hung thủ biến thành khí. Ẩn sau đó là dự án bí mật lợi dụng rồi vứt bỏ người yếu thế. Một điều tra viên truy tìm sự thật đen tối."
+            "description": "Hyun Jae và Soo An từng gặp nhau trong một chương trình sống còn tuyển chọn idol. Trong thời gian thi đấu, cả hai dần nảy sinh tình cảm. Tuy nhiên cuối cùng chỉ có Hyun Jae được debut, còn Soo An bị loại, khiến họ phải chia xa dù vẫn còn tình cảm với nhau."
         },
         {
             "name": "Hoàng Tử Quỷ",
