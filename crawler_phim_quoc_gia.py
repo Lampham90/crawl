@@ -35,7 +35,7 @@ def crawl_country_logic(display_name, filename, country_slug, country_filter, is
     print(f">>> Đang bào: {display_name}...")
     
     page = 1
-    total_pages = 1
+    total_pages = 100
     
     # Vòng lặp lật trang vô hạn (cuốn chiếu) cho đến khi vét đủ 300 phim hoặc hết sạch trang từ API
     while page <= total_pages:
