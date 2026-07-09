@@ -49,12 +49,16 @@ def crawl_category(display_name, filename, country_slug, is_movie):
             
             if item['slug'] not in seen:
                 seen.add(item['slug'])
-                results.append({
-                    "name": item.get('name'),
-                    "year": m_year,
-                    "slug": item.get('slug'),
-                    "thumb": item.get('thumb_url'),
-                    "type": item_type
+                 results.append({
+                    "name": m.get('name'), 
+                    "year": m_year, 
+                    "slug": m.get('slug'), 
+                    "thumb": m.get('thumb_url'), 
+                    "poster": m.get('poster_url'), 
+                    "sub_type": m.get('lang', 'Vietsub'), 
+                    "current_episode": m.get('episode_current', 'Full'), 
+                    "total_episodes": str(m.get('episode_total', '1')), 
+                    "country": m_countries[0] if m_countries else ""
                 })
         
         print(f"    - Trang {page} | Thu thập: {len(results)}/{LIMIT_TOTAL}")
