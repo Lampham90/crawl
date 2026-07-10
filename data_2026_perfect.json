@@ -1275,6 +1275,18 @@
     ],
     "bo_han": [
         {
+            "name": "Đặc Vụ Kim Tái Khởi Động",
+            "year": 2026,
+            "slug": "dac-vu-kim-tai-khoi-dong",
+            "thumb": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 5",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
+        },
+        {
             "name": "Tình Yêu Và Tội Lỗi",
             "year": 2026,
             "slug": "tinh-yeu-va-toi-loi",
@@ -1381,18 +1393,6 @@
             "total_episodes": "4",
             "country": "Hàn Quốc",
             "description": "Kỷ niệm 10 năm phát sóng bộ phim Yêu Tinh từng gây sốt toàn châu Á, dàn diễn viên chính gồm Gong Yoo, Kim Go Eun, Lee Dong Wook và Yoo In Na đã hội ngộ trong một chuyến đi đặc biệt trở lại Gangneung. Họ cùng đến những địa điểm quay phim, tái hiện những cảnh quay và câu thoại đã trở thành biểu tượng và chia sẻ những câu chuyện hậu trường."
-        },
-        {
-            "name": "Đặc Vụ Kim Tái Khởi Động",
-            "year": 2026,
-            "slug": "dac-vu-kim-tai-khoi-dong",
-            "thumb": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 4",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
         },
         {
             "name": "Chủ Tịch Tập Sự",
@@ -2367,6 +2367,30 @@
     ],
     "bo_thai": [
         {
+            "name": "Ý Chí Kim Cương",
+            "year": 2026,
+            "slug": "y-chi-kim-cuong",
+            "thumb": "https://phimimg.com/upload/vod/20260619-1/d27cee3db697f0b6d6ca7d22b14be2f2.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260619-1/ca96e7f068f84776ca2b4e52b9e971bc.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 17",
+            "total_episodes": "30",
+            "country": "Thái Lan",
+            "description": "Chàng nhạc công tài năng xuất thân nghèo khó và một nữ sinh trung học giàu có nảy sinh tình cảm giữa những mối thù địch cá nhân và một biến cố làm thay đổi cuộc đời."
+        },
+        {
+            "name": "Vẽ Nên Giấc Mơ Ngày Cưới",
+            "year": 2026,
+            "slug": "ve-nen-giac-mo-ngay-cuoi",
+            "thumb": "https://phimimg.com/upload/vod/20260620-1/d61fcd20fba7e8b05fc0846bf1562be6.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260620-1/4e75731d01ce9578582f65d9b21fb276.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "12",
+            "country": "Thái Lan",
+            "description": "Dù vẫn còn tình cảm với nhau nhưng bị mẹ của Runch chia cắt, hai người phụ nữ phải giả vờ rằng cuộc hôn nhân của họ vẫn hạnh phúc để hoàn tất một thương vụ kinh doanh quan trọng."
+        },
+        {
             "name": "Tám Tay Lừa Đảo",
             "year": 2026,
             "slug": "tam-tay-lua-dao",
@@ -2377,18 +2401,6 @@
             "total_episodes": "19",
             "country": "Thái Lan",
             "description": "Miễn cưỡng liên thủ, tám tay lừa đảo toan thực hiện phi vụ nguy hiểm nhất từ trước đến nay: lừa chính những tên tội phạm đứng sau một mạng lưới lừa đảo ngầm khổng lồ."
-        },
-        {
-            "name": "Ý Chí Kim Cương",
-            "year": 2026,
-            "slug": "y-chi-kim-cuong",
-            "thumb": "https://phimimg.com/upload/vod/20260619-1/d27cee3db697f0b6d6ca7d22b14be2f2.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260619-1/ca96e7f068f84776ca2b4e52b9e971bc.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 16",
-            "total_episodes": "30",
-            "country": "Thái Lan",
-            "description": "Chàng nhạc công tài năng xuất thân nghèo khó và một nữ sinh trung học giàu có nảy sinh tình cảm giữa những mối thù địch cá nhân và một biến cố làm thay đổi cuộc đời."
         },
         {
             "name": "Tiếng Anh Thành Tiếng Yêu",
@@ -2533,18 +2545,6 @@
             "total_episodes": "19",
             "country": "Thái Lan",
             "description": "Tình yêu, ước mơ, cuộc sống mưu sinh xoáy vào nhau khi nhóm &quot;Gen Me&quot; đối diện nhịp sống hối hả ở Thái Lan, nơi trưởng thành đánh đổi bằng nước mắt, tình cảm và sự thật nghiệt ngã."
-        },
-        {
-            "name": "Siêu Sao Hay Siêu Xịt",
-            "year": 2026,
-            "slug": "sieu-sao-hay-sieu-xit",
-            "thumb": "https://phimimg.com/upload/vod/20260622-1/7b286191e1a4bfca5980823dab19744a.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260622-1/1b6811163c1de486f67cab2707a9d02d.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "10",
-            "country": "Thái Lan",
-            "description": "Một nhóm nhạc thần tượng từng ôm mộng vinh quang nay phải đối mặt với nỗi tủi hổ khi phải mặc đồ linh vật biểu diễn các bài hát thiếu nhi. Lần lượt mọi người đều bỏ cuộc và rời đi… ngoại trừ Jeng, người duy nhất lựa chọn ở lại bên cạnh vị sếp Sithian bướng bỉnh, cố chấp của mình."
         }
     ],
     "long_tieng": [
@@ -2731,6 +2731,18 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Đặc Vụ Kim Tái Khởi Động",
+            "year": 2026,
+            "slug": "dac-vu-kim-tai-khoi-dong",
+            "thumb": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 5",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
+        },
+        {
             "name": "Tỏa Sáng Như Những Vì Sao",
             "year": 2026,
             "slug": "toa-sang-nhu-nhung-vi-sao",
@@ -2839,18 +2851,6 @@
             "description": "Bộ phim xoay quanh cuộc sống của Cha Ji-yoon (do Park Ji-hyun thủ vai), một nhân viên văn phòng kỳ cựu với 7 năm kinh nghiệm. Cô vốn là một nhân viên tận tụy, được đồng nghiệp tin tưởng nhờ kỹ năng làm việc xuất sắc, nhưng hiện tại cô đang rơi vào trạng thái bế tắc (slump) cả trong sự nghiệp lẫn chuyện tình cảm. Cuộc đời của Ji-yoon trở nên đảo lộn khi cô phải làm việc dưới quyền của Kang Si-u (do Seo In-guk thủ vai) – vị quản lý trực tiếp của cô. Si-u là một người đàn ông có ngoại hình hoàn hảo và phong thái kỷ luật, nhưng lại nổi tiếng là &quot;kẻ khó tính nhất công ty&quot; với tính cách lạnh lùng, thẳng thắn và gai góc. Ban đầu, Ji-yoon coi Si-u là &quot;cái xấu ít hơn&quot; để tránh những rắc rối tệ hại hơn tại nơi làm việc. Tuy nhiên, trong quá trình tiếp xúc và đối mặt với những áp lực công việc hàng ngày, Ji-yoon dần nhận ra những khía cạnh ấm áp ẩn giấu sau vẻ ngoài nghiêm nghị của sếp mình. Ngược lại, Si-u cũng bị thu hút bởi sự kiên cường và bản lĩnh của Ji-yoon. Từ mối quan hệ cấp trên – cấp dưới đầy căng thẳng, họ dần trở thành chỗ dựa tinh thần không thể thay thế cho nhau."
         },
         {
-            "name": "Đặc Vụ Kim Tái Khởi Động",
-            "year": 2026,
-            "slug": "dac-vu-kim-tai-khoi-dong",
-            "thumb": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 4",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
-        },
-        {
             "name": "Chủ Tịch Tập Sự",
             "year": 2026,
             "slug": "chu-tich-tap-su",
@@ -2937,16 +2937,16 @@
             "description": "Bộ phim kể về hành trình của tiến sĩ tâm lý Lâm Vãn Tinh khi trở về quê hương giảng dạy, gặp gỡ huấn luyện viên hàng đầu Vương Pháp và dẫn dắt nhóm học sinh cá biệt vượt qua nghịch cảnh để theo đuổi ước mơ. Qua phương pháp giáo dục tự do, cô giúp các thiếu niên xây dựng nhân cách độc lập, tìm thấy bản thân và hướng tới tương lai tươi sáng."
         },
         {
-            "name": "Tình Yêu Và Tội Lỗi",
+            "name": "Đặc Vụ Kim Tái Khởi Động",
             "year": 2026,
-            "slug": "tinh-yeu-va-toi-loi",
-            "thumb": "https://phimimg.com/uploads/movies/20260709/tinh-yeu-va-toi-loi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260709/tinh-yeu-va-toi-loi-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
+            "slug": "dac-vu-kim-tai-khoi-dong",
+            "thumb": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 5",
             "total_episodes": "10",
             "country": "Hàn Quốc",
-            "description": "Cảnh sát, những kẻ buôn lậu ma túy và gián điệp: một vụ bắt cóc bí ẩn vô tình vạch trần một mạng lưới tội phạm quy mô lớn, nơi mà cả tình yêu lẫn tình dục đều trở thành những công cụ để trao đổi lợi ích."
+            "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
         },
         {
             "name": "Phí Phông: Quỷ Máu Rừng Thiêng",
@@ -2997,16 +2997,16 @@
             "description": "Phó đội trưởng Đội Trọng án Lý Khải Dương cùng người đồ đệ &quot;oan gia&quot; Giang Hãn hợp sức điều tra hàng loạt vụ án bạo dâm liên hoàn và những vụ án xác chết khỏa thân đầy bí ẩn. Không ngờ, một vụ rơi lầu lại tiếp tục xảy ra, trong khi &quot;Găng Tay Đỏ&quot; - kẻ từng bị bắn hạ - lại kỳ dị xuất hiện như thể sống lại, liên tiếp gây ra những thảm án mới. Nhờ hai thầy trò không tiếc hy sinh, dốc hết sức mình điều tra, chân tướng của một vụ án bí ẩn bị chôn vùi suốt nhiều năm cuối cùng cũng dần được hé lộ."
         },
         {
-            "name": "Lời Đề Nghị Của Công Tố Viên",
+            "name": "Tình Yêu Và Tội Lỗi",
             "year": 2026,
-            "slug": "loi-de-nghi-cua-cong-to-vien",
-            "thumb": "https://phimimg.com/upload/vod/20260627-1/00bad3e184efb751806ae1f5562ace36.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260627-1/4840456fa6f40d96ff25e2b01dc85da9.jpg",
+            "slug": "tinh-yeu-va-toi-loi",
+            "thumb": "https://phimimg.com/uploads/movies/20260709/tinh-yeu-va-toi-loi-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260709/tinh-yeu-va-toi-loi-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
+            "current_episode": "Tập 2",
             "total_episodes": "10",
             "country": "Hàn Quốc",
-            "description": "Mười lăm năm trước, một vụ giết người tàn bạo đã kéo hai cậu bé vào địa ngục. Một người trở thành con trai của nạn nhân; người kia, lại là con của kẻ sát nhân. Nhiều năm sau, định mệnh đã đưa họ tái ngộ trong vai trò một công tố viên và một điều tra viên. Trong khi chiến đấu chống lại mạng lưới tham nhũng pháp lý và doanh nghiệp khổng lồ, họ phát hiện ra một điều còn nguy hiểm hơn thế: chính là đối phương. Họ là điểm yếu chí mạng — và cũng là sự cứu rỗi duy nhất của nhau."
+            "description": "Cảnh sát, những kẻ buôn lậu ma túy và gián điệp: một vụ bắt cóc bí ẩn vô tình vạch trần một mạng lưới tội phạm quy mô lớn, nơi mà cả tình yêu lẫn tình dục đều trở thành những công cụ để trao đổi lợi ích."
         },
         {
             "name": "Báu vật trời cho",
@@ -3057,16 +3057,16 @@
             "description": "Triệu Thiếu Thương và Nguyên Hồng là hai chàng trai có xuất thân, nền tảng giáo dục và quá trình trưởng thành hoàn toàn khác biệt. Qua từng vụ án, họ vừa âm thầm học hỏi lẫn nhau, vừa cùng nhau trưởng thành. Giữa bối cảnh thời đại đầy biến động, cả hai dần trở thành cặp bài trùng khắc tinh đáng gờm nhất trong mắt bọn tội phạm."
         },
         {
-            "name": "Lớp Học Tình Yêu (Phần 3)",
+            "name": "Lời Đề Nghị Của Công Tố Viên",
             "year": 2026,
-            "slug": "lop-hoc-tinh-yeu-phan-3",
-            "thumb": "https://phimimg.com/upload/vod/20260604-1/2353791bb14f17a7f695106b9c7c6852.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260604-1/4e28f3a3299759d4bf98c97b154a46cc.jpg",
+            "slug": "loi-de-nghi-cua-cong-to-vien",
+            "thumb": "https://phimimg.com/upload/vod/20260627-1/00bad3e184efb751806ae1f5562ace36.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260627-1/4840456fa6f40d96ff25e2b01dc85da9.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 13",
-            "total_episodes": "16",
+            "current_episode": "Tập 6",
+            "total_episodes": "10",
             "country": "Hàn Quốc",
-            "description": "Hyun Jae và Soo An từng gặp nhau trong một chương trình sống còn tuyển chọn idol. Trong thời gian thi đấu, cả hai dần nảy sinh tình cảm. Tuy nhiên cuối cùng chỉ có Hyun Jae được debut, còn Soo An bị loại, khiến họ phải chia xa dù vẫn còn tình cảm với nhau."
+            "description": "Mười lăm năm trước, một vụ giết người tàn bạo đã kéo hai cậu bé vào địa ngục. Một người trở thành con trai của nạn nhân; người kia, lại là con của kẻ sát nhân. Nhiều năm sau, định mệnh đã đưa họ tái ngộ trong vai trò một công tố viên và một điều tra viên. Trong khi chiến đấu chống lại mạng lưới tham nhũng pháp lý và doanh nghiệp khổng lồ, họ phát hiện ra một điều còn nguy hiểm hơn thế: chính là đối phương. Họ là điểm yếu chí mạng — và cũng là sự cứu rỗi duy nhất của nhau."
         },
         {
             "name": "Hoàng Tử Quỷ",
