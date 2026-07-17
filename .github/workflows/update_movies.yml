@@ -9,6 +9,10 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    
+    # 🌟 THÊM KHU VỰC NÀY VÀO: Cấp quyền ghi thẳng trong file cấu hình để không bị lỗi Push
+    permissions:
+      contents: write
 
     steps:
       - name: 📥 Bước 1: Pull mã nguồn từ Repo về
@@ -32,10 +36,10 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
           
-          # Chỉ add đúng thư mục chứa các file json danh mục con
+          # Add sự thay đổi trong thư mục đã có sẵn
           git add data_categories/
           
-          # Kiểm tra nếu có sự thay đổi thì mới commit & push để tránh lỗi
+          # Kiểm tra nếu có phim mới thì mới commit & push, tránh lỗi empty commit
           if git diff --staged --quiet; then
             echo "Ngon lành! Không có phim nào mới để cập nhật."
           else
