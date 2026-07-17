@@ -1,48 +1,39 @@
-name: 🤖 Auto Update Movies Data
+name: Auto Update Movies Data
 
 on:
   schedule:
-    # Chạy tự động mỗi 4 tiếng một lần (Thời gian UTC)
     - cron: '0 */4 * * *'
-  workflow_dispatch: # Cho phép ní bấm nút "Run workflow" bằng tay trên web GitHub
+  workflow_dispatch:
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
-    
-    # 🌟 THÊM KHU VỰC NÀY VÀO: Cấp quyền ghi thẳng trong file cấu hình để không bị lỗi Push
     permissions:
       contents: write
 
     steps:
-      - name: 📥 Bước 1: Pull mã nguồn từ Repo về
+      - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: 🐍 Bước 2: Khởi tạo môi trường Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: 📦 Bước 3: Cài đặt thư viện cần thiết
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+      - name: Install requests
+        run: pip install requests
 
-      - name: 🚀 Bước 4: Chạy Script cập nhật dữ liệu phim
+      - name: Run script
         run: python update_data.py
 
-      - name: 💾 Bước 5: Commit và Push dữ liệu mới lên GitHub
+      - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
-          
-          # Add sự thay đổi trong thư mục đã có sẵn
           git add data_categories/
-          
-          # Kiểm tra nếu có phim mới thì mới commit & push, tránh lỗi empty commit
           if git diff --staged --quiet; then
-            echo "Ngon lành! Không có phim nào mới để cập nhật."
+            echo "No changes"
           else
-            git commit -m "🤖 [Bot] Tự động cập nhật phim mới cập nhật vào thư mục dữ liệu"
+            git commit -m "🤖 [Bot] Update data"
             git push
           fi
