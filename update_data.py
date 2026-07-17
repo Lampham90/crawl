@@ -43,13 +43,17 @@ def parse_movie(m):
     }
 
 def update_category_list(current_list, new_movies, max_count=MAX_ITEMS_PER_CAT):
-    movie_dict = {m['slug']: m for m in current_list}
+    # Tránh lỗi nếu current_list bị None hoặc lỗi cấu trúc
+    if not isinstance(current_list, list):
+        current_list = []
+    movie_dict = {m['slug']: m for m in current_list if isinstance(m, dict) and 'slug' in m}
     
     for m in reversed(new_movies):
-        movie_dict[m['slug']] = m
+        if isinstance(m, dict) and 'slug' in m:
+            movie_dict[m['slug']] = m
         
-    new_slugs = {nm['slug'] for nm in new_movies}
-    newly_added = [movie_dict[s] for s in new_slugs]
+    new_slugs = {nm['slug'] for nm in new_movies if isinstance(nm, dict) and 'slug' in nm}
+    newly_added = [movie_dict[s] for s in new_slugs if s in movie_dict]
     old_maintained = [m for s, m in movie_dict.items() if s not in new_slugs]
     
     final_ordered = newly_added + old_maintained
@@ -71,10 +75,9 @@ def interleave_trending(rap, tr, han, viet, au):
 def main():
     start_time = time.time()
     
-    # 1. Tạo thư mục nếu chưa có
+    # 1. Chắc chắn thư mục được tạo ra bất kể môi trường nào
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
-    # Danh sách tất cả các key danh mục
     category_keys = [
         "anime_movie", "anime_nhat", "hh_trung_quoc", "phim_chieu_rap",
         "le_vn", "bo_vn", "le_han", "bo_han", "le_trung", "bo_trung",
@@ -84,30 +87,35 @@ def main():
     
     final_data = {}
     
-    # 2. Đọc dữ liệu cũ từ các file con
-    print(f"📖 Đang nạp dữ liệu cũ từ thư mục /{OUTPUT_DIR}...")
+    # 2. Đọc dữ liệu cũ (Nếu chưa có file thì tự khởi tạo list rỗng, không báo lỗi đứt gánh)
+    print(f"📖 Đang nạp dữ liệu từ thư mục /{OUTPUT_DIR}...")
     for key in category_keys:
         file_path = os.path.join(OUTPUT_DIR, f"{key}.json")
         if os.path.exists(file_path):
-            with open(file_path, "r", encoding="utf-8") as f:
-                final_data[key] = json.load(f)
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    final_data[key] = json.load(f)
+            except:
+                final_data[key] = []
         else:
             final_data[key] = []
             
-    # Mẹo tự động: Tách từ file tổng cũ nếu có
+    # Tách từ file tổng cũ nếu có nằm ở thư mục gốc
     if all(len(v) == 0 for v in final_data.values()) and os.path.exists("data_2026_perfect.json"):
-        print("💡 Phát hiện file tổng cũ, đang tự động tách dữ liệu vào thư mục...")
-        with open("data_2026_perfect.json", "r", encoding="utf-8") as f:
-            old_data = json.load(f)
-            for k, v in old_data.items():
-                if k in final_data:
-                    final_data[k] = v
+        print("💡 Phát hiện file tổng cũ ở ngoài, đang tách dữ liệu...")
+        try:
+            with open("data_2026_perfect.json", "r", encoding="utf-8") as f:
+                old_data = json.load(f)
+                for k, v in old_data.items():
+                    if k in final_data:
+                        final_data[k] = v
+        except:
+            pass
 
-    # 3. 🎉 ĐÃ ĐỔI ENDPOINT: Bào 10 trang đầu của Phim Mới Cập Nhật
+    # 3. Bào 10 trang đầu của Phim Mới Cập Nhật
     print(">>> Đang quét 10 trang đầu từ API Phim Mới Cập Nhật...")
     raw_items = []
     for page in range(1, 11):
-        # Sử dụng đúng endpoint danh-sach/phim-moi-cap-nhat theo chuẩn v1/api
         data = get_data(f"{BASE_URL}/danh-sach/phim-moi-cap-nhat", {"page": page, "limit": 40})
         if data and 'data' in data and data['data'].get('items'):
             items = data['data']['items']
@@ -118,7 +126,7 @@ def main():
         time.sleep(0.3)
 
     if not raw_items:
-        print("❌ Không thu thập được phim mới nào từ API.")
+        print("❌ Không thu thập được phim mới nào từ API. Dừng lại để giữ an toàn.")
         return
 
     # 4. Phân loại phim mới
@@ -190,7 +198,7 @@ def main():
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(value, f, ensure_ascii=False, indent=4)
             
-    print(f"\n🚀 HOÀN THÀNH: Đã đồng bộ qua endpoint mới và cập nhật thư mục '{OUTPUT_DIR}' sau {int(time.time()-start_time)} giây!")
+    print(f"\n🚀 HOÀN THÀNH: Cập nhật thư mục '{OUTPUT_DIR}' sau {int(time.time()-start_time)} giây!")
 
 if __name__ == "__main__":
     main()
