@@ -1,4 +1,4 @@
-name: 🤖 Auto Update Movies Data
+name: Auto Update Movies Data
 
 on:
   schedule:
@@ -13,57 +13,41 @@ jobs:
       contents: write
 
     steps:
-      - name: 📥 Bước 1: Pull mã nguồn từ Repo về
+      - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: 🐍 Bước 2: Khởi tạo môi trường Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: 📦 Bước 3: Cài đặt thư viện cần thiết
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+      - name: Install requests
+        run: pip install requests
 
-      - name: 🚀 Bước 4: Chạy Script cập nhật dữ liệu phim
+      - name: Run script Python
         run: python update_data.py
 
-      - name: 📊 Bước 5: Kiểm tra và Xuất báo cáo bằng Python
-        id: check_changes
-        run: |
-          python -c '
-          import os, subprocess
-          
-          # Lấy danh sách file thay đổi trong data_categories
-          res = subprocess.run(["git", "diff", "--name-only", "data_categories/"], capture_output=True, text=True)
-          files = [f.strip() for f in res.stdout.split("\n") if f.strip()]
-          
-          summary_file = os.environ.get("GITHUB_STEP_SUMMARY", "summary.md")
-          output_file = os.environ.get("GITHUB_OUTPUT", "output.txt")
-          
-          with open(summary_file, "a", encoding="utf-8") as f:
-              f.write("## 📊 BÁO CÁO CẬP NHẬT DỮ LIỆU PHIM\n")
-              if not files:
-                  f.write("✅ **Giữ nguyên:** Tất cả danh mục đều đã mới nhất, không tìm thấy phim mới nào từ API.\n")
-                  has_changes = "false"
-              else:
-                  f.write("| Trạng thái | Tên File Danh Mục |\n")
-                  f.write("| :--- | :--- |\n")
-                  for file in files:
-                      f.write(f"| 🔄 **Đã cập nhật (Có phim mới)** | `{file}` |\n")
-                  has_changes = "true"
-                  
-          with open(output_file, "a", encoding="utf-8") as f:
-              f.write(f"has_changes={has_changes}\n")
-          '
-
-      - name: 💾 Bước 6: Commit và Push dữ liệu mới lên GitHub
-        if: steps.check_changes.outputs.has_changes == 'true'
+      - name: Create Report and Push
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
           
-          git add data_categories/
-          git commit -m "🤖 [Bot] Tự động cập nhật phim mới cập nhật vào thư mục dữ liệu"
-          git push
+          # Lưu trạng thái thay đổi trước khi add
+          echo "## 📊 BÁO CÁO CẬP NHẬT DỮ LIỆU PHIM" >> $GITHUB_STEP_SUMMARY
+          echo "Thời gian: $(date)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -z "$(git status --porcelain data_categories/)" ]; then
+              echo "✅ **Giữ nguyên:** Không tìm thấy phim mới nào từ API." >> $GITHUB_STEP_SUMMARY
+              echo "Không có dữ liệu mới."
+          else
+              echo "🔄 **Có danh mục được cập nhật phim mới!** Chi tiết thay đổi:" >> $GITHUB_STEP_SUMMARY
+              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+              git status -s data_categories/ >> $GITHUB_STEP_SUMMARY
+              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+              
+              # Tiến hành push lên repo
+              git add data_categories/
+              git commit -m "🤖 [Bot] Tu dong cap nhat phim moi"
+              git push
+          fi
