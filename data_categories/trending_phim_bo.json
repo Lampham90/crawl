@@ -11,14 +11,14 @@
         "country": "Thái Lan"
     },
     {
-        "name": "Mùa Hè Nồng Nhiệt",
+        "name": "100 Ngày Trở Thành Vua",
         "year": 2026,
-        "slug": "mua-he-nong-nhiet",
-        "thumb": "https://phimimg.com/upload/vod/20260616-1/f9a3568b070e468019ee3bfde41b712e.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260616-1/247abad1d18477f9983cbf3877e4f070.jpg",
-        "sub_type": "Vietsub + Thuyết Minh",
-        "current_episode": "Hoàn Tất (29/29)",
-        "total_episodes": "29",
+        "slug": "100-ngay-tro-thanh-vua",
+        "thumb": "https://phimimg.com/upload/vod/20260705-1/be3861cd61b17562208ac480e1a72485.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260705-1/fa3aca9eeb59b42dfcda83b0c2d85fd4.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "25",
         "country": "trung-quoc"
     },
     {
@@ -66,14 +66,14 @@
         "country": "Âu Mỹ"
     },
     {
-        "name": "100 Ngày Trở Thành Vua",
+        "name": "Trảm Thần: Phàm Trần Thần Vực (Phần 2)",
         "year": 2026,
-        "slug": "100-ngay-tro-thanh-vua",
-        "thumb": "https://phimimg.com/upload/vod/20260705-1/be3861cd61b17562208ac480e1a72485.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260705-1/fa3aca9eeb59b42dfcda83b0c2d85fd4.jpg",
+        "slug": "tram-than-pham-tran-than-vuc-phan-2",
+        "thumb": "https://phimimg.com/upload/vod/20260627-1/4c213d3213bfbfff8254a2bace26b730.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260627-1/84241482e7ba7ceb6139e4c6df6c5163.jpg",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
-        "total_episodes": "25",
+        "current_episode": "Tập 6",
+        "total_episodes": "15",
         "country": "trung-quoc"
     },
     {
@@ -121,14 +121,14 @@
         "country": "Âu Mỹ"
     },
     {
-        "name": "Trảm Thần: Phàm Trần Thần Vực (Phần 2)",
+        "name": "Tương Dạ 3D",
         "year": 2026,
-        "slug": "tram-than-pham-tran-than-vuc-phan-2",
-        "thumb": "https://phimimg.com/upload/vod/20260627-1/4c213d3213bfbfff8254a2bace26b730.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260627-1/84241482e7ba7ceb6139e4c6df6c5163.jpg",
+        "slug": "tuong-da-3d",
+        "thumb": "https://phimimg.com/upload/vod/20260423-1/950380cf1fa0a107247fefbd2b2e2346.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260423-1/1f987788a47a6b0e4ade3cff648b996a.jpg",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "15",
+        "current_episode": "Tập 14",
+        "total_episodes": "19",
         "country": "trung-quoc"
     },
     {
