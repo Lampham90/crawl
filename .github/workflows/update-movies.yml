@@ -1,0 +1,26 @@
+name: Update Movies Daily
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Chạy mỗi giờ (hoặc đổi thành '0 0 * * *' để chạy 12h đêm)
+  workflow_dispatch:    # Cho phép bạn nhấn nút chạy thủ công trên GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install axios mongoose
+
+      - name: Run Crawler
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+        run: node cron-crawl.js
