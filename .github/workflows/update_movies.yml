@@ -1,4 +1,4 @@
-name: Auto Update Movies Data
+name: 🤖 Auto Update Movies Data
 
 on:
   schedule:
@@ -8,32 +8,66 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    
     permissions:
       contents: write
 
     steps:
-      - name: Checkout code
+      - name: 📥 Bước 1: Pull mã nguồn từ Repo về
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: 🐍 Bước 2: Khởi tạo môi trường Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Install requests
-        run: pip install requests
+      - name: 📦 Bước 3: Cài đặt thư viện cần thiết
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: Run script
+      - name: 🚀 Bước 4: Chạy Script cập nhật dữ liệu phim
         run: python update_data.py
 
-      - name: Commit and Push
+      - name: 📊 Bước 5: Kiểm tra và Xuất báo cáo chi tiết
+        id: check_changes
+        run: |
+          echo "=== CHI TIẾT CÁC FILE THAY ĐỔI ===" > report.txt
+          git status -s data_categories/ >> report.txt
+          
+          # Tạo nội dung báo cáo trực quan lên giao diện GitHub
+          echo "## 📊 BÁO CÁO CẬP NHẬT DỮ LIỆU PHIM" >> $GITHUB_STEP_SUMMARY
+          echo "Thời gian chạy: $(date '+%Y-%m-%d %H:%M:%S') (UTC)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Trạng thái | Tên File Danh Mục |" >> $GITHUB_STEP_SUMMARY
+          echo "| :--- | :--- |" >> $GITHUB_STEP_SUMMARY
+          
+          # Duyệt qua các file thay đổi để phân loại Đã cập nhật / Giữ nguyên
+          git status -s data_categories/ | while read status file; do
+            if [ "$status" = "M" ]; then
+              echo "| 🔄 **Đã cập nhật (Có phim mới)** | \`${file}\` |" >> $GITHUB_STEP_SUMMARY
+            elif [ "$status" = "A" ]; then
+              echo "| ✨ **Thêm mới hoàn toàn** | \`${file}\` |" >> $GITHUB_STEP_SUMMARY
+            fi
+          done
+          
+          # Nếu không có file nào đổi màu (không có thay đổi)
+          if [ ! -s report.txt ] || [ "$(cat report.txt | wc -l)" -le 1 ]; then
+            echo "| ✅ **Giữ nguyên** | Tất cả danh mục đều đã mới nhất, không có phim mới |" >> $GITHUB_STEP_SUMMARY
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+          
+          # In ra màn hình log để xem nhanh
+          cat report.txt
+
+      - name: 💾 Bước 6: Commit và Push dữ liệu mới lên GitHub
+        if: steps.check_changes.outputs.has_changes == 'true'
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
+          
           git add data_categories/
-          if git diff --staged --quiet; then
-            echo "No changes"
-          else
-            git commit -m "🤖 [Bot] Update data"
-            git push
-          fi
+          git commit -m "🤖 [Bot] Tự động cập nhật phim mới cập nhật vào thư mục dữ liệu"
+          git push
