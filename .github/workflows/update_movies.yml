@@ -32,35 +32,33 @@ jobs:
       - name: 📊 Bước 5: Kiểm tra và Xuất báo cáo chi tiết
         id: check_changes
         run: |
-          echo "=== CHI TIẾT CÁC FILE THAY ĐỔI ===" > report.txt
-          git status -s data_categories/ >> report.txt
+          # Kiểm tra xem thư mục data_categories có gì thay đổi so với repo không
+          git status --porcelain data_categories/ > changes.txt
           
-          # Tạo nội dung báo cáo trực quan lên giao diện GitHub
+          # Khởi tạo tiêu đề báo cáo lên trang Summary của GitHub
           echo "## 📊 BÁO CÁO CẬP NHẬT DỮ LIỆU PHIM" >> $GITHUB_STEP_SUMMARY
           echo "Thời gian chạy: $(date '+%Y-%m-%d %H:%M:%S') (UTC)" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "| Trạng thái | Tên File Danh Mục |" >> $GITHUB_STEP_SUMMARY
-          echo "| :--- | :--- |" >> $GITHUB_STEP_SUMMARY
           
-          # Duyệt qua các file thay đổi để phân loại Đã cập nhật / Giữ nguyên
-          git status -s data_categories/ | while read status file; do
-            if [ "$status" = "M" ]; then
-              echo "| 🔄 **Đã cập nhật (Có phim mới)** | \`${file}\` |" >> $GITHUB_STEP_SUMMARY
-            elif [ "$status" = "A" ]; then
-              echo "| ✨ **Thêm mới hoàn toàn** | \`${file}\` |" >> $GITHUB_STEP_SUMMARY
-            fi
-          done
-          
-          # Nếu không có file nào đổi màu (không có thay đổi)
-          if [ ! -s report.txt ] || [ "$(cat report.txt | wc -l)" -le 1 ]; then
-            echo "| ✅ **Giữ nguyên** | Tất cả danh mục đều đã mới nhất, không có phim mới |" >> $GITHUB_STEP_SUMMARY
+          # Nếu file changes.txt rỗng nghĩa là không có phim mới nào được nạp vào file JSON
+          if [ ! -s changes.txt ]; then
+            echo "✅ **Giữ nguyên:** Tất cả danh mục đều đã mới nhất, không tìm thấy phim mới nào từ API." >> $GITHUB_STEP_SUMMARY
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
+            echo "| Trạng thái | Tên File Danh Mục |" >> $GITHUB_STEP_SUMMARY
+            echo "| :--- | :--- |" >> $GITHUB_STEP_SUMMARY
+            
+            # Đọc nhanh danh sách file bị chỉnh sửa mà không dùng vòng lặp phức tạp
+            git diff --name-only data_categories/ | while read -r line; do
+              echo "| 🔄 **Đã cập nhật (Có phim mới)** | \`${line}\` |" >> $GITHUB_STEP_SUMMARY
+            done
+            
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
           
-          # In ra màn hình log để xem nhanh
-          cat report.txt
+          # In kết quả kiểm tra ra màn hình log để debug nếu cần
+          echo "=== Các file có sự thay đổi ==="
+          cat changes.txt
 
       - name: 💾 Bước 6: Commit và Push dữ liệu mới lên GitHub
         if: steps.check_changes.outputs.has_changes == 'true'
