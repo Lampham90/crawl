@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 
 # --- CẤU HÌNH ---
-BASE_URL = "https://phimapi.com/v1/api"
+BASE_URL = "https://phimapi.com/v1/api/danh-sach?page=1"
 YEARS_FILTER = [2026, 2025]
 OUTPUT_DIR = "data_categories"  # Thư mục chứa các file JSON con
 MAX_WORKERS = 2  
