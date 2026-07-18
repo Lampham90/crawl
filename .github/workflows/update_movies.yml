@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-data:
-    runs-ok: ubuntu-latest
+    runs-on: ubuntu-latest
     
     permissions:
       contents: write
@@ -32,7 +32,7 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
           
-          # 🌟 KIỂM TRA TRƯỚC: Nếu thư mục dữ liệu KHÔNG CÓ THAY ĐỔI so với repo git
+          # Kiểm tra xem thư mục dữ liệu có thực sự đổi mới so với repo không
           if [ -z "$(git status --porcelain data_categories/)" ]; then
               echo "## 📊 BÁO CÁO CHI TIẾT CẬP NHẬT PHIM" >> $GITHUB_STEP_SUMMARY
               echo "Thời gian quét hệ thống: $(date '+%Y-%m-%d %H:%M:%S') (UTC)" >> $GITHUB_STEP_SUMMARY
@@ -40,7 +40,7 @@ jobs:
               echo "✅ **Giữ nguyên:** Tất cả danh mục đều đã mới nhất, không có phim mới nào so với commit trước." >> $GITHUB_STEP_SUMMARY
               echo "Không có sự thay đổi nào trong dữ liệu file."
           else
-              # Nếu THỰC SỰ CÓ ĐỔI MỚI (ní vừa xóa phim hoặc API có phim mới) -> Mới in chi tiết
+              # Nếu có thay đổi thực tế thì mới in bảng chi tiết ra
               echo "## 📊 BÁO CÁO CHI TIẾT CẬP NHẬT PHIM" >> $GITHUB_STEP_SUMMARY
               echo "Thời gian quét hệ thống: $(date '+%Y-%m-%d %H:%M:%S') (UTC)" >> $GITHUB_STEP_SUMMARY
               echo "" >> $GITHUB_STEP_SUMMARY
@@ -60,7 +60,7 @@ jobs:
                               f.write(line)
               '
               
-              # Tiến hành push dữ liệu thay đổi thực tế lên repo
+              # Tiến hành push dữ liệu lên repo
               git add data_categories/
               git commit -m "🤖 [Bot] Cap nhat chi tiet cac tap phim moi"
               git push
