@@ -11,8 +11,6 @@ YEARS_FILTER = [2026, 2025]
 OUTPUT_DIR = "data_categories"
 MAX_WORKERS = 2  
 MAX_ITEMS_PER_CAT = 30  
-
-# File trung gian để xuất báo cáo sang GitHub Action
 REPORT_FILE = "update_report.json"
 
 def get_data(url, params=None):
@@ -42,26 +40,16 @@ def parse_movie(m):
         "description": m.get('content', '').replace('<p>','').replace('</p>','').replace('<br>', '').strip()
     }
 
-def interleave_trending(rap, tr, han, viet, au):
-    trending = []
-    l_rap, l_tr, l_han, l_viet, l_au = list(rap), list(tr), list(han), list(viet), list(au)
-    while (l_rap or l_tr or l_han or l_viet or l_au) and len(trending) < 15:
-        if l_rap: trending.append(l_rap.pop(0))
-        if l_tr: trending.append(l_tr.pop(0))
-        if l_han: trending.append(l_han.pop(0))
-        if l_viet: trending.append(l_viet.pop(0))
-        if l_au: trending.append(l_au.pop(0))
-    return trending[:15]
-
 def main():
     start_time = time.time()
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
+    # 🌟 Đã xóa bỏ hoàn toàn "trending_phim_bo" theo yêu cầu của ní
     category_keys = [
         "anime_movie", "anime_nhat", "hh_trung_quoc", "phim_chieu_rap",
         "le_vn", "bo_vn", "le_han", "bo_han", "le_trung", "bo_trung",
         "le_au_my", "bo_au_my", "le_thai", "bo_thai", 
-        "long_tieng", "thuyet_minh", "trending_phim_bo"
+        "long_tieng", "thuyet_minh"
     ]
     
     final_data = {}
@@ -73,7 +61,6 @@ def main():
             except: final_data[key] = []
         else: final_data[key] = []
 
-    # 1. Bào phim mới
     print(">>> Đang quét 10 trang đầu từ API Phim Mới Cập Nhật...")
     raw_items = []
     for page in range(1, 11):
@@ -92,10 +79,7 @@ def main():
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         details = list(executor.map(fetch_detail, [it['slug'] for it in unique_items]))
 
-    # Lưu vết lịch sử thay đổi để làm báo cáo chi tiết
     report_details = []
-
-    # Danh sách phim mới phân loại tạm thời (giữ đúng thứ tự thời gian cào về)
     categorized = {k: [] for k in category_keys}
 
     for d in details:
@@ -114,7 +98,6 @@ def main():
         chude = m.get('chude', '')
         lang = str(m.get('lang', ''))
 
-        # Phân loại vào khay tạm
         if "Hoạt Hình" in categories:
             if is_movie: categorized["anime_movie"].append(movie_data)
             elif "Nhật Bản" in countries: categorized["anime_nhat"].append(movie_data)
@@ -129,59 +112,44 @@ def main():
         if "Lồng Tiếng" in lang: categorized["long_tieng"].append(movie_data)
         if "Thuyết Minh" in lang: categorized["thuyet_minh"].append(movie_data)
 
-    # 2. Xử lý Trộn / Đè / Thêm mới lên đầu danh sách
+    # Xử lý Trộn Đè lên đầu file JSON chuẩn chỉ
     for key in category_keys:
-        if key == "trending_phim_bo" or not categorized[key]: continue
+        if not categorized[key]: continue
         
         current_list = final_data[key]
         new_movies = categorized[key]
-        
-        # Tạo map từ list cũ để check trạng thái
         old_map = {m['slug']: m for m in current_list}
         
         updated_slugs = set()
         list_to_pushed_front = []
         
-        # Duyệt qua các phim mới cào về (giữ đúng thứ tự mới nhất lên trước)
         for nm in new_movies:
             slug = nm['slug']
             if slug in updated_slugs: continue
             
             if slug in old_map:
-                # Nếu có thay đổi tập phim hoặc thông tin khác -> Đánh dấu GHI ĐÈ
                 if old_map[slug]['current_episode'] != nm['current_episode']:
                     report_details.append({"cat": key, "name": nm['name'], "type": "🔄 Ghi đè tập mới", "ep": nm['current_episode']})
-                list_to_pushed_front.append(nm) # Đẩy thẳng lên đầu danh sách
+                list_to_pushed_front.append(nm)
             else:
-                # Không có trong dữ liệu cũ -> THÊM MỚI TOÀN BỘ
                 report_details.append({"cat": key, "name": nm['name'], "type": "✨ Thêm mới", "ep": nm['current_episode']})
                 list_to_pushed_front.append(nm)
                 
             updated_slugs.add(slug)
             
-        # Giữ lại những phim cũ KHÔNG liên quan đến đợt update này
         remained_old = [m for m in current_list if m['slug'] not in updated_slugs]
-        
-        # Ghép lại: Phim mới/Phim vừa cập nhật luôn xếp ở ĐẦU [0, 1, 2...], phim cũ lùi về sau
         final_data[key] = (list_to_pushed_front + remained_old)[:MAX_ITEMS_PER_CAT]
 
-    # 3. Cập nhật lại danh mục trộn Mix Trending từ nguồn data đã làm mới
-    final_data["trending_phim_bo"] = interleave_trending(
-        final_data.get("phim_chieu_rap", []), final_data.get("bo_trung", []), 
-        final_data.get("bo_han", []), final_data.get("le_vn", []), final_data.get("bo_au_my", [])
-    )
-
-    # 4. Ghi đè lưu dữ liệu ra file con
+    # Lưu dữ liệu sạch
     for key, value in final_data.items():
         file_path = os.path.join(OUTPUT_DIR, f"{key}.json")
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(value, f, ensure_ascii=False, indent=4)
 
-    # 5. Xuất file JSON chứa lịch sử cập nhật phục vụ làm báo cáo GitHub
     with open(REPORT_FILE, "w", encoding="utf-8") as f:
         json.dump(report_details, f, ensure_ascii=False, indent=4)
         
-    print(f"🎉 Đã đồng bộ xong! Phát hiện {len(report_details)} thay đổi.")
+    print(f"🎉 Hoàn thành cập nhật!")
 
 if __name__ == "__main__":
     main()
