@@ -200,7 +200,8 @@
         "sub_type": "Vietsub",
         "current_episode": "Tập 5",
         "total_episodes": "19",
-        "country": "thai-lan"
+        "country": "Thái Lan",
+        "description": "Tình yêu, ước mơ, cuộc sống mưu sinh xoáy vào nhau khi nhóm &quot;Gen Me&quot; đối diện nhịp sống hối hả ở Thái Lan, nơi trưởng thành đánh đổi bằng nước mắt, tình cảm và sự thật nghiệt ngã."
     },
     {
         "name": "Siêu Sao Hay Siêu Xịt",
@@ -211,18 +212,32 @@
         "sub_type": "Vietsub",
         "current_episode": "Tập 4",
         "total_episodes": "10",
-        "country": "thai-lan"
+        "country": "Thái Lan",
+        "description": "Một nhóm nhạc thần tượng từng ôm mộng vinh quang nay phải đối mặt với nỗi tủi hổ khi phải mặc đồ linh vật biểu diễn các bài hát thiếu nhi. Lần lượt mọi người đều bỏ cuộc và rời đi… ngoại trừ Jeng, người duy nhất lựa chọn ở lại bên cạnh vị sếp Sithian bướng bỉnh, cố chấp của mình."
     },
     {
-        "name": "Báo Thù",
+        "name": "Xích Tình Rực Lửa",
         "year": 2026,
-        "slug": "bao-thu-2026",
-        "thumb": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260531-1/44b98f8dceee0f4b7f0a576c9237410e.jpg",
+        "slug": "xich-tinh-ruc-lua",
+        "thumb": "https://phimimg.com/uploads/movies/20260712/xich-tinh-ruc-lua-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260712/xich-tinh-ruc-lua-poster.webp",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
+        "current_episode": "Tập 1",
         "total_episodes": "8",
-        "country": "thai-lan"
+        "country": "Thái Lan",
+        "description": "Tại vùng đất phương Nam, \"Fai\" Atchima Watinwanich có dịp tái ngộ với người đối đầu cũ của mình là \"Kaprao\" Athitaya Thitsama — một cuộc gặp gỡ có thể thắp lên ngọn lửa tình yêu hoặc sẽ lại vạch trần những vết thương cũ chưa lành."
+    },
+    {
+        "name": "Tỉnh Táo Rồi, Lookpeach",
+        "year": 2026,
+        "slug": "tinh-tao-roi-lookpeach",
+        "thumb": "https://phimimg.com/uploads/movies/20260712/tinh-tao-roi-lookpeach-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260712/tinh-tao-roi-lookpeach-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "4",
+        "country": "Thái Lan",
+        "description": "Sau đám cưới, Thee và Peach cùng nhau đón nhận những niềm vui lẫn sự hỗn loạn của cuộc sống hôn nhân, đồng thời dần tìm ra nhịp điệu sống hòa hợp của riêng hai người."
     },
     {
         "name": "Đừng Xin Anh Jane",
@@ -233,7 +248,8 @@
         "sub_type": "Vietsub",
         "current_episode": "Tập 3",
         "total_episodes": "12",
-        "country": "thai-lan"
+        "country": "Thái Lan",
+        "description": "Một cầu thủ bóng đá kết bạn với một thực thể ban điều ước đầy bí ẩn, nhưng những món quà nguy hiểm từ thực thể này lại che giấu những bí mật đen tối, vô tình kéo hai người lại gần nhau hơn."
     },
     {
         "name": "Vẽ Nên Giấc Mơ Ngày Cưới",
@@ -244,7 +260,20 @@
         "sub_type": "Vietsub",
         "current_episode": "Tập 4",
         "total_episodes": "12",
-        "country": "thai-lan"
+        "country": "Thái Lan",
+        "description": "Dù vẫn còn tình cảm với nhau nhưng bị mẹ của Runch chia cắt, hai người phụ nữ phải giả vờ rằng cuộc hôn nhân của họ vẫn hạnh phúc để hoàn tất một thương vụ kinh doanh quan trọng."
+    },
+    {
+        "name": "Ranh Giới Bình Minh (Rạng Đông)",
+        "year": 2026,
+        "slug": "ranh-gioi-binh-minh-rang-dong",
+        "thumb": "https://phimimg.com/uploads/movies/20260709/ranh-gioi-binh-minh-rang-dong-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260709/ranh-gioi-binh-minh-rang-dong-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Nhiều năm sau khi bị chia cắt bởi địa vị và truyền thống lễ giáo nghiêm ngặt, vị hoàng tử và mối tình đầu của mình tình cờ tái ngộ, khiến những tâm tư chôn giấu bấy lâu một lần nữa lại trỗi dậy và nở rộ."
     },
     {
         "name": "Gió Thoảng Tình Theo",
@@ -255,7 +284,8 @@
         "sub_type": "Vietsub",
         "current_episode": "Hoàn Tất (8/8)",
         "total_episodes": "8",
-        "country": "thai-lan"
+        "country": "Thái Lan",
+        "description": "Công chúa Blue, người thừa kế ngai vàng xứ Madelin, có chuyến công du đến Thái Lan và gặp gỡ Wayo Wathinwanit – một sĩ quan cảnh sát được giao nhiệm vụ bảo vệ an toàn cho cô. Tuy nhiên, chuyến đi nhanh chóng trở thành một cơn ác mộng khi một âm mưu ám sát nổ ra, buộc công chúa phải tháo chạy, và Lom là người duy nhất có thể bảo vệ cô.&nbsp; Trong thời gian lẩn trốn kẻ thù, cả hai phải đối mặt với vô vàn hiểm nguy và những tình huống ngặt nghèo. Chính sự đồng cam cộng khổ ấy đã kéo họ lại gần nhau hơn, làm nảy sinh một thứ tình cảm thân mật và cấm đoán không thể cứu vãn. Dù biết rõ rằng mối tình này là bất khả thi, trái tim của Lom vẫn thúc giục cô phải bảo vệ công chúa bằng mọi giá. Khi kẻ thù tìm ra nơi ẩn náu của họ, một trận chiến sinh tử cuối cùng chuẩn bị bắt đầu."
     },
     {
         "name": "Cậu Bé Không Lên Thiên Đường",
@@ -266,6 +296,18 @@
         "sub_type": "Vietsub",
         "current_episode": "Hoàn Tất (6/6)",
         "total_episodes": "6",
+        "country": "Thái Lan",
+        "description": "Một nam sinh đang ôm nỗi đau mất mát và trên con đường tu học để trở thành linh mục bỗng phải đối mặt với một cuộc khủng hoảng đức tin trầm trọng khi anh đem lòng yêu một người bạn học mới có cuộc sống đầy rẫy rắc rối. Câu chuyện diễn ra trong một thế giới bị thống trị bởi những giáo điều và luật lệ vô cùng hà khắc."
+    },
+    {
+        "name": "Báo Thù",
+        "year": 2026,
+        "slug": "bao-thu-2026",
+        "thumb": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260531-1/44b98f8dceee0f4b7f0a576c9237410e.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "8",
         "country": "thai-lan"
     },
     {
@@ -310,39 +352,6 @@
         "sub_type": "Vietsub",
         "current_episode": "Hoàn Tất (8/8)",
         "total_episodes": "8",
-        "country": "thai-lan"
-    },
-    {
-        "name": "Hổ Giấu Vằn (Payak Raai Sorn Laai)",
-        "year": 2026,
-        "slug": "ho-giau-van-payak-raai-sorn-laai",
-        "thumb": "https://phimimg.com/upload/vod/20260516-1/491a74f039db3dc1ecf09fb0f715f57b.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260516-1/77c1b40f3b62b6bbc79c5e1040b2340b.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (24/24)",
-        "total_episodes": "24",
-        "country": "thai-lan"
-    },
-    {
-        "name": "Ngày Tôi Trở Thành Siêu Sao",
-        "year": 2026,
-        "slug": "ngay-toi-tro-thanh-sieu-sao-2026",
-        "thumb": "https://phimimg.com/upload/vod/20260210-1/7294dcb627587c0c9b4724e5a59e0a42.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260210-1/ff1a95665c3083fbc592520818cf844f.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "thai-lan"
-    },
-    {
-        "name": "Tiên Tri Tình Yêu",
-        "year": 2026,
-        "slug": "tien-tri-tinh-yeu",
-        "thumb": "https://phimimg.com/upload/vod/20260423-1/3589c3c1c058b0a71cf2d172d3ec1db1.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260423-1/10ec151d7bd9724043f06af1618bbcf1.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 10",
-        "total_episodes": "10",
         "country": "thai-lan"
     }
 ]

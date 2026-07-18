@@ -72,6 +72,30 @@
         "description": "Siêu Cảnh Sát Vũ Trụ Gavan Infinity (Super Space Sheriff Gavan Infinity) lấy bối cảnh trong một đa vũ trụ mang tên Cosmo Layer, nơi tồn tại nhiều Trái Đất song song. Tại đây, các chiến binh mang danh hiệu Gavan thuộc tổ chức Cảnh sát Liên bang Ngân Hà có sứ mệnh duy trì trật tự và hòa bình xuyên không gian và thời gian. Qua mỗi lần thực hiện nhiệm vụ ở các thế giới vừa tương đồng vừa khác biệt, bí ẩn về năng lực đặc biệt của Gavan cũng dần được hé lộ."
     },
     {
+        "name": "Song Mệnh Cõi Hoàng Tuyền",
+        "year": 2026,
+        "slug": "song-menh-coi-hoang-tuyen",
+        "thumb": "https://phimimg.com/upload/vod/20260406-1/5b01bfa978886e99a559d3a0d9b8940e.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260406-1/3c48ae9098dc344eb0dd90b9ed136bcd.jpg",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 14",
+        "total_episodes": "24",
+        "country": "Nhật Bản",
+        "description": "Câu chuyện khởi nguồn tại Làng Đông, một ngôi làng nhỏ biệt lập trên núi, nơi thời gian như ngừng trôi suốt 400 năm. Chàng thợ săn trẻ Yuru sống bình yên bên mây ngàn gió núi và làm nhiệm vụ bảo vệ người em gái sinh đôi Asa. Thế nhưng, thế giới thanh bình ấy bỗng chốc vỡ vụn khi những “con rồng sắc” bay đầy trời, kéo theo một đạo quân trang bị vũ khí tối tân tàn sát dân làng. Từ đây, Yuru bước vào một hành trình đẫm máu tại xã hội hiện đại. Tâm điểm của cuộc chiến chính là bí ẩn về “Cặp song sinh chia cắt ngày và đêm” cùng sức mạnh thao túng Song Tinh, những linh thể mang sức mạnh hủy diệt luôn tồn tại theo đôi theo cặp."
+    },
+    {
+        "name": "Chiến Binh Ánh Sáng TEO",
+        "year": 2026,
+        "slug": "chien-binh-anh-sang-teo",
+        "thumb": "https://phimimg.com/uploads/movies/20260708/chien-binh-anh-sang-teo-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260708/chien-binh-anh-sang-teo-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 2",
+        "total_episodes": "28",
+        "country": "Nhật Bản",
+        "description": "Năm 2026, khi series Ultraman kỷ niệm 60 năm, một người hùng mới xuất hiện để kế thừa ánh sáng: Ultraman Teo.\r\n\r\nSau khi hành tinh quê hương bị quái thú tấn công và hủy diệt, một sinh vật ngoài hành tinh cô độc trôi dạt đến Trái Đất.\r\n\r\n“Tôi không muốn chiến đấu… Nhưng tôi vẫn muốn bảo vệ!”\r\n\r\nMang theo quyết tâm mạnh mẽ đó, sinh vật cô đơn mang tên “Teo” sống giữa loài người dưới thân phận một sinh viên đại học tên Ibuki. Khi dần tạo dựng những mối liên kết với những người bạn mới, cậu bắt đầu hành trình trở thành Ultraman."
+    },
+    {
         "name": "Thế Thần: Ngự Khí Sư Cuối Cùng (Phần 2)",
         "year": 2026,
         "slug": "the-than-ngu-khi-su-cuoi-cung-phan-2",
@@ -464,45 +488,5 @@
         "sub_type": "Vietsub + Thuyết Minh + Lồng Tiếng",
         "current_episode": "Hoàn Tất (40/40)",
         "total_episodes": "40"
-    },
-    {
-        "name": "Ngọc Minh Trà Cốt",
-        "year": 2025,
-        "slug": "ngoc-minh-tra-cot",
-        "thumb": "https://phimimg.com/upload/vod/20251229-1/747bc0d00205e545bee24238fe61c041.jpg",
-        "actor": [
-            "Hầu Minh Hạo",
-            "Cổ Lực Na Trát",
-            "Trần Nhược Hiên",
-            "Triệu Dịch Khâm",
-            "Mã Văn Viễn",
-            "Lý Phi",
-            "Thư Đồng",
-            "Trương Nam",
-            "Triệu Gia Mẫn",
-            "Trương Uyển Oánh",
-            "Triệu Chiêu Nghi",
-            "Trương Huệ Văn"
-        ],
-        "sub_type": "Vietsub + Thuyết Minh + Lồng Tiếng",
-        "current_episode": "Hoàn Tất (36/36)",
-        "total_episodes": "36"
-    },
-    {
-        "name": "XO, Kitty (Phần 2)",
-        "year": 2025,
-        "slug": "xo-kitty-phan-2",
-        "thumb": "https://phimimg.com/upload/vod/20250117-1/c7b3c6c8cffd7d0c4cbd9df72c54b2ba.jpg",
-        "actor": [
-            "Anna Cathcart",
-            "Choi Min-yeong",
-            "Gia Kim",
-            "Sang Heon Lee",
-            "Anthony Keyvan",
-            "Peter Thurnwald"
-        ],
-        "sub_type": "Vietsub + Lồng Tiếng",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8"
     }
 ]
