@@ -300,17 +300,6 @@
         "description": "Một nam sinh đang ôm nỗi đau mất mát và trên con đường tu học để trở thành linh mục bỗng phải đối mặt với một cuộc khủng hoảng đức tin trầm trọng khi anh đem lòng yêu một người bạn học mới có cuộc sống đầy rẫy rắc rối. Câu chuyện diễn ra trong một thế giới bị thống trị bởi những giáo điều và luật lệ vô cùng hà khắc."
     },
     {
-        "name": "Báo Thù",
-        "year": 2026,
-        "slug": "bao-thu-2026",
-        "thumb": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260531-1/44b98f8dceee0f4b7f0a576c9237410e.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
-        "total_episodes": "8",
-        "country": "thai-lan"
-    },
-    {
         "name": "Nam Phù Thủy",
         "year": 2026,
         "slug": "nam-phu-thuy",
@@ -319,7 +308,8 @@
         "sub_type": "Vietsub",
         "current_episode": "Hoàn Tất (9/9)",
         "total_episodes": "9",
-        "country": "thai-lan"
+        "country": "Thái Lan",
+        "description": "Một chàng trai trẻ mang trong mình mảnh linh hồn của quỷ dữ đã bắt tay cùng một đồng minh bí ẩn để săn lùng những thực thể siêu nhiên chuyên hút sinh lực của con người. Giữa cuộc chiến khốc liệt với bóng tối, anh vừa phải tìm cách kiểm soát sức mạnh tà ác đang dần trỗi dậy trong chính cơ thể mình, vừa phải bảo vệ nhân loại khỏi những hiểm họa vô hình đang rình rập."
     },
     {
         "name": "Chuyện Tình Silom",
@@ -330,6 +320,18 @@
         "sub_type": "Vietsub",
         "current_episode": "Hoàn Tất (12/12)",
         "total_episodes": "12",
+        "country": "Thái Lan",
+        "description": "Một viên cảnh sát đang mang trong mình trái tim tan vỡ và phải che giấu một mối tình ngang trái, bất ngờ tìm thấy cơ hội thứ hai trong tình yêu khi anh giải cứu một cậu sinh viên đang gặp rắc rối tại một hộp đêm ở Silom. Giữa ánh đèn mờ ảo và nhịp sống hối hả của khu phố không ngủ, cuộc gặp gỡ định mệnh này đã gắn kết hai tâm hồn đang tổn thương, giúp họ cùng nhau vượt qua những định kiến và rào cản để đi tìm hạnh phúc thực sự."
+    },
+    {
+        "name": "Báo Thù",
+        "year": 2026,
+        "slug": "bao-thu-2026",
+        "thumb": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260531-1/44b98f8dceee0f4b7f0a576c9237410e.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "8",
         "country": "thai-lan"
     },
     {
