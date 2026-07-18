@@ -14,15 +14,30 @@ MAX_ITEMS_PER_CAT = 30
 REPORT_FILE = "update_report.json"
 
 def get_data(url, params=None):
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-    try:
-        res = requests.get(url, params=params, headers=headers, timeout=10)
-        if res.status_code == 200: return res.json()
-    except: pass
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "application/json",
+        "Origin": "https://phimapi.com",
+        "Referer": "https://phimapi.com/"
+    }
+    # Thêm cơ chế tự động thử lại 3 lần nếu API lỗi/bị chặn
+    for attempt in range(3):
+        try:
+            res = requests.get(url, params=params, headers=headers, timeout=15)
+            if res.status_code == 200: 
+                return res.json()
+            elif res.status_code in [429, 502, 503]:
+                print(f"⚠️ API báo lỗi {res.status_code}, đang thử lại lần {attempt + 1}...")
+                time.sleep(random.uniform(2.0, 4.0))
+        except Exception as e:
+            if attempt == 2:
+                print(f"❌ Lỗi kết nối API: {e}")
+            time.sleep(2)
     return None
 
 def fetch_detail(slug):
-    time.sleep(random.uniform(0.1, 0.3)) 
+    # Giãn cách thông minh để tránh bị block chi tiết phim
+    time.sleep(random.uniform(0.3, 0.6)) 
     return get_data(f"{BASE_URL}/phim/{slug}")
 
 def parse_movie(m):
@@ -41,10 +56,8 @@ def parse_movie(m):
     }
 
 def main():
-    start_time = time.time()
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
-    # 🌟 Đã xóa bỏ hoàn toàn "trending_phim_bo" theo yêu cầu của ní
     category_keys = [
         "anime_movie", "anime_nhat", "hh_trung_quoc", "phim_chieu_rap",
         "le_vn", "bo_vn", "le_han", "bo_han", "le_trung", "bo_trung",
@@ -64,17 +77,21 @@ def main():
     print(">>> Đang quét 10 trang đầu từ API Phim Mới Cập Nhật...")
     raw_items = []
     for page in range(1, 11):
+        print(f"-> Đang lấy dữ liệu trang {page}/10...")
         data = get_data(f"{BASE_URL}/danh-sach/phim-moi-cap-nhat", {"page": page, "limit": 40})
         if data and 'data' in data and data['data'].get('items'):
             raw_items.extend(data['data']['items'])
-        time.sleep(0.2)
+        # Nghỉ giãn cách giữa các trang lâu hơn một chút để an toàn
+        time.sleep(random.uniform(0.5, 1.0))
 
     if not raw_items:
-        print("❌ Không lấy được dữ liệu mới.")
+        print("❌ Không lấy được dữ liệu mới từ 10 trang API. Vui lòng thử lại sau.")
         return
 
+    print(f"✅ Thu thập được {len(raw_items)} phim thô. Đang lọc trùng lặp...")
     seen_slugs = set()
     unique_items = [it for it in raw_items if it['slug'] not in seen_slugs and not seen_slugs.add(it['slug'])]
+    print(f"🎯 Còn lại {len(unique_items)} phim duy nhất. Tiến hành lấy chi tiết phân loại...")
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         details = list(executor.map(fetch_detail, [it['slug'] for it in unique_items]))
@@ -112,7 +129,6 @@ def main():
         if "Lồng Tiếng" in lang: categorized["long_tieng"].append(movie_data)
         if "Thuyết Minh" in lang: categorized["thuyet_minh"].append(movie_data)
 
-    # Xử lý Trộn Đè lên đầu file JSON chuẩn chỉ
     for key in category_keys:
         if not categorized[key]: continue
         
@@ -140,7 +156,6 @@ def main():
         remained_old = [m for m in current_list if m['slug'] not in updated_slugs]
         final_data[key] = (list_to_pushed_front + remained_old)[:MAX_ITEMS_PER_CAT]
 
-    # Lưu dữ liệu sạch
     for key, value in final_data.items():
         file_path = os.path.join(OUTPUT_DIR, f"{key}.json")
         with open(file_path, "w", encoding="utf-8") as f:
@@ -149,7 +164,7 @@ def main():
     with open(REPORT_FILE, "w", encoding="utf-8") as f:
         json.dump(report_details, f, ensure_ascii=False, indent=4)
         
-    print(f"🎉 Hoàn thành cập nhật!")
+    print(f"🎉 Hoàn thành cập nhật! Có {len(report_details)} thay đổi.")
 
 if __name__ == "__main__":
     main()
