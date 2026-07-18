@@ -27,27 +27,37 @@ jobs:
       - name: Run script Python
         run: python update_data.py
 
-      - name: Create Report and Push
+      - name: Render Detail Report and Push
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
           
-          # Lưu trạng thái thay đổi trước khi add
-          echo "## 📊 BÁO CÁO CẬP NHẬT DỮ LIỆU PHIM" >> $GITHUB_STEP_SUMMARY
-          echo "Thời gian: $(date)" >> $GITHUB_STEP_SUMMARY
+          echo "## 📊 BÁO CÁO CHI TIẾT CẬP NHẬT PHIM" >> $GITHUB_STEP_SUMMARY
+          echo "Thời gian quét hệ thống: $(date '+%Y-%m-%d %H:%M:%S') (UTC)" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           
+          # Sử dụng mã Python nhanh để build bảng báo cáo Markdown đẹp mắt
+          python -c '
+          import json, os
+          summary_file = os.environ.get("GITHUB_STEP_SUMMARY", "summary.md")
+          if os.path.exists("update_report.json"):
+              with open("update_report.json", "r", encoding="utf-8") as f:
+                  logs = json.load(f)
+              with open(summary_file, "a", encoding="utf-8") as f:
+                  if not logs:
+                      f.write("✅ **Giữ nguyên:** Không có phim nào mới hoặc cập nhật tập mới trong chu kỳ này.\n")
+                  else:
+                      f.write("| Danh Mục | Tên Phim | Hành Động | Tập Mới Nhất |\n")
+                      f.write("| :--- | :--- | :--- | :--- |\n")
+                      for log in logs:
+                          f.write(f"| `{log[\"cat\"]}` | **{log[\"name\"]}** | {log[\"type\"]} | `{log[\"ep\"]}` |\n")
+          '
+          
+          # Kiểm tra nếu file JSON trong thư mục data_categories thực sự đổi nội dung thì mới push
           if [ -z "$(git status --porcelain data_categories/)" ]; then
-              echo "✅ **Giữ nguyên:** Không tìm thấy phim mới nào từ API." >> $GITHUB_STEP_SUMMARY
-              echo "Không có dữ liệu mới."
+              echo "Không có sự thay đổi nào trong dữ liệu file."
           else
-              echo "🔄 **Có danh mục được cập nhật phim mới!** Chi tiết thay đổi:" >> $GITHUB_STEP_SUMMARY
-              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
-              git status -s data_categories/ >> $GITHUB_STEP_SUMMARY
-              echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
-              
-              # Tiến hành push lên repo
               git add data_categories/
-              git commit -m "🤖 [Bot] Tu dong cap nhat phim moi"
+              git commit -m "🤖 [Bot] Cap nhat chi tiet cac tap phim moi"
               git push
           fi
