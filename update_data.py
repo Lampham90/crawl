@@ -6,7 +6,8 @@ import random
 from concurrent.futures import ThreadPoolExecutor
 
 # --- CẤU HÌNH ---
-BASE_URL = "https://phimapi.com/v1/api"
+# Sử dụng chính xác endpoint gốc không qua v1/api nữa
+BASE_URL = "https://phimapi.com"
 YEARS_FILTER = [2026, 2025]
 OUTPUT_DIR = "data_categories"
 MAX_WORKERS = 2  
@@ -16,9 +17,7 @@ REPORT_FILE = "update_report.json"
 def get_data(url):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "Accept": "application/json",
-        "Origin": "https://phimapi.com",
-        "Referer": "https://phimapi.com/"
+        "Accept": "application/json"
     }
     for attempt in range(3):
         try:
@@ -26,17 +25,15 @@ def get_data(url):
             if res.status_code == 200: 
                 return res.json()
             elif res.status_code in [429, 502, 503]:
-                print(f"⚠️ API báo lỗi {res.status_code}, đang thử lại lần {attempt + 1}...")
-                time.sleep(random.uniform(2.0, 4.0))
-        except Exception as e:
-            if attempt == 2:
-                print(f"❌ Lỗi kết nối API: {e}")
-            time.sleep(2)
+                time.sleep(random.uniform(1.5, 3.0))
+        except:
+            time.sleep(1.5)
     return None
 
 def fetch_detail(slug):
-    time.sleep(random.uniform(0.3, 0.6)) 
-    return get_data(f"{BASE_URL}/phim/{slug}")
+    time.sleep(random.uniform(0.2, 0.4)) 
+    # API chi tiết phim thì vẫn nằm ở v1/api/phim/{slug} chuẩn của hệ thống
+    return get_data(f"{BASE_URL}/v1/api/phim/{slug}")
 
 def parse_movie(m):
     lang = str(m.get('lang', ''))
@@ -75,25 +72,31 @@ def main():
     print(">>> Đang quét 10 trang đầu từ API Phim Mới Cập Nhật...")
     raw_items = []
     for page in range(1, 11):
-        # 🌟 FIX CHÍ MẠNG: Nối thẳng page vào URL theo chuẩn API mới nhất
+        # 🌟 Gọi chuẩn URL ní đưa kèm tham số page
         url = f"{BASE_URL}/danh-sach/phim-moi-cap-nhat?page={page}"
         data = get_data(url)
         
-        if data and 'data' in data and data['data'].get('items'):
-            items = data['data']['items']
+        # Cấu trúc trả về của endpoint này là mảng items nằm ở gốc hoặc trong data tùy bản update
+        items = []
+        if data:
+            if isinstance(data, dict):
+                if 'items' in data: items = data['items']
+                elif 'data' in data and 'items' in data['data']: items = data['data']['items']
+        
+        if items:
             raw_items.extend(items)
             print(f"-> Đã lấy thành công trang {page}/10 ({len(items)} phim)")
         else:
             print(f"-> Trang {page}/10 lỗi hoặc không có dữ liệu.")
-        time.sleep(random.uniform(0.4, 0.8))
+        time.sleep(0.3)
 
     if not raw_items:
-        print("❌ Không lấy được dữ liệu mới từ 10 trang API. Vui lòng thử lại sau.")
+        print("❌ Không lấy được dữ liệu mới từ API. Vui lòng kiểm tra lại kết nối.")
         return
 
     print(f"✅ Thu thập được {len(raw_items)} phim thô. Đang lọc trùng lặp...")
     seen_slugs = set()
-    unique_items = [it for it in raw_items if it['slug'] not in seen_slugs and not seen_slugs.add(it['slug'])]
+    unique_items = [it for it in raw_items if it.get('slug') and it['slug'] not in seen_slugs and not seen_slugs.add(it['slug'])]
     print(f"🎯 Còn lại {len(unique_items)} phim duy nhất. Tiến hành lấy chi tiết phân loại...")
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
