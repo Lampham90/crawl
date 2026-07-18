@@ -1,5 +1,65 @@
 [
     {
+        "name": "Ý Chí Kim Cương",
+        "year": 2026,
+        "slug": "y-chi-kim-cuong",
+        "thumb": "https://phimimg.com/upload/vod/20260619-1/d27cee3db697f0b6d6ca7d22b14be2f2.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260619-1/ca96e7f068f84776ca2b4e52b9e971bc.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 22",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Chàng nhạc công tài năng xuất thân nghèo khó và một nữ sinh trung học giàu có nảy sinh tình cảm giữa những mối thù địch cá nhân và một biến cố làm thay đổi cuộc đời."
+    },
+    {
+        "name": "Vẽ Nên Giấc Mơ Ngày Cưới",
+        "year": 2026,
+        "slug": "ve-nen-giac-mo-ngay-cuoi",
+        "thumb": "https://phimimg.com/upload/vod/20260620-1/d61fcd20fba7e8b05fc0846bf1562be6.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260620-1/4e75731d01ce9578582f65d9b21fb276.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "12",
+        "country": "Thái Lan",
+        "description": "Dù vẫn còn tình cảm với nhau nhưng bị mẹ của Runch chia cắt, hai người phụ nữ phải giả vờ rằng cuộc hôn nhân của họ vẫn hạnh phúc để hoàn tất một thương vụ kinh doanh quan trọng."
+    },
+    {
+        "name": "Theo Đuổi Tình Yêu",
+        "year": 2026,
+        "slug": "theo-duoi-tinh-yeu-2026",
+        "thumb": "https://phimimg.com/upload/vod/20260608-1/676bc74f4423d409f268fd914d11bb14.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260608-1/44184d13c7951494a74e957e4919b17b.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Song, một nữ nghiên cứu sinh ẩm thực mang phong cách &quot;mọt sách quyến rũ&quot;, đã có một đêm cuồng nhiệt với một người phụ nữ bí ẩn dưới một điều kiện nghiêm ngặt: không ràng buộc tình cảm. Thế nhưng, đối phương đã vi phạm thỏa thuận khi chủ động đòi hỏi một sự gắn kết về mặt cảm xúc. Song lập tức chấm dứt cuộc gặp gỡ nóng bỏng ấy và quay lưng bước đi.&nbsp; Nhưng trái đất quả thực rất tròn. Người phụ nữ đêm đó hóa ra lại là Piangrawin — con gái cưng của chủ tịch tập đoàn nơi Song đang làm việc. Và Piangrawin thì không dễ dàng buông tay đến vậy. Cô nàng bắt đầu theo đuổi Song với sự si mê và trung thành như một chú cún con, dùng sự quyến rũ đầy táo bạo của mình để len lỏi và làm đảo lộn cả trái tim lẫn cuộc sống thường nhật của Song. Thậm chí, cô còn tuyên bố rằng mình đã đặt sẵn tên cho đứa con tương lai của hai người."
+    },
+    {
+        "name": "San Hô Đen",
+        "year": 2026,
+        "slug": "san-ho-den",
+        "thumb": "https://phimimg.com/upload/vod/20260701-1/881de1d0760ad2caca0e4d29d0446b46.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260701-1/99666fb21a725348c860a349591ca7c0.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 15",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Sau tai nạn lặn suýt chết khiến máy ảnh của Narathon bị hỏng, anh gặp Kaimook, một sinh viên đang gây tiếng vang với tài nhiếp ảnh dưới nước. Cả hai lập tức khắc khẩu."
+    },
+    {
+        "name": "Đừng Xin Anh Jane",
+        "year": 2026,
+        "slug": "dung-xin-anh-jane",
+        "thumb": "https://phimimg.com/upload/vod/20260628-1/a95d26463927cbc3490db630c8f8f16a.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260628-1/579b51f4dd34a72eb28ee9ab9e2c57ca.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "12",
+        "country": "Thái Lan",
+        "description": "Một cầu thủ bóng đá kết bạn với một thực thể ban điều ước đầy bí ẩn, nhưng những món quà nguy hiểm từ thực thể này lại che giấu những bí mật đen tối, vô tình kéo hai người lại gần nhau hơn."
+    },
+    {
         "name": "Manga Sát Lệnh",
         "year": 2026,
         "slug": "manga-sat-lenh",
@@ -10,18 +70,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Kay, một họa sĩ manga nổi tiếng, bất ngờ bị cuốn vào cuộc điều tra một vụ án giết người hàng loạt khi các nạn nhân, phương thức gây án và hiện trường đều giống đến rợn người với những tình tiết trong tác phẩm anh từng sáng tác. Điều này khiến Phát, thanh tra phụ trách vụ án, đưa Kay vào tầm theo dõi sát sao. Buộc phải hợp tác trong quá trình điều tra, Kay và Phát cùng nhau lần theo từng manh mối để tìm ra sự thật và danh tính kẻ sát nhân. Khi cuộc điều tra dần hé mở những bí ẩn, sự nghi ngờ ban đầu cũng từng bước nhường chỗ cho niềm tin, kéo hai người xích lại gần nhau hơn theo cách mà cả hai đều không ngờ tới. Thế nhưng, càng đào sâu, những bí mật bị chôn vùi trong quá khứ càng lần lượt được phơi bày. Khi mỗi sự thật mới đều thử thách mối quan hệ giữa họ, Kay và Phát phải quyết định liệu họ có thể cùng nhau đối mặt với hiểm nguy hay sẽ trở thành những mục tiêu tiếp theo của kẻ sát nhân."
-    },
-    {
-        "name": "Ý Chí Kim Cương",
-        "year": 2026,
-        "slug": "y-chi-kim-cuong",
-        "thumb": "https://phimimg.com/upload/vod/20260619-1/d27cee3db697f0b6d6ca7d22b14be2f2.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260619-1/ca96e7f068f84776ca2b4e52b9e971bc.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 21",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Chàng nhạc công tài năng xuất thân nghèo khó và một nữ sinh trung học giàu có nảy sinh tình cảm giữa những mối thù địch cá nhân và một biến cố làm thay đổi cuộc đời."
     },
     {
         "name": "Tiếng Anh Thành Tiếng Yêu",
@@ -46,18 +94,6 @@
         "total_episodes": "19",
         "country": "Thái Lan",
         "description": "Miễn cưỡng liên thủ, tám tay lừa đảo toan thực hiện phi vụ nguy hiểm nhất từ trước đến nay: lừa chính những tên tội phạm đứng sau một mạng lưới lừa đảo ngầm khổng lồ."
-    },
-    {
-        "name": "San Hô Đen",
-        "year": 2026,
-        "slug": "san-ho-den",
-        "thumb": "https://phimimg.com/upload/vod/20260701-1/881de1d0760ad2caca0e4d29d0446b46.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260701-1/99666fb21a725348c860a349591ca7c0.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 14",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Sau tai nạn lặn suýt chết khiến máy ảnh của Narathon bị hỏng, anh gặp Kaimook, một sinh viên đang gây tiếng vang với tài nhiếp ảnh dưới nước. Cả hai lập tức khắc khẩu."
     },
     {
         "name": "Ký Ức Tình Thù",
@@ -144,18 +180,6 @@
         "description": "Khi linh hồn của một bác sĩ phẫu thuật thời hiện đại bị nhập vào thể xác của một kẻ chuyên gây rắc rối bị người người ghét bỏ ở thế kỷ 17, anh đã sử dụng nền y học tiên tiến để cứu người, đồng thời từng bước chinh phục người đối đầu gay gắt nhất của mình."
     },
     {
-        "name": "Theo Đuổi Tình Yêu",
-        "year": 2026,
-        "slug": "theo-duoi-tinh-yeu-2026",
-        "thumb": "https://phimimg.com/upload/vod/20260608-1/676bc74f4423d409f268fd914d11bb14.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260608-1/44184d13c7951494a74e957e4919b17b.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "8",
-        "country": "Thái Lan",
-        "description": "Song, một nữ nghiên cứu sinh ẩm thực mang phong cách &quot;mọt sách quyến rũ&quot;, đã có một đêm cuồng nhiệt với một người phụ nữ bí ẩn dưới một điều kiện nghiêm ngặt: không ràng buộc tình cảm. Thế nhưng, đối phương đã vi phạm thỏa thuận khi chủ động đòi hỏi một sự gắn kết về mặt cảm xúc. Song lập tức chấm dứt cuộc gặp gỡ nóng bỏng ấy và quay lưng bước đi.&nbsp; Nhưng trái đất quả thực rất tròn. Người phụ nữ đêm đó hóa ra lại là Piangrawin — con gái cưng của chủ tịch tập đoàn nơi Song đang làm việc. Và Piangrawin thì không dễ dàng buông tay đến vậy. Cô nàng bắt đầu theo đuổi Song với sự si mê và trung thành như một chú cún con, dùng sự quyến rũ đầy táo bạo của mình để len lỏi và làm đảo lộn cả trái tim lẫn cuộc sống thường nhật của Song. Thậm chí, cô còn tuyên bố rằng mình đã đặt sẵn tên cho đứa con tương lai của hai người."
-    },
-    {
         "name": "Nút Thắt",
         "year": 2026,
         "slug": "nut-that",
@@ -238,30 +262,6 @@
         "total_episodes": "4",
         "country": "Thái Lan",
         "description": "Sau đám cưới, Thee và Peach cùng nhau đón nhận những niềm vui lẫn sự hỗn loạn của cuộc sống hôn nhân, đồng thời dần tìm ra nhịp điệu sống hòa hợp của riêng hai người."
-    },
-    {
-        "name": "Đừng Xin Anh Jane",
-        "year": 2026,
-        "slug": "dung-xin-anh-jane",
-        "thumb": "https://phimimg.com/upload/vod/20260628-1/a95d26463927cbc3490db630c8f8f16a.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260628-1/579b51f4dd34a72eb28ee9ab9e2c57ca.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Một cầu thủ bóng đá kết bạn với một thực thể ban điều ước đầy bí ẩn, nhưng những món quà nguy hiểm từ thực thể này lại che giấu những bí mật đen tối, vô tình kéo hai người lại gần nhau hơn."
-    },
-    {
-        "name": "Vẽ Nên Giấc Mơ Ngày Cưới",
-        "year": 2026,
-        "slug": "ve-nen-giac-mo-ngay-cuoi",
-        "thumb": "https://phimimg.com/upload/vod/20260620-1/d61fcd20fba7e8b05fc0846bf1562be6.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260620-1/4e75731d01ce9578582f65d9b21fb276.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Dù vẫn còn tình cảm với nhau nhưng bị mẹ của Runch chia cắt, hai người phụ nữ phải giả vờ rằng cuộc hôn nhân của họ vẫn hạnh phúc để hoàn tất một thương vụ kinh doanh quan trọng."
     },
     {
         "name": "Ranh Giới Bình Minh (Rạng Đông)",
