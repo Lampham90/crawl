@@ -36,7 +36,7 @@ jobs:
           echo "Thời gian quét hệ thống: $(date '+%Y-%m-%d %H:%M:%S') (UTC)" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           
-          # Sử dụng mã Python nhanh để build bảng báo cáo Markdown đẹp mắt
+          # Fix triệt để lỗi ép chuỗi f-string bằng cách nối chuỗi an toàn
           python -c '
           import json, os
           summary_file = os.environ.get("GITHUB_STEP_SUMMARY", "summary.md")
@@ -50,10 +50,10 @@ jobs:
                       f.write("| Danh Mục | Tên Phim | Hành Động | Tập Mới Nhất |\n")
                       f.write("| :--- | :--- | :--- | :--- |\n")
                       for log in logs:
-                          f.write(f"| `{log[\"cat\"]}` | **{log[\"name\"]}** | {log[\"type\"]} | `{log[\"ep\"]}` |\n")
+                          line = "| `" + log["cat"] + "` | **" + log["name"] + "** | " + log["type"] + " | `" + log["ep"] + "` |\n"
+                          f.write(line)
           '
           
-          # Kiểm tra nếu file JSON trong thư mục data_categories thực sự đổi nội dung thì mới push
           if [ -z "$(git status --porcelain data_categories/)" ]; then
               echo "Không có sự thay đổi nào trong dữ liệu file."
           else
