@@ -13,17 +13,16 @@ MAX_WORKERS = 2
 MAX_ITEMS_PER_CAT = 30  
 REPORT_FILE = "update_report.json"
 
-def get_data(url, params=None):
+def get_data(url):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "Accept": "application/json",
         "Origin": "https://phimapi.com",
         "Referer": "https://phimapi.com/"
     }
-    # Thêm cơ chế tự động thử lại 3 lần nếu API lỗi/bị chặn
     for attempt in range(3):
         try:
-            res = requests.get(url, params=params, headers=headers, timeout=15)
+            res = requests.get(url, headers=headers, timeout=15)
             if res.status_code == 200: 
                 return res.json()
             elif res.status_code in [429, 502, 503]:
@@ -36,7 +35,6 @@ def get_data(url, params=None):
     return None
 
 def fetch_detail(slug):
-    # Giãn cách thông minh để tránh bị block chi tiết phim
     time.sleep(random.uniform(0.3, 0.6)) 
     return get_data(f"{BASE_URL}/phim/{slug}")
 
@@ -77,12 +75,17 @@ def main():
     print(">>> Đang quét 10 trang đầu từ API Phim Mới Cập Nhật...")
     raw_items = []
     for page in range(1, 11):
-        print(f"-> Đang lấy dữ liệu trang {page}/10...")
-        data = get_data(f"{BASE_URL}/danh-sach/phim-moi-cap-nhat", {"page": page, "limit": 40})
+        # 🌟 FIX CHÍ MẠNG: Nối thẳng page vào URL theo chuẩn API mới nhất
+        url = f"{BASE_URL}/danh-sach/phim-moi-cap-nhat?page={page}"
+        data = get_data(url)
+        
         if data and 'data' in data and data['data'].get('items'):
-            raw_items.extend(data['data']['items'])
-        # Nghỉ giãn cách giữa các trang lâu hơn một chút để an toàn
-        time.sleep(random.uniform(0.5, 1.0))
+            items = data['data']['items']
+            raw_items.extend(items)
+            print(f"-> Đã lấy thành công trang {page}/10 ({len(items)} phim)")
+        else:
+            print(f"-> Trang {page}/10 lỗi hoặc không có dữ liệu.")
+        time.sleep(random.uniform(0.4, 0.8))
 
     if not raw_items:
         print("❌ Không lấy được dữ liệu mới từ 10 trang API. Vui lòng thử lại sau.")
