@@ -1,7 +1,7 @@
 name: Cào phim LT, TM, Thể loại
 on:
   workflow_dispatch:
-  schedule:
+  schedule: stop
     - cron: '0 9 * * *'
 
 jobs:
