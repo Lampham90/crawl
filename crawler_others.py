@@ -28,15 +28,8 @@ def get_data(url, params=None):
 
 def save_data(results, filename):
     file_path = os.path.join(OUTPUT_DIR, f"{filename}.json")
-    if os.path.exists(file_path):
-        with open(file_path, 'r', encoding='utf-8') as f:
-            try:
-                old_data = json.load(f)
-                if len(results) < len(old_data) * 0.9:
-                    print(f"!!! Dữ liệu {filename} quá ít ({len(results)}/{len(old_data)}). Hủy lưu!")
-                    return
-            except: pass
-
+    
+    # Đã bỏ phần kiểm tra dữ liệu cũ để luôn ghi đè file mới
     with open(file_path, "w", encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, separators=(',', ':'))
     print(f"-> Đã lưu {len(results)} phim vào {filename}.json")
@@ -46,7 +39,7 @@ def process_and_add(items, results, seen):
         if len(results) >= LIMIT_COUNT: break
         if it['slug'] in seen: continue
         
-        # Gọi chi tiết từng phim một cách tuần tự (không dùng ThreadPool)
+        # Gọi chi tiết từng phim một cách tuần tự
         d = get_data(f"{BASE_URL}/phim/{it['slug']}")
         if not d or 'data' not in d or 'item' not in d['data']: continue
         
@@ -72,7 +65,7 @@ def process_and_add(items, results, seen):
             "total_episodes": str(m.get('episode_total', '1'))
         })
         seen.add(m.get('slug'))
-        time.sleep(1.2) # Nghỉ giữa mỗi phim để tránh 429
+        time.sleep(1.2) # Nghỉ giữa mỗi phim để tránh bị 429
 
 def crawl_universal(display_name, filename, cat_slug=None, lang=None):
     results, seen = [], set()
