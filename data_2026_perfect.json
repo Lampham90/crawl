@@ -183,6 +183,18 @@
     ],
     "anime_nhat": [
         {
+            "name": "Chiến Tranh Giữa Các Vì Sao: Tầm Nhìn (Phần 3)",
+            "year": 2025,
+            "slug": "chien-tranh-giua-cac-vi-sao-tam-nhin-phan-3",
+            "thumb": "https://phimimg.com/uploads/movies/20260719/chien-tranh-giua-cac-vi-sao-tam-nhin-phan-3-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260719/chien-tranh-giua-cac-vi-sao-tam-nhin-phan-3-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (9/9)",
+            "total_episodes": "9",
+            "country": "Chile",
+            "description": "Phim nhận được nhiều lời khen ngợi, trong suốt 9 tập phim ngắn, đến từ 7 studio hoạt hình Nhật Bản, và mỗi tập đều có phong cách và tông màu nghệ thuật riêng biệt. Mỗi studio sẽ mang một phong cách rất riêng về không gian tưởng tượng và quan điểm mới mẻ về văn hóa đối với thương hiệu Star Wars. Hầu hết tất cả các nhân vật trong “Visions” đều là những sáng tạo ban đầu, và cũng như các loạt phim tuyển tập thành công, “Visions” xuất sắc trong việc thu hút người xem bằng sự đầu tư về mặt cảm xúc cho từng nhân vật, dù thời lượng hạn chế. Chính điều đó giúp cho phim cô động, xúc tích, bằng các câu chuyện dao động từ 13 đến 21 phút mỗi tập. Mặc dù một số trong số chúng chắc chắn khiến người xem muốn biết điều gì xảy ra tiếp theo, nhưng tất cả đều kể những câu chuyện hài lòng, khép kín."
+        },
+        {
             "name": "Ác Nữ Nửa Vời: Truyền Kì Hoán Hồn Đổi Xác",
             "year": 2026,
             "slug": "ac-nu-nua-voi-truyen-ki-hoan-hon-doi-xac",
@@ -349,18 +361,6 @@
             "total_episodes": "24",
             "country": "Nhật Bản",
             "description": "Iruma tiếp tục cuộc sống tại học viện Babyls với những thử thách ngày càng khó khăn. Cậu cùng các bạn phải đối mặt với kỳ thi mới và những âm mưu bí ẩn trong thế giới ma quái. Sự trưởng thành của Iruma dần được thể hiện khi cậu học cách bảo vệ bạn bè và khẳng định bản thân. Các mối quan hệ xung quanh cậu cũng trở nên sâu sắc và phức tạp hơn. Giữa tiếng cười và hiểm nguy, Iruma tiến gần hơn tới vị trí đặc biệt trong ma giới."
-        },
-        {
-            "name": "Koukaku Kidoutai",
-            "year": 2026,
-            "slug": "koukaku-kidoutai",
-            "thumb": "https://phimimg.com/uploads/movies/20260711/koukaku-kidoutai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260711/koukaku-kidoutai-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "12",
-            "country": "Nhật Bản",
-            "description": "Năm 2029, tại một Nhật Bản ở tương lai gần. Nữ chiến binh cyborg toàn phần Motoko Kusanagi đã hình dung ra một lực lượng đặc nhiệm chuyên tấn công phủ đầu các mối đe dọa mới nổi. Cô và các đồng đội của mình đã được Daisuke Aramaki chiêu mộ để thành lập Đội 9 Cục An ninh Công cộng, còn được biết đến với cái tên \"Biệt đội Vỏ bọc\" (Shell Squad). Một âm mưu quốc tế dần lộ diện, hướng về gã hacker bí ẩn được gọi là \"Kẻ Điều Khiển Rối\" (Puppet Master). Số phận nào đang đón đợi Kusanagi? Mục đích cuối cùng của gã hacker kia là gì? Một kỷ nguyên mới của thể loại hành động cyberpunk chính thức bắt đầu!"
         }
     ],
     "hh_trung_quoc": [
@@ -2003,18 +2003,6 @@
     ],
     "bo_au_my": [
         {
-            "name": "Lucky",
-            "year": 2026,
-            "slug": "lucky",
-            "thumb": "https://phimimg.com/uploads/movies/20260719/lucky-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260719/lucky-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "10",
-            "country": "Anh",
-            "description": "Khi một phi vụ trị giá hàng triệu đô đổ bể, nữ lừa đảo Lucky buộc phải bỏ trốn. Bị FBI và một ông trùm tội phạm tàn nhẫn truy đuổi, Lucky phải chiến đấu để giữ mạng sống — và tìm lối thoát."
-        },
-        {
             "name": "Chuyện Người Hầu Gái (Phần 6)",
             "year": 2025,
             "slug": "chuyen-nguoi-hau-gai-phan-6",
@@ -2025,6 +2013,18 @@
             "total_episodes": "10",
             "country": "Âu Mỹ",
             "description": "Sau khi sát hại Fred, gã chỉ huy đã cưỡng bức mình, June tưởng như có thể tìm lại bình yên trong tâm hồn, nhưng cuộc chiến của cô một lần nữa nổ ra, lần này với người vợ góa của ông ta, Serena."
+        },
+        {
+            "name": "Lucky",
+            "year": 2026,
+            "slug": "lucky",
+            "thumb": "https://phimimg.com/uploads/movies/20260719/lucky-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260719/lucky-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "10",
+            "country": "Anh",
+            "description": "Khi một phi vụ trị giá hàng triệu đô đổ bể, nữ lừa đảo Lucky buộc phải bỏ trốn. Bị FBI và một ông trùm tội phạm tàn nhẫn truy đuổi, Lucky phải chiến đấu để giữ mạng sống — và tìm lối thoát."
         },
         {
             "name": "Cuộc Đua Sinh Tử",
@@ -2961,16 +2961,16 @@
             "description": "Ở một xóm nhỏ miền Tây, ông Sáu Sếu sống lủi thủi trong quán cà phê – karaoke, mong con trai Út Tửng từ Sài Gòn về thăm. Khi phát hiện mình mắc trọng bệnh, ông quyết “cưới vợ cho con” để trọn lời hứa với người vợ quá cố. Nhưng kế hoạch ấy đổ vỡ khi ông phát hiện Tửng có một bí mật động trời và che giấu mọi chuyện. Giữa những xung đột, hiểu lầm và nỗ lực hàn gắn, cha con họ dần học cách thấu hiểu, để rồi mỗi người đều tìm thấy hạnh phúc và bình yên trong chính cuộc hôn nhân của mình."
         },
         {
-            "name": "Lucky",
-            "year": 2026,
-            "slug": "lucky",
-            "thumb": "https://phimimg.com/uploads/movies/20260719/lucky-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260719/lucky-poster.webp",
+            "name": "Chuyện Người Hầu Gái (Phần 6)",
+            "year": 2025,
+            "slug": "chuyen-nguoi-hau-gai-phan-6",
+            "thumb": "https://phimimg.com/uploads/movies/20260719/chuyen-nguoi-hau-gai-phan-6-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260719/chuyen-nguoi-hau-gai-phan-6-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
+            "current_episode": "Hoàn Tất (10/10)",
             "total_episodes": "10",
-            "country": "Anh",
-            "description": "Khi một phi vụ trị giá hàng triệu đô đổ bể, nữ lừa đảo Lucky buộc phải bỏ trốn. Bị FBI và một ông trùm tội phạm tàn nhẫn truy đuổi, Lucky phải chiến đấu để giữ mạng sống — và tìm lối thoát."
+            "country": "Âu Mỹ",
+            "description": "Sau khi sát hại Fred, gã chỉ huy đã cưỡng bức mình, June tưởng như có thể tìm lại bình yên trong tâm hồn, nhưng cuộc chiến của cô một lần nữa nổ ra, lần này với người vợ góa của ông ta, Serena."
         },
         {
             "name": "Đồng Dao Ma Quái (Bàn Cờ Ma)",
@@ -3021,16 +3021,16 @@
             "description": "Phí Phông, loài quỷ khát máu trong truyền thuyết dân gian của đồng bào miền núi gây ám ảnh bao đời nay. Phim xoay quanh Còn (Kiều Minh Tuấn) và Dương (Minh Anh), hai pháp sư tập sự lên núi cứu người mẹ đang bị lời nguyền Phí Phông đánh gục. Cùng lúc đó, trong bản sâu cũng xảy ra nhiều cái chết ghê rợn. Mọi nghi ngờ đổ dồn về hai mẹ con Mon (Diệp Bảo Ngọc) và Lua (Nina Nutthacha), những người mang đặc tính y hệt Phí Phông. Thế nhưng, vẫn còn những bí mật động trời bị chôn vùi trong chốn rừng thiêng nước độc, cuốn hai anh em Còn và Dương vào cuộc truy lùng “Phí Phông” không hồi kết."
         },
         {
-            "name": "Chuyện Người Hầu Gái (Phần 6)",
-            "year": 2025,
-            "slug": "chuyen-nguoi-hau-gai-phan-6",
-            "thumb": "https://phimimg.com/uploads/movies/20260719/chuyen-nguoi-hau-gai-phan-6-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260719/chuyen-nguoi-hau-gai-phan-6-poster.webp",
+            "name": "Lucky",
+            "year": 2026,
+            "slug": "lucky",
+            "thumb": "https://phimimg.com/uploads/movies/20260719/lucky-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260719/lucky-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (10/10)",
+            "current_episode": "Tập 2",
             "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Sau khi sát hại Fred, gã chỉ huy đã cưỡng bức mình, June tưởng như có thể tìm lại bình yên trong tâm hồn, nhưng cuộc chiến của cô một lần nữa nổ ra, lần này với người vợ góa của ông ta, Serena."
+            "country": "Anh",
+            "description": "Khi một phi vụ trị giá hàng triệu đô đổ bể, nữ lừa đảo Lucky buộc phải bỏ trốn. Bị FBI và một ông trùm tội phạm tàn nhẫn truy đuổi, Lucky phải chiến đấu để giữ mạng sống — và tìm lối thoát."
         },
         {
             "name": "Kungfu Nữ Túc (Đội Bóng Nữ Kung Fu)",
