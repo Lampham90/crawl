@@ -1639,6 +1639,30 @@
     ],
     "bo_trung": [
         {
+            "name": "Bí Mật Cuối Cùng",
+            "year": 2026,
+            "slug": "bi-mat-cuoi-cung",
+            "thumb": "https://phimimg.com/uploads/movies/20260721/bi-mat-cuoi-cung-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260721/bi-mat-cuoi-cung-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "12",
+            "country": "Trung Quốc",
+            "description": "Phim chưa có nội dung."
+        },
+        {
+            "name": "Chó Hoang Và Xương",
+            "year": 2026,
+            "slug": "cho-hoang-va-xuong",
+            "thumb": "https://phimimg.com/upload/vod/20260705-1/d1e3f78ec436e006cd71338e333adae7.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260705-1/cf344e4d8b5bb10f4eefa2a3ec5463f1.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Hoàn Tất (32/32)",
+            "total_episodes": "32",
+            "country": "Trung Quốc",
+            "description": "Đôi thanh mai trúc mã Trần Dị và Miêu Tĩnh tưởng chừng bị cắt đứt sau biến cố, cho đến khi Miêu Tĩnh lựa chọn trở về sau nhiều năm tha phương."
+        },
+        {
             "name": "Giây Phút Ấy Vượt Giới Hạn",
             "year": 2026,
             "slug": "giay-phut-ay-vuot-gioi-han",
@@ -1709,18 +1733,6 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Cố Bắc là một sinh viên năm tư đội sổ, bất ngờ xuyên không vào một vị tướng nhỏ vùng biên giới, dựa vào \"Tiêu Dao Các\" nên được sống an nhàn trong ba năm. Đến khi có thánh chỉ triệu về kinh, cậu phát hiện ra Hoàng đế Tiêu Sách lại chính là bạn cùng phòng ở kiếp trước. Một người muốn nằm yên làm đại gia, người kia lại muốn dốc sức trở thành minh quân vang danh thiên cổ. Hai người hợp lực, áp dụng lối tư duy hiện đại để đấu trí với quan lại lạm quyền, tiêu diệt trùm ma túy, chống giặc Tây Di, tạo nên một màn lật ngược tình thế cười ra nước mắt giữa thời cổ đại."
-        },
-        {
-            "name": "Chó Hoang Và Xương",
-            "year": 2026,
-            "slug": "cho-hoang-va-xuong",
-            "thumb": "https://phimimg.com/upload/vod/20260705-1/d1e3f78ec436e006cd71338e333adae7.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260705-1/cf344e4d8b5bb10f4eefa2a3ec5463f1.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Hoàn Tất (32/32)",
-            "total_episodes": "32",
-            "country": "Trung Quốc",
-            "description": "Đôi thanh mai trúc mã Trần Dị và Miêu Tĩnh tưởng chừng bị cắt đứt sau biến cố, cho đến khi Miêu Tĩnh lựa chọn trở về sau nhiều năm tha phương."
         },
         {
             "name": "Cô Thành Chiếu: Kinh Biến",
@@ -1805,18 +1817,6 @@
             "total_episodes": "26",
             "country": "Trung Quốc",
             "description": "Nữ thiên tài ngành tài chính Lý Thanh Thanh bất ngờ xuyên không về thời cổ đại, trở thành phu nhân của xa kỵ tướng quân Phan Dương. Cô chỉ mong muốn sống yên ổn, không ngờ ba năm sau, phu quân của cô lại dẫn theo tình nhân Lý Mộc Nhan cùng trở về nhà. Bí mật tráo đổi thân phận của Lý gia cũng được đưa ra ánh sáng, hóa ra Lý Mộc Nhan mới là thiên kim thật sự của Lý gia."
-        },
-        {
-            "name": "Tỏa Sáng Như Những Vì Sao",
-            "year": 2026,
-            "slug": "toa-sang-nhu-nhung-vi-sao",
-            "thumb": "https://phimimg.com/upload/vod/20260705-1/ddc50091c30657bb3654d3afd516188b.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260705-1/4995d1804a29701702e98853668a03b6.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (32/32)",
-            "total_episodes": "32",
-            "country": "Trung Quốc",
-            "description": "Bộ phim kể về hành trình của tiến sĩ tâm lý Lâm Vãn Tinh khi trở về quê hương giảng dạy, gặp gỡ huấn luyện viên hàng đầu Vương Pháp và dẫn dắt nhóm học sinh cá biệt vượt qua nghịch cảnh để theo đuổi ước mơ. Qua phương pháp giáo dục tự do, cô giúp các thiếu niên xây dựng nhân cách độc lập, tìm thấy bản thân và hướng tới tương lai tươi sáng."
         }
     ],
     "le_au_my": [
@@ -2925,16 +2925,16 @@
             "description": "Đế Chế tàn bạo đã sụp đổ, nhưng những lãnh chúa chiến tranh của phe Đế Chế vẫn còn rải rác khắp thiên hà. Khi Nền Cộng hòa Mới nỗ lực bảo vệ những gì Quân Nổi Loạn đã chiến đấu để giành lấy, họ đã nhờ đến sự trợ giúp của thợ săn tiền thưởng Mandalorian - huyền thoại Din Djarin và cậu bé học việc Grogu."
         },
         {
-            "name": "Giây Phút Ấy Vượt Giới Hạn",
+            "name": "Bí Mật Cuối Cùng",
             "year": 2026,
-            "slug": "giay-phut-ay-vuot-gioi-han",
-            "thumb": "https://phimimg.com/uploads/movies/20260719/giay-phut-ay-vuot-gioi-han-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260719/giay-phut-ay-vuot-gioi-han-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 9",
-            "total_episodes": "33",
+            "slug": "bi-mat-cuoi-cung",
+            "thumb": "https://phimimg.com/uploads/movies/20260721/bi-mat-cuoi-cung-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260721/bi-mat-cuoi-cung-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "12",
             "country": "Trung Quốc",
-            "description": "Vào thời Dân Quốc ở Thượng Hải, cậu con trai út của quân phiệt Mộ Dung Thanh Dịch vì bị ôm nhầm từ nhỏ nên phải chịu đựng sự ng..ược đ..ãi của cha nuôi. Khi còn là thiếu niên, cậu bỏ nhà trốn đi và được Nhậm Tố Tố cứu giúp, nhưng cũng chính vì vậy mà gia đình cô bị vạ lây rơi vào cảnh người nhà bị giếch sạch. Nhiều năm sau, hai người tái ngộ và dần nảy sinh tình cảm nhưng để cứu người khác, Nhậm Tố Tố đã kiên quyết giả chếch trốn đi, để lại Mộ Dung Thanh Dịch chìm đắm trong nỗi đau mất đi người mình yêu. Ba năm sau, Nhậm Tố Tố trở về nhưng thân phận nay đã là “chị dâu tương lai” của Mộ Dung Thanh Dịch."
+            "description": "Phim chưa có nội dung."
         },
         {
             "name": "Giấc Mơ Trao Em",
@@ -2985,16 +2985,16 @@
             "description": "Conan Movie 29, tựa tiếng Nhật là Detective Conan: Highway no Datenshi (Thiên thần sa ngã trên xa lộ), đã được công bố và sẽ ra mắt tại Nhật Bản vào ngày 10/04/2026, tập trung vào các pha hành động tốc độ, sự trở lại của nhân vật \"Nữ thần gió\" Chihaya Hagiwara và một chiếc mô tô bí ẩn. Phim có bối cảnh chính là Cầu vịnh Yokohama và được đạo diễn bởi Takahiro Hasui"
         },
         {
-            "name": "Tước Cốt",
+            "name": "Chó Hoang Và Xương",
             "year": 2026,
-            "slug": "tuoc-cot",
-            "thumb": "https://phimimg.com/uploads/movies/20260711/tuoc-cot-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260711/tuoc-cot-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 24",
-            "total_episodes": "28",
+            "slug": "cho-hoang-va-xuong",
+            "thumb": "https://phimimg.com/upload/vod/20260705-1/d1e3f78ec436e006cd71338e333adae7.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260705-1/cf344e4d8b5bb10f4eefa2a3ec5463f1.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Hoàn Tất (32/32)",
+            "total_episodes": "32",
             "country": "Trung Quốc",
-            "description": "Giữa thời loạn, thế tử Tiêu Vô Y của phủ Tĩnh An Vương vì đại cục mà cưới Tạ Gia Ngư, cô con gái giả của Thái phó, đồng thời cũng là một thiên tài cơ quan thuật. Từ một cuộc hôn nhân sắp đặt đầy toan tính, cả hai dần nảy sinh tình cảm khi cùng nhau vạch trần bí mật về thân thế, phá giải những âm mưu tranh đoạt quyền lực và bảo vệ giang sơn."
+            "description": "Đôi thanh mai trúc mã Trần Dị và Miêu Tĩnh tưởng chừng bị cắt đứt sau biến cố, cho đến khi Miêu Tĩnh lựa chọn trở về sau nhiều năm tha phương."
         },
         {
             "name": "Sếp Ơi, Mai Đừng Gặp Nhau!",
@@ -3045,16 +3045,16 @@
             "description": "Mỗi lần gieo xúc xắc là mỗi lần quỷ xuất hiện. Trong lúc dọn dẹp một ngôi đền bỏ hoang, một nhóm trẻ vô tình tìm thấy bàn cờ cổ bị phong ấn từ lâu. Sau khi gieo viên xúc xắc bí ẩn và đọc lên những câu đồng dao kỳ lạ, chúng nhận ra mình đã bắt đầu một trò chơi chết chóc. Mỗi lượt chơi đều kéo theo sự xuất hiện của những linh hồn đáng sợ, buộc cả nhóm phải tìm cách phá giải lời nguyền trước khi trời sáng."
         },
         {
-            "name": "Chuyện Vui Của Y Nhiên",
+            "name": "Giây Phút Ấy Vượt Giới Hạn",
             "year": 2026,
-            "slug": "chuyen-vui-cua-y-nhien",
-            "thumb": "https://phimimg.com/uploads/movies/20260721/chuyen-vui-cua-y-nhien-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260721/chuyen-vui-cua-y-nhien-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "30",
+            "slug": "giay-phut-ay-vuot-gioi-han",
+            "thumb": "https://phimimg.com/uploads/movies/20260719/giay-phut-ay-vuot-gioi-han-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260719/giay-phut-ay-vuot-gioi-han-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 9",
+            "total_episodes": "33",
             "country": "Trung Quốc",
-            "description": "Bộ phim kể về Lý Y Nhiên, sau nhiều năm xa cách đã trở về Lạc Thương, một thị trấn nhỏ ở vùng Tây Nam. Tám năm trời xa nhà khiến khoảng cách giữa cô và mẹ ngày càng lớn. Trong một cơ duyên đầy trớ trêu, hai mẹ con bất ngờ cùng đứng ra lo liệu những chuyện đại sự của đời người cho người dân trong thị trấn. Đối diện với những câu chuyện hiện thực đến tàn khốc, nhưng cũng thấm đẫm tình người, Lý Y Nhiên dần có những cảm nhận mới về cuộc đời và những điều còn dang dở. Đồng thời, mối quan hệ giữa cô và mẹ cũng âm thầm thay đổi."
+            "description": "Vào thời Dân Quốc ở Thượng Hải, cậu con trai út của quân phiệt Mộ Dung Thanh Dịch vì bị ôm nhầm từ nhỏ nên phải chịu đựng sự ng..ược đ..ãi của cha nuôi. Khi còn là thiếu niên, cậu bỏ nhà trốn đi và được Nhậm Tố Tố cứu giúp, nhưng cũng chính vì vậy mà gia đình cô bị vạ lây rơi vào cảnh người nhà bị giếch sạch. Nhiều năm sau, hai người tái ngộ và dần nảy sinh tình cảm nhưng để cứu người khác, Nhậm Tố Tố đã kiên quyết giả chếch trốn đi, để lại Mộ Dung Thanh Dịch chìm đắm trong nỗi đau mất đi người mình yêu. Ba năm sau, Nhậm Tố Tố trở về nhưng thân phận nay đã là “chị dâu tương lai” của Mộ Dung Thanh Dịch."
         },
         {
             "name": "Đồng Điệu Yêu Thương",
