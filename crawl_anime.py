@@ -10,7 +10,7 @@ from datetime import datetime
 BASE_URL = "https://phimapi.com/v1/api"
 YEARS_FILTER = [2026, 2025] 
 TARGET_COUNT = 15
-MAX_WORKERS = 2   
+MAX_WORKERS = 2    
 DATA_FILE = "data_2026_perfect.json"
 
 def get_data(url, params=None):
@@ -82,7 +82,7 @@ def fetch_universal(target_name, endpoint, country_target=None, is_movie_logic=N
             if (not country_target or country_target in countries) and (is_movie_logic is None or is_movie == is_movie_logic):
                 results.append(parse_movie(m))
                 
-        print(f"   -> Đang có: {len(results)}/{TARGET_COUNT} phim (Xong trang {page})")
+        print(f"    -> Đang có: {len(results)}/{TARGET_COUNT} phim (Xong trang {page})")
         page += 1
         time.sleep(0.5)
         
@@ -122,22 +122,22 @@ def fetch_special_lang(target_name, lang_code):
 
                 results.append(parse_movie(m))
                 
-            print(f"   -> Đang có: {len(results)}/{TARGET_COUNT} phim (Năm {year} - Xong trang {page})")
+            print(f"    -> Đang có: {len(results)}/{TARGET_COUNT} phim (Năm {year} - Xong trang {page})")
             page += 1
             time.sleep(0.5)
             
     return results
 
-def interleave_trending(rap, tr, han, viet, au):
+def interleave_trending(rap, tr, han, anime, au):
     trending = []
     # Chuyển đổi thành list để an toàn khi thao tác pop
-    l_rap, l_tr, l_han, l_viet, l_au = list(rap), list(tr), list(han), list(viet), list(au)
+    l_rap, l_tr, l_han, l_anime, l_au = list(rap), list(tr), list(han), list(anime), list(au)
     
-    while (l_rap or l_tr or l_han or l_viet or l_au) and len(trending) < 15:
+    while (l_rap or l_tr or l_han or l_anime or l_au) and len(trending) < 15:
         if l_rap: trending.append(l_rap.pop(0))
         if l_tr: trending.append(l_tr.pop(0))
         if l_han: trending.append(l_han.pop(0))
-        if l_viet: trending.append(l_viet.pop(0))
+        if l_anime: trending.append(l_anime.pop(0))
         if l_au: trending.append(l_au.pop(0))
             
     return trending[:15]
@@ -171,11 +171,12 @@ def main():
     report.append(f"| {'Lồng Tiếng':22} | {'✅ ĐỦ' if len(lt)>=TARGET_COUNT else f'⚠️ {len(lt)}/15':16} |")
     report.append(f"| {'Thuyết Minh':22} | {'✅ ĐỦ' if len(tm)>=TARGET_COUNT else f'⚠️ {len(tm)}/15':16} |")
 
+    # Đã thay đổi: Thay final_data.get("le_vn", []) bằng final_data.get("anime_movie", [])
     final_data["trending_phim_bo"] = interleave_trending(
         final_data.get("phim_chieu_rap", []),
         final_data.get("bo_trung", []), 
         final_data.get("bo_han", []),
-        final_data.get("le_vn", []), 
+        final_data.get("anime_movie", []), 
         final_data.get("bo_au_my", [])
     )
     report.append(f"| {'Top Trending (Mix)':22} | {'🔥 MIXED':16} |")
