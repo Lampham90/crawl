@@ -1281,10 +1281,22 @@
             "thumb": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
             "poster": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 9",
+            "current_episode": "Hoàn Tất (10/10)",
             "total_episodes": "10",
             "country": "Hàn Quốc",
             "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
+        },
+        {
+            "name": "Chuyện Tình Ma Quái",
+            "year": 2026,
+            "slug": "chuyen-tinh-ma-quai",
+            "thumb": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 3",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
         },
         {
             "name": "Lời Đề Nghị Của Công Tố Viên",
@@ -1369,18 +1381,6 @@
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Câu chuyện xoay quanh Kang Tae Ju, một người đàn ông đang đứng trên bờ vực tan vỡ hôn nhân với vợ mình là Ko Se Yun. Tuy nhiên, mọi thứ đảo lộn khi Se Yun bất ngờ bị bắt cóc. Trong nỗ lực điên cuồng để giải cứu vợ, Tae Ju rơi vào một cái bẫy tinh vi, bị đổ tội giết người và trở thành kẻ bị truy nã gắt gao. Vừa phải chạy trốn cảnh sát, vừa phải đối đầu với những kẻ thù nguy hiểm, Tae Ju dần khám phá ra một âm mưu đen tối đằng sau vụ bắt cóc. Trên hành trình tìm kiếm sự thật, anh phải chạm trán với No Man Hui – một kẻ có vẻ ngoài bình thường nhưng lại ẩn chứa bản chất bạo lực khôn lường. Trong khi đó, tại nơi giam giữ, Se Yun gặp gỡ Kim Gyeong Ae, một người phụ nữ bí ẩn với những bí mật riêng khó lường. Tae Ju chạy đua với thời gian để làm sáng tỏ sự thật trước khi quá muộn, đồng thời đối diện với những cảm xúc phức tạp dành cho người vợ mà anh từng định từ bỏ."
-        },
-        {
-            "name": "Chuyện Tình Ma Quái",
-            "year": 2026,
-            "slug": "chuyen-tinh-ma-quai",
-            "thumb": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
         },
         {
             "name": "Phi Vụ Chung Cư",
@@ -2731,6 +2731,18 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Đặc Vụ Kim Tái Khởi Động",
+            "year": 2026,
+            "slug": "dac-vu-kim-tai-khoi-dong",
+            "thumb": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (10/10)",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
+        },
+        {
             "name": "Chó Hoang Và Xương",
             "year": 2026,
             "slug": "cho-hoang-va-xuong",
@@ -2741,18 +2753,6 @@
             "total_episodes": "32",
             "country": "Trung Quốc",
             "description": "Đôi thanh mai trúc mã Trần Dị và Miêu Tĩnh tưởng chừng bị cắt đứt sau biến cố, cho đến khi Miêu Tĩnh lựa chọn trở về sau nhiều năm tha phương."
-        },
-        {
-            "name": "Đặc Vụ Kim Tái Khởi Động",
-            "year": 2026,
-            "slug": "dac-vu-kim-tai-khoi-dong",
-            "thumb": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 9",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
         },
         {
             "name": "Tiếng Anh Thành Tiếng Yêu",
@@ -2943,7 +2943,7 @@
             "thumb": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
             "poster": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 9",
+            "current_episode": "Hoàn Tất (10/10)",
             "total_episodes": "10",
             "country": "Hàn Quốc",
             "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
@@ -2997,16 +2997,16 @@
             "description": "Triệu Thiếu Thương và Nguyên Hồng là hai chàng trai có xuất thân, nền tảng giáo dục và quá trình trưởng thành hoàn toàn khác biệt. Qua từng vụ án, họ vừa âm thầm học hỏi lẫn nhau, vừa cùng nhau trưởng thành. Giữa bối cảnh thời đại đầy biến động, cả hai dần trở thành cặp bài trùng khắc tinh đáng gờm nhất trong mắt bọn tội phạm."
         },
         {
-            "name": "Lời Đề Nghị Của Công Tố Viên",
+            "name": "Chuyện Tình Ma Quái",
             "year": 2026,
-            "slug": "loi-de-nghi-cua-cong-to-vien",
-            "thumb": "https://phimimg.com/upload/vod/20260627-1/00bad3e184efb751806ae1f5562ace36.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260627-1/4840456fa6f40d96ff25e2b01dc85da9.jpg",
+            "slug": "chuyen-tinh-ma-quai",
+            "thumb": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (10/10)",
-            "total_episodes": "10",
+            "current_episode": "Tập 3",
+            "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Mười lăm năm trước, một vụ giết người tàn bạo đã kéo hai cậu bé vào địa ngục. Một người trở thành con trai của nạn nhân; người kia, lại là con của kẻ sát nhân. Nhiều năm sau, định mệnh đã đưa họ tái ngộ trong vai trò một công tố viên và một điều tra viên. Trong khi chiến đấu chống lại mạng lưới tham nhũng pháp lý và doanh nghiệp khổng lồ, họ phát hiện ra một điều còn nguy hiểm hơn thế: chính là đối phương. Họ là điểm yếu chí mạng — và cũng là sự cứu rỗi duy nhất của nhau."
+            "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
         },
         {
             "name": "Thám Tử Lừng Danh Conan: Thiên Thần Sa Ngã Trên Xa Lộ",
@@ -3057,16 +3057,16 @@
             "description": "Thích Nguyên, con gái của một đồ tể thực chất là tiểu thư Hầu Phủ bị đánh tráo, tiểu thư giả mạo hãm hại, sỉ nhục cô để tự bảo vệ mình. Thích Nguyên bất đắc dĩ trở thành ám vệ của Tĩnh vương Tiêu Vân Đình, hai người nảy sinh tình cảm với nhau. Tề vương điên cuồng xông vào đêm tân hôn của hai người, Thích Nguyên bỏ mạng cùng hắn, không ngờ phát hiện ra mình được sống lại. Ở kiếp này cô sẽ không ngán bất kì ai nữa..."
         },
         {
-            "name": "Tình Yêu Và Tội Lỗi",
+            "name": "Lời Đề Nghị Của Công Tố Viên",
             "year": 2026,
-            "slug": "tinh-yeu-va-toi-loi-2026",
-            "thumb": "https://phimimg.com/uploads/movies/20260709/tinh-yeu-va-toi-loi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260709/tinh-yeu-va-toi-loi-poster.webp",
+            "slug": "loi-de-nghi-cua-cong-to-vien",
+            "thumb": "https://phimimg.com/upload/vod/20260627-1/00bad3e184efb751806ae1f5562ace36.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260627-1/4840456fa6f40d96ff25e2b01dc85da9.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
+            "current_episode": "Hoàn Tất (10/10)",
             "total_episodes": "10",
             "country": "Hàn Quốc",
-            "description": "Cảnh sát, những kẻ buôn lậu ma túy và gián điệp: một vụ bắt cóc bí ẩn vô tình vạch trần một mạng lưới tội phạm quy mô lớn, nơi mà cả tình yêu lẫn tình dục đều trở thành những công cụ để trao đổi lợi ích."
+            "description": "Mười lăm năm trước, một vụ giết người tàn bạo đã kéo hai cậu bé vào địa ngục. Một người trở thành con trai của nạn nhân; người kia, lại là con của kẻ sát nhân. Nhiều năm sau, định mệnh đã đưa họ tái ngộ trong vai trò một công tố viên và một điều tra viên. Trong khi chiến đấu chống lại mạng lưới tham nhũng pháp lý và doanh nghiệp khổng lồ, họ phát hiện ra một điều còn nguy hiểm hơn thế: chính là đối phương. Họ là điểm yếu chí mạng — và cũng là sự cứu rỗi duy nhất của nhau."
         },
         {
             "name": "Thế Giới Đôi Khi (Vùng đất của những lúc)",
