@@ -183,6 +183,18 @@
     ],
     "anime_nhat": [
         {
+            "name": "Bleach Huyết Chiến Ngàn Năm - Kiếp Nạn",
+            "year": 2026,
+            "slug": "bleach-huyet-chien-ngan-nam-kiep-nan",
+            "thumb": "https://phimimg.com/uploads/movies/20260726/bleach-huyet-chien-ngan-nam-kiep-nan-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260726/bleach-huyet-chien-ngan-nam-kiep-nan-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 1",
+            "total_episodes": "10",
+            "country": "Nhật Bản",
+            "description": "Cuộc đại chiến giữa các Thần Chết và đế chế Quincy bước vào giai đoạn khốc liệt nhất khi những trận chiến sinh tử liên tiếp nổ ra. Ichigo Kurosaki cùng các đồng đội phải đối mặt với những kẻ thù sở hữu sức mạnh vượt ngoài tưởng tượng để bảo vệ cả hai thế giới. Trong khi đó, những bí mật về quá khứ, số phận và nguồn gốc sức mạnh dần được hé lộ, làm thay đổi cục diện cuộc chiến. Mỗi quyết định đều phải trả giá bằng sự hy sinh, đẩy các chiến binh đến giới hạn của bản thân."
+        },
+        {
             "name": "Cậu Và Tớ Là Hai Thái Cực Đối Lập (Seihantai na Kimi to Boku) (Phần 2)",
             "year": 2026,
             "slug": "cau-va-to-la-hai-thai-cuc-doi-lap-seihantai-na-kimi-to-boku-phan-2",
@@ -349,21 +361,21 @@
             "total_episodes": "12",
             "country": "Nhật Bản",
             "description": "Luck, một pháp sư hạng S thuộc tổ đội anh hùng, đã quyết định ở lại chặn hậu và tử chiến với Ma Vương để cứu những người đồng đội của mình. Khi anh giành chiến thắng và trở về, mười năm đã trôi qua, và thế giới đã tôn vinh anh như một anh hùng huyền thoại đã hy sinh nơi sa trường. Không thể quay lại cuộc sống trước kia, Luck đành che giấu thân phận và bắt đầu lại từ đầu với cái tên &quot;Lock&quot; — một mạo hiểm giả hạng F, tự tay gầy dựng lại tương lai trong một thế giới vốn đã tiếp diễn mà không có anh."
-        },
-        {
-            "name": "Hell Mode: Game Thủ Xuất Chúng Tung Hoành Chốn Dị Giới Hỗn Nguyên (Phần 2)",
-            "year": 2026,
-            "slug": "hell-mode-game-thu-xuat-chung-tung-hoanh-chon-di-gioi-hon-nguyen-phan-2",
-            "thumb": "https://phimimg.com/upload/vod/20260705-1/eb633393851788cf7a7665e245c43438.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260705-1/60a64bc29b820d39997e3cbd6bc01518.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "12",
-            "country": "Nhật Bản",
-            "description": "Kenichi Yamada, một nhân viên văn phòng 35 tuổi độc thân, đã dành phần lớn thời gian trưởng thành của mình để cày cuốc mọi tựa game MMORPG trên thị trường. Chán nản với vòng lặp của lối chơi lặp lại và luôn ưu ái người chơi mới, anh lập tức bị thu hút bởi lời quảng cáo về một trò chơi mới: không có hồi kết và đặc biệt là có chế độ &#39;Hell Mode&#39; (Chế độ Địa ngục). Đây là mức độ khó khiến việc thăng cấp trở nên gần như không tưởng, nhưng bù lại hứa hẹn tiềm năng tăng trưởng không giới hạn. Sau khi chọn lớp nhân vật Triệu hồi sư vừa ra mắt, Kenichi thấy mình tái sinh dưới hình hài Allen, một đứa trẻ sơ sinh trong một gia đình nông nô, với hành trang duy nhất là trí tuệ và những ký ức từ kiếp trước để dẫn lối."
         }
     ],
     "hh_trung_quoc": [
+        {
+            "name": "Đại Thiên Tiểu Trấn",
+            "year": 2026,
+            "slug": "dai-thien-tieu-tran",
+            "thumb": "https://phimimg.com/uploads/movies/20260726/dai-thien-tieu-tran-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260726/dai-thien-tieu-tran-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "104",
+            "country": "Trung Quốc",
+            "description": "Thị Trấn Đại Thiên là một bộ phim hoạt hình ngắn ăn theo (derivative animated short) được phát triển dựa trên ba tác phẩm nổi tiếng của tác giả Thiên Tàm Thổ Đậu gồm: Đại Chúa Tể, Nguyên Tôn và Vạn Tướng Chi Vương."
+        },
         {
             "name": "Quang Âm Chi Ngoại",
             "year": 2025,
@@ -531,18 +543,6 @@
             "total_episodes": "60",
             "country": "Trung Quốc",
             "description": "Tám trăm năm trước, Trương Nhược Trần là nhi tử duy nhất của Minh Đế. Tuy sở hữu tài năng tuyệt thế, chàng lại bị thanh mai trúc mã là công chúa Trì Dao sát hại. Tám trăm năm sau, chàng trọng sinh trong thân xác của Trương Nhược Trần - Cửu vương tử vô dụng của Vân Vũ Quận Quốc. Thân thể mới này ốm yếu, bệnh tật, không có chút linh lực nào, khiến chàng cùng mẫu thân là Lâm Phi phải chịu đủ mọi sự chèn ép trong phủ Quận Vương. Sau khi nhớ lại kiếp trước, Trương Nhược Trần thề sẽ trả thù Trì Dao nữ vương - nay đã trở thành chúa tể của Côn Luân Giới, đồng thời bảo vệ Lâm Phi, người mẹ hết lòng yêu thương mình. Sau khi thức tỉnh ấn ký Thần Võ Thời Không, Trương Nhược Trần dựa vào kinh nghiệm từ kiếp trước cùng sự khổ luyện để nhanh chóng trở nên mạnh mẽ."
-        },
-        {
-            "name": "Sưu Thần Ký",
-            "year": 2026,
-            "slug": "suu-than-ky",
-            "thumb": "https://phimimg.com/upload/vod/20260325-1/98023650a08afba1c2697bb8cdb441a5.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260325-1/18e0ca05e3053f41ad19342b0b78a2b3.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 20",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Thần Nông Đế, người xứng đáng được tôn kính nhất trong thời loạn thế thì lại bất ngờ ngã xuống đầy uổn khúc. Đó là thời kỳ mà gian hùng nổi lên như nấm sau mưa, Kim, Mộc, Thủy, Hỏa, Thổ, các tộc người vừa trỗi dậy lại vừa đấu tranh, Hoàng Đế hay là Viêm Đế khi ấy cũng chỉ là cái tên. Thời đại man hoang của Trung Nguyên ấy tưởng chừng như sẽ kéo dài vô tận, chỉ đến khi một thanh niên Thác Bạt Dã xuất hiện, người mà đã may mắn nhận được truyền thừa của Thần Nông Đế trước lúc lâm chung, người mà sẽ đứng ra gánh vác những hành trình dang dở của ngài và tạo nên một câu chuyện đầy hùng tráng."
         }
     ],
     "phim_chieu_rap": [
@@ -1639,6 +1639,30 @@
     ],
     "bo_trung": [
         {
+            "name": "Giây Phút Ấy Vượt Giới Hạn",
+            "year": 2026,
+            "slug": "giay-phut-ay-vuot-gioi-han",
+            "thumb": "https://phimimg.com/uploads/movies/20260719/giay-phut-ay-vuot-gioi-han-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260719/giay-phut-ay-vuot-gioi-han-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 19",
+            "total_episodes": "33",
+            "country": "Trung Quốc",
+            "description": "Vào thời Dân Quốc ở Thượng Hải, cậu con trai út của quân phiệt Mộ Dung Thanh Dịch vì bị ôm nhầm từ nhỏ nên phải chịu đựng sự ng..ược đ..ãi của cha nuôi. Khi còn là thiếu niên, cậu bỏ nhà trốn đi và được Nhậm Tố Tố cứu giúp, nhưng cũng chính vì vậy mà gia đình cô bị vạ lây rơi vào cảnh người nhà bị giếch sạch. Nhiều năm sau, hai người tái ngộ và dần nảy sinh tình cảm nhưng để cứu người khác, Nhậm Tố Tố đã kiên quyết giả chếch trốn đi, để lại Mộ Dung Thanh Dịch chìm đắm trong nỗi đau mất đi người mình yêu. Ba năm sau, Nhậm Tố Tố trở về nhưng thân phận nay đã là “chị dâu tương lai” của Mộ Dung Thanh Dịch."
+        },
+        {
+            "name": "Kinh Thành Kỳ Thám",
+            "year": 2026,
+            "slug": "kinh-thanh-ky-tham",
+            "thumb": "https://phimimg.com/upload/vod/20260706-1/48ecec93d8b3f63066a605c8feb2a3ae.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260706-1/b0c53082328c4518e39fd898c6676e2a.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 35",
+            "total_episodes": "36",
+            "country": "Trung Quốc",
+            "description": "Triệu Thiếu Thương và Nguyên Hồng là hai chàng trai có xuất thân, nền tảng giáo dục và quá trình trưởng thành hoàn toàn khác biệt. Qua từng vụ án, họ vừa âm thầm học hỏi lẫn nhau, vừa cùng nhau trưởng thành. Giữa bối cảnh thời đại đầy biến động, cả hai dần trở thành cặp bài trùng khắc tinh đáng gờm nhất trong mắt bọn tội phạm."
+        },
+        {
             "name": "Tôi Là Nhậm Phi Phàm",
             "year": 2026,
             "slug": "toi-la-nham-phi-pham",
@@ -1733,30 +1757,6 @@
             "total_episodes": "36",
             "country": "Trung Quốc",
             "description": "Trong một cuộc diễn tập quân sự quy mô nhỏ, Quách Tử Kiếm bất mãn vì cuộc diễn tập chỉ mang tính hình thức nên đã giả truyền mệnh lệnh, yêu cầu các đơn vị đánh thật, đối kháng thật. Dù hành động này gây chấn động, anh lại được cấp trên ghi nhận và đánh giá cao. Sau đó, Quách Tử Kiếm lần lượt trải qua nhiều biến cố như thất bại trong diễn tập đối kháng và phải chuyển ngành. Tuy nhiên, anh đã trở lại quân ngũ, dẫn dắt lực lượng hợp thành kiểu mới tỏa sáng trong các đợt kiểm nghiệm tác chiến thực chiến, đánh một trận mang đậm dấu ấn của chiến tranh thời đại mới."
-        },
-        {
-            "name": "Giây Phút Ấy Vượt Giới Hạn",
-            "year": 2026,
-            "slug": "giay-phut-ay-vuot-gioi-han",
-            "thumb": "https://phimimg.com/uploads/movies/20260719/giay-phut-ay-vuot-gioi-han-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260719/giay-phut-ay-vuot-gioi-han-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 17",
-            "total_episodes": "33",
-            "country": "Trung Quốc",
-            "description": "Vào thời Dân Quốc ở Thượng Hải, cậu con trai út của quân phiệt Mộ Dung Thanh Dịch vì bị ôm nhầm từ nhỏ nên phải chịu đựng sự ng..ược đ..ãi của cha nuôi. Khi còn là thiếu niên, cậu bỏ nhà trốn đi và được Nhậm Tố Tố cứu giúp, nhưng cũng chính vì vậy mà gia đình cô bị vạ lây rơi vào cảnh người nhà bị giếch sạch. Nhiều năm sau, hai người tái ngộ và dần nảy sinh tình cảm nhưng để cứu người khác, Nhậm Tố Tố đã kiên quyết giả chếch trốn đi, để lại Mộ Dung Thanh Dịch chìm đắm trong nỗi đau mất đi người mình yêu. Ba năm sau, Nhậm Tố Tố trở về nhưng thân phận nay đã là “chị dâu tương lai” của Mộ Dung Thanh Dịch."
-        },
-        {
-            "name": "Kinh Thành Kỳ Thám",
-            "year": 2026,
-            "slug": "kinh-thanh-ky-tham",
-            "thumb": "https://phimimg.com/upload/vod/20260706-1/48ecec93d8b3f63066a605c8feb2a3ae.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260706-1/b0c53082328c4518e39fd898c6676e2a.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 34",
-            "total_episodes": "36",
-            "country": "Trung Quốc",
-            "description": "Triệu Thiếu Thương và Nguyên Hồng là hai chàng trai có xuất thân, nền tảng giáo dục và quá trình trưởng thành hoàn toàn khác biệt. Qua từng vụ án, họ vừa âm thầm học hỏi lẫn nhau, vừa cùng nhau trưởng thành. Giữa bối cảnh thời đại đầy biến động, cả hai dần trở thành cặp bài trùng khắc tinh đáng gờm nhất trong mắt bọn tội phạm."
         },
         {
             "name": "Xuân Về Phượng Trì",
@@ -2003,6 +2003,18 @@
     ],
     "bo_au_my": [
         {
+            "name": "Phỏng Vấn Ma Cà Rồng (Phần 3)",
+            "year": 2026,
+            "slug": "phong-van-ma-ca-rong-phan-3",
+            "thumb": "https://phimimg.com/uploads/movies/20260726/phong-van-ma-ca-rong-phan-3-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260726/phong-van-ma-ca-rong-phan-3-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (7/7)",
+            "total_episodes": "7",
+            "country": "Âu Mỹ",
+            "description": "Một ma cà rồng từ New Orleans tái ngộ với một phóng viên ốm yếu để kể lại cuộc đời khát máu và mối tình độc hại với gã người Pháp nham hiểm đã biến anh thành ma cà rồng."
+        },
+        {
             "name": "Stokes Twins",
             "year": 2026,
             "slug": "stokes-twins",
@@ -2169,18 +2181,6 @@
             "total_episodes": "10",
             "country": "Canada",
             "description": "Sau khi cuộc sống cá nhân lẫn sự nghiệp của bác sĩ phẫu thuật thần kinh Maggie Sullivan rơi vào khủng hoảng, cô quyết định trở về quê nhà Sullivan's Crossing. Tại đây, Maggie buộc phải đối mặt với thực tại phức tạp của mình, đồng thời đối diện với quá khứ đau thương mà cô đã cố tình trốn tránh suốt nhiều năm qua."
-        },
-        {
-            "name": "Cam Kết Thỏa Mãn Tột Cùng",
-            "year": 2026,
-            "slug": "cam-ket-thoa-man-tot-cung",
-            "thumb": "https://phimimg.com/upload/vod/20260521-1/ed43621ae21ba30c0e26750a08015c33.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260521-1/03a0c10b0dff685c4b64716275d056c1.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (10/10)",
-            "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Một bà mẹ vừa ly hôn bất ngờ rơi vào vòng xoáy nguy hiểm của tống tiền, án mạng và... bóng đá thiếu nhi."
         }
     ],
     "le_thai": [
@@ -2925,16 +2925,16 @@
             "description": "Phim điện ảnh phiên bản hoàn toàn mới của “Lớp Học Ám Sát” nhân dịp kỷ niệm 10 năm ra mắt! Một sinh vật mang vận tốc Mach 20 đe dọa hủy diệt Trái Đất nhưng lại trở thành một thầy giáo? Một lớp học bị coi là \"phế thải\" bỗng chốc trở thành hy vọng cuối cùng của nhân loại? Những câu chuyện mới toanh chưa từng được kể trên màn ảnh sẽ mang đến cho fan hâm mộ những thước phim bùng nổ cùng ký ức rực rỡ nhất về thầy Koro và tập thể lớp 3-E. Bạn đã sẵn sàng cho buổi tốt nghiệp đặc biệt này chưa?"
         },
         {
-            "name": "Tôi Là Nhậm Phi Phàm",
+            "name": "Giây Phút Ấy Vượt Giới Hạn",
             "year": 2026,
-            "slug": "toi-la-nham-phi-pham",
-            "thumb": "https://phimimg.com/uploads/movies/20260715/toi-la-nham-phi-pham-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260715/toi-la-nham-phi-pham-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 24",
-            "total_episodes": "24",
+            "slug": "giay-phut-ay-vuot-gioi-han",
+            "thumb": "https://phimimg.com/uploads/movies/20260719/giay-phut-ay-vuot-gioi-han-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260719/giay-phut-ay-vuot-gioi-han-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 19",
+            "total_episodes": "33",
             "country": "Trung Quốc",
-            "description": "Phim kể về Nhậm Phi Phàm, cậu chủ Khôi Y Đường, xuất thân từ một gia tộc Trung y nổi tiếng. Sau bốn năm bị hãm hại phải ngồi tù, anh trở về Bắc Thị, từng bước điều tra chân tướng vụ Nhậm gia bị hãm hại, vạch mặt Tập đoàn Dược phẩm nhà họ Vương đứng sau mọi chuyện, đồng thời vực dậy Khôi Y Đường và chống lại âm mưu của các thế lực nước ngoài nhằm xâm lấn di sản văn hóa Trung y. Bên cạnh đó là câu chuyện tình cảm giữa Nhậm Phi Phàm và vị hôn thê Hứa Nhược Cẩm. Sau bốn năm xa cách, hai người gặp lại nhau, rồi dần xích lại gần hơn qua từng lần đồng hành. Giữa cục diện trong ngoài đều gặp khó khăn, Nhậm Phi Phàm và Hứa Nhược Cẩm vẫn luôn tin tưởng, nâng đỡ lẫn nhau và cùng nhau tiến bước."
+            "description": "Vào thời Dân Quốc ở Thượng Hải, cậu con trai út của quân phiệt Mộ Dung Thanh Dịch vì bị ôm nhầm từ nhỏ nên phải chịu đựng sự ng..ược đ..ãi của cha nuôi. Khi còn là thiếu niên, cậu bỏ nhà trốn đi và được Nhậm Tố Tố cứu giúp, nhưng cũng chính vì vậy mà gia đình cô bị vạ lây rơi vào cảnh người nhà bị giếch sạch. Nhiều năm sau, hai người tái ngộ và dần nảy sinh tình cảm nhưng để cứu người khác, Nhậm Tố Tố đã kiên quyết giả chếch trốn đi, để lại Mộ Dung Thanh Dịch chìm đắm trong nỗi đau mất đi người mình yêu. Ba năm sau, Nhậm Tố Tố trở về nhưng thân phận nay đã là “chị dâu tương lai” của Mộ Dung Thanh Dịch."
         },
         {
             "name": "Phi Vụ Chung Cư",
@@ -2961,16 +2961,16 @@
             "description": "Phim điện ảnh phiên bản hoàn toàn mới của “Lớp Học Ám Sát” nhân dịp kỷ niệm 10 năm ra mắt! Một sinh vật mang vận tốc Mach 20 đe dọa hủy diệt Trái Đất nhưng lại trở thành một thầy giáo? Một lớp học bị coi là \"phế thải\" bỗng chốc trở thành hy vọng cuối cùng của nhân loại? Những câu chuyện mới toanh chưa từng được kể trên màn ảnh sẽ mang đến cho fan hâm mộ những thước phim bùng nổ cùng ký ức rực rỡ nhất về thầy Koro và tập thể lớp 3-E. Bạn đã sẵn sàng cho buổi tốt nghiệp đặc biệt này chưa?"
         },
         {
-            "name": "Stokes Twins",
+            "name": "Phỏng Vấn Ma Cà Rồng (Phần 3)",
             "year": 2026,
-            "slug": "stokes-twins",
-            "thumb": "https://phimimg.com/uploads/movies/20260726/stokes-twins-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260726/stokes-twins-poster.webp",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
+            "slug": "phong-van-ma-ca-rong-phan-3",
+            "thumb": "https://phimimg.com/uploads/movies/20260726/phong-van-ma-ca-rong-phan-3-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260726/phong-van-ma-ca-rong-phan-3-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (7/7)",
+            "total_episodes": "7",
             "country": "Âu Mỹ",
-            "description": "Từ những căn phòng bí mật cho đến những trò đùa tai quái và các thử thách điên rồ, anh em nhà Stokes biến những điều không thể thành hiện thực trong tập phim tổng hợp chuỗi video được xem nhiều nhất của họ."
+            "description": "Một ma cà rồng từ New Orleans tái ngộ với một phóng viên ốm yếu để kể lại cuộc đời khát máu và mối tình độc hại với gã người Pháp nham hiểm đã biến anh thành ma cà rồng."
         },
         {
             "name": "Bầy Xác Sống",
@@ -2985,16 +2985,16 @@
             "description": "Giáo sư Se Jeong tham dự một hội nghị công nghệ sinh học, nhưng lại chứng kiến ​​nó biến thành thảm họa khi một loại virus đột biến nhanh chóng được giải phóng. Khi dịch bệnh lan rộng và những người nhiễm bệnh bắt đầu biến đổi, chính quyền đã phong tỏa toàn bộ cơ sở."
         },
         {
-            "name": "Tiểu Phương",
+            "name": "Kinh Thành Kỳ Thám",
             "year": 2026,
-            "slug": "tieu-phuong",
-            "thumb": "https://phimimg.com/uploads/movies/20260714/tieu-phuong-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260714/tieu-phuong-poster.webp",
+            "slug": "kinh-thanh-ky-tham",
+            "thumb": "https://phimimg.com/upload/vod/20260706-1/48ecec93d8b3f63066a605c8feb2a3ae.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260706-1/b0c53082328c4518e39fd898c6676e2a.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 15",
-            "total_episodes": "18",
+            "current_episode": "Tập 35",
+            "total_episodes": "36",
             "country": "Trung Quốc",
-            "description": "Phim kể về Dương Tiểu Phương và Kỳ Tiểu Vĩ, đôi trẻ cùng làng lỡ có con trước khi cưới. Gia đình nhà họ Dương vội vã trở về quê để cùng Tiểu Phương bàn chuyện cưới xin. Thế nhưng hai nhà Kỳ – Dương lại có quan điểm trái ngược, vô tình châm ngòi cho một đám cưới đầy sóng gió. Sau khi cuộc thương lượng giữa hai gia đình đổ vỡ, Tiểu Phương dù đang mang thai vẫn đi xem mắt. Nào ngờ, cô lại được cả làng săn đón, từ đó kéo theo hàng loạt tình huống dở khóc dở cười."
+            "description": "Triệu Thiếu Thương và Nguyên Hồng là hai chàng trai có xuất thân, nền tảng giáo dục và quá trình trưởng thành hoàn toàn khác biệt. Qua từng vụ án, họ vừa âm thầm học hỏi lẫn nhau, vừa cùng nhau trưởng thành. Giữa bối cảnh thời đại đầy biến động, cả hai dần trở thành cặp bài trùng khắc tinh đáng gờm nhất trong mắt bọn tội phạm."
         },
         {
             "name": "Báo Thù",
@@ -3021,16 +3021,16 @@
             "description": "Tám phàm nhân bình thường ở tầng lớp đáy xã hội đã sử dụng trí thông minh đường phố cùng những mưu mẹo dở khóc dở cười để chống lại các vị thần tiên quyền năng, từ đó chính thức giành được danh hiệu \"Bát Tiên\"."
         },
         {
-            "name": "WWE: Hậu Trường (Phần 3)",
+            "name": "Stokes Twins",
             "year": 2026,
-            "slug": "wwe-hau-truong-phan-3",
-            "thumb": "https://phimimg.com/uploads/movies/20260726/wwe-hau-truong-phan-3-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260726/wwe-hau-truong-phan-3-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (5/5)",
-            "total_episodes": "5",
+            "slug": "stokes-twins",
+            "thumb": "https://phimimg.com/uploads/movies/20260726/stokes-twins-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260726/stokes-twins-poster.webp",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Hoàn Tất (8/8)",
+            "total_episodes": "8",
             "country": "Âu Mỹ",
-            "description": "Từ Monday Night RAW đến WrestleMania, loạt phim này đưa bạn vào hậu trường cùng các Siêu sao và đội ngũ nhân viên của WWE khi họ tạo nên những sự kiện hoành tráng nhất của công ty."
+            "description": "Từ những căn phòng bí mật cho đến những trò đùa tai quái và các thử thách điên rồ, anh em nhà Stokes biến những điều không thể thành hiện thực trong tập phim tổng hợp chuỗi video được xem nhiều nhất của họ."
         },
         {
             "name": "Thời Khắc Công Bố",
@@ -3045,16 +3045,16 @@
             "description": "Nếu một ngày bạn nhận ra rằng chúng ta chưa bao giờ đơn độc, nếu có ai đó đứng trước mặt bạn và chứng minh điều đó là sự thật, liệu việc đó khiến bạn sợ hãi? Mùa Hè 2026, sự thật nằm trong tay của bảy tỷ con người. Chúng ta đang tiến rất gần đến… Thời Khắc Công Bố."
         },
         {
-            "name": "Lẽ Nào Lại Thế",
+            "name": "Tôi Là Nhậm Phi Phàm",
             "year": 2026,
-            "slug": "le-nao-lai-the",
-            "thumb": "https://phimimg.com/uploads/movies/20260718/le-nao-lai-the-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260718/le-nao-lai-the-poster.webp",
+            "slug": "toi-la-nham-phi-pham",
+            "thumb": "https://phimimg.com/uploads/movies/20260715/toi-la-nham-phi-pham-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260715/toi-la-nham-phi-pham-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 19",
+            "current_episode": "Tập 24",
             "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Cố Bắc là một sinh viên năm tư đội sổ, bất ngờ xuyên không vào một vị tướng nhỏ vùng biên giới, dựa vào \"Tiêu Dao Các\" nên được sống an nhàn trong ba năm. Đến khi có thánh chỉ triệu về kinh, cậu phát hiện ra Hoàng đế Tiêu Sách lại chính là bạn cùng phòng ở kiếp trước. Một người muốn nằm yên làm đại gia, người kia lại muốn dốc sức trở thành minh quân vang danh thiên cổ. Hai người hợp lực, áp dụng lối tư duy hiện đại để đấu trí với quan lại lạm quyền, tiêu diệt trùm ma túy, chống giặc Tây Di, tạo nên một màn lật ngược tình thế cười ra nước mắt giữa thời cổ đại."
+            "description": "Phim kể về Nhậm Phi Phàm, cậu chủ Khôi Y Đường, xuất thân từ một gia tộc Trung y nổi tiếng. Sau bốn năm bị hãm hại phải ngồi tù, anh trở về Bắc Thị, từng bước điều tra chân tướng vụ Nhậm gia bị hãm hại, vạch mặt Tập đoàn Dược phẩm nhà họ Vương đứng sau mọi chuyện, đồng thời vực dậy Khôi Y Đường và chống lại âm mưu của các thế lực nước ngoài nhằm xâm lấn di sản văn hóa Trung y. Bên cạnh đó là câu chuyện tình cảm giữa Nhậm Phi Phàm và vị hôn thê Hứa Nhược Cẩm. Sau bốn năm xa cách, hai người gặp lại nhau, rồi dần xích lại gần hơn qua từng lần đồng hành. Giữa cục diện trong ngoài đều gặp khó khăn, Nhậm Phi Phàm và Hứa Nhược Cẩm vẫn luôn tin tưởng, nâng đỡ lẫn nhau và cùng nhau tiến bước."
         },
         {
             "name": "Đặc Vụ Kim Tái Khởi Động",
@@ -3081,11 +3081,11 @@
             "description": "Conan Movie 29, tựa tiếng Nhật là Detective Conan: Highway no Datenshi (Thiên thần sa ngã trên xa lộ), đã được công bố và sẽ ra mắt tại Nhật Bản vào ngày 10/04/2026, tập trung vào các pha hành động tốc độ, sự trở lại của nhân vật \"Nữ thần gió\" Chihaya Hagiwara và một chiếc mô tô bí ẩn. Phim có bối cảnh chính là Cầu vịnh Yokohama và được đạo diễn bởi Takahiro Hasui"
         },
         {
-            "name": "WWE: Hậu Trường (Phần 2)",
+            "name": "WWE: Hậu Trường (Phần 3)",
             "year": 2026,
-            "slug": "wwe-hau-truong-phan-2",
-            "thumb": "https://phimimg.com/uploads/movies/20260726/wwe-hau-truong-phan-2-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260726/wwe-hau-truong-phan-2-poster.webp",
+            "slug": "wwe-hau-truong-phan-3",
+            "thumb": "https://phimimg.com/uploads/movies/20260726/wwe-hau-truong-phan-3-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260726/wwe-hau-truong-phan-3-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Hoàn Tất (5/5)",
             "total_episodes": "5",
