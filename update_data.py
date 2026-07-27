@@ -95,7 +95,7 @@ def main():
 
     print(">>> Đang quét 10 trang đầu từ API Phim Mới Cập Nhật...")
     raw_items = []
-    for page in range(1, 11):  # Giới hạn đúng 10 trang theo log print
+    for page in range(1, 2):  # Giới hạn đúng 10 trang theo log print
         url = f"{BASE_URL}/danh-sach/phim-moi-cap-nhat?page={page}"
         data = get_data(url)
         
