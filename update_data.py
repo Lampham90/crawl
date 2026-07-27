@@ -6,7 +6,6 @@ import random
 from concurrent.futures import ThreadPoolExecutor
 
 # --- CẤU HÌNH ---
-# Sử dụng chính xác endpoint gốc không qua v1/api nữa
 BASE_URL = "https://phimapi.com"
 YEARS_FILTER = [2026, 2025]
 OUTPUT_DIR = "data_categories"
@@ -32,10 +31,34 @@ def get_data(url):
 
 def fetch_detail(slug):
     time.sleep(random.uniform(0.2, 0.4)) 
-    # API chi tiết phim thì vẫn nằm ở v1/api/phim/{slug} chuẩn của hệ thống
     return get_data(f"{BASE_URL}/v1/api/phim/{slug}")
 
-def parse_movie(m):
+def parse_movie(d):
+    """
+    Nhận toàn bộ object json chi tiết 'd' để bóc tách cả thông tin phim lẫn server episodes
+    """
+    m = d.get('data', {}).get('item', {})
+    episodes_raw = d.get('episodes', [])
+    
+    servers_data = []
+    # Bóc tách tất cả server và danh sách tập tương ứng
+    for ep_server in episodes_raw:
+        server_name = ep_server.get('server_name', 'Server')
+        ep_list = []
+        for ep in ep_server.get('server_data', []):
+            ep_list.append({
+                "name": ep.get('name'),
+                "slug": ep.get('slug'),
+                "filename": ep.get('filename'),
+                "link_m3u8": ep.get('link_m3u8'),
+                "link_embed": ep.get('link_embed')
+            })
+        
+        servers_data.append({
+            "server_name": server_name,
+            "episodes": ep_list
+        })
+
     lang = str(m.get('lang', ''))
     return {
         "name": m.get('name'),
@@ -46,8 +69,9 @@ def parse_movie(m):
         "sub_type": "Lồng Tiếng" if "Lồng Tiếng" in lang else ("Thuyết Minh" if "Thuyết Minh" in lang else "Vietsub"),
         "current_episode": m.get('episode_current', 'Full'),
         "total_episodes": str(m.get('episode_total', '1')),
-        "country": m.get('country', [{}])[0].get('name', ''),
-        "description": m.get('content', '').replace('<p>','').replace('</p>','').replace('<br>', '').strip()
+        "country": m.get('country', [{}])[0].get('name', '') if m.get('country') else '',
+        "description": m.get('content', '').replace('<p>','').replace('</p>','').replace('<br>', '').strip(),
+        "servers": servers_data  # 🌟 Đã thêm mảng server chứa link m3u8 vào đây
     }
 
 def main():
@@ -71,12 +95,10 @@ def main():
 
     print(">>> Đang quét 10 trang đầu từ API Phim Mới Cập Nhật...")
     raw_items = []
-    for page in range(1, 25):
-        # 🌟 Gọi chuẩn URL ní đưa kèm tham số page
+    for page in range(1, 11):  # Giới hạn đúng 10 trang theo log print
         url = f"{BASE_URL}/danh-sach/phim-moi-cap-nhat?page={page}"
         data = get_data(url)
         
-        # Cấu trúc trả về của endpoint này là mảng items nằm ở gốc hoặc trong data tùy bản update
         items = []
         if data:
             if isinstance(data, dict):
@@ -97,7 +119,7 @@ def main():
     print(f"✅ Thu thập được {len(raw_items)} phim thô. Đang lọc trùng lặp...")
     seen_slugs = set()
     unique_items = [it for it in raw_items if it.get('slug') and it['slug'] not in seen_slugs and not seen_slugs.add(it['slug'])]
-    print(f"🎯 Còn lại {len(unique_items)} phim duy nhất. Tiến hành lấy chi tiết phân loại...")
+    print(f"🎯 Còn lại {len(unique_items)} phim duy nhất. Tiến hành lấy chi tiết phân loại và link M3U8...")
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         details = list(executor.map(fetch_detail, [it['slug'] for it in unique_items]))
@@ -113,7 +135,9 @@ def main():
         ep_current = str(m.get('episode_current', '')).lower()
         if any(x in ep_current for x in ["trailer", "sắp ra mắt", "coming soon", "tập 0"]): continue
 
-        movie_data = parse_movie(m)
+        # 🌟 Truyền cả object d vào hàm parse
+        movie_data = parse_movie(d)
+        
         m_type = m.get('type', '')
         is_movie = (m_type == 'single' or str(m.get('episode_total')) == "1")
         countries = [c.get('name') for c in m.get('country', [])]
