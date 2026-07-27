@@ -45,16 +45,16 @@ async function updateGist(newDomain) {
     console.log(`[SEARCH] Đang truy cập: ${searchUrl}`);
     await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 60000 });
 
-    // Đợi các thẻ kết quả xuất hiện
-    await page.waitForSelector('.result__snippet, .result__url', { timeout: 30000 });
+    // Đợi trang load các khối kết quả
+    await page.waitForSelector('.result', { timeout: 30000 });
 
-    // Quét lấy tất cả các link kết quả (hỗ trợ cả link chuyển hướng của DuckDuckGo)
+    // Quét toàn bộ các thẻ a có trên trang để tìm link chứa từ khóa
     const validUrl = await page.evaluate(() => {
-      const links = document.querySelectorAll('a.result__url, a.result__snippet');
+      const links = document.querySelectorAll('a');
       for (let a of links) {
         let href = a.href || '';
         
-        // Nếu là link chuyển hướng dạng duckduckgo, bóc tách lấy URL đích bên trong tham số uddg=
+        // Giải mã link chuyển hướng của DuckDuckGo nếu có
         if (href.includes('duckduckgo.com/l/?uddg=')) {
           try {
             const urlParams = new URLSearchParams(new URL(href).search);
@@ -67,8 +67,8 @@ async function updateGist(newDomain) {
 
         try {
           const urlObj = new URL(href);
-          // Kiểm tra xem hostname có chứa từ khóa javhdz không và bỏ qua các trang mạng xã hội/tổng hợp
-          if (urlObj.hostname.includes('javhdz')) {
+          // Lọc chính xác domain chứa từ khóa "javhdz" và bỏ qua các link rác của chính duckduckgo
+          if (urlObj.hostname.includes('javhdz') && !urlObj.hostname.includes('duckduckgo')) {
             return `${urlObj.protocol}//${urlObj.hostname}`;
           }
         } catch (e) {}
