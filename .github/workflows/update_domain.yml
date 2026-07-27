@@ -1,0 +1,33 @@
+name: Auto Update Gist Domain
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *' # Chạy tự động mỗi 6 tiếng một lần
+
+jobs:
+  update-domain:
+    runs-on: ubuntu-latest
+    
+    # Cấp quyền ghi nội dung Gist cho Actions
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          npm init -y
+          npm install puppeteer
+
+      - name: Run script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update-gist.js
