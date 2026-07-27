@@ -45,20 +45,29 @@ async function updateGist(newDomain) {
     console.log(`[SEARCH] Đang truy cập: ${searchUrl}`);
     await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 60000 });
 
-    await page.waitForSelector('.result__url', { timeout: 30000 });
+    // Đợi các thẻ kết quả xuất hiện
+    await page.waitForSelector('.result__snippet, .result__url', { timeout: 30000 });
 
-    // Lọc qua các kết quả để lấy đúng domain chuẩn chứa từ khóa "javhdz"
+    // Quét lấy tất cả các link kết quả (hỗ trợ cả link chuyển hướng của DuckDuckGo)
     const validUrl = await page.evaluate(() => {
-      const linkElements = document.querySelectorAll('.result__url');
-      for (let el of linkElements) {
-        let href = el.innerText.trim();
-        if (!href.startsWith('http')) {
-          href = 'https://' + href;
-        }
+      const links = document.querySelectorAll('a.result__url, a.result__snippet');
+      for (let a of links) {
+        let href = a.href || '';
         
+        // Nếu là link chuyển hướng dạng duckduckgo, bóc tách lấy URL đích bên trong tham số uddg=
+        if (href.includes('duckduckgo.com/l/?uddg=')) {
+          try {
+            const urlParams = new URLSearchParams(new URL(href).search);
+            const targetUrl = urlParams.get('uddg');
+            if (targetUrl) {
+              href = decodeURIComponent(targetUrl);
+            }
+          } catch (e) {}
+        }
+
         try {
           const urlObj = new URL(href);
-          // Bắt buộc domain phải chứa chữ "javhdz" để loại bỏ các trang tào lao
+          // Kiểm tra xem hostname có chứa từ khóa javhdz không và bỏ qua các trang mạng xã hội/tổng hợp
           if (urlObj.hostname.includes('javhdz')) {
             return `${urlObj.protocol}//${urlObj.hostname}`;
           }
@@ -68,7 +77,7 @@ async function updateGist(newDomain) {
     });
 
     if (validUrl) {
-      console.log(`[SUCCESS] Đã lọc và tìm thấy domain chuẩn: ${validUrl}`);
+      console.log(`[SUCCESS] Đã tìm và lọc được domain chuẩn: ${validUrl}`);
       await updateGist(validUrl);
     } else {
       console.log('[WARNING] Không tìm thấy domain hợp lệ chứa từ khóa javhdz.');
