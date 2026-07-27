@@ -1,7 +1,7 @@
 name: Auto Update Movies Data
 
 on:
-  schedule: stop
+  schedule:
     - cron: '0 */4 * * *'
   workflow_dispatch:
 
@@ -32,7 +32,7 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
           
-          # Kiểm tra xem thư mục dữ liệu có thực sự đổi mới so với repo không
+          # Kiểm tra xem thư mục dữ liệu có thay đổi không
           if [ -z "$(git status --porcelain data_categories/)" ]; then
               echo "## 📊 BÁO CÁO CHI TIẾT CẬP NHẬT PHIM" >> $GITHUB_STEP_SUMMARY
               echo "Thời gian quét hệ thống: $(date '+%Y-%m-%d %H:%M:%S') (UTC)" >> $GITHUB_STEP_SUMMARY
@@ -40,15 +40,12 @@ jobs:
               echo "✅ **Giữ nguyên:** Tất cả danh mục đều đã mới nhất, không có phim mới nào so với commit trước." >> $GITHUB_STEP_SUMMARY
               echo "Không có sự thay đổi nào trong dữ liệu file."
           else
-              # Nếu có thay đổi thực tế thì mới in bảng chi tiết ra
               echo "## 📊 BÁO CÁO CHI TIẾT CẬP NHẬT PHIM" >> $GITHUB_STEP_SUMMARY
               echo "Thời gian quét hệ thống: $(date '+%Y-%m-%d %H:%M:%S') (UTC)" >> $GITHUB_STEP_SUMMARY
               echo "" >> $GITHUB_STEP_SUMMARY
               
-              # Ép mã Python chạy trên 1 dòng duy nhất để triệt tiêu lỗi thụt lề (IndentationError)
-              python -c 'import json, os; summary = os.environ.get("GITHUB_STEP_SUMMARY", "summary.md"); (os.path.exists("update_report.json") and open(summary, "a", encoding="utf-8").write("| Danh Mục | Tên Phim | Hành Động | Tập Mới Nhất |\n| :--- | :--- | :--- | :--- |\n" + "".join(["| `" + l["cat"] + "` | **" + l["name"] + "** | " + l["type"] + " | `" + l["ep"] + "` |\n" for l in json.load(open("update_report.json", "r", encoding="utf-8"))]) if json.load(open("update_report.json", "r", encoding="utf-8")) else "✅ **Giữ nguyên:** Không có phim mới."))'
+              python -c 'import json, os; summary = os.environ.get("GITHUB_STEP_SUMMARY", "summary.md"); data = json.load(open("update_report.json", "r", encoding="utf-8")) if os.path.exists("update_report.json") else []; open(summary, "a", encoding="utf-8").write("| Danh Mục | Tên Phim | Hành Động | Tập Mới Nhất |\n| :--- | :--- | :--- | :--- |\n" + "".join(["| `" + l["cat"] + "` | **" + l["name"] + "** | " + l["type"] + " | `" + l["ep"] + "` |\n" for l in data]) if data else "✅ **Giữ nguyên:** Không có phim mới.")'
               
-              # Tiến hành push dữ liệu lên repo
               git add data_categories/
               git commit -m "🤖 [Bot] Cap nhat chi tiet cac tap phim moi"
               git push
