@@ -9,7 +9,7 @@ async function updateGist(newDomain) {
     method: 'PATCH',
     headers: {
       'Authorization': `Bearer ${GITHUB_TOKEN}`,
-      'Accept': 'application/vnd.github+json',
+      'Accept': 'vnd.github+json',
       'X-GitHub-Api-Version': '2022-11-28',
       'User-Agent': 'Node.js-Script'
     },
@@ -33,7 +33,12 @@ async function updateGist(newDomain) {
   console.log('[BROWSER] Đang khởi động trình duyệt...');
   const browser = await puppeteer.launch({
     headless: 'new',
-    args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--lang=vi-VN,vi']
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-dev-shm-usage',
+      '--lang=vi-VN,vi'
+    ]
   });
 
   const page = await browser.newPage();
@@ -41,50 +46,45 @@ async function updateGist(newDomain) {
   await page.setViewport({ width: 1920, height: 1080 });
 
   try {
-    const searchUrl = `https://html.duckduckgo.com/html/?q=javhdz`;
-    console.log(`[SEARCH] Đang truy cập: ${searchUrl}`);
+    const keyword = 'javhdz';
+    // Sử dụng DuckDuckGo thay vì Google để tránh bị chặn bot
+    const searchUrl = `https://html.duckduckgo.com/html/?q=${encodeURIComponent(keyword)}`;
+    
+    console.log(`[SEARCH] Đang truy cập DuckDuckGo: ${searchUrl}`);
     await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 60000 });
 
-    // Đợi trang load các khối kết quả
-    await page.waitForSelector('.result', { timeout: 30000 });
+    console.log('[SEARCH] Đang tìm kết quả đầu tiên...');
+    // DuckDuckGo bản HTML thuần có cấu trúc link kết quả rất chuẩn và ổn định
+    await page.waitForSelector('.result__url', { timeout: 30000 });
 
-    // Quét toàn bộ các thẻ a có trên trang để tìm link chứa từ khóa
-    const validUrl = await page.evaluate(() => {
-      const links = document.querySelectorAll('a');
-      for (let a of links) {
-        let href = a.href || '';
-        
-        // Giải mã link chuyển hướng của DuckDuckGo nếu có
-        if (href.includes('duckduckgo.com/l/?uddg=')) {
-          try {
-            const urlParams = new URLSearchParams(new URL(href).search);
-            const targetUrl = urlParams.get('uddg');
-            if (targetUrl) {
-              href = decodeURIComponent(targetUrl);
-            }
-          } catch (e) {}
+    const firstResultUrl = await page.evaluate(() => {
+      const firstLink = document.querySelector('.result__url');
+      if (firstLink) {
+        let href = firstLink.innerText.trim();
+        // Thêm https:// nếu chưa có
+        if (!href.startsWith('http')) {
+          href = 'https://' + href;
         }
-
-        try {
-          const urlObj = new URL(href);
-          // Lọc chính xác domain chứa từ khóa "javhdz" và bỏ qua các link rác của chính duckduckgo
-          if (urlObj.hostname.includes('javhdz') && !urlObj.hostname.includes('duckduckgo')) {
-            return `${urlObj.protocol}//${urlObj.hostname}`;
-          }
-        } catch (e) {}
+        return href;
       }
       return null;
     });
 
-    if (validUrl) {
-      console.log(`[SUCCESS] Đã tìm và lọc được domain chuẩn: ${validUrl}`);
-      await updateGist(validUrl);
+    if (firstResultUrl) {
+      const urlObj = new URL(firstResultUrl);
+      const domainOnly = `${urlObj.protocol}//${urlObj.hostname}`;
+      
+      console.log(`[SUCCESS] Tìm thấy trang web đầu tiên: ${firstResultUrl}`);
+      console.log(`[SUCCESS] Domain trích xuất: ${domainOnly}`);
+
+      // Ghi lên Gist
+      await updateGist(domainOnly);
     } else {
-      console.log('[WARNING] Không tìm thấy domain hợp lệ chứa từ khóa javhdz.');
+      console.log('[WARNING] Không tìm thấy link kết quả trên DuckDuckGo.');
     }
 
   } catch (error) {
-    console.error('[ERROR] Lỗi:', error.message);
+    console.error('[ERROR] Đã xảy ra lỗi:', error.message);
   } finally {
     await browser.close();
     console.log('[BROWSER] Đã đóng trình duyệt.');
