@@ -1,5 +1,33 @@
 const puppeteer = require('puppeteer');
-const fs = require('fs');
+
+const GIST_ID = 'ffd69254e5dea5892b2d38f1a7edb63f';
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+
+async function updateGist(newDomain) {
+  console.log(`[GIST] Đang cập nhật Gist với domain mới: ${newDomain}`);
+  const response = await fetch(`https://api.github.com/gists/${GIST_ID}`, {
+    method: 'PATCH',
+    headers: {
+      'Authorization': `Bearer ${GITHUB_TOKEN}`,
+      'Accept': 'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28',
+      'User-Agent': 'Node.js-Script'
+    },
+    body: JSON.stringify({
+      files: {
+        'domain.txt': {
+          content: newDomain
+        }
+      }
+    })
+  });
+
+  if (response.ok) {
+    console.log('[GIST] Cập nhật Gist thành công!');
+  } else {
+    console.error('[GIST] Lỗi khi cập nhật Gist:', await response.text());
+  }
+}
 
 (async () => {
   console.log('[BROWSER] Đang khởi động trình duyệt...');
@@ -19,7 +47,7 @@ const fs = require('fs');
 
     await page.waitForSelector('.result__url', { timeout: 30000 });
 
-    // Lọc qua tất cả các kết quả trả về để tìm domain chuẩn xác chứa từ khóa
+    // Lọc qua các kết quả để lấy đúng domain chuẩn chứa từ khóa "javhdz"
     const validUrl = await page.evaluate(() => {
       const linkElements = document.querySelectorAll('.result__url');
       for (let el of linkElements) {
@@ -30,25 +58,20 @@ const fs = require('fs');
         
         try {
           const urlObj = new URL(href);
-          // ĐIỀU KIỆN LỌC: Domain bắt buộc phải chứa chữ "javhdz" để loại bỏ trang tào lao
+          // Bắt buộc domain phải chứa chữ "javhdz" để loại bỏ các trang tào lao
           if (urlObj.hostname.includes('javhdz')) {
             return `${urlObj.protocol}//${urlObj.hostname}`;
           }
-        } catch (e) {
-          // Bỏ qua nếu URL lỗi
-        }
+        } catch (e) {}
       }
       return null;
     });
 
     if (validUrl) {
       console.log(`[SUCCESS] Đã lọc và tìm thấy domain chuẩn: ${validUrl}`);
-
-      // Ghi đè vào file domain.txt trong repo
-      fs.writeFileSync('domain.txt', validUrl, 'utf8');
-      console.log('[FILE] Đã ghi thành công vào domain.txt');
+      await updateGist(validUrl);
     } else {
-      console.log('[WARNING] Không tìm thấy domain hợp lệ chứa từ khóa javhdz trong kết quả.');
+      console.log('[WARNING] Không tìm thấy domain hợp lệ chứa từ khóa javhdz.');
     }
 
   } catch (error) {
