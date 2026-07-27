@@ -9,7 +9,7 @@ async function updateGist(newDomain) {
     method: 'PATCH',
     headers: {
       'Authorization': `Bearer ${GITHUB_TOKEN}`,
-      'Accept': 'vnd.github+json',
+      'Accept': 'application/vnd.github+json',
       'X-GitHub-Api-Version': '2022-11-28',
       'User-Agent': 'Node.js-Script'
     },
@@ -33,12 +33,7 @@ async function updateGist(newDomain) {
   console.log('[BROWSER] Đang khởi động trình duyệt...');
   const browser = await puppeteer.launch({
     headless: 'new',
-    args: [
-      '--no-sandbox',
-      '--disable-setuid-sandbox',
-      '--disable-dev-shm-usage',
-      '--lang=vi-VN,vi'
-    ]
+    args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--lang=vi-VN,vi']
   });
 
   const page = await browser.newPage();
@@ -46,45 +41,24 @@ async function updateGist(newDomain) {
   await page.setViewport({ width: 1920, height: 1080 });
 
   try {
-    const keyword = 'javhdz';
-    // Sử dụng DuckDuckGo thay vì Google để tránh bị chặn bot
-    const searchUrl = `https://html.duckduckgo.com/html/?q=${encodeURIComponent(keyword)}`;
+    const oldDomainUrl = 'https://javhdz.im/';
+    console.log(`[NAVIGATE] Đang truy cập domain cũ: ${oldDomainUrl}`);
     
-    console.log(`[SEARCH] Đang truy cập DuckDuckGo: ${searchUrl}`);
-    await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 60000 });
+    // Mở link cũ và chờ trang tự động redirect sang domain mới
+    await page.goto(oldDomainUrl, { waitUntil: 'networkidle2', timeout: 60000 });
 
-    console.log('[SEARCH] Đang tìm kết quả đầu tiên...');
-    // DuckDuckGo bản HTML thuần có cấu trúc link kết quả rất chuẩn và ổn định
-    await page.waitForSelector('.result__url', { timeout: 30000 });
+    // Lấy URL thực tế sau khi trang đã nhảy hướng hoàn tất
+    const finalUrl = page.url();
+    const urlObj = new URL(finalUrl);
+    const finalDomain = `${urlObj.protocol}//${urlObj.hostname}`;
 
-    const firstResultUrl = await page.evaluate(() => {
-      const firstLink = document.querySelector('.result__url');
-      if (firstLink) {
-        let href = firstLink.innerText.trim();
-        // Thêm https:// nếu chưa có
-        if (!href.startsWith('http')) {
-          href = 'https://' + href;
-        }
-        return href;
-      }
-      return null;
-    });
+    console.log(`[SUCCESS] Domain chính thức sau khi điều hướng: ${finalDomain}`);
 
-    if (firstResultUrl) {
-      const urlObj = new URL(firstResultUrl);
-      const domainOnly = `${urlObj.protocol}//${urlObj.hostname}`;
-      
-      console.log(`[SUCCESS] Tìm thấy trang web đầu tiên: ${firstResultUrl}`);
-      console.log(`[SUCCESS] Domain trích xuất: ${domainOnly}`);
-
-      // Ghi lên Gist
-      await updateGist(domainOnly);
-    } else {
-      console.log('[WARNING] Không tìm thấy link kết quả trên DuckDuckGo.');
-    }
+    // Ghi thẳng lên Gist
+    await updateGist(finalDomain);
 
   } catch (error) {
-    console.error('[ERROR] Đã xảy ra lỗi:', error.message);
+    console.error('[ERROR] Lỗi:', error.message);
   } finally {
     await browser.close();
     console.log('[BROWSER] Đã đóng trình duyệt.');
