@@ -37,58 +37,35 @@ async function updateGist(newDomain) {
       '--no-sandbox',
       '--disable-setuid-sandbox',
       '--disable-dev-shm-usage',
-      '--lang=vi-VN,vi',
-      '--window-size=1920,1080'
+      '--lang=vi-VN,vi'
     ]
   });
 
   const page = await browser.newPage();
-
-  // Giả lập thông tin thiết bị và trình duyệt chuẩn
   await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36');
   await page.setViewport({ width: 1920, height: 1080 });
-  
-  // Đặt header Accept-Language mạnh để ưu tiên tiếng Việt/tiếng Anh, tránh trang ngôn ngữ địa phương lạ
-  await page.setExtraHTTPHeaders({
-    'Accept-Language': 'vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7'
-  });
 
   try {
     const keyword = 'javhdz';
-    const searchUrl = `https://www.google.com/search?q=${encodeURIComponent(keyword)}&hl=vi`;
+    // Sử dụng DuckDuckGo thay vì Google để tránh bị chặn bot
+    const searchUrl = `https://html.duckduckgo.com/html/?q=${encodeURIComponent(keyword)}`;
     
-    console.log(`[GOOGLE] Đang truy cập thẳng link tìm kiếm: ${searchUrl}`);
+    console.log(`[SEARCH] Đang truy cập DuckDuckGo: ${searchUrl}`);
     await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 60000 });
 
-    // Xử lý trang Cookie Consent của Google (nếu có) trước khi tìm kết quả
-    try {
-      console.log('[GOOGLE] Kiểm tra xem có bị vướng trang Cookie Consent không...');
-      // Tìm nút "Reject all" hoặc "Từ chối tất cả" (bằng nhiều loại selector khác nhau của Google)
-      const cookieButton = await page.$('button[id="W0wltc"], div.QS5gu.sy4vM');
-      if (cookieButton) {
-         console.log('[GOOGLE] Phát hiện trang Cookie. Đang click Từ chối...');
-         await cookieButton.click();
-         await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 30000 });
-      } else {
-         console.log('[GOOGLE] Không thấy trang Cookie, tiếp tục tìm kiếm.');
-      }
-    } catch (e) {
-      console.log('[GOOGLE] Bỏ qua kiểm tra Cookie.');
-    }
+    console.log('[SEARCH] Đang tìm kết quả đầu tiên...');
+    // DuckDuckGo bản HTML thuần có cấu trúc link kết quả rất chuẩn và ổn định
+    await page.waitForSelector('.result__url', { timeout: 30000 });
 
-    console.log('[GOOGLE] Đang tìm kiếm phần tử kết quả...');
-    // Cố gắng đợi thẻ chứa kết quả
-    await page.waitForSelector('div#search, div#main', { timeout: 30000 });
-
-    console.log('[GOOGLE] Phân tích URL trang web đầu tiên...');
     const firstResultUrl = await page.evaluate(() => {
-      // Tìm kiếm các thẻ a chứa URL thực tế trong vùng kết quả
-      const links = document.querySelectorAll('div#search a, div#main a');
-      for (let a of links) {
-        // Bỏ qua các link nội bộ của google
-        if (a.href && a.href.startsWith('http') && !a.href.includes('google.com')) {
-           return a.href;
+      const firstLink = document.querySelector('.result__url');
+      if (firstLink) {
+        let href = firstLink.innerText.trim();
+        // Thêm https:// nếu chưa có
+        if (!href.startsWith('http')) {
+          href = 'https://' + href;
         }
+        return href;
       }
       return null;
     });
@@ -97,17 +74,13 @@ async function updateGist(newDomain) {
       const urlObj = new URL(firstResultUrl);
       const domainOnly = `${urlObj.protocol}//${urlObj.hostname}`;
       
-      console.log(`[SUCCESS] Trang web đầu tiên tìm được: ${firstResultUrl}`);
+      console.log(`[SUCCESS] Tìm thấy trang web đầu tiên: ${firstResultUrl}`);
       console.log(`[SUCCESS] Domain trích xuất: ${domainOnly}`);
 
       // Ghi lên Gist
       await updateGist(domainOnly);
     } else {
-      console.log('[WARNING] Không trích xuất được link từ kết quả trả về. Có thể Google đã thay đổi giao diện hoặc trả về trang báo lỗi.');
-      
-      // In ra nội dung text để debug
-      const pageText = await page.evaluate(() => document.body.innerText.substring(0, 500));
-      console.log(`[DEBUG] Nội dung trang hiện tại (500 ký tự đầu):\n${pageText}`);
+      console.log('[WARNING] Không tìm thấy link kết quả trên DuckDuckGo.');
     }
 
   } catch (error) {
