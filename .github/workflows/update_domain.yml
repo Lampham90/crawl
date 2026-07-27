@@ -27,7 +27,7 @@ jobs:
           npm install puppeteer
 
       - name: Run script
-        run: node update-gist.js
+        run: node update-domain.js
 
       - name: Commit and push domain.txt
         run: |
