@@ -9,8 +9,10 @@ jobs:
   update-domain:
     runs-on: ubuntu-latest
     
+    # THAY ĐỔI QUYỀN Ở ĐÂY: Thêm quyền gist: write
     permissions:
       contents: read
+      gists: write
 
     steps:
       - name: Checkout code
@@ -29,4 +31,4 @@ jobs:
       - name: Run script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node update-gist.js  # <-- Sửa lại ở đây (bỏ thư mục scripts/)
+        run: node update-gist.js
