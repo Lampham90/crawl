@@ -1,5 +1,29 @@
 [
     {
+        "name": "Kẻ Thu Nợ",
+        "year": 2026,
+        "slug": "ke-thu-no",
+        "thumb": "https://phimimg.com/uploads/movies/20260723/ke-thu-no-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260723/ke-thu-no-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Thái Lan",
+        "description": "Bị ám ảnh bởi cảm giác tội lỗi sau khi ra tù, một cựu đòi nợ thuê phải chạy đua với căn bệnh hiểm nghèo, quay trở lại thế giới ngầm cũ để trả thù cho các nạn nhân của tín dụng đen và tìm kiếm sự chuộc tội."
+    },
+    {
+        "name": "Đồng Dao Ma Quái (Bàn Cờ Ma)",
+        "year": 2026,
+        "slug": "dong-dao-ma-quai-ban-co-ma",
+        "thumb": "https://phimimg.com/uploads/movies/20260719/dong-dao-ma-quai-ban-co-ma-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260719/dong-dao-ma-quai-ban-co-ma-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Thái Lan",
+        "description": "Mỗi lần gieo xúc xắc là mỗi lần quỷ xuất hiện. Trong lúc dọn dẹp một ngôi đền bỏ hoang, một nhóm trẻ vô tình tìm thấy bàn cờ cổ bị phong ấn từ lâu. Sau khi gieo viên xúc xắc bí ẩn và đọc lên những câu đồng dao kỳ lạ, chúng nhận ra mình đã bắt đầu một trò chơi chết chóc. Mỗi lượt chơi đều kéo theo sự xuất hiện của những linh hồn đáng sợ, buộc cả nhóm phải tìm cách phá giải lời nguyền trước khi trời sáng."
+    },
+    {
         "name": "Ngôi Đền Kỳ Quái 5",
         "year": 2026,
         "slug": "ngoi-den-ky-quai-5",
@@ -304,28 +328,6 @@
         "slug": "vo-si-diet-xac-song",
         "thumb": "https://phimimg.com/upload/vod/20250710-1/699940c04e38f096201c30bcc72bdcf3.jpg",
         "poster": "https://phimimg.com/upload/vod/20250710-1/8744931e10e1cf92281f19715eba025a.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "thai-lan"
-    },
-    {
-        "name": "Khoảng Cách Giữa Đôi Ta",
-        "year": 2025,
-        "slug": "khoang-cach-giua-doi-ta",
-        "thumb": "https://phimimg.com/upload/vod/20250613-1/712ffd81bf3307ace859e2ffe1e1018c.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250613-1/123cd6396460f6c99a39b164231ed66d.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "thai-lan"
-    },
-    {
-        "name": "Thứ Hai Vui Vẻ",
-        "year": 2025,
-        "slug": "thu-hai-vui-ve",
-        "thumb": "https://phimimg.com/upload/vod/20250522-1/b9ef5fb045c57fa4656f36eb9aa9dd60.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250522-1/028af5ba072afab1374ee2f29dea7298.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",

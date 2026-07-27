@@ -1,27 +1,75 @@
 [
     {
+        "name": "Anh Sam Của Em",
+        "year": 2026,
+        "slug": "anh-sam-cua-em",
+        "thumb": "https://phimimg.com/uploads/movies/20260727/anh-sam-cua-em-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260727/anh-sam-cua-em-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "12",
+        "country": "Thái Lan",
+        "description": "Một thư ký được giao nhiệm vụ đi đưa người em trai bỏ nhà ra đi của sếp mình trở về. Tuy nhiên, trong quá trình tiếp cận, anh lại đem lòng yêu chính người đàn ông đang bị tổn thương vì tình yêu mà mình có nhiệm vụ phải đưa về nhà."
+    },
+    {
+        "name": "Cuộc Chạy Đua Của Tình Và Tiền",
+        "year": 2026,
+        "slug": "cuoc-chay-dua-cua-tinh-va-tien",
+        "thumb": "https://phimimg.com/upload/vod/20260629-1/b8d61d3c356a30941f0548973005b5cc.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260629-1/d9d82ad102c98c4f158d025ed0b81b6b.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 9",
+        "total_episodes": "19",
+        "country": "Thái Lan",
+        "description": "Tình yêu, ước mơ, cuộc sống mưu sinh xoáy vào nhau khi nhóm &quot;Gen Me&quot; đối diện nhịp sống hối hả ở Thái Lan, nơi trưởng thành đánh đổi bằng nước mắt, tình cảm và sự thật nghiệt ngã."
+    },
+    {
+        "name": "Xích Tình Rực Lửa",
+        "year": 2026,
+        "slug": "xich-tinh-ruc-lua",
+        "thumb": "https://phimimg.com/uploads/movies/20260712/xich-tinh-ruc-lua-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260712/xich-tinh-ruc-lua-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Tại vùng đất phương Nam, \"Fai\" Atchima Watinwanich có dịp tái ngộ với người đối đầu cũ của mình là \"Kaprao\" Athitaya Thitsama — một cuộc gặp gỡ có thể thắp lên ngọn lửa tình yêu hoặc sẽ lại vạch trần những vết thương cũ chưa lành."
+    },
+    {
+        "name": "Tỉnh Táo Rồi, Lookpeach",
+        "year": 2026,
+        "slug": "tinh-tao-roi-lookpeach",
+        "thumb": "https://phimimg.com/uploads/movies/20260712/tinh-tao-roi-lookpeach-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260712/tinh-tao-roi-lookpeach-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "4",
+        "country": "Thái Lan",
+        "description": "Sau đám cưới, Thee và Peach cùng nhau đón nhận những niềm vui lẫn sự hỗn loạn của cuộc sống hôn nhân, đồng thời dần tìm ra nhịp điệu sống hòa hợp của riêng hai người."
+    },
+    {
+        "name": "Hội Chứng Mê Bạn Cùng Lớp",
+        "year": 2026,
+        "slug": "hoi-chung-me-ban-cung-lop",
+        "thumb": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Chuyển đến trường cấp ba hàng đầu, chàng trai nuôi mộng trở thành ngôi sao nhạc rock Leerit thề sẽ tránh xa chuyện yêu đương, nhưng nhanh chóng đổi ý khi gặp bạn cùng phòng mới."
+    },
+    {
         "name": "Ý Chí Kim Cương",
         "year": 2026,
         "slug": "y-chi-kim-cuong",
         "thumb": "https://phimimg.com/upload/vod/20260619-1/d27cee3db697f0b6d6ca7d22b14be2f2.jpg",
         "poster": "https://phimimg.com/upload/vod/20260619-1/ca96e7f068f84776ca2b4e52b9e971bc.jpg",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 22",
+        "current_episode": "Tập 27",
         "total_episodes": "30",
         "country": "Thái Lan",
         "description": "Chàng nhạc công tài năng xuất thân nghèo khó và một nữ sinh trung học giàu có nảy sinh tình cảm giữa những mối thù địch cá nhân và một biến cố làm thay đổi cuộc đời."
-    },
-    {
-        "name": "Vẽ Nên Giấc Mơ Ngày Cưới",
-        "year": 2026,
-        "slug": "ve-nen-giac-mo-ngay-cuoi",
-        "thumb": "https://phimimg.com/upload/vod/20260620-1/d61fcd20fba7e8b05fc0846bf1562be6.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260620-1/4e75731d01ce9578582f65d9b21fb276.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Dù vẫn còn tình cảm với nhau nhưng bị mẹ của Runch chia cắt, hai người phụ nữ phải giả vờ rằng cuộc hôn nhân của họ vẫn hạnh phúc để hoàn tất một thương vụ kinh doanh quan trọng."
     },
     {
         "name": "Theo Đuổi Tình Yêu",
@@ -30,10 +78,22 @@
         "thumb": "https://phimimg.com/upload/vod/20260608-1/676bc74f4423d409f268fd914d11bb14.jpg",
         "poster": "https://phimimg.com/upload/vod/20260608-1/44184d13c7951494a74e957e4919b17b.jpg",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
+        "current_episode": "Hoàn Tất (8/8)",
         "total_episodes": "8",
         "country": "Thái Lan",
         "description": "Song, một nữ nghiên cứu sinh ẩm thực mang phong cách &quot;mọt sách quyến rũ&quot;, đã có một đêm cuồng nhiệt với một người phụ nữ bí ẩn dưới một điều kiện nghiêm ngặt: không ràng buộc tình cảm. Thế nhưng, đối phương đã vi phạm thỏa thuận khi chủ động đòi hỏi một sự gắn kết về mặt cảm xúc. Song lập tức chấm dứt cuộc gặp gỡ nóng bỏng ấy và quay lưng bước đi.&nbsp; Nhưng trái đất quả thực rất tròn. Người phụ nữ đêm đó hóa ra lại là Piangrawin — con gái cưng của chủ tịch tập đoàn nơi Song đang làm việc. Và Piangrawin thì không dễ dàng buông tay đến vậy. Cô nàng bắt đầu theo đuổi Song với sự si mê và trung thành như một chú cún con, dùng sự quyến rũ đầy táo bạo của mình để len lỏi và làm đảo lộn cả trái tim lẫn cuộc sống thường nhật của Song. Thậm chí, cô còn tuyên bố rằng mình đã đặt sẵn tên cho đứa con tương lai của hai người."
+    },
+    {
+        "name": "Vẽ Nên Giấc Mơ Ngày Cưới",
+        "year": 2026,
+        "slug": "ve-nen-giac-mo-ngay-cuoi",
+        "thumb": "https://phimimg.com/upload/vod/20260620-1/d61fcd20fba7e8b05fc0846bf1562be6.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260620-1/4e75731d01ce9578582f65d9b21fb276.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "12",
+        "country": "Thái Lan",
+        "description": "Dù vẫn còn tình cảm với nhau nhưng bị mẹ của Runch chia cắt, hai người phụ nữ phải giả vờ rằng cuộc hôn nhân của họ vẫn hạnh phúc để hoàn tất một thương vụ kinh doanh quan trọng."
     },
     {
         "name": "San Hô Đen",
@@ -42,7 +102,7 @@
         "thumb": "https://phimimg.com/upload/vod/20260701-1/881de1d0760ad2caca0e4d29d0446b46.jpg",
         "poster": "https://phimimg.com/upload/vod/20260701-1/99666fb21a725348c860a349591ca7c0.jpg",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 15",
+        "current_episode": "Tập 20",
         "total_episodes": "30",
         "country": "Thái Lan",
         "description": "Sau tai nạn lặn suýt chết khiến máy ảnh của Narathon bị hỏng, anh gặp Kaimook, một sinh viên đang gây tiếng vang với tài nhiếp ảnh dưới nước. Cả hai lập tức khắc khẩu."
@@ -54,34 +114,22 @@
         "thumb": "https://phimimg.com/upload/vod/20260628-1/a95d26463927cbc3490db630c8f8f16a.jpg",
         "poster": "https://phimimg.com/upload/vod/20260628-1/579b51f4dd34a72eb28ee9ab9e2c57ca.jpg",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
+        "current_episode": "Tập 5",
         "total_episodes": "12",
         "country": "Thái Lan",
         "description": "Một cầu thủ bóng đá kết bạn với một thực thể ban điều ước đầy bí ẩn, nhưng những món quà nguy hiểm từ thực thể này lại che giấu những bí mật đen tối, vô tình kéo hai người lại gần nhau hơn."
     },
     {
-        "name": "Manga Sát Lệnh",
+        "name": "Hãy Là Người Chơi Thứ Hai Của Tôi",
         "year": 2026,
-        "slug": "manga-sat-lenh",
-        "thumb": "https://phimimg.com/uploads/movies/20260709/manga-sat-lenh-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260709/manga-sat-lenh-poster.webp",
+        "slug": "hay-la-nguoi-choi-thu-hai-cua-toi",
+        "thumb": "https://phimimg.com/uploads/movies/20260718/hay-la-nguoi-choi-thu-hai-cua-toi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260718/hay-la-nguoi-choi-thu-hai-cua-toi-poster.webp",
         "sub_type": "Vietsub",
         "current_episode": "Tập 2",
         "total_episodes": "10",
         "country": "Thái Lan",
-        "description": "Kay, một họa sĩ manga nổi tiếng, bất ngờ bị cuốn vào cuộc điều tra một vụ án giết người hàng loạt khi các nạn nhân, phương thức gây án và hiện trường đều giống đến rợn người với những tình tiết trong tác phẩm anh từng sáng tác. Điều này khiến Phát, thanh tra phụ trách vụ án, đưa Kay vào tầm theo dõi sát sao. Buộc phải hợp tác trong quá trình điều tra, Kay và Phát cùng nhau lần theo từng manh mối để tìm ra sự thật và danh tính kẻ sát nhân. Khi cuộc điều tra dần hé mở những bí ẩn, sự nghi ngờ ban đầu cũng từng bước nhường chỗ cho niềm tin, kéo hai người xích lại gần nhau hơn theo cách mà cả hai đều không ngờ tới. Thế nhưng, càng đào sâu, những bí mật bị chôn vùi trong quá khứ càng lần lượt được phơi bày. Khi mỗi sự thật mới đều thử thách mối quan hệ giữa họ, Kay và Phát phải quyết định liệu họ có thể cùng nhau đối mặt với hiểm nguy hay sẽ trở thành những mục tiêu tiếp theo của kẻ sát nhân."
-    },
-    {
-        "name": "Tiếng Anh Thành Tiếng Yêu",
-        "year": 2026,
-        "slug": "tieng-anh-thanh-tieng-yeu",
-        "thumb": "https://phimimg.com/upload/vod/20260624-1/6e87f321ab981ee0c3ecd25cb4fcc76d.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260624-1/343a4926192b76407591f65c006d823b.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 8",
-        "total_episodes": "14",
-        "country": "Thái Lan",
-        "description": "Bộ phim&nbsp;là hành trình tình yêu giữa một gia sư điển trai và một nữ minh tinh nổi tiếng. Vì muốn hòa nhập với gia đình thượng lưu của bạn trai cũng như để chuẩn bị cho vai diễn nói tiếng Anh sắp tới, nữ diễn viên Eva quyết định theo học tiếng Anh với chàng gia sư Pun. Sau một thời gian tiếp xúc, giữa họ bắt đầu nảy sinh tình cảm. Khi tính mạng của Eva bị đe dọa, Pun phải kiêm luôn vai trò vệ sĩ để bảo vệ cô. Tình yêu của họ liệu có thể vượt qua những sóng gió đang chờ phía trước?"
+        "description": "Đây là một bộ phim hài lãng mạn vô cùng chữa lành. Chàng streamer game siêu nổi tiếng nhưng độc miệng tên \"Three\" bất ngờ thua trước một người chơi mới thanh thuần tên \"Soh\" ngay trên sóng livestream. Chuyện vốn dĩ bắt đầu từ một cuộc đi \"Tìm kiếm đối thủ cạnh tranh\" lại bất ngờ biến thành hành trình \"Tình cờ gặp gỡ tình yêu\". Người tưởng chừng như chỉ biết \"quấy rối tinh thần\" lại chính là người \"làm trái tim rung động\". Trên con đường theo đuổi ước mơ eSports, họ không chỉ phải đối mặt với thử thách từ các trận đấu game mà còn phải học cách đối diện với thứ tình cảm không thể dễ dàng nhấn nút \"khởi động lại\"."
     },
     {
         "name": "Tám Tay Lừa Đảo",
@@ -90,10 +138,82 @@
         "thumb": "https://phimimg.com/upload/vod/20260619-1/9e93d64325569582ddae5c844a3c1d4d.jpg",
         "poster": "https://phimimg.com/upload/vod/20260702-1/662375d82c0df6023d38812cb33f4661.jpg",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
+        "current_episode": "Tập 11",
         "total_episodes": "19",
         "country": "Thái Lan",
         "description": "Miễn cưỡng liên thủ, tám tay lừa đảo toan thực hiện phi vụ nguy hiểm nhất từ trước đến nay: lừa chính những tên tội phạm đứng sau một mạng lưới lừa đảo ngầm khổng lồ."
+    },
+    {
+        "name": "Cây cam ở nhà cậu ấy nhưng quả cam luôn rơi sang nhà tôi",
+        "year": 2026,
+        "slug": "cay-cam-o-nha-cau-ay-nhung-qua-cam-luon-roi-sang-nha-toi",
+        "thumb": "https://phimimg.com/upload/vod/20260604-1/0bac1b5f368a775a32cbcce15d0a254d.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260604-1/5eba4d6cc1ea46ac42f086d9e9e3c844.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 10",
+        "total_episodes": "12",
+        "country": "Thái Lan",
+        "description": "Ko là một cậu bé mê cam hơn bất cứ thứ gì trên đời - nhưng không phải cam nào cậu cũng thích. Nhất định phải là cam từ cây ở nhà bên cạnh mới được. Không có loại cam nào ngon bằng, cũng chẳng có loại nào khiến cậu hạnh phúc đến thế. Thơm, ngọt, ngon lành - mọi thứ về những quả cam nhà trồng ấy, Ko đều yêu thích vô cùng. Chỉ có một điều ngoại lệ: chủ nhân thật sự của cây cam đó. Cậu con trai mang cái tên ngầu y hệt tên cậu. Vì hai người trùng tên nên mọi người gọi cậu ta là “Ko Hai”, theo cách gọi quen thuộc mỗi khi có hai người cùng tên. Và thế là Ko nghiễm nhiên trở thành “Ko Một”. Nhưng ngoài cái tên giống nhau ra, cả hai chẳng có điểm gì chung. Tính cách trái ngược hoàn toàn - như thể ông trời đã phái một vị thần tối cao xuống để trừng trị con quỷ cam tinh nghịch vậy. Trong lúc câu chuyện của hai Ko dần mở ra, họ cũng lớn lên - không chỉ về dáng hình mà cả những cảm xúc âm thầm nảy nở trong tim."
+    },
+    {
+        "name": "Tiếng Anh Thành Tiếng Yêu",
+        "year": 2026,
+        "slug": "tieng-anh-thanh-tieng-yeu",
+        "thumb": "https://phimimg.com/upload/vod/20260624-1/6e87f321ab981ee0c3ecd25cb4fcc76d.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260624-1/343a4926192b76407591f65c006d823b.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 10",
+        "total_episodes": "14",
+        "country": "Thái Lan",
+        "description": "Bộ phim&nbsp;là hành trình tình yêu giữa một gia sư điển trai và một nữ minh tinh nổi tiếng. Vì muốn hòa nhập với gia đình thượng lưu của bạn trai cũng như để chuẩn bị cho vai diễn nói tiếng Anh sắp tới, nữ diễn viên Eva quyết định theo học tiếng Anh với chàng gia sư Pun. Sau một thời gian tiếp xúc, giữa họ bắt đầu nảy sinh tình cảm. Khi tính mạng của Eva bị đe dọa, Pun phải kiêm luôn vai trò vệ sĩ để bảo vệ cô. Tình yêu của họ liệu có thể vượt qua những sóng gió đang chờ phía trước?"
+    },
+    {
+        "name": "Bạn Gái Người Máy",
+        "year": 2026,
+        "slug": "ban-gai-nguoi-may",
+        "thumb": "https://phimimg.com/upload/vod/20260702-1/88140f84f7bde451cb436d2693f74efb.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260702-1/9ddc66c01bd307e5fd64162459ea38d5.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Cuộc sống yên bình của Jen bị đảo lộn khi Ai, một robot bí ẩn có ngoại hình giống hệt cô gái trong mộng của cô, xuất hiện và gọi cô là &quot;Chủ nhân&quot;. Bị buộc phải sống chung, Jen không ngờ rằng mình lại đem lòng yêu cỗ máy tinh nghịch này. Khi mối liên kết giữa họ ngày càng sâu đậm, cô phải đối mặt với câu hỏi cuối cùng: Ai chỉ là một chương trình lỗi lạc, hay chính là tình yêu của đời cô?"
+    },
+    {
+        "name": "Bà Đồng Muifei (Muội Phi)",
+        "year": 2026,
+        "slug": "ba-dong-muifei-muoi-phi",
+        "thumb": "https://phimimg.com/upload/vod/20260618-1/4daf691fdbcabbedc0890a863677c9ad.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260618-1/1c5c2f1516d809ce698ddac881b72bde.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 12",
+        "total_episodes": "20",
+        "country": "Thái Lan",
+        "description": "Bà Đồng Muifei là một cô gái trẻ sống trong một ngôi làng ở vùng núi, mang trên vai trách nhiệm gánh chịu những điều bất hạnh và đau khổ thay cho cộng đồng. Cuộc đời Muifei bắt đầu rẽ sang bước ngoặt bi kịch khi cô đem lòng yêu chàng trai thành phố Phum và rời bỏ quê nhà để đi theo tiếng gọi của con tim. Tuy nhiên, hy vọng về một cuộc sống tốt đẹp hơn nhanh chóng tan biến khi cô phải đối mặt với vô vàn khó khăn, sự bóc lột và những hành vi ngược đãi tàn nhẫn. Bị nhấn chìm trong đau đớn tột cùng, Muifei trở lại dưới hình dạng một linh hồn báo oán, quyết tâm đòi lại công lý."
+    },
+    {
+        "name": "Đầu Bếp Đấu Giá",
+        "year": 2026,
+        "slug": "dau-bep-dau-gia",
+        "thumb": "https://occ-0-8407-116.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABd5_ZxuQG9EZOvnVZpVvnGDGjk7anPd4PLYUy1mbqPzlmUq6EG_Phev_bFZksP9y1yYuNEtnThErPT5ybpN61hsgrrzItRv42x_NPfG43suTTDPWNXljrArkQA.jpg?r=33b",
+        "poster": "https://phimimg.com/uploads/movies/20260722/dau-bep-dau-gia-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "11",
+        "country": "Thái Lan",
+        "description": "Những đầu bếp hàng đầu bước vào cuộc thi nấu ăn khốc liệt, nơi họ phải đối đầu, đấu trí và trả giá vượt mặt nhau để khẳng định bản lĩnh ẩm thực."
+    },
+    {
+        "name": "Manga Sát Lệnh",
+        "year": 2026,
+        "slug": "manga-sat-lenh",
+        "thumb": "https://phimimg.com/uploads/movies/20260709/manga-sat-lenh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260709/manga-sat-lenh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Kay, một họa sĩ manga nổi tiếng, bất ngờ bị cuốn vào cuộc điều tra một vụ án giết người hàng loạt khi các nạn nhân, phương thức gây án và hiện trường đều giống đến rợn người với những tình tiết trong tác phẩm anh từng sáng tác. Điều này khiến Phát, thanh tra phụ trách vụ án, đưa Kay vào tầm theo dõi sát sao. Buộc phải hợp tác trong quá trình điều tra, Kay và Phát cùng nhau lần theo từng manh mối để tìm ra sự thật và danh tính kẻ sát nhân. Khi cuộc điều tra dần hé mở những bí ẩn, sự nghi ngờ ban đầu cũng từng bước nhường chỗ cho niềm tin, kéo hai người xích lại gần nhau hơn theo cách mà cả hai đều không ngờ tới. Thế nhưng, càng đào sâu, những bí mật bị chôn vùi trong quá khứ càng lần lượt được phơi bày. Khi mỗi sự thật mới đều thử thách mối quan hệ giữa họ, Kay và Phát phải quyết định liệu họ có thể cùng nhau đối mặt với hiểm nguy hay sẽ trở thành những mục tiêu tiếp theo của kẻ sát nhân."
     },
     {
         "name": "Ký Ức Tình Thù",
@@ -102,7 +222,7 @@
         "thumb": "https://phimimg.com/upload/vod/20260530-1/adb081b18e4973cd68c787019e43b6fc.jpg",
         "poster": "https://phimimg.com/upload/vod/20260530-1/a678892c24f3e13d9d787cae492d5f52.jpg",
         "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 16",
+        "current_episode": "Tập 18",
         "total_episodes": "20",
         "country": "Thái Lan",
         "description": "Phim kể về Rawee, người thừa kế khối tài sản kếch xù từ cha và có một cuộc hôn nhân sắp đặt. Anh bị sát hại sau khi phát hiện vợ mình ngoại tình. Rất may, Rawee không chết mà chỉ mất trí nhớ và được cô gái Lockchan cứu sống. Liệu Rawee có lấy lại được ký ức để trả thù những kẻ đã từng giết hại mình?"
@@ -114,10 +234,46 @@
         "thumb": "https://phimimg.com/upload/vod/20260609-1/5550efbb49cb839af1d56ec050851185.jpg",
         "poster": "https://phimimg.com/upload/vod/20260609-1/c54b7834adf8578b0167b600502bdcba.jpg",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 12",
+        "current_episode": "Tập 14",
         "total_episodes": "19",
         "country": "Thái Lan",
         "description": "Theo yêu cầu của người bạn bị thương giống tên, Thatri, trong tình cảnh phá sản, mạo danh người bạn đó để nhận thừa kế và thay đổi số phận của cả hai."
+    },
+    {
+        "name": "Nhân Duyên Tiền Định",
+        "year": 2026,
+        "slug": "nhan-duyen-tien-dinh-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20260715/nhan-duyen-tien-dinh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260715/nhan-duyen-tien-dinh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Khi linh hồn của một bác sĩ phẫu thuật thời hiện đại bị nhập vào thể xác của một kẻ chuyên gây rắc rối bị người người ghét bỏ ở thế kỷ 17, anh đã sử dụng nền y học tiên tiến để cứu người, đồng thời từng bước chinh phục người đối đầu gay gắt nhất của mình."
+    },
+    {
+        "name": "Nút Thắt",
+        "year": 2026,
+        "slug": "nut-that",
+        "thumb": "https://phimimg.com/upload/vod/20260702-1/1b8bc37d5683e785764ff94ce8eef51a.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260702-1/0bc8b35212cf621b9858b600f9981df8.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "12",
+        "country": "Thái Lan",
+        "description": "Cuộc đời của một chàng trai trẻ đã thay đổi mãi mãi khi anh bị một Alpha quyền năng đánh dấu, buộc chặt định mệnh của cả hai vào một mối liên kết không thể nào trốn chạy."
+    },
+    {
+        "name": "Siêu Sao Hay Siêu Xịt",
+        "year": 2026,
+        "slug": "sieu-sao-hay-sieu-xit",
+        "thumb": "https://phimimg.com/upload/vod/20260622-1/7b286191e1a4bfca5980823dab19744a.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260622-1/1b6811163c1de486f67cab2707a9d02d.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Một nhóm nhạc thần tượng từng ôm mộng vinh quang nay phải đối mặt với nỗi tủi hổ khi phải mặc đồ linh vật biểu diễn các bài hát thiếu nhi. Lần lượt mọi người đều bỏ cuộc và rời đi… ngoại trừ Jeng, người duy nhất lựa chọn ở lại bên cạnh vị sếp Sithian bướng bỉnh, cố chấp của mình."
     },
     {
         "name": "Điệu Múa Lân Sư Rồng",
@@ -132,30 +288,6 @@
         "description": "Sau tai nạn của cha, một cô gái trẻ vùng Isan tiếp quản đoàn múa lân gia đình và kết hợp với nhạc Mor Lam truyền thống để duy trì hoạt động của đoàn."
     },
     {
-        "name": "Bạn Gái Người Máy",
-        "year": 2026,
-        "slug": "ban-gai-nguoi-may",
-        "thumb": "https://phimimg.com/upload/vod/20260702-1/88140f84f7bde451cb436d2693f74efb.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260702-1/9ddc66c01bd307e5fd64162459ea38d5.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Cuộc sống yên bình của Jen bị đảo lộn khi Ai, một robot bí ẩn có ngoại hình giống hệt cô gái trong mộng của cô, xuất hiện và gọi cô là &quot;Chủ nhân&quot;. Bị buộc phải sống chung, Jen không ngờ rằng mình lại đem lòng yêu cỗ máy tinh nghịch này. Khi mối liên kết giữa họ ngày càng sâu đậm, cô phải đối mặt với câu hỏi cuối cùng: Ai chỉ là một chương trình lỗi lạc, hay chính là tình yêu của đời cô?"
-    },
-    {
-        "name": "Bà Đồng Muifei (Muội Phi)",
-        "year": 2026,
-        "slug": "ba-dong-muifei-muoi-phi",
-        "thumb": "https://phimimg.com/upload/vod/20260618-1/4daf691fdbcabbedc0890a863677c9ad.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260618-1/1c5c2f1516d809ce698ddac881b72bde.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 10",
-        "total_episodes": "20",
-        "country": "Thái Lan",
-        "description": "Bà Đồng Muifei là một cô gái trẻ sống trong một ngôi làng ở vùng núi, mang trên vai trách nhiệm gánh chịu những điều bất hạnh và đau khổ thay cho cộng đồng. Cuộc đời Muifei bắt đầu rẽ sang bước ngoặt bi kịch khi cô đem lòng yêu chàng trai thành phố Phum và rời bỏ quê nhà để đi theo tiếng gọi của con tim. Tuy nhiên, hy vọng về một cuộc sống tốt đẹp hơn nhanh chóng tan biến khi cô phải đối mặt với vô vàn khó khăn, sự bóc lột và những hành vi ngược đãi tàn nhẫn. Bị nhấn chìm trong đau đớn tột cùng, Muifei trở lại dưới hình dạng một linh hồn báo oán, quyết tâm đòi lại công lý."
-    },
-    {
         "name": "Oan Gia Thành Đôi",
         "year": 2026,
         "slug": "oan-gia-thanh-doi",
@@ -168,42 +300,6 @@
         "description": "Hai người luôn đối đầu ở nơi làm việc như “kẻ thù truyền kiếp”. Nhưng sau một đêm ngoài ý muốn, họ bắt đầu mối quan hệ kiểu “friends with benefits” — chỉ thân mật thể xác, không yêu đương. Để tránh đồng nghiệp phát hiện, cả hai vẫn giả vờ ghét nhau ở công ty. Tuy nhiên càng ở gần nhau, mối quan hệ dần chuyển thành tình cảm thật."
     },
     {
-        "name": "Nhân Duyên Tiền Định",
-        "year": 2026,
-        "slug": "nhan-duyen-tien-dinh-2026",
-        "thumb": "https://phimimg.com/uploads/movies/20260715/nhan-duyen-tien-dinh-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260715/nhan-duyen-tien-dinh-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Khi linh hồn của một bác sĩ phẫu thuật thời hiện đại bị nhập vào thể xác của một kẻ chuyên gây rắc rối bị người người ghét bỏ ở thế kỷ 17, anh đã sử dụng nền y học tiên tiến để cứu người, đồng thời từng bước chinh phục người đối đầu gay gắt nhất của mình."
-    },
-    {
-        "name": "Nút Thắt",
-        "year": 2026,
-        "slug": "nut-that",
-        "thumb": "https://phimimg.com/upload/vod/20260702-1/1b8bc37d5683e785764ff94ce8eef51a.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260702-1/0bc8b35212cf621b9858b600f9981df8.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Cuộc đời của một chàng trai trẻ đã thay đổi mãi mãi khi anh bị một Alpha quyền năng đánh dấu, buộc chặt định mệnh của cả hai vào một mối liên kết không thể nào trốn chạy."
-    },
-    {
-        "name": "Cây cam ở nhà cậu ấy nhưng quả cam luôn rơi sang nhà tôi",
-        "year": 2026,
-        "slug": "cay-cam-o-nha-cau-ay-nhung-qua-cam-luon-roi-sang-nha-toi",
-        "thumb": "https://phimimg.com/upload/vod/20260604-1/0bac1b5f368a775a32cbcce15d0a254d.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260604-1/5eba4d6cc1ea46ac42f086d9e9e3c844.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Ko là một cậu bé mê cam hơn bất cứ thứ gì trên đời - nhưng không phải cam nào cậu cũng thích. Nhất định phải là cam từ cây ở nhà bên cạnh mới được. Không có loại cam nào ngon bằng, cũng chẳng có loại nào khiến cậu hạnh phúc đến thế. Thơm, ngọt, ngon lành - mọi thứ về những quả cam nhà trồng ấy, Ko đều yêu thích vô cùng. Chỉ có một điều ngoại lệ: chủ nhân thật sự của cây cam đó. Cậu con trai mang cái tên ngầu y hệt tên cậu. Vì hai người trùng tên nên mọi người gọi cậu ta là “Ko Hai”, theo cách gọi quen thuộc mỗi khi có hai người cùng tên. Và thế là Ko nghiễm nhiên trở thành “Ko Một”. Nhưng ngoài cái tên giống nhau ra, cả hai chẳng có điểm gì chung. Tính cách trái ngược hoàn toàn - như thể ông trời đã phái một vị thần tối cao xuống để trừng trị con quỷ cam tinh nghịch vậy. Trong lúc câu chuyện của hai Ko dần mở ra, họ cũng lớn lên - không chỉ về dáng hình mà cả những cảm xúc âm thầm nảy nở trong tim."
-    },
-    {
         "name": "Ngoan Hiền Thâm Hiểm (Bóng Tối Học Đường)",
         "year": 2026,
         "slug": "ngoan-hien-tham-hiem-bong-toi-hoc-duong",
@@ -214,54 +310,6 @@
         "total_episodes": "6",
         "country": "Thái Lan",
         "description": "Lấy bối cảnh một trường nữ sinh danh tiếng, bộ phim hé lộ những góc khuất đằng sau vẻ ngoài hoàn hảo của học sinh. Giữa sự phân biệt giai cấp, bắt nạt và những mối quan hệ phức tạp, mỗi người đều phải đối mặt với những bí mật và lựa chọn của riêng mình."
-    },
-    {
-        "name": "Cuộc Chạy Đua Của Tình Và Tiền",
-        "year": 2026,
-        "slug": "cuoc-chay-dua-cua-tinh-va-tien",
-        "thumb": "https://phimimg.com/upload/vod/20260629-1/b8d61d3c356a30941f0548973005b5cc.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260629-1/d9d82ad102c98c4f158d025ed0b81b6b.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "19",
-        "country": "Thái Lan",
-        "description": "Tình yêu, ước mơ, cuộc sống mưu sinh xoáy vào nhau khi nhóm &quot;Gen Me&quot; đối diện nhịp sống hối hả ở Thái Lan, nơi trưởng thành đánh đổi bằng nước mắt, tình cảm và sự thật nghiệt ngã."
-    },
-    {
-        "name": "Siêu Sao Hay Siêu Xịt",
-        "year": 2026,
-        "slug": "sieu-sao-hay-sieu-xit",
-        "thumb": "https://phimimg.com/upload/vod/20260622-1/7b286191e1a4bfca5980823dab19744a.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260622-1/1b6811163c1de486f67cab2707a9d02d.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Một nhóm nhạc thần tượng từng ôm mộng vinh quang nay phải đối mặt với nỗi tủi hổ khi phải mặc đồ linh vật biểu diễn các bài hát thiếu nhi. Lần lượt mọi người đều bỏ cuộc và rời đi… ngoại trừ Jeng, người duy nhất lựa chọn ở lại bên cạnh vị sếp Sithian bướng bỉnh, cố chấp của mình."
-    },
-    {
-        "name": "Xích Tình Rực Lửa",
-        "year": 2026,
-        "slug": "xich-tinh-ruc-lua",
-        "thumb": "https://phimimg.com/uploads/movies/20260712/xich-tinh-ruc-lua-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260712/xich-tinh-ruc-lua-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "8",
-        "country": "Thái Lan",
-        "description": "Tại vùng đất phương Nam, \"Fai\" Atchima Watinwanich có dịp tái ngộ với người đối đầu cũ của mình là \"Kaprao\" Athitaya Thitsama — một cuộc gặp gỡ có thể thắp lên ngọn lửa tình yêu hoặc sẽ lại vạch trần những vết thương cũ chưa lành."
-    },
-    {
-        "name": "Tỉnh Táo Rồi, Lookpeach",
-        "year": 2026,
-        "slug": "tinh-tao-roi-lookpeach",
-        "thumb": "https://phimimg.com/uploads/movies/20260712/tinh-tao-roi-lookpeach-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260712/tinh-tao-roi-lookpeach-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "4",
-        "country": "Thái Lan",
-        "description": "Sau đám cưới, Thee và Peach cùng nhau đón nhận những niềm vui lẫn sự hỗn loạn của cuộc sống hôn nhân, đồng thời dần tìm ra nhịp điệu sống hòa hợp của riêng hai người."
     },
     {
         "name": "Ranh Giới Bình Minh (Rạng Đông)",
@@ -310,50 +358,5 @@
         "total_episodes": "9",
         "country": "Thái Lan",
         "description": "Một chàng trai trẻ mang trong mình mảnh linh hồn của quỷ dữ đã bắt tay cùng một đồng minh bí ẩn để săn lùng những thực thể siêu nhiên chuyên hút sinh lực của con người. Giữa cuộc chiến khốc liệt với bóng tối, anh vừa phải tìm cách kiểm soát sức mạnh tà ác đang dần trỗi dậy trong chính cơ thể mình, vừa phải bảo vệ nhân loại khỏi những hiểm họa vô hình đang rình rập."
-    },
-    {
-        "name": "Chuyện Tình Silom",
-        "year": 2026,
-        "slug": "chuyen-tinh-silom",
-        "thumb": "https://phimimg.com/upload/vod/20260428-1/3dc85f5a14c2f7ad5a06c1a837c14dfb.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260428-1/2addc27160eb0c215cf6de244a763823.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (12/12)",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Một viên cảnh sát đang mang trong mình trái tim tan vỡ và phải che giấu một mối tình ngang trái, bất ngờ tìm thấy cơ hội thứ hai trong tình yêu khi anh giải cứu một cậu sinh viên đang gặp rắc rối tại một hộp đêm ở Silom. Giữa ánh đèn mờ ảo và nhịp sống hối hả của khu phố không ngủ, cuộc gặp gỡ định mệnh này đã gắn kết hai tâm hồn đang tổn thương, giúp họ cùng nhau vượt qua những định kiến và rào cản để đi tìm hạnh phúc thực sự."
-    },
-    {
-        "name": "Báo Thù",
-        "year": 2026,
-        "slug": "bao-thu-2026",
-        "thumb": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260531-1/44b98f8dceee0f4b7f0a576c9237410e.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
-        "total_episodes": "8",
-        "country": "thai-lan"
-    },
-    {
-        "name": "Yêu Được Chưa",
-        "year": 2026,
-        "slug": "yeu-duoc-chua",
-        "thumb": "https://phimimg.com/upload/vod/20260428-1/4662191e6d221754a7a3d4c62e1d7742.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260428-1/d563a77898b12886e0cc5eea272f1745.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (19/19)",
-        "total_episodes": "19",
-        "country": "thai-lan"
-    },
-    {
-        "name": "Gọi Dad Đi Tharn",
-        "year": 2026,
-        "slug": "goi-dad-di-tharn",
-        "thumb": "https://phimimg.com/upload/vod/20260510-1/ee515474b3152374a0dc8d5aecba4794.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260510-1/bb0d43ba1fea3723cfa7d3dd1cbf0095.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "thai-lan"
     }
 ]

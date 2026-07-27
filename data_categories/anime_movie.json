@@ -1,5 +1,41 @@
 [
     {
+        "name": "Phim Điện Ảnh - Lớp Học Ám Sát: Giờ Của Chúng Ta",
+        "year": 2026,
+        "slug": "phim-dien-anh-lop-hoc-am-sat-gio-cua-chung-ta",
+        "thumb": "https://phimimg.com/uploads/movies/20260726/phim-dien-anh-lop-hoc-am-sat-gio-cua-chung-ta-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260726/phim-dien-anh-lop-hoc-am-sat-gio-cua-chung-ta-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Nhật Bản",
+        "description": "Phim điện ảnh phiên bản hoàn toàn mới của “Lớp Học Ám Sát” nhân dịp kỷ niệm 10 năm ra mắt! Một sinh vật mang vận tốc Mach 20 đe dọa hủy diệt Trái Đất nhưng lại trở thành một thầy giáo? Một lớp học bị coi là \"phế thải\" bỗng chốc trở thành hy vọng cuối cùng của nhân loại? Những câu chuyện mới toanh chưa từng được kể trên màn ảnh sẽ mang đến cho fan hâm mộ những thước phim bùng nổ cùng ký ức rực rỡ nhất về thầy Koro và tập thể lớp 3-E. Bạn đã sẵn sàng cho buổi tốt nghiệp đặc biệt này chưa?"
+    },
+    {
+        "name": "Bát Tiên!",
+        "year": 2026,
+        "slug": "bat-tien",
+        "thumb": "https://phimimg.com/uploads/movies/20260723/bat-tien-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260723/bat-tien-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Trung Quốc",
+        "description": "Tám phàm nhân bình thường ở tầng lớp đáy xã hội đã sử dụng trí thông minh đường phố cùng những mưu mẹo dở khóc dở cười để chống lại các vị thần tiên quyền năng, từ đó chính thức giành được danh hiệu \"Bát Tiên\"."
+    },
+    {
+        "name": "Thám Tử Lừng Danh Conan: Thiên Thần Sa Ngã Trên Xa Lộ",
+        "year": 2026,
+        "slug": "tham-tu-lung-danh-conan-thien-than-sa-nga-tren-xa-lo",
+        "thumb": "https://phimimg.com/uploads/movies/20260718/tham-tu-lung-danh-conan-thien-than-sa-nga-tren-xa-lo-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260718/tham-tu-lung-danh-conan-thien-than-sa-nga-tren-xa-lo-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Nhật Bản",
+        "description": "Conan Movie 29, tựa tiếng Nhật là Detective Conan: Highway no Datenshi (Thiên thần sa ngã trên xa lộ), đã được công bố và sẽ ra mắt tại Nhật Bản vào ngày 10/04/2026, tập trung vào các pha hành động tốc độ, sự trở lại của nhân vật \"Nữ thần gió\" Chihaya Hagiwara và một chiếc mô tô bí ẩn. Phim có bối cảnh chính là Cầu vịnh Yokohama và được đạo diễn bởi Takahiro Hasui"
+    },
+    {
         "name": "Thế Giới Đôi Khi (Vùng đất của những lúc)",
         "year": 2026,
         "slug": "the-gioi-doi-khi-vung-dat-cua-nhung-luc",
@@ -296,38 +332,5 @@
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "Âu Mỹ"
-    },
-    {
-        "name": "Hầu Gái Rồng Nhà Kobayashi: Rồng Cô Đơn Muốn Được Yêu Thương",
-        "year": 2025,
-        "slug": "hau-gai-rong-nha-kobayashi-rong-co-don-muon-duoc-yeu-thuong",
-        "thumb": "https://phimimg.com/upload/vod/20260121-1/f056db01b6e21dc110cb7c1f6371d545.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260121-1/3a3376ee5dfe04ed54ed3693bb9e6177.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Nhật Bản"
-    },
-    {
-        "name": "Cô Bé Chiến Binh",
-        "year": 2025,
-        "slug": "co-be-chien-binh",
-        "thumb": "https://phimimg.com/upload/vod/20250606-1/6c68125eec2b79f5b35b4b3d88f34e4b.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250606-1/8a984cde72e3f3376f8a2ea71ca0a26b.jpg",
-        "sub_type": "Vietsub + Lồng Tiếng",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Peru"
-    },
-    {
-        "name": "Năm Nữ Điệp Vụ: Thợ Xử Lý Vương Miện 4",
-        "year": 2025,
-        "slug": "nam-nu-diep-vu-tho-xu-ly-vuong-mien-4",
-        "thumb": "https://phimimg.com/upload/vod/20260117-1/11e14384f6a491cecaa555749df595dc.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260117-1/a4b20f17535c027cb1369282fb04eb2c.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Nhật Bản"
     }
 ]

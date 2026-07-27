@@ -1,5 +1,17 @@
 [
     {
+        "name": "Bầy Xác Sống",
+        "year": 2026,
+        "slug": "bay-xac-song",
+        "thumb": "https://phimimg.com/uploads/movies/20260723/bay-xac-song-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260723/bay-xac-song-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Hàn Quốc",
+        "description": "Giáo sư Se Jeong tham dự một hội nghị công nghệ sinh học, nhưng lại chứng kiến ​​nó biến thành thảm họa khi một loại virus đột biến nhanh chóng được giải phóng. Khi dịch bệnh lan rộng và những người nhiễm bệnh bắt đầu biến đổi, chính quyền đã phong tỏa toàn bộ cơ sở."
+    },
+    {
         "name": "Dòng Sông Trắng (Dục Vọng Bên Sông Trắng)",
         "year": 2025,
         "slug": "dong-song-trang-duc-vong-ben-song-trang",
@@ -315,17 +327,6 @@
         "thumb": "https://phimimg.com/upload/vod/20251227-1/19fba9f6d2a3bd7ac963339c8ee53abe.jpg",
         "poster": "https://phimimg.com/upload/vod/20251227-1/6a368fb601160f561b1d519b11bc54dc.jpg",
         "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "han-quoc"
-    },
-    {
-        "name": "Mượn Rượu Đẩy Kèo",
-        "year": 2025,
-        "slug": "muon-ruou-day-keo",
-        "thumb": "https://phimimg.com/upload/vod/20250705-1/5b6e58fdecc706d206b932f6801ca845.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250705-1/fcfca0887f26ade9f95dc528d86472d1.jpg",
-        "sub_type": "Vietsub + Thuyết Minh + Lồng Tiếng",
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "han-quoc"
