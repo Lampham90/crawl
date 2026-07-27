@@ -9,7 +9,6 @@ jobs:
   update-domain:
     runs-on: ubuntu-latest
     
-    # Cấp quyền ghi nội dung Gist cho Actions
     permissions:
       contents: read
 
@@ -30,4 +29,4 @@ jobs:
       - name: Run script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/update-gist.js
+        run: node update-gist.js  # <-- Sửa lại ở đây (bỏ thư mục scripts/)
