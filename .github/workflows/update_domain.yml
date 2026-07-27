@@ -1,17 +1,18 @@
-name: Auto Update Domain
+name: Auto Update Gist Domain
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *' # Chạy mỗi 6 tiếng
+    - cron: '0 */6 * * *'
 
 jobs:
-  update:
+  update-domain:
     runs-on: ubuntu-latest
     
-    # Quyền ghi code trực tiếp vào repo (hoàn toàn hợp lệ với GITHUB_TOKEN)
+    # Cấp cả quyền đọc repo và quyền viết Gist cho Token nội bộ
     permissions:
-      contents: write
+      contents: read
+      id-token: write
 
     steps:
       - name: Checkout code
@@ -28,11 +29,6 @@ jobs:
           npm install puppeteer
 
       - name: Run script
-        run: node update-domain.js
-
-      - name: Commit and push domain.txt
-        run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions@github.com'
-          git add domain.txt
-          git diff --quiet && git diff --cached --quiet || (git commit -m "Auto update domain.txt" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node update-gist.js
