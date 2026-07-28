@@ -1,5 +1,53 @@
 [
     {
+        "name": "Ý Chí Kim Cương",
+        "year": 2026,
+        "slug": "y-chi-kim-cuong",
+        "thumb": "https://phimimg.com/upload/vod/20260619-1/d27cee3db697f0b6d6ca7d22b14be2f2.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260619-1/ca96e7f068f84776ca2b4e52b9e971bc.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 28",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Chàng nhạc công tài năng xuất thân nghèo khó và một nữ sinh trung học giàu có nảy sinh tình cảm giữa những mối thù địch cá nhân và một biến cố làm thay đổi cuộc đời."
+    },
+    {
+        "name": "Thế Giới Em Và Tôi",
+        "year": 2026,
+        "slug": "the-gioi-em-va-toi",
+        "thumb": "https://phimimg.com/upload/vod/20260609-1/5550efbb49cb839af1d56ec050851185.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260609-1/c54b7834adf8578b0167b600502bdcba.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 15",
+        "total_episodes": "19",
+        "country": "Thái Lan",
+        "description": "Theo yêu cầu của người bạn bị thương giống tên, Thatri, trong tình cảnh phá sản, mạo danh người bạn đó để nhận thừa kế và thay đổi số phận của cả hai."
+    },
+    {
+        "name": "San Hô Đen",
+        "year": 2026,
+        "slug": "san-ho-den",
+        "thumb": "https://phimimg.com/upload/vod/20260701-1/881de1d0760ad2caca0e4d29d0446b46.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260701-1/99666fb21a725348c860a349591ca7c0.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 21",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Sau tai nạn lặn suýt chết khiến máy ảnh của Narathon bị hỏng, anh gặp Kaimook, một sinh viên đang gây tiếng vang với tài nhiếp ảnh dưới nước. Cả hai lập tức khắc khẩu."
+    },
+    {
+        "name": "Ký Ức Tình Thù",
+        "year": 2026,
+        "slug": "ky-uc-tinh-thu-2026",
+        "thumb": "https://phimimg.com/upload/vod/20260530-1/adb081b18e4973cd68c787019e43b6fc.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260530-1/a678892c24f3e13d9d787cae492d5f52.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 19",
+        "total_episodes": "20",
+        "country": "Thái Lan",
+        "description": "Phim kể về Rawee, người thừa kế khối tài sản kếch xù từ cha và có một cuộc hôn nhân sắp đặt. Anh bị sát hại sau khi phát hiện vợ mình ngoại tình. Rất may, Rawee không chết mà chỉ mất trí nhớ và được cô gái Lockchan cứu sống. Liệu Rawee có lấy lại được ký ức để trả thù những kẻ đã từng giết hại mình?"
+    },
+    {
         "name": "Anh Sam Của Em",
         "year": 2026,
         "slug": "anh-sam-cua-em",
@@ -60,18 +108,6 @@
         "description": "Chuyển đến trường cấp ba hàng đầu, chàng trai nuôi mộng trở thành ngôi sao nhạc rock Leerit thề sẽ tránh xa chuyện yêu đương, nhưng nhanh chóng đổi ý khi gặp bạn cùng phòng mới."
     },
     {
-        "name": "Ý Chí Kim Cương",
-        "year": 2026,
-        "slug": "y-chi-kim-cuong",
-        "thumb": "https://phimimg.com/upload/vod/20260619-1/d27cee3db697f0b6d6ca7d22b14be2f2.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260619-1/ca96e7f068f84776ca2b4e52b9e971bc.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 27",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Chàng nhạc công tài năng xuất thân nghèo khó và một nữ sinh trung học giàu có nảy sinh tình cảm giữa những mối thù địch cá nhân và một biến cố làm thay đổi cuộc đời."
-    },
-    {
         "name": "Theo Đuổi Tình Yêu",
         "year": 2026,
         "slug": "theo-duoi-tinh-yeu-2026",
@@ -94,18 +130,6 @@
         "total_episodes": "12",
         "country": "Thái Lan",
         "description": "Dù vẫn còn tình cảm với nhau nhưng bị mẹ của Runch chia cắt, hai người phụ nữ phải giả vờ rằng cuộc hôn nhân của họ vẫn hạnh phúc để hoàn tất một thương vụ kinh doanh quan trọng."
-    },
-    {
-        "name": "San Hô Đen",
-        "year": 2026,
-        "slug": "san-ho-den",
-        "thumb": "https://phimimg.com/upload/vod/20260701-1/881de1d0760ad2caca0e4d29d0446b46.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260701-1/99666fb21a725348c860a349591ca7c0.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 20",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Sau tai nạn lặn suýt chết khiến máy ảnh của Narathon bị hỏng, anh gặp Kaimook, một sinh viên đang gây tiếng vang với tài nhiếp ảnh dưới nước. Cả hai lập tức khắc khẩu."
     },
     {
         "name": "Đừng Xin Anh Jane",
@@ -214,30 +238,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Kay, một họa sĩ manga nổi tiếng, bất ngờ bị cuốn vào cuộc điều tra một vụ án giết người hàng loạt khi các nạn nhân, phương thức gây án và hiện trường đều giống đến rợn người với những tình tiết trong tác phẩm anh từng sáng tác. Điều này khiến Phát, thanh tra phụ trách vụ án, đưa Kay vào tầm theo dõi sát sao. Buộc phải hợp tác trong quá trình điều tra, Kay và Phát cùng nhau lần theo từng manh mối để tìm ra sự thật và danh tính kẻ sát nhân. Khi cuộc điều tra dần hé mở những bí ẩn, sự nghi ngờ ban đầu cũng từng bước nhường chỗ cho niềm tin, kéo hai người xích lại gần nhau hơn theo cách mà cả hai đều không ngờ tới. Thế nhưng, càng đào sâu, những bí mật bị chôn vùi trong quá khứ càng lần lượt được phơi bày. Khi mỗi sự thật mới đều thử thách mối quan hệ giữa họ, Kay và Phát phải quyết định liệu họ có thể cùng nhau đối mặt với hiểm nguy hay sẽ trở thành những mục tiêu tiếp theo của kẻ sát nhân."
-    },
-    {
-        "name": "Ký Ức Tình Thù",
-        "year": 2026,
-        "slug": "ky-uc-tinh-thu-2026",
-        "thumb": "https://phimimg.com/upload/vod/20260530-1/adb081b18e4973cd68c787019e43b6fc.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260530-1/a678892c24f3e13d9d787cae492d5f52.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 18",
-        "total_episodes": "20",
-        "country": "Thái Lan",
-        "description": "Phim kể về Rawee, người thừa kế khối tài sản kếch xù từ cha và có một cuộc hôn nhân sắp đặt. Anh bị sát hại sau khi phát hiện vợ mình ngoại tình. Rất may, Rawee không chết mà chỉ mất trí nhớ và được cô gái Lockchan cứu sống. Liệu Rawee có lấy lại được ký ức để trả thù những kẻ đã từng giết hại mình?"
-    },
-    {
-        "name": "Thế Giới Em Và Tôi",
-        "year": 2026,
-        "slug": "the-gioi-em-va-toi",
-        "thumb": "https://phimimg.com/upload/vod/20260609-1/5550efbb49cb839af1d56ec050851185.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260609-1/c54b7834adf8578b0167b600502bdcba.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 14",
-        "total_episodes": "19",
-        "country": "Thái Lan",
-        "description": "Theo yêu cầu của người bạn bị thương giống tên, Thatri, trong tình cảnh phá sản, mạo danh người bạn đó để nhận thừa kế và thay đổi số phận của cả hai."
     },
     {
         "name": "Nhân Duyên Tiền Định",

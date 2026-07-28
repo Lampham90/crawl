@@ -1,5 +1,17 @@
 [
     {
+        "name": "Instadocs: Trò Chơi Dự Đoán",
+        "year": 2026,
+        "slug": "instadocs-tro-choi-du-doan",
+        "thumb": "https://phimimg.com/uploads/movies/20260728/instadocs-tro-choi-du-doan-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260728/instadocs-tro-choi-du-doan-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Thị trường dự đoán cho phép ai cũng có thể đặt cược bất cứ điều gì, từ World Cup đến cuộc xâm lược của người ngoài hành tinh. \"Instadocs\" điều tra sự bùng nổ của cá cược toàn cầu."
+    },
+    {
         "name": "Nữ Siêu Nhân",
         "year": 2026,
         "slug": "nu-sieu-nhan-2026",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Các nạn nhân của những tổn thương tâm lý nghiêm trọng được mời tham gia một buổi trị liệu nhóm để chia sẻ kinh nghiệm của họ trong một môi trường an toàn, nhưng khi những câu chuyện của họ được kể lại, một sự thật đáng lo ngại được hé lộ: tất cả họ có thể đều có mối liên hệ với nhau trong bất hạnh của mình."
-    },
-    {
-        "name": "Lối thoát",
-        "year": 2026,
-        "slug": "loi-thoat-2026",
-        "thumb": "https://phimimg.com/uploads/movies/20260710/loi-thoat-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260710/loi-thoat-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Anh",
-        "description": "Một ông chủ hộp đêm đang chuẩn bị bỏ lại quá khứ nguy hiểm phía sau để nghỉ hưu cùng bạn gái. Khi những tên cướp đeo mặt nạ tấn công ông và ông bị các băng đảng tội phạm tàn nhẫn vây hãm, một người lạ mặt bí ẩn xuất hiện với ý định mua lại công việc kinh doanh. Với nguy hiểm bủa vây tứ phía, ông phải vượt qua một mạng lưới chết người gồm những âm mưu, quyền lực và sinh tồn - nơi mà trốn thoát có thể không còn là lựa chọn."
     }
 ]
