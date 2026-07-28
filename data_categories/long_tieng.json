@@ -1,5 +1,17 @@
 [
     {
+        "name": "Chó Hoang Và Xương",
+        "year": 2026,
+        "slug": "cho-hoang-va-xuong",
+        "thumb": "https://phimimg.com/upload/vod/20260705-1/d1e3f78ec436e006cd71338e333adae7.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260705-1/cf344e4d8b5bb10f4eefa2a3ec5463f1.jpg",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (32/32)",
+        "total_episodes": "32",
+        "country": "Trung Quốc",
+        "description": "Đôi thanh mai trúc mã Trần Dị và Miêu Tĩnh tưởng chừng bị cắt đứt sau biến cố, cho đến khi Miêu Tĩnh lựa chọn trở về sau nhiều năm tha phương."
+    },
+    {
         "name": "Tội Ác Không Nên Có",
         "year": 2026,
         "slug": "toi-ac-khong-nen-co",
@@ -22,18 +34,6 @@
         "total_episodes": "50",
         "country": "Nhật Bản",
         "description": "Kamen Rider Zeztz xoay quanh một người hùng có năng lực điều khiển giấc mơ. Ban ngày, Yorozu Baku là một anh chàng thất nghiệp sống cùng em gái, nhưng đến đêm, anh lại trở thành một Kamen Rider bất khả chiến bại có khả năng xâm nhập vào giấc mơ của người khác. Khi một thế lực đen tối bắt đầu làm tổ trong giấc mơ của con người để rồi từ đó dần dần xâm lấn thế giới thực, Baku chính là người duy nhất có thể chiến đấu trong mơ để bảo vệ nhân loại và giấc ngủ của họ."
-    },
-    {
-        "name": "Chó Hoang Và Xương",
-        "year": 2026,
-        "slug": "cho-hoang-va-xuong",
-        "thumb": "https://phimimg.com/upload/vod/20260705-1/d1e3f78ec436e006cd71338e333adae7.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260705-1/cf344e4d8b5bb10f4eefa2a3ec5463f1.jpg",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (32/32)",
-        "total_episodes": "32",
-        "country": "Trung Quốc",
-        "description": "Đôi thanh mai trúc mã Trần Dị và Miêu Tĩnh tưởng chừng bị cắt đứt sau biến cố, cho đến khi Miêu Tĩnh lựa chọn trở về sau nhiều năm tha phương."
     },
     {
         "name": "Siêu Cảnh Sát Vũ Trụ Gavan Infinity",
