@@ -1,5 +1,17 @@
 [
     {
+        "name": "TÀI",
+        "year": 2026,
+        "slug": "tai",
+        "thumb": "https://phimimg.com/uploads/movies/20260729/tai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260729/tai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Việt Nam",
+        "description": "Tài đã trải qua hành trình đầy khó khăn, làm đủ mọi nghề, thậm chí là những phi vụ nguy hiểm phải đặt cược mạng sống để bảo vệ “tài sản” quý giá nhất đời mình. Liệu Tài có đủ nghị lực và tinh thần để vượt lên trên nghịch cảnh, trong gang tấc sự sống? Bộ phim đem đến tiếng cười, tình yêu và sự bao dung mạnh mẽ về những mối quan hệ tình thân và xã hội trong những ngày đầu xuân 2026."
+    },
+    {
         "name": "Cưới Vợ Cho Cha",
         "year": 2026,
         "slug": "cuoi-vo-cho-cha",
@@ -314,17 +326,6 @@
         "slug": "nha-gia-tien",
         "thumb": "https://phimimg.com/upload/vod/20250710-1/3024e503f4c8cecdb0578c20c77e4cdf.jpg",
         "poster": "https://phimimg.com/upload/vod/20250710-1/5af1cd558e89eb88b67d72181906edac.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "viet-nam"
-    },
-    {
-        "name": "Âm Dương Lộ",
-        "year": 2025,
-        "slug": "am-duong-lo",
-        "thumb": "https://phimimg.com/upload/vod/20250627-1/2cb1650856ea766b21df3d6f86ccdd07.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250627-1/8db220cf033fde5a5929b285fe3789ba.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",

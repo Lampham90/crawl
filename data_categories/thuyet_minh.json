@@ -1,5 +1,17 @@
 [
     {
+        "name": "Ngự Đình Dao",
+        "year": 2026,
+        "slug": "ngu-dinh-dao",
+        "thumb": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 6",
+        "total_episodes": "32",
+        "country": "Trung Quốc",
+        "description": "Mạnh Đình Huy (Ngô Cẩn Ngôn) là nữ quan đầu tiên của triều Đại Ninh thi đỗ tam nguyên. Trên triều, nàng khôn khéo, tàn nhẫn, lọc lõi đủ đường, bị gán tiếng “gian thần” nhưng thực chất lại chỉ có một lý tưởng duy nhất: dốc hết tâm huyết để phò tá vị minh quân trẻ tuổi mà mình từng mang ơn. Thế nhưng, trên con đường đầy cạm bẫy của quyền lực, Mạnh Đình Huy không ngờ rằng tấm lòng nàng dốc lòng chôn giấu lại được hồi đáp bằng tình yêu sâu sắc. Anh Quả (Trần Triết Viễn), vị quân vương ẩn nhẫn, trị quốc bằng trí tuệ và sự điềm tĩnh, từng bước để lộ trái tim chỉ dành cho nàng. Chàng không giỏi lời hoa mỹ, nhưng mỗi hành động, mỗi ánh mắt đều là minh chứng cho một tình yêu lặng lẽ mà mãnh liệt."
+    },
+    {
         "name": "Ngày Đẹp Trời Ta Thành Đôi",
         "year": 2025,
         "slug": "ngay-dep-troi-ta-thanh-doi",
@@ -346,28 +358,5 @@
         "total_episodes": "22",
         "country": "Trung Quốc",
         "description": "Một học giả theo chủ nghĩa duy vật vô tình lạc bước vào lãnh địa của yêu ma, để rồi một lần nữa tìm lại mối ràng buộc linh hồn từ một thế kỷ trước và một tình yêu đã được định sẵn bởi định mệnh."
-    },
-    {
-        "name": "Vân Tú Hành",
-        "year": 2026,
-        "slug": "van-tu-hanh",
-        "thumb": "https://phimimg.com/upload/vod/20260620-1/00083387b890aaac69f0490b3fda8c13.jpg",
-        "actor": [
-            "Lý Nhất Đồng",
-            "Tăng Thuấn Hy",
-            "Đặng Vi",
-            "Đại Lộ Oa",
-            "Vương Dĩ Luân",
-            "Trình Hoành Hâm",
-            "Điền Gia Thụy",
-            "Giản Vũ Hy",
-            "Phạm Tịnh Văn",
-            "Đặng Hiếu Từ",
-            "Doãn Chú Thắng",
-            "Bào Đại Chí"
-        ],
-        "sub_type": "Vietsub + Thuyết Minh",
-        "current_episode": "Hoàn Tất (36/36)",
-        "total_episodes": "36"
     }
 ]
