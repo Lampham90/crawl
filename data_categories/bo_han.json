@@ -1,5 +1,17 @@
 [
     {
+        "name": "Giấc Mơ Trao Em",
+        "year": 2026,
+        "slug": "giac-mo-trao-em",
+        "thumb": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 6",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Woo Soo Bin và Ju Yi Jae gặp lại sau 15 năm. Ký ức cũ dần sống dậy, cả hai phải đối diện với những cảm xúc và tình yêu vẫn chưa thực sự kết thúc."
+    },
+    {
         "name": "Sếp Ơi, Mai Đừng Gặp Nhau!",
         "year": 2026,
         "slug": "sep-oi-mai-dung-gap-nhau",
@@ -34,18 +46,6 @@
         "total_episodes": "8",
         "country": "Hàn Quốc",
         "description": "Bộ phim kể về Cha Eun Hwan, một chuyên gia tư vấn tâm lý có khả năng đồng cảm quá mạnh, luôn vô thức gánh chịu cảm xúc của người khác. Khả năng này giúp anh nổi tiếng nhưng cũng khiến cuộc sống ngày càng mất cân bằng. Ở chiều ngược lại là Yoo Ji An, cựu thần tượng quốc dân nay chuyển sang làm diễn viên. Do lớn lên dưới sự kiểm soát nghiêm khắc của mẹ, cô dần đánh mất khả năng đồng cảm và rơi vào khủng hoảng vì bị chỉ trích diễn xuất thiếu cảm xúc. Sau một biến cố kỳ lạ, hai người bất ngờ chia sẻ cảm xúc của nhau. Khi niềm vui, nỗi buồn và cả nỗi đau đều được truyền sang đối phương, họ buộc phải đồng hành trong ba tháng để tìm cách hóa giải hiện tượng bí ẩn này. Trên hành trình đó, cả hai dần chữa lành những tổn thương trong quá khứ và tìm thấy tình yêu."
-    },
-    {
-        "name": "Giấc Mơ Trao Em",
-        "year": 2026,
-        "slug": "giac-mo-trao-em",
-        "thumb": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 5",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Woo Soo Bin và Ju Yi Jae gặp lại sau 15 năm. Ký ức cũ dần sống dậy, cả hai phải đối diện với những cảm xúc và tình yêu vẫn chưa thực sự kết thúc."
     },
     {
         "name": "Phi Vụ Chung Cư",

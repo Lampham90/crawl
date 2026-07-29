@@ -1,5 +1,17 @@
 [
     {
+        "name": "Nhất Trảm Thương Khung",
+        "year": 2026,
+        "slug": "nhat-tram-thuong-khung",
+        "thumb": "https://phimimg.com/uploads/movies/20260729/nhat-tram-thuong-khung-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260729/nhat-tram-thuong-khung-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "26",
+        "country": "Trung Quốc",
+        "description": "Từ nhỏ, Cốc An luôn nỗ lực tu luyện với khát vọng trở thành tiên nhân. Thế nhưng, vì trời sinh thiếu linh căn nên anh vô duyên với tiên đạo, lại còn bị lừa vào một khu lừa đảo của giới tu tiên, nhiều lần cận kề cái chết. Sau khi trải qua vô vàn đau khổ và bị dồn đến đường cùng, Cốc An quyết tâm vùng lên báo thù, từng bước nghịch thiên cải mệnh. Con đường thượng vị của anh bắt đầu từ đây, với lời thề một ngày sẽ một đao chém rách cả thương khung."
+    },
+    {
         "name": "Vạn Cổ Chí Tôn: Lý Vân Tiêu Truyện",
         "year": 2026,
         "slug": "van-co-chi-ton-ly-van-tieu-truyen",
@@ -321,17 +333,6 @@
         "sub_type": "Vietsub",
         "current_episode": "Tập 40",
         "total_episodes": "80",
-        "country": "Trung Quốc"
-    },
-    {
-        "name": "Bebefinn (Phần 4)",
-        "year": 2026,
-        "slug": "bebefinn-phan-4",
-        "thumb": "https://phimimg.com/upload/vod/20260503-1/858b4961c39a78385f103a4ccd098fa1.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260503-1/91e5442864992e9a99d93d7ef014b9eb.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (2/2)",
-        "total_episodes": "2",
         "country": "Trung Quốc"
     }
 ]
