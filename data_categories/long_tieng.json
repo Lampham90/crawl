@@ -1,12 +1,24 @@
 [
     {
+        "name": "Thanh Gươm Diệt Quỷ: Vô Hạn Thành",
+        "year": 2025,
+        "slug": "thanh-guom-diet-quy-vo-han-thanh",
+        "thumb": "https://phimimg.com/upload/vod/20250722-1/16ea0557ca40cd54a3d25c6750a65c0b.jpg",
+        "poster": "https://phimimg.com/upload/vod/20250722-1/66ee196318069c6ede9450a5f76a4648.jpg",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Nhật Bản",
+        "description": "Kamado Tanjiro gia nhập Sát Quỷ Đoàn sau khi em gái Nezuko bị biến thành quỷ. Trong quá trình trưởng thành, Tanjiro đã chiến đấu với nhiều con quỷ cùng với các đồng đội Agatsuma Zenitsu và Hashibira Inosuke. Hành trình đưa cậu đến với cuộc chiến cùng những kiếm sĩ cấp cao nhất của Sát Quỷ Đoàn - các Trụ Cột - gồm Viêm Trụ Rengoku Kyojuro trên Chuyến Tàu Vô Tận, Âm Trụ Uzui Tengen tại Kỹ Viện Trấn, cũng như Hà Trụ Tokito Muichiro và Luyến Trụ Kanroji Mitsuri tại Làng Thợ Rèn. Khi các thành viên của Sát Quỷ Đoàn và Trụ Cột tham gia vào chương trình đặc huấn để chuẩn bị cho trận chiến sắp với lũ quỷ, Kibutsuji Muzan xuất hiện tại Dinh thự Ubuyashiki. Khi thủ lĩnh của Sát Quỷ Đoàn gặp nguy hiểm, Tanjiro và các Trụ Cột trở về trụ sở Thế nhưng, Muzan bất ngờ kéo toàn bộ Sát Quỷ Đoàn đến hang ổ cuối cùng của lũ quỷ là Vô Hạn Thành, mở màn cho trận đánh cuối cùng của cả hai phe."
+    },
+    {
         "name": "Tội Ác Không Nên Có",
         "year": 2026,
         "slug": "toi-ac-khong-nen-co",
         "thumb": "https://phimimg.com/upload/vod/20260704-1/0fcd46078cb6fc555fe71f521fb80f5e.jpg",
         "poster": "https://phimimg.com/upload/vod/20260704-1/e5f7a997372396eaa29613d8ced5c188.jpg",
         "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 22",
+        "current_episode": "Tập 23",
         "total_episodes": "25",
         "country": "Hồng Kông",
         "description": "Giữa những cám dỗ của cuộc sống, ranh giới giữa khát vọng và lòng tham vô cùng mong manh. Phim gồm 6 câu chuyện chuyển thể từ các vụ án có thật, tái hiện những bi kịch bắt nguồn từ tham vọng, tình yêu, thù hận và những bí ẩn tâm linh. Không chỉ mang đến các vụ phá án kịch tính với nhiều cú ngoặt bất ngờ, bộ phim còn khắc họa những góc khuất trong bản chất con người, nơi chỉ một ý niệm cũng có thể quyết định ranh giới giữa thiện và ác."
@@ -455,22 +467,5 @@
         "sub_type": "Lồng Tiếng",
         "current_episode": "Hoàn Tất (25/25)",
         "total_episodes": "25"
-    },
-    {
-        "name": "Tiếng Yêu Này, Anh Dịch Được Không?",
-        "year": 2026,
-        "slug": "tieng-yeu-nay-anh-dich-duoc-khong",
-        "thumb": "https://phimimg.com/upload/vod/20260116-1/92ad3288f61736574a2a2dd3c4ee5df1.jpg",
-        "actor": [
-            "Kim Seon-ho",
-            "Go Youn-jung",
-            "Sota Fukushi",
-            "Lee E-dam",
-            "Choi Woo-sung",
-            "Kim Won-hae"
-        ],
-        "sub_type": "Vietsub + Lồng Tiếng",
-        "current_episode": "Hoàn Tất (12/12)",
-        "total_episodes": "12"
     }
 ]

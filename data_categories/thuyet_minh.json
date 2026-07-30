@@ -1,5 +1,41 @@
 [
     {
+        "name": "Tiếng Anh Thành Tiếng Yêu",
+        "year": 2026,
+        "slug": "tieng-anh-thanh-tieng-yeu",
+        "thumb": "https://phimimg.com/upload/vod/20260624-1/6e87f321ab981ee0c3ecd25cb4fcc76d.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260624-1/343a4926192b76407591f65c006d823b.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 11",
+        "total_episodes": "14",
+        "country": "Thái Lan",
+        "description": "Bộ phim&nbsp;là hành trình tình yêu giữa một gia sư điển trai và một nữ minh tinh nổi tiếng. Vì muốn hòa nhập với gia đình thượng lưu của bạn trai cũng như để chuẩn bị cho vai diễn nói tiếng Anh sắp tới, nữ diễn viên Eva quyết định theo học tiếng Anh với chàng gia sư Pun. Sau một thời gian tiếp xúc, giữa họ bắt đầu nảy sinh tình cảm. Khi tính mạng của Eva bị đe dọa, Pun phải kiêm luôn vai trò vệ sĩ để bảo vệ cô. Tình yêu của họ liệu có thể vượt qua những sóng gió đang chờ phía trước?"
+    },
+    {
+        "name": "Reiko: Tái Sinh Báo Thù",
+        "year": 2025,
+        "slug": "reiko-tai-sinh-bao-thu",
+        "thumb": "https://phimimg.com/uploads/movies/20260730/reiko-tai-sinh-bao-thu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260730/reiko-tai-sinh-bao-thu-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 9",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Sau cái chết đầy uẩn khúc của con gái, một người mẹ phát hiện bi kịch không phải là tai nạn mà bắt nguồn từ sự bắt nạt của một nhóm phụ huynh. Quyết không để thủ phạm thoát tội, bà làm phẫu thuật thẩm mỹ, thay đổi thân phận và trà trộn vào chính cộng đồng đã hủy hoại cuộc đời con mình. Trong quá trình từng bước vạch trần sự thật và thực hiện kế hoạch báo thù, bà cũng phải đối mặt với câu hỏi day dứt: liệu việc lấy mạng những kẻ cướp đi mạng sống của con gái có thể được gọi là công lý hay không?"
+    },
+    {
+        "name": "Bà Đồng Muifei (Muội Phi)",
+        "year": 2026,
+        "slug": "ba-dong-muifei-muoi-phi",
+        "thumb": "https://phimimg.com/upload/vod/20260618-1/4daf691fdbcabbedc0890a863677c9ad.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260618-1/1c5c2f1516d809ce698ddac881b72bde.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 14",
+        "total_episodes": "20",
+        "country": "Thái Lan",
+        "description": "Bà Đồng Muifei là một cô gái trẻ sống trong một ngôi làng ở vùng núi, mang trên vai trách nhiệm gánh chịu những điều bất hạnh và đau khổ thay cho cộng đồng. Cuộc đời Muifei bắt đầu rẽ sang bước ngoặt bi kịch khi cô đem lòng yêu chàng trai thành phố Phum và rời bỏ quê nhà để đi theo tiếng gọi của con tim. Tuy nhiên, hy vọng về một cuộc sống tốt đẹp hơn nhanh chóng tan biến khi cô phải đối mặt với vô vàn khó khăn, sự bóc lột và những hành vi ngược đãi tàn nhẫn. Bị nhấn chìm trong đau đớn tột cùng, Muifei trở lại dưới hình dạng một linh hồn báo oán, quyết tâm đòi lại công lý."
+    },
+    {
         "name": "Giây Phút Ấy Vượt Giới Hạn",
         "year": 2026,
         "slug": "giay-phut-ay-vuot-gioi-han",
@@ -192,30 +228,6 @@
         "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
     },
     {
-        "name": "Tiếng Anh Thành Tiếng Yêu",
-        "year": 2026,
-        "slug": "tieng-anh-thanh-tieng-yeu",
-        "thumb": "https://phimimg.com/upload/vod/20260624-1/6e87f321ab981ee0c3ecd25cb4fcc76d.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260624-1/343a4926192b76407591f65c006d823b.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 10",
-        "total_episodes": "14",
-        "country": "Thái Lan",
-        "description": "Bộ phim&nbsp;là hành trình tình yêu giữa một gia sư điển trai và một nữ minh tinh nổi tiếng. Vì muốn hòa nhập với gia đình thượng lưu của bạn trai cũng như để chuẩn bị cho vai diễn nói tiếng Anh sắp tới, nữ diễn viên Eva quyết định theo học tiếng Anh với chàng gia sư Pun. Sau một thời gian tiếp xúc, giữa họ bắt đầu nảy sinh tình cảm. Khi tính mạng của Eva bị đe dọa, Pun phải kiêm luôn vai trò vệ sĩ để bảo vệ cô. Tình yêu của họ liệu có thể vượt qua những sóng gió đang chờ phía trước?"
-    },
-    {
-        "name": "Bà Đồng Muifei (Muội Phi)",
-        "year": 2026,
-        "slug": "ba-dong-muifei-muoi-phi",
-        "thumb": "https://phimimg.com/upload/vod/20260618-1/4daf691fdbcabbedc0890a863677c9ad.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260618-1/1c5c2f1516d809ce698ddac881b72bde.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 12",
-        "total_episodes": "20",
-        "country": "Thái Lan",
-        "description": "Bà Đồng Muifei là một cô gái trẻ sống trong một ngôi làng ở vùng núi, mang trên vai trách nhiệm gánh chịu những điều bất hạnh và đau khổ thay cho cộng đồng. Cuộc đời Muifei bắt đầu rẽ sang bước ngoặt bi kịch khi cô đem lòng yêu chàng trai thành phố Phum và rời bỏ quê nhà để đi theo tiếng gọi của con tim. Tuy nhiên, hy vọng về một cuộc sống tốt đẹp hơn nhanh chóng tan biến khi cô phải đối mặt với vô vàn khó khăn, sự bóc lột và những hành vi ngược đãi tàn nhẫn. Bị nhấn chìm trong đau đớn tột cùng, Muifei trở lại dưới hình dạng một linh hồn báo oán, quyết tâm đòi lại công lý."
-    },
-    {
         "name": "Tước Cốt",
         "year": 2026,
         "slug": "tuoc-cot",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Trung Quốc",
         "description": "Giàn khoan ngoài khơi Deep Blue 3 thuộc vùng biển Trung Quốc đã bị lính đánh thuê chiếm đóng. Hải quân Trung Quốc đã ra khơi để đẩy lùi quân xâm lược."
-    },
-    {
-        "name": "Hạnh Gian Thác (Tâm Gian Thác)",
-        "year": 2026,
-        "slug": "hanh-gian-thac-tam-gian-thac",
-        "thumb": "https://phimimg.com/upload/vod/20260617-1/cacb91201d6860a139b7bb6128d7336e.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260617-1/3e399daca0f80777d6c37ba964bda1e4.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (22/22)",
-        "total_episodes": "22",
-        "country": "Trung Quốc",
-        "description": "Một học giả theo chủ nghĩa duy vật vô tình lạc bước vào lãnh địa của yêu ma, để rồi một lần nữa tìm lại mối ràng buộc linh hồn từ một thế kỷ trước và một tình yêu đã được định sẵn bởi định mệnh."
     }
 ]

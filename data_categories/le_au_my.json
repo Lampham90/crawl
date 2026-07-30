@@ -1,5 +1,41 @@
 [
     {
+        "name": "Lời Thì Thầm Ma Quái / Vọng Âm Vô Hình",
+        "year": 2026,
+        "slug": "loi-thi-tham-ma-quai-vong-am-vo-hinh",
+        "thumb": "https://phimimg.com/uploads/movies/20260715/loi-thi-tham-ma-quai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260715/loi-thi-tham-ma-quai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Canada",
+        "description": "Người dẫn một podcast nổi tiếng về hiện tượng siêu nhiên bắt đầu bị ám ảnh bởi những bản ghi âm kinh hoàng được gửi đến cô một cách bí ẩn. Khi càng đào sâu vào nguồn gốc của các đoạn ghi ấy, ranh giới giữa công việc và nỗi sợ cá nhân dần sụp đổ."
+    },
+    {
+        "name": "Khi Bố Thất Thủ",
+        "year": 2026,
+        "slug": "khi-bo-that-thu",
+        "thumb": "https://phimimg.com/uploads/movies/20260730/khi-bo-that-thu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260730/khi-bo-that-thu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Khi vợ chốt được một thương vụ trên Shark Tank, Nate trở thành ông bố nội trợ của ba cô con gái. Hành trình đầy tiếng cười giúp anh khám phá ý nghĩa thực sự của gia đình."
+    },
+    {
+        "name": "Con Cừu Đen",
+        "year": 2025,
+        "slug": "con-cuu-den",
+        "thumb": "https://phimimg.com/upload/vod/20251129-1/f4b782d7e7105df50682f16554fb978e.jpg",
+        "poster": "https://phimimg.com/upload/vod/20251129-1/753cc2cae8dd0d25f2fcda75cfcea414.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Anh",
+        "description": "Được chẩn đoán mắc Hội chứng Tourette ở tuổi 15, John Davidson phải đối mặt với vô vàn khó khăn trong những năm tháng tuổi teen đầy biến động và hành trình bước vào tuổi trưởng thành. Trên con đường ấy, anh tìm thấy cảm hứng từ lòng tốt của những người xung quanh để khám phá ý nghĩa thật sự của cuộc đời mình."
+    },
+    {
         "name": "Instadocs: Trò Chơi Dự Đoán",
         "year": 2026,
         "slug": "instadocs-tro-choi-du-doan",
@@ -130,18 +166,6 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Hai người bạn cùng nhau đi công tác và đối mặt với những thử thách bất ngờ cùng những cá tính dị biệt tại địa phương trong quá trình thực hiện nhiệm vụ. Những nỗ lực của họ nhằm thích nghi với môi trường xa lạ đã làm nổi bật lên những khoảnh khắc hài hước, nét văn hóa của thị trấn nhỏ và cả bản chất khó lường của những chuyến đi vì công việc. Trải nghiệm này cuối cùng đã mang lại những góc nhìn hoàn toàn mới về tình bạn của họ."
-    },
-    {
-        "name": "Lời Thì Thầm Ma Quái",
-        "year": 2026,
-        "slug": "loi-thi-tham-ma-quai",
-        "thumb": "https://phimimg.com/uploads/movies/20260715/loi-thi-tham-ma-quai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260715/loi-thi-tham-ma-quai-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Canada",
-        "description": "Người dẫn một podcast nổi tiếng về hiện tượng siêu nhiên bắt đầu bị ám ảnh bởi những bản ghi âm kinh hoàng được gửi đến cô một cách bí ẩn. Khi càng đào sâu vào nguồn gốc của các đoạn ghi ấy, ranh giới giữa công việc và nỗi sợ cá nhân dần sụp đổ."
     },
     {
         "name": "Sát Nhân Huyền Bí Ở Inland Empire",
@@ -300,6 +324,18 @@
         "description": "Một loại đồ uống gây ảo giác khiến nhân viên làm việc đến chết."
     },
     {
+        "name": "Lời Thì Thầm Ma Quái",
+        "year": 2026,
+        "slug": "loi-thi-tham-ma-quai",
+        "thumb": "https://phimimg.com/uploads/movies/20260715/loi-thi-tham-ma-quai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260715/loi-thi-tham-ma-quai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Canada",
+        "description": "Người dẫn một podcast nổi tiếng về hiện tượng siêu nhiên bắt đầu bị ám ảnh bởi những bản ghi âm kinh hoàng được gửi đến cô một cách bí ẩn. Khi càng đào sâu vào nguồn gốc của các đoạn ghi ấy, ranh giới giữa công việc và nỗi sợ cá nhân dần sụp đổ."
+    },
+    {
         "name": "Dây đàn",
         "year": 2026,
         "slug": "day-dan",
@@ -322,41 +358,5 @@
         "total_episodes": "1",
         "country": "Anh",
         "description": "Vào đêm Giáng sinh, hai anh em sinh đôi Alfie và Elise tình cờ tìm thấy một chiếc Đồng hồ Ước nguyện nhiệm màu. Ngay sau đó, họ bị Người Thu Thập Ước Nguyện cuốn vào \"Vùng Đất Của Những Điều Ước\" — một thế giới âm nhạc diệu kỳ, nơi hai đứa trẻ sẽ học được một bài học quý giá rằng: mọi điều ước đều đi kèm với những hệ lụy của nó."
-    },
-    {
-        "name": "Đại dương cùng David Attenborough",
-        "year": 2025,
-        "slug": "dai-duong-cung-david-attenborough",
-        "thumb": "https://phimimg.com/uploads/movies/20260710/dai-duong-cung-david-attenborough-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260710/dai-duong-cung-david-attenborough-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Anh",
-        "description": "David Attenborough đưa người xem vào một hành trình ngoạn mục, cho thấy không nơi nào quan trọng hơn cho sự sống còn của chúng ta, tràn đầy sự sống, kỳ diệu hay bất ngờ hơn đại dương. Thông qua những thước phim ngoạn mục về rạn san hô, rừng tảo bẹ và đại dương bao la, Attenborough chia sẻ lý do tại sao một đại dương khỏe mạnh giúp toàn bộ hành tinh ổn định và phát triển thịnh vượng."
-    },
-    {
-        "name": "Kim cương đen",
-        "year": 2025,
-        "slug": "kim-cuong-den",
-        "thumb": "https://phimimg.com/uploads/movies/20260710/kim-cuong-den-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260710/kim-cuong-den-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Câu chuyện kể về một cô gái trẻ có cuộc sống yên bình bên bạn trai là nhà quản lý quỹ đầu cơ, nhưng rồi cuộc sống đó biến thành một tam giác tình yêu chết người đầy dục vọng, ám ảnh và giết người sau khi cô gặp một anh chàng thợ sửa chữa nhà cửa theo phong cách cao bồi địa phương."
-    },
-    {
-        "name": "Da trần",
-        "year": 2025,
-        "slug": "da-tran",
-        "thumb": "https://phimimg.com/uploads/movies/20260710/da-tran-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260710/da-tran-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Các nạn nhân của những tổn thương tâm lý nghiêm trọng được mời tham gia một buổi trị liệu nhóm để chia sẻ kinh nghiệm của họ trong một môi trường an toàn, nhưng khi những câu chuyện của họ được kể lại, một sự thật đáng lo ngại được hé lộ: tất cả họ có thể đều có mối liên hệ với nhau trong bất hạnh của mình."
     }
 ]

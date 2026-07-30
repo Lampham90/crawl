@@ -1,5 +1,77 @@
 [
     {
+        "name": "Ý Chí Kim Cương",
+        "year": 2026,
+        "slug": "y-chi-kim-cuong",
+        "thumb": "https://phimimg.com/upload/vod/20260619-1/d27cee3db697f0b6d6ca7d22b14be2f2.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260619-1/ca96e7f068f84776ca2b4e52b9e971bc.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 29",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Chàng nhạc công tài năng xuất thân nghèo khó và một nữ sinh trung học giàu có nảy sinh tình cảm giữa những mối thù địch cá nhân và một biến cố làm thay đổi cuộc đời."
+    },
+    {
+        "name": "Tiếng Anh Thành Tiếng Yêu",
+        "year": 2026,
+        "slug": "tieng-anh-thanh-tieng-yeu",
+        "thumb": "https://phimimg.com/upload/vod/20260624-1/6e87f321ab981ee0c3ecd25cb4fcc76d.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260624-1/343a4926192b76407591f65c006d823b.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 11",
+        "total_episodes": "14",
+        "country": "Thái Lan",
+        "description": "Bộ phim&nbsp;là hành trình tình yêu giữa một gia sư điển trai và một nữ minh tinh nổi tiếng. Vì muốn hòa nhập với gia đình thượng lưu của bạn trai cũng như để chuẩn bị cho vai diễn nói tiếng Anh sắp tới, nữ diễn viên Eva quyết định theo học tiếng Anh với chàng gia sư Pun. Sau một thời gian tiếp xúc, giữa họ bắt đầu nảy sinh tình cảm. Khi tính mạng của Eva bị đe dọa, Pun phải kiêm luôn vai trò vệ sĩ để bảo vệ cô. Tình yêu của họ liệu có thể vượt qua những sóng gió đang chờ phía trước?"
+    },
+    {
+        "name": "Tám Tay Lừa Đảo",
+        "year": 2026,
+        "slug": "tam-tay-lua-dao",
+        "thumb": "https://phimimg.com/upload/vod/20260619-1/9e93d64325569582ddae5c844a3c1d4d.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260702-1/662375d82c0df6023d38812cb33f4661.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 12",
+        "total_episodes": "19",
+        "country": "Thái Lan",
+        "description": "Miễn cưỡng liên thủ, tám tay lừa đảo toan thực hiện phi vụ nguy hiểm nhất từ trước đến nay: lừa chính những tên tội phạm đứng sau một mạng lưới lừa đảo ngầm khổng lồ."
+    },
+    {
+        "name": "Đầu Bếp Đấu Giá",
+        "year": 2026,
+        "slug": "dau-bep-dau-gia",
+        "thumb": "https://phimimg.com/uploads/movies/20260730/dau-bep-dau-gia-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260722/dau-bep-dau-gia-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "11",
+        "country": "Thái Lan",
+        "description": "Những đầu bếp hàng đầu bước vào cuộc thi nấu ăn khốc liệt, nơi họ phải đối đầu, đấu trí và trả giá vượt mặt nhau để khẳng định bản lĩnh ẩm thực."
+    },
+    {
+        "name": "Bạn Gái Người Máy",
+        "year": 2026,
+        "slug": "ban-gai-nguoi-may",
+        "thumb": "https://phimimg.com/upload/vod/20260702-1/88140f84f7bde451cb436d2693f74efb.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260702-1/9ddc66c01bd307e5fd64162459ea38d5.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Cuộc sống yên bình của Jen bị đảo lộn khi Ai, một robot bí ẩn có ngoại hình giống hệt cô gái trong mộng của cô, xuất hiện và gọi cô là &quot;Chủ nhân&quot;. Bị buộc phải sống chung, Jen không ngờ rằng mình lại đem lòng yêu cỗ máy tinh nghịch này. Khi mối liên kết giữa họ ngày càng sâu đậm, cô phải đối mặt với câu hỏi cuối cùng: Ai chỉ là một chương trình lỗi lạc, hay chính là tình yêu của đời cô?"
+    },
+    {
+        "name": "Bà Đồng Muifei (Muội Phi)",
+        "year": 2026,
+        "slug": "ba-dong-muifei-muoi-phi",
+        "thumb": "https://phimimg.com/upload/vod/20260618-1/4daf691fdbcabbedc0890a863677c9ad.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260618-1/1c5c2f1516d809ce698ddac881b72bde.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 14",
+        "total_episodes": "20",
+        "country": "Thái Lan",
+        "description": "Bà Đồng Muifei là một cô gái trẻ sống trong một ngôi làng ở vùng núi, mang trên vai trách nhiệm gánh chịu những điều bất hạnh và đau khổ thay cho cộng đồng. Cuộc đời Muifei bắt đầu rẽ sang bước ngoặt bi kịch khi cô đem lòng yêu chàng trai thành phố Phum và rời bỏ quê nhà để đi theo tiếng gọi của con tim. Tuy nhiên, hy vọng về một cuộc sống tốt đẹp hơn nhanh chóng tan biến khi cô phải đối mặt với vô vàn khó khăn, sự bóc lột và những hành vi ngược đãi tàn nhẫn. Bị nhấn chìm trong đau đớn tột cùng, Muifei trở lại dưới hình dạng một linh hồn báo oán, quyết tâm đòi lại công lý."
+    },
+    {
         "name": "Thế Giới Em Và Tôi",
         "year": 2026,
         "slug": "the-gioi-em-va-toi",
@@ -46,18 +118,6 @@
         "total_episodes": "20",
         "country": "Thái Lan",
         "description": "Phim kể về Rawee, người thừa kế khối tài sản kếch xù từ cha và có một cuộc hôn nhân sắp đặt. Anh bị sát hại sau khi phát hiện vợ mình ngoại tình. Rất may, Rawee không chết mà chỉ mất trí nhớ và được cô gái Lockchan cứu sống. Liệu Rawee có lấy lại được ký ức để trả thù những kẻ đã từng giết hại mình?"
-    },
-    {
-        "name": "Ý Chí Kim Cương",
-        "year": 2026,
-        "slug": "y-chi-kim-cuong",
-        "thumb": "https://phimimg.com/upload/vod/20260619-1/d27cee3db697f0b6d6ca7d22b14be2f2.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260619-1/ca96e7f068f84776ca2b4e52b9e971bc.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 28",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Chàng nhạc công tài năng xuất thân nghèo khó và một nữ sinh trung học giàu có nảy sinh tình cảm giữa những mối thù địch cá nhân và một biến cố làm thay đổi cuộc đời."
     },
     {
         "name": "San Hô Đen",
@@ -180,18 +240,6 @@
         "description": "Đây là một bộ phim hài lãng mạn vô cùng chữa lành. Chàng streamer game siêu nổi tiếng nhưng độc miệng tên \"Three\" bất ngờ thua trước một người chơi mới thanh thuần tên \"Soh\" ngay trên sóng livestream. Chuyện vốn dĩ bắt đầu từ một cuộc đi \"Tìm kiếm đối thủ cạnh tranh\" lại bất ngờ biến thành hành trình \"Tình cờ gặp gỡ tình yêu\". Người tưởng chừng như chỉ biết \"quấy rối tinh thần\" lại chính là người \"làm trái tim rung động\". Trên con đường theo đuổi ước mơ eSports, họ không chỉ phải đối mặt với thử thách từ các trận đấu game mà còn phải học cách đối diện với thứ tình cảm không thể dễ dàng nhấn nút \"khởi động lại\"."
     },
     {
-        "name": "Tám Tay Lừa Đảo",
-        "year": 2026,
-        "slug": "tam-tay-lua-dao",
-        "thumb": "https://phimimg.com/upload/vod/20260619-1/9e93d64325569582ddae5c844a3c1d4d.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260702-1/662375d82c0df6023d38812cb33f4661.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 11",
-        "total_episodes": "19",
-        "country": "Thái Lan",
-        "description": "Miễn cưỡng liên thủ, tám tay lừa đảo toan thực hiện phi vụ nguy hiểm nhất từ trước đến nay: lừa chính những tên tội phạm đứng sau một mạng lưới lừa đảo ngầm khổng lồ."
-    },
-    {
         "name": "Cây cam ở nhà cậu ấy nhưng quả cam luôn rơi sang nhà tôi",
         "year": 2026,
         "slug": "cay-cam-o-nha-cau-ay-nhung-qua-cam-luon-roi-sang-nha-toi",
@@ -202,54 +250,6 @@
         "total_episodes": "12",
         "country": "Thái Lan",
         "description": "Ko là một cậu bé mê cam hơn bất cứ thứ gì trên đời - nhưng không phải cam nào cậu cũng thích. Nhất định phải là cam từ cây ở nhà bên cạnh mới được. Không có loại cam nào ngon bằng, cũng chẳng có loại nào khiến cậu hạnh phúc đến thế. Thơm, ngọt, ngon lành - mọi thứ về những quả cam nhà trồng ấy, Ko đều yêu thích vô cùng. Chỉ có một điều ngoại lệ: chủ nhân thật sự của cây cam đó. Cậu con trai mang cái tên ngầu y hệt tên cậu. Vì hai người trùng tên nên mọi người gọi cậu ta là “Ko Hai”, theo cách gọi quen thuộc mỗi khi có hai người cùng tên. Và thế là Ko nghiễm nhiên trở thành “Ko Một”. Nhưng ngoài cái tên giống nhau ra, cả hai chẳng có điểm gì chung. Tính cách trái ngược hoàn toàn - như thể ông trời đã phái một vị thần tối cao xuống để trừng trị con quỷ cam tinh nghịch vậy. Trong lúc câu chuyện của hai Ko dần mở ra, họ cũng lớn lên - không chỉ về dáng hình mà cả những cảm xúc âm thầm nảy nở trong tim."
-    },
-    {
-        "name": "Tiếng Anh Thành Tiếng Yêu",
-        "year": 2026,
-        "slug": "tieng-anh-thanh-tieng-yeu",
-        "thumb": "https://phimimg.com/upload/vod/20260624-1/6e87f321ab981ee0c3ecd25cb4fcc76d.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260624-1/343a4926192b76407591f65c006d823b.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 10",
-        "total_episodes": "14",
-        "country": "Thái Lan",
-        "description": "Bộ phim&nbsp;là hành trình tình yêu giữa một gia sư điển trai và một nữ minh tinh nổi tiếng. Vì muốn hòa nhập với gia đình thượng lưu của bạn trai cũng như để chuẩn bị cho vai diễn nói tiếng Anh sắp tới, nữ diễn viên Eva quyết định theo học tiếng Anh với chàng gia sư Pun. Sau một thời gian tiếp xúc, giữa họ bắt đầu nảy sinh tình cảm. Khi tính mạng của Eva bị đe dọa, Pun phải kiêm luôn vai trò vệ sĩ để bảo vệ cô. Tình yêu của họ liệu có thể vượt qua những sóng gió đang chờ phía trước?"
-    },
-    {
-        "name": "Bạn Gái Người Máy",
-        "year": 2026,
-        "slug": "ban-gai-nguoi-may",
-        "thumb": "https://phimimg.com/upload/vod/20260702-1/88140f84f7bde451cb436d2693f74efb.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260702-1/9ddc66c01bd307e5fd64162459ea38d5.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Cuộc sống yên bình của Jen bị đảo lộn khi Ai, một robot bí ẩn có ngoại hình giống hệt cô gái trong mộng của cô, xuất hiện và gọi cô là &quot;Chủ nhân&quot;. Bị buộc phải sống chung, Jen không ngờ rằng mình lại đem lòng yêu cỗ máy tinh nghịch này. Khi mối liên kết giữa họ ngày càng sâu đậm, cô phải đối mặt với câu hỏi cuối cùng: Ai chỉ là một chương trình lỗi lạc, hay chính là tình yêu của đời cô?"
-    },
-    {
-        "name": "Bà Đồng Muifei (Muội Phi)",
-        "year": 2026,
-        "slug": "ba-dong-muifei-muoi-phi",
-        "thumb": "https://phimimg.com/upload/vod/20260618-1/4daf691fdbcabbedc0890a863677c9ad.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260618-1/1c5c2f1516d809ce698ddac881b72bde.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 12",
-        "total_episodes": "20",
-        "country": "Thái Lan",
-        "description": "Bà Đồng Muifei là một cô gái trẻ sống trong một ngôi làng ở vùng núi, mang trên vai trách nhiệm gánh chịu những điều bất hạnh và đau khổ thay cho cộng đồng. Cuộc đời Muifei bắt đầu rẽ sang bước ngoặt bi kịch khi cô đem lòng yêu chàng trai thành phố Phum và rời bỏ quê nhà để đi theo tiếng gọi của con tim. Tuy nhiên, hy vọng về một cuộc sống tốt đẹp hơn nhanh chóng tan biến khi cô phải đối mặt với vô vàn khó khăn, sự bóc lột và những hành vi ngược đãi tàn nhẫn. Bị nhấn chìm trong đau đớn tột cùng, Muifei trở lại dưới hình dạng một linh hồn báo oán, quyết tâm đòi lại công lý."
-    },
-    {
-        "name": "Đầu Bếp Đấu Giá",
-        "year": 2026,
-        "slug": "dau-bep-dau-gia",
-        "thumb": "https://occ-0-8407-116.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABd5_ZxuQG9EZOvnVZpVvnGDGjk7anPd4PLYUy1mbqPzlmUq6EG_Phev_bFZksP9y1yYuNEtnThErPT5ybpN61hsgrrzItRv42x_NPfG43suTTDPWNXljrArkQA.jpg?r=33b",
-        "poster": "https://phimimg.com/uploads/movies/20260722/dau-bep-dau-gia-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "11",
-        "country": "Thái Lan",
-        "description": "Những đầu bếp hàng đầu bước vào cuộc thi nấu ăn khốc liệt, nơi họ phải đối đầu, đấu trí và trả giá vượt mặt nhau để khẳng định bản lĩnh ẩm thực."
     },
     {
         "name": "Manga Sát Lệnh",
