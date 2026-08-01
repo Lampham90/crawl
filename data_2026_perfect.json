@@ -365,6 +365,18 @@
     ],
     "hh_trung_quoc": [
         {
+            "name": "Học Viện Cao Võ Đông Đại",
+            "year": 2026,
+            "slug": "hoc-vien-cao-vo-dong-dai",
+            "thumb": "https://phimimg.com/uploads/movies/20260718/hoc-vien-cao-vo-dong-dai-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260718/hoc-vien-cao-vo-dong-dai-phan-1-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "12",
+            "country": "Trung Quốc",
+            "description": "Vạn Vật Sinh là một thứ công pháp cổ xưa thần kỳ và bí ẩn hơn tất cả những hiểu biết của con người thời hiện đại ngày nay, nhưng bằng một cách thần bí nào đó mà nó lại được truyền thừa và tái hiện trong cơ thể của một thiếu niên thời hiện đại là Tần Vũ. Vốn Tần Vũ được chọn để làm người kế thừa bởi anh mang trong mình những thiên bẩm vô cùng to lớn, có thể dễ kể đến nhất chính là linh căn phế. Tham gia rèn luyện tại Học Viện Cao Võ Đông Đại, Tần Vũ đã nâng cao những sức mạnh thiên bẩm của mình và cùng với các chiến hữu liều mình xả thân chiến đấu cho lẽ phải, đánh đuổi yêu ma, tạo nên một thế giới yên bình sau những biến cố liên tiếp xảy đến."
+        },
+        {
             "name": "Pháp Sư Tử Linh: Ta Chính Là Thiên Tai",
             "year": 2026,
             "slug": "phap-su-tu-linh-ta-chinh-la-thien-tai",
@@ -531,18 +543,6 @@
             "total_episodes": "104",
             "country": "Trung Quốc",
             "description": "Thị Trấn Đại Thiên là một bộ phim hoạt hình ngắn ăn theo (derivative animated short) được phát triển dựa trên ba tác phẩm nổi tiếng của tác giả Thiên Tàm Thổ Đậu gồm: Đại Chúa Tể, Nguyên Tôn và Vạn Tướng Chi Vương."
-        },
-        {
-            "name": "Quang Âm Chi Ngoại",
-            "year": 2025,
-            "slug": "quang-am-chi-ngoai",
-            "thumb": "https://phimimg.com/upload/vod/20251229-1/fce1ee8b2fe5ee1e48e670ddf1417ee8.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251229-1/d7f24b91fd95fb7cf353e1369e2318b7.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 32",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "description": "Quang Âm Chi Ngoại, một tác phẩm kinh điển thứ sau của tiểu thuyết gia Nhĩ Căn, người đã từng mang đến rất nhiều những câu chuyện nổi tiếng khác như Tiên Nghịch mà chúng ta vẫn thường theo dõi và thưởng thức. Trong tác phẩm Quang Âm Chi Ngoại này, tác giả Nhĩ Căn sẽ hướng chúng ta vào nam chính Hứa Thanh, một hình tượng nhân vật đầy dũng cảm, bất khuất, và cũng có thể coi là máu lạnh hơn so với anh chàng Vương Lâm si tình rất nhiều. Hứa Thanh cũng sẽ bước vào hành trình tu tiên đầy gian khổ, vô vàn kẻ địch trước mắt, nhưng anh chàng cũng không ngần ngại ra tay với những kẻ có tâm địa xấu xa, nhất là kẻ đang và sẽ nhắm đến anh. Có một chi tiết thú vị hơn chính là việc gặp gỡ giữa Hứa Thanh với Vương Lâm, bởi họ sống cùng với dòng chảy thời gian giữa Quang Âm Chi Ngoại và Tiên Nghịch."
         }
     ],
     "phim_chieu_rap": [
@@ -1821,6 +1821,30 @@
     ],
     "le_au_my": [
         {
+            "name": "Liên Khúc Phim Kinh Dị 6",
+            "year": 2026,
+            "slug": "lien-khuc-phim-kinh-di-6",
+            "thumb": "https://phimimg.com/uploads/movies/20260718/lien-khuc-phim-kinh-di-6-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260718/lien-khuc-phim-kinh-di-6-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Hai mươi sáu năm sau khi chạy trốn khỏi tên sát nhân đeo mặt nạ quen thuộc một cách đáng ngờ, bộ tứ cốt cán (Core Four) một lần nữa lọt vào tầm ngắm của kẻ thủ ác, và không một thương hiệu phim kinh dị nào có thể an toàn sống sót."
+        },
+        {
+            "name": "Leviticus: Bóng Quỷ",
+            "year": 2026,
+            "slug": "leviticus-bong-quy",
+            "thumb": "https://phimimg.com/uploads/movies/20260801/leviticus-bong-quy-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260801/leviticus-bong-quy-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "2 chàng trai tuổi teen phải tìm cách trốn thoát khỏi một thực thể bạo tàn có thể mang hình hài của người mà họ khao khát nhất — chính là nhau."
+        },
+        {
             "name": "The Punisher: Phát Súng Cuối Cùng",
             "year": 2026,
             "slug": "the-punisher-phat-sung-cuoi-cung",
@@ -1953,18 +1977,6 @@
             "description": "Đôi bạn thân Emma và Lani, khi đang đến Thái Lan để tham dự một đám cưới kết hợp du lịch, bỗng thấy mình bị mắc kẹt trên một chiếc thuyền tham quan đang chìm dần ngay giữa lòng thánh địa của loài cá mập hổ."
         },
         {
-            "name": "Liên Khúc Phim Kinh Dị 6",
-            "year": 2026,
-            "slug": "lien-khuc-phim-kinh-di-6",
-            "thumb": "https://phimimg.com/uploads/movies/20260718/lien-khuc-phim-kinh-di-6-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260718/lien-khuc-phim-kinh-di-6-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Hai mươi sáu năm sau khi chạy trốn khỏi tên sát nhân đeo mặt nạ quen thuộc một cách đáng ngờ, bộ tứ cốt cán (Core Four) một lần nữa lọt vào tầm ngắm của kẻ thủ ác, và không một thương hiệu phim kinh dị nào có thể an toàn sống sót."
-        },
-        {
             "name": "Hộp Đen: Chuyến Bay 298",
             "year": 2026,
             "slug": "hop-den-chuyen-bay-298",
@@ -1987,18 +1999,6 @@
             "total_episodes": "1",
             "country": "Âu Mỹ",
             "description": "Hai người bạn cùng nhau đi công tác và đối mặt với những thử thách bất ngờ cùng những cá tính dị biệt tại địa phương trong quá trình thực hiện nhiệm vụ. Những nỗ lực của họ nhằm thích nghi với môi trường xa lạ đã làm nổi bật lên những khoảnh khắc hài hước, nét văn hóa của thị trấn nhỏ và cả bản chất khó lường của những chuyến đi vì công việc. Trải nghiệm này cuối cùng đã mang lại những góc nhìn hoàn toàn mới về tình bạn của họ."
-        },
-        {
-            "name": "Sát Nhân Huyền Bí Ở Inland Empire",
-            "year": 2025,
-            "slug": "sat-nhan-huyen-bi-o-inland-empire",
-            "thumb": "https://phimimg.com/uploads/movies/20260714/sat-nhan-huyen-bi-o-inland-empire-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260714/sat-nhan-huyen-bi-o-inland-empire-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Các thám tử bị cuốn vào một cuộc săn lùng rùng rợn tìm kiếm kẻ sát nhân hàng loạt tàn bạo đến từ quá khứ, kẻ mà sự trở lại của hắn đánh dấu sự khởi đầu cho một làn sóng tội ác kỳ dị, siêu nhiên liên kết chặt chẽ với một thế lực vũ trụ bí ẩn."
         }
     ],
     "bo_au_my": [
@@ -2367,6 +2367,30 @@
     ],
     "bo_thai": [
         {
+            "name": "Vẽ Nên Giấc Mơ Ngày Cưới",
+            "year": 2026,
+            "slug": "ve-nen-giac-mo-ngay-cuoi",
+            "thumb": "https://phimimg.com/upload/vod/20260620-1/d61fcd20fba7e8b05fc0846bf1562be6.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260620-1/4e75731d01ce9578582f65d9b21fb276.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 7",
+            "total_episodes": "12",
+            "country": "Thái Lan",
+            "description": "Dù vẫn còn tình cảm với nhau nhưng bị mẹ của Runch chia cắt, hai người phụ nữ phải giả vờ rằng cuộc hôn nhân của họ vẫn hạnh phúc để hoàn tất một thương vụ kinh doanh quan trọng."
+        },
+        {
+            "name": "San Hô Đen",
+            "year": 2026,
+            "slug": "san-ho-den",
+            "thumb": "https://phimimg.com/upload/vod/20260701-1/881de1d0760ad2caca0e4d29d0446b46.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260701-1/99666fb21a725348c860a349591ca7c0.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 22",
+            "total_episodes": "30",
+            "country": "Thái Lan",
+            "description": "Sau tai nạn lặn suýt chết khiến máy ảnh của Narathon bị hỏng, anh gặp Kaimook, một sinh viên đang gây tiếng vang với tài nhiếp ảnh dưới nước. Cả hai lập tức khắc khẩu."
+        },
+        {
             "name": "Đừng Xin Anh Jane",
             "year": 2026,
             "slug": "dung-xin-anh-jane",
@@ -2521,30 +2545,6 @@
             "total_episodes": "12",
             "country": "Thái Lan",
             "description": "Cuộc đời của một chàng trai trẻ đã thay đổi mãi mãi khi anh bị một Alpha quyền năng đánh dấu, buộc chặt định mệnh của cả hai vào một mối liên kết không thể nào trốn chạy."
-        },
-        {
-            "name": "Ký Ức Tình Thù",
-            "year": 2026,
-            "slug": "ky-uc-tinh-thu-2026",
-            "thumb": "https://phimimg.com/upload/vod/20260530-1/adb081b18e4973cd68c787019e43b6fc.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260530-1/a678892c24f3e13d9d787cae492d5f52.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 20",
-            "total_episodes": "20",
-            "country": "Thái Lan",
-            "description": "Phim kể về Rawee, người thừa kế khối tài sản kếch xù từ cha và có một cuộc hôn nhân sắp đặt. Anh bị sát hại sau khi phát hiện vợ mình ngoại tình. Rất may, Rawee không chết mà chỉ mất trí nhớ và được cô gái Lockchan cứu sống. Liệu Rawee có lấy lại được ký ức để trả thù những kẻ đã từng giết hại mình?"
-        },
-        {
-            "name": "San Hô Đen",
-            "year": 2026,
-            "slug": "san-ho-den",
-            "thumb": "https://phimimg.com/upload/vod/20260701-1/881de1d0760ad2caca0e4d29d0446b46.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260701-1/99666fb21a725348c860a349591ca7c0.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 21",
-            "total_episodes": "30",
-            "country": "Thái Lan",
-            "description": "Sau tai nạn lặn suýt chết khiến máy ảnh của Narathon bị hỏng, anh gặp Kaimook, một sinh viên đang gây tiếng vang với tài nhiếp ảnh dưới nước. Cả hai lập tức khắc khẩu."
         }
     ],
     "long_tieng": [
