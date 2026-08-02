@@ -1275,6 +1275,30 @@
     ],
     "bo_han": [
         {
+            "name": "Sau Hôn Nhân",
+            "year": 2026,
+            "slug": "sau-hon-nhan",
+            "thumb": "https://phimimg.com/uploads/movies/20260708/sau-hon-nhan-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260708/sau-hon-nhan-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 9",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Câu chuyện xoay quanh Kang Tae Ju, một người đàn ông đang đứng trên bờ vực tan vỡ hôn nhân với vợ mình là Ko Se Yun. Tuy nhiên, mọi thứ đảo lộn khi Se Yun bất ngờ bị bắt cóc. Trong nỗ lực điên cuồng để giải cứu vợ, Tae Ju rơi vào một cái bẫy tinh vi, bị đổ tội giết người và trở thành kẻ bị truy nã gắt gao. Vừa phải chạy trốn cảnh sát, vừa phải đối đầu với những kẻ thù nguy hiểm, Tae Ju dần khám phá ra một âm mưu đen tối đằng sau vụ bắt cóc. Trên hành trình tìm kiếm sự thật, anh phải chạm trán với No Man Hui – một kẻ có vẻ ngoài bình thường nhưng lại ẩn chứa bản chất bạo lực khôn lường. Trong khi đó, tại nơi giam giữ, Se Yun gặp gỡ Kim Gyeong Ae, một người phụ nữ bí ẩn với những bí mật riêng khó lường. Tae Ju chạy đua với thời gian để làm sáng tỏ sự thật trước khi quá muộn, đồng thời đối diện với những cảm xúc phức tạp dành cho người vợ mà anh từng định từ bỏ."
+        },
+        {
+            "name": "Sát Thủ Nội Trợ (Vợ Tôi Là Sát Thủ)",
+            "year": 2026,
+            "slug": "sat-thu-noi-tro-vo-toi-la-sat-thu",
+            "thumb": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 2",
+            "total_episodes": "7",
+            "country": "Hàn Quốc",
+            "description": "Yoo Bo Na có một cuộc sống tưởng chừng bình thường bên chồng con và công việc quản lý bán hàng. Nhưng đằng sau vẻ ngoài của một người vợ, người mẹ mẫu mực, cô lại là “Kingfisher” – nữ sát thủ bắn tỉa khét tiếng chuyên xử lý những kẻ phạm tội thoát khỏi sự trừng phạt của pháp luật. Sau ba năm tạm rời nghề để sinh con, Bo Na buộc phải tái xuất và bước vào cuộc sống hai mặt đầy nguy hiểm. Trong lúc cố gắng giữ kín thân phận, cô không ngờ người chồng làm nghề phóng viên lại ngày càng tiến gần đến bí mật của mình."
+        },
+        {
             "name": "Vỏ Bọc Ngoại Tình",
             "year": 2026,
             "slug": "vo-boc-ngoai-tinh",
@@ -1285,18 +1309,6 @@
             "total_episodes": "8",
             "country": "Hàn Quốc",
             "description": "Kyung Hee, một influencer có gia đình kiểu mẫu và sự nghiệp đáng ngưỡng mộ. Nhưng khi phát hiện chồng mình che giấu một bí mật kinh hoàng, cô buộc phải cùng anh chôn vùi sự thật. Một tin nhắn nặc danh xuất hiện, kéo cả gia đình vào cơn ác mộng không lối thoát."
-        },
-        {
-            "name": "Sát Thủ Nội Trợ",
-            "year": 2026,
-            "slug": "sat-thu-noi-tro",
-            "thumb": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 2",
-            "total_episodes": "7",
-            "country": "Hàn Quốc",
-            "description": "Yoo Bo Na có một cuộc sống tưởng chừng bình thường bên chồng con và công việc quản lý bán hàng. Nhưng đằng sau vẻ ngoài của một người vợ, người mẹ mẫu mực, cô lại là “Kingfisher” – nữ sát thủ bắn tỉa khét tiếng chuyên xử lý những kẻ phạm tội thoát khỏi sự trừng phạt của pháp luật. Sau ba năm tạm rời nghề để sinh con, Bo Na buộc phải tái xuất và bước vào cuộc sống hai mặt đầy nguy hiểm. Trong lúc cố gắng giữ kín thân phận, cô không ngờ người chồng làm nghề phóng viên lại ngày càng tiến gần đến bí mật của mình."
         },
         {
             "name": "Hương Vị Của Biển (Mùa 3)",
@@ -1405,18 +1417,6 @@
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Woo Soo Bin và Ju Yi Jae gặp lại sau 15 năm. Ký ức cũ dần sống dậy, cả hai phải đối diện với những cảm xúc và tình yêu vẫn chưa thực sự kết thúc."
-        },
-        {
-            "name": "Sau Hôn Nhân",
-            "year": 2026,
-            "slug": "sau-hon-nhan",
-            "thumb": "https://phimimg.com/uploads/movies/20260708/sau-hon-nhan-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260708/sau-hon-nhan-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Câu chuyện xoay quanh Kang Tae Ju, một người đàn ông đang đứng trên bờ vực tan vỡ hôn nhân với vợ mình là Ko Se Yun. Tuy nhiên, mọi thứ đảo lộn khi Se Yun bất ngờ bị bắt cóc. Trong nỗ lực điên cuồng để giải cứu vợ, Tae Ju rơi vào một cái bẫy tinh vi, bị đổ tội giết người và trở thành kẻ bị truy nã gắt gao. Vừa phải chạy trốn cảnh sát, vừa phải đối đầu với những kẻ thù nguy hiểm, Tae Ju dần khám phá ra một âm mưu đen tối đằng sau vụ bắt cóc. Trên hành trình tìm kiếm sự thật, anh phải chạm trán với No Man Hui – một kẻ có vẻ ngoài bình thường nhưng lại ẩn chứa bản chất bạo lực khôn lường. Trong khi đó, tại nơi giam giữ, Se Yun gặp gỡ Kim Gyeong Ae, một người phụ nữ bí ẩn với những bí mật riêng khó lường. Tae Ju chạy đua với thời gian để làm sáng tỏ sự thật trước khi quá muộn, đồng thời đối diện với những cảm xúc phức tạp dành cho người vợ mà anh từng định từ bỏ."
         },
         {
             "name": "Đồng Điệu Yêu Thương",
@@ -1639,6 +1639,30 @@
     ],
     "bo_trung": [
         {
+            "name": "Quyền Khuynh Thiên Hạ (Chiêu Dương Công Chúa)",
+            "year": 2026,
+            "slug": "quyen-khuynh-thien-ha-chieu-duong-cong-chua",
+            "thumb": "https://phimimg.com/uploads/movies/20260731/quyen-khuynh-thien-ha-chieu-duong-cong-chua-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260731/quyen-khuynh-thien-ha-chieu-duong-cong-chua-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 14",
+            "total_episodes": "18",
+            "country": "Trung Quốc",
+            "description": "Thẩm Tiêu xuất thân hàn môn, một lòng đèn sách với mục tiêu bước chân vào triều đình để điều tra sự thật đằng sau cái chết của phụ thân. Thế nhưng, tương lai vốn được anh sắp đặt cẩn thận lại hoàn toàn đảo lộn sau một đêm tình ngoài ý muốn với Triệu Dương Công chúa Lý Thư, người sau đó thẳng thừng phủi bỏ anh. Không lâu sau, Thẩm Tiêu hiện thực hóa hoài bão cả đời khi đỗ đầu khoa cử. Tại Lộc Minh Yến, anh được diện kiến hoàng đế và ngay lần đầu ra mắt đã gây chấn động khi dâng tấu hặc tội công chúa sống xa hoa, hành sự ngang ngược. Khi mâu thuẫn giữa hai người ngày càng gay gắt, vị sĩ tử kiên định và nàng công chúa mạnh mẽ dần bị cuốn vào cuộc đối đầu giữa lý tưởng, những toan tính ẩn giấu và thứ tình cảm âm thầm nảy nở."
+        },
+        {
+            "name": "Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)",
+            "year": 2026,
+            "slug": "gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan",
+            "thumb": "https://phimimg.com/uploads/movies/20260712/gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260712/gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 12",
+            "total_episodes": "16",
+            "country": "Thái Lan",
+            "description": "Tìm nơi ẩn náu giữa vùng núi non đại ngàn, một nam diễn viên nổi tiếng đã phải lòng một cô gái trồng trà, nơi tình yêu ngọt ngào nở rộ giữa hai thế giới hoàn toàn khác biệt."
+        },
+        {
             "name": "Võ Lâm Hiệp Khí Ngoại Truyện",
             "year": 2026,
             "slug": "vo-lam-hiep-khi-ngoai-truyen",
@@ -1793,30 +1817,6 @@
             "total_episodes": "33",
             "country": "Trung Quốc",
             "description": "Vào thời Dân Quốc ở Thượng Hải, cậu con trai út của quân phiệt Mộ Dung Thanh Dịch vì bị ôm nhầm từ nhỏ nên phải chịu đựng sự ng..ược đ..ãi của cha nuôi. Khi còn là thiếu niên, cậu bỏ nhà trốn đi và được Nhậm Tố Tố cứu giúp, nhưng cũng chính vì vậy mà gia đình cô bị vạ lây rơi vào cảnh người nhà bị giếch sạch. Nhiều năm sau, hai người tái ngộ và dần nảy sinh tình cảm nhưng để cứu người khác, Nhậm Tố Tố đã kiên quyết giả chếch trốn đi, để lại Mộ Dung Thanh Dịch chìm đắm trong nỗi đau mất đi người mình yêu. Ba năm sau, Nhậm Tố Tố trở về nhưng thân phận nay đã là “chị dâu tương lai” của Mộ Dung Thanh Dịch."
-        },
-        {
-            "name": "Lẽ Nào Lại Thế",
-            "year": 2026,
-            "slug": "le-nao-lai-the",
-            "thumb": "https://phimimg.com/uploads/movies/20260718/le-nao-lai-the-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260718/le-nao-lai-the-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (24/24)",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Cố Bắc là một sinh viên năm tư đội sổ, bất ngờ xuyên không vào một vị tướng nhỏ vùng biên giới, dựa vào \"Tiêu Dao Các\" nên được sống an nhàn trong ba năm. Đến khi có thánh chỉ triệu về kinh, cậu phát hiện ra Hoàng đế Tiêu Sách lại chính là bạn cùng phòng ở kiếp trước. Một người muốn nằm yên làm đại gia, người kia lại muốn dốc sức trở thành minh quân vang danh thiên cổ. Hai người hợp lực, áp dụng lối tư duy hiện đại để đấu trí với quan lại lạm quyền, tiêu diệt trùm ma túy, chống giặc Tây Di, tạo nên một màn lật ngược tình thế cười ra nước mắt giữa thời cổ đại."
-        },
-        {
-            "name": "Thiên Hương",
-            "year": 2026,
-            "slug": "thien-huong",
-            "thumb": "https://phimimg.com/upload/vod/20260627-1/4c518d093bccccad5f1c8e30ec40cb94.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260627-1/cd980cb191f49c3329adb1315e7bed19.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (33/33)",
-            "total_episodes": "33",
-            "country": "Trung Quốc",
-            "description": "Một thiên thạch mang theo thần thụ Kiến Mộc và trái thần có thể ban cho người sở hữu sức mạnh vô thượng, khiến tam giới rơi vào chiến tranh. Một trăm năm sau, cô gái mồ côi Khương Lê Phi (Tiểu Bổng Chùy) gia nhập Thư viện Sồ Phượng và gặp Lôi Tu Viễn. Từ những toan tính ban đầu, cả hai dần nảy sinh tình cảm, cùng nhau khám phá thân thế bí ẩn, chống lại số mệnh và bảo vệ sự cân bằng của tam giới."
         }
     ],
     "le_au_my": [
@@ -2367,6 +2367,18 @@
     ],
     "bo_thai": [
         {
+            "name": "Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)",
+            "year": 2026,
+            "slug": "gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan",
+            "thumb": "https://phimimg.com/uploads/movies/20260712/gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260712/gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 12",
+            "total_episodes": "16",
+            "country": "Thái Lan",
+            "description": "Tìm nơi ẩn náu giữa vùng núi non đại ngàn, một nam diễn viên nổi tiếng đã phải lòng một cô gái trồng trà, nơi tình yêu ngọt ngào nở rộ giữa hai thế giới hoàn toàn khác biệt."
+        },
+        {
             "name": "Xích Tình Rực Lửa",
             "year": 2026,
             "slug": "xich-tinh-ruc-lua",
@@ -2533,18 +2545,6 @@
             "total_episodes": "12",
             "country": "Thái Lan",
             "description": "Ko là một cậu bé mê cam hơn bất cứ thứ gì trên đời - nhưng không phải cam nào cậu cũng thích. Nhất định phải là cam từ cây ở nhà bên cạnh mới được. Không có loại cam nào ngon bằng, cũng chẳng có loại nào khiến cậu hạnh phúc đến thế. Thơm, ngọt, ngon lành - mọi thứ về những quả cam nhà trồng ấy, Ko đều yêu thích vô cùng. Chỉ có một điều ngoại lệ: chủ nhân thật sự của cây cam đó. Cậu con trai mang cái tên ngầu y hệt tên cậu. Vì hai người trùng tên nên mọi người gọi cậu ta là “Ko Hai”, theo cách gọi quen thuộc mỗi khi có hai người cùng tên. Và thế là Ko nghiễm nhiên trở thành “Ko Một”. Nhưng ngoài cái tên giống nhau ra, cả hai chẳng có điểm gì chung. Tính cách trái ngược hoàn toàn - như thể ông trời đã phái một vị thần tối cao xuống để trừng trị con quỷ cam tinh nghịch vậy. Trong lúc câu chuyện của hai Ko dần mở ra, họ cũng lớn lên - không chỉ về dáng hình mà cả những cảm xúc âm thầm nảy nở trong tim."
-        },
-        {
-            "name": "Tiếng Anh Thành Tiếng Yêu",
-            "year": 2026,
-            "slug": "tieng-anh-thanh-tieng-yeu",
-            "thumb": "https://phimimg.com/upload/vod/20260624-1/6e87f321ab981ee0c3ecd25cb4fcc76d.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260624-1/343a4926192b76407591f65c006d823b.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 12",
-            "total_episodes": "14",
-            "country": "Thái Lan",
-            "description": "Bộ phim&nbsp;là hành trình tình yêu giữa một gia sư điển trai và một nữ minh tinh nổi tiếng. Vì muốn hòa nhập với gia đình thượng lưu của bạn trai cũng như để chuẩn bị cho vai diễn nói tiếng Anh sắp tới, nữ diễn viên Eva quyết định theo học tiếng Anh với chàng gia sư Pun. Sau một thời gian tiếp xúc, giữa họ bắt đầu nảy sinh tình cảm. Khi tính mạng của Eva bị đe dọa, Pun phải kiêm luôn vai trò vệ sĩ để bảo vệ cô. Tình yêu của họ liệu có thể vượt qua những sóng gió đang chờ phía trước?"
         }
     ],
     "long_tieng": [
@@ -2925,28 +2925,28 @@
             "description": "Câu chuyện theo chân Odysseus trong hành trình kéo dài 10 năm trở về nhà sau cuộc chiến thành Troy, nơi ông phải đối mặt với các vị thần, quái vật và vô vàn thử thách, đồng thời nỗ lực đoàn tụ với vợ và giành lại vương quốc của mình."
         },
         {
-            "name": "Võ Lâm Hiệp Khí Ngoại Truyện",
+            "name": "Quyền Khuynh Thiên Hạ (Chiêu Dương Công Chúa)",
             "year": 2026,
-            "slug": "vo-lam-hiep-khi-ngoai-truyen",
-            "thumb": "https://phimimg.com/uploads/movies/20260802/vo-lam-hiep-khi-ngoai-truyen-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260802/vo-lam-hiep-khi-ngoai-truyen-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (24/24)",
-            "total_episodes": "24",
+            "slug": "quyen-khuynh-thien-ha-chieu-duong-cong-chua",
+            "thumb": "https://phimimg.com/uploads/movies/20260731/quyen-khuynh-thien-ha-chieu-duong-cong-chua-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260731/quyen-khuynh-thien-ha-chieu-duong-cong-chua-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 14",
+            "total_episodes": "18",
             "country": "Trung Quốc",
-            "description": "Bộ phim xoay quanh chuyện tình cảm đầy tơ vương và hành trình trưởng thành của bộ ba nhân vật: thần y Bạch Nhạc, nữ hiệp Diệp Hề và Nhiếp Chính Vương - Thương Kỳ. Sau khi trải qua bao khó khăn, trắc trở, ba người bọn họ quyết tâm đồng lòng để bảo vệ thái bình cho triều đình và võ lâm, để bách tính có thể an cư sinh sống."
+            "description": "Thẩm Tiêu xuất thân hàn môn, một lòng đèn sách với mục tiêu bước chân vào triều đình để điều tra sự thật đằng sau cái chết của phụ thân. Thế nhưng, tương lai vốn được anh sắp đặt cẩn thận lại hoàn toàn đảo lộn sau một đêm tình ngoài ý muốn với Triệu Dương Công chúa Lý Thư, người sau đó thẳng thừng phủi bỏ anh. Không lâu sau, Thẩm Tiêu hiện thực hóa hoài bão cả đời khi đỗ đầu khoa cử. Tại Lộc Minh Yến, anh được diện kiến hoàng đế và ngay lần đầu ra mắt đã gây chấn động khi dâng tấu hặc tội công chúa sống xa hoa, hành sự ngang ngược. Khi mâu thuẫn giữa hai người ngày càng gay gắt, vị sĩ tử kiên định và nàng công chúa mạnh mẽ dần bị cuốn vào cuộc đối đầu giữa lý tưởng, những toan tính ẩn giấu và thứ tình cảm âm thầm nảy nở."
         },
         {
-            "name": "Vỏ Bọc Ngoại Tình",
+            "name": "Sau Hôn Nhân",
             "year": 2026,
-            "slug": "vo-boc-ngoai-tinh",
-            "thumb": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 2",
-            "total_episodes": "8",
+            "slug": "sau-hon-nhan",
+            "thumb": "https://phimimg.com/uploads/movies/20260708/sau-hon-nhan-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260708/sau-hon-nhan-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 9",
+            "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Kyung Hee, một influencer có gia đình kiểu mẫu và sự nghiệp đáng ngưỡng mộ. Nhưng khi phát hiện chồng mình che giấu một bí mật kinh hoàng, cô buộc phải cùng anh chôn vùi sự thật. Một tin nhắn nặc danh xuất hiện, kéo cả gia đình vào cơn ác mộng không lối thoát."
+            "description": "Câu chuyện xoay quanh Kang Tae Ju, một người đàn ông đang đứng trên bờ vực tan vỡ hôn nhân với vợ mình là Ko Se Yun. Tuy nhiên, mọi thứ đảo lộn khi Se Yun bất ngờ bị bắt cóc. Trong nỗ lực điên cuồng để giải cứu vợ, Tae Ju rơi vào một cái bẫy tinh vi, bị đổ tội giết người và trở thành kẻ bị truy nã gắt gao. Vừa phải chạy trốn cảnh sát, vừa phải đối đầu với những kẻ thù nguy hiểm, Tae Ju dần khám phá ra một âm mưu đen tối đằng sau vụ bắt cóc. Trên hành trình tìm kiếm sự thật, anh phải chạm trán với No Man Hui – một kẻ có vẻ ngoài bình thường nhưng lại ẩn chứa bản chất bạo lực khôn lường. Trong khi đó, tại nơi giam giữ, Se Yun gặp gỡ Kim Gyeong Ae, một người phụ nữ bí ẩn với những bí mật riêng khó lường. Tae Ju chạy đua với thời gian để làm sáng tỏ sự thật trước khi quá muộn, đồng thời đối diện với những cảm xúc phức tạp dành cho người vợ mà anh từng định từ bỏ."
         },
         {
             "name": "Thanh Gươm Diệt Quỷ: Vô Hạn Thành",
@@ -2985,21 +2985,21 @@
             "description": "Phim gồm 3 câu chuyện với những thảm án lần lượt tại 3 thời điểm khác nhau. Năm 1775, trong thời kỳ thuộc địa Tây Ban Nha ở Philippines, các nữ tu cố gắng sống sót qua đêm sau khi một thế lực tà ác vô danh được giải phóng trong tu viện của họ. Trong khi đó, vào năm 2025, một nhóm bạn tham dự dạ tiệc hóa trang Halloween thì bị một kẻ giết người hàng loạt tấn công. Đến tương lai, vào năm 2050, Philippines rơi vào hỗn độn trong bối cảnh hậu tận thế bị loài Aswang cai trị."
         },
         {
-            "name": "Chiết Xuân Uy",
+            "name": "Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)",
             "year": 2026,
-            "slug": "chiet-xuan-uy",
-            "thumb": "https://phimimg.com/uploads/movies/20260802/chiet-xuan-uy-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260802/chiet-xuan-uy-poster.webp",
+            "slug": "gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan",
+            "thumb": "https://phimimg.com/uploads/movies/20260712/gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260712/gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
-            "country": "Trung Quốc",
-            "description": "Truyện xoay quanh Sở Minh Kha — người vốn xuất thân từ một thế gia bị oan khuất, tự giam mình nhập cung, trở thành một quyền hoạn (thái giám) tâm cơ thâm trầm, quyền nghiêng thiên hạ để chờ thời cơ trả thù. Trong khi đó, Hách Liên Chiêu — hậu duệ vương tộc Bắc Cảnh bị lưu lạc ra ngoài ải — lớn lên trở thành thủ lĩnh sói hoang dã, tàn nhẫn và kiêu hùng. Dù từng có quá khứ nương tựa lẫn nhau thời niên thiếu, khi gặp lại giữa chốn kinh thành phong ba, cả hai ở hai thế lực đối lập, vừa nghi kỵ, đấu trí vừa chần chừ kéo giằng giữa thù hận và tình cảm dành cho đối phương."
+            "current_episode": "Tập 12",
+            "total_episodes": "16",
+            "country": "Thái Lan",
+            "description": "Tìm nơi ẩn náu giữa vùng núi non đại ngàn, một nam diễn viên nổi tiếng đã phải lòng một cô gái trồng trà, nơi tình yêu ngọt ngào nở rộ giữa hai thế giới hoàn toàn khác biệt."
         },
         {
-            "name": "Sát Thủ Nội Trợ",
+            "name": "Sát Thủ Nội Trợ (Vợ Tôi Là Sát Thủ)",
             "year": 2026,
-            "slug": "sat-thu-noi-tro",
+            "slug": "sat-thu-noi-tro-vo-toi-la-sat-thu",
             "thumb": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-poster.webp",
             "sub_type": "Thuyết Minh",
@@ -3045,28 +3045,28 @@
             "description": "Kamado Tanjiro gia nhập Sát Quỷ Đoàn sau khi em gái Nezuko bị biến thành quỷ. Trong quá trình trưởng thành, Tanjiro đã chiến đấu với nhiều con quỷ cùng với các đồng đội Agatsuma Zenitsu và Hashibira Inosuke. Hành trình đưa cậu đến với cuộc chiến cùng những kiếm sĩ cấp cao nhất của Sát Quỷ Đoàn - các Trụ Cột - gồm Viêm Trụ Rengoku Kyojuro trên Chuyến Tàu Vô Tận, Âm Trụ Uzui Tengen tại Kỹ Viện Trấn, cũng như Hà Trụ Tokito Muichiro và Luyến Trụ Kanroji Mitsuri tại Làng Thợ Rèn. Khi các thành viên của Sát Quỷ Đoàn và Trụ Cột tham gia vào chương trình đặc huấn để chuẩn bị cho trận chiến sắp với lũ quỷ, Kibutsuji Muzan xuất hiện tại Dinh thự Ubuyashiki. Khi thủ lĩnh của Sát Quỷ Đoàn gặp nguy hiểm, Tanjiro và các Trụ Cột trở về trụ sở Thế nhưng, Muzan bất ngờ kéo toàn bộ Sát Quỷ Đoàn đến hang ổ cuối cùng của lũ quỷ là Vô Hạn Thành, mở màn cho trận đánh cuối cùng của cả hai phe."
         },
         {
-            "name": "Dạ Ngữ Ký",
+            "name": "Võ Lâm Hiệp Khí Ngoại Truyện",
             "year": 2026,
-            "slug": "da-ngu-ky",
-            "thumb": "https://phimimg.com/uploads/movies/20260802/da-ngu-ky-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260802/da-ngu-ky-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
+            "slug": "vo-lam-hiep-khi-ngoai-truyen",
+            "thumb": "https://phimimg.com/uploads/movies/20260802/vo-lam-hiep-khi-ngoai-truyen-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260802/vo-lam-hiep-khi-ngoai-truyen-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (24/24)",
             "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Cô gái làm nghề nấu rượu xuất thân nghèo khó Diệp Tiểu Duy cùng lúc bị người yêu Trình An và cô giáo Lâm Vãn Mị phản bội. Từ đống tro tàn của hận thù, cô tái sinh như phượng hoàng, dùng thân phận Tang Lạc - cô con gái ngoài giá thú - để bước chân vào nhà họ Trình. Cô khéo léo bày mưu tính kế, xoay xở giữa gia đình hào môn đầy toan tính, từng bước nhử con mồi sa lưới. Cuộc đời của Diệp Tiểu Duy bắt đầu vào mùa hè năm cô 22 tuổi và cũng khép lại vào mùa đông năm ấy. Vượt qua bao chông gai, đổ máu, cuối cùng, đóa hồng ấy cũng đã nở rộ."
+            "description": "Bộ phim xoay quanh chuyện tình cảm đầy tơ vương và hành trình trưởng thành của bộ ba nhân vật: thần y Bạch Nhạc, nữ hiệp Diệp Hề và Nhiếp Chính Vương - Thương Kỳ. Sau khi trải qua bao khó khăn, trắc trở, ba người bọn họ quyết tâm đồng lòng để bảo vệ thái bình cho triều đình và võ lâm, để bách tính có thể an cư sinh sống."
         },
         {
-            "name": "Hương Vị Của Biển (Mùa 3)",
+            "name": "Vỏ Bọc Ngoại Tình",
             "year": 2026,
-            "slug": "huong-vi-cua-bien-mua-3",
-            "thumb": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 1",
-            "total_episodes": "11",
+            "slug": "vo-boc-ngoai-tinh",
+            "thumb": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 2",
+            "total_episodes": "8",
             "country": "Hàn Quốc",
-            "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
+            "description": "Kyung Hee, một influencer có gia đình kiểu mẫu và sự nghiệp đáng ngưỡng mộ. Nhưng khi phát hiện chồng mình che giấu một bí mật kinh hoàng, cô buộc phải cùng anh chôn vùi sự thật. Một tin nhắn nặc danh xuất hiện, kéo cả gia đình vào cơn ác mộng không lối thoát."
         },
         {
             "name": "Bát Tiên!",
