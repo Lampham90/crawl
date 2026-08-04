@@ -1,4 +1,7 @@
-{
-  "version_code": 4,
-  "update_url": "https://github.com/Lampham90/crawl/raw/refs/heads/main/Myav.apk"
-}
+    {
+      "versionCode": 4,
+      "versionName": "1.4",
+      "updateUrl": "https://github.com/Lampham90/crawl/raw/refs/heads/main/Myav.apk",
+      "updateLog": "Cập nhật tính năng tự động update app"
+    }
+    
