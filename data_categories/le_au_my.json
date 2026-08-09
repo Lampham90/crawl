@@ -1,5 +1,17 @@
 [
     {
+        "name": "Phim Super Mario Thiên Hà",
+        "year": 2026,
+        "slug": "phim-super-mario-thien-ha",
+        "thumb": "https://phimimg.com/upload/vod/20260508-1/b9482988285cb67c118bc092404d804a.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260508-1/6bf821d68045c5310a192c5244992ac0.jpg",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Nhật Bản",
+        "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
+    },
+    {
         "name": "Ngôi nhà cuối cùng",
         "year": 2026,
         "slug": "ngoi-nha-cuoi-cung",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Pháp",
         "description": "Giữa ánh đèn rực rỡ của Tuần lễ Thời trang Paris, ba người phụ nữ mang những hoàn cảnh khác nhau bất ngờ gặp gỡ và đồng hành cùng nhau. Khi đối diện với biến cố, khát vọng và những bí mật riêng, họ tìm thấy tình bạn, sự thấu hiểu và sức mạnh để thay đổi cuộc đời mình."
-    },
-    {
-        "name": "Vụ Cướp",
-        "year": 2026,
-        "slug": "vu-cuop",
-        "thumb": "https://phimimg.com/uploads/movies/20260710/vu-cuop-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260710/vu-cuop-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Anh",
-        "description": "Lấy cảm hứng từ vụ cướp ngân hàng Northern Bank năm 2004 có thật, hai nhân viên ngân hàng thù địch nhau bị buộc phải thực hiện vụ cướp lớn nhất lịch sử Ireland sau khi bọn tội phạm bắt cóc gia đình họ và đe dọa giết hại."
     }
 ]

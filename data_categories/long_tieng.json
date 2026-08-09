@@ -1,5 +1,17 @@
 [
     {
+        "name": "Phim Super Mario Thiên Hà",
+        "year": 2026,
+        "slug": "phim-super-mario-thien-ha",
+        "thumb": "https://phimimg.com/upload/vod/20260508-1/b9482988285cb67c118bc092404d804a.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260508-1/6bf821d68045c5310a192c5244992ac0.jpg",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Nhật Bản",
+        "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
+    },
+    {
         "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
         "year": 2026,
         "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
@@ -430,17 +442,5 @@
         "sub_type": "Vietsub + Lồng Tiếng",
         "current_episode": "Hoàn Tất (9/9)",
         "total_episodes": "9"
-    },
-    {
-        "name": "Phòng Thí Nghiệm Crunch (Phần 2)",
-        "year": 2026,
-        "slug": "phong-thi-nghiem-crunch-phan-2",
-        "thumb": "https://phimimg.com/upload/vod/20260104-1/f7436775d7537a466976290ff42e9214.jpg",
-        "actor": [
-            "Mark Rober"
-        ],
-        "sub_type": "Vietsub + Lồng Tiếng",
-        "current_episode": "Hoàn Tất (7/7)",
-        "total_episodes": "7"
     }
 ]
