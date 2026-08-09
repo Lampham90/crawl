@@ -1,5 +1,17 @@
 [
     {
+        "name": "Ánh Dương Nơi Trời Tận",
+        "year": 2025,
+        "slug": "anh-duong-noi-troi-tan",
+        "thumb": "https://phimimg.com/uploads/movies/20260801/anh-duong-noi-troi-tan-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260801/anh-duong-noi-troi-tan-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Việt Nam",
+        "description": "Tại Sa Đéc, khi cô phát hiện một em bé bị bỏ rơi, nhiếp ảnh gia Lyn đã bắt đầu một hành trình sáng tạo đầy tranh cãi. Từ đó, vô tình đẩy cô vào những xung đột và thay đổi chẳng thể ngờ đến."
+    },
+    {
         "name": "TÀI",
         "year": 2026,
         "slug": "tai",
@@ -315,17 +327,6 @@
         "slug": "den-am-hon",
         "thumb": "https://phimimg.com/upload/vod/20250811-1/4fa0782db6f3b1e89c270e38d90b9b00.jpg",
         "poster": "https://phimimg.com/upload/vod/20250811-1/8ca2d150e780388fe74689641e4e12b2.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "viet-nam"
-    },
-    {
-        "name": "Nhà Gia Tiên",
-        "year": 2025,
-        "slug": "nha-gia-tien",
-        "thumb": "https://phimimg.com/upload/vod/20250710-1/3024e503f4c8cecdb0578c20c77e4cdf.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250710-1/5af1cd558e89eb88b67d72181906edac.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",

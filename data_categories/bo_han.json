@@ -1,15 +1,135 @@
 [
     {
+        "name": "Tiệm Bánh Gạo Vũ Trụ",
+        "year": 2026,
+        "slug": "tiem-banh-gao-vu-tru",
+        "thumb": "https://phimimg.com/uploads/movies/20260805/tiem-banh-gao-vu-tru-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260805/tiem-banh-gao-vu-tru-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Cửa hàng bánh gạo vũ trụ ra đời sau khi Lee Eun Ji, Mimi, Lee Young Ji và An Yu Jin thua cuộc trong nhiệm vụ thoát khỏi phòng kín của Torong. Hình phạt là các cô nàng phải cùng nhau làm việc tại một cửa hàng bánh gạo, thức dậy lúc 5 giờ sáng và vật lộn buôn bán."
+    },
+    {
+        "name": "Sát Thủ Nội Trợ (Vợ Tôi Là Sát Thủ)",
+        "year": 2026,
+        "slug": "sat-thu-noi-tro-vo-toi-la-sat-thu",
+        "thumb": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 4",
+        "total_episodes": "7",
+        "country": "Hàn Quốc",
+        "description": "Yoo Bo Na có một cuộc sống tưởng chừng bình thường bên chồng con và công việc quản lý bán hàng. Nhưng đằng sau vẻ ngoài của một người vợ, người mẹ mẫu mực, cô lại là “Kingfisher” – nữ sát thủ bắn tỉa khét tiếng chuyên xử lý những kẻ phạm tội thoát khỏi sự trừng phạt của pháp luật. Sau ba năm tạm rời nghề để sinh con, Bo Na buộc phải tái xuất và bước vào cuộc sống hai mặt đầy nguy hiểm. Trong lúc cố gắng giữ kín thân phận, cô không ngờ người chồng làm nghề phóng viên lại ngày càng tiến gần đến bí mật của mình."
+    },
+    {
+        "name": "Phi Vụ Chung Cư",
+        "year": 2026,
+        "slug": "phi-vu-chung-cu",
+        "thumb": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 9",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Túng tiền, cựu trùm băng đảng nọ bắt tay với một người theo đuổi nghề luật sư để chiếm đoạt quỹ dự phòng của một khu chung cư, nào ngờ phát hiện đường dây tham nhũng có hệ thống."
+    },
+    {
+        "name": "Chuyện Tình Ma Quái",
+        "year": 2026,
+        "slug": "chuyen-tinh-ma-quai",
+        "thumb": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 7",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
+    },
+    {
+        "name": "Hương Vị Của Biển (Mùa 3)",
+        "year": 2026,
+        "slug": "huong-vi-cua-bien-mua-3",
+        "thumb": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "11",
+        "country": "Hàn Quốc",
+        "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
+    },
+    {
+        "name": "Vỏ Bọc Ngoại Tình (Ngoại Tình Đã Nhằm Nhò Gì)",
+        "year": 2026,
+        "slug": "vo-boc-ngoai-tinh-ngoai-tinh-da-nham-nho-gi",
+        "thumb": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 4",
+        "total_episodes": "8",
+        "country": "Hàn Quốc",
+        "description": "Kyung Hee, một influencer có gia đình kiểu mẫu và sự nghiệp đáng ngưỡng mộ. Nhưng khi phát hiện chồng mình che giấu một bí mật kinh hoàng, cô buộc phải cùng anh chôn vùi sự thật. Một tin nhắn nặc danh xuất hiện, kéo cả gia đình vào cơn ác mộng không lối thoát."
+    },
+    {
+        "name": "Play Me: Buổi Diễn Tập Của Chúng Ta",
+        "year": 2026,
+        "slug": "play-me-buoi-dien-tap-cua-chung-ta",
+        "thumb": "https://phimimg.com/uploads/movies/20260802/play-me-buoi-dien-tap-cua-chung-ta-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260802/play-me-buoi-dien-tap-cua-chung-ta-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "8",
+        "country": "Hàn Quốc",
+        "description": "Ngôi sao hàng đầu xuất thân từ sao nhí Jung Yi Hyun quyết định rời khỏi làng giải trí sau cái chết bất ngờ của mẹ. Còn Kang Jae Won là người làm nhiều công việc bán thời gian để kiếm sống qua ngày, vì áp lực của thực tại mà buộc phải tạm gác lại giấc mơ trở thành diễn viên… Hai người đã chia tay và cắt đứt mối quan hệ vì một sự hiểu lầm thời học trung học. Nhiều năm sau, họ lại gặp lại nhau tình cờ trong một vở ca kịch. Trong quá trình hóa thân vào cảm xúc của nhân vật trên sân khấu, họ cũng dần học lại cách yêu thương nhau."
+    },
+    {
+        "name": "Sau Hôn Nhân",
+        "year": 2026,
+        "slug": "sau-hon-nhan",
+        "thumb": "https://phimimg.com/uploads/movies/20260708/sau-hon-nhan-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260708/sau-hon-nhan-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 10",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Câu chuyện xoay quanh Kang Tae Ju, một người đàn ông đang đứng trên bờ vực tan vỡ hôn nhân với vợ mình là Ko Se Yun. Tuy nhiên, mọi thứ đảo lộn khi Se Yun bất ngờ bị bắt cóc. Trong nỗ lực điên cuồng để giải cứu vợ, Tae Ju rơi vào một cái bẫy tinh vi, bị đổ tội giết người và trở thành kẻ bị truy nã gắt gao. Vừa phải chạy trốn cảnh sát, vừa phải đối đầu với những kẻ thù nguy hiểm, Tae Ju dần khám phá ra một âm mưu đen tối đằng sau vụ bắt cóc. Trên hành trình tìm kiếm sự thật, anh phải chạm trán với No Man Hui – một kẻ có vẻ ngoài bình thường nhưng lại ẩn chứa bản chất bạo lực khôn lường. Trong khi đó, tại nơi giam giữ, Se Yun gặp gỡ Kim Gyeong Ae, một người phụ nữ bí ẩn với những bí mật riêng khó lường. Tae Ju chạy đua với thời gian để làm sáng tỏ sự thật trước khi quá muộn, đồng thời đối diện với những cảm xúc phức tạp dành cho người vợ mà anh từng định từ bỏ."
+    },
+    {
+        "name": "Kẹo Ngọt Tình Yêu",
+        "year": 2026,
+        "slug": "keo-ngot-tinh-yeu",
+        "thumb": "https://phimimg.com/uploads/movies/20260807/keo-ngot-tinh-yeu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260807/keo-ngot-tinh-yeu-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (12/12)",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Một công tố viên đầy tham vọng bị mất trí nhớ và chuyển đến sống cùng một huấn luyện viên quyền Anh tự nhận là bạn trai cô. Liệu tình huống éo le này có dẫn đến tình yêu đích thực?"
+    },
+    {
         "name": "Tình Yêu Và Tội Lỗi",
         "year": 2026,
         "slug": "tinh-yeu-va-toi-loi-2026",
         "thumb": "https://phimimg.com/uploads/movies/20260709/tinh-yeu-va-toi-loi-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260709/tinh-yeu-va-toi-loi-poster.webp",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
+        "current_episode": "Hoàn Tất (10/10)",
         "total_episodes": "10",
         "country": "Hàn Quốc",
         "description": "Cảnh sát, những kẻ buôn lậu ma túy và gián điệp: một vụ bắt cóc bí ẩn vô tình vạch trần một mạng lưới tội phạm quy mô lớn, nơi mà cả tình yêu lẫn tình dục đều trở thành những công cụ để trao đổi lợi ích."
+    },
+    {
+        "name": "Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)",
+        "year": 2026,
+        "slug": "sep-chinh-la-than-tuong-bias-toi-sep-cua-toi",
+        "thumb": "https://phimimg.com/uploads/movies/20260806/sep-chinh-la-than-tuong-bias-toi-sep-cua-toi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260806/sep-chinh-la-than-tuong-bias-toi-sep-cua-toi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Nam Da Reum (Kim Hye Joon) là một fan cuồng đã theo đuổi thần tượng Lee Chan suốt 11 năm. Cô từ chối một công việc tốt để gia nhập công ty thời trang Appello, nơi Lee Chan hiện làm giám đốc sáng tạo, với hy vọng được làm việc gần thần tượng. Tuy nhiên, ngay trong ngày đầu tiên, Da Reum lại liên tục chạm mặt Kang Ha Gi (Kang Hoon) – vị CEO lạnh lùng nhưng tốt bụng của công ty. Những hiểu lầm và tình huống dở khóc dở cười khiến mối quan hệ giữa hai người ngày càng phát triển, trong khi Da Reum vẫn phải đối diện với tình cảm dành cho thần tượng Lee Chan."
     },
     {
         "name": "Đạo Quật Vương (Vua Trộm Mộ)",
@@ -18,10 +138,70 @@
         "thumb": "https://phimimg.com/uploads/movies/20260709/dao-quat-vuong-vua-trom-mo-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260709/dao-quat-vuong-vua-trom-mo-poster.webp",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
+        "current_episode": "Tập 5",
         "total_episodes": "13",
         "country": "Hàn Quốc",
         "description": "Một ngày nọ, những lăng mộ bí ẩn đồng loạt xuất hiện trên khắp thế giới, mang theo những cổ vật ban cho chủ sở hữu những năng lực siêu nhiên phi thường. Seo Joo-heon là một nhà thám hiểm, chuyên gia khai quật và cũng là một tay trộm mộ khét tiếng.Sau khi bị chính chủ nhân của mình phản bội, Joo-heon tưởng chừng đã phải bỏ mạng dưới sức mạnh của một cổ vật mới đầy quyền năng. Thế nhưng, định mệnh đã cho anh cơ hội thứ hai: anh đột ngột tỉnh dậy ở thời điểm 15 năm trước, khi mà những lăng mộ và cổ vật còn chưa hề xuất hiện.Được thôi thúc bởi ngọn lửa trả thù, Joo-heon sẽ tận dụng những kiến thức từ tương lai như thế nào để chinh phục mọi lăng mộ và trở thành Đạo Quật Vương?"
+    },
+    {
+        "name": "Cửa Hàng Sát Thủ (Phần 2)",
+        "year": 2026,
+        "slug": "cua-hang-sat-thu-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20260722/cua-hang-sat-thu-phan-2-thumb-2.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260722/cua-hang-sat-thu-phan-2-poster-2.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "8",
+        "country": "Hàn Quốc",
+        "description": "Vừa được bổ nhiệm làm CEO của Murthehelp, Jeong Ji An bước vào một cuộc chiến đầy nguy hiểm với tổ chức quyền lực mang tên Babylon. Cùng hợp tác với người chú Jeong Jin Man, người đã bất ngờ quay trở lại, cô phát động một cuộc phản công quyết liệt nhằm bảo vệ công ty và đối đầu với những kẻ thù đang đe dọa tất cả những gì họ đã gây dựng. Khi cuộc xung đột ngày càng leo thang, cả hai dựa vào sự tin tưởng lẫn nhau, chiến lược và ý chí kiên cường để đối mặt với một đối thủ ngày càng đáng gờm."
+    },
+    {
+        "name": "Giấc Mơ Trao Em",
+        "year": 2026,
+        "slug": "giac-mo-trao-em",
+        "thumb": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 8",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Woo Soo Bin và Ju Yi Jae gặp lại sau 15 năm. Ký ức cũ dần sống dậy, cả hai phải đối diện với những cảm xúc và tình yêu vẫn chưa thực sự kết thúc."
+    },
+    {
+        "name": "Hương Vị Của Biển (Hương Vị Của Biển Ở Calape)",
+        "year": 2026,
+        "slug": "huong-vi-cua-bien-huong-vi-cua-bien-o-calape",
+        "thumb": "https://phimimg.com/upload/vod/20260420-1/e3eaa4b0416041de5503e84fe7adeeaf.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260420-1/66246a718fc118958826694276d74afd.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (5/5)",
+        "total_episodes": "5",
+        "country": "Hàn Quốc",
+        "description": "Chị đại Yum Jung Ah, &quot;chuyên gia gia vị&quot; Park Jun Myun, anh chàng đa năng DEX và em út Kim Hye Yoon cùng lên đường khám phá hương vị biển ở vùng đất mới: Philippines. Bắt đầu hành trình khuấy đảo Calape, tìm kiếm những nguyên liệu theo mùa và các sản vật tươi ngon miền nhiệt đới."
+    },
+    {
+        "name": "Báo Thù",
+        "year": 2026,
+        "slug": "bao-thu-2026",
+        "thumb": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260531-1/44b98f8dceee0f4b7f0a576c9237410e.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Hàn Quốc",
+        "description": "Một nhân viên đòi nợ thuê đang ôm nỗi đau mất mát quyết định dấn thân vào thế giới giải trí đầy rẫy thị phi để tìm cách trả thù. Thế nhưng, tại nơi đây, người này lại bất ngờ rơi vào một mối tình đầy nguy hiểm và mê hoặc với một vị giám đốc điều hành quyền lực."
+    },
+    {
+        "name": "Sếp Ơi, Mai Đừng Gặp Nhau!",
+        "year": 2026,
+        "slug": "sep-oi-mai-dung-gap-nhau",
+        "thumb": "https://phimimg.com/upload/vod/20260623-1/1be20a5cd056cb313d1c34df5dd59e6e.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260623-1/77c5521e966482a49401f0e80766055e.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Hoàn Tất (12/12)",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Bộ phim xoay quanh cuộc sống của Cha Ji-yoon (do Park Ji-hyun thủ vai), một nhân viên văn phòng kỳ cựu với 7 năm kinh nghiệm. Cô vốn là một nhân viên tận tụy, được đồng nghiệp tin tưởng nhờ kỹ năng làm việc xuất sắc, nhưng hiện tại cô đang rơi vào trạng thái bế tắc (slump) cả trong sự nghiệp lẫn chuyện tình cảm. Cuộc đời của Ji-yoon trở nên đảo lộn khi cô phải làm việc dưới quyền của Kang Si-u (do Seo In-guk thủ vai) – vị quản lý trực tiếp của cô. Si-u là một người đàn ông có ngoại hình hoàn hảo và phong thái kỷ luật, nhưng lại nổi tiếng là &quot;kẻ khó tính nhất công ty&quot; với tính cách lạnh lùng, thẳng thắn và gai góc. Ban đầu, Ji-yoon coi Si-u là &quot;cái xấu ít hơn&quot; để tránh những rắc rối tệ hại hơn tại nơi làm việc. Tuy nhiên, trong quá trình tiếp xúc và đối mặt với những áp lực công việc hàng ngày, Ji-yoon dần nhận ra những khía cạnh ấm áp ẩn giấu sau vẻ ngoài nghiêm nghị của sếp mình. Ngược lại, Si-u cũng bị thu hút bởi sự kiên cường và bản lĩnh của Ji-yoon. Từ mối quan hệ cấp trên – cấp dưới đầy căng thẳng, họ dần trở thành chỗ dựa tinh thần không thể thay thế cho nhau."
     },
     {
         "name": "Kill It: Slay Tới Bến",
@@ -36,42 +216,6 @@
         "description": "Cuộc chiến thời trang sống còn giữa những nhà sáng tạo dẫn đầu xu hướng của Hàn Quốc đã bắt đầu. Phong cách nào sẽ lên ngôi? Bộ cánh nào mới là slay nhất? Hãy tận mắt chiêm ngưỡng những &quot;dân chơi thời thượng&quot; bùng cháy trên sàn diễn."
     },
     {
-        "name": "Giấc Mơ Trao Em",
-        "year": 2026,
-        "slug": "giac-mo-trao-em",
-        "thumb": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 6",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Woo Soo Bin và Ju Yi Jae gặp lại sau 15 năm. Ký ức cũ dần sống dậy, cả hai phải đối diện với những cảm xúc và tình yêu vẫn chưa thực sự kết thúc."
-    },
-    {
-        "name": "Sếp Ơi, Mai Đừng Gặp Nhau!",
-        "year": 2026,
-        "slug": "sep-oi-mai-dung-gap-nhau",
-        "thumb": "https://phimimg.com/upload/vod/20260623-1/1be20a5cd056cb313d1c34df5dd59e6e.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260623-1/77c5521e966482a49401f0e80766055e.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 11",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Bộ phim xoay quanh cuộc sống của Cha Ji-yoon (do Park Ji-hyun thủ vai), một nhân viên văn phòng kỳ cựu với 7 năm kinh nghiệm. Cô vốn là một nhân viên tận tụy, được đồng nghiệp tin tưởng nhờ kỹ năng làm việc xuất sắc, nhưng hiện tại cô đang rơi vào trạng thái bế tắc (slump) cả trong sự nghiệp lẫn chuyện tình cảm. Cuộc đời của Ji-yoon trở nên đảo lộn khi cô phải làm việc dưới quyền của Kang Si-u (do Seo In-guk thủ vai) – vị quản lý trực tiếp của cô. Si-u là một người đàn ông có ngoại hình hoàn hảo và phong thái kỷ luật, nhưng lại nổi tiếng là &quot;kẻ khó tính nhất công ty&quot; với tính cách lạnh lùng, thẳng thắn và gai góc. Ban đầu, Ji-yoon coi Si-u là &quot;cái xấu ít hơn&quot; để tránh những rắc rối tệ hại hơn tại nơi làm việc. Tuy nhiên, trong quá trình tiếp xúc và đối mặt với những áp lực công việc hàng ngày, Ji-yoon dần nhận ra những khía cạnh ấm áp ẩn giấu sau vẻ ngoài nghiêm nghị của sếp mình. Ngược lại, Si-u cũng bị thu hút bởi sự kiên cường và bản lĩnh của Ji-yoon. Từ mối quan hệ cấp trên – cấp dưới đầy căng thẳng, họ dần trở thành chỗ dựa tinh thần không thể thay thế cho nhau."
-    },
-    {
-        "name": "Sau Hôn Nhân",
-        "year": 2026,
-        "slug": "sau-hon-nhan",
-        "thumb": "https://phimimg.com/uploads/movies/20260708/sau-hon-nhan-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260708/sau-hon-nhan-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Câu chuyện xoay quanh Kang Tae Ju, một người đàn ông đang đứng trên bờ vực tan vỡ hôn nhân với vợ mình là Ko Se Yun. Tuy nhiên, mọi thứ đảo lộn khi Se Yun bất ngờ bị bắt cóc. Trong nỗ lực điên cuồng để giải cứu vợ, Tae Ju rơi vào một cái bẫy tinh vi, bị đổ tội giết người và trở thành kẻ bị truy nã gắt gao. Vừa phải chạy trốn cảnh sát, vừa phải đối đầu với những kẻ thù nguy hiểm, Tae Ju dần khám phá ra một âm mưu đen tối đằng sau vụ bắt cóc. Trên hành trình tìm kiếm sự thật, anh phải chạm trán với No Man Hui – một kẻ có vẻ ngoài bình thường nhưng lại ẩn chứa bản chất bạo lực khôn lường. Trong khi đó, tại nơi giam giữ, Se Yun gặp gỡ Kim Gyeong Ae, một người phụ nữ bí ẩn với những bí mật riêng khó lường. Tae Ju chạy đua với thời gian để làm sáng tỏ sự thật trước khi quá muộn, đồng thời đối diện với những cảm xúc phức tạp dành cho người vợ mà anh từng định từ bỏ."
-    },
-    {
         "name": "Đồng Điệu Yêu Thương",
         "year": 2026,
         "slug": "dong-dieu-yeu-thuong",
@@ -84,30 +228,6 @@
         "description": "Bộ phim kể về Cha Eun Hwan, một chuyên gia tư vấn tâm lý có khả năng đồng cảm quá mạnh, luôn vô thức gánh chịu cảm xúc của người khác. Khả năng này giúp anh nổi tiếng nhưng cũng khiến cuộc sống ngày càng mất cân bằng. Ở chiều ngược lại là Yoo Ji An, cựu thần tượng quốc dân nay chuyển sang làm diễn viên. Do lớn lên dưới sự kiểm soát nghiêm khắc của mẹ, cô dần đánh mất khả năng đồng cảm và rơi vào khủng hoảng vì bị chỉ trích diễn xuất thiếu cảm xúc. Sau một biến cố kỳ lạ, hai người bất ngờ chia sẻ cảm xúc của nhau. Khi niềm vui, nỗi buồn và cả nỗi đau đều được truyền sang đối phương, họ buộc phải đồng hành trong ba tháng để tìm cách hóa giải hiện tượng bí ẩn này. Trên hành trình đó, cả hai dần chữa lành những tổn thương trong quá khứ và tìm thấy tình yêu."
     },
     {
-        "name": "Phi Vụ Chung Cư",
-        "year": 2026,
-        "slug": "phi-vu-chung-cu",
-        "thumb": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Túng tiền, cựu trùm băng đảng nọ bắt tay với một người theo đuổi nghề luật sư để chiếm đoạt quỹ dự phòng của một khu chung cư, nào ngờ phát hiện đường dây tham nhũng có hệ thống."
-    },
-    {
-        "name": "Chuyện Tình Ma Quái",
-        "year": 2026,
-        "slug": "chuyen-tinh-ma-quai",
-        "thumb": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
-    },
-    {
         "name": "Đặc Vụ Kim Tái Khởi Động",
         "year": 2026,
         "slug": "dac-vu-kim-tai-khoi-dong",
@@ -118,18 +238,6 @@
         "total_episodes": "10",
         "country": "Hàn Quốc",
         "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
-    },
-    {
-        "name": "Báo Thù",
-        "year": 2026,
-        "slug": "bao-thu-2026",
-        "thumb": "https://phimimg.com/upload/vod/20260531-1/68b88366c18cc8eb0427da64dcd82cb9.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260531-1/44b98f8dceee0f4b7f0a576c9237410e.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "10",
-        "country": "Hàn Quốc",
-        "description": "Một nhân viên đòi nợ thuê đang ôm nỗi đau mất mát quyết định dấn thân vào thế giới giải trí đầy rẫy thị phi để tìm cách trả thù. Thế nhưng, tại nơi đây, người này lại bất ngờ rơi vào một mối tình đầy nguy hiểm và mê hoặc với một vị giám đốc điều hành quyền lực."
     },
     {
         "name": "Gieo Gì Gặt Nấy: Nông Trại Thẳng Tiến",
@@ -166,18 +274,6 @@
         "total_episodes": "10",
         "country": "Hàn Quốc",
         "description": "Mười lăm năm trước, một vụ giết người tàn bạo đã kéo hai cậu bé vào địa ngục. Một người trở thành con trai của nạn nhân; người kia, lại là con của kẻ sát nhân. Nhiều năm sau, định mệnh đã đưa họ tái ngộ trong vai trò một công tố viên và một điều tra viên. Trong khi chiến đấu chống lại mạng lưới tham nhũng pháp lý và doanh nghiệp khổng lồ, họ phát hiện ra một điều còn nguy hiểm hơn thế: chính là đối phương. Họ là điểm yếu chí mạng — và cũng là sự cứu rỗi duy nhất của nhau."
-    },
-    {
-        "name": "Cửa Hàng Sát Thủ (Phần 2)",
-        "year": 2026,
-        "slug": "cua-hang-sat-thu-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260722/cua-hang-sat-thu-phan-2-thumb-2.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260722/cua-hang-sat-thu-phan-2-poster-2.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "8",
-        "country": "Hàn Quốc",
-        "description": "Vừa được bổ nhiệm làm CEO của Murthehelp, Jeong Ji An bước vào một cuộc chiến đầy nguy hiểm với tổ chức quyền lực mang tên Babylon. Cùng hợp tác với người chú Jeong Jin Man, người đã bất ngờ quay trở lại, cô phát động một cuộc phản công quyết liệt nhằm bảo vệ công ty và đối đầu với những kẻ thù đang đe dọa tất cả những gì họ đã gây dựng. Khi cuộc xung đột ngày càng leo thang, cả hai dựa vào sự tin tưởng lẫn nhau, chiến lược và ý chí kiên cường để đối mặt với một đối thủ ngày càng đáng gờm."
     },
     {
         "name": "Lời nguyền Đông Cung",
@@ -262,100 +358,5 @@
         "total_episodes": "8",
         "country": "Hàn Quốc",
         "description": "Một nam nhân có thể bước vào thế giới linh hồn và một cung nữ có thể nghe thấy người chết đến Đông Cung theo lệnh vua. Liệu họ có thể vén màn những bí mật đen tối ở đây?"
-    },
-    {
-        "name": "Bác Sĩ Đảo Hoang",
-        "year": 2026,
-        "slug": "bac-si-dao-hoang",
-        "thumb": "https://phimimg.com/upload/vod/20260603-1/658491161287e882fe760f8e8716d503.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260603-1/2e03fed51702bd8387cc01b428e2a96b.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (12/12)",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Một bác sĩ y tế công cộng trên một hòn đảo bị xa lánh và một nữ y tá bí ẩn bắt đầu một mối tình lãng mạn giữa con người và y khoa."
-    },
-    {
-        "name": "Nửa Cơ Hội Sống (Chuyên Gia Tuổi Trung Niên)",
-        "year": 2026,
-        "slug": "nua-co-hoi-song-chuyen-gia-tuoi-trung-nien",
-        "thumb": "https://phimimg.com/upload/vod/20260604-1/cb8fc4d0b70189dd03ab746d707f8ad2.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260604-1/571a4ff47b891a2c50f131b328f59193.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (12/12)",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Bộ phim kể về ba người đàn ông trung niên từng có quá khứ lừng lẫy nhưng hiện đang sống một cuộc đời &quot;về hưu&quot; bình lặng. Mọi chuyện thay đổi khi một biến cố bất ngờ xảy ra, buộc bộ ba &quot;lão làng&quot; này phải tập hợp lại. Dù cơ thể không còn nhanh nhẹn như thời trai trẻ và thường xuyên gặp phải những tình huống &quot;dở khóc dở cười&quot; do khoảng cách thế hệ, họ vẫn chứng minh được rằng &quot;gừng càng già càng cay&quot; khi giải quyết các vấn đề theo cách riêng của mình."
-    },
-    {
-        "name": "Chủ Tịch Tập Sự",
-        "year": 2026,
-        "slug": "chu-tich-tap-su",
-        "thumb": "https://phimimg.com/upload/vod/20260531-1/8a6d8d1d15ce5d216a24d63ff0572a7c.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260531-1/33c234df337af20625ef6b255580cbae.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (12/12)",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Kang Yong Ho là một chủ tịch quyền lực đã đưa tập đoàn của mình vào top 10 thế giới. Sau một tai nạn bất ngờ, linh hồn của ông hoán đổi với một thanh niên trẻ tên Hwang Jun Hyeon. Trong thân xác mới, vị chủ tịch này buộc phải bắt đầu lại từ con số không với tư cách là một nhân viên mới ngay tại chính tập đoàn mình gây dựng. Chủ Tịch Tập Sự (Reborn Rookie) đào sâu góc nhìn độc đáo về sự phân hóa giai cấp, mâu thuẫn trong gia đình tài phiệt và sự khắc nghiệt của môi trường công sở hiện đại, đồng thời truyền tải thông điệp về giá trị của lòng trắc ẩn và sự thấu hiểu từ những vị trí thấp nhất trong xã hội."
-    },
-    {
-        "name": "Người Khí",
-        "year": 2026,
-        "slug": "nguoi-khi",
-        "thumb": "https://phimimg.com/upload/vod/20260703-1/0cccb4533fddf8a025ae5f6e72cbfe38.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260703-1/aec38e37af07d2d6ec8ae157e3c1a7b9.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Hàn Quốc",
-        "description": "Một cái chết trên sóng truyền hình trực tiếp. Một hung thủ biến thành khí. Ẩn sau đó là dự án bí mật lợi dụng rồi vứt bỏ người yếu thế. Một điều tra viên truy tìm sự thật đen tối."
-    },
-    {
-        "name": "Đi Phượt Bản Giới Hạn",
-        "year": 2026,
-        "slug": "di-phuot-ban-gioi-han",
-        "thumb": "https://phimimg.com/upload/vod/20260701-1/d7cb0e0309b9e22e7eda8fe6e6037998.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260701-1/f04ad30580880b8a79225d41d309642f.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (6/6)",
-        "total_episodes": "6",
-        "country": "Hàn Quốc",
-        "description": "Các minh tinh Park Seo Joon, Jung Yu Mi và Choi Woo Sik bất ngờ bị &quot;lạc trôi&quot; vào một chuyến đi phượt bất định, không có kế hoạch trước. Họ sẽ chống chọi ra sao với chuyến chu du tự túc vòng quanh Hàn Quốc cùng vô vàn tình huống dở khóc dở cười?"
-    },
-    {
-        "name": "Chín Mảnh Ghép Bí Ẩn",
-        "year": 2025,
-        "slug": "chin-manh-ghep-bi-an",
-        "thumb": "https://phimimg.com/upload/vod/20250522-1/b0e789223c196b582cfcd32b02d2ffd7.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250522-1/7b6fa98b2285bb44a511a17fea3636e5.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (11/11)",
-        "total_episodes": "11",
-        "country": "Hàn Quốc",
-        "description": "Nine Puzzles là bộ phim thuộc thể loại hình sự, phá án, kinh dị kể về hành trình truy tìm hung thủ vụ án giết người hàng loạt xảy ra 10 năm về trước nay lại tái diễn. Yoon Yi Na (Kim Da Mi thủ vai) là nhân chứng duy nhất trong vụ án 10 năm trước khi người chú ruột của cô bị sát hại. Sau này, cô trở thành trung úy cảnh sát 6 năm kinh nghiệm trong lĩnh vực lập hồ sơ phân tích tội phạm thuộc Đội phân tích tội phạm - Phòng Điều tra pháp y thuộc Cơ quan cảnh sát thành phố Seoul, với bộ não thiên tài, Yina nắm bắt rất nhanh động cơ phạm tội của hung thủ tại hiện trường như thể đã từng thực hiện. Cùng lật lại vụ án, truy tìm hung thủ giết người hàng loạt xảy ra 10 năm trước cùng với Yina là cảnh sát điều tra đội phòng chống bạo lực Kim Han Saem (Son Seok Gu thủ vai), người luôn nghi ngờ Yina chính là hung thủ của vụ án 10 năm trước. Han Saem là cảnh sát ưu tú, lỳ lợm và nhạy bén nhưng lại khiến cho người ta hiểu lầm bởi những hành động có phần quái dị của mình. Để ngăn chặn số lượng nạn nhân bị gi.ết hại ngày một tăng cùng với sự xuất hiện của “mảnh ghép bí ẩn”, Yina phải cùng bắt tay với Han Saem để nhanh chóng tìm ra hung thủ thật sự."
-    },
-    {
-        "name": "Ngôi Nhà Của Những Lời Dối Trá",
-        "year": 2026,
-        "slug": "ngoi-nha-cua-nhung-loi-doi-tra",
-        "thumb": "https://phimimg.com/upload/vod/20260606-1/3d42c9f0351cf731faa71f3979d50cf4.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260606-1/149b3de70031b4a373a224e59f46ca2b.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Hàn Quốc",
-        "description": "Seo I-do, một sát thủ chuyên nghiệp, được giao nhiệm vụ thủ tiêu Heo Dong-hwa tại một căn nhà biệt lập. Tuy nhiên, trước khi hoàn thành nhiệm vụ, anh bất ngờ nhận lệnh phải giữ Dong-hwa sống và giam giữ anh ta thay vì giết chết. Mọi chuyện trở nên phức tạp khi Chu Tae-jeong xuất hiện. Tae-jeong là bạn cũ của Dong-hwa và vô tình nhầm I-do là em trai của Dong-hwa. Để che giấu thân phận thật, I-do tiếp tục sống trong lời nói dối đó. Nhưng anh sớm phát hiện Tae-jeong thực chất là một cảnh sát đang điều tra những bí mật xoay quanh căn nhà và những người trong đó. Trong khi cố giữ bí mật về thân phận sát thủ của mình, I-do dần nảy sinh tình cảm với Tae-jeong. Tình yêu ngày càng lớn khiến anh phải lựa chọn giữa hoàn thành nhiệm vụ và bảo vệ người mình yêu. Khi những bí mật trong quá khứ lần lượt bị phơi bày, tất cả đều phải đối mặt với sự thật đằng sau &quot;ngôi nhà nơi những lời dối trá sinh sống&quot;."
-    },
-    {
-        "name": "Những Ghi Chú Ở Hàng Cuối",
-        "year": 2026,
-        "slug": "nhung-ghi-chu-o-hang-cuoi",
-        "thumb": "https://phimimg.com/upload/vod/20260626-1/32352960195227b770e71266ae657231.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260626-1/50d4f00b6f6cf49c9b0bbe0982f353dd.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (6/6)",
-        "total_episodes": "6",
-        "country": "han-quoc"
     }
 ]

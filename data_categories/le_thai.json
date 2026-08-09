@@ -1,5 +1,17 @@
 [
     {
+        "name": "Giai Điệu Mor Lam",
+        "year": 2026,
+        "slug": "giai-dieu-mor-lam",
+        "thumb": "https://phimimg.com/uploads/movies/20260808/giai-dieu-mor-lam-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260808/giai-dieu-mor-lam-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Thái Lan",
+        "description": "Một thanh niên đơn thuần, chăm chỉ và vô cùng yêu thương gia đình đang sống một cuộc sống khiêm tốn cùng cô em gái nhỏ. Mơ ước lớn nhất trong đời của cô em gái là được trở thành một vũ công Mor Lam (dòng nhạc/vũ đạo truyền thống nổi tiếng của Isan, Thái Lan) dù chỉ một lần duy nhất."
+    },
+    {
         "name": "Kẻ Thu Nợ",
         "year": 2026,
         "slug": "ke-thu-no",
@@ -317,17 +329,6 @@
         "slug": "buon-than-ban-thanh",
         "thumb": "https://phimimg.com/upload/vod/20250802-1/0670fdfcd319742ffe5d0e4e052aa6ca.jpg",
         "poster": "https://phimimg.com/upload/vod/20250802-1/b708aed633e711044c5911a896aea65a.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "thai-lan"
-    },
-    {
-        "name": "Võ Sĩ Diệt Xác Sống",
-        "year": 2025,
-        "slug": "vo-si-diet-xac-song",
-        "thumb": "https://phimimg.com/upload/vod/20250710-1/699940c04e38f096201c30bcc72bdcf3.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250710-1/8744931e10e1cf92281f19715eba025a.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",
