@@ -1,5 +1,41 @@
 [
     {
+        "name": "Ngự Đình Dao",
+        "year": 2026,
+        "slug": "ngu-dinh-dao",
+        "thumb": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 22",
+        "total_episodes": "32",
+        "country": "Trung Quốc",
+        "description": "Mạnh Đình Huy (Ngô Cẩn Ngôn) là nữ quan đầu tiên của triều Đại Ninh thi đỗ tam nguyên. Trên triều, nàng khôn khéo, tàn nhẫn, lọc lõi đủ đường, bị gán tiếng “gian thần” nhưng thực chất lại chỉ có một lý tưởng duy nhất: dốc hết tâm huyết để phò tá vị minh quân trẻ tuổi mà mình từng mang ơn. Thế nhưng, trên con đường đầy cạm bẫy của quyền lực, Mạnh Đình Huy không ngờ rằng tấm lòng nàng dốc lòng chôn giấu lại được hồi đáp bằng tình yêu sâu sắc. Anh Quả (Trần Triết Viễn), vị quân vương ẩn nhẫn, trị quốc bằng trí tuệ và sự điềm tĩnh, từng bước để lộ trái tim chỉ dành cho nàng. Chàng không giỏi lời hoa mỹ, nhưng mỗi hành động, mỗi ánh mắt đều là minh chứng cho một tình yêu lặng lẽ mà mãnh liệt."
+    },
+    {
+        "name": "Cửu Môn",
+        "year": 2026,
+        "slug": "cuu-mon-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20260731/cuu-mon-2026-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260731/cuu-mon-2026-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 21",
+        "total_episodes": "30",
+        "country": "Trung Quốc",
+        "description": "\"Cửu Môn\" kể câu chuyện Trường Sa xảy ra biến động, hai kì tài Trương Khải Sơn và Ngô Lão Cẩu cùng hợp lực, bắt tay với Hoắc Tiên Cô và các thành viên Cửu Môn cùng dấn thân vào mạo hiểm kỳ quái. Vụ biến mất bí ẩn của Đội 401 kéo theo bí mật kinh hoàng bị chôn vùi suốt trăm năm. Sự lựa chọn giữa sự sống và cái chết, tình nghĩa huynh đệ, trách nhiệm với môn phái và đại nghĩa với đất nước đan xen vào nhau. Các thành viên của Cửu Môn sẵn lòng hy sinh, hăng hái bảo vệ gia đình và đất nước, cùng nhau vượt qua khó khăn."
+    },
+    {
+        "name": "Bạn Gái Thiên Tài",
+        "year": 2026,
+        "slug": "ban-gai-thien-tai",
+        "thumb": "https://phimimg.com/uploads/movies/20260802/ban-gai-thien-tai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260802/ban-gai-thien-tai-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 20",
+        "total_episodes": "28",
+        "country": "Trung Quốc",
+        "description": "Cô gái thiên tài Lâm Tri Hạ có tính cách thẳng thắn, không giỏi giao tiếp, từ nhỏ đã không có bạn bè. Sau khi đỗ vào trường trung học số một tỉnh, cô quen chàng trai học giỏi Giang Du Bạch có tính cách tươi sáng qua một cuộc thi giải đề rồi trở thành bạn cùng bàn với cậu. Là người giỏi giao tiếp, Giang Du Bạch giúp Lâm Tri Hạ hòa nhập với tập thể, kết bạn với Thang Đình Đình, Đoàn Khải Ngôn, Thẩm Phụ Huyên, Kim Bách Tuệ và những người bạn khác. Để tỏ lòng biết ơn, Lâm Tri Hạ giúp cậu ôn bài. Hai người từ cạnh tranh chuyển sang hỗ trợ lẫn nhau, cuối cùng trở thành những người bạn thân thiết nhất. Hai người cùng nhau giải quyết vụ việc bạn học bị lừa, tham gia hoạt động câu lạc bộ và cuộc thi toán cấp tỉnh. Trong quá trình ấy, tình cảm của Giang Dư Bạch dành cho Lâm Tri Hạ dần nảy sinh, nhưng cậu chỉ âm thầm giấu kín tình yêu trong lòng. Sau khi Lâm Tri Hạ được tuyển thẳng vào Đại học Phúc Đán, Giang Dư Bạch dự định tỏ tình với cô trong chuyến du lịch tốt nghiệp. Nhưng vì mẹ cậu bị cuốn vào một vụ án lừa đảo, cậu đành rời đi trong tiếc nuối. Liệu hai người cuối cùng có thể vượt qua mọi trở ngại để đến bên nhau?"
+    },
+    {
         "name": "Sát Thủ Nội Trợ (Vợ Tôi Là Sát Thủ)",
         "year": 2026,
         "slug": "sat-thu-noi-tro-vo-toi-la-sat-thu",
@@ -22,42 +58,6 @@
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
-    },
-    {
-        "name": "Bạn Gái Thiên Tài",
-        "year": 2026,
-        "slug": "ban-gai-thien-tai",
-        "thumb": "https://phimimg.com/uploads/movies/20260802/ban-gai-thien-tai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260802/ban-gai-thien-tai-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 18",
-        "total_episodes": "28",
-        "country": "Trung Quốc",
-        "description": "Cô gái thiên tài Lâm Tri Hạ có tính cách thẳng thắn, không giỏi giao tiếp, từ nhỏ đã không có bạn bè. Sau khi đỗ vào trường trung học số một tỉnh, cô quen chàng trai học giỏi Giang Du Bạch có tính cách tươi sáng qua một cuộc thi giải đề rồi trở thành bạn cùng bàn với cậu. Là người giỏi giao tiếp, Giang Du Bạch giúp Lâm Tri Hạ hòa nhập với tập thể, kết bạn với Thang Đình Đình, Đoàn Khải Ngôn, Thẩm Phụ Huyên, Kim Bách Tuệ và những người bạn khác. Để tỏ lòng biết ơn, Lâm Tri Hạ giúp cậu ôn bài. Hai người từ cạnh tranh chuyển sang hỗ trợ lẫn nhau, cuối cùng trở thành những người bạn thân thiết nhất. Hai người cùng nhau giải quyết vụ việc bạn học bị lừa, tham gia hoạt động câu lạc bộ và cuộc thi toán cấp tỉnh. Trong quá trình ấy, tình cảm của Giang Dư Bạch dành cho Lâm Tri Hạ dần nảy sinh, nhưng cậu chỉ âm thầm giấu kín tình yêu trong lòng. Sau khi Lâm Tri Hạ được tuyển thẳng vào Đại học Phúc Đán, Giang Dư Bạch dự định tỏ tình với cô trong chuyến du lịch tốt nghiệp. Nhưng vì mẹ cậu bị cuốn vào một vụ án lừa đảo, cậu đành rời đi trong tiếc nuối. Liệu hai người cuối cùng có thể vượt qua mọi trở ngại để đến bên nhau?"
-    },
-    {
-        "name": "Ngự Đình Dao",
-        "year": 2026,
-        "slug": "ngu-dinh-dao",
-        "thumb": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 21",
-        "total_episodes": "32",
-        "country": "Trung Quốc",
-        "description": "Mạnh Đình Huy (Ngô Cẩn Ngôn) là nữ quan đầu tiên của triều Đại Ninh thi đỗ tam nguyên. Trên triều, nàng khôn khéo, tàn nhẫn, lọc lõi đủ đường, bị gán tiếng “gian thần” nhưng thực chất lại chỉ có một lý tưởng duy nhất: dốc hết tâm huyết để phò tá vị minh quân trẻ tuổi mà mình từng mang ơn. Thế nhưng, trên con đường đầy cạm bẫy của quyền lực, Mạnh Đình Huy không ngờ rằng tấm lòng nàng dốc lòng chôn giấu lại được hồi đáp bằng tình yêu sâu sắc. Anh Quả (Trần Triết Viễn), vị quân vương ẩn nhẫn, trị quốc bằng trí tuệ và sự điềm tĩnh, từng bước để lộ trái tim chỉ dành cho nàng. Chàng không giỏi lời hoa mỹ, nhưng mỗi hành động, mỗi ánh mắt đều là minh chứng cho một tình yêu lặng lẽ mà mãnh liệt."
-    },
-    {
-        "name": "Cửu Môn",
-        "year": 2026,
-        "slug": "cuu-mon-2026",
-        "thumb": "https://phimimg.com/uploads/movies/20260731/cuu-mon-2026-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260731/cuu-mon-2026-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 20",
-        "total_episodes": "30",
-        "country": "Trung Quốc",
-        "description": "\"Cửu Môn\" kể câu chuyện Trường Sa xảy ra biến động, hai kì tài Trương Khải Sơn và Ngô Lão Cẩu cùng hợp lực, bắt tay với Hoắc Tiên Cô và các thành viên Cửu Môn cùng dấn thân vào mạo hiểm kỳ quái. Vụ biến mất bí ẩn của Đội 401 kéo theo bí mật kinh hoàng bị chôn vùi suốt trăm năm. Sự lựa chọn giữa sự sống và cái chết, tình nghĩa huynh đệ, trách nhiệm với môn phái và đại nghĩa với đất nước đan xen vào nhau. Các thành viên của Cửu Môn sẵn lòng hy sinh, hăng hái bảo vệ gia đình và đất nước, cùng nhau vượt qua khó khăn."
     },
     {
         "name": "Vỏ Bọc Ngoại Tình (Ngoại Tình Đã Nhằm Nhò Gì)",

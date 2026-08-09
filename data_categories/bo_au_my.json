@@ -1,5 +1,17 @@
 [
     {
+        "name": "Người Nhện Hàng Xóm Thân Thiện",
+        "year": 2025,
+        "slug": "nguoi-nhen-hang-xom-than-thien",
+        "thumb": "https://phimimg.com/uploads/movies/20260809/nguoi-nhen-hang-xom-than-thien-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260809/nguoi-nhen-hang-xom-than-thien-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Loạt phim hoạt hình này giới thiệu câu chuyện của Peter trong một dòng thời gian tách biệt với vũ trụ điện ảnh chính của Marvel và trước các sự kiện của Captain America: Civil War."
+    },
+    {
         "name": "Thám Tử Sugar (Phần 2)",
         "year": 2026,
         "slug": "tham-tu-sugar-phan-2",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Trong loạt chương trình đặc biệt hoàn toàn mới và độc quyền này, các khách mời là những người nổi tiếng sẽ bị thách thức trả lời những câu hỏi \"hóc búa\" trong khi thưởng thức những chiếc cánh gà còn \"cay nóng\" hơn thế."
-    },
-    {
-        "name": "Giao Lộ Sullivan (Phần 4)",
-        "year": 2026,
-        "slug": "giao-lo-sullivan-phan-4",
-        "thumb": "https://phimimg.com/uploads/movies/20260715/giao-lo-sullivan-phan-4-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260715/giao-lo-sullivan-phan-4-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Canada",
-        "description": "Sau khi cuộc sống cá nhân lẫn sự nghiệp của bác sĩ phẫu thuật thần kinh Maggie Sullivan rơi vào khủng hoảng, cô quyết định trở về quê nhà Sullivan's Crossing. Tại đây, Maggie buộc phải đối mặt với thực tại phức tạp của mình, đồng thời đối diện với quá khứ đau thương mà cô đã cố tình trốn tránh suốt nhiều năm qua."
     }
 ]

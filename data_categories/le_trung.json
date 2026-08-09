@@ -1,5 +1,17 @@
 [
     {
+        "name": "Thế Giới Hoàn Mỹ Movie: Cửu Kiếp Phần Thiên",
+        "year": 2026,
+        "slug": "the-gioi-hoan-my-movie-cuu-kiep-phan-thien",
+        "thumb": "https://phimimg.com/uploads/movies/20260809/the-gioi-hoan-my-movie-cuu-kiep-phan-thien-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260809/the-gioi-hoan-my-movie-cuu-kiep-phan-thien-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Trung Quốc",
+        "description": "Câu chuyện xoay quanh trận đại chiến cuối cùng của Kỷ Nguyên Tiên Cổ. Tổ Tế Linh Liễu Thần đứng ra dẫn dắt quần hùng đi tìm tia hy vọng sau cùng. Hoang Thiên Đế Thạch Hạo dùng một giọt chân huyết hóa thành phân thân, nghịch chuyển thời không giáng lâm Tiên Cổ, cùng những người đồng sinh cộng tử tìm kiếm phương pháp tối hậu để xóa bỏ tận gốc hắc ám. Đại kiếp hắc ám giáng xuống, chương cuối của Tiên Cổ chính thức mở màn, khúc tráng ca bi hùng vang lên!"
+    },
+    {
         "name": "Luyện Khí Mười Vạn Năm: Dương Cực Thiên Hạ",
         "year": 2026,
         "slug": "luyen-khi-muoi-van-nam-duong-cuc-thien-ha",
@@ -340,17 +352,6 @@
         "thumb": "https://phimimg.com/upload/vod/20260617-1/c187925ecf32679916a5426cb1fc7d71.jpg",
         "poster": "https://phimimg.com/upload/vod/20260617-1/e9bd237815880116a97faefc4978af21.jpg",
         "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "trung-quoc"
-    },
-    {
-        "name": "Câu Chuyện Cảnh Sát Đông Bắc 3",
-        "year": 2026,
-        "slug": "cau-chuyen-canh-sat-dong-bac-3",
-        "thumb": "https://phimimg.com/upload/vod/20260601-1/7b75e8ba030220788fcc8868d0447b88.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260601-1/e9f85e28142bd165ee83b8d0bc147403.jpg",
-        "sub_type": "Vietsub + Thuyết Minh",
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "trung-quoc"

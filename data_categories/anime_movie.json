@@ -1,5 +1,29 @@
 [
     {
+        "name": "Thế Giới Hoàn Mỹ Movie: Cửu Kiếp Phần Thiên",
+        "year": 2026,
+        "slug": "the-gioi-hoan-my-movie-cuu-kiep-phan-thien",
+        "thumb": "https://phimimg.com/uploads/movies/20260809/the-gioi-hoan-my-movie-cuu-kiep-phan-thien-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260809/the-gioi-hoan-my-movie-cuu-kiep-phan-thien-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Trung Quốc",
+        "description": "Câu chuyện xoay quanh trận đại chiến cuối cùng của Kỷ Nguyên Tiên Cổ. Tổ Tế Linh Liễu Thần đứng ra dẫn dắt quần hùng đi tìm tia hy vọng sau cùng. Hoang Thiên Đế Thạch Hạo dùng một giọt chân huyết hóa thành phân thân, nghịch chuyển thời không giáng lâm Tiên Cổ, cùng những người đồng sinh cộng tử tìm kiếm phương pháp tối hậu để xóa bỏ tận gốc hắc ám. Đại kiếp hắc ám giáng xuống, chương cuối của Tiên Cổ chính thức mở màn, khúc tráng ca bi hùng vang lên!"
+    },
+    {
+        "name": "Nữ Hiệp Ruy Băng",
+        "year": 2026,
+        "slug": "nu-hiep-ruy-bang",
+        "thumb": "https://phimimg.com/uploads/movies/20260809/nu-hiep-ruy-bang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260809/nu-hiep-ruy-bang-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Nhật Bản",
+        "description": "Khi quái vật Nergal tàn phá vương quốc của mình, Công chúa Sapphire thức tỉnh thành Nữ hiệp ruy băng và chiến đấu để bảo vệ quê hương mới khỏi số phận đen tối tương tự."
+    },
+    {
         "name": "Luyện Khí Mười Vạn Năm: Dương Cực Thiên Hạ",
         "year": 2026,
         "slug": "luyen-khi-muoi-van-nam-duong-cuc-thien-ha",
@@ -312,27 +336,5 @@
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "Nhật Bản"
-    },
-    {
-        "name": "Cô Bé Amélie Và Tính Cách Của Mưa",
-        "year": 2025,
-        "slug": "co-be-amelie-va-tinh-cach-cua-mua",
-        "thumb": "https://phimimg.com/upload/vod/20260312-1/7319aff42a64df9474fe4be0cdba170c.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260312-1/3f5aa77ed6ed7b8fc4b65b0d30de5d2a.jpg",
-        "sub_type": "Vietsub + Thuyết Minh",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Pháp"
-    },
-    {
-        "name": "Vua Của Những Vị Vua (Vua Của Các Vua)",
-        "year": 2025,
-        "slug": "vua-cua-nhung-vi-vua-vua-cua-cac-vua",
-        "thumb": "https://phimimg.com/upload/vod/20250708-1/8dd3eeb5d1ebb5d45fce1b2ec27bf166.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250708-1/89473a8b979b437b2b176d539c894622.jpg",
-        "sub_type": "Vietsub + Thuyết Minh + Lồng Tiếng",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Hàn Quốc"
     }
 ]
