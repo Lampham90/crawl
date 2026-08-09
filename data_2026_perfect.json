@@ -1,6 +1,18 @@
 {
     "anime_movie": [
         {
+            "name": "Phim Super Mario Thiên Hà",
+            "year": 2026,
+            "slug": "phim-super-mario-thien-ha",
+            "thumb": "https://phimimg.com/upload/vod/20260508-1/b9482988285cb67c118bc092404d804a.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260508-1/6bf821d68045c5310a192c5244992ac0.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Nhật Bản",
+            "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
+        },
+        {
             "name": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
             "year": 2026,
             "slug": "tuyen-thu-de-mui-vi-chien-thang",
@@ -167,18 +179,6 @@
             "total_episodes": "1",
             "country": "Nhật Bản",
             "description": "Zombie Land Saga: Yumeginga Paradise (2025) là movie tiếp nối mùa 2 của series anime Zombie Land Saga. Nội dung xoay quanh nhóm idol zombie Franchouchou khi họ trở thành đại sứ cho sự kiện Expo tại Saga. Tuy nhiên, một phi thuyền khổng lồ bất ngờ xuất hiện và tấn công tỉnh Saga, đẩy cả nhóm vào cuộc chiến giải cứu quê hương. Đặc biệt, Tae Yamada – thành viên bí ẩn nhất của nhóm – thức tỉnh ký ức và đóng vai trò then chốt trong việc chống lại cuộc xâm lăng."
-        },
-        {
-            "name": "Ánh sáng của thế giới",
-            "year": 2025,
-            "slug": "anh-sang-cua-the-gioi",
-            "thumb": "https://phimimg.com/upload/vod/20260602-1/15ce1758714686e29cd7bf9de25b84bc.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260602-1/cfd0c4de179f9d7e2ce51b36e6796f1f.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Một cậu bé bình thường, một niềm tin phi thường. Năm 30 sau Công nguyên, mọi người đang háo hức chờ đợi Đấng Mê-si-a đến. Mặc dù Chúa Giê-su không hoàn toàn giống như họ tưởng tượng, nhưng người đàn ông này lại có điều gì đó đặc biệt. Chẳng bao lâu sau, Giăng, Gia-cốp, An-đrê, Phi-e-rơ và những người khác bắt đầu theo Chúa Giê-su vào một cuộc phiêu lưu bất ngờ. Câu chuyện hoạt hình tuyệt đẹp về Chúa Giê-su được kể qua con mắt của người bạn trẻ yêu quý của Ngài, sứ đồ Giăng."
         }
     ],
     "anime_nhat": [
@@ -547,6 +547,18 @@
     ],
     "phim_chieu_rap": [
         {
+            "name": "Phim Super Mario Thiên Hà",
+            "year": 2026,
+            "slug": "phim-super-mario-thien-ha",
+            "thumb": "https://phimimg.com/upload/vod/20260508-1/b9482988285cb67c118bc092404d804a.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260508-1/6bf821d68045c5310a192c5244992ac0.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Nhật Bản",
+            "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
+        },
+        {
             "name": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
             "year": 2026,
             "slug": "tuyen-thu-de-mui-vi-chien-thang",
@@ -713,18 +725,6 @@
             "total_episodes": "1",
             "country": "Nhật Bản",
             "description": "Conan Movie 29, tựa tiếng Nhật là Detective Conan: Highway no Datenshi (Thiên thần sa ngã trên xa lộ), đã được công bố và sẽ ra mắt tại Nhật Bản vào ngày 10/04/2026, tập trung vào các pha hành động tốc độ, sự trở lại của nhân vật \"Nữ thần gió\" Chihaya Hagiwara và một chiếc mô tô bí ẩn. Phim có bối cảnh chính là Cầu vịnh Yokohama và được đạo diễn bởi Takahiro Hasui"
-        },
-        {
-            "name": "Đồng Dao Ma Quái (Bàn Cờ Ma)",
-            "year": 2026,
-            "slug": "dong-dao-ma-quai-ban-co-ma",
-            "thumb": "https://phimimg.com/uploads/movies/20260719/dong-dao-ma-quai-ban-co-ma-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260719/dong-dao-ma-quai-ban-co-ma-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Thái Lan",
-            "description": "Mỗi lần gieo xúc xắc là mỗi lần quỷ xuất hiện. Trong lúc dọn dẹp một ngôi đền bỏ hoang, một nhóm trẻ vô tình tìm thấy bàn cờ cổ bị phong ấn từ lâu. Sau khi gieo viên xúc xắc bí ẩn và đọc lên những câu đồng dao kỳ lạ, chúng nhận ra mình đã bắt đầu một trò chơi chết chóc. Mỗi lượt chơi đều kéo theo sự xuất hiện của những linh hồn đáng sợ, buộc cả nhóm phải tìm cách phá giải lời nguyền trước khi trời sáng."
         }
     ],
     "le_vn": [
@@ -2549,6 +2549,18 @@
     ],
     "long_tieng": [
         {
+            "name": "Phim Super Mario Thiên Hà",
+            "year": 2026,
+            "slug": "phim-super-mario-thien-ha",
+            "thumb": "https://phimimg.com/upload/vod/20260508-1/b9482988285cb67c118bc092404d804a.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260508-1/6bf821d68045c5310a192c5244992ac0.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Nhật Bản",
+            "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
+        },
+        {
             "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
             "year": 2026,
             "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
@@ -2715,18 +2727,6 @@
             "total_episodes": "1",
             "country": "Hàn Quốc",
             "description": "Hai người phụ nữ cùng tuổi và là bạn thân lên kế hoạch táo bạo đánh cắp 6 triệu USD vàng thỏi rồi bỏ trốn khỏi khu vực."
-        },
-        {
-            "name": "Lương Trần Mỹ Cẩm",
-            "year": 2026,
-            "slug": "luong-tran-my-cam",
-            "thumb": "https://phimimg.com/upload/vod/20260504-1/95985e2f2e38ad97c847ff0c7b375486.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260504-1/52232226fda0a7c261fcd55d3a6dbdc2.jpg",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Hoàn Tất (40/40)",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "description": "Đại cô nương nhà họ Cố - Cố Cẩm Triêu (Nhậm Mẫn) từ nhỏ đã được nuôi dưỡng tại nhà ngoại tổ. Tuy bị cha mẹ ruột thờ ơ, nhưng nhờ được ngoại tổ mẫu yêu thương, nàng vẫn sống một cuộc đời tự do, phóng khoáng. Sau khi trở về nhà họ Cố, Cố Cẩm Triêu luôn mạnh mẽ đối đầu với mọi người và mọi việc. Khác biệt với những cô gái bình thường, nàng đã thu hút sự chú ý sâu sắc của các nhân vật quyền thế như trọng thần trong nội các - Trần Ngạn Doãn (Thử Sa), Thế tử gia Diệp Hạn (Đổng Tư Thành), và bậc quân tử đoan chính - Trần Huyền Thanh (Tả Diệp). Đối mặt với chuyện hôn nhân, Cố Cẩm Triêu có quan điểm riêng của mình. Khi dần hiểu rõ lòng mình, nàng kiên định lựa chọn Trần Ngạn Doãn - người tôn trọng bản chất thật của nàng và cho nàng được sống là chính mình. Sau khi thành hôn, nàng dần trưởng thành, trở thành người vợ xứng đáng của trọng thần, phụ tá Trần Ngạn Doãn bước lên vị trí Thủ phụ. Họ cùng nhau thực hiện các chính sách vì dân vì nước, xoa dịu nỗi khổ của bá tánh, kiến tạo thời đại thái bình thịnh trị."
         }
     ],
     "thuyet_minh": [
@@ -2913,16 +2913,16 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
+            "name": "Phim Super Mario Thiên Hà",
             "year": 2026,
-            "slug": "tuyen-thu-de-mui-vi-chien-thang",
-            "thumb": "https://phimimg.com/upload/vod/20260325-1/57000b826e67c1db2727e310aec0b004.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260325-1/1f5f942c1627deb2064d8be37d172855.jpg",
+            "slug": "phim-super-mario-thien-ha",
+            "thumb": "https://phimimg.com/upload/vod/20260508-1/b9482988285cb67c118bc092404d804a.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260508-1/6bf821d68045c5310a192c5244992ac0.jpg",
             "sub_type": "Lồng Tiếng",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Will là một chú dê nhỏ với những ước mơ lớn, người có được cơ hội duy nhất trong đời để gia nhập các vận động viên chuyên nghiệp và thi đấu môn rugebol — một môn thể thao cường độ cao, pha trộn và đối kháng toàn diện, nơi các loài động vật nhanh nhất và hung dữ nhất thế giới thống trị. Những đồng đội mới của Will không mấy hào hứng khi có một chú dê nhỏ trong đội hình, nhưng Will quyết tâm tạo nên một cuộc cách mạng cho môn thể thao này và chứng minh một lần và mãi mãi rằng: “Nhỏ bé cũng biết chơi!”"
+            "country": "Nhật Bản",
+            "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
         },
         {
             "name": "Bạn Gái Thiên Tài",
@@ -2949,16 +2949,16 @@
             "description": "Yoo Bo Na có một cuộc sống tưởng chừng bình thường bên chồng con và công việc quản lý bán hàng. Nhưng đằng sau vẻ ngoài của một người vợ, người mẹ mẫu mực, cô lại là “Kingfisher” – nữ sát thủ bắn tỉa khét tiếng chuyên xử lý những kẻ phạm tội thoát khỏi sự trừng phạt của pháp luật. Sau ba năm tạm rời nghề để sinh con, Bo Na buộc phải tái xuất và bước vào cuộc sống hai mặt đầy nguy hiểm. Trong lúc cố gắng giữ kín thân phận, cô không ngờ người chồng làm nghề phóng viên lại ngày càng tiến gần đến bí mật của mình."
         },
         {
-            "name": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
+            "name": "Phim Super Mario Thiên Hà",
             "year": 2026,
-            "slug": "tuyen-thu-de-mui-vi-chien-thang",
-            "thumb": "https://phimimg.com/upload/vod/20260325-1/57000b826e67c1db2727e310aec0b004.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260325-1/1f5f942c1627deb2064d8be37d172855.jpg",
+            "slug": "phim-super-mario-thien-ha",
+            "thumb": "https://phimimg.com/upload/vod/20260508-1/b9482988285cb67c118bc092404d804a.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260508-1/6bf821d68045c5310a192c5244992ac0.jpg",
             "sub_type": "Lồng Tiếng",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Will là một chú dê nhỏ với những ước mơ lớn, người có được cơ hội duy nhất trong đời để gia nhập các vận động viên chuyên nghiệp và thi đấu môn rugebol — một môn thể thao cường độ cao, pha trộn và đối kháng toàn diện, nơi các loài động vật nhanh nhất và hung dữ nhất thế giới thống trị. Những đồng đội mới của Will không mấy hào hứng khi có một chú dê nhỏ trong đội hình, nhưng Will quyết tâm tạo nên một cuộc cách mạng cho môn thể thao này và chứng minh một lần và mãi mãi rằng: “Nhỏ bé cũng biết chơi!”"
+            "country": "Nhật Bản",
+            "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
         },
         {
             "name": "Thám Tử Sugar (Phần 2)",
@@ -2973,16 +2973,16 @@
             "description": "Colin Farrell vào vai John Sugar, một thám tử tư hào hoa đang len lỏi qua những góc khuất tăm tối của vùng đất LA đầy nắng. Dù luôn nhìn thấy điểm tốt ở con người, Sugar lại bị ám ảnh bởi một bí mật quá đỗi nguy hiểm để có thể phơi bày."
         },
         {
-            "name": "Phi Vụ Động Trời 2",
-            "year": 2025,
-            "slug": "phi-vu-dong-troi-2",
-            "thumb": "https://phimimg.com/upload/vod/20251223-1/7154384c306c73664e46942f2477e574.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251223-1/6bc1d549b86e490274d93bab66a3654d.jpg",
+            "name": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
+            "year": 2026,
+            "slug": "tuyen-thu-de-mui-vi-chien-thang",
+            "thumb": "https://phimimg.com/upload/vod/20260325-1/57000b826e67c1db2727e310aec0b004.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260325-1/1f5f942c1627deb2064d8be37d172855.jpg",
             "sub_type": "Lồng Tiếng",
             "current_episode": "Full",
             "total_episodes": "1",
             "country": "Âu Mỹ",
-            "description": "Trong bộ phim &quot;Zootopia 2 - Phi Vụ Động Trời 2&quot; từ Walt Disney Animation Studios, hai thám tử Judy Hopps (lồng tiếng bởi Ginnifer Goodwin) và Nick Wilde (lồng tiếng bởi Jason Bateman) bước vào hành trình truy tìm một sinh vật bò sát bí ẩn vừa xuất hiện tại Zootopia và khiến cả vương quốc động vật bị đảo lộn. Để phá được vụ án, Judy và Nick buộc phải hoạt động bí mật tại những khu vực mới lạ của thành phố – nơi mối quan hệ đồng nghiệp của họ bị thử thách hơn bao giờ hết."
+            "description": "Will là một chú dê nhỏ với những ước mơ lớn, người có được cơ hội duy nhất trong đời để gia nhập các vận động viên chuyên nghiệp và thi đấu môn rugebol — một môn thể thao cường độ cao, pha trộn và đối kháng toàn diện, nơi các loài động vật nhanh nhất và hung dữ nhất thế giới thống trị. Những đồng đội mới của Will không mấy hào hứng khi có một chú dê nhỏ trong đội hình, nhưng Will quyết tâm tạo nên một cuộc cách mạng cho môn thể thao này và chứng minh một lần và mãi mãi rằng: “Nhỏ bé cũng biết chơi!”"
         },
         {
             "name": "Nam Hí",
@@ -3009,16 +3009,16 @@
             "description": "Túng tiền, cựu trùm băng đảng nọ bắt tay với một người theo đuổi nghề luật sư để chiếm đoạt quỹ dự phòng của một khu chung cư, nào ngờ phát hiện đường dây tham nhũng có hệ thống."
         },
         {
-            "name": "Phi Vụ Động Trời 2",
-            "year": 2025,
-            "slug": "phi-vu-dong-troi-2",
-            "thumb": "https://phimimg.com/upload/vod/20251223-1/7154384c306c73664e46942f2477e574.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251223-1/6bc1d549b86e490274d93bab66a3654d.jpg",
+            "name": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
+            "year": 2026,
+            "slug": "tuyen-thu-de-mui-vi-chien-thang",
+            "thumb": "https://phimimg.com/upload/vod/20260325-1/57000b826e67c1db2727e310aec0b004.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260325-1/1f5f942c1627deb2064d8be37d172855.jpg",
             "sub_type": "Lồng Tiếng",
             "current_episode": "Full",
             "total_episodes": "1",
             "country": "Âu Mỹ",
-            "description": "Trong bộ phim &quot;Zootopia 2 - Phi Vụ Động Trời 2&quot; từ Walt Disney Animation Studios, hai thám tử Judy Hopps (lồng tiếng bởi Ginnifer Goodwin) và Nick Wilde (lồng tiếng bởi Jason Bateman) bước vào hành trình truy tìm một sinh vật bò sát bí ẩn vừa xuất hiện tại Zootopia và khiến cả vương quốc động vật bị đảo lộn. Để phá được vụ án, Judy và Nick buộc phải hoạt động bí mật tại những khu vực mới lạ của thành phố – nơi mối quan hệ đồng nghiệp của họ bị thử thách hơn bao giờ hết."
+            "description": "Will là một chú dê nhỏ với những ước mơ lớn, người có được cơ hội duy nhất trong đời để gia nhập các vận động viên chuyên nghiệp và thi đấu môn rugebol — một môn thể thao cường độ cao, pha trộn và đối kháng toàn diện, nơi các loài động vật nhanh nhất và hung dữ nhất thế giới thống trị. Những đồng đội mới của Will không mấy hào hứng khi có một chú dê nhỏ trong đội hình, nhưng Will quyết tâm tạo nên một cuộc cách mạng cho môn thể thao này và chứng minh một lần và mãi mãi rằng: “Nhỏ bé cũng biết chơi!”"
         },
         {
             "name": "Hầm SILO (Phần 3)",
@@ -3033,16 +3033,16 @@
             "description": "Trong thế giới hoang tàn và nhiễm độc ở tương lai, hàng nghìn người sống trong một silo khổng lồ sâu dưới lòng đất. Sau khi một cảnh sát trưởng phá vỡ một quy tắc chủ chốt và dân thường thiệt mạng một cách bí ẩn, kỹ sư Juliette bắt đầu phát hiện ra những bí mật gây sốc và sự thật về silo."
         },
         {
-            "name": "Ma Cây: Lửa Địa Ngục",
-            "year": 2026,
-            "slug": "ma-cay-lua-dia-nguc",
-            "thumb": "https://phimimg.com/uploads/movies/20260805/ma-cay-lua-dia-nguc-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260805/ma-cay-lua-dia-nguc-poster.webp",
-            "sub_type": "Vietsub",
+            "name": "Phi Vụ Động Trời 2",
+            "year": 2025,
+            "slug": "phi-vu-dong-troi-2",
+            "thumb": "https://phimimg.com/upload/vod/20251223-1/7154384c306c73664e46942f2477e574.jpg",
+            "poster": "https://phimimg.com/upload/vod/20251223-1/6bc1d549b86e490274d93bab66a3654d.jpg",
+            "sub_type": "Lồng Tiếng",
             "current_episode": "Full",
             "total_episodes": "1",
             "country": "Âu Mỹ",
-            "description": "Sau khi chồng qua đời, một người phụ nữ tìm sự an ủi bên gia đình chồng. Nhưng rồi từng người một biến thành những deadite quỷ ám, khiến cô dần nhận ra rằng những lời thề nguyện khi còn sống… vẫn tồn tại ngay cả sau cái chết."
+            "description": "Trong bộ phim &quot;Zootopia 2 - Phi Vụ Động Trời 2&quot; từ Walt Disney Animation Studios, hai thám tử Judy Hopps (lồng tiếng bởi Ginnifer Goodwin) và Nick Wilde (lồng tiếng bởi Jason Bateman) bước vào hành trình truy tìm một sinh vật bò sát bí ẩn vừa xuất hiện tại Zootopia và khiến cả vương quốc động vật bị đảo lộn. Để phá được vụ án, Judy và Nick buộc phải hoạt động bí mật tại những khu vực mới lạ của thành phố – nơi mối quan hệ đồng nghiệp của họ bị thử thách hơn bao giờ hết."
         },
         {
             "name": "Hộp Bất Ngờ",
@@ -3069,16 +3069,16 @@
             "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
         },
         {
-            "name": "Luyện Khí Mười Vạn Năm: Dương Cực Thiên Hạ",
-            "year": 2026,
-            "slug": "luyen-khi-muoi-van-nam-duong-cuc-thien-ha",
-            "thumb": "https://phimimg.com/uploads/movies/20260807/luyen-khi-muoi-van-nam-duong-cuc-thien-ha-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260807/luyen-khi-muoi-van-nam-duong-cuc-thien-ha-poster.webp",
-            "sub_type": "Vietsub",
+            "name": "Phi Vụ Động Trời 2",
+            "year": 2025,
+            "slug": "phi-vu-dong-troi-2",
+            "thumb": "https://phimimg.com/upload/vod/20251223-1/7154384c306c73664e46942f2477e574.jpg",
+            "poster": "https://phimimg.com/upload/vod/20251223-1/6bc1d549b86e490274d93bab66a3654d.jpg",
+            "sub_type": "Lồng Tiếng",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Trung Quốc",
-            "description": "Ngay từ thuở khai thiên lập địa, Hỗn Độn xâm chiếm vạn vật. Phàm là sinh linh được sinh ra trong cõi Vô Cực này, đều sẽ bị âm thầm gieo vào 1 tia Hỗn Độn Chi Lực, để khi chín muồi thì bị thu hoạch. Tuyệt Thiên Thông vì muốn chống lại Hỗn Độn, đã thu nhận đệ tử đầu tiên của mình là Từ Âm. Nhưng kẻ mà ông đặt nhiều kỳ vọng ấy cuối cùng lại phản bội ông. Ngàn vạn năm sau, Từ Dương nắm quyền chưởng quản Thiên Lam Tông, Ngũ Đại Pháp Tọa phục sinh Từ Âm. Kẻ đã ngủ yên suốt ngàn vạn năm ấy nay mang trong mình Hỗn Độn Chi Lực mạnh mẽ hơn xưa. Cuộc đại chiến giữa Âm và Dương, từ đó mà bắt đầu."
+            "country": "Âu Mỹ",
+            "description": "Trong bộ phim &quot;Zootopia 2 - Phi Vụ Động Trời 2&quot; từ Walt Disney Animation Studios, hai thám tử Judy Hopps (lồng tiếng bởi Ginnifer Goodwin) và Nick Wilde (lồng tiếng bởi Jason Bateman) bước vào hành trình truy tìm một sinh vật bò sát bí ẩn vừa xuất hiện tại Zootopia và khiến cả vương quốc động vật bị đảo lộn. Để phá được vụ án, Judy và Nick buộc phải hoạt động bí mật tại những khu vực mới lạ của thành phố – nơi mối quan hệ đồng nghiệp của họ bị thử thách hơn bao giờ hết."
         },
         {
             "name": "Lằn Ranh Cuồng Nộ (Phần 1)",
