@@ -1,5 +1,41 @@
 [
     {
+        "name": "Phi Vụ Chung Cư",
+        "year": 2026,
+        "slug": "phi-vu-chung-cu",
+        "thumb": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 10",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Túng tiền, cựu trùm băng đảng nọ bắt tay với một người theo đuổi nghề luật sư để chiếm đoạt quỹ dự phòng của một khu chung cư, nào ngờ phát hiện đường dây tham nhũng có hệ thống."
+    },
+    {
+        "name": "Muộn Còn Hơn Ế (Phần 2)",
+        "year": 2026,
+        "slug": "muon-con-hon-e-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20260712/muon-con-hon-e-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260712/muon-con-hon-e-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Hàn Quốc",
+        "description": "Sẵn sàng hẹn hò, những người độc thân lâu năm sẽ được chuyên gia giúp đỡ về phong cách, sức khỏe và sự tự tin."
+    },
+    {
+        "name": "Chuyện Tình Ma Quái",
+        "year": 2026,
+        "slug": "chuyen-tinh-ma-quai",
+        "thumb": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 8",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
+    },
+    {
         "name": "Sau Hôn Nhân",
         "year": 2026,
         "slug": "sau-hon-nhan",
@@ -46,30 +82,6 @@
         "total_episodes": "7",
         "country": "Hàn Quốc",
         "description": "Yoo Bo Na có một cuộc sống tưởng chừng bình thường bên chồng con và công việc quản lý bán hàng. Nhưng đằng sau vẻ ngoài của một người vợ, người mẹ mẫu mực, cô lại là “Kingfisher” – nữ sát thủ bắn tỉa khét tiếng chuyên xử lý những kẻ phạm tội thoát khỏi sự trừng phạt của pháp luật. Sau ba năm tạm rời nghề để sinh con, Bo Na buộc phải tái xuất và bước vào cuộc sống hai mặt đầy nguy hiểm. Trong lúc cố gắng giữ kín thân phận, cô không ngờ người chồng làm nghề phóng viên lại ngày càng tiến gần đến bí mật của mình."
-    },
-    {
-        "name": "Phi Vụ Chung Cư",
-        "year": 2026,
-        "slug": "phi-vu-chung-cu",
-        "thumb": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Túng tiền, cựu trùm băng đảng nọ bắt tay với một người theo đuổi nghề luật sư để chiếm đoạt quỹ dự phòng của một khu chung cư, nào ngờ phát hiện đường dây tham nhũng có hệ thống."
-    },
-    {
-        "name": "Chuyện Tình Ma Quái",
-        "year": 2026,
-        "slug": "chuyen-tinh-ma-quai",
-        "thumb": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 7",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
     },
     {
         "name": "Hương Vị Của Biển (Mùa 3)",
@@ -262,18 +274,6 @@
         "total_episodes": "6",
         "country": "Hàn Quốc",
         "description": "Tạm gác công việc trồng trọt, các bác &quot;nông dân&quot; Lee Kwang Soo, Doh Kyung Soo và Kim Woo Bin thẳng tiến đến đảo Jeju thầu ngay một trang trại chăn nuôi. Liệu cuộc sống ở nông trại với đồng cỏ xanh và những chú bò sữa có thực sự yên bình như họ tưởng tượng?"
-    },
-    {
-        "name": "Muộn Còn Hơn Ế (Phần 2)",
-        "year": 2026,
-        "slug": "muon-con-hon-e-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260712/muon-con-hon-e-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260712/muon-con-hon-e-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "10",
-        "country": "Hàn Quốc",
-        "description": "Sẵn sàng hẹn hò, những người độc thân lâu năm sẽ được chuyên gia giúp đỡ về phong cách, sức khỏe và sự tự tin."
     },
     {
         "name": "Lời Đề Nghị Của Công Tố Viên",
