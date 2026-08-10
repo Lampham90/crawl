@@ -1,5 +1,17 @@
 [
     {
+        "name": "Trại Hè CrunchLabs",
+        "year": 2026,
+        "slug": "trai-he-crunchlabs",
+        "thumb": "https://phimimg.com/uploads/movies/20260810/trai-he-crunchlabs-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260810/trai-he-crunchlabs-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Mỹ",
+        "description": "Bùng nổ mùa hè này tại Camp CrunchLabs, nơi Mark Rober mang đến những thí nghiệm khoa học theo chủ đề vũ trụ cực kỳ hấp dẫn, cùng dàn khách mời đặc biệt và vô số thử thách thú vị có thể tự làm ngay tại nhà!"
+    },
+    {
         "name": "Hiệp Sĩ Mặt Nạ ZEZTZ",
         "year": 2025,
         "slug": "hiep-si-mat-na-zeztz",
@@ -432,15 +444,5 @@
         "sub_type": "Vietsub + Lồng Tiếng",
         "current_episode": "Hoàn Tất (8/8)",
         "total_episodes": "8"
-    },
-    {
-        "name": "Phòng Thí Nghiệm Crunch (Phần 3)",
-        "year": 2026,
-        "slug": "phong-thi-nghiem-crunch-phan-3",
-        "thumb": "https://phimimg.com/upload/vod/20260327-1/7c75425fb11b1693f29e326a980ed987.jpg",
-        "actor": [],
-        "sub_type": "Vietsub + Lồng Tiếng",
-        "current_episode": "Hoàn Tất (9/9)",
-        "total_episodes": "9"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "name": "Trại Hè CrunchLabs",
+        "year": 2026,
+        "slug": "trai-he-crunchlabs",
+        "thumb": "https://phimimg.com/uploads/movies/20260810/trai-he-crunchlabs-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260810/trai-he-crunchlabs-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Mỹ",
+        "description": "Bùng nổ mùa hè này tại Camp CrunchLabs, nơi Mark Rober mang đến những thí nghiệm khoa học theo chủ đề vũ trụ cực kỳ hấp dẫn, cùng dàn khách mời đặc biệt và vô số thử thách thú vị có thể tự làm ngay tại nhà!"
+    },
+    {
         "name": "Những Cuộc Phiêu Lưu Cùng Superman (Phần 3)",
         "year": 2026,
         "slug": "nhung-cuoc-phieu-luu-cung-superman-phan-3",
@@ -346,17 +358,5 @@
         "total_episodes": "7",
         "country": "Âu Mỹ",
         "description": "<span style=\"text-wrap-mode: wrap;\">Theo chân những cơ thể bầm dập, những cú trượt ngã khiến tinh thần suy sụp, những trận thua đau đớn và niềm vui thuần khiết của ba tiền vệ NFL trong suốt một mùa giải.</span>"
-    },
-    {
-        "name": "Hot Ones: Tăng Độ Cay",
-        "year": 2026,
-        "slug": "hot-ones-tang-do-cay",
-        "thumb": "https://phimimg.com/uploads/movies/20260715/hot-ones-tang-do-cay-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260715/hot-ones-tang-do-cay-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Trong loạt chương trình đặc biệt hoàn toàn mới và độc quyền này, các khách mời là những người nổi tiếng sẽ bị thách thức trả lời những câu hỏi \"hóc búa\" trong khi thưởng thức những chiếc cánh gà còn \"cay nóng\" hơn thế."
     }
 ]
