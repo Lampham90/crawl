@@ -183,9 +183,9 @@
     ],
     "anime_nhat": [
         {
-            "name": "Khải Giáp Chân Truyền (Yoroi Shin Den Samurai Troopers)",
+            "name": "Khải Giáp Chân Truyền",
             "year": 2026,
-            "slug": "khai-giap-chan-truyen-yoroi-shin-den-samurai-troopers",
+            "slug": "khai-giap-chan-truyen",
             "thumb": "https://phimimg.com/upload/vod/20260116-1/ce2cc0cbfbbf8532c8728a38aafdba39.jpg",
             "poster": "https://phimimg.com/upload/vod/20260116-1/e3b57ec33c4555307df7c16a441ba08c.jpg",
             "sub_type": "Vietsub",
@@ -1639,6 +1639,18 @@
     ],
     "bo_trung": [
         {
+            "name": "Trọng Khí",
+            "year": 2026,
+            "slug": "trong-khi",
+            "thumb": "https://phimimg.com/uploads/movies/20260810/trong-khi-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260810/trong-khi-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "33",
+            "country": "Trung Quốc",
+            "description": "Câu chuyện bắt đầu từ giai đoạn đầu của thời kỳ cải cách mở cửa, kéo dài đến năm 1997 khi Luật Tố tụng Hình sự và Luật Hình sự được sửa đổi. Các nhân vật chính gồm Trần Nhất Chúng, Dư Cao Viễn, Trương Lệ Tuệ, Hạ Anh Kiệt cùng những sinh viên tốt nghiệp trường luật khác. Bộ phim kể về hành trình sau khi ra trường, họ bước vào những lĩnh vực khác nhau trong ngành tư pháp, chứng kiến lịch sử, tham gia vào quá trình phát triển pháp luật, không ngừng thích nghi với thời đại và trưởng thành qua thực tiễn tư pháp sôi động. Năm người xuất thân khác nhau, tính cách cũng hoàn toàn khác biệt. Trong hơn mười năm công tác và cuộc sống, họ trải qua biết bao thăng trầm, cuối cùng lựa chọn những con đường riêng. Bộ phim lấy góc nhìn độc đáo từ toàn bộ tiến trình tư pháp, đồng thời tập trung khắc họa những nhân vật trong các lĩnh vực công an, kiểm sát, tòa án và luật pháp, tái hiện một chặng đường lịch sử pháp quyền đầy biến động cùng số phận đan xen của con người trong một thời đại lớn."
+        },
+        {
             "name": "Cửu Môn",
             "year": 2026,
             "slug": "cuu-mon-2026",
@@ -1805,18 +1817,6 @@
             "total_episodes": "18",
             "country": "Trung Quốc",
             "description": "Thẩm Tiêu xuất thân hàn môn, một lòng đèn sách với mục tiêu bước chân vào triều đình để điều tra sự thật đằng sau cái chết của phụ thân. Thế nhưng, tương lai vốn được anh sắp đặt cẩn thận lại hoàn toàn đảo lộn sau một đêm tình ngoài ý muốn với Triệu Dương Công chúa Lý Thư, người sau đó thẳng thừng phủi bỏ anh. Không lâu sau, Thẩm Tiêu hiện thực hóa hoài bão cả đời khi đỗ đầu khoa cử. Tại Lộc Minh Yến, anh được diện kiến hoàng đế và ngay lần đầu ra mắt đã gây chấn động khi dâng tấu hặc tội công chúa sống xa hoa, hành sự ngang ngược. Khi mâu thuẫn giữa hai người ngày càng gay gắt, vị sĩ tử kiên định và nàng công chúa mạnh mẽ dần bị cuốn vào cuộc đối đầu giữa lý tưởng, những toan tính ẩn giấu và thứ tình cảm âm thầm nảy nở."
-        },
-        {
-            "name": "Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)",
-            "year": 2026,
-            "slug": "gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan",
-            "thumb": "https://phimimg.com/uploads/movies/20260712/gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260712/gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 13",
-            "total_episodes": "16",
-            "country": "Thái Lan",
-            "description": "Tìm nơi ẩn náu giữa vùng núi non đại ngàn, một nam diễn viên nổi tiếng đã phải lòng một cô gái trồng trà, nơi tình yêu ngọt ngào nở rộ giữa hai thế giới hoàn toàn khác biệt."
         }
     ],
     "le_au_my": [
@@ -2058,7 +2058,7 @@
             "poster": "https://phimimg.com/upload/vod/20260622-1/ace539cd539e20a8fd3642678f65d525.jpg",
             "sub_type": "Thuyết Minh",
             "current_episode": "Tập 7",
-            "total_episodes": "10",
+            "total_episodes": "8",
             "country": "Âu Mỹ",
             "description": "Kịch bản lấy bối cảnh 200 năm trước các sự kiện của Game of Thrones, kể về câu chuyện của dòng họ Targaryen. Họ chinh phục và thống trị lục địa Westeros trong thời gian dài nhờ khả năng điều khiển loài rồng. Tuy nhiên, cuộc nội chiến đẫm máu kéo dài để tranh giành Ngôi Báu Sắt đã khiến gia tộc này ngày càng suy yếu và đi đến bờ vực của sự diệt vong."
         },
@@ -2870,7 +2870,7 @@
             "poster": "https://phimimg.com/upload/vod/20260622-1/ace539cd539e20a8fd3642678f65d525.jpg",
             "sub_type": "Thuyết Minh",
             "current_episode": "Tập 7",
-            "total_episodes": "10",
+            "total_episodes": "8",
             "country": "Âu Mỹ",
             "description": "Kịch bản lấy bối cảnh 200 năm trước các sự kiện của Game of Thrones, kể về câu chuyện của dòng họ Targaryen. Họ chinh phục và thống trị lục địa Westeros trong thời gian dài nhờ khả năng điều khiển loài rồng. Tuy nhiên, cuộc nội chiến đẫm máu kéo dài để tranh giành Ngôi Báu Sắt đã khiến gia tộc này ngày càng suy yếu và đi đến bờ vực của sự diệt vong."
         },
@@ -2925,16 +2925,16 @@
             "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
         },
         {
-            "name": "Cửu Môn",
+            "name": "Trọng Khí",
             "year": 2026,
-            "slug": "cuu-mon-2026",
-            "thumb": "https://phimimg.com/uploads/movies/20260731/cuu-mon-2026-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260731/cuu-mon-2026-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 22",
-            "total_episodes": "30",
+            "slug": "trong-khi",
+            "thumb": "https://phimimg.com/uploads/movies/20260810/trong-khi-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260810/trong-khi-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "33",
             "country": "Trung Quốc",
-            "description": "\"Cửu Môn\" kể câu chuyện Trường Sa xảy ra biến động, hai kì tài Trương Khải Sơn và Ngô Lão Cẩu cùng hợp lực, bắt tay với Hoắc Tiên Cô và các thành viên Cửu Môn cùng dấn thân vào mạo hiểm kỳ quái. Vụ biến mất bí ẩn của Đội 401 kéo theo bí mật kinh hoàng bị chôn vùi suốt trăm năm. Sự lựa chọn giữa sự sống và cái chết, tình nghĩa huynh đệ, trách nhiệm với môn phái và đại nghĩa với đất nước đan xen vào nhau. Các thành viên của Cửu Môn sẵn lòng hy sinh, hăng hái bảo vệ gia đình và đất nước, cùng nhau vượt qua khó khăn."
+            "description": "Câu chuyện bắt đầu từ giai đoạn đầu của thời kỳ cải cách mở cửa, kéo dài đến năm 1997 khi Luật Tố tụng Hình sự và Luật Hình sự được sửa đổi. Các nhân vật chính gồm Trần Nhất Chúng, Dư Cao Viễn, Trương Lệ Tuệ, Hạ Anh Kiệt cùng những sinh viên tốt nghiệp trường luật khác. Bộ phim kể về hành trình sau khi ra trường, họ bước vào những lĩnh vực khác nhau trong ngành tư pháp, chứng kiến lịch sử, tham gia vào quá trình phát triển pháp luật, không ngừng thích nghi với thời đại và trưởng thành qua thực tiễn tư pháp sôi động. Năm người xuất thân khác nhau, tính cách cũng hoàn toàn khác biệt. Trong hơn mười năm công tác và cuộc sống, họ trải qua biết bao thăng trầm, cuối cùng lựa chọn những con đường riêng. Bộ phim lấy góc nhìn độc đáo từ toàn bộ tiến trình tư pháp, đồng thời tập trung khắc họa những nhân vật trong các lĩnh vực công an, kiểm sát, tòa án và luật pháp, tái hiện một chặng đường lịch sử pháp quyền đầy biến động cùng số phận đan xen của con người trong một thời đại lớn."
         },
         {
             "name": "Phi Vụ Chung Cư",
@@ -2985,16 +2985,16 @@
             "description": "Will là một chú dê nhỏ với những ước mơ lớn, người có được cơ hội duy nhất trong đời để gia nhập các vận động viên chuyên nghiệp và thi đấu môn rugebol — một môn thể thao cường độ cao, pha trộn và đối kháng toàn diện, nơi các loài động vật nhanh nhất và hung dữ nhất thế giới thống trị. Những đồng đội mới của Will không mấy hào hứng khi có một chú dê nhỏ trong đội hình, nhưng Will quyết tâm tạo nên một cuộc cách mạng cho môn thể thao này và chứng minh một lần và mãi mãi rằng: “Nhỏ bé cũng biết chơi!”"
         },
         {
-            "name": "Nhân Ngư",
+            "name": "Cửu Môn",
             "year": 2026,
-            "slug": "nhan-ngu-2026",
-            "thumb": "https://phimimg.com/uploads/movies/20260808/nhan-ngu-2026-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260808/nhan-ngu-2026-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 13",
-            "total_episodes": "22",
+            "slug": "cuu-mon-2026",
+            "thumb": "https://phimimg.com/uploads/movies/20260731/cuu-mon-2026-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260731/cuu-mon-2026-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 22",
+            "total_episodes": "30",
             "country": "Trung Quốc",
-            "description": "Một vụ án thiếu nữ mất tích đã đẩy ba cô gái có số phận hoàn toàn khác biệt đến trước những lựa chọn mang tính bước ngoặt của cuộc đời, qua đó lột tả trọn vẹn những bi hoan của các gia đình bình dị. Giữa thành phố hoa lệ trên mặt đất và những đường cống ngầm tăm tối - nơi ánh sáng và bóng tối đan xen, cô gái trẻ một mình dấn bước. Qua bao gian truân, cô từng bước vạch trần sự thật ẩn giấu phía sau, tự cứu rỗi chính mình và bước tiếp về phía ánh sáng của hy vọng."
+            "description": "\"Cửu Môn\" kể câu chuyện Trường Sa xảy ra biến động, hai kì tài Trương Khải Sơn và Ngô Lão Cẩu cùng hợp lực, bắt tay với Hoắc Tiên Cô và các thành viên Cửu Môn cùng dấn thân vào mạo hiểm kỳ quái. Vụ biến mất bí ẩn của Đội 401 kéo theo bí mật kinh hoàng bị chôn vùi suốt trăm năm. Sự lựa chọn giữa sự sống và cái chết, tình nghĩa huynh đệ, trách nhiệm với môn phái và đại nghĩa với đất nước đan xen vào nhau. Các thành viên của Cửu Môn sẵn lòng hy sinh, hăng hái bảo vệ gia đình và đất nước, cùng nhau vượt qua khó khăn."
         },
         {
             "name": "Chuyện Tình Ma Quái",
@@ -3045,16 +3045,16 @@
             "description": "Trong bộ phim &quot;Zootopia 2 - Phi Vụ Động Trời 2&quot; từ Walt Disney Animation Studios, hai thám tử Judy Hopps (lồng tiếng bởi Ginnifer Goodwin) và Nick Wilde (lồng tiếng bởi Jason Bateman) bước vào hành trình truy tìm một sinh vật bò sát bí ẩn vừa xuất hiện tại Zootopia và khiến cả vương quốc động vật bị đảo lộn. Để phá được vụ án, Judy và Nick buộc phải hoạt động bí mật tại những khu vực mới lạ của thành phố – nơi mối quan hệ đồng nghiệp của họ bị thử thách hơn bao giờ hết."
         },
         {
-            "name": "Ngô Hoàng Tại Thượng: Phượng Ngự Tứ Phương",
+            "name": "Nhân Ngư",
             "year": 2026,
-            "slug": "ngo-hoang-tai-thuong-phuong-ngu-tu-phuong",
-            "thumb": "https://phimimg.com/uploads/movies/20260808/ngo-hoang-tai-thuong-phuong-ngu-tu-phuong-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260808/ngo-hoang-tai-thuong-phuong-ngu-tu-phuong-poster.webp",
+            "slug": "nhan-ngu-2026",
+            "thumb": "https://phimimg.com/uploads/movies/20260808/nhan-ngu-2026-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260808/nhan-ngu-2026-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 12",
-            "total_episodes": "20",
+            "current_episode": "Tập 13",
+            "total_episodes": "22",
             "country": "Trung Quốc",
-            "description": "Thiếu nữ hiện đại Hề Viên vô tình bước vào Huyền Cơ Giới sau một tai nạn bất ngờ. Từ đó, cô bị cuốn vào vòng xoáy nội loạn của nước Hổ Vân, liên tiếp đối mặt gian nguy. Sau vài phen cận kề sinh tử, thân phận thật sự của Hề Viên dần được hé lộ. Thần lực Phượng Hoàng đang ngủ yên trong cơ thể cô cũng được đánh thức nhờ những cơ duyên bất ngờ. Gánh trên vai sự an nguy của cả Huyền Cơ Giới, Hề Viên không màng sống chết, dũng cảm đứng lên thách thức Thần Luật tối cao. Cuối cùng, bằng trí tuệ và ý chí kiên cường của mình, cô đã bảo vệ được chúng sinh nơi Huyền Cơ Giới."
+            "description": "Một vụ án thiếu nữ mất tích đã đẩy ba cô gái có số phận hoàn toàn khác biệt đến trước những lựa chọn mang tính bước ngoặt của cuộc đời, qua đó lột tả trọn vẹn những bi hoan của các gia đình bình dị. Giữa thành phố hoa lệ trên mặt đất và những đường cống ngầm tăm tối - nơi ánh sáng và bóng tối đan xen, cô gái trẻ một mình dấn bước. Qua bao gian truân, cô từng bước vạch trần sự thật ẩn giấu phía sau, tự cứu rỗi chính mình và bước tiếp về phía ánh sáng của hy vọng."
         },
         {
             "name": "Sau Hôn Nhân",
