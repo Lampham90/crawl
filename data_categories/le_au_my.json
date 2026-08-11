@@ -1,5 +1,17 @@
 [
     {
+        "name": "Minions & Quái Vật",
+        "year": 2026,
+        "slug": "minions-quai-vat",
+        "thumb": "https://phimimg.com/uploads/movies/20260811/minions-quai-vat-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260811/minions-quai-vat-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Đây là câu chuyện có thật, đầy náo nhiệt, lố bịch và vô cùng điên rồ về cách các Minion chinh phục Hollywood, trở thành ngôi sao điện ảnh, rồi đánh mất tất cả, vô tình giải phóng những quái vật ra thế giới và cuối cùng buộc phải sát cánh bên nhau để cứu lấy Trái Đất khỏi chính mớ hỗn loạn mà họ đã gây ra."
+    },
+    {
         "name": "Phim Super Mario Thiên Hà",
         "year": 2026,
         "slug": "phim-super-mario-thien-ha",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Canada",
         "description": "Một cánh cửa kỳ lạ bất ngờ xuất hiện trong tầng hầm của một cửa hàng trưng bày nội thất, mở ra lối vào một không gian bí ẩn và đáng sợ vượt ngoài mọi hiểu biết."
-    },
-    {
-        "name": "Dưới Lớp Hào Quang",
-        "year": 2026,
-        "slug": "duoi-lop-hao-quang",
-        "thumb": "https://phimimg.com/uploads/movies/20260714/duoi-lop-hao-quang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260714/duoi-lop-hao-quang-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Pháp",
-        "description": "Giữa ánh đèn rực rỡ của Tuần lễ Thời trang Paris, ba người phụ nữ mang những hoàn cảnh khác nhau bất ngờ gặp gỡ và đồng hành cùng nhau. Khi đối diện với biến cố, khát vọng và những bí mật riêng, họ tìm thấy tình bạn, sự thấu hiểu và sức mạnh để thay đổi cuộc đời mình."
     }
 ]

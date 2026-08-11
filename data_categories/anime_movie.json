@@ -1,5 +1,17 @@
 [
     {
+        "name": "Minions & Quái Vật",
+        "year": 2026,
+        "slug": "minions-quai-vat",
+        "thumb": "https://phimimg.com/uploads/movies/20260811/minions-quai-vat-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260811/minions-quai-vat-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Đây là câu chuyện có thật, đầy náo nhiệt, lố bịch và vô cùng điên rồ về cách các Minion chinh phục Hollywood, trở thành ngôi sao điện ảnh, rồi đánh mất tất cả, vô tình giải phóng những quái vật ra thế giới và cuối cùng buộc phải sát cánh bên nhau để cứu lấy Trái Đất khỏi chính mớ hỗn loạn mà họ đã gây ra."
+    },
+    {
         "name": "Thế Giới Hoàn Mỹ Movie: Cửu Kiếp Phần Thiên",
         "year": 2026,
         "slug": "the-gioi-hoan-my-movie-cuu-kiep-phan-thien",
@@ -325,16 +337,5 @@
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "Pháp"
-    },
-    {
-        "name": "Khi Công Chúa Báo Thù (SCARLET)",
-        "year": 2025,
-        "slug": "khi-cong-chua-bao-thu-scarlet",
-        "thumb": "https://phimimg.com/upload/vod/20260320-1/2afe04aca51c401737254df619f2364d.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260320-1/66602495c5fa60dfc9103027d93ae546.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Nhật Bản"
     }
 ]
