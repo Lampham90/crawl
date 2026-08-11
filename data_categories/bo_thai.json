@@ -1,5 +1,53 @@
 [
     {
+        "name": "Thế Giới Em Và Tôi",
+        "year": 2026,
+        "slug": "the-gioi-em-va-toi",
+        "thumb": "https://phimimg.com/upload/vod/20260609-1/5550efbb49cb839af1d56ec050851185.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260609-1/c54b7834adf8578b0167b600502bdcba.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (19/19)",
+        "total_episodes": "19",
+        "country": "Thái Lan",
+        "description": "Theo yêu cầu của người bạn bị thương giống tên, Thatri, trong tình cảnh phá sản, mạo danh người bạn đó để nhận thừa kế và thay đổi số phận của cả hai."
+    },
+    {
+        "name": "San Hô Đen",
+        "year": 2026,
+        "slug": "san-ho-den",
+        "thumb": "https://phimimg.com/upload/vod/20260701-1/881de1d0760ad2caca0e4d29d0446b46.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260701-1/99666fb21a725348c860a349591ca7c0.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 28",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Sau tai nạn lặn suýt chết khiến máy ảnh của Narathon bị hỏng, anh gặp Kaimook, một sinh viên đang gây tiếng vang với tài nhiếp ảnh dưới nước. Cả hai lập tức khắc khẩu."
+    },
+    {
+        "name": "Luang Pho Trong Sạch",
+        "year": 2026,
+        "slug": "luang-pho-trong-sach",
+        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
+    },
+    {
+        "name": "Lâu Đài Tham Vọng (Bản Thái)",
+        "year": 2026,
+        "slug": "lau-dai-tham-vong-ban-thai",
+        "thumb": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 3",
+        "total_episodes": "16",
+        "country": "Thái Lan",
+        "description": "Được làm lại từ bộ phim Hàn Quốc đình đám cùng tên, Lâu Đài Tham Vọng (Bản Thái) xoay quanh cuộc chiến khốc liệt của những bậc cha mẹ giàu có tại khu biệt thự Sky Castle nhằm đưa con cái vào trường đại học danh giá. Fah, một người mẹ đang che giấu quá khứ nghèo khó, quyết tâm ép con gái phải đỗ Harvard để bảo vệ địa vị của bản thân. Áp lực ngày càng gia tăng với sự xuất hiện của một chuyên gia luyện thi khắc nghiệt và một học sinh thiên tài mang trong mình một bí mật có thể phá hủy mọi thứ mà Fah dày công gây dựng. Sau một sự cố gây chấn động tại một bữa tiệc, những sự thật bị chôn vùi ở Sky Castle lần lượt bị phơi bày."
+    },
+    {
         "name": "Đầu Bếp Đấu Giá",
         "year": 2026,
         "slug": "dau-bep-dau-gia",
@@ -96,18 +144,6 @@
         "description": "Chuyển đến trường cấp ba hàng đầu, chàng trai nuôi mộng trở thành ngôi sao nhạc rock Leerit thề sẽ tránh xa chuyện yêu đương, nhưng nhanh chóng đổi ý khi gặp bạn cùng phòng mới."
     },
     {
-        "name": "San Hô Đen",
-        "year": 2026,
-        "slug": "san-ho-den",
-        "thumb": "https://phimimg.com/upload/vod/20260701-1/881de1d0760ad2caca0e4d29d0446b46.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260701-1/99666fb21a725348c860a349591ca7c0.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 27",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Sau tai nạn lặn suýt chết khiến máy ảnh của Narathon bị hỏng, anh gặp Kaimook, một sinh viên đang gây tiếng vang với tài nhiếp ảnh dưới nước. Cả hai lập tức khắc khẩu."
-    },
-    {
         "name": "Đừng Xin Anh Jane",
         "year": 2026,
         "slug": "dung-xin-anh-jane",
@@ -130,18 +166,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Bị phản bội, Rin gieo lời nguyền để trả thù tình cũ. Nhưng khi lời nguyền ứng nghiệm lên người bạn cùng lớp, cậu phải tìm cách hóa giải mà không để lộ dòng dõi bí mật của mình."
-    },
-    {
-        "name": "Luang Pho Trong Sạch",
-        "year": 2026,
-        "slug": "luang-pho-trong-sach",
-        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
     },
     {
         "name": "Tiếng Anh Thành Tiếng Yêu",
@@ -216,18 +240,6 @@
         "description": "Bà Đồng Muifei là một cô gái trẻ sống trong một ngôi làng ở vùng núi, mang trên vai trách nhiệm gánh chịu những điều bất hạnh và đau khổ thay cho cộng đồng. Cuộc đời Muifei bắt đầu rẽ sang bước ngoặt bi kịch khi cô đem lòng yêu chàng trai thành phố Phum và rời bỏ quê nhà để đi theo tiếng gọi của con tim. Tuy nhiên, hy vọng về một cuộc sống tốt đẹp hơn nhanh chóng tan biến khi cô phải đối mặt với vô vàn khó khăn, sự bóc lột và những hành vi ngược đãi tàn nhẫn. Bị nhấn chìm trong đau đớn tột cùng, Muifei trở lại dưới hình dạng một linh hồn báo oán, quyết tâm đòi lại công lý."
     },
     {
-        "name": "Thế Giới Em Và Tôi",
-        "year": 2026,
-        "slug": "the-gioi-em-va-toi",
-        "thumb": "https://phimimg.com/upload/vod/20260609-1/5550efbb49cb839af1d56ec050851185.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260609-1/c54b7834adf8578b0167b600502bdcba.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 18",
-        "total_episodes": "19",
-        "country": "Thái Lan",
-        "description": "Theo yêu cầu của người bạn bị thương giống tên, Thatri, trong tình cảnh phá sản, mạo danh người bạn đó để nhận thừa kế và thay đổi số phận của cả hai."
-    },
-    {
         "name": "Nhân Duyên Tiền Định",
         "year": 2026,
         "slug": "nhan-duyen-tien-dinh-2026",
@@ -250,18 +262,6 @@
         "total_episodes": "12",
         "country": "Thái Lan",
         "description": "Cuộc đời của một chàng trai trẻ đã thay đổi mãi mãi khi anh bị một Alpha quyền năng đánh dấu, buộc chặt định mệnh của cả hai vào một mối liên kết không thể nào trốn chạy."
-    },
-    {
-        "name": "Lâu Đài Tham Vọng (Bản Thái)",
-        "year": 2026,
-        "slug": "lau-dai-tham-vong-ban-thai",
-        "thumb": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 2",
-        "total_episodes": "16",
-        "country": "Thái Lan",
-        "description": "Được làm lại từ bộ phim Hàn Quốc đình đám cùng tên, Lâu Đài Tham Vọng (Bản Thái) xoay quanh cuộc chiến khốc liệt của những bậc cha mẹ giàu có tại khu biệt thự Sky Castle nhằm đưa con cái vào trường đại học danh giá. Fah, một người mẹ đang che giấu quá khứ nghèo khó, quyết tâm ép con gái phải đỗ Harvard để bảo vệ địa vị của bản thân. Áp lực ngày càng gia tăng với sự xuất hiện của một chuyên gia luyện thi khắc nghiệt và một học sinh thiên tài mang trong mình một bí mật có thể phá hủy mọi thứ mà Fah dày công gây dựng. Sau một sự cố gây chấn động tại một bữa tiệc, những sự thật bị chôn vùi ở Sky Castle lần lượt bị phơi bày."
     },
     {
         "name": "Tỉnh Táo Rồi, Lookpeach",

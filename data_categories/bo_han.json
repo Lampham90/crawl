@@ -1,5 +1,17 @@
 [
     {
+        "name": "Giấc Mơ Trao Em",
+        "year": 2026,
+        "slug": "giac-mo-trao-em",
+        "thumb": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 9",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Woo Soo Bin và Ju Yi Jae gặp lại sau 15 năm. Ký ức cũ dần sống dậy, cả hai phải đối diện với những cảm xúc và tình yêu vẫn chưa thực sự kết thúc."
+    },
+    {
         "name": "Phi Vụ Chung Cư",
         "year": 2026,
         "slug": "phi-vu-chung-cu",
@@ -178,18 +190,6 @@
         "total_episodes": "8",
         "country": "Hàn Quốc",
         "description": "Vừa được bổ nhiệm làm CEO của Murthehelp, Jeong Ji An bước vào một cuộc chiến đầy nguy hiểm với tổ chức quyền lực mang tên Babylon. Cùng hợp tác với người chú Jeong Jin Man, người đã bất ngờ quay trở lại, cô phát động một cuộc phản công quyết liệt nhằm bảo vệ công ty và đối đầu với những kẻ thù đang đe dọa tất cả những gì họ đã gây dựng. Khi cuộc xung đột ngày càng leo thang, cả hai dựa vào sự tin tưởng lẫn nhau, chiến lược và ý chí kiên cường để đối mặt với một đối thủ ngày càng đáng gờm."
-    },
-    {
-        "name": "Giấc Mơ Trao Em",
-        "year": 2026,
-        "slug": "giac-mo-trao-em",
-        "thumb": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 8",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Woo Soo Bin và Ju Yi Jae gặp lại sau 15 năm. Ký ức cũ dần sống dậy, cả hai phải đối diện với những cảm xúc và tình yêu vẫn chưa thực sự kết thúc."
     },
     {
         "name": "Hương Vị Của Biển (Hương Vị Của Biển Ở Calape)",
