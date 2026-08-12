@@ -1,5 +1,17 @@
 [
     {
+        "name": "Hai Trái Tim",
+        "year": 2026,
+        "slug": "hai-trai-tim",
+        "thumb": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "16",
+        "country": "Thái Lan",
+        "description": "Võ sĩ quyền Anh Dom nằm vùng để thâm nhập tổ chức tội phạm hùng mạnh, nhưng nhiệm vụ này nhanh chóng đẩy cả cuộc hôn nhân lẫn tính mạng của anh vào thế hiểm nguy."
+    },
+    {
         "name": "San Hô Đen",
         "year": 2026,
         "slug": "san-ho-den",
@@ -346,17 +358,5 @@
         "total_episodes": "28",
         "country": "Thái Lan",
         "description": "Sau tai nạn của cha, một cô gái trẻ vùng Isan tiếp quản đoàn múa lân gia đình và kết hợp với nhạc Mor Lam truyền thống để duy trì hoạt động của đoàn."
-    },
-    {
-        "name": "Oan Gia Thành Đôi",
-        "year": 2026,
-        "slug": "oan-gia-thanh-doi",
-        "thumb": "https://phimimg.com/upload/vod/20260604-1/e769f9fdc95b050450fa90171a393d98.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260604-1/5855383b097fbc952cdb1c054e5cf25f.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Hai người luôn đối đầu ở nơi làm việc như “kẻ thù truyền kiếp”. Nhưng sau một đêm ngoài ý muốn, họ bắt đầu mối quan hệ kiểu “friends with benefits” — chỉ thân mật thể xác, không yêu đương. Để tránh đồng nghiệp phát hiện, cả hai vẫn giả vờ ghét nhau ở công ty. Tuy nhiên càng ở gần nhau, mối quan hệ dần chuyển thành tình cảm thật."
     }
 ]

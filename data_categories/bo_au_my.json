@@ -1,5 +1,29 @@
 [
     {
+        "name": "Sterling Point",
+        "year": 2026,
+        "slug": "sterling-point",
+        "thumb": "https://phimimg.com/uploads/movies/20260812/sterling-point-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260812/sterling-point-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Sau khi phát hiện mình được thừa kế một hòn đảo hẻo lánh ở Canada từ ông ngoại — người mà cô chưa từng được phép gặp mặt, cô gái 17 tuổi Annie Jacobson quyết định lên đường tìm hiểu sự thật. Chuyến đi đã kéo cô vào một thế giới của những bí mật bị chôn giấu, tình chị em bất ngờ và một lịch sử gia đình phức tạp mà cô chưa từng được định sẵn để khám phá."
+    },
+    {
+        "name": "MOURINHO",
+        "year": 2026,
+        "slug": "mourinho",
+        "thumb": "https://phimimg.com/uploads/movies/20260812/mourinho-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260812/mourinho-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (3/3)",
+        "total_episodes": "3",
+        "country": "Âu Mỹ",
+        "description": "Bộ phim tài liệu đầy ắp danh hiệu và tiết lộ nội bộ này tái hiện hành trình José Mourinho vươn tầm thành nhà cầm quân hàng đầu thế giới tại các câu lạc bộ bóng đá danh giá nhất."
+    },
+    {
         "name": "Gia Tộc Rồng (Phần 3)",
         "year": 2026,
         "slug": "gia-toc-rong-phan-3",
@@ -334,29 +358,5 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Khi đỉnh cao sự nghiệp dần qua đi, huyền thoại làng golf Lonnie Hawkins \"Diều hâu\" quyết giành danh hiệu Major cuối cùng – và vô tình đẩy những người anh yêu thương vào mớ hỗn độn."
-    },
-    {
-        "name": "Quarterback (Phần 3)",
-        "year": 2026,
-        "slug": "quarterback-phan-3",
-        "thumb": "https://phimimg.com/uploads/movies/20260715/quarterback-phan-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260715/quarterback-phan-3-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (7/7)",
-        "total_episodes": "7",
-        "country": "Âu Mỹ",
-        "description": "Theo chân những cơ thể bầm dập, những cú trượt ngã khiến tinh thần suy sụp, những trận thua đau đớn và niềm vui thuần khiết của ba tiền vệ NFL trong suốt một mùa giải."
-    },
-    {
-        "name": "Quarterback (Phần 2)",
-        "year": 2025,
-        "slug": "quarterback-phan-2",
-        "thumb": "https://phimimg.com/upload/vod/20250710-1/079631bc0742cf2933c56d9df42f3586.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250710-1/20f99574bb5ebc1aae76665677790dea.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (7/7)",
-        "total_episodes": "7",
-        "country": "Âu Mỹ",
-        "description": "<span style=\"text-wrap-mode: wrap;\">Theo chân những cơ thể bầm dập, những cú trượt ngã khiến tinh thần suy sụp, những trận thua đau đớn và niềm vui thuần khiết của ba tiền vệ NFL trong suốt một mùa giải.</span>"
     }
 ]
