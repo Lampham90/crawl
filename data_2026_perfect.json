@@ -365,6 +365,18 @@
     ],
     "hh_trung_quoc": [
         {
+            "name": "Vạn Cổ Thần Đế",
+            "year": 2026,
+            "slug": "van-co-than-de",
+            "thumb": "https://phimimg.com/uploads/movies/20260721/van-co-than-de-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260721/van-co-than-de-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 9",
+            "total_episodes": "60",
+            "country": "Trung Quốc",
+            "description": "Tám trăm năm trước, Trương Nhược Trần là nhi tử duy nhất của Minh Đế. Tuy sở hữu tài năng tuyệt thế, chàng lại bị thanh mai trúc mã là công chúa Trì Dao sát hại. Tám trăm năm sau, chàng trọng sinh trong thân xác của Trương Nhược Trần - Cửu vương tử vô dụng của Vân Vũ Quận Quốc. Thân thể mới này ốm yếu, bệnh tật, không có chút linh lực nào, khiến chàng cùng mẫu thân là Lâm Phi phải chịu đủ mọi sự chèn ép trong phủ Quận Vương. Sau khi nhớ lại kiếp trước, Trương Nhược Trần thề sẽ trả thù Trì Dao nữ vương - nay đã trở thành chúa tể của Côn Luân Giới, đồng thời bảo vệ Lâm Phi, người mẹ hết lòng yêu thương mình. Sau khi thức tỉnh ấn ký Thần Võ Thời Không, Trương Nhược Trần dựa vào kinh nghiệm từ kiếp trước cùng sự khổ luyện để nhanh chóng trở nên mạnh mẽ."
+        },
+        {
             "name": "Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện",
             "year": 2026,
             "slug": "huyen-huyen-ta-thien-menh-trum-phan-dien",
@@ -531,18 +543,6 @@
             "total_episodes": "60",
             "country": "Trung Quốc",
             "description": "Pháp Sư Tử Linh: Ta Chính Là Thiên Tai, một tác phẩm được chuyển thể từ cuốn tiểu thuyết nổi tiếng cùng tên, mang đến câu chuyện về hành trình trở thành một quân vương của một người có tên là Lâm Mặc Ngữ. Vốn không định làm vua, nhưng cuộc sống xô đẩy và Lâm Mặc Ngữ đã phải thuận theo thời thế. Nơi mà anh ta sống thực tế là đang bị những quy tắc của trò chơi giáng xuống và làm đảo lộn mọi thứ, con người và những sinh linh trên thế giới bị biến thành những phần của trò chơi, thậm chí là họ phải đối mặt với nạn xâm lăng từ những dị tộc như ma tộc và long tộc, mang đến những cuộc chiến không có hồi kết và vô cùng khốc liệt. Nhưng với Lâm Mặc Ngữ thì khác, anh ta mang trên mình những thiên phú bẩm sinh rất đặc biệt, những năng lực rất khác người, chỉ cần xua tay là có thể tạo ra một đội quân hùng mạnh. Nhờ vậy mà Lâm Mặc Ngữ đã đánh lui được những dị tộc và mang lại sự bình yên cho thế giới, phá vỡ thế chân vạc vốn tồn tại lâu năm giữa 3 nước để thống nhất thiên hạ, trở thành một vị quân vương chính hiệu."
-        },
-        {
-            "name": "Học Viện Cao Võ Đông Đại",
-            "year": 2026,
-            "slug": "hoc-vien-cao-vo-dong-dai",
-            "thumb": "https://phimimg.com/uploads/movies/20260718/hoc-vien-cao-vo-dong-dai-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260718/hoc-vien-cao-vo-dong-dai-phan-1-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 5",
-            "total_episodes": "12",
-            "country": "Trung Quốc",
-            "description": "Vạn Vật Sinh là một thứ công pháp cổ xưa thần kỳ và bí ẩn hơn tất cả những hiểu biết của con người thời hiện đại ngày nay, nhưng bằng một cách thần bí nào đó mà nó lại được truyền thừa và tái hiện trong cơ thể của một thiếu niên thời hiện đại là Tần Vũ. Vốn Tần Vũ được chọn để làm người kế thừa bởi anh mang trong mình những thiên bẩm vô cùng to lớn, có thể dễ kể đến nhất chính là linh căn phế. Tham gia rèn luyện tại Học Viện Cao Võ Đông Đại, Tần Vũ đã nâng cao những sức mạnh thiên bẩm của mình và cùng với các chiến hữu liều mình xả thân chiến đấu cho lẽ phải, đánh đuổi yêu ma, tạo nên một thế giới yên bình sau những biến cố liên tiếp xảy đến."
         }
     ],
     "phim_chieu_rap": [
@@ -1639,6 +1639,54 @@
     ],
     "bo_trung": [
         {
+            "name": "Hộp Bất Ngờ",
+            "year": 2026,
+            "slug": "hop-bat-ngo",
+            "thumb": "https://phimimg.com/uploads/movies/20260808/hop-bat-ngo-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260808/hop-bat-ngo-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 16",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Năm câu chuyện tưởng chừng độc lập nhưng lại âm thầm soi chiếu lẫn nhau: một nạn nhân dùng \"trại hè\" được dàn dựng công phu để hoàn thành màn báo thù; một \"kẻ vô dụng\" trước lúc lâm chung cuối cùng cũng hóa giải được những nuối tiếc trong đời; một \"vé cào\" với nhiều nhân cách cùng chung sống trong một cơ thể; một \"người liên hệ khẩn cấp\" vẫn thủy chung ở bên giường bệnh, không rời nửa bước; và một \"Ảnh hậu\" chìm trong chứng trầm cảm sau sinh, từng bước tự hủy hoại chính mình."
+        },
+        {
+            "name": "Hoa Khai Cẩm Tú",
+            "year": 2026,
+            "slug": "hoa-khai-cam-tu",
+            "thumb": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 9",
+            "total_episodes": "36",
+            "country": "Trung Quốc",
+            "description": "Triệu Lăng, một lái buôn muối lậu hào sảng, trọng tình trọng nghĩa, tuy xuất thân thấp kém nhưng luôn mang trong mình chí lớn. Định mệnh đưa chàng gặp Phó Đình Vân, tiểu thư xuất thân từ một thế gia danh giá, bị vu oan tư thông. Biến cố ập đến khiến cả hai buộc phải cùng nhau lưu vong. Trên hành trình chạy trốn, họ phải đối mặt với muôn vàn thử thách từ gia tộc, triều đình và cả số phận. Sau bao lần kề vai sát cánh vượt qua hiểm nguy, cùng chống lại nghịch cảnh, cuối cùng hai người đã nên duyên đôi lứa và viết nên một câu chuyện tình được mãi lưu danh."
+        },
+        {
+            "name": "Bí Ẩn Nhà Ma",
+            "year": 2026,
+            "slug": "bi-an-nha-ma",
+            "thumb": "https://phimimg.com/uploads/movies/20260808/bi-an-nha-ma-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260808/bi-an-nha-ma-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 18",
+            "total_episodes": "21",
+            "country": "Trung Quốc",
+            "description": "Vào thời Dân Quốc, Giang Hoài cùng Tuân Ca cùng lập gánh kể chuyện, tình cờ gặp một ngôi nhà ma ám, nơi ban ngày người ở, ban đêm ma ám. Giang Hoài bị bắt đi làm chú rể trong một đám cưới ma. Sau đó, anh hợp tác với nữ thanh tra Mục Anh, lần lượt phá giải hàng loạt kỳ án rùng rợn tại những ngôi nhà ma ám: Diêm Vương cưới vợ, Ngũ Quỷ vận tài, con rối giết người, hoa yêu câu hồn, đèn chùm hành thích và giếng cổ đoạt mạng."
+        },
+        {
+            "name": "Bạn Gái Thiên Tài",
+            "year": 2026,
+            "slug": "ban-gai-thien-tai",
+            "thumb": "https://phimimg.com/uploads/movies/20260802/ban-gai-thien-tai-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260802/ban-gai-thien-tai-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 23",
+            "total_episodes": "28",
+            "country": "Trung Quốc",
+            "description": "Cô gái thiên tài Lâm Tri Hạ có tính cách thẳng thắn, không giỏi giao tiếp, từ nhỏ đã không có bạn bè. Sau khi đỗ vào trường trung học số một tỉnh, cô quen chàng trai học giỏi Giang Du Bạch có tính cách tươi sáng qua một cuộc thi giải đề rồi trở thành bạn cùng bàn với cậu. Là người giỏi giao tiếp, Giang Du Bạch giúp Lâm Tri Hạ hòa nhập với tập thể, kết bạn với Thang Đình Đình, Đoàn Khải Ngôn, Thẩm Phụ Huyên, Kim Bách Tuệ và những người bạn khác. Để tỏ lòng biết ơn, Lâm Tri Hạ giúp cậu ôn bài. Hai người từ cạnh tranh chuyển sang hỗ trợ lẫn nhau, cuối cùng trở thành những người bạn thân thiết nhất. Hai người cùng nhau giải quyết vụ việc bạn học bị lừa, tham gia hoạt động câu lạc bộ và cuộc thi toán cấp tỉnh. Trong quá trình ấy, tình cảm của Giang Dư Bạch dành cho Lâm Tri Hạ dần nảy sinh, nhưng cậu chỉ âm thầm giấu kín tình yêu trong lòng. Sau khi Lâm Tri Hạ được tuyển thẳng vào Đại học Phúc Đán, Giang Dư Bạch dự định tỏ tình với cô trong chuyến du lịch tốt nghiệp. Nhưng vì mẹ cậu bị cuốn vào một vụ án lừa đảo, cậu đành rời đi trong tiếc nuối. Liệu hai người cuối cùng có thể vượt qua mọi trở ngại để đến bên nhau?"
+        },
+        {
             "name": "Ngự Đình Dao",
             "year": 2026,
             "slug": "ngu-dinh-dao",
@@ -1721,54 +1769,6 @@
             "total_episodes": "22",
             "country": "Trung Quốc",
             "description": "Một vụ án thiếu nữ mất tích đã đẩy ba cô gái có số phận hoàn toàn khác biệt đến trước những lựa chọn mang tính bước ngoặt của cuộc đời, qua đó lột tả trọn vẹn những bi hoan của các gia đình bình dị. Giữa thành phố hoa lệ trên mặt đất và những đường cống ngầm tăm tối - nơi ánh sáng và bóng tối đan xen, cô gái trẻ một mình dấn bước. Qua bao gian truân, cô từng bước vạch trần sự thật ẩn giấu phía sau, tự cứu rỗi chính mình và bước tiếp về phía ánh sáng của hy vọng."
-        },
-        {
-            "name": "Hộp Bất Ngờ",
-            "year": 2026,
-            "slug": "hop-bat-ngo",
-            "thumb": "https://phimimg.com/uploads/movies/20260808/hop-bat-ngo-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260808/hop-bat-ngo-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 14",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Năm câu chuyện tưởng chừng độc lập nhưng lại âm thầm soi chiếu lẫn nhau: một nạn nhân dùng \"trại hè\" được dàn dựng công phu để hoàn thành màn báo thù; một \"kẻ vô dụng\" trước lúc lâm chung cuối cùng cũng hóa giải được những nuối tiếc trong đời; một \"vé cào\" với nhiều nhân cách cùng chung sống trong một cơ thể; một \"người liên hệ khẩn cấp\" vẫn thủy chung ở bên giường bệnh, không rời nửa bước; và một \"Ảnh hậu\" chìm trong chứng trầm cảm sau sinh, từng bước tự hủy hoại chính mình."
-        },
-        {
-            "name": "Hoa Khai Cẩm Tú",
-            "year": 2026,
-            "slug": "hoa-khai-cam-tu",
-            "thumb": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 7",
-            "total_episodes": "36",
-            "country": "Trung Quốc",
-            "description": "Triệu Lăng, một lái buôn muối lậu hào sảng, trọng tình trọng nghĩa, tuy xuất thân thấp kém nhưng luôn mang trong mình chí lớn. Định mệnh đưa chàng gặp Phó Đình Vân, tiểu thư xuất thân từ một thế gia danh giá, bị vu oan tư thông. Biến cố ập đến khiến cả hai buộc phải cùng nhau lưu vong. Trên hành trình chạy trốn, họ phải đối mặt với muôn vàn thử thách từ gia tộc, triều đình và cả số phận. Sau bao lần kề vai sát cánh vượt qua hiểm nguy, cùng chống lại nghịch cảnh, cuối cùng hai người đã nên duyên đôi lứa và viết nên một câu chuyện tình được mãi lưu danh."
-        },
-        {
-            "name": "Bí Ẩn Nhà Ma",
-            "year": 2026,
-            "slug": "bi-an-nha-ma",
-            "thumb": "https://phimimg.com/uploads/movies/20260808/bi-an-nha-ma-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260808/bi-an-nha-ma-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 16",
-            "total_episodes": "21",
-            "country": "Trung Quốc",
-            "description": "Vào thời Dân Quốc, Giang Hoài cùng Tuân Ca cùng lập gánh kể chuyện, tình cờ gặp một ngôi nhà ma ám, nơi ban ngày người ở, ban đêm ma ám. Giang Hoài bị bắt đi làm chú rể trong một đám cưới ma. Sau đó, anh hợp tác với nữ thanh tra Mục Anh, lần lượt phá giải hàng loạt kỳ án rùng rợn tại những ngôi nhà ma ám: Diêm Vương cưới vợ, Ngũ Quỷ vận tài, con rối giết người, hoa yêu câu hồn, đèn chùm hành thích và giếng cổ đoạt mạng."
-        },
-        {
-            "name": "Bạn Gái Thiên Tài",
-            "year": 2026,
-            "slug": "ban-gai-thien-tai",
-            "thumb": "https://phimimg.com/uploads/movies/20260802/ban-gai-thien-tai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260802/ban-gai-thien-tai-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 22",
-            "total_episodes": "28",
-            "country": "Trung Quốc",
-            "description": "Cô gái thiên tài Lâm Tri Hạ có tính cách thẳng thắn, không giỏi giao tiếp, từ nhỏ đã không có bạn bè. Sau khi đỗ vào trường trung học số một tỉnh, cô quen chàng trai học giỏi Giang Du Bạch có tính cách tươi sáng qua một cuộc thi giải đề rồi trở thành bạn cùng bàn với cậu. Là người giỏi giao tiếp, Giang Du Bạch giúp Lâm Tri Hạ hòa nhập với tập thể, kết bạn với Thang Đình Đình, Đoàn Khải Ngôn, Thẩm Phụ Huyên, Kim Bách Tuệ và những người bạn khác. Để tỏ lòng biết ơn, Lâm Tri Hạ giúp cậu ôn bài. Hai người từ cạnh tranh chuyển sang hỗ trợ lẫn nhau, cuối cùng trở thành những người bạn thân thiết nhất. Hai người cùng nhau giải quyết vụ việc bạn học bị lừa, tham gia hoạt động câu lạc bộ và cuộc thi toán cấp tỉnh. Trong quá trình ấy, tình cảm của Giang Dư Bạch dành cho Lâm Tri Hạ dần nảy sinh, nhưng cậu chỉ âm thầm giấu kín tình yêu trong lòng. Sau khi Lâm Tri Hạ được tuyển thẳng vào Đại học Phúc Đán, Giang Dư Bạch dự định tỏ tình với cô trong chuyến du lịch tốt nghiệp. Nhưng vì mẹ cậu bị cuốn vào một vụ án lừa đảo, cậu đành rời đi trong tiếc nuối. Liệu hai người cuối cùng có thể vượt qua mọi trở ngại để đến bên nhau?"
         },
         {
             "name": "Chuyện Tôi Làm Nội Gián",
@@ -2731,6 +2731,18 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Bạn Gái Thiên Tài",
+            "year": 2026,
+            "slug": "ban-gai-thien-tai",
+            "thumb": "https://phimimg.com/uploads/movies/20260802/ban-gai-thien-tai-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260802/ban-gai-thien-tai-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 23",
+            "total_episodes": "28",
+            "country": "Trung Quốc",
+            "description": "Cô gái thiên tài Lâm Tri Hạ có tính cách thẳng thắn, không giỏi giao tiếp, từ nhỏ đã không có bạn bè. Sau khi đỗ vào trường trung học số một tỉnh, cô quen chàng trai học giỏi Giang Du Bạch có tính cách tươi sáng qua một cuộc thi giải đề rồi trở thành bạn cùng bàn với cậu. Là người giỏi giao tiếp, Giang Du Bạch giúp Lâm Tri Hạ hòa nhập với tập thể, kết bạn với Thang Đình Đình, Đoàn Khải Ngôn, Thẩm Phụ Huyên, Kim Bách Tuệ và những người bạn khác. Để tỏ lòng biết ơn, Lâm Tri Hạ giúp cậu ôn bài. Hai người từ cạnh tranh chuyển sang hỗ trợ lẫn nhau, cuối cùng trở thành những người bạn thân thiết nhất. Hai người cùng nhau giải quyết vụ việc bạn học bị lừa, tham gia hoạt động câu lạc bộ và cuộc thi toán cấp tỉnh. Trong quá trình ấy, tình cảm của Giang Dư Bạch dành cho Lâm Tri Hạ dần nảy sinh, nhưng cậu chỉ âm thầm giấu kín tình yêu trong lòng. Sau khi Lâm Tri Hạ được tuyển thẳng vào Đại học Phúc Đán, Giang Dư Bạch dự định tỏ tình với cô trong chuyến du lịch tốt nghiệp. Nhưng vì mẹ cậu bị cuốn vào một vụ án lừa đảo, cậu đành rời đi trong tiếc nuối. Liệu hai người cuối cùng có thể vượt qua mọi trở ngại để đến bên nhau?"
+        },
+        {
             "name": "Ngự Đình Dao",
             "year": 2026,
             "slug": "ngu-dinh-dao",
@@ -2801,18 +2813,6 @@
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Woo Soo Bin và Ju Yi Jae gặp lại sau 15 năm. Ký ức cũ dần sống dậy, cả hai phải đối diện với những cảm xúc và tình yêu vẫn chưa thực sự kết thúc."
-        },
-        {
-            "name": "Bạn Gái Thiên Tài",
-            "year": 2026,
-            "slug": "ban-gai-thien-tai",
-            "thumb": "https://phimimg.com/uploads/movies/20260802/ban-gai-thien-tai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260802/ban-gai-thien-tai-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 22",
-            "total_episodes": "28",
-            "country": "Trung Quốc",
-            "description": "Cô gái thiên tài Lâm Tri Hạ có tính cách thẳng thắn, không giỏi giao tiếp, từ nhỏ đã không có bạn bè. Sau khi đỗ vào trường trung học số một tỉnh, cô quen chàng trai học giỏi Giang Du Bạch có tính cách tươi sáng qua một cuộc thi giải đề rồi trở thành bạn cùng bàn với cậu. Là người giỏi giao tiếp, Giang Du Bạch giúp Lâm Tri Hạ hòa nhập với tập thể, kết bạn với Thang Đình Đình, Đoàn Khải Ngôn, Thẩm Phụ Huyên, Kim Bách Tuệ và những người bạn khác. Để tỏ lòng biết ơn, Lâm Tri Hạ giúp cậu ôn bài. Hai người từ cạnh tranh chuyển sang hỗ trợ lẫn nhau, cuối cùng trở thành những người bạn thân thiết nhất. Hai người cùng nhau giải quyết vụ việc bạn học bị lừa, tham gia hoạt động câu lạc bộ và cuộc thi toán cấp tỉnh. Trong quá trình ấy, tình cảm của Giang Dư Bạch dành cho Lâm Tri Hạ dần nảy sinh, nhưng cậu chỉ âm thầm giấu kín tình yêu trong lòng. Sau khi Lâm Tri Hạ được tuyển thẳng vào Đại học Phúc Đán, Giang Dư Bạch dự định tỏ tình với cô trong chuyến du lịch tốt nghiệp. Nhưng vì mẹ cậu bị cuốn vào một vụ án lừa đảo, cậu đành rời đi trong tiếc nuối. Liệu hai người cuối cùng có thể vượt qua mọi trở ngại để đến bên nhau?"
         },
         {
             "name": "Gia Tộc Rồng (Phần 3)",
@@ -2925,16 +2925,16 @@
             "description": "Đây là câu chuyện có thật, đầy náo nhiệt, lố bịch và vô cùng điên rồ về cách các Minion chinh phục Hollywood, trở thành ngôi sao điện ảnh, rồi đánh mất tất cả, vô tình giải phóng những quái vật ra thế giới và cuối cùng buộc phải sát cánh bên nhau để cứu lấy Trái Đất khỏi chính mớ hỗn loạn mà họ đã gây ra."
         },
         {
-            "name": "Ngự Đình Dao",
+            "name": "Hộp Bất Ngờ",
             "year": 2026,
-            "slug": "ngu-dinh-dao",
-            "thumb": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 32",
-            "total_episodes": "32",
+            "slug": "hop-bat-ngo",
+            "thumb": "https://phimimg.com/uploads/movies/20260808/hop-bat-ngo-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260808/hop-bat-ngo-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 16",
+            "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Mạnh Đình Huy (Ngô Cẩn Ngôn) là nữ quan đầu tiên của triều Đại Ninh thi đỗ tam nguyên. Trên triều, nàng khôn khéo, tàn nhẫn, lọc lõi đủ đường, bị gán tiếng “gian thần” nhưng thực chất lại chỉ có một lý tưởng duy nhất: dốc hết tâm huyết để phò tá vị minh quân trẻ tuổi mà mình từng mang ơn. Thế nhưng, trên con đường đầy cạm bẫy của quyền lực, Mạnh Đình Huy không ngờ rằng tấm lòng nàng dốc lòng chôn giấu lại được hồi đáp bằng tình yêu sâu sắc. Anh Quả (Trần Triết Viễn), vị quân vương ẩn nhẫn, trị quốc bằng trí tuệ và sự điềm tĩnh, từng bước để lộ trái tim chỉ dành cho nàng. Chàng không giỏi lời hoa mỹ, nhưng mỗi hành động, mỗi ánh mắt đều là minh chứng cho một tình yêu lặng lẽ mà mãnh liệt."
+            "description": "Năm câu chuyện tưởng chừng độc lập nhưng lại âm thầm soi chiếu lẫn nhau: một nạn nhân dùng \"trại hè\" được dàn dựng công phu để hoàn thành màn báo thù; một \"kẻ vô dụng\" trước lúc lâm chung cuối cùng cũng hóa giải được những nuối tiếc trong đời; một \"vé cào\" với nhiều nhân cách cùng chung sống trong một cơ thể; một \"người liên hệ khẩn cấp\" vẫn thủy chung ở bên giường bệnh, không rời nửa bước; và một \"Ảnh hậu\" chìm trong chứng trầm cảm sau sinh, từng bước tự hủy hoại chính mình."
         },
         {
             "name": "Giấc Mơ Trao Em",
@@ -2985,16 +2985,16 @@
             "description": "Ở một xóm nhỏ miền Tây, ông Sáu Sếu sống lủi thủi trong quán cà phê – karaoke, mong con trai Út Tửng từ Sài Gòn về thăm. Khi phát hiện mình mắc trọng bệnh, ông quyết “cưới vợ cho con” để trọn lời hứa với người vợ quá cố. Nhưng kế hoạch ấy đổ vỡ khi ông phát hiện Tửng có một bí mật động trời và che giấu mọi chuyện. Giữa những xung đột, hiểu lầm và nỗ lực hàn gắn, cha con họ dần học cách thấu hiểu, để rồi mỗi người đều tìm thấy hạnh phúc và bình yên trong chính cuộc hôn nhân của mình."
         },
         {
-            "name": "Ngô Hoàng Tại Thượng: Phượng Ngự Tứ Phương",
+            "name": "Hoa Khai Cẩm Tú",
             "year": 2026,
-            "slug": "ngo-hoang-tai-thuong-phuong-ngu-tu-phuong",
-            "thumb": "https://phimimg.com/uploads/movies/20260808/ngo-hoang-tai-thuong-phuong-ngu-tu-phuong-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260808/ngo-hoang-tai-thuong-phuong-ngu-tu-phuong-poster.webp",
+            "slug": "hoa-khai-cam-tu",
+            "thumb": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 15",
-            "total_episodes": "20",
+            "current_episode": "Tập 9",
+            "total_episodes": "36",
             "country": "Trung Quốc",
-            "description": "Thiếu nữ hiện đại Hề Viên vô tình bước vào Huyền Cơ Giới sau một tai nạn bất ngờ. Từ đó, cô bị cuốn vào vòng xoáy nội loạn của nước Hổ Vân, liên tiếp đối mặt gian nguy. Sau vài phen cận kề sinh tử, thân phận thật sự của Hề Viên dần được hé lộ. Thần lực Phượng Hoàng đang ngủ yên trong cơ thể cô cũng được đánh thức nhờ những cơ duyên bất ngờ. Gánh trên vai sự an nguy của cả Huyền Cơ Giới, Hề Viên không màng sống chết, dũng cảm đứng lên thách thức Thần Luật tối cao. Cuối cùng, bằng trí tuệ và ý chí kiên cường của mình, cô đã bảo vệ được chúng sinh nơi Huyền Cơ Giới."
+            "description": "Triệu Lăng, một lái buôn muối lậu hào sảng, trọng tình trọng nghĩa, tuy xuất thân thấp kém nhưng luôn mang trong mình chí lớn. Định mệnh đưa chàng gặp Phó Đình Vân, tiểu thư xuất thân từ một thế gia danh giá, bị vu oan tư thông. Biến cố ập đến khiến cả hai buộc phải cùng nhau lưu vong. Trên hành trình chạy trốn, họ phải đối mặt với muôn vàn thử thách từ gia tộc, triều đình và cả số phận. Sau bao lần kề vai sát cánh vượt qua hiểm nguy, cùng chống lại nghịch cảnh, cuối cùng hai người đã nên duyên đôi lứa và viết nên một câu chuyện tình được mãi lưu danh."
         },
         {
             "name": "Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)",
@@ -3045,16 +3045,16 @@
             "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
         },
         {
-            "name": "Nam Hí",
+            "name": "Bí Ẩn Nhà Ma",
             "year": 2026,
-            "slug": "nam-hi",
-            "thumb": "https://phimimg.com/uploads/movies/20260808/nam-hi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260808/nam-hi-poster.webp",
+            "slug": "bi-an-nha-ma",
+            "thumb": "https://phimimg.com/uploads/movies/20260808/bi-an-nha-ma-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260808/bi-an-nha-ma-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 14",
-            "total_episodes": "24",
+            "current_episode": "Tập 18",
+            "total_episodes": "21",
             "country": "Trung Quốc",
-            "description": "Thời Dân Quốc tại Phụng Thành, khi các quân phiệt giao tranh hỗn chiến, đầu tượng Phật bằng ngọc bất ngờ bị đánh cắp, còn ông chủ gánh hát thì bị sát hại ngay trên sân khấu. Vụ án đã đẩy thiếu soái lạnh lùng Hứa Hựu An và danh ca Côn khúc Vinh Tiểu Nam vào thế đối đầu một mất một còn. Thế nhưng cả hai đều không hề hay biết, người đứng trước mặt mình lại chính là \"người anh em\" cùng chung hoạn nạn mà họ mỏi mòn tìm kiếm suốt bao năm. Giang Xuân Nhi, con gái một thương gia giàu có, vốn đã có hôn ước với Hứa Hựu An, nhưng lại đem lòng yêu Vinh Tiểu Nam. Để bảo vệ người mình yêu, cô buộc phải tranh đấu giữa chốn quyền mưu khốc liệt như địa ngục trần gian. Hai chiếc đầu tượng Phật bằng ngọc thật - giả đã châm ngòi cho chuỗi án mạng liên hoàn, đồng thời hé lộ vụ giết người bị chôn vùi từ nhiều năm trước, siết chặt số phận của ba con người lại với nhau như sợi dây thòng lọng. Họ vừa yêu vừa hận, vừa nghi kỵ lẫn nhau, nhưng cũng nhiều lần liều mình bảo vệ đối phương. Đến khi thân phận anh em kết nghĩa được phơi bày, bí mật cất giấu trong đầu tượng Phật cũng lộ diện. Khúc \"Mẫu Đơn Đình\" cuối cùng lại hóa thành một bản tuyệt xướng nhuốm máu..."
+            "description": "Vào thời Dân Quốc, Giang Hoài cùng Tuân Ca cùng lập gánh kể chuyện, tình cờ gặp một ngôi nhà ma ám, nơi ban ngày người ở, ban đêm ma ám. Giang Hoài bị bắt đi làm chú rể trong một đám cưới ma. Sau đó, anh hợp tác với nữ thanh tra Mục Anh, lần lượt phá giải hàng loạt kỳ án rùng rợn tại những ngôi nhà ma ám: Diêm Vương cưới vợ, Ngũ Quỷ vận tài, con rối giết người, hoa yêu câu hồn, đèn chùm hành thích và giếng cổ đoạt mạng."
         },
         {
             "name": "Phi Vụ Chung Cư",
