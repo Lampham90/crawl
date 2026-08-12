@@ -1,5 +1,17 @@
 [
     {
+        "name": "Lời Mời",
+        "year": 2026,
+        "slug": "loi-moi",
+        "thumb": "https://phimimg.com/uploads/movies/20260813/loi-moi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260813/loi-moi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Cuộc hôn nhân của Joe và Angela đang đứng bên bờ vực tan vỡ. Khi họ mời cặp hàng xóm bí ẩn sống ở tầng trên đến dùng bữa tối, mọi chuyện trong đêm đó đã diễn biến theo những hướng hoàn toàn bất ngờ. Liệu họ đã khơi dậy lại ngọn lửa tình yêu, hay vô tình châm ngòi cho một ngọn lửa thiêu rụi tất cả?"
+    },
+    {
         "name": "Minions & Quái Vật",
         "year": 2026,
         "slug": "minions-quai-vat",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Các thám tử bị cuốn vào một cuộc săn lùng rùng rợn tìm kiếm kẻ sát nhân hàng loạt tàn bạo đến từ quá khứ, kẻ mà sự trở lại của hắn đánh dấu sự khởi đầu cho một làn sóng tội ác kỳ dị, siêu nhiên liên kết chặt chẽ với một thế lực vũ trụ bí ẩn."
-    },
-    {
-        "name": "Thực Thể Quỷ Quyệt (Hậu Phòng Vô Tận)",
-        "year": 2026,
-        "slug": "thuc-the-quy-quyet-hau-phong-vo-tan",
-        "thumb": "https://phimimg.com/upload/vod/20260612-1/69f147ae19cf9afa3d3cf725ceeb6be6.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260612-1/d23200f7e85fcaa9e9b335a302dc972f.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Canada",
-        "description": "Một cánh cửa kỳ lạ bất ngờ xuất hiện trong tầng hầm của một cửa hàng trưng bày nội thất, mở ra lối vào một không gian bí ẩn và đáng sợ vượt ngoài mọi hiểu biết."
     }
 ]
