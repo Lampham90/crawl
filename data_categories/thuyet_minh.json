@@ -1,5 +1,17 @@
 [
     {
+        "name": "Giang Hồ Bangkok",
+        "year": 2026,
+        "slug": "giang-ho-bangkok",
+        "thumb": "https://phimimg.com/uploads/movies/20260813/giang-ho-bangkok-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260813/giang-ho-bangkok-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 1",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Lớn lên trong nhà chứa của mẹ Chom, Dang ấp ủ ước mơ trở thành cảnh sát để giúp bà thoát khỏi định kiến xã hội. Thế nhưng, số phận trớ trêu lại đưa anh bước vào thế giới Giang Hồ Bangkok. Tình bạn giữa anh với người bạn chí cốt Pu thì bắt đầu rạn nứt vì cuộc tranh giành quyền lực và tình yêu với người đẹp Wanlapha. Khi Pu gia nhập phe đối đầu cũng là lúc Dang khao khát được trở về bên gia đình và người mình yêu. Nhưng sau biết bao sai lầm trong quá khứ, liệu Dang còn cơ hội làm lại từ đầu?"
+    },
+    {
         "name": "Bà Đồng Muifei (Muội Phi)",
         "year": 2026,
         "slug": "ba-dong-muifei-muoi-phi",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Trung Quốc",
         "description": "Cảnh sát chìm sắt đá truy quét ma túy; người yêu nhuốm máu, mỗi người một chiến tuyến! Cảnh sát chống ma túy Nhân mang theo sứ mệnh, xâm nhập hang hùm ổ sói, sống chết khó lường. Anh thâm nhập bên cạnh trùm ma túy tàn bạo anh Sâm, nhưng phát hiện ra em gái ruột của Sâm lại chính là người anh yêu. Một bên là tình yêu sinh tử, tình thân ruột thịt; một bên là sứ mệnh phòng chống ma túy, kiên trì với công lý. Trong cục diện kinh hoàng, chính và tà đối đầu, thiện và ác giao tranh. Giữa tuyệt vọng sinh tử, anh sẽ đi về đâu?"
-    },
-    {
-        "name": "Chuyên Gia Điều Tra Bảo Hiểm Ren Amane",
-        "year": 2026,
-        "slug": "chuyen-gia-dieu-tra-bao-hiem-ren-amane",
-        "thumb": "https://phimimg.com/uploads/movies/20260718/chuyen-gia-dieu-tra-bao-hiem-ren-amane-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260718/chuyen-gia-dieu-tra-bao-hiem-ren-amane-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (11/11)",
-        "total_episodes": "11",
-        "country": "Nhật Bản",
-        "description": "Vì không thể phá được một vụ án mạng liên quan đến tiền bảo hiểm, thanh tra Amane Ren quyết định rời ngành cảnh sát và chuyển sang làm điều tra viên bảo hiểm. Công việc của anh là xác minh những yêu cầu bồi thường bất thường của nhiều vụ việc khác nhau, từ tai nạn, cháy nổ, mất cắp đến các trường hợp đặc biệt như bắt cóc hay bảo hiểm cho thiết bị công nghệ. Đằng sau những hồ sơ tưởng như đơn giản luôn ẩn chứa các âm mưu lừa đảo, tội ác hoặc những bí mật khiến cuộc sống của nhiều người bị đảo lộn."
     }
 ]
