@@ -1,5 +1,29 @@
 [
     {
+        "name": "Cá Đỏ Cá Xanh (Phần 3)",
+        "year": 2026,
+        "slug": "ca-do-ca-xanh-phan-3",
+        "thumb": "https://phimimg.com/uploads/movies/20260813/ca-do-ca-xanh-phan-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260813/ca-do-ca-xanh-phan-3-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (5/5)",
+        "total_episodes": "5",
+        "country": "Canada",
+        "description": "Một con cá, hai con cá, gặp ngay Cá Đỏ và Cá Xanh! Từ đây sang đó – từ đó về đây – đôi bạn này tìm thấy những cặp đối nghĩa ở khắp mọi nơi!"
+    },
+    {
+        "name": "Cá Đỏ Cá Xanh (Phần 2)",
+        "year": 2026,
+        "slug": "ca-do-ca-xanh-phan-2",
+        "thumb": "https://phimimg.com/upload/vod/20260104-1/c8885062f21b4d353f0b57e59539d8d5.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260104-1/d4ff8603d3d11b0eacaaaf750de3b4de.jpg",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (5/5)",
+        "total_episodes": "5",
+        "country": "Canada",
+        "description": "Một con cá, hai con cá, gặp ngay Cá Đỏ và Cá Xanh! Từ đây sang đó – từ đó về đây – đôi bạn này tìm thấy những cặp đối nghĩa ở khắp mọi nơi!"
+    },
+    {
         "name": "Cuộc Đua Sinh Tử",
         "year": 2026,
         "slug": "cuoc-dua-sinh-tu",
@@ -334,29 +358,5 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Season 9 tiếp tục sau các sự kiện lớn liên quan đến Evil Morty và sự sụp đổ của Citadel. Khác với một số mùa gần đây thiên về các tập độc lập, mùa này quay trở lại với một cốt truyện xuyên suốt về đa vũ trụ và mối quan hệ phức tạp giữa Rick, Morty và Evil Morty."
-    },
-    {
-        "name": "Chuyện Người Hầu Gái (Phần 6)",
-        "year": 2025,
-        "slug": "chuyen-nguoi-hau-gai-phan-6",
-        "thumb": "https://phimimg.com/uploads/movies/20260719/chuyen-nguoi-hau-gai-phan-6-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260719/chuyen-nguoi-hau-gai-phan-6-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Sau khi sát hại Fred, gã chỉ huy đã cưỡng bức mình, June tưởng như có thể tìm lại bình yên trong tâm hồn, nhưng cuộc chiến của cô một lần nữa nổ ra, lần này với người vợ góa của ông ta, Serena."
-    },
-    {
-        "name": "Diều Hâu Hawkins",
-        "year": 2026,
-        "slug": "dieu-hau-hawkins",
-        "thumb": "https://phimimg.com/uploads/movies/20260717/dieu-hau-hawkins-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260717/dieu-hau-hawkins-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (12/12)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Khi đỉnh cao sự nghiệp dần qua đi, huyền thoại làng golf Lonnie Hawkins \"Diều hâu\" quyết giành danh hiệu Major cuối cùng – và vô tình đẩy những người anh yêu thương vào mớ hỗn độn."
     }
 ]

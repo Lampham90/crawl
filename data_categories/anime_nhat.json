@@ -1,5 +1,17 @@
 [
     {
+        "name": "Thunder 3",
+        "year": 2026,
+        "slug": "thunder-3",
+        "thumb": "https://phimimg.com/uploads/movies/20260710/thunder-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260710/thunder-3-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Là những học sinh cấp hai bình thường đến mức không có gì nổi bật, Pyontaro, Hiroshi và Tsubame bỗng chốc bước chân vào một cuộc phiêu lưu phi thường khi cô em gái nhỏ của Pyontaro đột nhiên mất tích."
+    },
+    {
         "name": "Đạo Quật Vương (Vua Trộm Mộ)",
         "year": 2026,
         "slug": "dao-quat-vuong-vua-trom-mo",
@@ -346,17 +358,5 @@
         "total_episodes": "12",
         "country": "Nhật Bản",
         "description": "Ito, một nữ sinh năm hai cấp ba, từng rất háo hức khi mẹ tái hôn và mình sắp có một người bố mới. Thế nhưng, cô nhận được nhiều hơn những gì mình tưởng tượng khi bước vào nhà và thấy bốn cậu em trai kế đang đợi sẵn: Gen — chàng trai thẳng tính nhưng âm thầm biết quan tâm; Raku — người luôn điềm tĩnh; Syu — cậu em sống khép kín; và Rui — nhóc tì nhỏ tuổi luôn vui vẻ. Giờ đây, từ cuộc sống lặng lẽ của một đứa con một, Ito phải học cách thích nghi để trở thành chị cả trong một gia đình vô cùng náo nhiệt."
-    },
-    {
-        "name": "Thunder 3",
-        "year": 2026,
-        "slug": "thunder-3",
-        "thumb": "https://phimimg.com/uploads/movies/20260710/thunder-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260710/thunder-3-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "12",
-        "country": "Nhật Bản",
-        "description": "Là những học sinh cấp hai bình thường đến mức không có gì nổi bật, Pyontaro, Hiroshi và Tsubame bỗng chốc bước chân vào một cuộc phiêu lưu phi thường khi cô em gái nhỏ của Pyontaro đột nhiên mất tích."
     }
 ]

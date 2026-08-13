@@ -1,5 +1,41 @@
 [
     {
+        "name": "Cá Đỏ Cá Xanh (Phần 3)",
+        "year": 2026,
+        "slug": "ca-do-ca-xanh-phan-3",
+        "thumb": "https://phimimg.com/uploads/movies/20260813/ca-do-ca-xanh-phan-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260813/ca-do-ca-xanh-phan-3-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (5/5)",
+        "total_episodes": "5",
+        "country": "Canada",
+        "description": "Một con cá, hai con cá, gặp ngay Cá Đỏ và Cá Xanh! Từ đây sang đó – từ đó về đây – đôi bạn này tìm thấy những cặp đối nghĩa ở khắp mọi nơi!"
+    },
+    {
+        "name": "Cá Đỏ Cá Xanh (Phần 2)",
+        "year": 2026,
+        "slug": "ca-do-ca-xanh-phan-2",
+        "thumb": "https://phimimg.com/upload/vod/20260104-1/c8885062f21b4d353f0b57e59539d8d5.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260104-1/d4ff8603d3d11b0eacaaaf750de3b4de.jpg",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (5/5)",
+        "total_episodes": "5",
+        "country": "Canada",
+        "description": "Một con cá, hai con cá, gặp ngay Cá Đỏ và Cá Xanh! Từ đây sang đó – từ đó về đây – đôi bạn này tìm thấy những cặp đối nghĩa ở khắp mọi nơi!"
+    },
+    {
+        "name": "Cá Đỏ Cá Xanh (Phần 1)",
+        "year": 2025,
+        "slug": "ca-do-ca-xanh-phan-1",
+        "thumb": "https://phimimg.com/upload/vod/20250909-1/5a3112176acc9ac90d8dd31e9ec6a1bb.jpg",
+        "poster": "https://phimimg.com/upload/vod/20250909-1/5a7e3aef4f21e6cff19d36465e85f772.jpg",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (5/5)",
+        "total_episodes": "5",
+        "country": "Canada",
+        "description": "Một con cá, hai con cá, gặp ngay Cá Đỏ và Cá Xanh! Từ đây sang đó – từ đó về đây – đôi bạn này tìm thấy những cặp đối nghĩa ở khắp mọi nơi!"
+    },
+    {
         "name": "Trại Hè CrunchLabs",
         "year": 2026,
         "slug": "trai-he-crunchlabs",
@@ -387,59 +423,6 @@
             "Inma Cuesta",
             "José Luis García Pérez",
             "Marta Nieto"
-        ],
-        "sub_type": "Vietsub + Lồng Tiếng",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8"
-    },
-    {
-        "name": "Nữ Điệp Viên Ngầm",
-        "year": 2026,
-        "slug": "nu-diep-vien-ngam",
-        "thumb": "https://phimimg.com/upload/vod/20260324-1/657ff08e59d1560a18cdccbf27a17c93.jpg",
-        "actor": [
-            "Mã Quán Đông",
-            "Trương Hy Văn",
-            "Trần Oánh",
-            "La Dục Nghi",
-            "Chung Nhu Mỹ"
-        ],
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (25/25)",
-        "total_episodes": "25"
-    },
-    {
-        "name": "Chó Săn Công Lý (Phần 2)",
-        "year": 2026,
-        "slug": "cho-san-cong-ly-phan-2",
-        "thumb": "https://phimimg.com/upload/vod/20260404-1/6728c0201313a772e7dc9d7bef164c7f.jpg",
-        "actor": [
-            "Woo Do-hwan",
-            "Lee Sang-yi",
-            "Rain",
-            "Hwang Chan-seong",
-            "Choi Si-won"
-        ],
-        "sub_type": "Vietsub + Lồng Tiếng",
-        "current_episode": "Hoàn Tất (7/7)",
-        "total_episodes": "7"
-    },
-    {
-        "name": "XO, Kitty (Phần 3)",
-        "year": 2026,
-        "slug": "xo-kitty-phan-3",
-        "thumb": "https://phimimg.com/upload/vod/20260403-1/487b7e6edfc5bab61281c25618365bc9.jpg",
-        "actor": [
-            "Anna Cathcart",
-            "Choi Min-yeong",
-            "Gia Kim",
-            "Sang Heon Lee",
-            "Anthony Keyvan",
-            "Regan Aliyah",
-            "Peter Thurnwald",
-            "Philippe Lee",
-            "Sule Thelwell",
-            "Shin Hojo"
         ],
         "sub_type": "Vietsub + Lồng Tiếng",
         "current_episode": "Hoàn Tất (8/8)",

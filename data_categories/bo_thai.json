@@ -1,5 +1,41 @@
 [
     {
+        "name": "Tám Tay Lừa Đảo",
+        "year": 2026,
+        "slug": "tam-tay-lua-dao",
+        "thumb": "https://phimimg.com/upload/vod/20260619-1/9e93d64325569582ddae5c844a3c1d4d.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260702-1/662375d82c0df6023d38812cb33f4661.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 16",
+        "total_episodes": "19",
+        "country": "Thái Lan",
+        "description": "Miễn cưỡng liên thủ, tám tay lừa đảo toan thực hiện phi vụ nguy hiểm nhất từ trước đến nay: lừa chính những tên tội phạm đứng sau một mạng lưới lừa đảo ngầm khổng lồ."
+    },
+    {
+        "name": "San Hô Đen",
+        "year": 2026,
+        "slug": "san-ho-den",
+        "thumb": "https://phimimg.com/upload/vod/20260701-1/881de1d0760ad2caca0e4d29d0446b46.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260701-1/99666fb21a725348c860a349591ca7c0.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 30",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Sau tai nạn lặn suýt chết khiến máy ảnh của Narathon bị hỏng, anh gặp Kaimook, một sinh viên đang gây tiếng vang với tài nhiếp ảnh dưới nước. Cả hai lập tức khắc khẩu."
+    },
+    {
+        "name": "Luang Pho Trong Sạch",
+        "year": 2026,
+        "slug": "luang-pho-trong-sach",
+        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 8",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
+    },
+    {
         "name": "Giang Hồ Bangkok",
         "year": 2026,
         "slug": "giang-ho-bangkok",
@@ -72,18 +108,6 @@
         "description": "Võ sĩ quyền Anh Dom nằm vùng để thâm nhập tổ chức tội phạm hùng mạnh, nhưng nhiệm vụ này nhanh chóng đẩy cả cuộc hôn nhân lẫn tính mạng của anh vào thế hiểm nguy."
     },
     {
-        "name": "San Hô Đen",
-        "year": 2026,
-        "slug": "san-ho-den",
-        "thumb": "https://phimimg.com/upload/vod/20260701-1/881de1d0760ad2caca0e4d29d0446b46.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260701-1/99666fb21a725348c860a349591ca7c0.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 29",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Sau tai nạn lặn suýt chết khiến máy ảnh của Narathon bị hỏng, anh gặp Kaimook, một sinh viên đang gây tiếng vang với tài nhiếp ảnh dưới nước. Cả hai lập tức khắc khẩu."
-    },
-    {
         "name": "Nhân Duyên Tiền Định",
         "year": 2026,
         "slug": "nhan-duyen-tien-dinh-2026",
@@ -106,18 +130,6 @@
         "total_episodes": "12",
         "country": "Thái Lan",
         "description": "Cuộc đời của một chàng trai trẻ đã thay đổi mãi mãi khi anh bị một Alpha quyền năng đánh dấu, buộc chặt định mệnh của cả hai vào một mối liên kết không thể nào trốn chạy."
-    },
-    {
-        "name": "Luang Pho Trong Sạch",
-        "year": 2026,
-        "slug": "luang-pho-trong-sach",
-        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
     },
     {
         "name": "Lâu Đài Tham Vọng (Bản Thái)",
@@ -274,18 +286,6 @@
         "total_episodes": "14",
         "country": "Thái Lan",
         "description": "Bộ phim&nbsp;là hành trình tình yêu giữa một gia sư điển trai và một nữ minh tinh nổi tiếng. Vì muốn hòa nhập với gia đình thượng lưu của bạn trai cũng như để chuẩn bị cho vai diễn nói tiếng Anh sắp tới, nữ diễn viên Eva quyết định theo học tiếng Anh với chàng gia sư Pun. Sau một thời gian tiếp xúc, giữa họ bắt đầu nảy sinh tình cảm. Khi tính mạng của Eva bị đe dọa, Pun phải kiêm luôn vai trò vệ sĩ để bảo vệ cô. Tình yêu của họ liệu có thể vượt qua những sóng gió đang chờ phía trước?"
-    },
-    {
-        "name": "Tám Tay Lừa Đảo",
-        "year": 2026,
-        "slug": "tam-tay-lua-dao",
-        "thumb": "https://phimimg.com/upload/vod/20260619-1/9e93d64325569582ddae5c844a3c1d4d.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260702-1/662375d82c0df6023d38812cb33f4661.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 15",
-        "total_episodes": "19",
-        "country": "Thái Lan",
-        "description": "Miễn cưỡng liên thủ, tám tay lừa đảo toan thực hiện phi vụ nguy hiểm nhất từ trước đến nay: lừa chính những tên tội phạm đứng sau một mạng lưới lừa đảo ngầm khổng lồ."
     },
     {
         "name": "Hãy Là Người Chơi Thứ Hai Của Tôi",
