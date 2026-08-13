@@ -1,5 +1,41 @@
 [
     {
+        "name": "Nhất Trảm Thương Khung",
+        "year": 2026,
+        "slug": "nhat-tram-thuong-khung",
+        "thumb": "https://phimimg.com/uploads/movies/20260729/nhat-tram-thuong-khung-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260729/nhat-tram-thuong-khung-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "26",
+        "country": "Trung Quốc",
+        "description": "Từ nhỏ, Cốc An luôn nỗ lực tu luyện với khát vọng trở thành tiên nhân. Thế nhưng, vì trời sinh thiếu linh căn nên anh vô duyên với tiên đạo, lại còn bị lừa vào một khu lừa đảo của giới tu tiên, nhiều lần cận kề cái chết. Sau khi trải qua vô vàn đau khổ và bị dồn đến đường cùng, Cốc An quyết tâm vùng lên báo thù, từng bước nghịch thiên cải mệnh. Con đường thượng vị của anh bắt đầu từ đây, với lời thề một ngày sẽ một đao chém rách cả thương khung."
+    },
+    {
+        "name": "Đại Thiên Tiểu Trấn",
+        "year": 2026,
+        "slug": "dai-thien-tieu-tran",
+        "thumb": "https://phimimg.com/uploads/movies/20260726/dai-thien-tieu-tran-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260726/dai-thien-tieu-tran-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "104",
+        "country": "Trung Quốc",
+        "description": "Thị Trấn Đại Thiên là một bộ phim hoạt hình ngắn ăn theo (derivative animated short) được phát triển dựa trên ba tác phẩm nổi tiếng của tác giả Thiên Tàm Thổ Đậu gồm: Đại Chúa Tể, Nguyên Tôn và Vạn Tướng Chi Vương."
+    },
+    {
+        "name": "Bắt Đầu Với Chí Tôn Đan Điền",
+        "year": 2025,
+        "slug": "bat-dau-voi-chi-ton-dan-dien",
+        "thumb": "https://phimimg.com/upload/vod/20251008-1/5969b30193530e9ca100cb6683241181.jpg",
+        "poster": "https://phimimg.com/upload/vod/20251008-1/9ea5adf1e158025b17f0d3ac241e4172.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 20",
+        "total_episodes": "40",
+        "country": "Trung Quốc",
+        "description": "Bắt Đầu Với Chí Tôn Đan Điền phiên bản 3D sẽ mang đến những khoảnh khắc thú vì hơn với việc khắc họa sinh động hành trình trở thành Đại Đế đầy gian khổ của một bán thần tên là Tần Thư. Bị coi là bán thần vì Tần Thư tuy mang cốt cách của một thần tử nhưng lại sống trong thân xác của một người phàm từ khi mới sinh ra. Điều này mang lại vô số điều bất lợi và sự khinh miệt đến với cậu, các thần nhân thì luôn tìm cách để chiếm đoạt lấy thân phận thần tử của mình bởi với họ thì điều đó quá dễ dàng. Nhưng khi giang trần để thực sự sống trong thân thế của một con người đích thực, Tần Thư đã đanh thép khẳng định được sức mạnh và ý chí không bao giờ khuất phục của mình. Nhờ có những nỗ lực và cả cơ duyên nên Tần Thư đã có được Đan Đình Vĩnh Động, sức mạnh nâng lên không ngừng. Tần Thư đã giao chiến và hạ gục cả quỷ Tu La lẫn tên Võ Đế với sức mạnh vô song."
+    },
+    {
         "name": "Vạn Cổ Thần Đế",
         "year": 2026,
         "slug": "van-co-than-de",
@@ -228,18 +264,6 @@
         "description": "Trong một cuộc diễn tập quân sự quy mô nhỏ, Quách Tử Kiếm bất mãn vì cuộc diễn tập chỉ mang tính hình thức nên đã giả truyền mệnh lệnh, yêu cầu các đơn vị đánh thật, đối kháng thật. Dù hành động này gây chấn động, anh lại được cấp trên ghi nhận và đánh giá cao. Sau đó, Quách Tử Kiếm lần lượt trải qua nhiều biến cố như thất bại trong diễn tập đối kháng và phải chuyển ngành. Tuy nhiên, anh đã trở lại quân ngũ, dẫn dắt lực lượng hợp thành kiểu mới tỏa sáng trong các đợt kiểm nghiệm tác chiến thực chiến, đánh một trận mang đậm dấu ấn của chiến tranh thời đại mới."
     },
     {
-        "name": "Bắt Đầu Với Chí Tôn Đan Điền",
-        "year": 2025,
-        "slug": "bat-dau-voi-chi-ton-dan-dien",
-        "thumb": "https://phimimg.com/upload/vod/20251008-1/5969b30193530e9ca100cb6683241181.jpg",
-        "poster": "https://phimimg.com/upload/vod/20251008-1/9ea5adf1e158025b17f0d3ac241e4172.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 19",
-        "total_episodes": "40",
-        "country": "Trung Quốc",
-        "description": "Bắt Đầu Với Chí Tôn Đan Điền phiên bản 3D sẽ mang đến những khoảnh khắc thú vì hơn với việc khắc họa sinh động hành trình trở thành Đại Đế đầy gian khổ của một bán thần tên là Tần Thư. Bị coi là bán thần vì Tần Thư tuy mang cốt cách của một thần tử nhưng lại sống trong thân xác của một người phàm từ khi mới sinh ra. Điều này mang lại vô số điều bất lợi và sự khinh miệt đến với cậu, các thần nhân thì luôn tìm cách để chiếm đoạt lấy thân phận thần tử của mình bởi với họ thì điều đó quá dễ dàng. Nhưng khi giang trần để thực sự sống trong thân thế của một con người đích thực, Tần Thư đã đanh thép khẳng định được sức mạnh và ý chí không bao giờ khuất phục của mình. Nhờ có những nỗ lực và cả cơ duyên nên Tần Thư đã có được Đan Đình Vĩnh Động, sức mạnh nâng lên không ngừng. Tần Thư đã giao chiến và hạ gục cả quỷ Tu La lẫn tên Võ Đế với sức mạnh vô song."
-    },
-    {
         "name": "Sưu Thần Ký",
         "year": 2026,
         "slug": "suu-than-ky",
@@ -262,18 +286,6 @@
         "total_episodes": "40",
         "country": "Trung Quốc",
         "description": "Quang Âm Chi Ngoại, một tác phẩm kinh điển thứ sau của tiểu thuyết gia Nhĩ Căn, người đã từng mang đến rất nhiều những câu chuyện nổi tiếng khác như Tiên Nghịch mà chúng ta vẫn thường theo dõi và thưởng thức. Trong tác phẩm Quang Âm Chi Ngoại này, tác giả Nhĩ Căn sẽ hướng chúng ta vào nam chính Hứa Thanh, một hình tượng nhân vật đầy dũng cảm, bất khuất, và cũng có thể coi là máu lạnh hơn so với anh chàng Vương Lâm si tình rất nhiều. Hứa Thanh cũng sẽ bước vào hành trình tu tiên đầy gian khổ, vô vàn kẻ địch trước mắt, nhưng anh chàng cũng không ngần ngại ra tay với những kẻ có tâm địa xấu xa, nhất là kẻ đang và sẽ nhắm đến anh. Có một chi tiết thú vị hơn chính là việc gặp gỡ giữa Hứa Thanh với Vương Lâm, bởi họ sống cùng với dòng chảy thời gian giữa Quang Âm Chi Ngoại và Tiên Nghịch."
-    },
-    {
-        "name": "Đại Thiên Tiểu Trấn",
-        "year": 2026,
-        "slug": "dai-thien-tieu-tran",
-        "thumb": "https://phimimg.com/uploads/movies/20260726/dai-thien-tieu-tran-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260726/dai-thien-tieu-tran-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "104",
-        "country": "Trung Quốc",
-        "description": "Thị Trấn Đại Thiên là một bộ phim hoạt hình ngắn ăn theo (derivative animated short) được phát triển dựa trên ba tác phẩm nổi tiếng của tác giả Thiên Tàm Thổ Đậu gồm: Đại Chúa Tể, Nguyên Tôn và Vạn Tướng Chi Vương."
     },
     {
         "name": "Chọn Ngày Phi Thăng",
@@ -346,17 +358,5 @@
         "total_episodes": "40",
         "country": "Trung Quốc",
         "description": "Thái tử tối cao của Linh Giới bị hãm hại oan uổng, thân vong đạo tiêu, trùng sinh rơi xuống phàm trần, biến thành một tên tạp dịch hèn mọn. Trong người mang thần đan tạo hóa tuyệt thế và công pháp nghịch thiên, chỉ với một thanh kiếm gỉ, hắn lật nhào cả võ đạo giới. Song võ hồn đồng thời thức tỉnh, luyện hóa vạn linh, tham ngộ cả hai con đường thần hồn. Kho báu Thiên Ma, bí cảnh Hóa Long, di tích Viễn Cổ đều bị hắn giẫm đạp khắp nơi, chiến giáp Ma Tôn, kính Đại Hoang, vô số bảo vật vô thượng đều thu vào tay. Các thiên kiêu khắp nơi, bọn sâu mọt trong tông môn, tà tộc ngoại vực lần lượt xông lên tìm chết, đều bị hắn một kiếm quét ngang, đè bẹp tại chỗ. Thu phục Long hồn và Linh khuyển thông linh, bảo vệ những người thân cận và mỹ nhân bên cạnh, đạp qua Võ Vương, phá Võ Hoàng, đăng lâm Võ Tôn, một mình đối đầu 2 kẻ thù truyền kiếp là Long Già Thiên và Nam Cung Lăng Thiên, vạch trần âm mưu bị chôn vùi của thời kỳ Hắc Ám cổ xưa."
-    },
-    {
-        "name": "Lý Hùng Miêu",
-        "year": 2026,
-        "slug": "ly-hung-mieu",
-        "thumb": "https://phimimg.com/uploads/movies/20260801/ly-hung-mieu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260801/ly-hung-mieu-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "9",
-        "country": "Trung Quốc",
-        "description": "Gấu Trúc Lý, hay còn được viết đến với cái tên khác là Lý Hùng Miêu, một tác phẩm được kết hợp tinh tế giữa phong cách võ hiệp của Trung Quốc và những nét viễn tưởng mang tầm vóc vũ trụ của Nhật Bản. Tác giả Văn Chu mang đến câu chuyện về hành trình đầy lâm li bi đát nhưng cũng không kém phần thú vị của một cậu bé đến từ nhân tộc có tên Lý Hùng Miêu, cậu được Yêu tộc nuôi dưỡng và cưu mang từ nhỏ, học tập, rèn luyện và mang trên mình những tinh túy của võ thuật vô cùng tiềm năng. Theo sự dẫn dắt của sư phụ mình, Lý Hùng Miêu xuống núi và truy tìm để hỏi tội 3 kẻ thù đã nhẫn tâm thảm sát Yêu tộc thời gian trước đó. Hành trình truy tìm kẻ thù ấy không hề dễ dàng bởi thiên hạ rộng lớn bao la và ẩn chứa vô vàn những biến số khôn lường. Những sự thật về trận chiến giữa Nhân tộc và Yêu tộc dần được vén màn, cũng như những bị ẩn về thời kỳ đó, số phận của bản thân Gấu trúc Lý cũng được phơi bày."
     }
 ]
