@@ -1639,6 +1639,18 @@
     ],
     "bo_trung": [
         {
+            "name": "Hoa Khai Cẩm Tú",
+            "year": 2026,
+            "slug": "hoa-khai-cam-tu",
+            "thumb": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 14",
+            "total_episodes": "36",
+            "country": "Trung Quốc",
+            "description": "Triệu Lăng, một lái buôn muối lậu hào sảng, trọng tình trọng nghĩa, tuy xuất thân thấp kém nhưng luôn mang trong mình chí lớn. Định mệnh đưa chàng gặp Phó Đình Vân, tiểu thư xuất thân từ một thế gia danh giá, bị vu oan tư thông. Biến cố ập đến khiến cả hai buộc phải cùng nhau lưu vong. Trên hành trình chạy trốn, họ phải đối mặt với muôn vàn thử thách từ gia tộc, triều đình và cả số phận. Sau bao lần kề vai sát cánh vượt qua hiểm nguy, cùng chống lại nghịch cảnh, cuối cùng hai người đã nên duyên đôi lứa và viết nên một câu chuyện tình được mãi lưu danh."
+        },
+        {
             "name": "Nhân Ngư",
             "year": 2026,
             "slug": "nhan-ngu-2026",
@@ -1649,18 +1661,6 @@
             "total_episodes": "22",
             "country": "Trung Quốc",
             "description": "Một vụ án thiếu nữ mất tích đã đẩy ba cô gái có số phận hoàn toàn khác biệt đến trước những lựa chọn mang tính bước ngoặt của cuộc đời, qua đó lột tả trọn vẹn những bi hoan của các gia đình bình dị. Giữa thành phố hoa lệ trên mặt đất và những đường cống ngầm tăm tối - nơi ánh sáng và bóng tối đan xen, cô gái trẻ một mình dấn bước. Qua bao gian truân, cô từng bước vạch trần sự thật ẩn giấu phía sau, tự cứu rỗi chính mình và bước tiếp về phía ánh sáng của hy vọng."
-        },
-        {
-            "name": "Hoa Khai Cẩm Tú",
-            "year": 2026,
-            "slug": "hoa-khai-cam-tu",
-            "thumb": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 13",
-            "total_episodes": "36",
-            "country": "Trung Quốc",
-            "description": "Triệu Lăng, một lái buôn muối lậu hào sảng, trọng tình trọng nghĩa, tuy xuất thân thấp kém nhưng luôn mang trong mình chí lớn. Định mệnh đưa chàng gặp Phó Đình Vân, tiểu thư xuất thân từ một thế gia danh giá, bị vu oan tư thông. Biến cố ập đến khiến cả hai buộc phải cùng nhau lưu vong. Trên hành trình chạy trốn, họ phải đối mặt với muôn vàn thử thách từ gia tộc, triều đình và cả số phận. Sau bao lần kề vai sát cánh vượt qua hiểm nguy, cùng chống lại nghịch cảnh, cuối cùng hai người đã nên duyên đôi lứa và viết nên một câu chuyện tình được mãi lưu danh."
         },
         {
             "name": "Ngự Đình Dao",
@@ -2925,16 +2925,16 @@
             "description": "Đây là câu chuyện có thật, đầy náo nhiệt, lố bịch và vô cùng điên rồ về cách các Minion chinh phục Hollywood, trở thành ngôi sao điện ảnh, rồi đánh mất tất cả, vô tình giải phóng những quái vật ra thế giới và cuối cùng buộc phải sát cánh bên nhau để cứu lấy Trái Đất khỏi chính mớ hỗn loạn mà họ đã gây ra."
         },
         {
-            "name": "Nhân Ngư",
+            "name": "Hoa Khai Cẩm Tú",
             "year": 2026,
-            "slug": "nhan-ngu-2026",
-            "thumb": "https://phimimg.com/uploads/movies/20260808/nhan-ngu-2026-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260808/nhan-ngu-2026-poster.webp",
+            "slug": "hoa-khai-cam-tu",
+            "thumb": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 17",
-            "total_episodes": "22",
+            "current_episode": "Tập 14",
+            "total_episodes": "36",
             "country": "Trung Quốc",
-            "description": "Một vụ án thiếu nữ mất tích đã đẩy ba cô gái có số phận hoàn toàn khác biệt đến trước những lựa chọn mang tính bước ngoặt của cuộc đời, qua đó lột tả trọn vẹn những bi hoan của các gia đình bình dị. Giữa thành phố hoa lệ trên mặt đất và những đường cống ngầm tăm tối - nơi ánh sáng và bóng tối đan xen, cô gái trẻ một mình dấn bước. Qua bao gian truân, cô từng bước vạch trần sự thật ẩn giấu phía sau, tự cứu rỗi chính mình và bước tiếp về phía ánh sáng của hy vọng."
+            "description": "Triệu Lăng, một lái buôn muối lậu hào sảng, trọng tình trọng nghĩa, tuy xuất thân thấp kém nhưng luôn mang trong mình chí lớn. Định mệnh đưa chàng gặp Phó Đình Vân, tiểu thư xuất thân từ một thế gia danh giá, bị vu oan tư thông. Biến cố ập đến khiến cả hai buộc phải cùng nhau lưu vong. Trên hành trình chạy trốn, họ phải đối mặt với muôn vàn thử thách từ gia tộc, triều đình và cả số phận. Sau bao lần kề vai sát cánh vượt qua hiểm nguy, cùng chống lại nghịch cảnh, cuối cùng hai người đã nên duyên đôi lứa và viết nên một câu chuyện tình được mãi lưu danh."
         },
         {
             "name": "Play Me: Buổi Diễn Tập Của Chúng Ta",
@@ -2985,16 +2985,16 @@
             "description": "Ở một xóm nhỏ miền Tây, ông Sáu Sếu sống lủi thủi trong quán cà phê – karaoke, mong con trai Út Tửng từ Sài Gòn về thăm. Khi phát hiện mình mắc trọng bệnh, ông quyết “cưới vợ cho con” để trọn lời hứa với người vợ quá cố. Nhưng kế hoạch ấy đổ vỡ khi ông phát hiện Tửng có một bí mật động trời và che giấu mọi chuyện. Giữa những xung đột, hiểu lầm và nỗ lực hàn gắn, cha con họ dần học cách thấu hiểu, để rồi mỗi người đều tìm thấy hạnh phúc và bình yên trong chính cuộc hôn nhân của mình."
         },
         {
-            "name": "Hoa Khai Cẩm Tú",
+            "name": "Nhân Ngư",
             "year": 2026,
-            "slug": "hoa-khai-cam-tu",
-            "thumb": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-poster.webp",
+            "slug": "nhan-ngu-2026",
+            "thumb": "https://phimimg.com/uploads/movies/20260808/nhan-ngu-2026-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260808/nhan-ngu-2026-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 13",
-            "total_episodes": "36",
+            "current_episode": "Tập 17",
+            "total_episodes": "22",
             "country": "Trung Quốc",
-            "description": "Triệu Lăng, một lái buôn muối lậu hào sảng, trọng tình trọng nghĩa, tuy xuất thân thấp kém nhưng luôn mang trong mình chí lớn. Định mệnh đưa chàng gặp Phó Đình Vân, tiểu thư xuất thân từ một thế gia danh giá, bị vu oan tư thông. Biến cố ập đến khiến cả hai buộc phải cùng nhau lưu vong. Trên hành trình chạy trốn, họ phải đối mặt với muôn vàn thử thách từ gia tộc, triều đình và cả số phận. Sau bao lần kề vai sát cánh vượt qua hiểm nguy, cùng chống lại nghịch cảnh, cuối cùng hai người đã nên duyên đôi lứa và viết nên một câu chuyện tình được mãi lưu danh."
+            "description": "Một vụ án thiếu nữ mất tích đã đẩy ba cô gái có số phận hoàn toàn khác biệt đến trước những lựa chọn mang tính bước ngoặt của cuộc đời, qua đó lột tả trọn vẹn những bi hoan của các gia đình bình dị. Giữa thành phố hoa lệ trên mặt đất và những đường cống ngầm tăm tối - nơi ánh sáng và bóng tối đan xen, cô gái trẻ một mình dấn bước. Qua bao gian truân, cô từng bước vạch trần sự thật ẩn giấu phía sau, tự cứu rỗi chính mình và bước tiếp về phía ánh sáng của hy vọng."
         },
         {
             "name": "Cửa Hàng Sát Thủ (Phần 2)",
