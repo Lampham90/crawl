@@ -1,17 +1,5 @@
 [
     {
-        "name": "Lời Mời",
-        "year": 2026,
-        "slug": "loi-moi",
-        "thumb": "https://phimimg.com/uploads/movies/20260813/loi-moi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260813/loi-moi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Cuộc hôn nhân của Joe và Angela đang đứng bên bờ vực tan vỡ. Khi họ mời cặp hàng xóm bí ẩn sống ở tầng trên đến dùng bữa tối, mọi chuyện trong đêm đó đã diễn biến theo những hướng hoàn toàn bất ngờ. Liệu họ đã khơi dậy lại ngọn lửa tình yêu, hay vô tình châm ngòi cho một ngọn lửa thiêu rụi tất cả?"
-    },
-    {
         "name": "Minions & Quái Vật",
         "year": 2026,
         "slug": "minions-quai-vat",
@@ -22,6 +10,18 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Đây là câu chuyện có thật, đầy náo nhiệt, lố bịch và vô cùng điên rồ về cách các Minion chinh phục Hollywood, trở thành ngôi sao điện ảnh, rồi đánh mất tất cả, vô tình giải phóng những quái vật ra thế giới và cuối cùng buộc phải sát cánh bên nhau để cứu lấy Trái Đất khỏi chính mớ hỗn loạn mà họ đã gây ra."
+    },
+    {
+        "name": "Lời Mời",
+        "year": 2026,
+        "slug": "loi-moi",
+        "thumb": "https://phimimg.com/uploads/movies/20260813/loi-moi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260813/loi-moi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Cuộc hôn nhân của Joe và Angela đang đứng bên bờ vực tan vỡ. Khi họ mời cặp hàng xóm bí ẩn sống ở tầng trên đến dùng bữa tối, mọi chuyện trong đêm đó đã diễn biến theo những hướng hoàn toàn bất ngờ. Liệu họ đã khơi dậy lại ngọn lửa tình yêu, hay vô tình châm ngòi cho một ngọn lửa thiêu rụi tất cả?"
     },
     {
         "name": "Phim Super Mario Thiên Hà",
