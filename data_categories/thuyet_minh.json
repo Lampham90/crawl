@@ -1,5 +1,41 @@
 [
     {
+        "name": "Vỏ Bọc Ngoại Tình (Ngoại Tình Đã Nhằm Nhò Gì)",
+        "year": 2026,
+        "slug": "vo-boc-ngoai-tinh-ngoai-tinh-da-nham-nho-gi",
+        "thumb": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 5",
+        "total_episodes": "8",
+        "country": "Hàn Quốc",
+        "description": "Kyung Hee, một influencer có gia đình kiểu mẫu và sự nghiệp đáng ngưỡng mộ. Nhưng khi phát hiện chồng mình che giấu một bí mật kinh hoàng, cô buộc phải cùng anh chôn vùi sự thật. Một tin nhắn nặc danh xuất hiện, kéo cả gia đình vào cơn ác mộng không lối thoát."
+    },
+    {
+        "name": "Sát Thủ Nội Trợ (Vợ Tôi Là Sát Thủ)",
+        "year": 2026,
+        "slug": "sat-thu-noi-tro-vo-toi-la-sat-thu",
+        "thumb": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 5",
+        "total_episodes": "7",
+        "country": "Hàn Quốc",
+        "description": "Yoo Bo Na có một cuộc sống tưởng chừng bình thường bên chồng con và công việc quản lý bán hàng. Nhưng đằng sau vẻ ngoài của một người vợ, người mẹ mẫu mực, cô lại là “Kingfisher” – nữ sát thủ bắn tỉa khét tiếng chuyên xử lý những kẻ phạm tội thoát khỏi sự trừng phạt của pháp luật. Sau ba năm tạm rời nghề để sinh con, Bo Na buộc phải tái xuất và bước vào cuộc sống hai mặt đầy nguy hiểm. Trong lúc cố gắng giữ kín thân phận, cô không ngờ người chồng làm nghề phóng viên lại ngày càng tiến gần đến bí mật của mình."
+    },
+    {
+        "name": "Minions & Quái Vật",
+        "year": 2026,
+        "slug": "minions-quai-vat",
+        "thumb": "https://phimimg.com/uploads/movies/20260811/minions-quai-vat-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260811/minions-quai-vat-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Đây là câu chuyện có thật, đầy náo nhiệt, lố bịch và vô cùng điên rồ về cách các Minion chinh phục Hollywood, trở thành ngôi sao điện ảnh, rồi đánh mất tất cả, vô tình giải phóng những quái vật ra thế giới và cuối cùng buộc phải sát cánh bên nhau để cứu lấy Trái Đất khỏi chính mớ hỗn loạn mà họ đã gây ra."
+    },
+    {
         "name": "Ngự Đình Dao",
         "year": 2026,
         "slug": "ngu-dinh-dao",
@@ -22,18 +58,6 @@
         "total_episodes": "30",
         "country": "Trung Quốc",
         "description": "\"Cửu Môn\" kể câu chuyện Trường Sa xảy ra biến động, hai kì tài Trương Khải Sơn và Ngô Lão Cẩu cùng hợp lực, bắt tay với Hoắc Tiên Cô và các thành viên Cửu Môn cùng dấn thân vào mạo hiểm kỳ quái. Vụ biến mất bí ẩn của Đội 401 kéo theo bí mật kinh hoàng bị chôn vùi suốt trăm năm. Sự lựa chọn giữa sự sống và cái chết, tình nghĩa huynh đệ, trách nhiệm với môn phái và đại nghĩa với đất nước đan xen vào nhau. Các thành viên của Cửu Môn sẵn lòng hy sinh, hăng hái bảo vệ gia đình và đất nước, cùng nhau vượt qua khó khăn."
-    },
-    {
-        "name": "Minions & Quái Vật",
-        "year": 2026,
-        "slug": "minions-quai-vat",
-        "thumb": "https://phimimg.com/uploads/movies/20260811/minions-quai-vat-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260811/minions-quai-vat-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Đây là câu chuyện có thật, đầy náo nhiệt, lố bịch và vô cùng điên rồ về cách các Minion chinh phục Hollywood, trở thành ngôi sao điện ảnh, rồi đánh mất tất cả, vô tình giải phóng những quái vật ra thế giới và cuối cùng buộc phải sát cánh bên nhau để cứu lấy Trái Đất khỏi chính mớ hỗn loạn mà họ đã gây ra."
     },
     {
         "name": "Từ Bất Hảo Thành Bác Sĩ",
@@ -142,30 +166,6 @@
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
-    },
-    {
-        "name": "Sát Thủ Nội Trợ (Vợ Tôi Là Sát Thủ)",
-        "year": 2026,
-        "slug": "sat-thu-noi-tro-vo-toi-la-sat-thu",
-        "thumb": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 4",
-        "total_episodes": "7",
-        "country": "Hàn Quốc",
-        "description": "Yoo Bo Na có một cuộc sống tưởng chừng bình thường bên chồng con và công việc quản lý bán hàng. Nhưng đằng sau vẻ ngoài của một người vợ, người mẹ mẫu mực, cô lại là “Kingfisher” – nữ sát thủ bắn tỉa khét tiếng chuyên xử lý những kẻ phạm tội thoát khỏi sự trừng phạt của pháp luật. Sau ba năm tạm rời nghề để sinh con, Bo Na buộc phải tái xuất và bước vào cuộc sống hai mặt đầy nguy hiểm. Trong lúc cố gắng giữ kín thân phận, cô không ngờ người chồng làm nghề phóng viên lại ngày càng tiến gần đến bí mật của mình."
-    },
-    {
-        "name": "Vỏ Bọc Ngoại Tình (Ngoại Tình Đã Nhằm Nhò Gì)",
-        "year": 2026,
-        "slug": "vo-boc-ngoai-tinh-ngoai-tinh-da-nham-nho-gi",
-        "thumb": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 4",
-        "total_episodes": "8",
-        "country": "Hàn Quốc",
-        "description": "Kyung Hee, một influencer có gia đình kiểu mẫu và sự nghiệp đáng ngưỡng mộ. Nhưng khi phát hiện chồng mình che giấu một bí mật kinh hoàng, cô buộc phải cùng anh chôn vùi sự thật. Một tin nhắn nặc danh xuất hiện, kéo cả gia đình vào cơn ác mộng không lối thoát."
     },
     {
         "name": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
