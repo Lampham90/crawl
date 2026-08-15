@@ -1,5 +1,17 @@
 [
     {
+        "name": "Biệt Đội Siêu Khờ",
+        "year": 2026,
+        "slug": "biet-doi-sieu-kho",
+        "thumb": "https://phimimg.com/upload/vod/20260515-1/085e2fde72531db8a9cadea7a1c95c65.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260515-1/ea04332b4572392a919e1c6587b9f2f3.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Hàn Quốc",
+        "description": "Yoo In Sik (&quot;Nữ luật sư kỳ lạ Woo Young Woo&quot;) đạo diễn loạt phim hài hành động này về ba kẻ lạc loài tình cờ sở hữu siêu năng lực – nhưng không biết cách sử dụng."
+    },
+    {
         "name": "Tài phiệt và Cảnh sát (Phần 2)",
         "year": 2026,
         "slug": "tai-phiet-va-canh-sat-phan-2",
@@ -346,17 +358,5 @@
         "total_episodes": "16",
         "country": "Hàn Quốc",
         "description": "Hyun Jae và Soo An từng gặp nhau trong một chương trình sống còn tuyển chọn idol. Trong thời gian thi đấu, cả hai dần nảy sinh tình cảm. Tuy nhiên cuối cùng chỉ có Hyun Jae được debut, còn Soo An bị loại, khiến họ phải chia xa dù vẫn còn tình cảm với nhau."
-    },
-    {
-        "name": "Kỷ Niệm 10 Năm Phim Goblin",
-        "year": 2026,
-        "slug": "ky-niem-10-nam-phim-goblin",
-        "thumb": "https://phimimg.com/uploads/movies/20260706/ky-niem-10-nam-phim-goblin-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260706/ky-niem-10-nam-phim-goblin-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (4/4)",
-        "total_episodes": "4",
-        "country": "Hàn Quốc",
-        "description": "Kỷ niệm 10 năm phát sóng bộ phim Yêu Tinh từng gây sốt toàn châu Á, dàn diễn viên chính gồm Gong Yoo, Kim Go Eun, Lee Dong Wook và Yoo In Na đã hội ngộ trong một chuyến đi đặc biệt trở lại Gangneung. Họ cùng đến những địa điểm quay phim, tái hiện những cảnh quay và câu thoại đã trở thành biểu tượng và chia sẻ những câu chuyện hậu trường."
     }
 ]
