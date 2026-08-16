@@ -1,5 +1,29 @@
 [
     {
+        "name": "Phi Vụ Chung Cư",
+        "year": 2026,
+        "slug": "phi-vu-chung-cu",
+        "thumb": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 11",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Túng tiền, cựu trùm băng đảng nọ bắt tay với một người theo đuổi nghề luật sư để chiếm đoạt quỹ dự phòng của một khu chung cư, nào ngờ phát hiện đường dây tham nhũng có hệ thống."
+    },
+    {
+        "name": "Chuyện Tình Ma Quái",
+        "year": 2026,
+        "slug": "chuyen-tinh-ma-quai",
+        "thumb": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 9",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
+    },
+    {
         "name": "Tài phiệt và Cảnh sát (Phần 2)",
         "year": 2026,
         "slug": "tai-phiet-va-canh-sat-phan-2",
@@ -144,18 +168,6 @@
         "description": "Nam Da Reum (Kim Hye Joon) là một fan cuồng đã theo đuổi thần tượng Lee Chan suốt 11 năm. Cô từ chối một công việc tốt để gia nhập công ty thời trang Appello, nơi Lee Chan hiện làm giám đốc sáng tạo, với hy vọng được làm việc gần thần tượng. Tuy nhiên, ngay trong ngày đầu tiên, Da Reum lại liên tục chạm mặt Kang Ha Gi (Kang Hoon) – vị CEO lạnh lùng nhưng tốt bụng của công ty. Những hiểu lầm và tình huống dở khóc dở cười khiến mối quan hệ giữa hai người ngày càng phát triển, trong khi Da Reum vẫn phải đối diện với tình cảm dành cho thần tượng Lee Chan."
     },
     {
-        "name": "Phi Vụ Chung Cư",
-        "year": 2026,
-        "slug": "phi-vu-chung-cu",
-        "thumb": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260712/phi-vu-chung-cu-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 10",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Túng tiền, cựu trùm băng đảng nọ bắt tay với một người theo đuổi nghề luật sư để chiếm đoạt quỹ dự phòng của một khu chung cư, nào ngờ phát hiện đường dây tham nhũng có hệ thống."
-    },
-    {
         "name": "Muộn Còn Hơn Ế (Phần 2)",
         "year": 2026,
         "slug": "muon-con-hon-e-phan-2",
@@ -166,18 +178,6 @@
         "total_episodes": "10",
         "country": "Hàn Quốc",
         "description": "Sẵn sàng hẹn hò, những người độc thân lâu năm sẽ được chuyên gia giúp đỡ về phong cách, sức khỏe và sự tự tin."
-    },
-    {
-        "name": "Chuyện Tình Ma Quái",
-        "year": 2026,
-        "slug": "chuyen-tinh-ma-quai",
-        "thumb": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 8",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
     },
     {
         "name": "Sau Hôn Nhân",

@@ -1,5 +1,77 @@
 [
     {
+        "name": "Lốp Xe (Phần 3)",
+        "year": 2026,
+        "slug": "lop-xe-phan-3",
+        "thumb": "https://phimimg.com/uploads/movies/20260816/lop-xe-phan-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260816/lop-xe-phan-3-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (12/12)",
+        "total_episodes": "12",
+        "country": "Âu Mỹ",
+        "description": "Tại tiệm ô tô của bố mình, chàng quản lý xui xẻo nỗ lực cải thiện dịch vụ khách hàng và tăng lợi nhuận trong khi kiểm soát người em họ ưa gây rối."
+    },
+    {
+        "name": "Lốp Xe (Phần 2)",
+        "year": 2025,
+        "slug": "lop-xe-phan-2",
+        "thumb": "https://phimimg.com/upload/vod/20250610-1/39931c574c333df7781c1fa85422e413.jpg",
+        "poster": "https://phimimg.com/uploads/movies/20260816/lop-xe-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (12/12)",
+        "total_episodes": "12",
+        "country": "Âu Mỹ",
+        "description": "Tại tiệm ô tô của bố mình, chàng quản lý xui xẻo nỗ lực cải thiện dịch vụ khách hàng và tăng lợi nhuận trong khi kiểm soát người em họ ưa gây rối."
+    },
+    {
+        "name": "Star Trek: Những Miền Đất Mới (Phần 4)",
+        "year": 2026,
+        "slug": "star-trek-nhung-mien-dat-moi-phan-4",
+        "thumb": "https://phimimg.com/uploads/movies/20260816/star-trek-nhung-mien-dat-moi-phan-4-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260816/star-trek-nhung-mien-dat-moi-phan-4-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Là phần tiền truyện của bộ phim gốc của Star Trek, bộ phim Star Trek: Strange New Worlds này sẽ theo chân phi hành đoàn của tàu USS Enterprise dưới sự chỉ huy của Thuyền trưởng Christopher Pike."
+    },
+    {
+        "name": "Star Trek: Những Miền Đất Mới (Phần 3)",
+        "year": 2025,
+        "slug": "star-trek-nhung-mien-dat-moi-phan-3",
+        "thumb": "https://phimimg.com/upload/vod/20250729-1/ccab53ff1da54607ec5d27d0c5ad4a3a.jpg",
+        "poster": "https://phimimg.com/upload/vod/20250729-1/f204ca0ddc7ec2987f9b268525ff004b.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Là phần tiền truyện của bộ phim gốc của Star Trek, bộ phim Star Trek: Strange New Worlds này sẽ theo chân phi hành đoàn của tàu USS Enterprise dưới sự chỉ huy của Thuyền trưởng Christopher Pike."
+    },
+    {
+        "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
+        "year": 2026,
+        "slug": "huan-luyen-vien-ted-lasso-phan-4",
+        "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
+    },
+    {
+        "name": "Bố Già Vùng Harlem (Phần 4)",
+        "year": 2025,
+        "slug": "bo-gia-vung-harlem-phan-4",
+        "thumb": "https://phimimg.com/uploads/movies/20260816/bo-gia-vung-harlem-phan-4-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260816/bo-gia-vung-harlem-phan-4-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Lấy cảm hứng từ trùm tội phạm khét tiếng Bumpy Johnson, người sau mười năm trong tù trở về vào đầu thập niên 1960 và chứng kiến khu phố từng dưới quyền kiểm soát của mình rơi vào hỗn loạn. Với những con phố nay nằm trong tay mafia Ý, Bumpy quyết tâm giành lại vị thế của mình ở Harlem."
+    },
+    {
         "name": "Cá Đỏ Cá Xanh (Phần 3)",
         "year": 2026,
         "slug": "ca-do-ca-xanh-phan-3",
@@ -286,77 +358,5 @@
         "total_episodes": "5",
         "country": "Âu Mỹ",
         "description": "Từ Monday Night RAW đến WrestleMania, loạt phim này đưa bạn vào hậu trường cùng các Siêu sao và đội ngũ nhân viên của WWE khi họ tạo nên những sự kiện hoành tráng nhất của công ty."
-    },
-    {
-        "name": "WWE: Hậu Trường (Phần 1)",
-        "year": 2025,
-        "slug": "wwe-hau-truong-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260726/wwe-hau-truong-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260726/wwe-hau-truong-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (5/5)",
-        "total_episodes": "15",
-        "country": "Âu Mỹ",
-        "description": "Từ Monday Night RAW đến WrestleMania, loạt phim này đưa bạn vào hậu trường cùng các Siêu sao và đội ngũ nhân viên của WWE khi họ tạo nên những sự kiện hoành tráng nhất của công ty."
-    },
-    {
-        "name": "Ransom Canyon (Phần 2)",
-        "year": 2026,
-        "slug": "ransom-canyon-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260726/ransom-canyon-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260726/ransom-canyon-phan-2-poster-2.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "18",
-        "country": "Âu Mỹ",
-        "description": "Đam mê sục sôi tại một thị trấn nhỏ ở Texas, khi ba triều đại chăn nuôi đấu đá nhau vì đất đai, di sản và những người họ trân quý."
-    },
-    {
-        "name": "Ransom Canyon (Phần 1)",
-        "year": 2025,
-        "slug": "ransom-canyon-phan-1",
-        "thumb": "https://phimimg.com/upload/vod/20250418-1/c7f269493b70a52b0d7b22697a79f760.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250418-1/883ea684e8042416a74fea15eb724e9f.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Đam mê sục sôi tại một thị trấn nhỏ ở Texas, khi ba triều đại chăn nuôi đấu đá nhau vì đất đai, di sản và những người họ trân quý."
-    },
-    {
-        "name": "Tối Hậu Thư: Cưới Hay Nghỉ (Phần 4)",
-        "year": 2026,
-        "slug": "toi-hau-thu-cuoi-hay-nghi-phan-4",
-        "thumb": "https://phimimg.com/uploads/movies/20260720/toi-hau-thu-cuoi-hay-nghi-phan-4-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260720/toi-hau-thu-cuoi-hay-nghi-phan-4-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Kết hôn hay dừng lại? Các cặp đôi sẽ đưa tình yêu của mình vào một cuộc thử nghiệm cam go — trong khi chuyển đến sống chung với những đối tượng tiềm năng khác — trong một loạt chương trình thực tế đầy táo bạo và khiêu khích này."
-    },
-    {
-        "name": "Jeopardy! Văn Hóa Đại Chúng",
-        "year": 2026,
-        "slug": "jeopardy-van-hoa-dai-chung",
-        "thumb": "https://phimimg.com/upload/vod/20260512-1/48be74378e09392c616652dcf09bf98c.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260512-1/9e440909607cbdca3ac0a81fa3dd271e.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (20/20)",
-        "total_episodes": "20",
-        "country": "Âu Mỹ",
-        "description": "Các đội chơi gồm hai người sẽ cùng nhau tranh tài kịch tính để giành giải thưởng lớn trị giá 300.000 USD và khẳng định vị thế &quot;ông trùm&quot; văn hóa đại chúng. Đây là một phiên bản mới lạ, đầy đột phá dựa trên chương trình đố vui được yêu thích nhất tại Mỹ, hứa hẹn mang đến những màn đối đầu nghẹt thở và những kiến thức thú vị."
-    },
-    {
-        "name": "Rick Và Morty (Phần 9)",
-        "year": 2026,
-        "slug": "rick-va-morty-phan-9",
-        "thumb": "https://phimimg.com/upload/vod/20260604-1/56460003fbb5366fc854821a32c228e2.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260604-1/b1c22d42dde3369e0cff0a9ac5e58d0f.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Season 9 tiếp tục sau các sự kiện lớn liên quan đến Evil Morty và sự sụp đổ của Citadel. Khác với một số mùa gần đây thiên về các tập độc lập, mùa này quay trở lại với một cốt truyện xuyên suốt về đa vũ trụ và mối quan hệ phức tạp giữa Rick, Morty và Evil Morty."
     }
 ]
