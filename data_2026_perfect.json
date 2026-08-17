@@ -1821,6 +1821,18 @@
     ],
     "le_au_my": [
         {
+            "name": "Thời niên thiếu của Washington",
+            "year": 2026,
+            "slug": "thoi-nien-thieu-cua-washington",
+            "thumb": "https://phimimg.com/uploads/movies/20260817/thoi-nien-thieu-cua-washington-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260817/thoi-nien-thieu-cua-washington-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Xoay quanh thời niên thiếu và giai đoạn đầu trưởng thành của George Washington — người sau này trở thành vị Tổng thống đầu tiên của Hợp chủng quốc Hoa Kỳ."
+        },
+        {
             "name": "Đừng Nói Chúc May Mắn",
             "year": 2026,
             "slug": "dung-noi-chuc-may-man",
@@ -1987,21 +1999,33 @@
             "total_episodes": "1",
             "country": "Canada",
             "description": "Người dẫn một podcast nổi tiếng về hiện tượng siêu nhiên bắt đầu bị ám ảnh bởi những bản ghi âm kinh hoàng được gửi đến cô một cách bí ẩn. Khi càng đào sâu vào nguồn gốc của các đoạn ghi ấy, ranh giới giữa công việc và nỗi sợ cá nhân dần sụp đổ."
-        },
-        {
-            "name": "Khi Bố Thất Thủ",
-            "year": 2026,
-            "slug": "khi-bo-that-thu",
-            "thumb": "https://phimimg.com/uploads/movies/20260730/khi-bo-that-thu-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260730/khi-bo-that-thu-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Khi vợ chốt được một thương vụ trên Shark Tank, Nate trở thành ông bố nội trợ của ba cô con gái. Hành trình đầy tiếng cười giúp anh khám phá ý nghĩa thực sự của gia đình."
         }
     ],
     "bo_au_my": [
+        {
+            "name": "Lực lượng Lanterns (Phần 1)",
+            "year": 2026,
+            "slug": "luc-luong-lanterns-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 1",
+            "total_episodes": "8",
+            "country": "Âu Mỹ",
+            "description": "Xoay quanh tân binh John Stewart và huyền thoại Hal Jordan — hai cảnh sát liên ngân hà bị cuốn vào một bí ẩn đen tối ngay tại Trái Đất khi họ điều tra một vụ án mạng ở vùng trung tâm nước Mỹ."
+        },
+        {
+            "name": "Stuart Cứu Không Nổi Vũ Trụ (Phần 1)",
+            "year": 2026,
+            "slug": "stuart-cuu-khong-noi-vu-tru-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20260817/stuart-cuu-khong-noi-vu-tru-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260817/stuart-cuu-khong-noi-vu-tru-phan-1-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Stuart Bloom — chủ một cửa hàng truyện tranh và vốn là nhân vật quen thuộc trong The Big Bang Theory — vô tình làm hỏng một thiết bị lượng tử do Sheldon và Leonard chế tạo. Sự cố khiến thực tại bị phá vỡ, tạo ra một thảm họa đa vũ trụ và đẩy các thế giới song song vào hỗn loạn."
+        },
         {
             "name": "Xác Sống: Thành Phố Chết (Phần 3)",
             "year": 2026,
@@ -2157,30 +2181,6 @@
             "total_episodes": "8",
             "country": "Âu Mỹ",
             "description": "Sau khi phát hiện mình được thừa kế một hòn đảo hẻo lánh ở Canada từ ông ngoại — người mà cô chưa từng được phép gặp mặt, cô gái 17 tuổi Annie Jacobson quyết định lên đường tìm hiểu sự thật. Chuyến đi đã kéo cô vào một thế giới của những bí mật bị chôn giấu, tình chị em bất ngờ và một lịch sử gia đình phức tạp mà cô chưa từng được định sẵn để khám phá."
-        },
-        {
-            "name": "MOURINHO",
-            "year": 2026,
-            "slug": "mourinho",
-            "thumb": "https://phimimg.com/uploads/movies/20260812/mourinho-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260812/mourinho-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (3/3)",
-            "total_episodes": "3",
-            "country": "Âu Mỹ",
-            "description": "Bộ phim tài liệu đầy ắp danh hiệu và tiết lộ nội bộ này tái hiện hành trình José Mourinho vươn tầm thành nhà cầm quân hàng đầu thế giới tại các câu lạc bộ bóng đá danh giá nhất."
-        },
-        {
-            "name": "Gia Tộc Rồng (Phần 3)",
-            "year": 2026,
-            "slug": "gia-toc-rong-phan-3",
-            "thumb": "https://phimimg.com/upload/vod/20260622-1/344ec2281ef56c96894e787a834f0ace.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260622-1/ace539cd539e20a8fd3642678f65d525.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
-            "country": "Âu Mỹ",
-            "description": "Kịch bản lấy bối cảnh 200 năm trước các sự kiện của Game of Thrones, kể về câu chuyện của dòng họ Targaryen. Họ chinh phục và thống trị lục địa Westeros trong thời gian dài nhờ khả năng điều khiển loài rồng. Tuy nhiên, cuộc nội chiến đẫm máu kéo dài để tranh giành Ngôi Báu Sắt đã khiến gia tộc này ngày càng suy yếu và đi đến bờ vực của sự diệt vong."
         }
     ],
     "le_thai": [
@@ -2367,6 +2367,18 @@
     ],
     "bo_thai": [
         {
+            "name": "Cú Giao Bóng Tình Yêu",
+            "year": 2026,
+            "slug": "cu-giao-bong-tinh-yeu",
+            "thumb": "https://phimimg.com/uploads/movies/20260817/cu-giao-bong-tinh-yeu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260817/cu-giao-bong-tinh-yeu-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "10",
+            "country": "Thái Lan",
+            "description": "Cậu bé Sun là một tay vợt tennis hoàn hảo, còn Bay là một chàng trai theo đuổi nghệ thuật, có phong cách sống phóng khoáng. Hai người có cha là kẻ thù không đội trời chung. Gia đình họ cùng sở hữu những nhà hàng dim sum cạnh tranh nhau trên đường Krong Thong: nhà hàng Saming Phon Fai của gia đình Sun mang phong cách truyền thống lâu đời, trong khi Merlion của gia đình Bay là một nhà hàng mới nổi tiếng với món há cảo shumai."
+        },
+        {
             "name": "Cuộc Chạy Đua Của Tình Và Tiền",
             "year": 2026,
             "slug": "cuoc-chay-dua-cua-tinh-va-tien",
@@ -2533,18 +2545,6 @@
             "total_episodes": "10",
             "country": "Thái Lan",
             "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
-        },
-        {
-            "name": "Bạn Gái Người Máy",
-            "year": 2026,
-            "slug": "ban-gai-nguoi-may",
-            "thumb": "https://phimimg.com/upload/vod/20260702-1/88140f84f7bde451cb436d2693f74efb.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260702-1/9ddc66c01bd307e5fd64162459ea38d5.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (7/7)",
-            "total_episodes": "7",
-            "country": "Thái Lan",
-            "description": "Cuộc sống yên bình của Jen bị đảo lộn khi Ai, một robot bí ẩn có ngoại hình giống hệt cô gái trong mộng của cô, xuất hiện và gọi cô là &quot;Chủ nhân&quot;. Bị buộc phải sống chung, Jen không ngờ rằng mình lại đem lòng yêu cỗ máy tinh nghịch này. Khi mối liên kết giữa họ ngày càng sâu đậm, cô phải đối mặt với câu hỏi cuối cùng: Ai chỉ là một chương trình lỗi lạc, hay chính là tình yêu của đời cô?"
         }
     ],
     "long_tieng": [
@@ -2961,16 +2961,16 @@
             "description": "Đây là câu chuyện có thật, đầy náo nhiệt, lố bịch và vô cùng điên rồ về cách các Minion chinh phục Hollywood, trở thành ngôi sao điện ảnh, rồi đánh mất tất cả, vô tình giải phóng những quái vật ra thế giới và cuối cùng buộc phải sát cánh bên nhau để cứu lấy Trái Đất khỏi chính mớ hỗn loạn mà họ đã gây ra."
         },
         {
-            "name": "Xác Sống: Thành Phố Chết (Phần 3)",
+            "name": "Lực lượng Lanterns (Phần 1)",
             "year": 2026,
-            "slug": "xac-song-thanh-pho-chet-phan-3",
-            "thumb": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-3-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-3-poster.webp",
+            "slug": "luc-luong-lanterns-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
+            "current_episode": "Tập 1",
             "total_episodes": "8",
             "country": "Âu Mỹ",
-            "description": "Maggie và Negan du hành đến Manhattan hậu tận thế, nơi từ lâu đã bị cắt đứt khỏi đất liền. Thành phố này đầy những người chết và cư dân ở đây đã biến New York thành thế giới của riêng họ."
+            "description": "Xoay quanh tân binh John Stewart và huyền thoại Hal Jordan — hai cảnh sát liên ngân hà bị cuốn vào một bí ẩn đen tối ngay tại Trái Đất khi họ điều tra một vụ án mạng ở vùng trung tâm nước Mỹ."
         },
         {
             "name": "Cưới Vợ Cho Cha",
@@ -3021,16 +3021,16 @@
             "description": "Cậu em trai Lý Kình bị uế khí ám ngọc xâm nhập, tính mạng ngàn cân treo sợi tóc, người cha Lý Côn lại mất tích một cách kỳ lạ. Trong lúc lâm vào thế đường cùng, thiếu niên Lý Thời — dưới sự dẫn dắt của miếng ngọc bội Côn Bội truyền lại từ gia tộc — đã triệu hồi Cẩm Lý Tiên Lý Lý đến từ Côn Vực. Để đền đáp ơn cứu mạng của tổ tiên họ Lý năm xưa, vị Cẩm Lý Tiên kiêu kỳ, linh hoạt cùng cậu thiếu niên nhân gian kiên định đã cùng nhau sánh bước, dấn thân vào một cuộc phiêu lưu vô cùng hiểm nguy và kịch tính."
         },
         {
-            "name": "Xác Sống: Thành Phố Chết (Phần 2)",
-            "year": 2025,
-            "slug": "xac-song-thanh-pho-chet-phan-2",
-            "thumb": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-2-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-2-poster.webp",
+            "name": "Stuart Cứu Không Nổi Vũ Trụ (Phần 1)",
+            "year": 2026,
+            "slug": "stuart-cuu-khong-noi-vu-tru-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20260817/stuart-cuu-khong-noi-vu-tru-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260817/stuart-cuu-khong-noi-vu-tru-phan-1-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
+            "current_episode": "Tập 4",
+            "total_episodes": "10",
             "country": "Âu Mỹ",
-            "description": "Maggie và Negan du hành đến Manhattan hậu tận thế, nơi từ lâu đã bị cắt đứt khỏi đất liền. Thành phố này đầy những người chết và cư dân ở đây đã biến New York thành thế giới của riêng họ."
+            "description": "Stuart Bloom — chủ một cửa hàng truyện tranh và vốn là nhân vật quen thuộc trong The Big Bang Theory — vô tình làm hỏng một thiết bị lượng tử do Sheldon và Leonard chế tạo. Sự cố khiến thực tại bị phá vỡ, tạo ra một thảm họa đa vũ trụ và đẩy các thế giới song song vào hỗn loạn."
         },
         {
             "name": "Phim Super Mario Thiên Hà",
@@ -3081,16 +3081,16 @@
             "description": "Câu chuyện xoay quanh trận đại chiến cuối cùng của Kỷ Nguyên Tiên Cổ. Tổ Tế Linh Liễu Thần đứng ra dẫn dắt quần hùng đi tìm tia hy vọng sau cùng. Hoang Thiên Đế Thạch Hạo dùng một giọt chân huyết hóa thành phân thân, nghịch chuyển thời không giáng lâm Tiên Cổ, cùng những người đồng sinh cộng tử tìm kiếm phương pháp tối hậu để xóa bỏ tận gốc hắc ám. Đại kiếp hắc ám giáng xuống, chương cuối của Tiên Cổ chính thức mở màn, khúc tráng ca bi hùng vang lên!"
         },
         {
-            "name": "Phát Súng Cuối Cùng (Phần 4)",
+            "name": "Xác Sống: Thành Phố Chết (Phần 3)",
             "year": 2026,
-            "slug": "phat-sung-cuoi-cung-phan-4",
-            "thumb": "https://phimimg.com/uploads/movies/20260817/phat-sung-cuoi-cung-phan-4-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260817/phat-sung-cuoi-cung-phan-4-poster.webp",
+            "slug": "xac-song-thanh-pho-chet-phan-3",
+            "thumb": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-3-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-3-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 1",
+            "current_episode": "Tập 2",
             "total_episodes": "8",
             "country": "Âu Mỹ",
-            "description": "Jack Reacher 2022: Phát Súng Cuối Cùng, kể về câu chuyện của Jack Reacher, một cựu cảnh sát hình sự, bị vướng vào một âm mưu vu oan to lớn, được thực hiện bởi một nhóm cảnh sát, doanh nhân lẫn chính trị gia biến chất. Reacher và vợ sẽ phải làm gì để thoát khỏi âm mưu này, nhất là sau cái chết của người anh mình?"
+            "description": "Maggie và Negan du hành đến Manhattan hậu tận thế, nơi từ lâu đã bị cắt đứt khỏi đất liền. Thành phố này đầy những người chết và cư dân ở đây đã biến New York thành thế giới của riêng họ."
         }
     ]
 }
