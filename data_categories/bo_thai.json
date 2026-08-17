@@ -1,5 +1,17 @@
 [
     {
+        "name": "Cú Giao Bóng Tình Yêu",
+        "year": 2026,
+        "slug": "cu-giao-bong-tinh-yeu",
+        "thumb": "https://phimimg.com/uploads/movies/20260817/cu-giao-bong-tinh-yeu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260817/cu-giao-bong-tinh-yeu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Cậu bé Sun là một tay vợt tennis hoàn hảo, còn Bay là một chàng trai theo đuổi nghệ thuật, có phong cách sống phóng khoáng. Hai người có cha là kẻ thù không đội trời chung. Gia đình họ cùng sở hữu những nhà hàng dim sum cạnh tranh nhau trên đường Krong Thong: nhà hàng Saming Phon Fai của gia đình Sun mang phong cách truyền thống lâu đời, trong khi Merlion của gia đình Bay là một nhà hàng mới nổi tiếng với món há cảo shumai."
+    },
+    {
         "name": "Cuộc Chạy Đua Của Tình Và Tiền",
         "year": 2026,
         "slug": "cuoc-chay-dua-cua-tinh-va-tien",
@@ -346,17 +358,5 @@
         "total_episodes": "5",
         "country": "Thái Lan",
         "description": "Một nhóm nhạc thần tượng từng ôm mộng vinh quang nay phải đối mặt với nỗi tủi hổ khi phải mặc đồ linh vật biểu diễn các bài hát thiếu nhi. Lần lượt mọi người đều bỏ cuộc và rời đi… ngoại trừ Jeng, người duy nhất lựa chọn ở lại bên cạnh vị sếp Sithian bướng bỉnh, cố chấp của mình."
-    },
-    {
-        "name": "Cây cam ở nhà cậu ấy nhưng quả cam luôn rơi sang nhà tôi",
-        "year": 2026,
-        "slug": "cay-cam-o-nha-cau-ay-nhung-qua-cam-luon-roi-sang-nha-toi",
-        "thumb": "https://phimimg.com/upload/vod/20260604-1/0bac1b5f368a775a32cbcce15d0a254d.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260604-1/5eba4d6cc1ea46ac42f086d9e9e3c844.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (12/12)",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Ko là một cậu bé mê cam hơn bất cứ thứ gì trên đời - nhưng không phải cam nào cậu cũng thích. Nhất định phải là cam từ cây ở nhà bên cạnh mới được. Không có loại cam nào ngon bằng, cũng chẳng có loại nào khiến cậu hạnh phúc đến thế. Thơm, ngọt, ngon lành - mọi thứ về những quả cam nhà trồng ấy, Ko đều yêu thích vô cùng. Chỉ có một điều ngoại lệ: chủ nhân thật sự của cây cam đó. Cậu con trai mang cái tên ngầu y hệt tên cậu. Vì hai người trùng tên nên mọi người gọi cậu ta là “Ko Hai”, theo cách gọi quen thuộc mỗi khi có hai người cùng tên. Và thế là Ko nghiễm nhiên trở thành “Ko Một”. Nhưng ngoài cái tên giống nhau ra, cả hai chẳng có điểm gì chung. Tính cách trái ngược hoàn toàn - như thể ông trời đã phái một vị thần tối cao xuống để trừng trị con quỷ cam tinh nghịch vậy. Trong lúc câu chuyện của hai Ko dần mở ra, họ cũng lớn lên - không chỉ về dáng hình mà cả những cảm xúc âm thầm nảy nở trong tim."
     }
 ]
