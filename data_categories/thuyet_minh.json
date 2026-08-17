@@ -1,5 +1,29 @@
 [
     {
+        "name": "Tàn Thuốc",
+        "year": 2026,
+        "slug": "tan-thuoc",
+        "thumb": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 2",
+        "total_episodes": "9",
+        "country": "Hồng Kông",
+        "description": "Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần được hé lộ, cả hai cùng bị kéo vào một vụ án làm tiền giả xuyên quốc gia và cuộc tranh giành quyền lực giữa các thế lực địa phương."
+    },
+    {
+        "name": "Sát Thủ Nội Trợ (Vợ Tôi Là Sát Thủ)",
+        "year": 2026,
+        "slug": "sat-thu-noi-tro-vo-toi-la-sat-thu",
+        "thumb": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 6",
+        "total_episodes": "7",
+        "country": "Hàn Quốc",
+        "description": "Yoo Bo Na có một cuộc sống tưởng chừng bình thường bên chồng con và công việc quản lý bán hàng. Nhưng đằng sau vẻ ngoài của một người vợ, người mẹ mẫu mực, cô lại là “Kingfisher” – nữ sát thủ bắn tỉa khét tiếng chuyên xử lý những kẻ phạm tội thoát khỏi sự trừng phạt của pháp luật. Sau ba năm tạm rời nghề để sinh con, Bo Na buộc phải tái xuất và bước vào cuộc sống hai mặt đầy nguy hiểm. Trong lúc cố gắng giữ kín thân phận, cô không ngờ người chồng làm nghề phóng viên lại ngày càng tiến gần đến bí mật của mình."
+    },
+    {
         "name": "Ngự Đình Dao",
         "year": 2026,
         "slug": "ngu-dinh-dao",
@@ -18,7 +42,7 @@
         "thumb": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260718/chuyen-tinh-ma-quai-poster.webp",
         "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 9",
+        "current_episode": "Tập 10",
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
@@ -46,18 +70,6 @@
         "total_episodes": "8",
         "country": "Hàn Quốc",
         "description": "Kyung Hee, một influencer có gia đình kiểu mẫu và sự nghiệp đáng ngưỡng mộ. Nhưng khi phát hiện chồng mình che giấu một bí mật kinh hoàng, cô buộc phải cùng anh chôn vùi sự thật. Một tin nhắn nặc danh xuất hiện, kéo cả gia đình vào cơn ác mộng không lối thoát."
-    },
-    {
-        "name": "Sát Thủ Nội Trợ (Vợ Tôi Là Sát Thủ)",
-        "year": 2026,
-        "slug": "sat-thu-noi-tro-vo-toi-la-sat-thu",
-        "thumb": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 5",
-        "total_episodes": "7",
-        "country": "Hàn Quốc",
-        "description": "Yoo Bo Na có một cuộc sống tưởng chừng bình thường bên chồng con và công việc quản lý bán hàng. Nhưng đằng sau vẻ ngoài của một người vợ, người mẹ mẫu mực, cô lại là “Kingfisher” – nữ sát thủ bắn tỉa khét tiếng chuyên xử lý những kẻ phạm tội thoát khỏi sự trừng phạt của pháp luật. Sau ba năm tạm rời nghề để sinh con, Bo Na buộc phải tái xuất và bước vào cuộc sống hai mặt đầy nguy hiểm. Trong lúc cố gắng giữ kín thân phận, cô không ngờ người chồng làm nghề phóng viên lại ngày càng tiến gần đến bí mật của mình."
     },
     {
         "name": "Minions & Quái Vật",
@@ -346,17 +358,5 @@
         "total_episodes": "24",
         "country": "Trung Quốc",
         "description": "Sinh viên xuất sắc ngành khoa học kĩ thuật Lạc Trường An vô tình xuyên không, cơ duyên đưa đẩy trở thành huyện lệnh Cửu Chương, mà nơi đây vốn là huyện góa phụ nổi tiếng gần xa. Anh chỉ muốn chuyên tâm cai trị huyện, lao động mưu sinh, không muốn dính vào vòng xoáy tranh đoạt trên triều đình, nhưng lại liên tục dính dáng đến người của hoàng thất. Anh dựa vào kiến thức khoa học kĩ thuật đi trước thời đại, chấn hưng trăm nghề, ổn định dân sinh, chế tạo vũ khí bảo vệ nước nhà. Vừa bảo vệ bình yên một cõi, vừa khéo léo xoay sở giữa quyền mưu triều đình và các thế lực, hết lần này đến lần khác hóa giải nguy cơ, đồng thời kết duyên sâu đậm với những người xung quanh. Từ một vị quan huyện nhỏ nhoi đơn độc cai quản huyện góa phụ, trở thành đế sư huyền thoại một thời."
-    },
-    {
-        "name": "Thanh Khâu Kỳ Duyên",
-        "year": 2026,
-        "slug": "thanh-khau-ky-duyen",
-        "thumb": "https://phimimg.com/uploads/movies/20260718/thanh-khau-ky-duyen-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260718/thanh-khau-ky-duyen-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Trung Quốc",
-        "description": "Ảo ảnh Lạc Dung Nhi do Cửu Vĩ Chân Nhân tạo ra từ phép thuật, từ lâu đã giúp Cửu Vĩ bắt những gã nam nhân xấu xa. Cho đến một ngày, Lạc Dung Nhi gặp bổ khoái Mặc Thần, cô bị thu hút bởi sự chính trực của Mặc Thần và nhận ra trên đời vẫn tồn tại nhân, nghĩa và tình. Cửu Vĩ nhất quyết phải giết Mặc Thần. Vì tình yêu đích thực và nghĩa khí, Mặc Thần và Lạc Dung Nhi đành phải đối đầu với Cửu Vĩ Chân Nhân trong trận quyết đấu chính tà."
     }
 ]
