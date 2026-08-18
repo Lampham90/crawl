@@ -1,5 +1,29 @@
 [
     {
+        "name": "Cuộc Chiến Sinh Tử II",
+        "year": 2026,
+        "slug": "cuoc-chien-sinh-tu-ii",
+        "thumb": "https://phimimg.com/upload/vod/20260519-1/d68170850071c3aa73dfb26e6a18133e.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260519-1/3c295de9c27fa4449eb82919363a80d7.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Những chiến binh được yêu thích nhất — nay có thêm sự góp mặt của Johnny Cage — buộc phải đối đầu lẫn nhau trong trận chiến tối thượng đẫm máu và không khoan nhượng. Mục tiêu: đánh bại sự thống trị tàn bạo của Shao Kahn, kẻ đang đe dọa sự tồn vong của Địa Giới và tất cả những ai đứng lên bảo vệ nó."
+    },
+    {
+        "name": "Ma Cây: Lửa Địa Ngục",
+        "year": 2026,
+        "slug": "ma-cay-lua-dia-nguc",
+        "thumb": "https://phimimg.com/uploads/movies/20260805/ma-cay-lua-dia-nguc-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260805/ma-cay-lua-dia-nguc-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Sau khi chồng qua đời, một người phụ nữ tìm sự an ủi bên gia đình chồng. Nhưng rồi từng người một biến thành những deadite quỷ ám, khiến cô dần nhận ra rằng những lời thề nguyện khi còn sống… vẫn tồn tại ngay cả sau cái chết."
+    },
+    {
         "name": "Thời niên thiếu của Washington",
         "year": 2026,
         "slug": "thoi-nien-thieu-cua-washington",
@@ -142,18 +166,6 @@
         "total_episodes": "1",
         "country": "Anh",
         "description": "Trong thử nghiệm táo bạo dài 28 ngày, nghệ sĩ hài Mo Gilligan đi vòng quanh Anh và Mỹ với chế độ ăn gà rán để biết sức ảnh hưởng của cơn thèm món này và ngành công nghiệp đằng sau."
-    },
-    {
-        "name": "Ma Cây: Lửa Địa Ngục",
-        "year": 2026,
-        "slug": "ma-cay-lua-dia-nguc",
-        "thumb": "https://phimimg.com/uploads/movies/20260805/ma-cay-lua-dia-nguc-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260805/ma-cay-lua-dia-nguc-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Sau khi chồng qua đời, một người phụ nữ tìm sự an ủi bên gia đình chồng. Nhưng rồi từng người một biến thành những deadite quỷ ám, khiến cô dần nhận ra rằng những lời thề nguyện khi còn sống… vẫn tồn tại ngay cả sau cái chết."
     },
     {
         "name": "Sesame Street Bão Đang Tới",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Nếu một ngày bạn nhận ra rằng chúng ta chưa bao giờ đơn độc, nếu có ai đó đứng trước mặt bạn và chứng minh điều đó là sự thật, liệu việc đó khiến bạn sợ hãi? Mùa Hè 2026, sự thật nằm trong tay của bảy tỷ con người. Chúng ta đang tiến rất gần đến… Thời Khắc Công Bố."
-    },
-    {
-        "name": "Star Wars: Mandalorian và Grogu",
-        "year": 2026,
-        "slug": "star-wars-mandalorian-va-grogu",
-        "thumb": "https://phimimg.com/upload/vod/20260625-1/eae0e72afab9c7228da9b12df8859b53.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260625-1/e43e9e9207618823fa3ca762e8fc274e.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Đế Chế tàn bạo đã sụp đổ, nhưng những lãnh chúa chiến tranh của phe Đế Chế vẫn còn rải rác khắp thiên hà. Khi Nền Cộng hòa Mới nỗ lực bảo vệ những gì Quân Nổi Loạn đã chiến đấu để giành lấy, họ đã nhờ đến sự trợ giúp của thợ săn tiền thưởng Mandalorian - huyền thoại Din Djarin và cậu bé học việc Grogu."
     }
 ]

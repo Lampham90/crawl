@@ -1,5 +1,17 @@
 [
     {
+        "name": "Giáo Trình Tình Yêu Bắt Buộc",
+        "year": 2026,
+        "slug": "giao-trinh-tinh-yeu-bat-buoc",
+        "thumb": "https://phimimg.com/uploads/movies/20260818/giao-trinh-tinh-yeu-bat-buoc-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260818/giao-trinh-tinh-yeu-bat-buoc-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "15",
+        "country": "Thái Lan",
+        "description": "Sáu học sinh cùng nhau trải qua những tình cảm đơn phương thầm kín, những lời hứa hẹn năm xưa và những tổn thương tình cảm bất ngờ khi họ bị buộc phải tham gia vào một khóa học bắt buộc của nhà trường về chủ đề tình yêu."
+    },
+    {
         "name": "Luang Pho Trong Sạch",
         "year": 2026,
         "slug": "luang-pho-trong-sach",
@@ -346,17 +358,5 @@
         "total_episodes": "30",
         "country": "Thái Lan",
         "description": "Chàng nhạc công tài năng xuất thân nghèo khó và một nữ sinh trung học giàu có nảy sinh tình cảm giữa những mối thù địch cá nhân và một biến cố làm thay đổi cuộc đời."
-    },
-    {
-        "name": "Siêu Sao Hay Siêu Xịt",
-        "year": 2026,
-        "slug": "sieu-sao-hay-sieu-xit",
-        "thumb": "https://phimimg.com/upload/vod/20260622-1/7b286191e1a4bfca5980823dab19744a.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260622-1/1b6811163c1de486f67cab2707a9d02d.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (5/5)",
-        "total_episodes": "5",
-        "country": "Thái Lan",
-        "description": "Một nhóm nhạc thần tượng từng ôm mộng vinh quang nay phải đối mặt với nỗi tủi hổ khi phải mặc đồ linh vật biểu diễn các bài hát thiếu nhi. Lần lượt mọi người đều bỏ cuộc và rời đi… ngoại trừ Jeng, người duy nhất lựa chọn ở lại bên cạnh vị sếp Sithian bướng bỉnh, cố chấp của mình."
     }
 ]
