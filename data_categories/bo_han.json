@@ -1,5 +1,17 @@
 [
     {
+        "name": "Giấc Mơ Trao Em",
+        "year": 2026,
+        "slug": "giac-mo-trao-em",
+        "thumb": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 11",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Woo Soo Bin và Ju Yi Jae gặp lại sau 15 năm. Ký ức cũ dần sống dậy, cả hai phải đối diện với những cảm xúc và tình yêu vẫn chưa thực sự kết thúc."
+    },
+    {
         "name": "Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)",
         "year": 2026,
         "slug": "sep-chinh-la-than-tuong-bias-toi-sep-cua-toi",
@@ -166,18 +178,6 @@
         "total_episodes": "27",
         "country": "Pháp",
         "description": "Marinette và Adrien — hai thiếu niên sống tại Paris — được trao ban những viên bảo ngọc đầy quyền năng để biến hình thành các siêu anh hùng Ladybug (Bọ Rùa) và Cat Noir (Mèo Đen). Thế nhưng, không một ai trong hai người biết được danh tính thực sự của đối phương — hay thậm chí là cả việc họ chính là bạn cùng lớp của nhau!"
-    },
-    {
-        "name": "Giấc Mơ Trao Em",
-        "year": 2026,
-        "slug": "giac-mo-trao-em",
-        "thumb": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 10",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Woo Soo Bin và Ju Yi Jae gặp lại sau 15 năm. Ký ức cũ dần sống dậy, cả hai phải đối diện với những cảm xúc và tình yêu vẫn chưa thực sự kết thúc."
     },
     {
         "name": "Muộn Còn Hơn Ế (Phần 2)",
