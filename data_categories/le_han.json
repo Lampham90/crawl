@@ -1,5 +1,17 @@
 [
     {
+        "name": "Bầy Xác Sống",
+        "year": 2026,
+        "slug": "bay-xac-song",
+        "thumb": "https://phimimg.com/uploads/movies/20260723/bay-xac-song-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260723/bay-xac-song-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Hàn Quốc",
+        "description": "Giáo sư Se Jeong tham dự một hội nghị công nghệ sinh học, nhưng lại chứng kiến ​​nó biến thành thảm họa khi một loại virus đột biến nhanh chóng được giải phóng. Khi dịch bệnh lan rộng và những người nhiễm bệnh bắt đầu biến đổi, chính quyền đã phong tỏa toàn bộ cơ sở."
+    },
+    {
         "name": "Giai Điệu Hoang Dại",
         "year": 2026,
         "slug": "giai-dieu-hoang-dai",
@@ -10,18 +22,6 @@
         "total_episodes": "1",
         "country": "Hàn Quốc",
         "description": "Gang Dong Won, Um Tae Goo và Park Ji Huyn vào vai những cựu ngôi sao K-pop tái hợp sau 20 năm cho một đêm diễn duy nhất – miễn là họ có thể sống sót qua mớ hỗn loạn trước."
-    },
-    {
-        "name": "Bầy Xác Sống",
-        "year": 2026,
-        "slug": "bay-xac-song",
-        "thumb": "https://phimimg.com/uploads/movies/20260723/bay-xac-song-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260723/bay-xac-song-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Hàn Quốc",
-        "description": "Giáo sư Se Jeong tham dự một hội nghị công nghệ sinh học, nhưng lại chứng kiến ​​nó biến thành thảm họa khi một loại virus đột biến nhanh chóng được giải phóng. Khi dịch bệnh lan rộng và những người nhiễm bệnh bắt đầu biến đổi, chính quyền đã phong tỏa toàn bộ cơ sở."
     },
     {
         "name": "Dòng Sông Trắng (Dục Vọng Bên Sông Trắng)",

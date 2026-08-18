@@ -1,5 +1,41 @@
 [
     {
+        "name": "Cơn Thịnh Nộ",
+        "year": 2026,
+        "slug": "con-thinh-no",
+        "thumb": "https://phimimg.com/uploads/movies/20260707/con-thinh-no-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260707/con-thinh-no-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Hồng Kông",
+        "description": "Chủ tiệm Vương Vĩ có cô con gái Vũ Tình bị một băng nhóm tội phạm bắt cóc giữa phố. Trong hành trình giải cứu con, anh lần theo dấu vết của một mạng lưới buôn người và tội phạm ngầm vô cùng nguy hiểm. Đồng hành cùng anh là một nhà báo mang trong mình quá khứ bí ẩn. Hai người buộc phải hợp tác, sử dụng kỹ năng chiến đấu của mình để đối đầu với tổ chức tội phạm và đưa cô bé trở về an toàn."
+    },
+    {
+        "name": "Bầy Xác Sống",
+        "year": 2026,
+        "slug": "bay-xac-song",
+        "thumb": "https://phimimg.com/uploads/movies/20260723/bay-xac-song-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260723/bay-xac-song-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Hàn Quốc",
+        "description": "Giáo sư Se Jeong tham dự một hội nghị công nghệ sinh học, nhưng lại chứng kiến ​​nó biến thành thảm họa khi một loại virus đột biến nhanh chóng được giải phóng. Khi dịch bệnh lan rộng và những người nhiễm bệnh bắt đầu biến đổi, chính quyền đã phong tỏa toàn bộ cơ sở."
+    },
+    {
+        "name": "Ngự Đình Dao",
+        "year": 2026,
+        "slug": "ngu-dinh-dao",
+        "thumb": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (32/32)",
+        "total_episodes": "32",
+        "country": "Trung Quốc",
+        "description": "Mạnh Đình Huy (Ngô Cẩn Ngôn) là nữ quan đầu tiên của triều Đại Ninh thi đỗ tam nguyên. Trên triều, nàng khôn khéo, tàn nhẫn, lọc lõi đủ đường, bị gán tiếng “gian thần” nhưng thực chất lại chỉ có một lý tưởng duy nhất: dốc hết tâm huyết để phò tá vị minh quân trẻ tuổi mà mình từng mang ơn. Thế nhưng, trên con đường đầy cạm bẫy của quyền lực, Mạnh Đình Huy không ngờ rằng tấm lòng nàng dốc lòng chôn giấu lại được hồi đáp bằng tình yêu sâu sắc. Anh Quả (Trần Triết Viễn), vị quân vương ẩn nhẫn, trị quốc bằng trí tuệ và sự điềm tĩnh, từng bước để lộ trái tim chỉ dành cho nàng. Chàng không giỏi lời hoa mỹ, nhưng mỗi hành động, mỗi ánh mắt đều là minh chứng cho một tình yêu lặng lẽ mà mãnh liệt."
+    },
+    {
         "name": "Tàn Thuốc",
         "year": 2026,
         "slug": "tan-thuoc",
@@ -22,18 +58,6 @@
         "total_episodes": "7",
         "country": "Hàn Quốc",
         "description": "Yoo Bo Na có một cuộc sống tưởng chừng bình thường bên chồng con và công việc quản lý bán hàng. Nhưng đằng sau vẻ ngoài của một người vợ, người mẹ mẫu mực, cô lại là “Kingfisher” – nữ sát thủ bắn tỉa khét tiếng chuyên xử lý những kẻ phạm tội thoát khỏi sự trừng phạt của pháp luật. Sau ba năm tạm rời nghề để sinh con, Bo Na buộc phải tái xuất và bước vào cuộc sống hai mặt đầy nguy hiểm. Trong lúc cố gắng giữ kín thân phận, cô không ngờ người chồng làm nghề phóng viên lại ngày càng tiến gần đến bí mật của mình."
-    },
-    {
-        "name": "Ngự Đình Dao",
-        "year": 2026,
-        "slug": "ngu-dinh-dao",
-        "thumb": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (32/32)",
-        "total_episodes": "32",
-        "country": "Trung Quốc",
-        "description": "Mạnh Đình Huy (Ngô Cẩn Ngôn) là nữ quan đầu tiên của triều Đại Ninh thi đỗ tam nguyên. Trên triều, nàng khôn khéo, tàn nhẫn, lọc lõi đủ đường, bị gán tiếng “gian thần” nhưng thực chất lại chỉ có một lý tưởng duy nhất: dốc hết tâm huyết để phò tá vị minh quân trẻ tuổi mà mình từng mang ơn. Thế nhưng, trên con đường đầy cạm bẫy của quyền lực, Mạnh Đình Huy không ngờ rằng tấm lòng nàng dốc lòng chôn giấu lại được hồi đáp bằng tình yêu sâu sắc. Anh Quả (Trần Triết Viễn), vị quân vương ẩn nhẫn, trị quốc bằng trí tuệ và sự điềm tĩnh, từng bước để lộ trái tim chỉ dành cho nàng. Chàng không giỏi lời hoa mỹ, nhưng mỗi hành động, mỗi ánh mắt đều là minh chứng cho một tình yêu lặng lẽ mà mãnh liệt."
     },
     {
         "name": "Chuyện Tình Ma Quái",
@@ -334,29 +358,5 @@
         "total_episodes": "10",
         "country": "Nhật Bản",
         "description": "Lấy bối cảnh Nhật Bản trước Thế chiến II, phim kể về Natsumi và Takimasa, hai người xa lạ bước vào một cuộc hôn nhân sắp đặt. Từ những bỡ ngỡ và sự xa cách ban đầu, cả hai dần học cách thấu hiểu, sẻ chia và vun đắp tình cảm qua cuộc sống thường nhật. Giữa lúc chiến tranh cận kề, tình yêu của họ phải đối mặt với nhiều thử thách, nhưng cũng ngày càng trở nên bền chặt."
-    },
-    {
-        "name": "Chó Hoang Và Xương",
-        "year": 2026,
-        "slug": "cho-hoang-va-xuong",
-        "thumb": "https://phimimg.com/upload/vod/20260705-1/d1e3f78ec436e006cd71338e333adae7.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260705-1/cf344e4d8b5bb10f4eefa2a3ec5463f1.jpg",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (32/32)",
-        "total_episodes": "32",
-        "country": "Trung Quốc",
-        "description": "Đôi thanh mai trúc mã Trần Dị và Miêu Tĩnh tưởng chừng bị cắt đứt sau biến cố, cho đến khi Miêu Tĩnh lựa chọn trở về sau nhiều năm tha phương."
-    },
-    {
-        "name": "Đế Sư Trường An",
-        "year": 2026,
-        "slug": "de-su-truong-an",
-        "thumb": "https://phimimg.com/uploads/movies/20260728/de-su-truong-an-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260728/de-su-truong-an-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (24/24)",
-        "total_episodes": "24",
-        "country": "Trung Quốc",
-        "description": "Sinh viên xuất sắc ngành khoa học kĩ thuật Lạc Trường An vô tình xuyên không, cơ duyên đưa đẩy trở thành huyện lệnh Cửu Chương, mà nơi đây vốn là huyện góa phụ nổi tiếng gần xa. Anh chỉ muốn chuyên tâm cai trị huyện, lao động mưu sinh, không muốn dính vào vòng xoáy tranh đoạt trên triều đình, nhưng lại liên tục dính dáng đến người của hoàng thất. Anh dựa vào kiến thức khoa học kĩ thuật đi trước thời đại, chấn hưng trăm nghề, ổn định dân sinh, chế tạo vũ khí bảo vệ nước nhà. Vừa bảo vệ bình yên một cõi, vừa khéo léo xoay sở giữa quyền mưu triều đình và các thế lực, hết lần này đến lần khác hóa giải nguy cơ, đồng thời kết duyên sâu đậm với những người xung quanh. Từ một vị quan huyện nhỏ nhoi đơn độc cai quản huyện góa phụ, trở thành đế sư huyền thoại một thời."
     }
 ]
