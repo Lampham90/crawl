@@ -1,5 +1,17 @@
 [
     {
+        "name": "Câu Chuyện Đồ Chơi 5",
+        "year": 2026,
+        "slug": "cau-chuyen-do-choi-5",
+        "thumb": "https://phimimg.com/uploads/movies/20260818/cau-chuyen-do-choi-5-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260818/cau-chuyen-do-choi-5-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Khi Bonnie được tặng chiếc máy tính bảng Lilypad và dần mê mẩn món đồ chơi mới, Buzz, Woody, Jessie cùng cả nhóm bỗng đứng trước nguy cơ bị lãng quên. Để giành lại giờ chơi, họ phải đối đầu với “đối thủ” hiện đại nhất từ trước đến nay: một màn hình nhỏ nhưng có sức hút quá lớn."
+    },
+    {
         "name": "Cuộc Chiến Sinh Tử II",
         "year": 2026,
         "slug": "cuoc-chien-sinh-tu-ii",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Vật lộn với quá khứ sau một đời đầy tội lỗi và đổ máu, Robin Hood bị trọng thương sau trận chiến mà anh tưởng là cuối cùng. Rơi vào tay một người phụ nữ bí ẩn, anh được trao cho một cơ hội chuộc lỗi và tìm kiếm sự cứu rỗi."
-    },
-    {
-        "name": "Thời Khắc Công Bố",
-        "year": 2026,
-        "slug": "thoi-khac-cong-bo",
-        "thumb": "https://phimimg.com/uploads/movies/20260722/thoi-khac-cong-bo-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260722/thoi-khac-cong-bo-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Nếu một ngày bạn nhận ra rằng chúng ta chưa bao giờ đơn độc, nếu có ai đó đứng trước mặt bạn và chứng minh điều đó là sự thật, liệu việc đó khiến bạn sợ hãi? Mùa Hè 2026, sự thật nằm trong tay của bảy tỷ con người. Chúng ta đang tiến rất gần đến… Thời Khắc Công Bố."
     }
 ]

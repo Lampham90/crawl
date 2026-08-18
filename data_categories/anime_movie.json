@@ -1,5 +1,17 @@
 [
     {
+        "name": "Câu Chuyện Đồ Chơi 5",
+        "year": 2026,
+        "slug": "cau-chuyen-do-choi-5",
+        "thumb": "https://phimimg.com/uploads/movies/20260818/cau-chuyen-do-choi-5-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260818/cau-chuyen-do-choi-5-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Khi Bonnie được tặng chiếc máy tính bảng Lilypad và dần mê mẩn món đồ chơi mới, Buzz, Woody, Jessie cùng cả nhóm bỗng đứng trước nguy cơ bị lãng quên. Để giành lại giờ chơi, họ phải đối đầu với “đối thủ” hiện đại nhất từ trước đến nay: một màn hình nhỏ nhưng có sức hút quá lớn."
+    },
+    {
         "name": "Minions & Quái Vật",
         "year": 2026,
         "slug": "minions-quai-vat",
@@ -327,16 +339,5 @@
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "Nhật Bản"
-    },
-    {
-        "name": "Cô Gái Khóc Ngọc Trai (La jeune fille qui pleurait des perles)",
-        "year": 2025,
-        "slug": "co-gai-khoc-ngoc-trai-la-jeune-fille-qui-pleurait-des-perles",
-        "thumb": "https://phimimg.com/upload/vod/20260327-1/96755e8dc493de352ceb2fdeed17f7c4.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260327-1/7e6fc0856ef8ab843e34572cc643de1f.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Canada"
     }
 ]
