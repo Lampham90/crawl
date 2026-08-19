@@ -1,5 +1,17 @@
 [
     {
+        "name": "Đầu Bếp Đấu Giá",
+        "year": 2026,
+        "slug": "dau-bep-dau-gia",
+        "thumb": "https://phimimg.com/uploads/movies/20260730/dau-bep-dau-gia-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260722/dau-bep-dau-gia-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "11",
+        "country": "Thái Lan",
+        "description": "Những đầu bếp hàng đầu bước vào cuộc thi nấu ăn khốc liệt, nơi họ phải đối đầu, đấu trí và trả giá vượt mặt nhau để khẳng định bản lĩnh ẩm thực."
+    },
+    {
         "name": "Hai Trái Tim",
         "year": 2026,
         "slug": "hai-trai-tim",
@@ -286,18 +298,6 @@
         "total_episodes": "19",
         "country": "Thái Lan",
         "description": "Theo yêu cầu của người bạn bị thương giống tên, Thatri, trong tình cảnh phá sản, mạo danh người bạn đó để nhận thừa kế và thay đổi số phận của cả hai."
-    },
-    {
-        "name": "Đầu Bếp Đấu Giá",
-        "year": 2026,
-        "slug": "dau-bep-dau-gia",
-        "thumb": "https://phimimg.com/uploads/movies/20260730/dau-bep-dau-gia-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260722/dau-bep-dau-gia-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "11",
-        "country": "Thái Lan",
-        "description": "Những đầu bếp hàng đầu bước vào cuộc thi nấu ăn khốc liệt, nơi họ phải đối đầu, đấu trí và trả giá vượt mặt nhau để khẳng định bản lĩnh ẩm thực."
     },
     {
         "name": "GELBOYS (Phần 1)",
