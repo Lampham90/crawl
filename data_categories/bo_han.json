@@ -1,5 +1,29 @@
 [
     {
+        "name": "Cớ Gì Lại Đi Leo Núi?",
+        "year": 2026,
+        "slug": "co-gi-lai-di-leo-nui",
+        "thumb": "https://phimimg.com/uploads/movies/20260819/co-gi-lai-di-leo-nui-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260819/co-gi-lai-di-leo-nui-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "10",
+        "country": "Hàn Quốc",
+        "description": "Bốn nghệ sĩ nổi tiếng mới tập tễnh bước vào bộ môn leo núi lập thành một câu lạc bộ để chinh phục những đỉnh núi phủ đầy tuyết của Hàn Quốc. Liệu họ có thể tìm ra lý do vì sao người ta lại đam mê leo núi đến vậy?"
+    },
+    {
+        "name": "Giấc Mơ Trao Em",
+        "year": 2026,
+        "slug": "giac-mo-trao-em",
+        "thumb": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Hoàn Tất (12/12)",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Woo Soo Bin và Ju Yi Jae gặp lại sau 15 năm. Ký ức cũ dần sống dậy, cả hai phải đối diện với những cảm xúc và tình yêu vẫn chưa thực sự kết thúc."
+    },
+    {
         "name": "Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)",
         "year": 2026,
         "slug": "sep-chinh-la-than-tuong-bias-toi-sep-cua-toi",
@@ -22,18 +46,6 @@
         "total_episodes": "8",
         "country": "Hàn Quốc",
         "description": "Vừa được bổ nhiệm làm CEO của Murthehelp, Jeong Ji An bước vào một cuộc chiến đầy nguy hiểm với tổ chức quyền lực mang tên Babylon. Cùng hợp tác với người chú Jeong Jin Man, người đã bất ngờ quay trở lại, cô phát động một cuộc phản công quyết liệt nhằm bảo vệ công ty và đối đầu với những kẻ thù đang đe dọa tất cả những gì họ đã gây dựng. Khi cuộc xung đột ngày càng leo thang, cả hai dựa vào sự tin tưởng lẫn nhau, chiến lược và ý chí kiên cường để đối mặt với một đối thủ ngày càng đáng gờm."
-    },
-    {
-        "name": "Giấc Mơ Trao Em",
-        "year": 2026,
-        "slug": "giac-mo-trao-em",
-        "thumb": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 11",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Woo Soo Bin và Ju Yi Jae gặp lại sau 15 năm. Ký ức cũ dần sống dậy, cả hai phải đối diện với những cảm xúc và tình yêu vẫn chưa thực sự kết thúc."
     },
     {
         "name": "Sát Thủ Nội Trợ (Vợ Tôi Là Sát Thủ)",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Hàn Quốc",
         "description": "Một nam nhân có thể bước vào thế giới linh hồn và một cung nữ có thể nghe thấy người chết đến Đông Cung theo lệnh vua. Liệu họ có thể vén màn những bí mật đen tối ở đây?"
-    },
-    {
-        "name": "Lớp Học Tình Yêu (Phần 3)",
-        "year": 2026,
-        "slug": "lop-hoc-tinh-yeu-phan-3",
-        "thumb": "https://phimimg.com/upload/vod/20260604-1/2353791bb14f17a7f695106b9c7c6852.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260604-1/4e28f3a3299759d4bf98c97b154a46cc.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (16/16)",
-        "total_episodes": "16",
-        "country": "Hàn Quốc",
-        "description": "Hyun Jae và Soo An từng gặp nhau trong một chương trình sống còn tuyển chọn idol. Trong thời gian thi đấu, cả hai dần nảy sinh tình cảm. Tuy nhiên cuối cùng chỉ có Hyun Jae được debut, còn Soo An bị loại, khiến họ phải chia xa dù vẫn còn tình cảm với nhau."
     }
 ]
