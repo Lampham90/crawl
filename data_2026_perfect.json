@@ -911,6 +911,18 @@
     ],
     "bo_vn": [
         {
+            "name": "Phù Sa",
+            "year": 2026,
+            "slug": "phu-sa",
+            "thumb": "https://phimimg.com/uploads/movies/20260819/phu-sa-thumb.webp",
+            "poster": "https://i.ex-cdn.com/danviet.vn/files/content/2026/08/13/final--poster-phu-sa-1012.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 1",
+            "total_episodes": "35",
+            "country": "Việt Nam",
+            "description": "Câu chuyện bắt đầu tại xóm Bình Hòa ven sông Tiền, nơi những vụ sạt lở liên tiếp khiến nhà cửa, vườn tược đứng trước nguy cơ biến mất. Người dân hoang mang, những lời đồn về đất đai mất giá xuất hiện, cò đất lảng vảng và ngày càng nhiều gia đình nghĩ tới chuyện bán đất, rời quê. Đúng lúc ấy, Phù Sa (diễn viên Trúc Mây) từ thành phố trở về mang theo một kế hoạch đầy tham vọng: Nâng giá trị cây ca cao, tạo ra sản phẩm của Bình Hòa và từ đó mở thêm sinh kế cho người dân."
+        },
+        {
             "name": "Mùa Hè Năm Ấy",
             "year": 2026,
             "slug": "mua-he-nam-ay-2026",
@@ -1077,18 +1089,6 @@
             "total_episodes": "120",
             "country": "Việt Nam",
             "description": "Ở tuổi 60, khi mái đầu đã bạc, bà Sáu chọn cách rời bỏ cuộc hôn nhân hàng chục năm để tìm lại chính mình. Quyết định &quot;gây bão&quot; này vô tình bóc trần những rạn nứt giấu kín, buộc mỗi thành viên phải học lại cách yêu thương trước khi quá muộn. Hành trình cuối đời không phải là kết thúc, mà là sự bắt đầu của một tình thân đích thực."
-        },
-        {
-            "name": "Vì Mẹ Anh Phán Chia Tay",
-            "year": 2026,
-            "slug": "vi-me-anh-phan-chia-tay",
-            "thumb": "https://phimimg.com/upload/vod/20260323-1/4403985ad245741fa637c23d3cd599c5.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260323-1/7d0a34af02e865860bd1714340e95bc4.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (16/16)",
-            "total_episodes": "16",
-            "country": "Việt Nam",
-            "description": "Triệu Phú giả liệt để tránh cuộc hôn nhân sắp đặt và bất ngờ gặp lại cô hộ lý là oan gia năm xưa. Khi tình yêu vừa chớm nở, gia đình thúc ép anh cưới cô dâu &quot;over hợp&quot; để giữ mạng. Số phận, gia đình và tình yêu - anh sẽ chọn điều gì?"
         }
     ],
     "le_han": [
@@ -1639,6 +1639,66 @@
     ],
     "bo_trung": [
         {
+            "name": "Ngự Đình Dao",
+            "year": 2026,
+            "slug": "ngu-dinh-dao",
+            "thumb": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-poster.webp",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Hoàn Tất (32/32)",
+            "total_episodes": "32",
+            "country": "Trung Quốc",
+            "description": "Mạnh Đình Huy (Ngô Cẩn Ngôn) là nữ quan đầu tiên của triều Đại Ninh thi đỗ tam nguyên. Trên triều, nàng khôn khéo, tàn nhẫn, lọc lõi đủ đường, bị gán tiếng “gian thần” nhưng thực chất lại chỉ có một lý tưởng duy nhất: dốc hết tâm huyết để phò tá vị minh quân trẻ tuổi mà mình từng mang ơn. Thế nhưng, trên con đường đầy cạm bẫy của quyền lực, Mạnh Đình Huy không ngờ rằng tấm lòng nàng dốc lòng chôn giấu lại được hồi đáp bằng tình yêu sâu sắc. Anh Quả (Trần Triết Viễn), vị quân vương ẩn nhẫn, trị quốc bằng trí tuệ và sự điềm tĩnh, từng bước để lộ trái tim chỉ dành cho nàng. Chàng không giỏi lời hoa mỹ, nhưng mỗi hành động, mỗi ánh mắt đều là minh chứng cho một tình yêu lặng lẽ mà mãnh liệt."
+        },
+        {
+            "name": "Cuồng Đồ",
+            "year": 2026,
+            "slug": "cuong-do",
+            "thumb": "https://phimimg.com/uploads/movies/20260814/cuong-do-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260814/cuong-do-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 18",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Đến Lang Già tìm vị hôn thê, Chu Viêm bị bọn buôn người bắt cóc và sau đó bị vu oan, tống vào tù. Sau khi được thả, anh mạo danh một ông trùm thế giới ngầm, hợp tác với hai nữ cảnh sát ngầm Mona và Laila để truy tìm kẻ chủ mưu và từng bước triệt phá mạng lưới tội phạm tại địa phương."
+        },
+        {
+            "name": "Nước Mắt Phấn Hồng / Yên Chi Lệ",
+            "year": 2025,
+            "slug": "nuoc-mat-phan-hong-yen-chi-le",
+            "thumb": "https://phimimg.com/uploads/movies/20260819/nuoc-mat-phan-hong-yen-chi-le-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260819/nuoc-mat-phan-hong-yen-chi-le-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (30/30)",
+            "total_episodes": "30",
+            "country": "Trung Quốc",
+            "description": "Lấy bối cảnh thời Dân Quốc, bộ phim kể về thiếu nữ Diệp Chi Thu cải trang thành Ngũ di thái của Chu gia để thâm nhập vào Chu phủ nhằm điều tra sự thật đằng sau cái chết của chị gái. Tại đây, cô gặp gỡ đại thiếu gia Chu Dĩ Mặc — người cũng đang che giấu bí mật về thân thế của mình. Cả hai cùng nhau vạch trần những góc khuất đen tối ẩn giấu trong Chu phủ, kề vai sát cánh và gánh vác hiểm nguy trong một câu chuyện tình yêu giật gân, ly kỳ."
+        },
+        {
+            "name": "Sư Huynh Quá Cẩn Trọng",
+            "year": 2026,
+            "slug": "su-huynh-qua-can-trong",
+            "thumb": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 3",
+            "total_episodes": "30",
+            "country": "Trung Quốc",
+            "description": "Kiếp trước, Lý Trường Thọ là một bệnh nhân mắc bệnh hiểm nghèo. Sau một lần ngoài ý muốn sống lại ở thế giới hồng hoang, trở thành một tu sĩ Luyện Khí nhỏ bé luôn trân trọng tính mạng, không muốn dính vào nhân quả. Để tránh đại kiếp thiên hạ đã được thiên đạo tiên tri, y theo đuổi con đường \"ổn vững\", chỉ mong sớm lên thiên đình sống qua ngày. Vì thế, y hành sự thận trọng, bất động thì vững như bàn thạch, động một cái là long trời lở đất. Y tin rằng thời đại chỉ biết chém giết đã qua, lừa được thì tuyệt đối không giết, độc thân được thì tuyệt đối không yêu. Thế nhưng, kẻ địch và mỹ nhân lại ùn ùn kéo đến. Y bất cẩn trở thành cao thủ đứng sau bày mưu tính kế, bị cuốn vào trận đấu của nhiều thế lực, triển khai kế hoạch \"Long tộc lên trời\", thậm chí còn khiến đại kiếp thiên hạ đến sớm hơn..."
+        },
+        {
+            "name": "Tàng Phong",
+            "year": 2026,
+            "slug": "tang-phong",
+            "thumb": "https://phimimg.com/uploads/movies/20260819/tang-phong-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260819/tang-phong-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 5",
+            "total_episodes": "23",
+            "country": "Trung Quốc",
+            "description": "Đàm Ngạn, Phó phòng Tuyên truyền Cục Công an thành phố Hồng Diệp, được điều chuyển sang làm Chính ủy Chi đội Cảnh sát đặc nhiệm. Từ một người quen làm công tác tuyên truyền, anh phải thích nghi với môi trường thực chiến và dần phối hợp với Chi đội trưởng Liêu Bất Phàm trong quá trình hỗ trợ phá án."
+        },
+        {
             "name": "Trọng Khí",
             "year": 2026,
             "slug": "trong-khi",
@@ -1711,18 +1771,6 @@
             "description": "Cả nhà Thẩm gia bị sát hại, cô bé Thẩm Ly tận mắt chứng kiến hung thủ chính là Triệu Vô Cữu, Thôi Hoằng và một người bí ẩn có hình xăm hoa ăn thịt người. May mắn được Tạ Vân Quy cứu sống, cô đổi tên thành Cố Hàn Y, học y thuật và mưu lược, liên kết với thế lực phái nữ để từng bước trả thù."
         },
         {
-            "name": "Ngự Đình Dao",
-            "year": 2026,
-            "slug": "ngu-dinh-dao",
-            "thumb": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-poster.webp",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Hoàn Tất (32/32)",
-            "total_episodes": "32",
-            "country": "Trung Quốc",
-            "description": "Mạnh Đình Huy (Ngô Cẩn Ngôn) là nữ quan đầu tiên của triều Đại Ninh thi đỗ tam nguyên. Trên triều, nàng khôn khéo, tàn nhẫn, lọc lõi đủ đường, bị gán tiếng “gian thần” nhưng thực chất lại chỉ có một lý tưởng duy nhất: dốc hết tâm huyết để phò tá vị minh quân trẻ tuổi mà mình từng mang ơn. Thế nhưng, trên con đường đầy cạm bẫy của quyền lực, Mạnh Đình Huy không ngờ rằng tấm lòng nàng dốc lòng chôn giấu lại được hồi đáp bằng tình yêu sâu sắc. Anh Quả (Trần Triết Viễn), vị quân vương ẩn nhẫn, trị quốc bằng trí tuệ và sự điềm tĩnh, từng bước để lộ trái tim chỉ dành cho nàng. Chàng không giỏi lời hoa mỹ, nhưng mỗi hành động, mỗi ánh mắt đều là minh chứng cho một tình yêu lặng lẽ mà mãnh liệt."
-        },
-        {
             "name": "Nam Hí",
             "year": 2026,
             "slug": "nam-hi",
@@ -1733,18 +1781,6 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Thời Dân Quốc tại Phụng Thành, khi các quân phiệt giao tranh hỗn chiến, đầu tượng Phật bằng ngọc bất ngờ bị đánh cắp, còn ông chủ gánh hát thì bị sát hại ngay trên sân khấu. Vụ án đã đẩy thiếu soái lạnh lùng Hứa Hựu An và danh ca Côn khúc Vinh Tiểu Nam vào thế đối đầu một mất một còn. Thế nhưng cả hai đều không hề hay biết, người đứng trước mặt mình lại chính là \"người anh em\" cùng chung hoạn nạn mà họ mỏi mòn tìm kiếm suốt bao năm. Giang Xuân Nhi, con gái một thương gia giàu có, vốn đã có hôn ước với Hứa Hựu An, nhưng lại đem lòng yêu Vinh Tiểu Nam. Để bảo vệ người mình yêu, cô buộc phải tranh đấu giữa chốn quyền mưu khốc liệt như địa ngục trần gian. Hai chiếc đầu tượng Phật bằng ngọc thật - giả đã châm ngòi cho chuỗi án mạng liên hoàn, đồng thời hé lộ vụ giết người bị chôn vùi từ nhiều năm trước, siết chặt số phận của ba con người lại với nhau như sợi dây thòng lọng. Họ vừa yêu vừa hận, vừa nghi kỵ lẫn nhau, nhưng cũng nhiều lần liều mình bảo vệ đối phương. Đến khi thân phận anh em kết nghĩa được phơi bày, bí mật cất giấu trong đầu tượng Phật cũng lộ diện. Khúc \"Mẫu Đơn Đình\" cuối cùng lại hóa thành một bản tuyệt xướng nhuốm máu..."
-        },
-        {
-            "name": "Cuồng Đồ",
-            "year": 2026,
-            "slug": "cuong-do",
-            "thumb": "https://phimimg.com/uploads/movies/20260814/cuong-do-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260814/cuong-do-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 17",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Đến Lang Già tìm vị hôn thê, Chu Viêm bị bọn buôn người bắt cóc và sau đó bị vu oan, tống vào tù. Sau khi được thả, anh mạo danh một ông trùm thế giới ngầm, hợp tác với hai nữ cảnh sát ngầm Mona và Laila để truy tìm kẻ chủ mưu và từng bước triệt phá mạng lưới tội phạm tại địa phương."
         },
         {
             "name": "Ngô Hoàng Tại Thượng: Phượng Ngự Tứ Phương",
@@ -1781,42 +1817,6 @@
             "total_episodes": "8",
             "country": "Hàn Quốc",
             "description": "Ngôi sao hàng đầu xuất thân từ sao nhí Jung Yi Hyun quyết định rời khỏi làng giải trí sau cái chết bất ngờ của mẹ. Còn Kang Jae Won là người làm nhiều công việc bán thời gian để kiếm sống qua ngày, vì áp lực của thực tại mà buộc phải tạm gác lại giấc mơ trở thành diễn viên… Hai người đã chia tay và cắt đứt mối quan hệ vì một sự hiểu lầm thời học trung học. Nhiều năm sau, họ lại gặp lại nhau tình cờ trong một vở ca kịch. Trong quá trình hóa thân vào cảm xúc của nhân vật trên sân khấu, họ cũng dần học lại cách yêu thương nhau."
-        },
-        {
-            "name": "Bí Ẩn Nhà Ma",
-            "year": 2026,
-            "slug": "bi-an-nha-ma",
-            "thumb": "https://phimimg.com/uploads/movies/20260808/bi-an-nha-ma-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260808/bi-an-nha-ma-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (21/21)",
-            "total_episodes": "21",
-            "country": "Trung Quốc",
-            "description": "Vào thời Dân Quốc, Giang Hoài cùng Tuân Ca cùng lập gánh kể chuyện, tình cờ gặp một ngôi nhà ma ám, nơi ban ngày người ở, ban đêm ma ám. Giang Hoài bị bắt đi làm chú rể trong một đám cưới ma. Sau đó, anh hợp tác với nữ thanh tra Mục Anh, lần lượt phá giải hàng loạt kỳ án rùng rợn tại những ngôi nhà ma ám: Diêm Vương cưới vợ, Ngũ Quỷ vận tài, con rối giết người, hoa yêu câu hồn, đèn chùm hành thích và giếng cổ đoạt mạng."
-        },
-        {
-            "name": "Bạn Gái Thiên Tài",
-            "year": 2026,
-            "slug": "ban-gai-thien-tai",
-            "thumb": "https://phimimg.com/uploads/movies/20260802/ban-gai-thien-tai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260802/ban-gai-thien-tai-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (28/28)",
-            "total_episodes": "28",
-            "country": "Trung Quốc",
-            "description": "Cô gái thiên tài Lâm Tri Hạ có tính cách thẳng thắn, không giỏi giao tiếp, từ nhỏ đã không có bạn bè. Sau khi đỗ vào trường trung học số một tỉnh, cô quen chàng trai học giỏi Giang Du Bạch có tính cách tươi sáng qua một cuộc thi giải đề rồi trở thành bạn cùng bàn với cậu. Là người giỏi giao tiếp, Giang Du Bạch giúp Lâm Tri Hạ hòa nhập với tập thể, kết bạn với Thang Đình Đình, Đoàn Khải Ngôn, Thẩm Phụ Huyên, Kim Bách Tuệ và những người bạn khác. Để tỏ lòng biết ơn, Lâm Tri Hạ giúp cậu ôn bài. Hai người từ cạnh tranh chuyển sang hỗ trợ lẫn nhau, cuối cùng trở thành những người bạn thân thiết nhất. Hai người cùng nhau giải quyết vụ việc bạn học bị lừa, tham gia hoạt động câu lạc bộ và cuộc thi toán cấp tỉnh. Trong quá trình ấy, tình cảm của Giang Dư Bạch dành cho Lâm Tri Hạ dần nảy sinh, nhưng cậu chỉ âm thầm giấu kín tình yêu trong lòng. Sau khi Lâm Tri Hạ được tuyển thẳng vào Đại học Phúc Đán, Giang Dư Bạch dự định tỏ tình với cô trong chuyến du lịch tốt nghiệp. Nhưng vì mẹ cậu bị cuốn vào một vụ án lừa đảo, cậu đành rời đi trong tiếc nuối. Liệu hai người cuối cùng có thể vượt qua mọi trở ngại để đến bên nhau?"
-        },
-        {
-            "name": "Chuyện Tôi Làm Nội Gián",
-            "year": 2026,
-            "slug": "chuyen-toi-lam-noi-gian",
-            "thumb": "https://phimimg.com/uploads/movies/20260801/chuyen-toi-lam-noi-gian-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260801/chuyen-toi-lam-noi-gian-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 23",
-            "total_episodes": "23",
-            "country": "Trung Quốc",
-            "description": "Lập trình viên Lý Văn cố tình tiếp cận Cố Đình vì biết cha cô là Cố Viêm vừa hết mực cưng chiều con gái, vừa là một người lão luyện trong nghề. Anh thuyết phục Cố Viêm đưa mình thâm nhập vào tổ chức lừa đảo viễn thông dưới vỏ bọc lập trình viên, nhằm điều tra sự thật đằng sau cái chết đầy bí ẩn của vợ chưa cưới. Hai người phối hợp thu thập chứng cứ phạm tội của Diêm Lễ, kẻ cầm đầu đường dây lừa đảo, rồi giao hắn cho cảnh sát, bắt cả băng nhóm phải chịu sự trừng phạt thích đáng của pháp luật."
         }
     ],
     "le_au_my": [
@@ -2731,6 +2731,30 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Ngự Đình Dao",
+            "year": 2026,
+            "slug": "ngu-dinh-dao",
+            "thumb": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-poster.webp",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Hoàn Tất (32/32)",
+            "total_episodes": "32",
+            "country": "Trung Quốc",
+            "description": "Mạnh Đình Huy (Ngô Cẩn Ngôn) là nữ quan đầu tiên của triều Đại Ninh thi đỗ tam nguyên. Trên triều, nàng khôn khéo, tàn nhẫn, lọc lõi đủ đường, bị gán tiếng “gian thần” nhưng thực chất lại chỉ có một lý tưởng duy nhất: dốc hết tâm huyết để phò tá vị minh quân trẻ tuổi mà mình từng mang ơn. Thế nhưng, trên con đường đầy cạm bẫy của quyền lực, Mạnh Đình Huy không ngờ rằng tấm lòng nàng dốc lòng chôn giấu lại được hồi đáp bằng tình yêu sâu sắc. Anh Quả (Trần Triết Viễn), vị quân vương ẩn nhẫn, trị quốc bằng trí tuệ và sự điềm tĩnh, từng bước để lộ trái tim chỉ dành cho nàng. Chàng không giỏi lời hoa mỹ, nhưng mỗi hành động, mỗi ánh mắt đều là minh chứng cho một tình yêu lặng lẽ mà mãnh liệt."
+        },
+        {
+            "name": "Sư Huynh Quá Cẩn Trọng",
+            "year": 2026,
+            "slug": "su-huynh-qua-can-trong",
+            "thumb": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 3",
+            "total_episodes": "30",
+            "country": "Trung Quốc",
+            "description": "Kiếp trước, Lý Trường Thọ là một bệnh nhân mắc bệnh hiểm nghèo. Sau một lần ngoài ý muốn sống lại ở thế giới hồng hoang, trở thành một tu sĩ Luyện Khí nhỏ bé luôn trân trọng tính mạng, không muốn dính vào nhân quả. Để tránh đại kiếp thiên hạ đã được thiên đạo tiên tri, y theo đuổi con đường \"ổn vững\", chỉ mong sớm lên thiên đình sống qua ngày. Vì thế, y hành sự thận trọng, bất động thì vững như bàn thạch, động một cái là long trời lở đất. Y tin rằng thời đại chỉ biết chém giết đã qua, lừa được thì tuyệt đối không giết, độc thân được thì tuyệt đối không yêu. Thế nhưng, kẻ địch và mỹ nhân lại ùn ùn kéo đến. Y bất cẩn trở thành cao thủ đứng sau bày mưu tính kế, bị cuốn vào trận đấu của nhiều thế lực, triển khai kế hoạch \"Long tộc lên trời\", thậm chí còn khiến đại kiếp thiên hạ đến sớm hơn..."
+        },
+        {
             "name": "Sở Cảnh Sát Tokyo: Đội Quan Hệ Công Chúng Số 2",
             "year": 2026,
             "slug": "so-canh-sat-tokyo-doi-quan-he-cong-chung-so-2",
@@ -2777,18 +2801,6 @@
             "total_episodes": "30",
             "country": "Trung Quốc",
             "description": "\"Cửu Môn\" kể câu chuyện Trường Sa xảy ra biến động, hai kì tài Trương Khải Sơn và Ngô Lão Cẩu cùng hợp lực, bắt tay với Hoắc Tiên Cô và các thành viên Cửu Môn cùng dấn thân vào mạo hiểm kỳ quái. Vụ biến mất bí ẩn của Đội 401 kéo theo bí mật kinh hoàng bị chôn vùi suốt trăm năm. Sự lựa chọn giữa sự sống và cái chết, tình nghĩa huynh đệ, trách nhiệm với môn phái và đại nghĩa với đất nước đan xen vào nhau. Các thành viên của Cửu Môn sẵn lòng hy sinh, hăng hái bảo vệ gia đình và đất nước, cùng nhau vượt qua khó khăn."
-        },
-        {
-            "name": "Ngự Đình Dao",
-            "year": 2026,
-            "slug": "ngu-dinh-dao",
-            "thumb": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-poster.webp",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Hoàn Tất (32/32)",
-            "total_episodes": "32",
-            "country": "Trung Quốc",
-            "description": "Mạnh Đình Huy (Ngô Cẩn Ngôn) là nữ quan đầu tiên của triều Đại Ninh thi đỗ tam nguyên. Trên triều, nàng khôn khéo, tàn nhẫn, lọc lõi đủ đường, bị gán tiếng “gian thần” nhưng thực chất lại chỉ có một lý tưởng duy nhất: dốc hết tâm huyết để phò tá vị minh quân trẻ tuổi mà mình từng mang ơn. Thế nhưng, trên con đường đầy cạm bẫy của quyền lực, Mạnh Đình Huy không ngờ rằng tấm lòng nàng dốc lòng chôn giấu lại được hồi đáp bằng tình yêu sâu sắc. Anh Quả (Trần Triết Viễn), vị quân vương ẩn nhẫn, trị quốc bằng trí tuệ và sự điềm tĩnh, từng bước để lộ trái tim chỉ dành cho nàng. Chàng không giỏi lời hoa mỹ, nhưng mỗi hành động, mỗi ánh mắt đều là minh chứng cho một tình yêu lặng lẽ mà mãnh liệt."
         },
         {
             "name": "Cuộc Chiến Sinh Tử II",
@@ -2897,18 +2909,6 @@
             "total_episodes": "8",
             "country": "Hàn Quốc",
             "description": "Yoo In Sik (&quot;Nữ luật sư kỳ lạ Woo Young Woo&quot;) đạo diễn loạt phim hài hành động này về ba kẻ lạc loài tình cờ sở hữu siêu năng lực – nhưng không biết cách sử dụng."
-        },
-        {
-            "name": "Vỏ Bọc Ngoại Tình (Ngoại Tình Đã Nhằm Nhò Gì)",
-            "year": 2026,
-            "slug": "vo-boc-ngoai-tinh-ngoai-tinh-da-nham-nho-gi",
-            "thumb": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 5",
-            "total_episodes": "8",
-            "country": "Hàn Quốc",
-            "description": "Kyung Hee, một influencer có gia đình kiểu mẫu và sự nghiệp đáng ngưỡng mộ. Nhưng khi phát hiện chồng mình che giấu một bí mật kinh hoàng, cô buộc phải cùng anh chôn vùi sự thật. Một tin nhắn nặc danh xuất hiện, kéo cả gia đình vào cơn ác mộng không lối thoát."
         }
     ],
     "trending_phim_bo": [
@@ -2925,16 +2925,16 @@
             "description": "Khi Bonnie được tặng chiếc máy tính bảng Lilypad và dần mê mẩn món đồ chơi mới, Buzz, Woody, Jessie cùng cả nhóm bỗng đứng trước nguy cơ bị lãng quên. Để giành lại giờ chơi, họ phải đối đầu với “đối thủ” hiện đại nhất từ trước đến nay: một màn hình nhỏ nhưng có sức hút quá lớn."
         },
         {
-            "name": "Trọng Khí",
+            "name": "Ngự Đình Dao",
             "year": 2026,
-            "slug": "trong-khi",
-            "thumb": "https://phimimg.com/uploads/movies/20260810/trong-khi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260810/trong-khi-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 20",
-            "total_episodes": "33",
+            "slug": "ngu-dinh-dao",
+            "thumb": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-poster.webp",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Hoàn Tất (32/32)",
+            "total_episodes": "32",
             "country": "Trung Quốc",
-            "description": "Câu chuyện bắt đầu từ giai đoạn đầu của thời kỳ cải cách mở cửa, kéo dài đến năm 1997 khi Luật Tố tụng Hình sự và Luật Hình sự được sửa đổi. Các nhân vật chính gồm Trần Nhất Chúng, Dư Cao Viễn, Trương Lệ Tuệ, Hạ Anh Kiệt cùng những sinh viên tốt nghiệp trường luật khác. Bộ phim kể về hành trình sau khi ra trường, họ bước vào những lĩnh vực khác nhau trong ngành tư pháp, chứng kiến lịch sử, tham gia vào quá trình phát triển pháp luật, không ngừng thích nghi với thời đại và trưởng thành qua thực tiễn tư pháp sôi động. Năm người xuất thân khác nhau, tính cách cũng hoàn toàn khác biệt. Trong hơn mười năm công tác và cuộc sống, họ trải qua biết bao thăng trầm, cuối cùng lựa chọn những con đường riêng. Bộ phim lấy góc nhìn độc đáo từ toàn bộ tiến trình tư pháp, đồng thời tập trung khắc họa những nhân vật trong các lĩnh vực công an, kiểm sát, tòa án và luật pháp, tái hiện một chặng đường lịch sử pháp quyền đầy biến động cùng số phận đan xen của con người trong một thời đại lớn."
+            "description": "Mạnh Đình Huy (Ngô Cẩn Ngôn) là nữ quan đầu tiên của triều Đại Ninh thi đỗ tam nguyên. Trên triều, nàng khôn khéo, tàn nhẫn, lọc lõi đủ đường, bị gán tiếng “gian thần” nhưng thực chất lại chỉ có một lý tưởng duy nhất: dốc hết tâm huyết để phò tá vị minh quân trẻ tuổi mà mình từng mang ơn. Thế nhưng, trên con đường đầy cạm bẫy của quyền lực, Mạnh Đình Huy không ngờ rằng tấm lòng nàng dốc lòng chôn giấu lại được hồi đáp bằng tình yêu sâu sắc. Anh Quả (Trần Triết Viễn), vị quân vương ẩn nhẫn, trị quốc bằng trí tuệ và sự điềm tĩnh, từng bước để lộ trái tim chỉ dành cho nàng. Chàng không giỏi lời hoa mỹ, nhưng mỗi hành động, mỗi ánh mắt đều là minh chứng cho một tình yêu lặng lẽ mà mãnh liệt."
         },
         {
             "name": "Giấc Mơ Trao Em",
@@ -2985,16 +2985,16 @@
             "description": "Những chiến binh được yêu thích nhất — nay có thêm sự góp mặt của Johnny Cage — buộc phải đối đầu lẫn nhau trong trận chiến tối thượng đẫm máu và không khoan nhượng. Mục tiêu: đánh bại sự thống trị tàn bạo của Shao Kahn, kẻ đang đe dọa sự tồn vong của Địa Giới và tất cả những ai đứng lên bảo vệ nó."
         },
         {
-            "name": "Nhân Ngư",
+            "name": "Cuồng Đồ",
             "year": 2026,
-            "slug": "nhan-ngu-2026",
-            "thumb": "https://phimimg.com/uploads/movies/20260808/nhan-ngu-2026-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260808/nhan-ngu-2026-poster.webp",
+            "slug": "cuong-do",
+            "thumb": "https://phimimg.com/uploads/movies/20260814/cuong-do-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260814/cuong-do-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Tập 18",
-            "total_episodes": "22",
+            "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Một vụ án thiếu nữ mất tích đã đẩy ba cô gái có số phận hoàn toàn khác biệt đến trước những lựa chọn mang tính bước ngoặt của cuộc đời, qua đó lột tả trọn vẹn những bi hoan của các gia đình bình dị. Giữa thành phố hoa lệ trên mặt đất và những đường cống ngầm tăm tối - nơi ánh sáng và bóng tối đan xen, cô gái trẻ một mình dấn bước. Qua bao gian truân, cô từng bước vạch trần sự thật ẩn giấu phía sau, tự cứu rỗi chính mình và bước tiếp về phía ánh sáng của hy vọng."
+            "description": "Đến Lang Già tìm vị hôn thê, Chu Viêm bị bọn buôn người bắt cóc và sau đó bị vu oan, tống vào tù. Sau khi được thả, anh mạo danh một ông trùm thế giới ngầm, hợp tác với hai nữ cảnh sát ngầm Mona và Laila để truy tìm kẻ chủ mưu và từng bước triệt phá mạng lưới tội phạm tại địa phương."
         },
         {
             "name": "Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)",
@@ -3045,16 +3045,16 @@
             "description": "Sau khi chồng qua đời, một người phụ nữ tìm sự an ủi bên gia đình chồng. Nhưng rồi từng người một biến thành những deadite quỷ ám, khiến cô dần nhận ra rằng những lời thề nguyện khi còn sống… vẫn tồn tại ngay cả sau cái chết."
         },
         {
-            "name": "Hộp Bất Ngờ",
-            "year": 2026,
-            "slug": "hop-bat-ngo",
-            "thumb": "https://phimimg.com/uploads/movies/20260808/hop-bat-ngo-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260808/hop-bat-ngo-poster.webp",
+            "name": "Nước Mắt Phấn Hồng / Yên Chi Lệ",
+            "year": 2025,
+            "slug": "nuoc-mat-phan-hong-yen-chi-le",
+            "thumb": "https://phimimg.com/uploads/movies/20260819/nuoc-mat-phan-hong-yen-chi-le-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260819/nuoc-mat-phan-hong-yen-chi-le-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 23",
-            "total_episodes": "24",
+            "current_episode": "Hoàn Tất (30/30)",
+            "total_episodes": "30",
             "country": "Trung Quốc",
-            "description": "Năm câu chuyện tưởng chừng độc lập nhưng lại âm thầm soi chiếu lẫn nhau: một nạn nhân dùng \"trại hè\" được dàn dựng công phu để hoàn thành màn báo thù; một \"kẻ vô dụng\" trước lúc lâm chung cuối cùng cũng hóa giải được những nuối tiếc trong đời; một \"vé cào\" với nhiều nhân cách cùng chung sống trong một cơ thể; một \"người liên hệ khẩn cấp\" vẫn thủy chung ở bên giường bệnh, không rời nửa bước; và một \"Ảnh hậu\" chìm trong chứng trầm cảm sau sinh, từng bước tự hủy hoại chính mình."
+            "description": "Lấy bối cảnh thời Dân Quốc, bộ phim kể về thiếu nữ Diệp Chi Thu cải trang thành Ngũ di thái của Chu gia để thâm nhập vào Chu phủ nhằm điều tra sự thật đằng sau cái chết của chị gái. Tại đây, cô gặp gỡ đại thiếu gia Chu Dĩ Mặc — người cũng đang che giấu bí mật về thân thế của mình. Cả hai cùng nhau vạch trần những góc khuất đen tối ẩn giấu trong Chu phủ, kề vai sát cánh và gánh vác hiểm nguy trong một câu chuyện tình yêu giật gân, ly kỳ."
         },
         {
             "name": "Cửa Hàng Sát Thủ (Phần 2)",
