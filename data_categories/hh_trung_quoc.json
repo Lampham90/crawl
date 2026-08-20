@@ -1,5 +1,17 @@
 [
     {
+        "name": "Lý Hùng Miêu",
+        "year": 2026,
+        "slug": "ly-hung-mieu",
+        "thumb": "https://phimimg.com/uploads/movies/20260801/ly-hung-mieu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260801/ly-hung-mieu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "9",
+        "country": "Trung Quốc",
+        "description": "Gấu Trúc Lý, hay còn được viết đến với cái tên khác là Lý Hùng Miêu, một tác phẩm được kết hợp tinh tế giữa phong cách võ hiệp của Trung Quốc và những nét viễn tưởng mang tầm vóc vũ trụ của Nhật Bản. Tác giả Văn Chu mang đến câu chuyện về hành trình đầy lâm li bi đát nhưng cũng không kém phần thú vị của một cậu bé đến từ nhân tộc có tên Lý Hùng Miêu, cậu được Yêu tộc nuôi dưỡng và cưu mang từ nhỏ, học tập, rèn luyện và mang trên mình những tinh túy của võ thuật vô cùng tiềm năng. Theo sự dẫn dắt của sư phụ mình, Lý Hùng Miêu xuống núi và truy tìm để hỏi tội 3 kẻ thù đã nhẫn tâm thảm sát Yêu tộc thời gian trước đó. Hành trình truy tìm kẻ thù ấy không hề dễ dàng bởi thiên hạ rộng lớn bao la và ẩn chứa vô vàn những biến số khôn lường. Những sự thật về trận chiến giữa Nhân tộc và Yêu tộc dần được vén màn, cũng như những bị ẩn về thời kỳ đó, số phận của bản thân Gấu trúc Lý cũng được phơi bày."
+    },
+    {
         "name": "Giới Môn Chi Hạ",
         "year": 2026,
         "slug": "gioi-mon-chi-ha",
@@ -82,18 +94,6 @@
         "total_episodes": "12",
         "country": "Trung Quốc",
         "description": "Vạn Vật Sinh là một thứ công pháp cổ xưa thần kỳ và bí ẩn hơn tất cả những hiểu biết của con người thời hiện đại ngày nay, nhưng bằng một cách thần bí nào đó mà nó lại được truyền thừa và tái hiện trong cơ thể của một thiếu niên thời hiện đại là Tần Vũ. Vốn Tần Vũ được chọn để làm người kế thừa bởi anh mang trong mình những thiên bẩm vô cùng to lớn, có thể dễ kể đến nhất chính là linh căn phế. Tham gia rèn luyện tại Học Viện Cao Võ Đông Đại, Tần Vũ đã nâng cao những sức mạnh thiên bẩm của mình và cùng với các chiến hữu liều mình xả thân chiến đấu cho lẽ phải, đánh đuổi yêu ma, tạo nên một thế giới yên bình sau những biến cố liên tiếp xảy đến."
-    },
-    {
-        "name": "Lý Hùng Miêu",
-        "year": 2026,
-        "slug": "ly-hung-mieu",
-        "thumb": "https://phimimg.com/uploads/movies/20260801/ly-hung-mieu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260801/ly-hung-mieu-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "9",
-        "country": "Trung Quốc",
-        "description": "Gấu Trúc Lý, hay còn được viết đến với cái tên khác là Lý Hùng Miêu, một tác phẩm được kết hợp tinh tế giữa phong cách võ hiệp của Trung Quốc và những nét viễn tưởng mang tầm vóc vũ trụ của Nhật Bản. Tác giả Văn Chu mang đến câu chuyện về hành trình đầy lâm li bi đát nhưng cũng không kém phần thú vị của một cậu bé đến từ nhân tộc có tên Lý Hùng Miêu, cậu được Yêu tộc nuôi dưỡng và cưu mang từ nhỏ, học tập, rèn luyện và mang trên mình những tinh túy của võ thuật vô cùng tiềm năng. Theo sự dẫn dắt của sư phụ mình, Lý Hùng Miêu xuống núi và truy tìm để hỏi tội 3 kẻ thù đã nhẫn tâm thảm sát Yêu tộc thời gian trước đó. Hành trình truy tìm kẻ thù ấy không hề dễ dàng bởi thiên hạ rộng lớn bao la và ẩn chứa vô vàn những biến số khôn lường. Những sự thật về trận chiến giữa Nhân tộc và Yêu tộc dần được vén màn, cũng như những bị ẩn về thời kỳ đó, số phận của bản thân Gấu trúc Lý cũng được phơi bày."
     },
     {
         "name": "Thành Dã Tiêu Hà",
