@@ -1,5 +1,17 @@
 [
     {
+        "name": "Rơi Tự Do: Ngày Phán Xét Của Boeing",
+        "year": 2026,
+        "slug": "roi-tu-do-ngay-phan-xet-cua-boeing",
+        "thumb": "https://phimimg.com/uploads/movies/20260820/roi-tu-do-ngay-phan-xet-cua-boeing-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260820/roi-tu-do-ngay-phan-xet-cua-boeing-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Trong bộ phim tài liệu này, lời khai chấn động của người tố giác cáo buộc Boeing có văn hóa cắt giảm chi phí và hành vi che đậy, dẫn đến những sai sót chết người về an toàn bay."
+    },
+    {
         "name": "Câu Chuyện Đồ Chơi 5",
         "year": 2026,
         "slug": "cau-chuyen-do-choi-5",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Để cứu sự nghiệp, vị giám đốc quảng cáo 40 tuổi nọ tham gia cùng một nhóm người tuổi 20 trong bữa tiệc độc thân náo nhiệt tại Miami sau khi họ vô tình thêm nhầm anh vào nhóm chat."
-    },
-    {
-        "name": "Cái Chết của Robin Hood",
-        "year": 2026,
-        "slug": "cai-chet-cua-robin-hood",
-        "thumb": "https://phimimg.com/uploads/movies/20260723/cai-chet-cua-robin-hood-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260723/cai-chet-cua-robin-hood-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Vật lộn với quá khứ sau một đời đầy tội lỗi và đổ máu, Robin Hood bị trọng thương sau trận chiến mà anh tưởng là cuối cùng. Rơi vào tay một người phụ nữ bí ẩn, anh được trao cho một cơ hội chuộc lỗi và tìm kiếm sự cứu rỗi."
     }
 ]
