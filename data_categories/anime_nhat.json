@@ -1,5 +1,17 @@
 [
     {
+        "name": "Thunder 3",
+        "year": 2026,
+        "slug": "thunder-3",
+        "thumb": "https://phimimg.com/uploads/movies/20260710/thunder-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260710/thunder-3-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Là những học sinh cấp hai bình thường đến mức không có gì nổi bật, Pyontaro, Hiroshi và Tsubame bỗng chốc bước chân vào một cuộc phiêu lưu phi thường khi cô em gái nhỏ của Pyontaro đột nhiên mất tích."
+    },
+    {
         "name": "Sự Nghiện Ngập Hoàn Hảo",
         "year": 2026,
         "slug": "su-nghien-ngap-hoan-hao",
@@ -346,17 +358,5 @@
         "total_episodes": "12",
         "country": "Nhật Bản",
         "description": "Araki, Stella và Olga là những học sinh cấp ba bình thường đang sinh sống tại một thành phố bị biến đổi bởi loại Bụi Mebius đầy bí ẩn. Đan xen giữa những buổi cày game, những chuyến đi nhà tắm công cộng và những bước chân lặng lẽ trên đường về nhà, những ngày tháng của họ trôi qua một cách êm đềm — thế nhưng, các công nghệ kỳ lạ cùng tình trạng bất ổn ngày một gia tăng đang bắt đầu âm thầm bóp méo cuộc sống thường nhật của họ."
-    },
-    {
-        "name": "Thunder 3",
-        "year": 2026,
-        "slug": "thunder-3",
-        "thumb": "https://phimimg.com/uploads/movies/20260710/thunder-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260710/thunder-3-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "12",
-        "country": "Nhật Bản",
-        "description": "Là những học sinh cấp hai bình thường đến mức không có gì nổi bật, Pyontaro, Hiroshi và Tsubame bỗng chốc bước chân vào một cuộc phiêu lưu phi thường khi cô em gái nhỏ của Pyontaro đột nhiên mất tích."
     }
 ]
