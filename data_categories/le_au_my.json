@@ -1,5 +1,17 @@
 [
     {
+        "name": "Người Lạ Trong Nhà Tôi",
+        "year": 2025,
+        "slug": "nguoi-la-trong-nha-toi",
+        "thumb": "https://phimimg.com/uploads/movies/20260821/nguoi-la-trong-nha-toi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260821/nguoi-la-trong-nha-toi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Lời tuyên bố của một người đàn ông xa lạ điển trai rằng cô con gái 15 tuổi của một cặp vợ chồng đã bị tráo đổi từ lúc mới sinh đã đẩy gia đình hoàn hảo của họ vào cảnh hỗn loạn, làm hé lộ những bí mật chấn động."
+    },
+    {
         "name": "Rơi Tự Do: Ngày Phán Xét Của Boeing",
         "year": 2026,
         "slug": "roi-tu-do-ngay-phan-xet-cua-boeing",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Khi một kẻ thù tàn nhẫn và không ngờ tới ra tay quá gần với những gì cô trân quý, Kara Zor-El, còn được biết đến với cái tên Supergirl, miễn cưỡng hợp tác với một người đồng hành không ai ngờ tới, bước vào hành trình liên thiên hà đầy sử thi để tìm kiếm sự trả thù và công lý."
-    },
-    {
-        "name": "72 GIỜ",
-        "year": 2026,
-        "slug": "72-gio",
-        "thumb": "https://phimimg.com/uploads/movies/20260724/72-gio-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260724/72-gio-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Để cứu sự nghiệp, vị giám đốc quảng cáo 40 tuổi nọ tham gia cùng một nhóm người tuổi 20 trong bữa tiệc độc thân náo nhiệt tại Miami sau khi họ vô tình thêm nhầm anh vào nhóm chat."
     }
 ]
