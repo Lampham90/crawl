@@ -1,5 +1,17 @@
 [
     {
+        "name": "Tàu Buôn Người",
+        "year": 2026,
+        "slug": "tau-buon-nguoi",
+        "thumb": "https://phimimg.com/uploads/movies/20260821/tau-buon-nguoi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260821/tau-buon-nguoi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Anh",
+        "description": "Mutiny (Tàu buồn người) kể về Cole Reed do Jason Statham thủ vai, sau khi tận mắt chứng kiến ông chủ tỷ phú của mình bị sát hại và bản thân trở thành kẻ thế thân bị vu oan, Cole Reed (Jason Statham) đã đột nhập lên một con tàu chở hàng để bắt đầu hành trình truy tìm sự thật và trả thù cho vị sếp cũ. Tuy nhiên, chuyến đi đơn độc này lại đẩy anh vào nguy hiểm khi Cole vô tình bóc trần một âm mưu quốc tế quy mô và cực kỳ nguy hiểm."
+    },
+    {
         "name": "Người Lạ Trong Nhà Tôi",
         "year": 2025,
         "slug": "nguoi-la-trong-nha-toi",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Thị trường dự đoán cho phép ai cũng có thể đặt cược bất cứ điều gì, từ World Cup đến cuộc xâm lược của người ngoài hành tinh. \"Instadocs\" điều tra sự bùng nổ của cá cược toàn cầu."
-    },
-    {
-        "name": "Nữ Siêu Nhân",
-        "year": 2026,
-        "slug": "nu-sieu-nhan-2026",
-        "thumb": "https://phimimg.com/uploads/movies/20260727/nu-sieu-nhan-2026-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260727/nu-sieu-nhan-2026-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Khi một kẻ thù tàn nhẫn và không ngờ tới ra tay quá gần với những gì cô trân quý, Kara Zor-El, còn được biết đến với cái tên Supergirl, miễn cưỡng hợp tác với một người đồng hành không ai ngờ tới, bước vào hành trình liên thiên hà đầy sử thi để tìm kiếm sự trả thù và công lý."
     }
 ]

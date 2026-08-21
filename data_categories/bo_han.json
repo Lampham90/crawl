@@ -1,5 +1,17 @@
 [
     {
+        "name": "Ừ Thì Ly Hôn!",
+        "year": 2026,
+        "slug": "u-thi-ly-hon",
+        "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
+    },
+    {
         "name": "Đạo Quật Vương (Vua Trộm Mộ)",
         "year": 2026,
         "slug": "dao-quat-vuong-vua-trom-mo",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Hàn Quốc",
         "description": "Mười lăm năm trước, một vụ giết người tàn bạo đã kéo hai cậu bé vào địa ngục. Một người trở thành con trai của nạn nhân; người kia, lại là con của kẻ sát nhân. Nhiều năm sau, định mệnh đã đưa họ tái ngộ trong vai trò một công tố viên và một điều tra viên. Trong khi chiến đấu chống lại mạng lưới tham nhũng pháp lý và doanh nghiệp khổng lồ, họ phát hiện ra một điều còn nguy hiểm hơn thế: chính là đối phương. Họ là điểm yếu chí mạng — và cũng là sự cứu rỗi duy nhất của nhau."
-    },
-    {
-        "name": "Lời nguyền Đông Cung",
-        "year": 2026,
-        "slug": "loi-nguyen-dong-cung",
-        "thumb": "https://phimimg.com/uploads/movies/20260718/loi-nguyen-dong-cung-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260718/loi-nguyen-dong-cung-phan-1-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Hàn Quốc",
-        "description": "Một nam nhân có thể bước vào thế giới linh hồn và một cung nữ có thể nghe thấy người chết đến Đông Cung theo lệnh vua. Liệu họ có thể vén màn những bí mật đen tối ở đây?"
     }
 ]
