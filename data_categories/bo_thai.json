@@ -1,5 +1,29 @@
 [
     {
+        "name": "Tám Tay Lừa Đảo",
+        "year": 2026,
+        "slug": "tam-tay-lua-dao",
+        "thumb": "https://phimimg.com/upload/vod/20260619-1/9e93d64325569582ddae5c844a3c1d4d.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260702-1/662375d82c0df6023d38812cb33f4661.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (19/19)",
+        "total_episodes": "19",
+        "country": "Thái Lan",
+        "description": "Miễn cưỡng liên thủ, tám tay lừa đảo toan thực hiện phi vụ nguy hiểm nhất từ trước đến nay: lừa chính những tên tội phạm đứng sau một mạng lưới lừa đảo ngầm khổng lồ."
+    },
+    {
+        "name": "Giang Hồ Bangkok",
+        "year": 2026,
+        "slug": "giang-ho-bangkok",
+        "thumb": "https://phimimg.com/uploads/movies/20260813/giang-ho-bangkok-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260813/giang-ho-bangkok-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 4",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Lớn lên trong nhà chứa của mẹ Chom, Dang ấp ủ ước mơ trở thành cảnh sát để giúp bà thoát khỏi định kiến xã hội. Thế nhưng, số phận trớ trêu lại đưa anh bước vào thế giới Giang Hồ Bangkok. Tình bạn giữa anh với người bạn chí cốt Pu thì bắt đầu rạn nứt vì cuộc tranh giành quyền lực và tình yêu với người đẹp Wanlapha. Khi Pu gia nhập phe đối đầu cũng là lúc Dang khao khát được trở về bên gia đình và người mình yêu. Nhưng sau biết bao sai lầm trong quá khứ, liệu Dang còn cơ hội làm lại từ đầu?"
+    },
+    {
         "name": "Luang Pho Trong Sạch",
         "year": 2026,
         "slug": "luang-pho-trong-sach",
@@ -22,18 +46,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Bị phản bội, Rin gieo lời nguyền để trả thù tình cũ. Nhưng khi lời nguyền ứng nghiệm lên người bạn cùng lớp, cậu phải tìm cách hóa giải mà không để lộ dòng dõi bí mật của mình."
-    },
-    {
-        "name": "Giang Hồ Bangkok",
-        "year": 2026,
-        "slug": "giang-ho-bangkok",
-        "thumb": "https://phimimg.com/uploads/movies/20260813/giang-ho-bangkok-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260813/giang-ho-bangkok-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 3",
-        "total_episodes": "8",
-        "country": "Thái Lan",
-        "description": "Lớn lên trong nhà chứa của mẹ Chom, Dang ấp ủ ước mơ trở thành cảnh sát để giúp bà thoát khỏi định kiến xã hội. Thế nhưng, số phận trớ trêu lại đưa anh bước vào thế giới Giang Hồ Bangkok. Tình bạn giữa anh với người bạn chí cốt Pu thì bắt đầu rạn nứt vì cuộc tranh giành quyền lực và tình yêu với người đẹp Wanlapha. Khi Pu gia nhập phe đối đầu cũng là lúc Dang khao khát được trở về bên gia đình và người mình yêu. Nhưng sau biết bao sai lầm trong quá khứ, liệu Dang còn cơ hội làm lại từ đầu?"
     },
     {
         "name": "Bà Đồng Muifei (Muội Phi)",
@@ -214,18 +226,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Đây là một bộ phim hài lãng mạn vô cùng chữa lành. Chàng streamer game siêu nổi tiếng nhưng độc miệng tên \"Three\" bất ngờ thua trước một người chơi mới thanh thuần tên \"Soh\" ngay trên sóng livestream. Chuyện vốn dĩ bắt đầu từ một cuộc đi \"Tìm kiếm đối thủ cạnh tranh\" lại bất ngờ biến thành hành trình \"Tình cờ gặp gỡ tình yêu\". Người tưởng chừng như chỉ biết \"quấy rối tinh thần\" lại chính là người \"làm trái tim rung động\". Trên con đường theo đuổi ước mơ eSports, họ không chỉ phải đối mặt với thử thách từ các trận đấu game mà còn phải học cách đối diện với thứ tình cảm không thể dễ dàng nhấn nút \"khởi động lại\"."
-    },
-    {
-        "name": "Tám Tay Lừa Đảo",
-        "year": 2026,
-        "slug": "tam-tay-lua-dao",
-        "thumb": "https://phimimg.com/upload/vod/20260619-1/9e93d64325569582ddae5c844a3c1d4d.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260702-1/662375d82c0df6023d38812cb33f4661.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 17",
-        "total_episodes": "19",
-        "country": "Thái Lan",
-        "description": "Miễn cưỡng liên thủ, tám tay lừa đảo toan thực hiện phi vụ nguy hiểm nhất từ trước đến nay: lừa chính những tên tội phạm đứng sau một mạng lưới lừa đảo ngầm khổng lồ."
     },
     {
         "name": "San Hô Đen",
