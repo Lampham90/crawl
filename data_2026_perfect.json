@@ -547,6 +547,18 @@
     ],
     "phim_chieu_rap": [
         {
+            "name": "Anh Hùng",
+            "year": 2026,
+            "slug": "anh-hung-2026",
+            "thumb": "https://phimimg.com/uploads/movies/20260821/anh-hung-2026-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260821/anh-hung-2026-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Việt Nam",
+            "description": "Câu chuyện phim theo chân Hùng (Thái Hòa) - người cha đơn thân kiêm tài xế taxi và đồng nghiệp hãng xe là Tuấn (Võ Tấn Phát) bị cuốn vào một phi vụ lừa đảo từ thiện tiền tỉ trong khi sinh mạng cô con gái nhỏ của anh đang nằm gọn trong tay tử thần."
+        },
+        {
             "name": "Ánh Dương Của Mẹ",
             "year": 2025,
             "slug": "anh-duong-cua-me",
@@ -713,21 +725,21 @@
             "total_episodes": "1",
             "country": "Nhật Bản",
             "description": "Trên những ngọn núi tuyết của Nagano, một vụ án bí ẩn đã đưa Conan và các thám tử quay trở lại quá khứ. Thanh tra Yamato Kansuke - người đã bị thương nặng trong một trận tuyết lở nhiều năm trước - bất ngờ phải đối mặt với những ký ức đau thương của mình trong khi điều tra một vụ tấn công tại Đài quan sát Nobeyama. Cùng lúc đó, Mori Kogoro nhận được một cuộc gọi từ một đồng nghiệp cũ, tiết lộ mối liên hệ đáng ngờ giữa anh ta và vụ án đã bị lãng quên từ lâu. Sự xuất hiện của Morofushi Takaaki, cùng với những nhân vật chủ chốt như Amuro Tooru, Kazami và cảnh sát Tokyo, càng làm phức tạp thêm cuộc điều tra. Khi quá khứ và hiện tại đan xen, một bí ẩn rùng rợn dần dần được hé lộ - và ký ức của Kansuke nắm giữ chìa khóa cho mọi thứ."
-        },
-        {
-            "name": "Sử Thi Odyssey",
-            "year": 2026,
-            "slug": "su-thi-odyssey",
-            "thumb": "https://phimimg.com/uploads/movies/20260731/su-thi-odyssey-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260731/su-thi-odyssey-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Anh",
-            "description": "Câu chuyện theo chân Odysseus trong hành trình kéo dài 10 năm trở về nhà sau cuộc chiến thành Troy, nơi ông phải đối mặt với các vị thần, quái vật và vô vàn thử thách, đồng thời nỗ lực đoàn tụ với vợ và giành lại vương quốc của mình."
         }
     ],
     "le_vn": [
+        {
+            "name": "Anh Hùng",
+            "year": 2026,
+            "slug": "anh-hung-2026",
+            "thumb": "https://phimimg.com/uploads/movies/20260821/anh-hung-2026-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260821/anh-hung-2026-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Việt Nam",
+            "description": "Câu chuyện phim theo chân Hùng (Thái Hòa) - người cha đơn thân kiêm tài xế taxi và đồng nghiệp hãng xe là Tuấn (Võ Tấn Phát) bị cuốn vào một phi vụ lừa đảo từ thiện tiền tỉ trong khi sinh mạng cô con gái nhỏ của anh đang nằm gọn trong tay tử thần."
+        },
         {
             "name": "Quỷ Nhập Tràng 2",
             "year": 2026,
@@ -895,18 +907,6 @@
             "total_episodes": "1",
             "country": "Việt Nam",
             "description": "Lấy cảm hứng từ những ký ức tuổi thơ ngọt ngào, “Cục Vàng Của Ngoại” kể câu chuyện ấm áp về tình bà cháu trong một xóm nhỏ đầy nghĩa tình. Bà Hậu – người phụ nữ cả đời tần tảo – trở thành chỗ dựa duy nhất của cháu ngoại khi con gái bỏ đi. Dẫu cuộc sống còn nhiều nhọc nhằn, tình thương bà dành cho cháu vẫn trọn vẹn, đưa khán giả trở về những khoảnh khắc đời thường: nụ cười hồn nhiên của trẻ, vòng tay chở che của bà, và sự đùm bọc của hàng xóm. Một bức tranh tuổi thơ bình yên, ấm áp và chan chứa tình người."
-        },
-        {
-            "name": "Thiên Đường Máu",
-            "year": 2025,
-            "slug": "thien-duong-mau",
-            "thumb": "https://phimimg.com/upload/vod/20260320-1/e7ef2b7b1b6b0b235f8c8999b98a7d8a.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260320-1/c68d804cbd9fbd4026e3c387d7736095.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Việt Nam",
-            "description": "Thiên Đường Máu là phim điện ảnh đầu tiên về nạn lừa đảo người Việt ra nước ngoài. Tin lời hứa &quot;việc nhẹ lương cao&quot;, không ít thanh niên bị đưa đến những &quot;đặc khu&quot;, nơi họ trải qua cảnh giam lỏng và bị ép buộc phải gọi điện để lừa ngược lại chính đồng bào mình. Nhiều người trong số đó đã tìm cách đào thoát khỏi địa ngục mà họ đã trót dấn thân vào"
         }
     ],
     "bo_vn": [
@@ -2913,16 +2913,16 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Ánh Dương Của Mẹ",
-            "year": 2025,
-            "slug": "anh-duong-cua-me",
-            "thumb": "https://phimimg.com/uploads/movies/20260821/anh-duong-cua-me-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260821/anh-duong-cua-me-poster.webp",
+            "name": "Anh Hùng",
+            "year": 2026,
+            "slug": "anh-hung-2026",
+            "thumb": "https://phimimg.com/uploads/movies/20260821/anh-hung-2026-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260821/anh-hung-2026-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Đài Loan",
-            "description": "Trong không gian ngột ngạt của một nhà tù nữ, một mầm sống mới đã nảy mầm: một bé gái chào đời giữa tiếng hát mừng sinh nhật và vòng tay của bốn nữ tù nhân. Mỗi người phụ nữ ấy đều mang một bản án và một quá khứ đầy vết sẹo, nhưng sự xuất hiện của đứa trẻ đã trở thành tia sáng duy nhất sưởi ấm tâm hồn họ. Mọi chuyện trở nên xáo trộn khi một tù nhân mới đầy nổi loạn gia nhập nhóm. Từ những va chạm, mâu thuẫn nảy lửa ban đầu, sự hiện diện ngây thơ của bé gái đã dần xóa tan khoảng cách, biến những con người xa lạ thành một gia đình đặc biệt. Hạnh phúc ngắn chẳng được bao lâu khi đứa trẻ được chẩn đoán mắc một căn bệnh hiểm nghèo về mắt, đe dọa sẽ lấy đi ánh sáng vĩnh viễn. Để dành tặng em một kỷ niệm cuối cùng thật trọn vẹn, những người mẹ \"không cùng huyết thống\" đã quyết định thành lập một dàn đồng ca ngay sau song sắt."
+            "country": "Việt Nam",
+            "description": "Câu chuyện phim theo chân Hùng (Thái Hòa) - người cha đơn thân kiêm tài xế taxi và đồng nghiệp hãng xe là Tuấn (Võ Tấn Phát) bị cuốn vào một phi vụ lừa đảo từ thiện tiền tỉ trong khi sinh mạng cô con gái nhỏ của anh đang nằm gọn trong tay tử thần."
         },
         {
             "name": "Trọng Khí",
@@ -2973,16 +2973,16 @@
             "description": "Jack Reacher 2022: Phát Súng Cuối Cùng, kể về câu chuyện của Jack Reacher, một cựu cảnh sát hình sự, bị vướng vào một âm mưu vu oan to lớn, được thực hiện bởi một nhóm cảnh sát, doanh nhân lẫn chính trị gia biến chất. Reacher và vợ sẽ phải làm gì để thoát khỏi âm mưu này, nhất là sau cái chết của người anh mình?"
         },
         {
-            "name": "Tàu Buôn Người",
-            "year": 2026,
-            "slug": "tau-buon-nguoi",
-            "thumb": "https://phimimg.com/uploads/movies/20260821/tau-buon-nguoi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260821/tau-buon-nguoi-poster.webp",
+            "name": "Ánh Dương Của Mẹ",
+            "year": 2025,
+            "slug": "anh-duong-cua-me",
+            "thumb": "https://phimimg.com/uploads/movies/20260821/anh-duong-cua-me-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260821/anh-duong-cua-me-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Anh",
-            "description": "Mutiny (Tàu buồn người) kể về Cole Reed do Jason Statham thủ vai, sau khi tận mắt chứng kiến ông chủ tỷ phú của mình bị sát hại và bản thân trở thành kẻ thế thân bị vu oan, Cole Reed (Jason Statham) đã đột nhập lên một con tàu chở hàng để bắt đầu hành trình truy tìm sự thật và trả thù cho vị sếp cũ. Tuy nhiên, chuyến đi đơn độc này lại đẩy anh vào nguy hiểm khi Cole vô tình bóc trần một âm mưu quốc tế quy mô và cực kỳ nguy hiểm."
+            "country": "Đài Loan",
+            "description": "Trong không gian ngột ngạt của một nhà tù nữ, một mầm sống mới đã nảy mầm: một bé gái chào đời giữa tiếng hát mừng sinh nhật và vòng tay của bốn nữ tù nhân. Mỗi người phụ nữ ấy đều mang một bản án và một quá khứ đầy vết sẹo, nhưng sự xuất hiện của đứa trẻ đã trở thành tia sáng duy nhất sưởi ấm tâm hồn họ. Mọi chuyện trở nên xáo trộn khi một tù nhân mới đầy nổi loạn gia nhập nhóm. Từ những va chạm, mâu thuẫn nảy lửa ban đầu, sự hiện diện ngây thơ của bé gái đã dần xóa tan khoảng cách, biến những con người xa lạ thành một gia đình đặc biệt. Hạnh phúc ngắn chẳng được bao lâu khi đứa trẻ được chẩn đoán mắc một căn bệnh hiểm nghèo về mắt, đe dọa sẽ lấy đi ánh sáng vĩnh viễn. Để dành tặng em một kỷ niệm cuối cùng thật trọn vẹn, những người mẹ \"không cùng huyết thống\" đã quyết định thành lập một dàn đồng ca ngay sau song sắt."
         },
         {
             "name": "Sự Tái Sinh Của Nàng",
@@ -3033,16 +3033,16 @@
             "description": "Một cựu tội phạm đã hoàn lương buộc phải đối mặt với quá khứ và quay trở lại các hoạt động bất hợp pháp cho một phi vụ cuối cùng, với hy vọng giành được tự do và chấm dứt cuộc sống cũ mãi mãi."
         },
         {
-            "name": "Quỷ Nhập Tràng 2",
+            "name": "Tàu Buôn Người",
             "year": 2026,
-            "slug": "quy-nhap-trang-2",
-            "thumb": "https://phimimg.com/upload/vod/20260505-1/cbc5286fb860a0c8aaf625058869d6fe.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260505-1/ffbe96cdfc4d8a0c2551286a019fe36b.jpg",
+            "slug": "tau-buon-nguoi",
+            "thumb": "https://phimimg.com/uploads/movies/20260821/tau-buon-nguoi-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260821/tau-buon-nguoi-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Việt Nam",
-            "description": "Quỷ Nhập Tràng 2 là tiền truyện của nhân vật Minh Như, trở về xưởng nhuộm gia đình sau nhiều năm bị xua đuổi. Tại đây, cô phải đối mặt với những hiện tượng ma quái cùng sự thật tàn khốc về cái chết của mẹ và giao ước đẫm máu năm xưa. Ác giả ác báo, liệu Minh Như có thoát khỏi vòng vây của quỷ dữ?"
+            "country": "Anh",
+            "description": "Mutiny (Tàu buồn người) kể về Cole Reed do Jason Statham thủ vai, sau khi tận mắt chứng kiến ông chủ tỷ phú của mình bị sát hại và bản thân trở thành kẻ thế thân bị vu oan, Cole Reed (Jason Statham) đã đột nhập lên một con tàu chở hàng để bắt đầu hành trình truy tìm sự thật và trả thù cho vị sếp cũ. Tuy nhiên, chuyến đi đơn độc này lại đẩy anh vào nguy hiểm khi Cole vô tình bóc trần một âm mưu quốc tế quy mô và cực kỳ nguy hiểm."
         },
         {
             "name": "Những Năm Ta Là Đệ Nhất Tầm Long",
