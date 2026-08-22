@@ -1,12 +1,24 @@
 [
     {
+        "name": "Phù Sa",
+        "year": 2026,
+        "slug": "phu-sa",
+        "thumb": "https://phimimg.com/uploads/movies/20260819/phu-sa-thumb.webp",
+        "poster": "https://i.ex-cdn.com/danviet.vn/files/content/2026/08/13/final--poster-phu-sa-1012.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "35",
+        "country": "Việt Nam",
+        "description": "Câu chuyện bắt đầu tại xóm Bình Hòa ven sông Tiền, nơi những vụ sạt lở liên tiếp khiến nhà cửa, vườn tược đứng trước nguy cơ biến mất. Người dân hoang mang, những lời đồn về đất đai mất giá xuất hiện, cò đất lảng vảng và ngày càng nhiều gia đình nghĩ tới chuyện bán đất, rời quê. Đúng lúc ấy, Phù Sa (diễn viên Trúc Mây) từ thành phố trở về mang theo một kế hoạch đầy tham vọng: Nâng giá trị cây ca cao, tạo ra sản phẩm của Bình Hòa và từ đó mở thêm sinh kế cho người dân."
+    },
+    {
         "name": "Lửa Trắng",
         "year": 2026,
         "slug": "lua-trang-2026",
         "thumb": "https://phimimg.com/upload/vod/20260620-1/3e4a5707b7b1cd0e9e4fcee32e630cf1.jpg",
         "poster": "https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 19",
+        "current_episode": "Tập 20",
         "total_episodes": "20",
         "country": "Việt Nam",
         "description": "Phim xoay quanh cuộc chiến chống tội phạm ma túy trong thời đại công nghệ số. Một loại ma túy mới mang tên &quot;Bụi Trắng&quot; được ngụy trang dưới nhiều vỏ bọc hợp pháp và lan rộng qua mạng xã hội, livestream và giới giải trí. Lực lượng công an phải đối đầu với các đường dây tội phạm ngày càng tinh vi để triệt phá tổ chức đứng sau."
@@ -22,18 +34,6 @@
         "total_episodes": "12",
         "country": "Việt Nam",
         "description": "Yêu Em Như Ngày Đầu Tiên xoay quanh cuộc đời đầy biến động của Hoàng Kim, một cô gái hiếu thảo nhưng số phận bi thảm. Để có tiền cứu mẹ ruột đang mắc bệnh hiểm nghèo, Hoàng Kim chấp nhận thay con gái của mẹ kế cưới Hòa Phong, một chàng trai nhà giàu tài giỏi đang nằm liệt giường trong trạng thái thực vật do bị đầu độc. Về làm dâu nhà họ Hòa, cô liên tục bị nhà chồng hãm hại và ức hiếp cho đến khi Hòa Phong bất ngờ tỉnh lại. Trong quá trình điều tra kẻ đã đầu độc mình, Hòa Phong bắt đầu nảy sinh tình cảm thật sự với cô vợ hợp đồng Hoàng Kim."
-    },
-    {
-        "name": "Phù Sa",
-        "year": 2026,
-        "slug": "phu-sa",
-        "thumb": "https://phimimg.com/uploads/movies/20260819/phu-sa-thumb.webp",
-        "poster": "https://i.ex-cdn.com/danviet.vn/files/content/2026/08/13/final--poster-phu-sa-1012.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "35",
-        "country": "Việt Nam",
-        "description": "Câu chuyện bắt đầu tại xóm Bình Hòa ven sông Tiền, nơi những vụ sạt lở liên tiếp khiến nhà cửa, vườn tược đứng trước nguy cơ biến mất. Người dân hoang mang, những lời đồn về đất đai mất giá xuất hiện, cò đất lảng vảng và ngày càng nhiều gia đình nghĩ tới chuyện bán đất, rời quê. Đúng lúc ấy, Phù Sa (diễn viên Trúc Mây) từ thành phố trở về mang theo một kế hoạch đầy tham vọng: Nâng giá trị cây ca cao, tạo ra sản phẩm của Bình Hòa và từ đó mở thêm sinh kế cho người dân."
     },
     {
         "name": "Mùa Hè Năm Ấy",

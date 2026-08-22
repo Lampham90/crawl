@@ -1,5 +1,53 @@
 [
     {
+        "name": "Vẽ Nên Giấc Mơ Ngày Cưới",
+        "year": 2026,
+        "slug": "ve-nen-giac-mo-ngay-cuoi",
+        "thumb": "https://phimimg.com/upload/vod/20260620-1/d61fcd20fba7e8b05fc0846bf1562be6.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260620-1/4e75731d01ce9578582f65d9b21fb276.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 10",
+        "total_episodes": "12",
+        "country": "Thái Lan",
+        "description": "Dù vẫn còn tình cảm với nhau nhưng bị mẹ của Runch chia cắt, hai người phụ nữ phải giả vờ rằng cuộc hôn nhân của họ vẫn hạnh phúc để hoàn tất một thương vụ kinh doanh quan trọng."
+    },
+    {
+        "name": "Luang Pho Trong Sạch",
+        "year": 2026,
+        "slug": "luang-pho-trong-sach",
+        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 15",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
+    },
+    {
+        "name": "Hội Chứng Mê Bạn Cùng Lớp",
+        "year": 2026,
+        "slug": "hoi-chung-me-ban-cung-lop",
+        "thumb": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Chuyển đến trường cấp ba hàng đầu, chàng trai nuôi mộng trở thành ngôi sao nhạc rock Leerit thề sẽ tránh xa chuyện yêu đương, nhưng nhanh chóng đổi ý khi gặp bạn cùng phòng mới."
+    },
+    {
+        "name": "Đừng Xin Anh Jane",
+        "year": 2026,
+        "slug": "dung-xin-anh-jane",
+        "thumb": "https://phimimg.com/upload/vod/20260628-1/a95d26463927cbc3490db630c8f8f16a.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260628-1/579b51f4dd34a72eb28ee9ab9e2c57ca.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 9",
+        "total_episodes": "12",
+        "country": "Thái Lan",
+        "description": "Một cầu thủ bóng đá kết bạn với một thực thể ban điều ước đầy bí ẩn, nhưng những món quà nguy hiểm từ thực thể này lại che giấu những bí mật đen tối, vô tình kéo hai người lại gần nhau hơn."
+    },
+    {
         "name": "Hãy Là Người Chơi Thứ Hai Của Tôi",
         "year": 2026,
         "slug": "hay-la-nguoi-choi-thu-hai-cua-toi",
@@ -46,18 +94,6 @@
         "total_episodes": "8",
         "country": "Thái Lan",
         "description": "Lớn lên trong nhà chứa của mẹ Chom, Dang ấp ủ ước mơ trở thành cảnh sát để giúp bà thoát khỏi định kiến xã hội. Thế nhưng, số phận trớ trêu lại đưa anh bước vào thế giới Giang Hồ Bangkok. Tình bạn giữa anh với người bạn chí cốt Pu thì bắt đầu rạn nứt vì cuộc tranh giành quyền lực và tình yêu với người đẹp Wanlapha. Khi Pu gia nhập phe đối đầu cũng là lúc Dang khao khát được trở về bên gia đình và người mình yêu. Nhưng sau biết bao sai lầm trong quá khứ, liệu Dang còn cơ hội làm lại từ đầu?"
-    },
-    {
-        "name": "Luang Pho Trong Sạch",
-        "year": 2026,
-        "slug": "luang-pho-trong-sach",
-        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 14",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
     },
     {
         "name": "Người Yêu Xui Xẻo",
@@ -192,18 +228,6 @@
         "description": "Tại vùng đất phương Nam, \"Fai\" Atchima Watinwanich có dịp tái ngộ với người đối đầu cũ của mình là \"Kaprao\" Athitaya Thitsama — một cuộc gặp gỡ có thể thắp lên ngọn lửa tình yêu hoặc sẽ lại vạch trần những vết thương cũ chưa lành."
     },
     {
-        "name": "Hội Chứng Mê Bạn Cùng Lớp",
-        "year": 2026,
-        "slug": "hoi-chung-me-ban-cung-lop",
-        "thumb": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "8",
-        "country": "Thái Lan",
-        "description": "Chuyển đến trường cấp ba hàng đầu, chàng trai nuôi mộng trở thành ngôi sao nhạc rock Leerit thề sẽ tránh xa chuyện yêu đương, nhưng nhanh chóng đổi ý khi gặp bạn cùng phòng mới."
-    },
-    {
         "name": "GELBOYS (Phần 2)",
         "year": 2025,
         "slug": "gelboys-phan-2",
@@ -214,30 +238,6 @@
         "total_episodes": "8",
         "country": "Thái Lan",
         "description": "Câu chuyện bắt đầu khi Fourmod, một chàng trai17 tuổi đại diện cho thế hệ Gen Z trong lĩnh vực thời trang, tự tin và thích phiêu lưu, kết nối với Chien, một nhạc sĩ trung học phổ thông, thông qua việc làm móng gel. Chien, một chàng trai vui tính, thường trêu chọc Fourmod để thu hút sự chú ý của cậu. Nhưng ngay khi Fourmod thể hiện sự quan tâm, Chien lại lảng tránh, khiến Fourmod bối rối. Thực tế, Chien đang có Neon, một nam sinh cấp hai nổi tiếng, người chỉ là một trong những mối quan hệ thoáng qua của Chien.Cảm thấy bị thách thức, Fourmod tìm sự giúp đỡ từ người bạn thân Babin, một chàng trai tốt bụng nhưng tinh nghịch, để thu hút sự chú ý của Chien. Trong khi đó, Babin cũng cố gắng kết nối với Neon để giúp đỡ, nhưng hóa ra cả hai vô tình phát triển tình cảm với nhau. Điều này làm phức tạp mối quan hệ của cả bốn người, khiến mọi chuyện trở nên khó giải quyết hơn."
-    },
-    {
-        "name": "Vẽ Nên Giấc Mơ Ngày Cưới",
-        "year": 2026,
-        "slug": "ve-nen-giac-mo-ngay-cuoi",
-        "thumb": "https://phimimg.com/upload/vod/20260620-1/d61fcd20fba7e8b05fc0846bf1562be6.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260620-1/4e75731d01ce9578582f65d9b21fb276.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Dù vẫn còn tình cảm với nhau nhưng bị mẹ của Runch chia cắt, hai người phụ nữ phải giả vờ rằng cuộc hôn nhân của họ vẫn hạnh phúc để hoàn tất một thương vụ kinh doanh quan trọng."
-    },
-    {
-        "name": "Đừng Xin Anh Jane",
-        "year": 2026,
-        "slug": "dung-xin-anh-jane",
-        "thumb": "https://phimimg.com/upload/vod/20260628-1/a95d26463927cbc3490db630c8f8f16a.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260628-1/579b51f4dd34a72eb28ee9ab9e2c57ca.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Một cầu thủ bóng đá kết bạn với một thực thể ban điều ước đầy bí ẩn, nhưng những món quà nguy hiểm từ thực thể này lại che giấu những bí mật đen tối, vô tình kéo hai người lại gần nhau hơn."
     },
     {
         "name": "San Hô Đen",

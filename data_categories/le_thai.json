@@ -1,5 +1,17 @@
 [
     {
+        "name": "Chompoo: Lạc Lối Và Lãng Quên",
+        "year": 2026,
+        "slug": "chompoo-lac-loi-va-lang-quen",
+        "thumb": "https://phimimg.com/uploads/movies/20260822/chompoo-lac-loi-va-lang-quen-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260822/chompoo-lac-loi-va-lang-quen-poster-2.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Thái Lan",
+        "description": "Bộ phim tài liệu mổ xẻ vụ một đứa trẻ mất tích ở Thái Lan. Vụ việc thu hút dư luận cả nước, đưa nghi phạm thành người nổi tiếng và biến bi kịch thành chương trình TV giờ vàng."
+    },
+    {
         "name": "Giai Điệu Mor Lam",
         "year": 2026,
         "slug": "giai-dieu-mor-lam",
@@ -318,17 +330,6 @@
         "slug": "halabala-rung-ma-te-xac",
         "thumb": "https://phimimg.com/upload/vod/20250813-1/a6d8846f1466a45654dea239b4897494.jpg",
         "poster": "https://phimimg.com/upload/vod/20250813-1/d4338f3a48a12ac9ed9cbea0ab13f1c9.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "thai-lan"
-    },
-    {
-        "name": "Buôn Thần Bán Thánh",
-        "year": 2025,
-        "slug": "buon-than-ban-thanh",
-        "thumb": "https://phimimg.com/upload/vod/20250802-1/0670fdfcd319742ffe5d0e4e052aa6ca.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250802-1/b708aed633e711044c5911a896aea65a.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",
