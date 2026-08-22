@@ -1,5 +1,17 @@
 [
     {
+        "name": "Bí Mật Bị Vùi Lấp (Phần 5)",
+        "year": 2026,
+        "slug": "bi-mat-bi-vui-lap-phan-5",
+        "thumb": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-5-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-5-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Trên hòn đảo mà kẻ thì giàu có, người lại nghèo khó ở Bắc Carolina, John B và hội bạn thân khám phá bí ẩn và phiêu lưu trong khi truy tìm kho báu mất tích."
+    },
+    {
         "name": "Chiến Binh Ánh Sáng TEO",
         "year": 2026,
         "slug": "chien-binh-anh-sang-teo",
@@ -397,27 +409,5 @@
         "sub_type": "Vietsub + Thuyết Minh + Lồng Tiếng",
         "current_episode": "Hoàn Tất (40/40)",
         "total_episodes": "40"
-    },
-    {
-        "name": "Siêu Anh Hùng Phá Hoại (Phần 5)",
-        "year": 2026,
-        "slug": "sieu-anh-hung-pha-hoai-phan-5",
-        "thumb": "https://phimimg.com/upload/vod/20260408-1/13482a7245be0124f084a1fcd1793a19.jpg",
-        "actor": [
-            "Karl Urban",
-            "Jack Quaid",
-            "Antony Starr",
-            "Erin Moriarty",
-            "Jessie T. Usher",
-            "Laz Alonso",
-            "Chace Crawford",
-            "Tomer Capone",
-            "Karen Fukuhara",
-            "Nathan Mitchell",
-            "Jensen Ackles"
-        ],
-        "sub_type": "Vietsub + Lồng Tiếng",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8"
     }
 ]

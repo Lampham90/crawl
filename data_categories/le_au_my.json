@@ -1,5 +1,29 @@
 [
     {
+        "name": "Nuôi Dưỡng",
+        "year": 2026,
+        "slug": "nuoi-duong",
+        "thumb": "https://phimimg.com/uploads/movies/20260822/nuoi-duong-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260822/nuoi-duong-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "IE",
+        "description": "Câu chuyện theo chân một nhóm khoảng năm đến sáu nhà sáng tạo nội dung, người có ảnh hưởng trên mạng xã hội (social media influencers) cùng nhau đến một căn biệt thự/khu nghỉ dưỡng biệt lập ở vùng nông thôn Ireland để nghỉ ngơi, làm việc và tổ chức một buổi can thiệp tinh thần nhằm giúp đỡ cô nàng đang đau buồn vì mất người thân tên là Orla."
+    },
+    {
+        "name": "Bí Mật Đen Tối",
+        "year": 2025,
+        "slug": "bi-mat-den-toi",
+        "thumb": "https://phimimg.com/uploads/movies/20260822/bi-mat-den-toi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260822/bi-mat-den-toi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Phim theo chân Chris Davis (Austin North) – một công nhân giàn khoan dầu trẻ tuổi cùng chú chó cứu hộ của mình đang lái xe vượt tiểu bang để đến dự lễ cưới mà anh hằng mong đợi. Tuy nhiên, chuyến đi vui vẻ nhanh chóng biến thành cơn ác mộng khi họ bị tấn công dã man tại một trạm dừng chân ven đường vắng vẻ."
+    },
+    {
         "name": "Tàu Buôn Người",
         "year": 2026,
         "slug": "tau-buon-nguoi",
@@ -334,29 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Khi vợ chốt được một thương vụ trên Shark Tank, Nate trở thành ông bố nội trợ của ba cô con gái. Hành trình đầy tiếng cười giúp anh khám phá ý nghĩa thực sự của gia đình."
-    },
-    {
-        "name": "Con Cừu Đen",
-        "year": 2025,
-        "slug": "con-cuu-den",
-        "thumb": "https://phimimg.com/upload/vod/20251129-1/f4b782d7e7105df50682f16554fb978e.jpg",
-        "poster": "https://phimimg.com/upload/vod/20251129-1/753cc2cae8dd0d25f2fcda75cfcea414.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Anh",
-        "description": "Được chẩn đoán mắc Hội chứng Tourette ở tuổi 15, John Davidson phải đối mặt với vô vàn khó khăn trong những năm tháng tuổi teen đầy biến động và hành trình bước vào tuổi trưởng thành. Trên con đường ấy, anh tìm thấy cảm hứng từ lòng tốt của những người xung quanh để khám phá ý nghĩa thật sự của cuộc đời mình."
-    },
-    {
-        "name": "Instadocs: Trò Chơi Dự Đoán",
-        "year": 2026,
-        "slug": "instadocs-tro-choi-du-doan",
-        "thumb": "https://phimimg.com/uploads/movies/20260728/instadocs-tro-choi-du-doan-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260728/instadocs-tro-choi-du-doan-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Thị trường dự đoán cho phép ai cũng có thể đặt cược bất cứ điều gì, từ World Cup đến cuộc xâm lược của người ngoài hành tinh. \"Instadocs\" điều tra sự bùng nổ của cá cược toàn cầu."
     }
 ]
