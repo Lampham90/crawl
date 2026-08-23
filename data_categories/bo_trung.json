@@ -1,5 +1,17 @@
 [
     {
+        "name": "Tội Ái",
+        "year": 2026,
+        "slug": "toi-ai",
+        "thumb": "https://phimimg.com/uploads/movies/20260822/toi-ai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260822/toi-ai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 16",
+        "total_episodes": "24",
+        "country": "Trung Quốc",
+        "description": "Cuộc đời của nữ diễn viên Wen Jia Nan (do Hà Lam Đậu thủ vai) sụp đổ chỉ sau một đêm. Sau khi vô tình chứng kiến cha mình, He Mu, gây ra một vụ giết người tại dinh thự cũ của gia đình, cô hoảng loạn bỏ chạy nhưng lại bị dàn dựng thành một vụ tai nạn xe hơi, rồi bị chính mẹ đẻ của mình hãm hại và tống giam vào một viện điều dưỡng. Danh tiếng tan thành mây khói, cô mất tất cả mọi thứ trong chớp mắt."
+    },
+    {
         "name": "Ve Sầu",
         "year": 2026,
         "slug": "ve-sau",
@@ -118,18 +130,6 @@
         "total_episodes": "16",
         "country": "Thái Lan",
         "description": "Tìm nơi ẩn náu giữa vùng núi non đại ngàn, một nam diễn viên nổi tiếng đã phải lòng một cô gái trồng trà, nơi tình yêu ngọt ngào nở rộ giữa hai thế giới hoàn toàn khác biệt."
-    },
-    {
-        "name": "Tội Ái",
-        "year": 2026,
-        "slug": "toi-ai",
-        "thumb": "https://phimimg.com/uploads/movies/20260822/toi-ai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260822/toi-ai-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 14",
-        "total_episodes": "24",
-        "country": "Trung Quốc",
-        "description": "Cuộc đời của nữ diễn viên Wen Jia Nan (do Hà Lam Đậu thủ vai) sụp đổ chỉ sau một đêm. Sau khi vô tình chứng kiến cha mình, He Mu, gây ra một vụ giết người tại dinh thự cũ của gia đình, cô hoảng loạn bỏ chạy nhưng lại bị dàn dựng thành một vụ tai nạn xe hơi, rồi bị chính mẹ đẻ của mình hãm hại và tống giam vào một viện điều dưỡng. Danh tiếng tan thành mây khói, cô mất tất cả mọi thứ trong chớp mắt."
     },
     {
         "name": "Trọng Khí",
