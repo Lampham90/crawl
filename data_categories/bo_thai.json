@@ -1,5 +1,41 @@
 [
     {
+        "name": "Anh Sam Của Em",
+        "year": 2026,
+        "slug": "anh-sam-cua-em",
+        "thumb": "https://phimimg.com/uploads/movies/20260727/anh-sam-cua-em-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260727/anh-sam-cua-em-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "12",
+        "country": "Thái Lan",
+        "description": "Một thư ký được giao nhiệm vụ đi đưa người em trai bỏ nhà ra đi của sếp mình trở về. Tuy nhiên, trong quá trình tiếp cận, anh lại đem lòng yêu chính người đàn ông đang bị tổn thương vì tình yêu mà mình có nhiệm vụ phải đưa về nhà."
+    },
+    {
+        "name": "Giáo Trình Tình Yêu Bắt Buộc",
+        "year": 2026,
+        "slug": "giao-trinh-tinh-yeu-bat-buoc",
+        "thumb": "https://phimimg.com/uploads/movies/20260818/giao-trinh-tinh-yeu-bat-buoc-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260818/giao-trinh-tinh-yeu-bat-buoc-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "15",
+        "country": "Thái Lan",
+        "description": "Sáu học sinh cùng nhau trải qua những tình cảm đơn phương thầm kín, những lời hứa hẹn năm xưa và những tổn thương tình cảm bất ngờ khi họ bị buộc phải tham gia vào một khóa học bắt buộc của nhà trường về chủ đề tình yêu."
+    },
+    {
+        "name": "Cuộc Chạy Đua Của Tình Và Tiền",
+        "year": 2026,
+        "slug": "cuoc-chay-dua-cua-tinh-va-tien",
+        "thumb": "https://phimimg.com/upload/vod/20260629-1/b8d61d3c356a30941f0548973005b5cc.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260629-1/d9d82ad102c98c4f158d025ed0b81b6b.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 17",
+        "total_episodes": "19",
+        "country": "Thái Lan",
+        "description": "Tình yêu, ước mơ, cuộc sống mưu sinh xoáy vào nhau khi nhóm &quot;Gen Me&quot; đối diện nhịp sống hối hả ở Thái Lan, nơi trưởng thành đánh đổi bằng nước mắt, tình cảm và sự thật nghiệt ngã."
+    },
+    {
         "name": "Xích Tình Rực Lửa",
         "year": 2026,
         "slug": "xich-tinh-ruc-lua",
@@ -22,18 +58,6 @@
         "total_episodes": "8",
         "country": "Thái Lan",
         "description": "Câu chuyện bắt đầu khi Fourmod, một chàng trai17 tuổi đại diện cho thế hệ Gen Z trong lĩnh vực thời trang, tự tin và thích phiêu lưu, kết nối với Chien, một nhạc sĩ trung học phổ thông, thông qua việc làm móng gel. Chien, một chàng trai vui tính, thường trêu chọc Fourmod để thu hút sự chú ý của cậu. Nhưng ngay khi Fourmod thể hiện sự quan tâm, Chien lại lảng tránh, khiến Fourmod bối rối. Thực tế, Chien đang có Neon, một nam sinh cấp hai nổi tiếng, người chỉ là một trong những mối quan hệ thoáng qua của Chien.Cảm thấy bị thách thức, Fourmod tìm sự giúp đỡ từ người bạn thân Babin, một chàng trai tốt bụng nhưng tinh nghịch, để thu hút sự chú ý của Chien. Trong khi đó, Babin cũng cố gắng kết nối với Neon để giúp đỡ, nhưng hóa ra cả hai vô tình phát triển tình cảm với nhau. Điều này làm phức tạp mối quan hệ của cả bốn người, khiến mọi chuyện trở nên khó giải quyết hơn."
-    },
-    {
-        "name": "Cuộc Chạy Đua Của Tình Và Tiền",
-        "year": 2026,
-        "slug": "cuoc-chay-dua-cua-tinh-va-tien",
-        "thumb": "https://phimimg.com/upload/vod/20260629-1/b8d61d3c356a30941f0548973005b5cc.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260629-1/d9d82ad102c98c4f158d025ed0b81b6b.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 16",
-        "total_episodes": "19",
-        "country": "Thái Lan",
-        "description": "Tình yêu, ước mơ, cuộc sống mưu sinh xoáy vào nhau khi nhóm &quot;Gen Me&quot; đối diện nhịp sống hối hả ở Thái Lan, nơi trưởng thành đánh đổi bằng nước mắt, tình cảm và sự thật nghiệt ngã."
     },
     {
         "name": "Manga Sát Lệnh",
@@ -216,18 +240,6 @@
         "description": "Cuộc đời của một chàng trai trẻ đã thay đổi mãi mãi khi anh bị một Alpha quyền năng đánh dấu, buộc chặt định mệnh của cả hai vào một mối liên kết không thể nào trốn chạy."
     },
     {
-        "name": "Giáo Trình Tình Yêu Bắt Buộc",
-        "year": 2026,
-        "slug": "giao-trinh-tinh-yeu-bat-buoc",
-        "thumb": "https://phimimg.com/uploads/movies/20260818/giao-trinh-tinh-yeu-bat-buoc-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260818/giao-trinh-tinh-yeu-bat-buoc-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "15",
-        "country": "Thái Lan",
-        "description": "Sáu học sinh cùng nhau trải qua những tình cảm đơn phương thầm kín, những lời hứa hẹn năm xưa và những tổn thương tình cảm bất ngờ khi họ bị buộc phải tham gia vào một khóa học bắt buộc của nhà trường về chủ đề tình yêu."
-    },
-    {
         "name": "Cú Giao Bóng Tình Yêu",
         "year": 2026,
         "slug": "cu-giao-bong-tinh-yeu",
@@ -238,18 +250,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Cậu bé Sun là một tay vợt tennis hoàn hảo, còn Bay là một chàng trai theo đuổi nghệ thuật, có phong cách sống phóng khoáng. Hai người có cha là kẻ thù không đội trời chung. Gia đình họ cùng sở hữu những nhà hàng dim sum cạnh tranh nhau trên đường Krong Thong: nhà hàng Saming Phon Fai của gia đình Sun mang phong cách truyền thống lâu đời, trong khi Merlion của gia đình Bay là một nhà hàng mới nổi tiếng với món há cảo shumai."
-    },
-    {
-        "name": "Anh Sam Của Em",
-        "year": 2026,
-        "slug": "anh-sam-cua-em",
-        "thumb": "https://phimimg.com/uploads/movies/20260727/anh-sam-cua-em-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260727/anh-sam-cua-em-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Một thư ký được giao nhiệm vụ đi đưa người em trai bỏ nhà ra đi của sếp mình trở về. Tuy nhiên, trong quá trình tiếp cận, anh lại đem lòng yêu chính người đàn ông đang bị tổn thương vì tình yêu mà mình có nhiệm vụ phải đưa về nhà."
     },
     {
         "name": "San Hô Đen",
