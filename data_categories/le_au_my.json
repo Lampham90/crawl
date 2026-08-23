@@ -1,5 +1,17 @@
 [
     {
+        "name": "Cuộc Chiến Ép Cân",
+        "year": 2025,
+        "slug": "cuoc-chien-ep-can",
+        "thumb": "https://phimimg.com/uploads/movies/20260823/cuoc-chien-ep-can-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260823/cuoc-chien-ep-can-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Anh",
+        "description": "Trở lại võ đài sau khi giải nghệ, một cựu võ sĩ quyết tâm chinh phục ngôi vô địch. Nhưng hành trình ép cân tàn khốc mới là đối thủ lớn nhất của anh."
+    },
+    {
         "name": "Nuôi Dưỡng",
         "year": 2026,
         "slug": "nuoi-duong",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Canada",
         "description": "Người dẫn một podcast nổi tiếng về hiện tượng siêu nhiên bắt đầu bị ám ảnh bởi những bản ghi âm kinh hoàng được gửi đến cô một cách bí ẩn. Khi càng đào sâu vào nguồn gốc của các đoạn ghi ấy, ranh giới giữa công việc và nỗi sợ cá nhân dần sụp đổ."
-    },
-    {
-        "name": "Khi Bố Thất Thủ",
-        "year": 2026,
-        "slug": "khi-bo-that-thu",
-        "thumb": "https://phimimg.com/uploads/movies/20260730/khi-bo-that-thu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260730/khi-bo-that-thu-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Khi vợ chốt được một thương vụ trên Shark Tank, Nate trở thành ông bố nội trợ của ba cô con gái. Hành trình đầy tiếng cười giúp anh khám phá ý nghĩa thực sự của gia đình."
     }
 ]
