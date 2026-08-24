@@ -1,5 +1,17 @@
 [
     {
+        "name": "Rick Và Morty (Phần 9)",
+        "year": 2026,
+        "slug": "rick-va-morty-phan-9",
+        "thumb": "https://phimimg.com/upload/vod/20260604-1/56460003fbb5366fc854821a32c228e2.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260604-1/b1c22d42dde3369e0cff0a9ac5e58d0f.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Season 9 tiếp tục sau các sự kiện lớn liên quan đến Evil Morty và sự sụp đổ của Citadel. Khác với một số mùa gần đây thiên về các tập độc lập, mùa này quay trở lại với một cốt truyện xuyên suốt về đa vũ trụ và mối quan hệ phức tạp giữa Rick, Morty và Evil Morty."
+    },
+    {
         "name": "Bí Mật Bị Vùi Lấp (Phần 5)",
         "year": 2026,
         "slug": "bi-mat-bi-vui-lap-phan-5",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Loạt phim hoạt hình này giới thiệu câu chuyện của Peter trong một dòng thời gian tách biệt với vũ trụ điện ảnh chính của Marvel và trước các sự kiện của Captain America: Civil War."
-    },
-    {
-        "name": "Thám Tử Sugar (Phần 2)",
-        "year": 2026,
-        "slug": "tham-tu-sugar-phan-2",
-        "thumb": "https://phimimg.com/upload/vod/20260622-1/b0209bc80e3103ffce7d5fcba5b024de.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260622-1/d6476ee9f35ad61ed03b527097b0f8ff.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Ireland",
-        "description": "Colin Farrell vào vai John Sugar, một thám tử tư hào hoa đang len lỏi qua những góc khuất tăm tối của vùng đất LA đầy nắng. Dù luôn nhìn thấy điểm tốt ở con người, Sugar lại bị ám ảnh bởi một bí mật quá đỗi nguy hiểm để có thể phơi bày."
     }
 ]
