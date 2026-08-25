@@ -1093,6 +1093,18 @@
     ],
     "le_han": [
         {
+            "name": "Ma Tù",
+            "year": 2026,
+            "slug": "ma-tu",
+            "thumb": "https://phimimg.com/uploads/movies/20260826/ma-tu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260826/ma-tu-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Indonesia",
+            "description": "Phim xoay quanh bối cảnh tại một khu biệt giam công nghệ cao bí mật. Nơi đây được thiết kế biệt lập hoàn toàn với thế giới bên ngoài nhằm giam giữ những tù nhân nguy hiểm và thực hiện các cuộc thử nghiệm tâm lý/sinh học quy mô lớn."
+        },
+        {
             "name": "Bầy Xác Sống",
             "year": 2026,
             "slug": "bay-xac-song",
@@ -1259,18 +1271,6 @@
             "total_episodes": "1",
             "country": "Hàn Quốc",
             "description": "Trong khi truy quét đường dây ma túy ở Nga, đặc vụ Hàn Quốc nọ phải hợp tác với một đặc vụ Triều Tiên, rồi tình yêu với người đó thử thách lòng trung thành của anh."
-        },
-        {
-            "name": "Mái Nhà Sau Song Sắt",
-            "year": 2025,
-            "slug": "mai-nha-sau-song-sat",
-            "thumb": "https://phimimg.com/upload/vod/20260402-1/2d13c3fa8d2fccbfb1e176519280e027.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260402-1/ac2d4574d2670dc58299f9b83e499eb1.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Hàn Quốc",
-            "description": "Trong bức tường lạnh lẽo của một trại giam nữ, Tae Jeo (Song Ji Hyo) đã làm cai ngục suốt 15 năm. Cô quen với sự im lặng, những ánh nhìn dè chừng và nhịp sống khép kín nơi đây. Mọi thứ tưởng như không thể lay chuyển cho đến khi một nữ phạm nhân mới chuyển đến, mang theo cô con gái tên Do Eun (Do Yeong Seo) – người Tae Jeo được giao trông coi.\r\n Giữa những quy tắc nghiêm ngặt, mối quan hệ kỳ lạ giữa người giám ngục và cô gái ấy dần hình thành. Tae Jeo bắt đầu nhận ra những góc tối trong chính công việc mình gắn bó, còn Do Eun lại tìm thấy nơi cô một hình ảnh khác của tình mẫu tử. Những bí mật về quá khứ, về người mẹ đang chịu án, bắt đầu hé lộ, đẩy cả hai vào vòng xoáy cảm xúc giữa trách nhiệm, tội lỗi và sự cảm thông."
         }
     ],
     "bo_han": [
@@ -1639,6 +1639,18 @@
     ],
     "bo_trung": [
         {
+            "name": "Hoa Khai Cẩm Tú",
+            "year": 2026,
+            "slug": "hoa-khai-cam-tu",
+            "thumb": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 31",
+            "total_episodes": "36",
+            "country": "Trung Quốc",
+            "description": "Triệu Lăng, một lái buôn muối lậu hào sảng, trọng tình trọng nghĩa, tuy xuất thân thấp kém nhưng luôn mang trong mình chí lớn. Định mệnh đưa chàng gặp Phó Đình Vân, tiểu thư xuất thân từ một thế gia danh giá, bị vu oan tư thông. Biến cố ập đến khiến cả hai buộc phải cùng nhau lưu vong. Trên hành trình chạy trốn, họ phải đối mặt với muôn vàn thử thách từ gia tộc, triều đình và cả số phận. Sau bao lần kề vai sát cánh vượt qua hiểm nguy, cùng chống lại nghịch cảnh, cuối cùng hai người đã nên duyên đôi lứa và viết nên một câu chuyện tình được mãi lưu danh."
+        },
+        {
             "name": "Những Năm Ta Là Đệ Nhất Tầm Long",
             "year": 2026,
             "slug": "nhung-nam-ta-la-de-nhat-tam-long",
@@ -1673,18 +1685,6 @@
             "total_episodes": "22",
             "country": "Trung Quốc",
             "description": "Được đầu thai thành hòa thượng Tế Công, một vị thần thoại truyền kỳ phải đối đầu với một con đại yêu ma cổ đại đang tìm cách trả thù. Khi bầy yêu ma đe dọa phá hủy thành Lâm An, ông đã hợp lực cùng người yêu cũ để ngăn chặn âm mưu của chúng và bảo vệ thế giới nhân gian."
-        },
-        {
-            "name": "Hoa Khai Cẩm Tú",
-            "year": 2026,
-            "slug": "hoa-khai-cam-tu",
-            "thumb": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 30",
-            "total_episodes": "36",
-            "country": "Trung Quốc",
-            "description": "Triệu Lăng, một lái buôn muối lậu hào sảng, trọng tình trọng nghĩa, tuy xuất thân thấp kém nhưng luôn mang trong mình chí lớn. Định mệnh đưa chàng gặp Phó Đình Vân, tiểu thư xuất thân từ một thế gia danh giá, bị vu oan tư thông. Biến cố ập đến khiến cả hai buộc phải cùng nhau lưu vong. Trên hành trình chạy trốn, họ phải đối mặt với muôn vàn thử thách từ gia tộc, triều đình và cả số phận. Sau bao lần kề vai sát cánh vượt qua hiểm nguy, cùng chống lại nghịch cảnh, cuối cùng hai người đã nên duyên đôi lứa và viết nên một câu chuyện tình được mãi lưu danh."
         },
         {
             "name": "Cuồng Đồ",
@@ -2367,6 +2367,30 @@
     ],
     "bo_thai": [
         {
+            "name": "Cú Giao Bóng Tình Yêu",
+            "year": 2026,
+            "slug": "cu-giao-bong-tinh-yeu",
+            "thumb": "https://phimimg.com/uploads/movies/20260817/cu-giao-bong-tinh-yeu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260817/cu-giao-bong-tinh-yeu-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 5",
+            "total_episodes": "10",
+            "country": "Thái Lan",
+            "description": "Cậu bé Sun là một tay vợt tennis hoàn hảo, còn Bay là một chàng trai theo đuổi nghệ thuật, có phong cách sống phóng khoáng. Hai người có cha là kẻ thù không đội trời chung. Gia đình họ cùng sở hữu những nhà hàng dim sum cạnh tranh nhau trên đường Krong Thong: nhà hàng Saming Phon Fai của gia đình Sun mang phong cách truyền thống lâu đời, trong khi Merlion của gia đình Bay là một nhà hàng mới nổi tiếng với món há cảo shumai."
+        },
+        {
+            "name": "Manga Sát Lệnh",
+            "year": 2026,
+            "slug": "manga-sat-lenh",
+            "thumb": "https://phimimg.com/uploads/movies/20260709/manga-sat-lenh-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260709/manga-sat-lenh-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "10",
+            "country": "Thái Lan",
+            "description": "Kay, một họa sĩ manga nổi tiếng, bất ngờ bị cuốn vào cuộc điều tra một vụ án giết người hàng loạt khi các nạn nhân, phương thức gây án và hiện trường đều giống đến rợn người với những tình tiết trong tác phẩm anh từng sáng tác. Điều này khiến Phát, thanh tra phụ trách vụ án, đưa Kay vào tầm theo dõi sát sao. Buộc phải hợp tác trong quá trình điều tra, Kay và Phát cùng nhau lần theo từng manh mối để tìm ra sự thật và danh tính kẻ sát nhân. Khi cuộc điều tra dần hé mở những bí ẩn, sự nghi ngờ ban đầu cũng từng bước nhường chỗ cho niềm tin, kéo hai người xích lại gần nhau hơn theo cách mà cả hai đều không ngờ tới. Thế nhưng, càng đào sâu, những bí mật bị chôn vùi trong quá khứ càng lần lượt được phơi bày. Khi mỗi sự thật mới đều thử thách mối quan hệ giữa họ, Kay và Phát phải quyết định liệu họ có thể cùng nhau đối mặt với hiểm nguy hay sẽ trở thành những mục tiêu tiếp theo của kẻ sát nhân."
+        },
+        {
             "name": "Luang Pho Trong Sạch",
             "year": 2026,
             "slug": "luang-pho-trong-sach",
@@ -2463,18 +2487,6 @@
             "description": "Câu chuyện bắt đầu khi Fourmod, một chàng trai17 tuổi đại diện cho thế hệ Gen Z trong lĩnh vực thời trang, tự tin và thích phiêu lưu, kết nối với Chien, một nhạc sĩ trung học phổ thông, thông qua việc làm móng gel. Chien, một chàng trai vui tính, thường trêu chọc Fourmod để thu hút sự chú ý của cậu. Nhưng ngay khi Fourmod thể hiện sự quan tâm, Chien lại lảng tránh, khiến Fourmod bối rối. Thực tế, Chien đang có Neon, một nam sinh cấp hai nổi tiếng, người chỉ là một trong những mối quan hệ thoáng qua của Chien.Cảm thấy bị thách thức, Fourmod tìm sự giúp đỡ từ người bạn thân Babin, một chàng trai tốt bụng nhưng tinh nghịch, để thu hút sự chú ý của Chien. Trong khi đó, Babin cũng cố gắng kết nối với Neon để giúp đỡ, nhưng hóa ra cả hai vô tình phát triển tình cảm với nhau. Điều này làm phức tạp mối quan hệ của cả bốn người, khiến mọi chuyện trở nên khó giải quyết hơn."
         },
         {
-            "name": "Manga Sát Lệnh",
-            "year": 2026,
-            "slug": "manga-sat-lenh",
-            "thumb": "https://phimimg.com/uploads/movies/20260709/manga-sat-lenh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260709/manga-sat-lenh-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 7",
-            "total_episodes": "10",
-            "country": "Thái Lan",
-            "description": "Kay, một họa sĩ manga nổi tiếng, bất ngờ bị cuốn vào cuộc điều tra một vụ án giết người hàng loạt khi các nạn nhân, phương thức gây án và hiện trường đều giống đến rợn người với những tình tiết trong tác phẩm anh từng sáng tác. Điều này khiến Phát, thanh tra phụ trách vụ án, đưa Kay vào tầm theo dõi sát sao. Buộc phải hợp tác trong quá trình điều tra, Kay và Phát cùng nhau lần theo từng manh mối để tìm ra sự thật và danh tính kẻ sát nhân. Khi cuộc điều tra dần hé mở những bí ẩn, sự nghi ngờ ban đầu cũng từng bước nhường chỗ cho niềm tin, kéo hai người xích lại gần nhau hơn theo cách mà cả hai đều không ngờ tới. Thế nhưng, càng đào sâu, những bí mật bị chôn vùi trong quá khứ càng lần lượt được phơi bày. Khi mỗi sự thật mới đều thử thách mối quan hệ giữa họ, Kay và Phát phải quyết định liệu họ có thể cùng nhau đối mặt với hiểm nguy hay sẽ trở thành những mục tiêu tiếp theo của kẻ sát nhân."
-        },
-        {
             "name": "Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)",
             "year": 2026,
             "slug": "gio-noi-han-duong-xuan-son-canh-nang-dong-goi-gio-tren-nui-xuan",
@@ -2533,18 +2545,6 @@
             "total_episodes": "10",
             "country": "Thái Lan",
             "description": "Đây là một bộ phim hài lãng mạn vô cùng chữa lành. Chàng streamer game siêu nổi tiếng nhưng độc miệng tên \"Three\" bất ngờ thua trước một người chơi mới thanh thuần tên \"Soh\" ngay trên sóng livestream. Chuyện vốn dĩ bắt đầu từ một cuộc đi \"Tìm kiếm đối thủ cạnh tranh\" lại bất ngờ biến thành hành trình \"Tình cờ gặp gỡ tình yêu\". Người tưởng chừng như chỉ biết \"quấy rối tinh thần\" lại chính là người \"làm trái tim rung động\". Trên con đường theo đuổi ước mơ eSports, họ không chỉ phải đối mặt với thử thách từ các trận đấu game mà còn phải học cách đối diện với thứ tình cảm không thể dễ dàng nhấn nút \"khởi động lại\"."
-        },
-        {
-            "name": "Bóng Dưới Trăng",
-            "year": 2026,
-            "slug": "bong-duoi-trang",
-            "thumb": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "10",
-            "country": "Thái Lan",
-            "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
         }
     ],
     "long_tieng": [
@@ -2925,16 +2925,16 @@
             "description": "Câu chuyện phim theo chân Hùng (Thái Hòa) - người cha đơn thân kiêm tài xế taxi và đồng nghiệp hãng xe là Tuấn (Võ Tấn Phát) bị cuốn vào một phi vụ lừa đảo từ thiện tiền tỉ trong khi sinh mạng cô con gái nhỏ của anh đang nằm gọn trong tay tử thần."
         },
         {
-            "name": "Những Năm Ta Là Đệ Nhất Tầm Long",
+            "name": "Hoa Khai Cẩm Tú",
             "year": 2026,
-            "slug": "nhung-nam-ta-la-de-nhat-tam-long",
-            "thumb": "https://phimimg.com/uploads/movies/20260821/nhung-nam-ta-la-de-nhat-tam-long-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260821/nhung-nam-ta-la-de-nhat-tam-long-poster.webp",
+            "slug": "hoa-khai-cam-tu",
+            "thumb": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260809/hoa-khai-cam-tu-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 18",
-            "total_episodes": "26",
+            "current_episode": "Tập 31",
+            "total_episodes": "36",
             "country": "Trung Quốc",
-            "description": "Che giấu thân phận dưới mác \"chàng rể ở rể\", hậu duệ Tầm Long - Trương Thiên Hữu ban đầu ứng phó với bốn gia tộc có truyền thống đạo mộ. Sau đó, anh đích thân dẫn đội quay trở lại Triều Tịch Mộ của 20 năm về trước. Xuyên qua muôn trùng cạm bẫy sinh tử dưới lăng mộ, liên tục đối mặt với rối tơ ám khí, ảo giác từ xác độc, ác quỷ đeo bám, xác sống nữ kỳ dị trong quan tài... cuối cùng, họ đã từng bước lật mở một chân tướng ly kỳ."
+            "description": "Triệu Lăng, một lái buôn muối lậu hào sảng, trọng tình trọng nghĩa, tuy xuất thân thấp kém nhưng luôn mang trong mình chí lớn. Định mệnh đưa chàng gặp Phó Đình Vân, tiểu thư xuất thân từ một thế gia danh giá, bị vu oan tư thông. Biến cố ập đến khiến cả hai buộc phải cùng nhau lưu vong. Trên hành trình chạy trốn, họ phải đối mặt với muôn vàn thử thách từ gia tộc, triều đình và cả số phận. Sau bao lần kề vai sát cánh vượt qua hiểm nguy, cùng chống lại nghịch cảnh, cuối cùng hai người đã nên duyên đôi lứa và viết nên một câu chuyện tình được mãi lưu danh."
         },
         {
             "name": "Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)",
@@ -2985,16 +2985,16 @@
             "description": "Trong không gian ngột ngạt của một nhà tù nữ, một mầm sống mới đã nảy mầm: một bé gái chào đời giữa tiếng hát mừng sinh nhật và vòng tay của bốn nữ tù nhân. Mỗi người phụ nữ ấy đều mang một bản án và một quá khứ đầy vết sẹo, nhưng sự xuất hiện của đứa trẻ đã trở thành tia sáng duy nhất sưởi ấm tâm hồn họ. Mọi chuyện trở nên xáo trộn khi một tù nhân mới đầy nổi loạn gia nhập nhóm. Từ những va chạm, mâu thuẫn nảy lửa ban đầu, sự hiện diện ngây thơ của bé gái đã dần xóa tan khoảng cách, biến những con người xa lạ thành một gia đình đặc biệt. Hạnh phúc ngắn chẳng được bao lâu khi đứa trẻ được chẩn đoán mắc một căn bệnh hiểm nghèo về mắt, đe dọa sẽ lấy đi ánh sáng vĩnh viễn. Để dành tặng em một kỷ niệm cuối cùng thật trọn vẹn, những người mẹ \"không cùng huyết thống\" đã quyết định thành lập một dàn đồng ca ngay sau song sắt."
         },
         {
-            "name": "Phò Mã Tiểu Ngỗ Tác",
+            "name": "Những Năm Ta Là Đệ Nhất Tầm Long",
             "year": 2026,
-            "slug": "pho-ma-tieu-ngo-tac",
-            "thumb": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 7",
-            "total_episodes": "24",
+            "slug": "nhung-nam-ta-la-de-nhat-tam-long",
+            "thumb": "https://phimimg.com/uploads/movies/20260821/nhung-nam-ta-la-de-nhat-tam-long-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260821/nhung-nam-ta-la-de-nhat-tam-long-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 18",
+            "total_episodes": "26",
             "country": "Trung Quốc",
-            "description": "Thiên kim tiểu thư Quân Thanh Lam bi thảm chịu cảnh gia tộc bị xét nhà diệt môn. Vị hôn phu năm xưa là Lý Tùng Nghiêu chẳng những không dang tay cứu giúp, mà còn đích thân hủy hoại dung mạo của nàng. Trở về từ cõi chết, nàng thay hình đổi dạng, nữ cải trang thành nam hóa thân thành pháp y của Đại Lý Tự, nhẫn nhịn ẩn mình chỉ một lòng lật lại vụ án để báo thù. Nào ngờ nàng lại tái ngộ Lý Tùng Nghiêu, người thương năm xưa nay đã trở thành một Đoan Vương tàn nhẫn máu lạnh. Hắn trắng trợn bắt ép và giam cầm nàng. Yêu hận đan xen, quyền mưu quỷ quyệt nối gót bủa vây, màn sương mù của vụ án cũ từng lớp bị bóc trần. Một ván cờ sinh tử giằng xé giữa cuộc chiến báo thù và tư tình lại chính thức bắt đầu."
+            "description": "Che giấu thân phận dưới mác \"chàng rể ở rể\", hậu duệ Tầm Long - Trương Thiên Hữu ban đầu ứng phó với bốn gia tộc có truyền thống đạo mộ. Sau đó, anh đích thân dẫn đội quay trở lại Triều Tịch Mộ của 20 năm về trước. Xuyên qua muôn trùng cạm bẫy sinh tử dưới lăng mộ, liên tục đối mặt với rối tơ ám khí, ảo giác từ xác độc, ác quỷ đeo bám, xác sống nữ kỳ dị trong quan tài... cuối cùng, họ đã từng bước lật mở một chân tướng ly kỳ."
         },
         {
             "name": "Chuyện Tình Ma Quái",
@@ -3045,16 +3045,16 @@
             "description": "Mutiny (Tàu buồn người) kể về Cole Reed do Jason Statham thủ vai, sau khi tận mắt chứng kiến ông chủ tỷ phú của mình bị sát hại và bản thân trở thành kẻ thế thân bị vu oan, Cole Reed (Jason Statham) đã đột nhập lên một con tàu chở hàng để bắt đầu hành trình truy tìm sự thật và trả thù cho vị sếp cũ. Tuy nhiên, chuyến đi đơn độc này lại đẩy anh vào nguy hiểm khi Cole vô tình bóc trần một âm mưu quốc tế quy mô và cực kỳ nguy hiểm."
         },
         {
-            "name": "Tế Công: Hàng Long Giáng Thế",
+            "name": "Phò Mã Tiểu Ngỗ Tác",
             "year": 2026,
-            "slug": "te-cong-hang-long-giang-the-2026",
-            "thumb": "https://phimimg.com/uploads/movies/20260825/te-cong-hang-long-giang-the-2026-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260825/te-cong-hang-long-giang-the-2026-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (22/22)",
-            "total_episodes": "22",
+            "slug": "pho-ma-tieu-ngo-tac",
+            "thumb": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 7",
+            "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Được đầu thai thành hòa thượng Tế Công, một vị thần thoại truyền kỳ phải đối đầu với một con đại yêu ma cổ đại đang tìm cách trả thù. Khi bầy yêu ma đe dọa phá hủy thành Lâm An, ông đã hợp lực cùng người yêu cũ để ngăn chặn âm mưu của chúng và bảo vệ thế giới nhân gian."
+            "description": "Thiên kim tiểu thư Quân Thanh Lam bi thảm chịu cảnh gia tộc bị xét nhà diệt môn. Vị hôn phu năm xưa là Lý Tùng Nghiêu chẳng những không dang tay cứu giúp, mà còn đích thân hủy hoại dung mạo của nàng. Trở về từ cõi chết, nàng thay hình đổi dạng, nữ cải trang thành nam hóa thân thành pháp y của Đại Lý Tự, nhẫn nhịn ẩn mình chỉ một lòng lật lại vụ án để báo thù. Nào ngờ nàng lại tái ngộ Lý Tùng Nghiêu, người thương năm xưa nay đã trở thành một Đoan Vương tàn nhẫn máu lạnh. Hắn trắng trợn bắt ép và giam cầm nàng. Yêu hận đan xen, quyền mưu quỷ quyệt nối gót bủa vây, màn sương mù của vụ án cũ từng lớp bị bóc trần. Một ván cờ sinh tử giằng xé giữa cuộc chiến báo thù và tư tình lại chính thức bắt đầu."
         },
         {
             "name": "Tài phiệt và Cảnh sát (Phần 2)",
