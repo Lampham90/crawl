@@ -1,5 +1,17 @@
 [
     {
+        "name": "Ma Tù",
+        "year": 2026,
+        "slug": "ma-tu",
+        "thumb": "https://phimimg.com/uploads/movies/20260826/ma-tu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260826/ma-tu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Indonesia",
+        "description": "Phim xoay quanh bối cảnh tại một khu biệt giam công nghệ cao bí mật. Nơi đây được thiết kế biệt lập hoàn toàn với thế giới bên ngoài nhằm giam giữ những tù nhân nguy hiểm và thực hiện các cuộc thử nghiệm tâm lý/sinh học quy mô lớn."
+    },
+    {
         "name": "Bầy Xác Sống",
         "year": 2026,
         "slug": "bay-xac-song",
@@ -316,17 +328,6 @@
         "slug": "tay-anh-giu-mot-vi-sao",
         "thumb": "https://phimimg.com/upload/vod/20260101-1/d4996c364d140f3419448c6fb455a37a.jpg",
         "poster": "https://phimimg.com/upload/vod/20260101-1/1f84d38287b85555cfefd5bbd36798ee.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "han-quoc"
-    },
-    {
-        "name": "Đại Ca Ha Ha Ha",
-        "year": 2025,
-        "slug": "dai-ca-ha-ha-ha",
-        "thumb": "https://phimimg.com/upload/vod/20251228-1/f96dd9087576fbb5ad79800cb4546d7c.jpg",
-        "poster": "https://phimimg.com/upload/vod/20251228-1/2fe8766632c86e7f6e56f296438d5fd4.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",
