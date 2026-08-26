@@ -1,8 +1,20 @@
 [
     {
-        "name": "Pinocchio Không Bị Trói",
+        "name": "Thành Phố Động Cơ",
         "year": 2026,
-        "slug": "pinocchio-khong-bi-troi",
+        "slug": "thanh-pho-dong-co",
+        "thumb": "https://phimimg.com/uploads/movies/20260826/thanh-pho-dong-co-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260826/thanh-pho-dong-co-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Vào những năm 1970 tại Detroit, John Miller đem lòng yêu người phụ nữ của một kẻ găng-stơ địa phương và rồi bị tống vào tù vì một tội ác mà anh không hề phạm phải. Khi cuộc đời đã bị hủy hoại, Miller lập kế hoạch trả thù kẻ đã cướp đi người phụ nữ anh yêu."
+    },
+    {
+        "name": "Pinocchio: Không Bị Trói / Pinocchio: Cuộc Tàn Sát Của Con Rối",
+        "year": 2026,
+        "slug": "pinocchio-khong-bi-troi-pinocchio-cuoc-tan-sat-cua-con-roi",
         "thumb": "https://phimimg.com/uploads/movies/20260826/pinocchio-khong-bi-troi-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260826/pinocchio-khong-bi-troi-poster.webp",
         "sub_type": "Vietsub",
@@ -276,6 +288,18 @@
         "description": "Sau khi một cơn bão quét qua Phố Vừng, Big Bird không còn tổ nữa! Nhưng các bạn của cậu đã cùng nhau động viên cậu – và giúp cậu xây lại ngôi nhà."
     },
     {
+        "name": "Pinocchio Không Bị Trói",
+        "year": 2026,
+        "slug": "pinocchio-khong-bi-troi",
+        "thumb": "https://phimimg.com/uploads/movies/20260826/pinocchio-khong-bi-troi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260826/pinocchio-khong-bi-troi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Anh",
+        "description": "Dưới sự thao túng của một con Dế tà ác và được tạo ra bởi Geppetto, Pinocchio phát động một cuộc tàn sát đẫm máu nhằm tự biến mình thành một cậu bé bằng xương bằng thịt giống như người anh trai James của mình, từng chút một."
+    },
+    {
         "name": "Bạn Đời Nhân Tạo",
         "year": 2026,
         "slug": "ban-doi-nhan-tao",
@@ -334,29 +358,5 @@
         "total_episodes": "1",
         "country": "Anh",
         "description": "Một người cha đơn thân vừa chịu mất mát lớn phải học cách làm cha và chữa lành nỗi đau, trong khi cuộc sống bị đảo lộn bởi một vị khách kỳ lạ."
-    },
-    {
-        "name": "The Punisher: Phát Súng Cuối Cùng",
-        "year": 2026,
-        "slug": "the-punisher-phat-sung-cuoi-cung",
-        "thumb": "https://phimimg.com/uploads/movies/20260731/the-punisher-phat-sung-cuoi-cung-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260731/the-punisher-phat-sung-cuoi-cung-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Frank Castle (The Punisher) cố gắng từ bỏ cuộc đời đẫm máu để tìm ý nghĩa mới sau nhiều năm chỉ biết báo thù. Tuy nhiên, sự trỗi dậy của một đế chế tội phạm mới cùng quá khứ không ngừng ám ảnh đã kéo anh trở lại con đường bạo lực."
-    },
-    {
-        "name": "Sử Thi Odyssey",
-        "year": 2026,
-        "slug": "su-thi-odyssey",
-        "thumb": "https://phimimg.com/uploads/movies/20260731/su-thi-odyssey-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260731/su-thi-odyssey-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Anh",
-        "description": "Câu chuyện theo chân Odysseus trong hành trình kéo dài 10 năm trở về nhà sau cuộc chiến thành Troy, nơi ông phải đối mặt với các vị thần, quái vật và vô vàn thử thách, đồng thời nỗ lực đoàn tụ với vợ và giành lại vương quốc của mình."
     }
 ]

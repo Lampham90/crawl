@@ -1,5 +1,17 @@
 [
     {
+        "name": "Cái Chết Của Vợ Người Mục Sư",
+        "year": 2026,
+        "slug": "cai-chet-cua-vo-nguoi-muc-su",
+        "thumb": "https://phimimg.com/uploads/movies/20260826/cai-chet-cua-vo-nguoi-muc-su-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260826/cai-chet-cua-vo-nguoi-muc-su-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (3/3)",
+        "total_episodes": "3",
+        "country": "Âu Mỹ",
+        "description": "Chuyện gì đã xảy ra với Mica Miller? Loạt phim tài liệu này tái hiện cuộc đời đầy hứa hẹn, cuộc hôn nhân độc hại và những tình tiết bí ẩn xung quanh cái chết của cô."
+    },
+    {
         "name": "Những Cuộc Phiêu Lưu Cùng Superman (Phần 3)",
         "year": 2026,
         "slug": "nhung-cuoc-phieu-luu-cung-superman-phan-3",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Mỹ",
         "description": "Bùng nổ mùa hè này tại Camp CrunchLabs, nơi Mark Rober mang đến những thí nghiệm khoa học theo chủ đề vũ trụ cực kỳ hấp dẫn, cùng dàn khách mời đặc biệt và vô số thử thách thú vị có thể tự làm ngay tại nhà!"
-    },
-    {
-        "name": "Người Nhện Hàng Xóm Thân Thiện",
-        "year": 2025,
-        "slug": "nguoi-nhen-hang-xom-than-thien",
-        "thumb": "https://phimimg.com/uploads/movies/20260809/nguoi-nhen-hang-xom-than-thien-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260809/nguoi-nhen-hang-xom-than-thien-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Loạt phim hoạt hình này giới thiệu câu chuyện của Peter trong một dòng thời gian tách biệt với vũ trụ điện ảnh chính của Marvel và trước các sự kiện của Captain America: Civil War."
     }
 ]
