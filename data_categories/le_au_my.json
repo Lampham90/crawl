@@ -1,5 +1,17 @@
 [
     {
+        "name": "Trời Cao Biển Sâu",
+        "year": 2026,
+        "slug": "troi-cao-bien-sau",
+        "thumb": "https://phimimg.com/uploads/movies/20260827/troi-cao-bien-sau-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260827/troi-cao-bien-sau-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Cơn ác mộng thực sự bắt đầu khi nhóm bạn trẻ bị kẹt lại trong tình thế tiến thoái lưỡng nan: bên trên mặt nước là những tên tội phạm máu lạnh dưới sự chỉ huy trực tiếp của trùm sỏ Burns, còn bên dưới dòng nước sâu thẳm là chiếc lồng lặn bị bao vây bởi những con cá mập đói mồi. Tatiana buộc phải dũng cảm đứng lên, tìm mọi cách xoay sở mưu mẹo để cứu lấy bản thân và những người bạn của mình giữa ranh giới mong manh của sự sống và cái chết."
+    },
+    {
         "name": "Thành Phố Động Cơ",
         "year": 2026,
         "slug": "thanh-pho-dong-co",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "2 chàng trai tuổi teen phải tìm cách trốn thoát khỏi một thực thể bạo tàn có thể mang hình hài của người mà họ khao khát nhất — chính là nhau."
-    },
-    {
-        "name": "Đôi Cánh Hy Vọng / Gia Đình Hy Vọng",
-        "year": 2025,
-        "slug": "doi-canh-hy-vong-gia-dinh-hy-vong",
-        "thumb": "https://phimimg.com/upload/vod/20260105-1/1809b1850ec19cea2f5375e459f1fa6f.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260105-1/16e31bc85e282a31bf9a346a4e4b1818.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Anh",
-        "description": "Một người cha đơn thân vừa chịu mất mát lớn phải học cách làm cha và chữa lành nỗi đau, trong khi cuộc sống bị đảo lộn bởi một vị khách kỳ lạ."
     }
 ]

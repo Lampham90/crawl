@@ -1,12 +1,24 @@
 [
     {
+        "name": "Bóng Dưới Trăng",
+        "year": 2026,
+        "slug": "bong-duoi-trang",
+        "thumb": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
+    },
+    {
         "name": "NOUR",
         "year": 2026,
         "slug": "nour",
         "thumb": "https://phimimg.com/uploads/movies/20260826/nour-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260826/nour-poster.webp",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
+        "current_episode": "Tập 3",
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
@@ -202,18 +214,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Đây là một bộ phim hài lãng mạn vô cùng chữa lành. Chàng streamer game siêu nổi tiếng nhưng độc miệng tên \"Three\" bất ngờ thua trước một người chơi mới thanh thuần tên \"Soh\" ngay trên sóng livestream. Chuyện vốn dĩ bắt đầu từ một cuộc đi \"Tìm kiếm đối thủ cạnh tranh\" lại bất ngờ biến thành hành trình \"Tình cờ gặp gỡ tình yêu\". Người tưởng chừng như chỉ biết \"quấy rối tinh thần\" lại chính là người \"làm trái tim rung động\". Trên con đường theo đuổi ước mơ eSports, họ không chỉ phải đối mặt với thử thách từ các trận đấu game mà còn phải học cách đối diện với thứ tình cảm không thể dễ dàng nhấn nút \"khởi động lại\"."
-    },
-    {
-        "name": "Bóng Dưới Trăng",
-        "year": 2026,
-        "slug": "bong-duoi-trang",
-        "thumb": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
     },
     {
         "name": "Tám Tay Lừa Đảo",
