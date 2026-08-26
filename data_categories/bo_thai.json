@@ -1,5 +1,29 @@
 [
     {
+        "name": "NOUR",
+        "year": 2026,
+        "slug": "nour",
+        "thumb": "https://phimimg.com/uploads/movies/20260826/nour-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260826/nour-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
+    },
+    {
+        "name": "Nhân Duyên Tiền Định",
+        "year": 2026,
+        "slug": "nhan-duyen-tien-dinh-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20260715/nhan-duyen-tien-dinh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260715/nhan-duyen-tien-dinh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Khi linh hồn của một bác sĩ phẫu thuật thời hiện đại bị nhập vào thể xác của một kẻ chuyên gây rắc rối bị người người ghét bỏ ở thế kỷ 17, anh đã sử dụng nền y học tiên tiến để cứu người, đồng thời từng bước chinh phục người đối đầu gay gắt nhất của mình."
+    },
+    {
         "name": "Nút Thắt",
         "year": 2026,
         "slug": "nut-that",
@@ -276,18 +300,6 @@
         "description": "Cuộc sống yên bình của Jen bị đảo lộn khi Ai, một robot bí ẩn có ngoại hình giống hệt cô gái trong mộng của cô, xuất hiện và gọi cô là &quot;Chủ nhân&quot;. Bị buộc phải sống chung, Jen không ngờ rằng mình lại đem lòng yêu cỗ máy tinh nghịch này. Khi mối liên kết giữa họ ngày càng sâu đậm, cô phải đối mặt với câu hỏi cuối cùng: Ai chỉ là một chương trình lỗi lạc, hay chính là tình yêu của đời cô?"
     },
     {
-        "name": "Nhân Duyên Tiền Định",
-        "year": 2026,
-        "slug": "nhan-duyen-tien-dinh-2026",
-        "thumb": "https://phimimg.com/uploads/movies/20260715/nhan-duyen-tien-dinh-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260715/nhan-duyen-tien-dinh-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Khi linh hồn của một bác sĩ phẫu thuật thời hiện đại bị nhập vào thể xác của một kẻ chuyên gây rắc rối bị người người ghét bỏ ở thế kỷ 17, anh đã sử dụng nền y học tiên tiến để cứu người, đồng thời từng bước chinh phục người đối đầu gay gắt nhất của mình."
-    },
-    {
         "name": "Thế Giới Em Và Tôi",
         "year": 2026,
         "slug": "the-gioi-em-va-toi",
@@ -346,17 +358,5 @@
         "total_episodes": "20",
         "country": "Thái Lan",
         "description": "Phim kể về Rawee, người thừa kế khối tài sản kếch xù từ cha và có một cuộc hôn nhân sắp đặt. Anh bị sát hại sau khi phát hiện vợ mình ngoại tình. Rất may, Rawee không chết mà chỉ mất trí nhớ và được cô gái Lockchan cứu sống. Liệu Rawee có lấy lại được ký ức để trả thù những kẻ đã từng giết hại mình?"
-    },
-    {
-        "name": "Ý Chí Kim Cương",
-        "year": 2026,
-        "slug": "y-chi-kim-cuong",
-        "thumb": "https://phimimg.com/upload/vod/20260619-1/d27cee3db697f0b6d6ca7d22b14be2f2.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260619-1/ca96e7f068f84776ca2b4e52b9e971bc.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (30/30)",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Chàng nhạc công tài năng xuất thân nghèo khó và một nữ sinh trung học giàu có nảy sinh tình cảm giữa những mối thù địch cá nhân và một biến cố làm thay đổi cuộc đời."
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "name": "Pinocchio Không Bị Trói",
+        "year": 2026,
+        "slug": "pinocchio-khong-bi-troi",
+        "thumb": "https://phimimg.com/uploads/movies/20260826/pinocchio-khong-bi-troi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260826/pinocchio-khong-bi-troi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Anh",
+        "description": "Dưới sự thao túng của một con Dế tà ác và được tạo ra bởi Geppetto, Pinocchio phát động một cuộc tàn sát đẫm máu nhằm tự biến mình thành một cậu bé bằng xương bằng thịt giống như người anh trai James của mình, từng chút một."
+    },
+    {
         "name": "Cuộc Chiến Ép Cân",
         "year": 2025,
         "slug": "cuoc-chien-ep-can",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Anh",
         "description": "Câu chuyện theo chân Odysseus trong hành trình kéo dài 10 năm trở về nhà sau cuộc chiến thành Troy, nơi ông phải đối mặt với các vị thần, quái vật và vô vàn thử thách, đồng thời nỗ lực đoàn tụ với vợ và giành lại vương quốc của mình."
-    },
-    {
-        "name": "Lời Thì Thầm Ma Quái / Vọng Âm Vô Hình",
-        "year": 2026,
-        "slug": "loi-thi-tham-ma-quai-vong-am-vo-hinh",
-        "thumb": "https://phimimg.com/uploads/movies/20260715/loi-thi-tham-ma-quai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260715/loi-thi-tham-ma-quai-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Canada",
-        "description": "Người dẫn một podcast nổi tiếng về hiện tượng siêu nhiên bắt đầu bị ám ảnh bởi những bản ghi âm kinh hoàng được gửi đến cô một cách bí ẩn. Khi càng đào sâu vào nguồn gốc của các đoạn ghi ấy, ranh giới giữa công việc và nỗi sợ cá nhân dần sụp đổ."
     }
 ]
