@@ -1,5 +1,17 @@
 [
     {
+        "name": "Con Kể Ba Nghe",
+        "year": 2026,
+        "slug": "con-ke-ba-nghe",
+        "thumb": "https://phimimg.com/uploads/movies/20260827/con-ke-ba-nghe-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260827/con-ke-ba-nghe-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Việt Nam",
+        "description": "Con Kể Ba Nghe là bộ phim chiếu rạp Việt Nam mang đậm màu sắc gia đình, theo chân một nghệ sĩ xiếc đi trên dây và cậu con trai sống khép kín trong hành trình tìm lại sự gắn kết đã dần phai nhạt theo năm tháng."
+    },
+    {
         "name": "Anh Hùng",
         "year": 2026,
         "slug": "anh-hung-2026",
@@ -318,17 +330,6 @@
         "slug": "mang-me-di-bo",
         "thumb": "https://phimimg.com/upload/vod/20251202-1/7747d4679d743d8552b22c5709cc4e49.jpg",
         "poster": "https://phimimg.com/upload/vod/20251202-1/b4e2708b399a01527a25eab36d52ad96.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "viet-nam"
-    },
-    {
-        "name": "Mưa Trên Cánh Bướm",
-        "year": 2025,
-        "slug": "mua-tren-canh-buom",
-        "thumb": "https://phimimg.com/upload/vod/20250919-1/dc15158d9424a135aff4ff26845caf7d.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250919-1/d278e67e82ee56b1d86c42128aecc026.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",

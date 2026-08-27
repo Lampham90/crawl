@@ -1,5 +1,17 @@
 [
     {
+        "name": "Tạm Biệt Gohan",
+        "year": 2026,
+        "slug": "tam-biet-gohan",
+        "thumb": "https://phimimg.com/uploads/movies/20260827/tam-biet-gohan-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260827/tam-biet-gohan-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Thái Lan",
+        "description": "Suốt mười năm đằng đẵng, chú chó hoang lông trắng với chiếc mũi đỏ mang tên 'GOHAN' cứ thế phiêu dạt giữa cuộc đời, ôm trọn những ký ức chẳng thể phai nhòa.\r Đó là sự ấm áp bình lặng bên người chủ đầu tiên – một kỹ sư ô tô người Nhật sắp sửa nghỉ hưu.\r Là những ngày tháng rộn ràng bên người chủ thứ hai – cô giúp việc trẻ người Miến Điện làm việc tại trạm cứu hộ thú cưng.\r Và cuối cùng, là những bài học thầm lặng chú dạy cho người chủ hiện tại – một sinh viên mỹ thuật, người lần đầu tiên trong đời học cách định nghĩa thế nào là tình yêu.\r Một câu chuyện về thời gian, về những cuộc hội ngộ và chia ly, và về một chú chó ghi nhớ tất cả."
+    },
+    {
         "name": "Chompoo: Lạc Lối Và Lãng Quên",
         "year": 2026,
         "slug": "chompoo-lac-loi-va-lang-quen",
@@ -319,17 +331,6 @@
         "slug": "bang-trom-san-vang",
         "thumb": "https://phimimg.com/upload/vod/20250821-1/c0112dfe3e0d987457e72de7b26b0a44.jpg",
         "poster": "https://phimimg.com/upload/vod/20250821-1/97513d61f134b2922354dced4a7862a8.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "thai-lan"
-    },
-    {
-        "name": "Halabala: Rừng Ma Tế Xác",
-        "year": 2025,
-        "slug": "halabala-rung-ma-te-xac",
-        "thumb": "https://phimimg.com/upload/vod/20250813-1/a6d8846f1466a45654dea239b4897494.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250813-1/d4338f3a48a12ac9ed9cbea0ab13f1c9.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",
