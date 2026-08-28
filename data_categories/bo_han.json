@@ -1,5 +1,29 @@
 [
     {
+        "name": "Bẫy chuột (Phần 1)",
+        "year": 2026,
+        "slug": "bay-chuot-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260828/bay-chuot-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260828/bay-chuot-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Hàn Quốc",
+        "description": "Một nhà văn ẩn dật phát hiện danh tính của mình đã bị đánh cắp. Để giành lại cuộc đời từ kẻ mang biệt danh \"Chuột Đồng\", anh phải bắt tay với một tay cho vay nặng lãi tàn nhẫn."
+    },
+    {
+        "name": "Ngày Hè",
+        "year": 2026,
+        "slug": "ngay-he",
+        "thumb": "https://phimimg.com/uploads/movies/20260828/ngay-he-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260828/ngay-he-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "10",
+        "country": "Hàn Quốc",
+        "description": "Yeo Eun Ho và Cha Do Hyeon là đôi bạn thân suốt 19 năm, nhưng Eun Ho không hề biết Do Hyeon luôn thầm yêu mình một cách mãnh liệt. Kế hoạch dần chiếm lấy trái tim bạn thân của Do Hyeon bị xáo trộn bởi sự xuất hiện của học sinh mới Kwon Yi Hyeon, buộc cậu phải tìm cách giữ Eun Ho ở bên cạnh mình."
+    },
+    {
         "name": "Ừ Thì Ly Hôn!",
         "year": 2026,
         "slug": "u-thi-ly-hon",
@@ -334,29 +358,5 @@
         "total_episodes": "10",
         "country": "Hàn Quốc",
         "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
-    },
-    {
-        "name": "Gieo Gì Gặt Nấy: Nông Trại Thẳng Tiến",
-        "year": 2026,
-        "slug": "gieo-gi-gat-nay-nong-trai-thang-tien",
-        "thumb": "https://phimimg.com/upload/vod/20260620-1/917d4bf200e5254f98ded14e13d883d4.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260620-1/5a64d6a49531c51d4e879e8f1f54ef1b.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (6/6)",
-        "total_episodes": "6",
-        "country": "Hàn Quốc",
-        "description": "Tạm gác công việc trồng trọt, các bác &quot;nông dân&quot; Lee Kwang Soo, Doh Kyung Soo và Kim Woo Bin thẳng tiến đến đảo Jeju thầu ngay một trang trại chăn nuôi. Liệu cuộc sống ở nông trại với đồng cỏ xanh và những chú bò sữa có thực sự yên bình như họ tưởng tượng?"
-    },
-    {
-        "name": "Lời Đề Nghị Của Công Tố Viên",
-        "year": 2026,
-        "slug": "loi-de-nghi-cua-cong-to-vien",
-        "thumb": "https://phimimg.com/upload/vod/20260627-1/00bad3e184efb751806ae1f5562ace36.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260627-1/4840456fa6f40d96ff25e2b01dc85da9.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Hàn Quốc",
-        "description": "Mười lăm năm trước, một vụ giết người tàn bạo đã kéo hai cậu bé vào địa ngục. Một người trở thành con trai của nạn nhân; người kia, lại là con của kẻ sát nhân. Nhiều năm sau, định mệnh đã đưa họ tái ngộ trong vai trò một công tố viên và một điều tra viên. Trong khi chiến đấu chống lại mạng lưới tham nhũng pháp lý và doanh nghiệp khổng lồ, họ phát hiện ra một điều còn nguy hiểm hơn thế: chính là đối phương. Họ là điểm yếu chí mạng — và cũng là sự cứu rỗi duy nhất của nhau."
     }
 ]

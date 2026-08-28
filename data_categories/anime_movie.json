@@ -1,5 +1,17 @@
 [
     {
+        "name": "Doraemon: Nobita và Lâu Đài Dưới Đáy Biển (Phiên bản mới)",
+        "year": 2026,
+        "slug": "doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi",
+        "thumb": "https://phimimg.com/uploads/movies/20260829/doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260829/doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Nhật Bản",
+        "description": "\"Doraemon: Nobita và Lâu đài dưới đáy biển\" (tên khác là Lâu đài ma dưới đáy biển) là một trong những tác phẩm kinh điển thuộc loạt truyện dài và phim điện ảnh Doraemon. Hiện tại, tác phẩm này đang thu hút sự chú ý với phiên bản làm mới (remake) ra mắt vào năm 2026."
+    },
+    {
         "name": "Bôi Tuyết",
         "year": 2026,
         "slug": "boi-tuyet",
@@ -330,16 +342,5 @@
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "Đức"
-    },
-    {
-        "name": "Thiếu Nữ Punk: Cô Gái Cơ Khí",
-        "year": 2025,
-        "slug": "thieu-nu-punk-co-gai-co-khi",
-        "thumb": "https://phimimg.com/upload/vod/20260417-1/7136b2f3981021d7045f870c1810786c.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260417-1/4fd02597ac763df7ff2cbdeb9aaae0f6.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Nhật Bản"
     }
 ]

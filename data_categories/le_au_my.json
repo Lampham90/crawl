@@ -1,5 +1,41 @@
 [
     {
+        "name": "Sử Thi Odyssey",
+        "year": 2026,
+        "slug": "su-thi-odyssey",
+        "thumb": "https://phimimg.com/uploads/movies/20260829/su-thi-odyssey-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260829/su-thi-odyssey-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Anh",
+        "description": "Câu chuyện theo chân Odysseus trong hành trình kéo dài 10 năm trở về nhà sau cuộc chiến thành Troy, nơi ông phải đối mặt với các vị thần, quái vật và vô vàn thử thách, đồng thời nỗ lực đoàn tụ với vợ và giành lại vương quốc của mình."
+    },
+    {
+        "name": "The Odyssey",
+        "year": 2026,
+        "slug": "the-odyssey",
+        "thumb": "https://phimimg.com/uploads/movies/20260829/the-odyssey-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260829/the-odyssey-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Dựa trên thiên sử thi Hy Lạp cổ đại. Sau mười năm chiến tranh, Vua Odysseus ra khơi trở về quê nhà Ithaca, khát khao được đoàn tụ với người vợ yêu thương. Nhưng hành trình trở về của ông còn gian nan hơn cả chiến trường, khi ông phải đối mặt với những quái vật chết người cùng sự phẫn nộ của các vị thần để giành lấy sự sống."
+    },
+    {
+        "name": "Grand Theft Auto VI: Cái Nhìn Sâu Hơn",
+        "year": 2026,
+        "slug": "grand-theft-auto-vi-cai-nhin-sau-hon",
+        "thumb": "https://phimimg.com/uploads/movies/20260829/grand-theft-auto-vi-cai-nhin-sau-hon-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260829/grand-theft-auto-vi-cai-nhin-sau-hon-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Video tập trung khai thác mối quan hệ kiểu \"Bonnie và Clyde\" giữa Lucia và Jason. Người chơi có thể chuyển đổi mượt mà giữa hai nhân vật này khi thực hiện nhiệm vụ hoặc khám phá thế giới mở, kết hợp chiến đấu đồng đội ăn ý hơn so với các phần trước."
+    },
+    {
         "name": "Leanne Morgan: Những Thứ Không Thể Nói Ra",
         "year": 2025,
         "slug": "leanne-morgan-nhung-thu-khong-the-noi-ra",
@@ -322,41 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Trong bộ phim &quot;Zootopia 2 - Phi Vụ Động Trời 2&quot; từ Walt Disney Animation Studios, hai thám tử Judy Hopps (lồng tiếng bởi Ginnifer Goodwin) và Nick Wilde (lồng tiếng bởi Jason Bateman) bước vào hành trình truy tìm một sinh vật bò sát bí ẩn vừa xuất hiện tại Zootopia và khiến cả vương quốc động vật bị đảo lộn. Để phá được vụ án, Judy và Nick buộc phải hoạt động bí mật tại những khu vực mới lạ của thành phố – nơi mối quan hệ đồng nghiệp của họ bị thử thách hơn bao giờ hết."
-    },
-    {
-        "name": "Big Chicken: Thuyết Âm Mưu Về Đồ Ăn Nhanh",
-        "year": 2026,
-        "slug": "big-chicken-thuyet-am-muu-ve-do-an-nhanh",
-        "thumb": "https://phimimg.com/uploads/movies/20260806/big-chicken-thuyet-am-muu-ve-do-an-nhanh-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260806/big-chicken-thuyet-am-muu-ve-do-an-nhanh-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Anh",
-        "description": "Trong thử nghiệm táo bạo dài 28 ngày, nghệ sĩ hài Mo Gilligan đi vòng quanh Anh và Mỹ với chế độ ăn gà rán để biết sức ảnh hưởng của cơn thèm món này và ngành công nghiệp đằng sau."
-    },
-    {
-        "name": "Sesame Street Bão Đang Tới",
-        "year": 2026,
-        "slug": "sesame-street-bao-dang-toi",
-        "thumb": "https://phimimg.com/uploads/movies/20260804/sesame-street-bao-dang-toi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260804/sesame-street-bao-dang-toi-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Mỹ",
-        "description": "Sau khi một cơn bão quét qua Phố Vừng, Big Bird không còn tổ nữa! Nhưng các bạn của cậu đã cùng nhau động viên cậu – và giúp cậu xây lại ngôi nhà."
-    },
-    {
-        "name": "Pinocchio Không Bị Trói",
-        "year": 2026,
-        "slug": "pinocchio-khong-bi-troi",
-        "thumb": "https://phimimg.com/uploads/movies/20260826/pinocchio-khong-bi-troi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260826/pinocchio-khong-bi-troi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Anh",
-        "description": "Dưới sự thao túng của một con Dế tà ác và được tạo ra bởi Geppetto, Pinocchio phát động một cuộc tàn sát đẫm máu nhằm tự biến mình thành một cậu bé bằng xương bằng thịt giống như người anh trai James của mình, từng chút một."
     }
 ]
