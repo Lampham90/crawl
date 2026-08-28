@@ -1,15 +1,15 @@
 [
     {
-        "name": "Chuyện Tình Đảo Thiên Đường",
+        "name": "Người Yêu Xui Xẻo",
         "year": 2026,
-        "slug": "chuyen-tinh-dao-thien-duong",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
+        "slug": "nguoi-yeu-xui-xeo",
+        "thumb": "https://phimimg.com/uploads/movies/20260808/nguoi-yeu-xui-xeo-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260808/nguoi-yeu-xui-xeo-poster.webp",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "17",
+        "current_episode": "Tập 4",
+        "total_episodes": "10",
         "country": "Thái Lan",
-        "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
+        "description": "Bị phản bội, Rin gieo lời nguyền để trả thù tình cũ. Nhưng khi lời nguyền ứng nghiệm lên người bạn cùng lớp, cậu phải tìm cách hóa giải mà không để lộ dòng dõi bí mật của mình."
     },
     {
         "name": "Luang Pho Trong Sạch",
@@ -18,7 +18,7 @@
         "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 18",
+        "current_episode": "Tập 19",
         "total_episodes": "30",
         "country": "Thái Lan",
         "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
@@ -30,10 +30,22 @@
         "thumb": "https://phimimg.com/uploads/movies/20260813/giang-ho-bangkok-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260813/giang-ho-bangkok-poster.webp",
         "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 5",
+        "current_episode": "Tập 6",
         "total_episodes": "8",
         "country": "Thái Lan",
         "description": "Lớn lên trong nhà chứa của mẹ Chom, Dang ấp ủ ước mơ trở thành cảnh sát để giúp bà thoát khỏi định kiến xã hội. Thế nhưng, số phận trớ trêu lại đưa anh bước vào thế giới Giang Hồ Bangkok. Tình bạn giữa anh với người bạn chí cốt Pu thì bắt đầu rạn nứt vì cuộc tranh giành quyền lực và tình yêu với người đẹp Wanlapha. Khi Pu gia nhập phe đối đầu cũng là lúc Dang khao khát được trở về bên gia đình và người mình yêu. Nhưng sau biết bao sai lầm trong quá khứ, liệu Dang còn cơ hội làm lại từ đầu?"
+    },
+    {
+        "name": "Chuyện Tình Đảo Thiên Đường",
+        "year": 2026,
+        "slug": "chuyen-tinh-dao-thien-duong",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "17",
+        "country": "Thái Lan",
+        "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
     },
     {
         "name": "Bóng Dưới Trăng",
@@ -250,18 +262,6 @@
         "total_episodes": "19",
         "country": "Thái Lan",
         "description": "Miễn cưỡng liên thủ, tám tay lừa đảo toan thực hiện phi vụ nguy hiểm nhất từ trước đến nay: lừa chính những tên tội phạm đứng sau một mạng lưới lừa đảo ngầm khổng lồ."
-    },
-    {
-        "name": "Người Yêu Xui Xẻo",
-        "year": 2026,
-        "slug": "nguoi-yeu-xui-xeo",
-        "thumb": "https://phimimg.com/uploads/movies/20260808/nguoi-yeu-xui-xeo-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260808/nguoi-yeu-xui-xeo-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Bị phản bội, Rin gieo lời nguyền để trả thù tình cũ. Nhưng khi lời nguyền ứng nghiệm lên người bạn cùng lớp, cậu phải tìm cách hóa giải mà không để lộ dòng dõi bí mật của mình."
     },
     {
         "name": "Bà Đồng Muifei (Muội Phi)",
