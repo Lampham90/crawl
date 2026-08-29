@@ -1,5 +1,17 @@
 [
     {
+        "name": "Người Thì Thầm",
+        "year": 2026,
+        "slug": "nguoi-thi-tham",
+        "thumb": "https://phimimg.com/uploads/movies/20260829/nguoi-thi-tham-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260829/nguoi-thi-tham-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Khi con trai nhỏ mất tích, một người đàn ông góa vợ phải nhờ đến người cha xa cách từ lâu – cựu thanh tra từng bắt giữ tên sát nhân hàng loạt, kẻ giờ đây có liên quan đến vụ án."
+    },
+    {
         "name": "Sử Thi Odyssey",
         "year": 2026,
         "slug": "su-thi-odyssey",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Will là một chú dê nhỏ với những ước mơ lớn, người có được cơ hội duy nhất trong đời để gia nhập các vận động viên chuyên nghiệp và thi đấu môn rugebol — một môn thể thao cường độ cao, pha trộn và đối kháng toàn diện, nơi các loài động vật nhanh nhất và hung dữ nhất thế giới thống trị. Những đồng đội mới của Will không mấy hào hứng khi có một chú dê nhỏ trong đội hình, nhưng Will quyết tâm tạo nên một cuộc cách mạng cho môn thể thao này và chứng minh một lần và mãi mãi rằng: “Nhỏ bé cũng biết chơi!”"
-    },
-    {
-        "name": "Phi Vụ Động Trời 2",
-        "year": 2025,
-        "slug": "phi-vu-dong-troi-2",
-        "thumb": "https://phimimg.com/upload/vod/20251223-1/7154384c306c73664e46942f2477e574.jpg",
-        "poster": "https://phimimg.com/upload/vod/20251223-1/6bc1d549b86e490274d93bab66a3654d.jpg",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Trong bộ phim &quot;Zootopia 2 - Phi Vụ Động Trời 2&quot; từ Walt Disney Animation Studios, hai thám tử Judy Hopps (lồng tiếng bởi Ginnifer Goodwin) và Nick Wilde (lồng tiếng bởi Jason Bateman) bước vào hành trình truy tìm một sinh vật bò sát bí ẩn vừa xuất hiện tại Zootopia và khiến cả vương quốc động vật bị đảo lộn. Để phá được vụ án, Judy và Nick buộc phải hoạt động bí mật tại những khu vực mới lạ của thành phố – nơi mối quan hệ đồng nghiệp của họ bị thử thách hơn bao giờ hết."
     }
 ]
