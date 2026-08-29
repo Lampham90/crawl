@@ -1,5 +1,17 @@
 [
     {
+        "name": "Bốn bàn tay, hai bản sonata",
+        "year": 2026,
+        "slug": "bon-ban-tay-hai-ban-sonata",
+        "thumb": "https://phimimg.com/uploads/movies/20260829/bon-ban-tay-hai-ban-sonata-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260829/bon-ban-tay-hai-ban-sonata-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Khi hai nghệ sĩ piano trẻ đến từ hai thế giới hoàn toàn khác biệt gặp gỡ tại ngôi trường trung học âm nhạc danh giá, khúc nhạc cuộc đời của họ bắt đầu gắn kết chặt chẽ."
+    },
+    {
         "name": "Vỏ Bọc Ngoại Tình (Ngoại Tình Đã Nhằm Nhò Gì)",
         "year": 2026,
         "slug": "vo-boc-ngoai-tinh-ngoai-tinh-da-nham-nho-gi",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Hàn Quốc",
         "description": "Bộ phim kể về Cha Eun Hwan, một chuyên gia tư vấn tâm lý có khả năng đồng cảm quá mạnh, luôn vô thức gánh chịu cảm xúc của người khác. Khả năng này giúp anh nổi tiếng nhưng cũng khiến cuộc sống ngày càng mất cân bằng. Ở chiều ngược lại là Yoo Ji An, cựu thần tượng quốc dân nay chuyển sang làm diễn viên. Do lớn lên dưới sự kiểm soát nghiêm khắc của mẹ, cô dần đánh mất khả năng đồng cảm và rơi vào khủng hoảng vì bị chỉ trích diễn xuất thiếu cảm xúc. Sau một biến cố kỳ lạ, hai người bất ngờ chia sẻ cảm xúc của nhau. Khi niềm vui, nỗi buồn và cả nỗi đau đều được truyền sang đối phương, họ buộc phải đồng hành trong ba tháng để tìm cách hóa giải hiện tượng bí ẩn này. Trên hành trình đó, cả hai dần chữa lành những tổn thương trong quá khứ và tìm thấy tình yêu."
-    },
-    {
-        "name": "Đặc Vụ Kim Tái Khởi Động",
-        "year": 2026,
-        "slug": "dac-vu-kim-tai-khoi-dong",
-        "thumb": "https://phimimg.com/upload/vod/20260627-1/e150d9ace6293867a4cc5df8ed33d03a.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260627-1/9c11aa80dd2d77cb3130d3f41cf08f5f.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Hàn Quốc",
-        "description": "Một ông bố yêu con từng là lính đặc nhiệm đáng gờm. Quản lý Kim phải đánh thức những kĩ năng đã ngủ quên để cứu con gái trong hành trình báo thù không khoan nhượng."
     }
 ]
