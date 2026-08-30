@@ -1,5 +1,29 @@
 [
     {
+        "name": "Chiến Binh Ánh Sáng TEO",
+        "year": 2026,
+        "slug": "chien-binh-anh-sang-teo",
+        "thumb": "https://phimimg.com/uploads/movies/20260708/chien-binh-anh-sang-teo-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260708/chien-binh-anh-sang-teo-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 9",
+        "total_episodes": "28",
+        "country": "Nhật Bản",
+        "description": "Năm 2026, khi series Ultraman kỷ niệm 60 năm, một người hùng mới xuất hiện để kế thừa ánh sáng: Ultraman Teo.\r\n\r\nSau khi hành tinh quê hương bị quái thú tấn công và hủy diệt, một sinh vật ngoài hành tinh cô độc trôi dạt đến Trái Đất.\r\n\r\n“Tôi không muốn chiến đấu… Nhưng tôi vẫn muốn bảo vệ!”\r\n\r\nMang theo quyết tâm mạnh mẽ đó, sinh vật cô đơn mang tên “Teo” sống giữa loài người dưới thân phận một sinh viên đại học tên Ibuki. Khi dần tạo dựng những mối liên kết với những người bạn mới, cậu bắt đầu hành trình trở thành Ultraman."
+    },
+    {
+        "name": "Song Mệnh Cõi Hoàng Tuyền",
+        "year": 2026,
+        "slug": "song-menh-coi-hoang-tuyen",
+        "thumb": "https://phimimg.com/upload/vod/20260406-1/5b01bfa978886e99a559d3a0d9b8940e.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260406-1/3c48ae9098dc344eb0dd90b9ed136bcd.jpg",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 21",
+        "total_episodes": "24",
+        "country": "Nhật Bản",
+        "description": "Câu chuyện khởi nguồn tại Làng Đông, một ngôi làng nhỏ biệt lập trên núi, nơi thời gian như ngừng trôi suốt 400 năm. Chàng thợ săn trẻ Yuru sống bình yên bên mây ngàn gió núi và làm nhiệm vụ bảo vệ người em gái sinh đôi Asa. Thế nhưng, thế giới thanh bình ấy bỗng chốc vỡ vụn khi những “con rồng sắc” bay đầy trời, kéo theo một đạo quân trang bị vũ khí tối tân tàn sát dân làng. Từ đây, Yuru bước vào một hành trình đẫm máu tại xã hội hiện đại. Tâm điểm của cuộc chiến chính là bí ẩn về “Cặp song sinh chia cắt ngày và đêm” cùng sức mạnh thao túng Song Tinh, những linh thể mang sức mạnh hủy diệt luôn tồn tại theo đôi theo cặp."
+    },
+    {
         "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
         "year": 2026,
         "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
@@ -36,18 +60,6 @@
         "description": "Kamen Rider Zeztz xoay quanh một người hùng có năng lực điều khiển giấc mơ. Ban ngày, Yorozu Baku là một anh chàng thất nghiệp sống cùng em gái, nhưng đến đêm, anh lại trở thành một Kamen Rider bất khả chiến bại có khả năng xâm nhập vào giấc mơ của người khác. Khi một thế lực đen tối bắt đầu làm tổ trong giấc mơ của con người để rồi từ đó dần dần xâm lấn thế giới thực, Baku chính là người duy nhất có thể chiến đấu trong mơ để bảo vệ nhân loại và giấc ngủ của họ."
     },
     {
-        "name": "Song Mệnh Cõi Hoàng Tuyền",
-        "year": 2026,
-        "slug": "song-menh-coi-hoang-tuyen",
-        "thumb": "https://phimimg.com/upload/vod/20260406-1/5b01bfa978886e99a559d3a0d9b8940e.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260406-1/3c48ae9098dc344eb0dd90b9ed136bcd.jpg",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 20",
-        "total_episodes": "24",
-        "country": "Nhật Bản",
-        "description": "Câu chuyện khởi nguồn tại Làng Đông, một ngôi làng nhỏ biệt lập trên núi, nơi thời gian như ngừng trôi suốt 400 năm. Chàng thợ săn trẻ Yuru sống bình yên bên mây ngàn gió núi và làm nhiệm vụ bảo vệ người em gái sinh đôi Asa. Thế nhưng, thế giới thanh bình ấy bỗng chốc vỡ vụn khi những “con rồng sắc” bay đầy trời, kéo theo một đạo quân trang bị vũ khí tối tân tàn sát dân làng. Từ đây, Yuru bước vào một hành trình đẫm máu tại xã hội hiện đại. Tâm điểm của cuộc chiến chính là bí ẩn về “Cặp song sinh chia cắt ngày và đêm” cùng sức mạnh thao túng Song Tinh, những linh thể mang sức mạnh hủy diệt luôn tồn tại theo đôi theo cặp."
-    },
-    {
         "name": "Bí Mật Bị Vùi Lấp (Phần 5)",
         "year": 2026,
         "slug": "bi-mat-bi-vui-lap-phan-5",
@@ -58,18 +70,6 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Trên hòn đảo mà kẻ thì giàu có, người lại nghèo khó ở Bắc Carolina, John B và hội bạn thân khám phá bí ẩn và phiêu lưu trong khi truy tìm kho báu mất tích."
-    },
-    {
-        "name": "Chiến Binh Ánh Sáng TEO",
-        "year": 2026,
-        "slug": "chien-binh-anh-sang-teo",
-        "thumb": "https://phimimg.com/uploads/movies/20260708/chien-binh-anh-sang-teo-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260708/chien-binh-anh-sang-teo-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 8",
-        "total_episodes": "28",
-        "country": "Nhật Bản",
-        "description": "Năm 2026, khi series Ultraman kỷ niệm 60 năm, một người hùng mới xuất hiện để kế thừa ánh sáng: Ultraman Teo.\r\n\r\nSau khi hành tinh quê hương bị quái thú tấn công và hủy diệt, một sinh vật ngoài hành tinh cô độc trôi dạt đến Trái Đất.\r\n\r\n“Tôi không muốn chiến đấu… Nhưng tôi vẫn muốn bảo vệ!”\r\n\r\nMang theo quyết tâm mạnh mẽ đó, sinh vật cô đơn mang tên “Teo” sống giữa loài người dưới thân phận một sinh viên đại học tên Ibuki. Khi dần tạo dựng những mối liên kết với những người bạn mới, cậu bắt đầu hành trình trở thành Ultraman."
     },
     {
         "name": "Ngự Đình Dao",
