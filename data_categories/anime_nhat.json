@@ -1,5 +1,29 @@
 [
     {
+        "name": "Cô Dâu Của Quỷ",
+        "year": 2026,
+        "slug": "co-dau-cua-quy",
+        "thumb": "https://phimimg.com/uploads/movies/20260707/co-dau-cua-quy-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260707/co-dau-cua-quy-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 9",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Trong một thế giới nơi con người và các ayakashi — những sinh vật siêu nhiên — cùng nhau chung sống, việc được chọn làm cô dâu của một ayakashi là niềm vinh dự tối cao. Yuzu, một nữ sinh bình thường, luôn bị ngó lơ suốt cả cuộc đời và hoàn toàn bị lu mờ trước cái bóng của người chị gái Karin — một cô dâu đã được chọn. Ngay vào lúc Yuzu tưởng như đã chịu đựng đủ, cô lại bất ngờ lọt vào mắt xanh của Reiya, một thủ lĩnh quỷ (ogre) điển trai đến từ một gia tộc quyền lực, người đã tuyên bố Yuzu chính là định mệnh của đời mình."
+    },
+    {
+        "name": "Kabushikigaisha Magi-Lumière SS2",
+        "year": 2026,
+        "slug": "kabushikigaisha-magi-lumiere-ss2",
+        "thumb": "https://phimimg.com/uploads/movies/20260729/kabushikigaisha-magi-lumiere-ss2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260729/kabushikigaisha-magi-lumiere-ss2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 8",
+        "total_episodes": "24",
+        "country": "Nhật Bản",
+        "description": "Công chúa phép thuật: mạnh mẽ, cực ngầu và là công việc mơ ước đỉnh cao. Cô sinh viên đại học Kana Sakuragi đang trong quá trình chật vật tìm việc làm nhưng chẳng mấy may mắn! Một ngày nọ, cô vô tình vướng vào một vụ tấn công do quái vật \"Kaii\" gây ra. Nữ công chúa phép thuật đầy cá tính Hitomi Koshigaya đã bay đến giải cứu, và Kana đã tận dụng trí nhớ tuyệt vời của mình để giúp cô ấy tiêu diệt con quái vật. Đã được tuyển dụng làm công chúa phép thuật chính thức tại Công ty Cổ phần Công chúa Phép thuật Magilumiere, Kana chính thức bước những bước đầu tiên vào thế giới làm việc chuyên nghiệp!"
+    },
+    {
         "name": "Bleach: Huyết Chiến Ngàn Năm - Kiếp Nạn",
         "year": 2026,
         "slug": "bleach-huyet-chien-ngan-nam-kiep-nan",
@@ -34,18 +58,6 @@
         "total_episodes": "12",
         "country": "Nhật Bản",
         "description": "Bối cảnh Nhật Bản vào những năm 1910. Tại một thị trấn kỳ lạ ngập tràn những trận tuyết đen huyền bí, Kodo Iwamoto — học viên của một học viện quân sự chuyên nghiên cứu về các hiện tượng siêu nhiên — đã được cử đến để điều tra. Tại đây, anh gặp một cậu thiếu niên luôn nghĩ rằng bản thân đang mắc bệnh hiểm nghèo, nhưng Kodo đã nhận ra căn bệnh đó thực chất lại là một thứ khác: năng lượng siêu nhiên. Kodo quyết định chiêu mộ cậu bé vào học viện và cả hai cùng nhau lên đường đi khắp đất nước, vừa săn tìm những bí ẩn vừa tìm kiếm những người có khả năng đặc biệt giống như cậu."
-    },
-    {
-        "name": "Kabushikigaisha Magi-Lumière SS2",
-        "year": 2026,
-        "slug": "kabushikigaisha-magi-lumiere-ss2",
-        "thumb": "https://phimimg.com/uploads/movies/20260729/kabushikigaisha-magi-lumiere-ss2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260729/kabushikigaisha-magi-lumiere-ss2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "24",
-        "country": "Nhật Bản",
-        "description": "Công chúa phép thuật: mạnh mẽ, cực ngầu và là công việc mơ ước đỉnh cao. Cô sinh viên đại học Kana Sakuragi đang trong quá trình chật vật tìm việc làm nhưng chẳng mấy may mắn! Một ngày nọ, cô vô tình vướng vào một vụ tấn công do quái vật \"Kaii\" gây ra. Nữ công chúa phép thuật đầy cá tính Hitomi Koshigaya đã bay đến giải cứu, và Kana đã tận dụng trí nhớ tuyệt vời của mình để giúp cô ấy tiêu diệt con quái vật. Đã được tuyển dụng làm công chúa phép thuật chính thức tại Công ty Cổ phần Công chúa Phép thuật Magilumiere, Kana chính thức bước những bước đầu tiên vào thế giới làm việc chuyên nghiệp!"
     },
     {
         "name": "Flaming Dodgeball Girl Danko",
@@ -346,17 +358,5 @@
         "total_episodes": "12",
         "country": "Nhật Bản",
         "description": "Kakeru Sorano, một nam sinh năm nhất đại học trầm tính và luôn né tránh mọi người, tình cờ gặp gỡ Koharu Fuyutsuki, một cô gái khiếm thị luôn đối mặt với thế giới bằng sự lạc quan, rạng rỡ thầm lặng. Khi cô nói: “Em ước một ngày nào đó có thể ngắm nhìn pháo hoa,” một điều gì đó trong lòng Kakeru đã thay đổi. Khi họ dần xích lại gần nhau hơn qua những khoảnh khắc nhỏ bé và sự cô đơn đồng điệu, anh bắt đầu tìm mọi cách để biến ước nguyện của cô thành hiện thực."
-    },
-    {
-        "name": "Hướng Dẫn Trả Thù Của Một Quý Bà Tức Giận",
-        "year": 2026,
-        "slug": "huong-dan-tra-thu-cua-mot-quy-ba-tuc-gian",
-        "thumb": "https://phimimg.com/uploads/movies/20260708/huong-dan-tra-thu-cua-mot-quy-ba-tuc-gian-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260708/huong-dan-tra-thu-cua-mot-quy-ba-tuc-gian-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "12",
-        "country": "Nhật Bản",
-        "description": "Sau khi bị thái tử công khai phản bội và tống vào ngục tối, tiểu thư quý tộc Elizabeth đã trốn thoát khỏi vương quốc cùng với Thần chú Bảy cuốn Sách ma thuật (Seven Grimoires) huyền thoại. Nhờ sự giúp đỡ của một tử tước đến từ quốc gia láng giềng, cô bắt đầu gầy dựng lại cuộc đời mới, đồng thời âm thầm vạch ra một kế hoạch trả thù tàn nhẫn hướng về phía vương quốc đã từng ruồng bỏ mình."
     }
 ]
