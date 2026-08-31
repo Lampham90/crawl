@@ -1639,6 +1639,18 @@
     ],
     "bo_trung": [
         {
+            "name": "Kim Sắc",
+            "year": 2026,
+            "slug": "kim-sac",
+            "thumb": "https://phimimg.com/uploads/movies/20260826/kim-sac-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260826/kim-sac-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 9",
+            "total_episodes": "13",
+            "country": "Trung Quốc",
+            "description": "Ba mươi vạn lượng vàng bất ngờ xuất hiện giữa đại mạc, tương truyền bất cứ ai tìm kiếm kho báu đều sẽ hóa thành lệ quỷ. Cẩm Y Vệ đến điều tra nhưng ngay ngày đầu tiên đã phát điên. Vị phó sứ gan dạ, trung thành bị lạc lối, lún sâu trong dục vọng và tín nghĩa. Một cô gái từng chịu cảnh diệt môn, bách độc bất xâm, nay trở lại đại mạc, biến mình thành mục tiêu tranh giành của các thế lực và quyết tâm báo thù! Sau lớp cát vàng mịt mù là lòng tham của những kẻ nhòm ngó kho báu cùng cạm bẫy được giăng sẵn để kéo cô vào cuộc. Từ dịch trạm, tiêu cục đến phủ tướng quân, một làn khói cô đơn giữa sa mạc và những hiệp khách giang hồ, một câu chuyện võ hiệp đậm chất phương Đông sẽ được kể lại theo một cách hoàn toàn mới."
+        },
+        {
             "name": "Muôn Dặm Giang Sơn Chờ Ta Khai Phá",
             "year": 2026,
             "slug": "muon-dam-giang-son-cho-ta-khai-pha",
@@ -1769,18 +1781,6 @@
             "total_episodes": "12",
             "country": "Trung Quốc",
             "description": "Sống ở thời hiện đại không có yêu ma quỷ quái, Lâm Nghiễn dù có phép thuật đầy mình cũng đành chịu cảnh không có đất dụng võ. Một ngày nọ, cậu vô tình lạc vào Tử Kinh Lâu ở một không gian khác. Tại thế giới này, sự xuất hiện của cậu giống như một \"lỗi hệ thống\". Lâm Nghiễn kết bạn với Trương Minh Minh và hacker Mã Tiểu Ngoan, nhưng ngay sau đó lại bị trùm cuối Thiên Bất Ứng thả bầy quái vật \"Bảy đại tội\" ra truy sát. Cả ba phải cùng nhau sát cánh vượt qua những cửa ải rùng rợn. Dựa vào bản lĩnh của mình, Lâm Nghiễn khéo léo lách luật chơi để vượt qua từng tầng một, qua đó vạch trần những âm mưu đen tối và bí mật ẩn giấu của tất cả mọi người."
-        },
-        {
-            "name": "Kim Sắc",
-            "year": 2026,
-            "slug": "kim-sac",
-            "thumb": "https://phimimg.com/uploads/movies/20260826/kim-sac-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260826/kim-sac-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "13",
-            "country": "Trung Quốc",
-            "description": "Ba mươi vạn lượng vàng bất ngờ xuất hiện giữa đại mạc, tương truyền bất cứ ai tìm kiếm kho báu đều sẽ hóa thành lệ quỷ. Cẩm Y Vệ đến điều tra nhưng ngay ngày đầu tiên đã phát điên. Vị phó sứ gan dạ, trung thành bị lạc lối, lún sâu trong dục vọng và tín nghĩa. Một cô gái từng chịu cảnh diệt môn, bách độc bất xâm, nay trở lại đại mạc, biến mình thành mục tiêu tranh giành của các thế lực và quyết tâm báo thù! Sau lớp cát vàng mịt mù là lòng tham của những kẻ nhòm ngó kho báu cùng cạm bẫy được giăng sẵn để kéo cô vào cuộc. Từ dịch trạm, tiêu cục đến phủ tướng quân, một làn khói cô đơn giữa sa mạc và những hiệp khách giang hồ, một câu chuyện võ hiệp đậm chất phương Đông sẽ được kể lại theo một cách hoàn toàn mới."
         },
         {
             "name": "Những Năm Ta Là Đệ Nhất Tầm Long",
@@ -2925,16 +2925,16 @@
             "description": "\"Doraemon: Nobita và Lâu đài dưới đáy biển\" (tên khác là Lâu đài ma dưới đáy biển) là một trong những tác phẩm kinh điển thuộc loạt truyện dài và phim điện ảnh Doraemon. Hiện tại, tác phẩm này đang thu hút sự chú ý với phiên bản làm mới (remake) ra mắt vào năm 2026."
         },
         {
-            "name": "Muôn Dặm Giang Sơn Chờ Ta Khai Phá",
+            "name": "Kim Sắc",
             "year": 2026,
-            "slug": "muon-dam-giang-son-cho-ta-khai-pha",
-            "thumb": "https://phimimg.com/uploads/movies/20260831/muon-dam-giang-son-cho-ta-khai-pha-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260831/muon-dam-giang-son-cho-ta-khai-pha-poster.webp",
+            "slug": "kim-sac",
+            "thumb": "https://phimimg.com/uploads/movies/20260826/kim-sac-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260826/kim-sac-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "24",
+            "current_episode": "Tập 9",
+            "total_episodes": "13",
             "country": "Trung Quốc",
-            "description": "Triệu Đông - tiên tôn một lòng cầu đạo, lạnh nhạt với tình duyên thế tục, khiến tiên quyến đâm sau lưng, đoạ kiếp trong nỗi tiếc hận. Sau khi trùng sinh, hắn nhập vào thân xác một tên lưu manh cũng tên Triệu Đông. Trải qua hai kiếp tiên phàm, hắn thấu hiểu đạo lý \"mọi việc đều phải có chừng mực\", quyết định gắn bó với chốn phàm trần, bù đắp những tiếc nuối trước kia và một lần nữa chứng đắc đại đạo."
+            "description": "Ba mươi vạn lượng vàng bất ngờ xuất hiện giữa đại mạc, tương truyền bất cứ ai tìm kiếm kho báu đều sẽ hóa thành lệ quỷ. Cẩm Y Vệ đến điều tra nhưng ngay ngày đầu tiên đã phát điên. Vị phó sứ gan dạ, trung thành bị lạc lối, lún sâu trong dục vọng và tín nghĩa. Một cô gái từng chịu cảnh diệt môn, bách độc bất xâm, nay trở lại đại mạc, biến mình thành mục tiêu tranh giành của các thế lực và quyết tâm báo thù! Sau lớp cát vàng mịt mù là lòng tham của những kẻ nhòm ngó kho báu cùng cạm bẫy được giăng sẵn để kéo cô vào cuộc. Từ dịch trạm, tiêu cục đến phủ tướng quân, một làn khói cô đơn giữa sa mạc và những hiệp khách giang hồ, một câu chuyện võ hiệp đậm chất phương Đông sẽ được kể lại theo một cách hoàn toàn mới."
         },
         {
             "name": "Lớp Học Tình Yêu (Phần 3)",
@@ -2985,16 +2985,16 @@
             "description": "Con Kể Ba Nghe là bộ phim chiếu rạp Việt Nam mang đậm màu sắc gia đình, theo chân một nghệ sĩ xiếc đi trên dây và cậu con trai sống khép kín trong hành trình tìm lại sự gắn kết đã dần phai nhạt theo năm tháng."
         },
         {
-            "name": "Ô Vân Chi Thượng : Vén Màn Mây Đen",
-            "year": 2025,
-            "slug": "o-van-chi-thuong-ven-man-may-den",
-            "thumb": "https://phimimg.com/upload/vod/20250404-1/9e657922541569c5fbedb54fe35843ab.jpg",
-            "poster": "https://phimimg.com/uploads/movies/20260831/o-van-chi-thuong-ven-man-may-den-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (17/17)",
-            "total_episodes": "17",
+            "name": "Muôn Dặm Giang Sơn Chờ Ta Khai Phá",
+            "year": 2026,
+            "slug": "muon-dam-giang-son-cho-ta-khai-pha",
+            "thumb": "https://phimimg.com/uploads/movies/20260831/muon-dam-giang-son-cho-ta-khai-pha-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260831/muon-dam-giang-son-cho-ta-khai-pha-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Hàn Thanh là nữ cảnh sát thuộc đội điều tra hình sự Tam Hợp. Vì nghiêm túc, ít nói và chỉ tập trung vào công việc, cô được gắn biệt danh “Không Vui”. Cô đã hợp tác ăn ý với đồng nghiệp Chung Vĩ nhiều năm, nhưng Chung Vĩ lại mất tích sau khi theo dõi một nghi phạm và không có tin tức suốt gần hai tháng. Trong khi lo lắng và đau khổ, Hàn Thanh vẫn xử lý các vụ án khác, không từ bỏ bất kỳ manh mối nào liên quan đến Chung Vĩ. Một vụ án mạng mới khiến Hàn Thanh cảnh giác cao độ. Qua các chi tiết nhỏ, cô phán đoán vụ án mạng này có liên quan đến sự mất tích của Chung Vĩ. Dù gặp nhiều trở ngại trong quá trình điều tra, kẻ phạm tội thực sự cuối cùng đã lộ diện và những gì mà Chung Vĩ đã trải qua cũng dần trở nên rõ ràng. Cảnh sát lần theo các manh mối, phát hiện mối liên hệ giữa ba vụ án lớn: mất tích, giết người và buôn ma túy, từ đó lần ra mạng lưới tổ chức tội phạm phức tạp và những bí mật ẩn giấu đằng sau nó. Đội điều tra Tam Hợp hợp lực, phá án thành công, toàn bộ tội phạm đều bị bắt giữ."
+            "description": "Triệu Đông - tiên tôn một lòng cầu đạo, lạnh nhạt với tình duyên thế tục, khiến tiên quyến đâm sau lưng, đoạ kiếp trong nỗi tiếc hận. Sau khi trùng sinh, hắn nhập vào thân xác một tên lưu manh cũng tên Triệu Đông. Trải qua hai kiếp tiên phàm, hắn thấu hiểu đạo lý \"mọi việc đều phải có chừng mực\", quyết định gắn bó với chốn phàm trần, bù đắp những tiếc nuối trước kia và một lần nữa chứng đắc đại đạo."
         },
         {
             "name": "Bốn bàn tay, hai bản sonata",
@@ -3045,16 +3045,16 @@
             "description": "Không còn Tony Stark, MJ hay Ned kề cận, Peter buộc phải đơn thân độc mã đối diện với phe đối đầu bí ẩn. Tuy nhiên, khi áp lực ngày càng gia tăng, nó kích hoạt một sự biến đổi thể chất bất ngờ, đe dọa chính sự tồn tại của anh. Đồng thời, một chuỗi tội phạm bí ẩn mới xuất hiện, kéo theo một trong những mối đe dọa mạnh mẽ nhất mà Spider-Man từng đối mặt."
         },
         {
-            "name": "Bay Vào Trái Tim Anh",
-            "year": 2026,
-            "slug": "bay-vao-trai-tim-anh",
-            "thumb": "https://phimimg.com/uploads/movies/20260831/bay-vao-trai-tim-anh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260831/bay-vao-trai-tim-anh-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "24",
+            "name": "Ô Vân Chi Thượng : Vén Màn Mây Đen",
+            "year": 2025,
+            "slug": "o-van-chi-thuong-ven-man-may-den",
+            "thumb": "https://phimimg.com/upload/vod/20250404-1/9e657922541569c5fbedb54fe35843ab.jpg",
+            "poster": "https://phimimg.com/uploads/movies/20260831/o-van-chi-thuong-ven-man-may-den-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (17/17)",
+            "total_episodes": "17",
             "country": "Trung Quốc",
-            "description": "Nguyễn Tư Nhàn, một tiếp viên hàng không quyết tâm theo đuổi ước mơ phi công, đã vượt qua nhiều thử thách để tốt nghiệp xuất sắc. Trên hành trình chinh phục sự nghiệp, cô dần nảy sinh tình cảm chân thành với Phó chủ tịch hãng hàng không Phó Minh Dư bất chấp những hiểu lầm và trở ngại."
+            "description": "Hàn Thanh là nữ cảnh sát thuộc đội điều tra hình sự Tam Hợp. Vì nghiêm túc, ít nói và chỉ tập trung vào công việc, cô được gắn biệt danh “Không Vui”. Cô đã hợp tác ăn ý với đồng nghiệp Chung Vĩ nhiều năm, nhưng Chung Vĩ lại mất tích sau khi theo dõi một nghi phạm và không có tin tức suốt gần hai tháng. Trong khi lo lắng và đau khổ, Hàn Thanh vẫn xử lý các vụ án khác, không từ bỏ bất kỳ manh mối nào liên quan đến Chung Vĩ. Một vụ án mạng mới khiến Hàn Thanh cảnh giác cao độ. Qua các chi tiết nhỏ, cô phán đoán vụ án mạng này có liên quan đến sự mất tích của Chung Vĩ. Dù gặp nhiều trở ngại trong quá trình điều tra, kẻ phạm tội thực sự cuối cùng đã lộ diện và những gì mà Chung Vĩ đã trải qua cũng dần trở nên rõ ràng. Cảnh sát lần theo các manh mối, phát hiện mối liên hệ giữa ba vụ án lớn: mất tích, giết người và buôn ma túy, từ đó lần ra mạng lưới tổ chức tội phạm phức tạp và những bí mật ẩn giấu đằng sau nó. Đội điều tra Tam Hợp hợp lực, phá án thành công, toàn bộ tội phạm đều bị bắt giữ."
         },
         {
             "name": "Sát Thủ Nội Trợ (Vợ Tôi Là Sát Thủ)",
