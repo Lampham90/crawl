@@ -1,5 +1,17 @@
 [
     {
+        "name": "Danny Go! (Phần 2)",
+        "year": 2026,
+        "slug": "danny-go-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20260831/danny-go-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260831/danny-go-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (6/6)",
+        "total_episodes": "6",
+        "country": "Âu Mỹ",
+        "description": "Sẵn sàng nhảy múa, ca hát và vui chơi? Cùng Danny Go và các bạn tham gia phiêu lưu vận động, hoạt động thư giãn đầu óc và những trò chơi học tập tương tác hấp dẫn dành cho trẻ."
+    },
+    {
         "name": "Stuart Cứu Không Nổi Vũ Trụ (Phần 1)",
         "year": 2026,
         "slug": "stuart-cuu-khong-noi-vu-tru-phan-1",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Lấy cảm hứng từ trùm tội phạm khét tiếng Bumpy Johnson, người sau mười năm trong tù trở về vào đầu thập niên 1960 và chứng kiến khu phố từng dưới quyền kiểm soát của mình rơi vào hỗn loạn. Với những con phố nay nằm trong tay mafia Ý, Bumpy quyết tâm giành lại vị thế của mình ở Harlem."
-    },
-    {
-        "name": "Cá đỏ, cá xanh (Phần 3)",
-        "year": 2026,
-        "slug": "ca-do-ca-xanh-phan-3",
-        "thumb": "https://phimimg.com/uploads/movies/20260813/ca-do-ca-xanh-phan-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260813/ca-do-ca-xanh-phan-3-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (5/5)",
-        "total_episodes": "5",
-        "country": "Canada",
-        "description": "Một con cá, hai con cá, gặp ngay Cá Đỏ và Cá Xanh! Từ đây sang đó – từ đó về đây – đôi bạn này tìm thấy những cặp đối nghĩa ở khắp mọi nơi!"
     }
 ]

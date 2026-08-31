@@ -1,5 +1,53 @@
 [
     {
+        "name": "Giáo Trình Tình Yêu Bắt Buộc",
+        "year": 2026,
+        "slug": "giao-trinh-tinh-yeu-bat-buoc",
+        "thumb": "https://phimimg.com/uploads/movies/20260818/giao-trinh-tinh-yeu-bat-buoc-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260818/giao-trinh-tinh-yeu-bat-buoc-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "15",
+        "country": "Thái Lan",
+        "description": "Sáu học sinh cùng nhau trải qua những tình cảm đơn phương thầm kín, những lời hứa hẹn năm xưa và những tổn thương tình cảm bất ngờ khi họ bị buộc phải tham gia vào một khóa học bắt buộc của nhà trường về chủ đề tình yêu."
+    },
+    {
+        "name": "Đầu Bếp Đấu Giá",
+        "year": 2026,
+        "slug": "dau-bep-dau-gia",
+        "thumb": "https://phimimg.com/uploads/movies/20260730/dau-bep-dau-gia-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260722/dau-bep-dau-gia-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "11",
+        "country": "Thái Lan",
+        "description": "Những đầu bếp hàng đầu bước vào cuộc thi nấu ăn khốc liệt, nơi họ phải đối đầu, đấu trí và trả giá vượt mặt nhau để khẳng định bản lĩnh ẩm thực."
+    },
+    {
+        "name": "Cuộc Chạy Đua Của Tình Và Tiền",
+        "year": 2026,
+        "slug": "cuoc-chay-dua-cua-tinh-va-tien",
+        "thumb": "https://phimimg.com/upload/vod/20260629-1/b8d61d3c356a30941f0548973005b5cc.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260629-1/d9d82ad102c98c4f158d025ed0b81b6b.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 19",
+        "total_episodes": "19",
+        "country": "Thái Lan",
+        "description": "Tình yêu, ước mơ, cuộc sống mưu sinh xoáy vào nhau khi nhóm &quot;Gen Me&quot; đối diện nhịp sống hối hả ở Thái Lan, nơi trưởng thành đánh đổi bằng nước mắt, tình cảm và sự thật nghiệt ngã."
+    },
+    {
+        "name": "Anh Sam Của Em",
+        "year": 2026,
+        "slug": "anh-sam-cua-em",
+        "thumb": "https://phimimg.com/uploads/movies/20260727/anh-sam-cua-em-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260727/anh-sam-cua-em-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "12",
+        "country": "Thái Lan",
+        "description": "Một thư ký được giao nhiệm vụ đi đưa người em trai bỏ nhà ra đi của sếp mình trở về. Tuy nhiên, trong quá trình tiếp cận, anh lại đem lòng yêu chính người đàn ông đang bị tổn thương vì tình yêu mà mình có nhiệm vụ phải đưa về nhà."
+    },
+    {
         "name": "GELBOYS (Phần 2)",
         "year": 2025,
         "slug": "gelboys-phan-2",
@@ -240,42 +288,6 @@
         "description": "Kay, một họa sĩ manga nổi tiếng, bất ngờ bị cuốn vào cuộc điều tra một vụ án giết người hàng loạt khi các nạn nhân, phương thức gây án và hiện trường đều giống đến rợn người với những tình tiết trong tác phẩm anh từng sáng tác. Điều này khiến Phát, thanh tra phụ trách vụ án, đưa Kay vào tầm theo dõi sát sao. Buộc phải hợp tác trong quá trình điều tra, Kay và Phát cùng nhau lần theo từng manh mối để tìm ra sự thật và danh tính kẻ sát nhân. Khi cuộc điều tra dần hé mở những bí ẩn, sự nghi ngờ ban đầu cũng từng bước nhường chỗ cho niềm tin, kéo hai người xích lại gần nhau hơn theo cách mà cả hai đều không ngờ tới. Thế nhưng, càng đào sâu, những bí mật bị chôn vùi trong quá khứ càng lần lượt được phơi bày. Khi mỗi sự thật mới đều thử thách mối quan hệ giữa họ, Kay và Phát phải quyết định liệu họ có thể cùng nhau đối mặt với hiểm nguy hay sẽ trở thành những mục tiêu tiếp theo của kẻ sát nhân."
     },
     {
-        "name": "Anh Sam Của Em",
-        "year": 2026,
-        "slug": "anh-sam-cua-em",
-        "thumb": "https://phimimg.com/uploads/movies/20260727/anh-sam-cua-em-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260727/anh-sam-cua-em-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Một thư ký được giao nhiệm vụ đi đưa người em trai bỏ nhà ra đi của sếp mình trở về. Tuy nhiên, trong quá trình tiếp cận, anh lại đem lòng yêu chính người đàn ông đang bị tổn thương vì tình yêu mà mình có nhiệm vụ phải đưa về nhà."
-    },
-    {
-        "name": "Giáo Trình Tình Yêu Bắt Buộc",
-        "year": 2026,
-        "slug": "giao-trinh-tinh-yeu-bat-buoc",
-        "thumb": "https://phimimg.com/uploads/movies/20260818/giao-trinh-tinh-yeu-bat-buoc-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260818/giao-trinh-tinh-yeu-bat-buoc-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "15",
-        "country": "Thái Lan",
-        "description": "Sáu học sinh cùng nhau trải qua những tình cảm đơn phương thầm kín, những lời hứa hẹn năm xưa và những tổn thương tình cảm bất ngờ khi họ bị buộc phải tham gia vào một khóa học bắt buộc của nhà trường về chủ đề tình yêu."
-    },
-    {
-        "name": "Cuộc Chạy Đua Của Tình Và Tiền",
-        "year": 2026,
-        "slug": "cuoc-chay-dua-cua-tinh-va-tien",
-        "thumb": "https://phimimg.com/upload/vod/20260629-1/b8d61d3c356a30941f0548973005b5cc.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260629-1/d9d82ad102c98c4f158d025ed0b81b6b.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 17",
-        "total_episodes": "19",
-        "country": "Thái Lan",
-        "description": "Tình yêu, ước mơ, cuộc sống mưu sinh xoáy vào nhau khi nhóm &quot;Gen Me&quot; đối diện nhịp sống hối hả ở Thái Lan, nơi trưởng thành đánh đổi bằng nước mắt, tình cảm và sự thật nghiệt ngã."
-    },
-    {
         "name": "Tám Tay Lừa Đảo",
         "year": 2026,
         "slug": "tam-tay-lua-dao",
@@ -298,18 +310,6 @@
         "total_episodes": "20",
         "country": "Thái Lan",
         "description": "Bà Đồng Muifei là một cô gái trẻ sống trong một ngôi làng ở vùng núi, mang trên vai trách nhiệm gánh chịu những điều bất hạnh và đau khổ thay cho cộng đồng. Cuộc đời Muifei bắt đầu rẽ sang bước ngoặt bi kịch khi cô đem lòng yêu chàng trai thành phố Phum và rời bỏ quê nhà để đi theo tiếng gọi của con tim. Tuy nhiên, hy vọng về một cuộc sống tốt đẹp hơn nhanh chóng tan biến khi cô phải đối mặt với vô vàn khó khăn, sự bóc lột và những hành vi ngược đãi tàn nhẫn. Bị nhấn chìm trong đau đớn tột cùng, Muifei trở lại dưới hình dạng một linh hồn báo oán, quyết tâm đòi lại công lý."
-    },
-    {
-        "name": "Đầu Bếp Đấu Giá",
-        "year": 2026,
-        "slug": "dau-bep-dau-gia",
-        "thumb": "https://phimimg.com/uploads/movies/20260730/dau-bep-dau-gia-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260722/dau-bep-dau-gia-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "11",
-        "country": "Thái Lan",
-        "description": "Những đầu bếp hàng đầu bước vào cuộc thi nấu ăn khốc liệt, nơi họ phải đối đầu, đấu trí và trả giá vượt mặt nhau để khẳng định bản lĩnh ẩm thực."
     },
     {
         "name": "San Hô Đen",

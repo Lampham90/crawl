@@ -1,5 +1,17 @@
 [
     {
+        "name": "Mobile Suit Gundam: Tia Chớp Hathaway / Mobile Suit Gundam: Hathaway Ma Thuật Nữ Thần Circe",
+        "year": 2026,
+        "slug": "mobile-suit-gundam-tia-chop-hathaway-mobile-suit-gundam-hathaway-ma-thuat-nu-than-circe",
+        "thumb": "https://phimimg.com/uploads/movies/20260831/mobile-suit-gundam-tia-chop-hathaway-mobile-suit-gundam-hathaway-ma-thuat-nu-than-circe-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260831/mobile-suit-gundam-tia-chop-hathaway-mobile-suit-gundam-hathaway-ma-thuat-nu-than-circe-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Nhật Bản",
+        "description": "Lấy bối cảnh U.C. 0105, Liên bang Trái Đất ngày càng tham nhũng và áp dụng chính sách đàn áp dân thường. Hathaway Noa bí mật trở thành thủ lĩnh tổ chức kháng chiến “Mafty”, chuyên ám sát các quan chức cấp cao để chống lại chính quyền độc tài.  Trong phần phim 2026, Hathaway tiếp tục chuẩn bị kế hoạch tấn công hội nghị Adelaide — nơi tập trung giới lãnh đạo Liên bang. Đồng thời, lực lượng Liên bang dưới quyền Kenneth Sleg mở chiến dịch truy lùng và tiêu diệt Mafty."
+    },
+    {
         "name": "Doraemon: Nobita và Lâu Đài Dưới Đáy Biển (Phiên bản mới)",
         "year": 2026,
         "slug": "doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi",
@@ -331,16 +343,5 @@
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "Âu Mỹ"
-    },
-    {
-        "name": "Tafiti và Hành Trình Xuyên Sa Mạc",
-        "year": 2025,
-        "slug": "tafiti-va-hanh-trinh-xuyen-sa-mac",
-        "thumb": "https://phimimg.com/upload/vod/20260602-1/4d8a686c5cb3447380a59ac1ff08a491.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260602-1/3f29646b49565bf4bca191fd881abd50.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Đức"
     }
 ]
