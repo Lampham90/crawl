@@ -1,5 +1,41 @@
 [
     {
+        "name": "Luang Pho Trong Sạch",
+        "year": 2026,
+        "slug": "luang-pho-trong-sach",
+        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 21",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
+    },
+    {
+        "name": "Lâu Đài Tham Vọng (Bản Thái)",
+        "year": 2026,
+        "slug": "lau-dai-tham-vong-ban-thai",
+        "thumb": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 9",
+        "total_episodes": "16",
+        "country": "Thái Lan",
+        "description": "Được làm lại từ bộ phim Hàn Quốc đình đám cùng tên, Lâu Đài Tham Vọng (Bản Thái) xoay quanh cuộc chiến khốc liệt của những bậc cha mẹ giàu có tại khu biệt thự Sky Castle nhằm đưa con cái vào trường đại học danh giá. Fah, một người mẹ đang che giấu quá khứ nghèo khó, quyết tâm ép con gái phải đỗ Harvard để bảo vệ địa vị của bản thân. Áp lực ngày càng gia tăng với sự xuất hiện của một chuyên gia luyện thi khắc nghiệt và một học sinh thiên tài mang trong mình một bí mật có thể phá hủy mọi thứ mà Fah dày công gây dựng. Sau một sự cố gây chấn động tại một bữa tiệc, những sự thật bị chôn vùi ở Sky Castle lần lượt bị phơi bày."
+    },
+    {
+        "name": "Hai Trái Tim",
+        "year": 2026,
+        "slug": "hai-trai-tim",
+        "thumb": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "16",
+        "country": "Thái Lan",
+        "description": "Võ sĩ quyền Anh Dom nằm vùng để thâm nhập tổ chức tội phạm hùng mạnh, nhưng nhiệm vụ này nhanh chóng đẩy cả cuộc hôn nhân lẫn tính mạng của anh vào thế hiểm nguy."
+    },
+    {
         "name": "Điên Tình",
         "year": 2026,
         "slug": "dien-tinh-2026",
@@ -106,18 +142,6 @@
         "total_episodes": "12",
         "country": "Thái Lan",
         "description": "Dù vẫn còn tình cảm với nhau nhưng bị mẹ của Runch chia cắt, hai người phụ nữ phải giả vờ rằng cuộc hôn nhân của họ vẫn hạnh phúc để hoàn tất một thương vụ kinh doanh quan trọng."
-    },
-    {
-        "name": "Luang Pho Trong Sạch",
-        "year": 2026,
-        "slug": "luang-pho-trong-sach",
-        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 20",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
     },
     {
         "name": "Hội Chứng Mê Bạn Cùng Lớp",
@@ -238,30 +262,6 @@
         "total_episodes": "12",
         "country": "Thái Lan",
         "description": "Cuộc đời của một chàng trai trẻ đã thay đổi mãi mãi khi anh bị một Alpha quyền năng đánh dấu, buộc chặt định mệnh của cả hai vào một mối liên kết không thể nào trốn chạy."
-    },
-    {
-        "name": "Lâu Đài Tham Vọng (Bản Thái)",
-        "year": 2026,
-        "slug": "lau-dai-tham-vong-ban-thai",
-        "thumb": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 8",
-        "total_episodes": "16",
-        "country": "Thái Lan",
-        "description": "Được làm lại từ bộ phim Hàn Quốc đình đám cùng tên, Lâu Đài Tham Vọng (Bản Thái) xoay quanh cuộc chiến khốc liệt của những bậc cha mẹ giàu có tại khu biệt thự Sky Castle nhằm đưa con cái vào trường đại học danh giá. Fah, một người mẹ đang che giấu quá khứ nghèo khó, quyết tâm ép con gái phải đỗ Harvard để bảo vệ địa vị của bản thân. Áp lực ngày càng gia tăng với sự xuất hiện của một chuyên gia luyện thi khắc nghiệt và một học sinh thiên tài mang trong mình một bí mật có thể phá hủy mọi thứ mà Fah dày công gây dựng. Sau một sự cố gây chấn động tại một bữa tiệc, những sự thật bị chôn vùi ở Sky Castle lần lượt bị phơi bày."
-    },
-    {
-        "name": "Hai Trái Tim",
-        "year": 2026,
-        "slug": "hai-trai-tim",
-        "thumb": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "16",
-        "country": "Thái Lan",
-        "description": "Võ sĩ quyền Anh Dom nằm vùng để thâm nhập tổ chức tội phạm hùng mạnh, nhưng nhiệm vụ này nhanh chóng đẩy cả cuộc hôn nhân lẫn tính mạng của anh vào thế hiểm nguy."
     },
     {
         "name": "Cú Giao Bóng Tình Yêu",

@@ -1,5 +1,41 @@
 [
     {
+        "name": "Thám Tử Động Vật (Phần 7)",
+        "year": 2026,
+        "slug": "tham-tu-dong-vat-phan-7",
+        "thumb": "https://phimimg.com/uploads/movies/20260901/tham-tu-dong-vat-phan-7-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260901/tham-tu-dong-vat-phan-7-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Pháp",
+        "description": "Các đặc vụ Sam và Kit vi vu khắp thế giới cùng kỹ năng trinh thám, kiến thức khoa học và thiết bị hay ho để phá giải vô số bí ẩn của vương quốc động vật."
+    },
+    {
+        "name": "Thám Tử Động Vật (Phần 6)",
+        "year": 2025,
+        "slug": "tham-tu-dong-vat-phan-6",
+        "thumb": "https://phimimg.com/uploads/movies/20260901/tham-tu-dong-vat-phan-6-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260901/tham-tu-dong-vat-phan-6-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Pháp",
+        "description": "Các đặc vụ Sam và Kit vi vu khắp thế giới cùng kỹ năng trinh thám, kiến thức khoa học và thiết bị hay ho để phá giải vô số bí ẩn của vương quốc động vật."
+    },
+    {
+        "name": "Những Năm Ta Là Đệ Nhất Tầm Long",
+        "year": 2026,
+        "slug": "nhung-nam-ta-la-de-nhat-tam-long",
+        "thumb": "https://phimimg.com/uploads/movies/20260821/nhung-nam-ta-la-de-nhat-tam-long-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260821/nhung-nam-ta-la-de-nhat-tam-long-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 25",
+        "total_episodes": "26",
+        "country": "Trung Quốc",
+        "description": "Che giấu thân phận dưới mác \"chàng rể ở rể\", hậu duệ Tầm Long - Trương Thiên Hữu ban đầu ứng phó với bốn gia tộc có truyền thống đạo mộ. Sau đó, anh đích thân dẫn đội quay trở lại Triều Tịch Mộ của 20 năm về trước. Xuyên qua muôn trùng cạm bẫy sinh tử dưới lăng mộ, liên tục đối mặt với rối tơ ám khí, ảo giác từ xác độc, ác quỷ đeo bám, xác sống nữ kỳ dị trong quan tài... cuối cùng, họ đã từng bước lật mở một chân tướng ly kỳ."
+    },
+    {
         "name": "Kim Sắc",
         "year": 2026,
         "slug": "kim-sac",
@@ -180,18 +216,6 @@
         "description": "Sống ở thời hiện đại không có yêu ma quỷ quái, Lâm Nghiễn dù có phép thuật đầy mình cũng đành chịu cảnh không có đất dụng võ. Một ngày nọ, cậu vô tình lạc vào Tử Kinh Lâu ở một không gian khác. Tại thế giới này, sự xuất hiện của cậu giống như một \"lỗi hệ thống\". Lâm Nghiễn kết bạn với Trương Minh Minh và hacker Mã Tiểu Ngoan, nhưng ngay sau đó lại bị trùm cuối Thiên Bất Ứng thả bầy quái vật \"Bảy đại tội\" ra truy sát. Cả ba phải cùng nhau sát cánh vượt qua những cửa ải rùng rợn. Dựa vào bản lĩnh của mình, Lâm Nghiễn khéo léo lách luật chơi để vượt qua từng tầng một, qua đó vạch trần những âm mưu đen tối và bí mật ẩn giấu của tất cả mọi người."
     },
     {
-        "name": "Những Năm Ta Là Đệ Nhất Tầm Long",
-        "year": 2026,
-        "slug": "nhung-nam-ta-la-de-nhat-tam-long",
-        "thumb": "https://phimimg.com/uploads/movies/20260821/nhung-nam-ta-la-de-nhat-tam-long-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260821/nhung-nam-ta-la-de-nhat-tam-long-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 24",
-        "total_episodes": "26",
-        "country": "Trung Quốc",
-        "description": "Che giấu thân phận dưới mác \"chàng rể ở rể\", hậu duệ Tầm Long - Trương Thiên Hữu ban đầu ứng phó với bốn gia tộc có truyền thống đạo mộ. Sau đó, anh đích thân dẫn đội quay trở lại Triều Tịch Mộ của 20 năm về trước. Xuyên qua muôn trùng cạm bẫy sinh tử dưới lăng mộ, liên tục đối mặt với rối tơ ám khí, ảo giác từ xác độc, ác quỷ đeo bám, xác sống nữ kỳ dị trong quan tài... cuối cùng, họ đã từng bước lật mở một chân tướng ly kỳ."
-    },
-    {
         "name": "Thần Tài Đậu Chiêm Long",
         "year": 2026,
         "slug": "than-tai-dau-chiem-long",
@@ -334,29 +358,5 @@
         "total_episodes": "12",
         "country": "Trung Quốc",
         "description": "Vạn Vật Sinh là một thứ công pháp cổ xưa thần kỳ và bí ẩn hơn tất cả những hiểu biết của con người thời hiện đại ngày nay, nhưng bằng một cách thần bí nào đó mà nó lại được truyền thừa và tái hiện trong cơ thể của một thiếu niên thời hiện đại là Tần Vũ. Vốn Tần Vũ được chọn để làm người kế thừa bởi anh mang trong mình những thiên bẩm vô cùng to lớn, có thể dễ kể đến nhất chính là linh căn phế. Tham gia rèn luyện tại Học Viện Cao Võ Đông Đại, Tần Vũ đã nâng cao những sức mạnh thiên bẩm của mình và cùng với các chiến hữu liều mình xả thân chiến đấu cho lẽ phải, đánh đuổi yêu ma, tạo nên một thế giới yên bình sau những biến cố liên tiếp xảy đến."
-    },
-    {
-        "name": "Đạo Yêu Hành",
-        "year": 2026,
-        "slug": "dao-yeu-hanh",
-        "thumb": "https://phimimg.com/upload/vod/20260312-1/1fd77b198bbcfc53b17dd17f75d70899.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260312-1/2821d43d21af1b468167989aa1774fa8.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 57",
-        "total_episodes": "80",
-        "country": "Trung Quốc",
-        "description": "Thánh nữ Thiều Nguyệt của Cửu Tuyền Tông bị sắp đặt thành thân cùng thích khách Giang Nguyên bên Thái Huyền Lâu. Cả hai đều chẳng cam tâm, nhưng vì đại cục hai phái, đành kết thành một đôi phu thê trên danh nghĩa. Bề ngoài là cuộc liên hôn tương xứng giữa hai thế lực lớn, song ẩn dưới lớp vỏ hòa thuận ấy lại là toan tính nhắm vào trọng bảo của nhau. Thông qua thân phận vợ chồng hờ, mỗi người âm thầm dò xét, chờ cơ hội chiếm lấy bí vật của đối phương. Ngay trong đêm hợp cẩn, sát ý đã bùng lên. Nhưng khi lưỡi kiếm chạm nhau, cả hai mới nhận ra đối phương đều mang thân thể bất diệt. Nguyên do nằm ở một bí mật chung: Thiều Nguyệt và Giang Nguyên vốn là kẻ lưu lạc từ tinh cầu khác, quê hương từng bị thế lực mang tên “Hư Vô” hủy diệt. Vì tránh kiếp nạn, họ mới trôi dạt tới thế giới này. Không còn đường lui, hai người tiếp tục duy trì mối quan hệ giả tạo ấy, vừa tìm hiểu bí bảo, vừa cùng nhau chống đỡ những hiểm nguy bủa vây. Thế nhưng sống cạnh nhau giữa sinh tử, từ lúc nào chẳng hay, sự đề phòng dần hóa thành tin tưởng, rồi thành đồng minh kề vai sát cánh. Cuối cùng, mục tiêu của họ không còn dừng ở bảo vật nữa. Thứ họ muốn đối mặt chính là “Hư Vô”, kẻ đã chôn vùi quê hương năm cũ. Giữa thế giới đầy toan tính này, hai con người mang chung quá khứ mất mát bắt đầu tìm kiếm cơ hội xoay chuyển số phận, quyết không để bi kịch lặp lại."
-    },
-    {
-        "name": "Bàn Long",
-        "year": 2026,
-        "slug": "ban-long",
-        "thumb": "https://phimimg.com/upload/vod/20260430-1/90923ce6fb57924678f3b4de2e1c4ae2.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260430-1/018d5ba8e2860aa4a02b54037f829cd8.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (20/20)",
-        "total_episodes": "20",
-        "country": "Trung Quốc",
-        "description": "Bàn Long, thực tế cũng là cái tên của một chiếc nhẫn quyền năng mà cậu thiếu niên Lâm Lôi Ba Lỗ Khắc vô tình tìm thấy trong phủ thờ tổ tiên của gia tộc, một chiếc nhẫn bề ngoài không có gì đáng thu hút nhưng sức mạnh ẩn chứa bên trong đã hoàn toàn thay đổi cuộc đời của anh chàng Lâm Lôi ấy. Đó là câu chuyện tại thị trấn Ô Sơn nhỏ bé trên đại lục Ngọc Lan với vô số các điều kỳ diệu trong cuộc sống thường ngày, từ những phép nhiệm màu, sức mạnh tu luyện, linh thú tiến hóa, tất cả đều làm nên một đại lục Ngọc Lan màu mỡ và huyền ảo. Nhưng đối với Lâm Lôi thì khác, gia tộc của cậu sa sút đến thảm hại, mọi thứ trở nên khó khăn hơn bao giờ hết đối với anh chàng, mà chỉ khi vô tình tìm thấy chiếc nhẫn Bàn Long thì Lâm Lôi mới thực sự đổi đời, nhận được những cơ duyên to lớn, những khả năng phi phàm để vượt qua khó khăn, vươn mình trở thành một pháp sư ma pháp lừng lẫy đứng đầu trên đại lục Ngọc Lan huyền ảo đó."
     }
 ]

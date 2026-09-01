@@ -1,5 +1,17 @@
 [
     {
+        "name": "Thám Tử Động Vật (Phần 5)",
+        "year": 2025,
+        "slug": "tham-tu-dong-vat-phan-5",
+        "thumb": "https://phimimg.com/upload/vod/20250610-1/0d30161302389112696eb6465a3b58d2.jpg",
+        "poster": "https://phimimg.com/upload/vod/20250610-1/62897087c9910c1787f8b00cb71a71b0.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (9/9)",
+        "total_episodes": "9",
+        "country": "Pháp",
+        "description": "Các đặc vụ Sam và Kit vi vu khắp thế giới cùng kỹ năng trinh thám, kiến thức khoa học và thiết bị hay ho để phá giải vô số bí ẩn của vương quốc động vật."
+    },
+    {
         "name": "Lực lượng Lanterns (Phần 1)",
         "year": 2026,
         "slug": "luc-luong-lanterns-phan-1",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Là phần tiền truyện của bộ phim gốc của Star Trek, bộ phim Star Trek: Strange New Worlds này sẽ theo chân phi hành đoàn của tàu USS Enterprise dưới sự chỉ huy của Thuyền trưởng Christopher Pike."
-    },
-    {
-        "name": "Bố Già Vùng Harlem (Phần 4)",
-        "year": 2025,
-        "slug": "bo-gia-vung-harlem-phan-4",
-        "thumb": "https://phimimg.com/uploads/movies/20260816/bo-gia-vung-harlem-phan-4-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260816/bo-gia-vung-harlem-phan-4-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Lấy cảm hứng từ trùm tội phạm khét tiếng Bumpy Johnson, người sau mười năm trong tù trở về vào đầu thập niên 1960 và chứng kiến khu phố từng dưới quyền kiểm soát của mình rơi vào hỗn loạn. Với những con phố nay nằm trong tay mafia Ý, Bumpy quyết tâm giành lại vị thế của mình ở Harlem."
     }
 ]

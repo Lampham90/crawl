@@ -1,5 +1,29 @@
 [
     {
+        "name": "Thám Tử Động Vật (Phần 7)",
+        "year": 2026,
+        "slug": "tham-tu-dong-vat-phan-7",
+        "thumb": "https://phimimg.com/uploads/movies/20260901/tham-tu-dong-vat-phan-7-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260901/tham-tu-dong-vat-phan-7-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Pháp",
+        "description": "Các đặc vụ Sam và Kit vi vu khắp thế giới cùng kỹ năng trinh thám, kiến thức khoa học và thiết bị hay ho để phá giải vô số bí ẩn của vương quốc động vật."
+    },
+    {
+        "name": "Thám Tử Động Vật (Phần 6)",
+        "year": 2025,
+        "slug": "tham-tu-dong-vat-phan-6",
+        "thumb": "https://phimimg.com/uploads/movies/20260901/tham-tu-dong-vat-phan-6-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260901/tham-tu-dong-vat-phan-6-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Pháp",
+        "description": "Các đặc vụ Sam và Kit vi vu khắp thế giới cùng kỹ năng trinh thám, kiến thức khoa học và thiết bị hay ho để phá giải vô số bí ẩn của vương quốc động vật."
+    },
+    {
         "name": "Vạn Cổ Chí Tôn: Lý Vân Tiêu Truyện",
         "year": 2026,
         "slug": "van-co-chi-ton-ly-van-tieu-truyen",
@@ -315,28 +339,6 @@
         "sub_type": "Vietsub + Thuyết Minh",
         "current_episode": "Hoàn Tất (24/24)",
         "total_episodes": "24",
-        "country": "Trung Quốc"
-    },
-    {
-        "name": "Nhất Nhân Chi Hạ (Phần 6) (Người Trên Vạn Người)",
-        "year": 2026,
-        "slug": "nhat-nhan-chi-ha-phan-6-nguoi-tren-van-nguoi",
-        "thumb": "https://phimimg.com/upload/vod/20260110-1/1c5432188e44458e51aa2119a8ac3aab.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260110-1/a38472e5429e9d6645ed16ef2c47935e.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (26/26)",
-        "total_episodes": "26",
-        "country": "Trung Quốc"
-    },
-    {
-        "name": "Ngự Linh Thế Giới",
-        "year": 2026,
-        "slug": "ngu-linh-the-gioi",
-        "thumb": "https://phimimg.com/upload/vod/20260607-1/e1321f372a37cf10e07871b8a14ff00e.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260607-1/9489dfc0af9573abb938934c5569aa9a.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 18",
-        "total_episodes": "18",
         "country": "Trung Quốc"
     }
 ]
