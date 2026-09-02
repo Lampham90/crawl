@@ -1,5 +1,17 @@
 [
     {
+        "name": "Mùi Phở",
+        "year": 2026,
+        "slug": "mui-pho",
+        "thumb": "https://phimimg.com/uploads/movies/20260902/mui-pho-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260902/mui-pho-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Việt Nam",
+        "description": "Câu chuyện về sự xung đột thế hệ và những va chạm giữa quan niệm cũ và lối sống hiện đại, xoay quanh món Phở - biểu tượng ẩm thực Việt. Đằng sau những mâu thuẫn và tranh cãi ấy, từng bí mật dần được hé lộ, mở ra hành trình tìm lại sự ấm áp của tình thân qua những tình tiết hài hước, dí dỏm và đầy duyên dáng."
+    },
+    {
         "name": "Con Kể Ba Nghe",
         "year": 2026,
         "slug": "con-ke-ba-nghe",
@@ -319,17 +331,6 @@
         "slug": "tham-tu-kien-ky-an-khong-dau",
         "thumb": "https://phimimg.com/upload/vod/20251010-1/3c95bc59bc3c37fc3fb76e27b156d1bf.jpg",
         "poster": "https://phimimg.com/upload/vod/20251010-1/d5236005ee6df744aa5417cf5231f167.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "viet-nam"
-    },
-    {
-        "name": "Mang Mẹ Đi Bỏ",
-        "year": 2025,
-        "slug": "mang-me-di-bo",
-        "thumb": "https://phimimg.com/upload/vod/20251202-1/7747d4679d743d8552b22c5709cc4e49.jpg",
-        "poster": "https://phimimg.com/upload/vod/20251202-1/b4e2708b399a01527a25eab36d52ad96.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",
