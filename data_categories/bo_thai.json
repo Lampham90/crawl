@@ -1,5 +1,65 @@
 [
     {
+        "name": "NOUR",
+        "year": 2026,
+        "slug": "nour",
+        "thumb": "https://phimimg.com/uploads/movies/20260826/nour-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260826/nour-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
+    },
+    {
+        "name": "Luang Pho Trong Sạch",
+        "year": 2026,
+        "slug": "luang-pho-trong-sach",
+        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 23",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
+    },
+    {
+        "name": "Giang Hồ Bangkok",
+        "year": 2026,
+        "slug": "giang-ho-bangkok",
+        "thumb": "https://phimimg.com/uploads/movies/20260813/giang-ho-bangkok-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260813/giang-ho-bangkok-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 7",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Lớn lên trong nhà chứa của mẹ Chom, Dang ấp ủ ước mơ trở thành cảnh sát để giúp bà thoát khỏi định kiến xã hội. Thế nhưng, số phận trớ trêu lại đưa anh bước vào thế giới Giang Hồ Bangkok. Tình bạn giữa anh với người bạn chí cốt Pu thì bắt đầu rạn nứt vì cuộc tranh giành quyền lực và tình yêu với người đẹp Wanlapha. Khi Pu gia nhập phe đối đầu cũng là lúc Dang khao khát được trở về bên gia đình và người mình yêu. Nhưng sau biết bao sai lầm trong quá khứ, liệu Dang còn cơ hội làm lại từ đầu?"
+    },
+    {
+        "name": "Chuyện Tình Đảo Thiên Đường",
+        "year": 2026,
+        "slug": "chuyen-tinh-dao-thien-duong",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "17",
+        "country": "Thái Lan",
+        "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
+    },
+    {
+        "name": "Bóng Dưới Trăng",
+        "year": 2026,
+        "slug": "bong-duoi-trang",
+        "thumb": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
+    },
+    {
         "name": "Nhân Duyên Tiền Định",
         "year": 2026,
         "slug": "nhan-duyen-tien-dinh-2026",
@@ -22,18 +82,6 @@
         "total_episodes": "12",
         "country": "Thái Lan",
         "description": "Cuộc đời của một chàng trai trẻ đã thay đổi mãi mãi khi anh bị một Alpha quyền năng đánh dấu, buộc chặt định mệnh của cả hai vào một mối liên kết không thể nào trốn chạy."
-    },
-    {
-        "name": "Luang Pho Trong Sạch",
-        "year": 2026,
-        "slug": "luang-pho-trong-sach",
-        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 22",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
     },
     {
         "name": "Lâu Đài Tham Vọng (Bản Thái)",
@@ -204,18 +252,6 @@
         "description": "Một cầu thủ bóng đá kết bạn với một thực thể ban điều ước đầy bí ẩn, nhưng những món quà nguy hiểm từ thực thể này lại che giấu những bí mật đen tối, vô tình kéo hai người lại gần nhau hơn."
     },
     {
-        "name": "Chuyện Tình Đảo Thiên Đường",
-        "year": 2026,
-        "slug": "chuyen-tinh-dao-thien-duong",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "17",
-        "country": "Thái Lan",
-        "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
-    },
-    {
         "name": "Người Yêu Xui Xẻo",
         "year": 2026,
         "slug": "nguoi-yeu-xui-xeo",
@@ -226,42 +262,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Bị phản bội, Rin gieo lời nguyền để trả thù tình cũ. Nhưng khi lời nguyền ứng nghiệm lên người bạn cùng lớp, cậu phải tìm cách hóa giải mà không để lộ dòng dõi bí mật của mình."
-    },
-    {
-        "name": "Giang Hồ Bangkok",
-        "year": 2026,
-        "slug": "giang-ho-bangkok",
-        "thumb": "https://phimimg.com/uploads/movies/20260813/giang-ho-bangkok-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260813/giang-ho-bangkok-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 6",
-        "total_episodes": "8",
-        "country": "Thái Lan",
-        "description": "Lớn lên trong nhà chứa của mẹ Chom, Dang ấp ủ ước mơ trở thành cảnh sát để giúp bà thoát khỏi định kiến xã hội. Thế nhưng, số phận trớ trêu lại đưa anh bước vào thế giới Giang Hồ Bangkok. Tình bạn giữa anh với người bạn chí cốt Pu thì bắt đầu rạn nứt vì cuộc tranh giành quyền lực và tình yêu với người đẹp Wanlapha. Khi Pu gia nhập phe đối đầu cũng là lúc Dang khao khát được trở về bên gia đình và người mình yêu. Nhưng sau biết bao sai lầm trong quá khứ, liệu Dang còn cơ hội làm lại từ đầu?"
-    },
-    {
-        "name": "Bóng Dưới Trăng",
-        "year": 2026,
-        "slug": "bong-duoi-trang",
-        "thumb": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
-    },
-    {
-        "name": "NOUR",
-        "year": 2026,
-        "slug": "nour",
-        "thumb": "https://phimimg.com/uploads/movies/20260826/nour-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260826/nour-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
     },
     {
         "name": "Cú Giao Bóng Tình Yêu",
