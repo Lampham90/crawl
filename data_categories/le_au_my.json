@@ -1,5 +1,17 @@
 [
     {
+        "name": "Người Chạy",
+        "year": 2026,
+        "slug": "nguoi-chay",
+        "thumb": "https://phimimg.com/uploads/movies/20260904/nguoi-chay-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260904/nguoi-chay-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Maia Marten, một nữ luật sư tài năng tại Luân Đôn, bị suy sụp hoàn toàn chỉ sau một cuộc điện thoại khi đang chạy bộ buổi sáng: con trai cô đã bị bắt cóc. Để cứu lấy con, cô bắt buộc phải tiếp tục chạy, tuân theo từng mệnh lệnh tàn nhẫn của kẻ tống tiền và không được tin tưởng bất kỳ ai — mỗi giây trôi qua đều là một thử thách đo lường xem một người mẹ có thể đi xa đến đâu để bảo vệ đứa con của mình."
+    },
+    {
         "name": "Bước Ngoặt Thế Hệ: 11 Tháng 9",
         "year": 2026,
         "slug": "buoc-ngoat-the-he-11-thang-9",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Cuộc hôn nhân của Joe và Angela đang đứng bên bờ vực tan vỡ. Khi họ mời cặp hàng xóm bí ẩn sống ở tầng trên đến dùng bữa tối, mọi chuyện trong đêm đó đã diễn biến theo những hướng hoàn toàn bất ngờ. Liệu họ đã khơi dậy lại ngọn lửa tình yêu, hay vô tình châm ngòi cho một ngọn lửa thiêu rụi tất cả?"
-    },
-    {
-        "name": "Phim Super Mario Thiên Hà",
-        "year": 2026,
-        "slug": "phim-super-mario-thien-ha",
-        "thumb": "https://phimimg.com/upload/vod/20260508-1/b9482988285cb67c118bc092404d804a.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260508-1/6bf821d68045c5310a192c5244992ac0.jpg",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Nhật Bản",
-        "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
     }
 ]

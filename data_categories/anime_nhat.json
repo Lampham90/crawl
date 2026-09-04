@@ -1,5 +1,53 @@
 [
     {
+        "name": "Thunder 3",
+        "year": 2026,
+        "slug": "thunder-3",
+        "thumb": "https://phimimg.com/uploads/movies/20260710/thunder-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260710/thunder-3-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 9",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Là những học sinh cấp hai bình thường đến mức không có gì nổi bật, Pyontaro, Hiroshi và Tsubame bỗng chốc bước chân vào một cuộc phiêu lưu phi thường khi cô em gái nhỏ của Pyontaro đột nhiên mất tích."
+    },
+    {
+        "name": "Hút Thuốc Phía Sau Siêu Thị Cùng Em (Hiên Sau Siêu Thị, Muộn Phiền Bay Đi)",
+        "year": 2026,
+        "slug": "hut-thuoc-phia-sau-sieu-thi-cung-em-hien-sau-sieu-thi-muon-phien-bay-di",
+        "thumb": "https://phimimg.com/uploads/movies/20260711/hut-thuoc-phia-sau-sieu-thi-cung-em-hien-sau-sieu-thi-muon-phien-bay-di-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260711/hut-thuoc-phia-sau-sieu-thi-cung-em-hien-sau-sieu-thi-muon-phien-bay-di-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 9",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Gặp gỡ Sasaki, một nhân viên văn phòng trung niên làm việc quá sức. Ngày của anh chỉ toàn là những công việc nhàm chán, tẻ nhạt ở công ty. Hút thuốc giúp anh giảm bớt căng thẳng, nhưng ngoài ra, điểm sáng duy nhất trong ngày của anh là khi anh đến siêu thị gần đó và nhìn thấy khuôn mặt tươi cười của Yamada. Vì vậy, một buổi tối sau một ngày mệt mỏi nữa, anh đến siêu thị và phát hiện ra mình đã lỡ ca làm việc của Yamada. Chán nản, anh quyết định đi tìm khu vực hút thuốc nhưng lại không tìm thấy. Ngay khi anh chuẩn bị rời đi, một cô gái mặc áo khoác da kiểu biker tên là Tayama rủ anh đến một khu vực hút thuốc bí mật!"
+    },
+    {
+        "name": "Yêu Nhau Đến Tận Ngày Cậu Biến Mất",
+        "year": 2026,
+        "slug": "yeu-nhau-den-tan-ngay-cau-bien-mat",
+        "thumb": "https://phimimg.com/uploads/movies/20260708/yeu-nhau-den-tan-ngay-cau-bien-mat-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260708/yeu-nhau-den-tan-ngay-cau-bien-mat-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 9",
+        "total_episodes": "13",
+        "country": "Nhật Bản",
+        "description": "Tại một học viện bí ẩn nơi những cô bé mồ côi bị nuôi dạy để trở thành thứ vũ khí giết người, cái chết diễn ra như cơm bữa và việc đau buồn là điều cấm kỵ. Sheena, một cô bé 14 tuổi luôn hoài nghi về cuộc sống tàn bạo này, đã gặp gỡ Mimi — một cô gái bí ẩn, người đầy máu nhưng kiên quyết không chịu khuất phục. Giữa một thế giới được xây dựng trên bạo lực, cả hai đã cùng nhau bấu víu vào một tia hy vọng mong manh, quyết tâm chiến đấu để giữ lại phần nhân tính cuối cùng của mình."
+    },
+    {
+        "name": "Bụi Mebius",
+        "year": 2026,
+        "slug": "bui-mebius",
+        "thumb": "https://phimimg.com/uploads/movies/20260710/bui-mebius-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260710/bui-mebius-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 9",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Araki, Stella và Olga là những học sinh cấp ba bình thường đang sinh sống tại một thành phố bị biến đổi bởi loại Bụi Mebius đầy bí ẩn. Đan xen giữa những buổi cày game, những chuyến đi nhà tắm công cộng và những bước chân lặng lẽ trên đường về nhà, những ngày tháng của họ trôi qua một cách êm đềm — thế nhưng, các công nghệ kỳ lạ cùng tình trạng bất ổn ngày một gia tăng đang bắt đầu âm thầm bóp méo cuộc sống thường nhật của họ."
+    },
+    {
         "name": "Đạo Quật Vương (Vua Trộm Mộ)",
         "year": 2026,
         "slug": "dao-quat-vuong-vua-trom-mo",
@@ -310,53 +358,5 @@
         "total_episodes": "12",
         "country": "Nhật Bản",
         "description": "Câu chuyện lấy bối cảnh cuối những năm 1950 và đầu những năm 1960, thời kỳ đỉnh cao của sự bùng nổ kinh tế ở Nhật Bản, khi xiếc là một hình thức giải trí chính. Các đoàn xiếc khác nhau đi khắp Nhật Bản để biểu diễn và cạnh tranh giành cơ hội tham gia lễ hội nổi tiếng thế giới mang tên \"Tuyển tập Xiếc\". Một đoàn xiếc mang tên \"Rạp Xiếc Hoa Hướng Dương\", do người quản lý Maria dẫn dắt, đã đi khắp Nhật Bản để biểu diễn, bất chấp những khó khăn về tài chính. Tuy nhiên, họ gặp một thần đồng xiếc tên là Mizuka Tsurumaki. Đây là câu chuyện về một chương trình xiếc độc đáo của những cô gái trẻ với những ước mơ lớn."
-    },
-    {
-        "name": "Lời Giới Thiệu Của Tiền Bối Iwamoto",
-        "year": 2026,
-        "slug": "loi-gioi-thieu-cua-tien-boi-iwamoto",
-        "thumb": "https://phimimg.com/uploads/movies/20260708/loi-gioi-thieu-cua-tien-boi-iwamoto-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260708/loi-gioi-thieu-cua-tien-boi-iwamoto-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "12",
-        "country": "Nhật Bản",
-        "description": "Bối cảnh Nhật Bản vào những năm 1910. Tại một thị trấn kỳ lạ ngập tràn những trận tuyết đen huyền bí, Kodo Iwamoto — học viên của một học viện quân sự chuyên nghiên cứu về các hiện tượng siêu nhiên — đã được cử đến để điều tra. Tại đây, anh gặp một cậu thiếu niên luôn nghĩ rằng bản thân đang mắc bệnh hiểm nghèo, nhưng Kodo đã nhận ra căn bệnh đó thực chất lại là một thứ khác: năng lượng siêu nhiên. Kodo quyết định chiêu mộ cậu bé vào học viện và cả hai cùng nhau lên đường đi khắp đất nước, vừa săn tìm những bí ẩn vừa tìm kiếm những người có khả năng đặc biệt giống như cậu."
-    },
-    {
-        "name": "Thiếu Chủ Giỏi Chạy Trốn (Phần 2)",
-        "year": 2026,
-        "slug": "thieu-chu-gioi-chay-tron-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260719/thieu-chu-gioi-chay-tron-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260719/thieu-chu-gioi-chay-tron-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
-        "total_episodes": "24",
-        "country": "Nhật Bản",
-        "description": "Vào năm 1333 tại Kamakura, vương triều Mạc phủ sụp đổ sau cuộc đảo chính tàn khốc của kẻ phản bội Ashikaga Takauji. Giữa ngọn lửa chiến tranh, Hojo Tokiyuki – người thừa kế hợp pháp của Mạc phủ, một cậu bé tám tuổi vốn nhút nhát và không có tài năng võ thuật – đã mất đi tất cả gia đình và gia tộc của mình. Tuy nhiên, Tokiyuki lại sở hữu một thiên phú độc nhất vô nhị vượt trội hơn bất kỳ ai: khả năng trốn chạy và né đòn siêu phàm. Được sự dẫn dắt của vị tư tế lập dị Suwa Yorishige, vị thiếu gia trốn chạy bắt đầu hành trình tập hợp những đồng minh đáng tin cậy để sinh tồn và nuôi hy vọng giành lại Kamakura."
-    },
-    {
-        "name": "Xin Hãy Thứ Lỗi Cho Các Em Trai Của Tôi",
-        "year": 2026,
-        "slug": "xin-hay-thu-loi-cho-cac-em-trai-cua-toi",
-        "thumb": "https://phimimg.com/uploads/movies/20260711/xin-hay-thu-loi-cho-cac-em-trai-cua-toi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260711/xin-hay-thu-loi-cho-cac-em-trai-cua-toi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "12",
-        "country": "Nhật Bản",
-        "description": "Ito, một nữ sinh năm hai cấp ba, từng rất háo hức khi mẹ tái hôn và mình sắp có một người bố mới. Thế nhưng, cô nhận được nhiều hơn những gì mình tưởng tượng khi bước vào nhà và thấy bốn cậu em trai kế đang đợi sẵn: Gen — chàng trai thẳng tính nhưng âm thầm biết quan tâm; Raku — người luôn điềm tĩnh; Syu — cậu em sống khép kín; và Rui — nhóc tì nhỏ tuổi luôn vui vẻ. Giờ đây, từ cuộc sống lặng lẽ của một đứa con một, Ito phải học cách thích nghi để trở thành chị cả trong một gia đình vô cùng náo nhiệt."
-    },
-    {
-        "name": "Thunder 3",
-        "year": 2026,
-        "slug": "thunder-3",
-        "thumb": "https://phimimg.com/uploads/movies/20260710/thunder-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260710/thunder-3-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "12",
-        "country": "Nhật Bản",
-        "description": "Là những học sinh cấp hai bình thường đến mức không có gì nổi bật, Pyontaro, Hiroshi và Tsubame bỗng chốc bước chân vào một cuộc phiêu lưu phi thường khi cô em gái nhỏ của Pyontaro đột nhiên mất tích."
     }
 ]
