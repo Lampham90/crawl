@@ -1,5 +1,29 @@
 [
     {
+        "name": "Linh Cảnh Hành Giả",
+        "year": 2026,
+        "slug": "linh-canh-hanh-gia",
+        "thumb": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "30",
+        "country": "Trung Quốc",
+        "description": "Đây là một thế giới kỳ dị tồn tại song song với thế giới hiện thực, nơi người tham gia phải vượt qua những phó bản nguy hiểm, đối mặt với các nhiệm vụ sinh tử và những sinh vật siêu nhiên. Trong quá trình khám phá Linh Cảnh, Trương Nguyên Thanh từng bước thức tỉnh năng lực, trưởng thành qua những cuộc phiêu lưu và dần khám phá những bí mật ẩn giấu phía sau thế giới này."
+    },
+    {
+        "name": "Linh Cảnh Hành Giả: Ngoại Truyện",
+        "year": 2026,
+        "slug": "linh-canh-hanh-gia-ngoai-truyen",
+        "thumb": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-ngoai-truyen-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-ngoai-truyen-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "30",
+        "country": "Trung Quốc",
+        "description": "Series ngoại truyện hài hước của \"Linh Cảnh Hành Giả\" được chắt lọc từ nguyên tác, mang đến góc nhìn mới mẻ và thú vị về cuộc sống đời thường với những tình huống tréo ngoe, dở khóc dở cười chưa từng được hé lộ của Trương Nguyên Thanh cùng người thân, bạn bè. Loạt phim sẽ đưa bạn bước vào một thế giới \"Linh Cảnh Hành Giả\" vô cùng trọn vẹn và nhiều màu sắc."
+    },
+    {
         "name": "Sơn Hải Kinh: Thiết Lập Lại Trật Tự",
         "year": 2026,
         "slug": "son-hai-kinh-thiet-lap-lai-trat-tu",
@@ -317,28 +341,6 @@
         "sub_type": "Vietsub",
         "current_episode": "Hoàn Tất (40/40)",
         "total_episodes": "40",
-        "country": "Trung Quốc"
-    },
-    {
-        "name": "Tôi Nộp Tận Thế Cho Quốc Gia",
-        "year": 2026,
-        "slug": "toi-nop-tan-the-cho-quoc-gia",
-        "thumb": "https://phimimg.com/upload/vod/20260427-1/ec8a2146c4f901aec1fbbd7f1700e2ee.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260427-1/378a3e730c40382b7449f4ca07cd823a.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 37",
-        "total_episodes": "40",
-        "country": "Trung Quốc"
-    },
-    {
-        "name": "Còn Ra Thể Thống Gì Nữa (Phần 2)",
-        "year": 2026,
-        "slug": "con-ra-the-thong-gi-nua-phan-2",
-        "thumb": "https://phimimg.com/upload/vod/20260125-1/13a49743588595a8eb026d73bc0a6a0b.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",
-        "sub_type": "Vietsub + Thuyết Minh",
-        "current_episode": "Hoàn Tất (24/24)",
-        "total_episodes": "24",
         "country": "Trung Quốc"
     }
 ]
