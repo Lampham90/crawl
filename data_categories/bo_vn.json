@@ -6,10 +6,22 @@
         "thumb": "https://phimimg.com/uploads/movies/20260819/phu-sa-thumb.webp",
         "poster": "https://i.ex-cdn.com/danviet.vn/files/content/2026/08/13/final--poster-phu-sa-1012.jpg",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 10",
+        "current_episode": "Tập 11",
         "total_episodes": "35",
         "country": "Việt Nam",
         "description": "Câu chuyện bắt đầu tại xóm Bình Hòa ven sông Tiền, nơi những vụ sạt lở liên tiếp khiến nhà cửa, vườn tược đứng trước nguy cơ biến mất. Người dân hoang mang, những lời đồn về đất đai mất giá xuất hiện, cò đất lảng vảng và ngày càng nhiều gia đình nghĩ tới chuyện bán đất, rời quê. Đúng lúc ấy, Phù Sa (diễn viên Trúc Mây) từ thành phố trở về mang theo một kế hoạch đầy tham vọng: Nâng giá trị cây ca cao, tạo ra sản phẩm của Bình Hòa và từ đó mở thêm sinh kế cho người dân."
+    },
+    {
+        "name": "Đội Bóng Nữ Làng Xuân",
+        "year": 2026,
+        "slug": "doi-bong-nu-lang-xuan",
+        "thumb": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "24",
+        "country": "Việt Nam",
+        "description": "Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn."
     },
     {
         "name": "Mùa Hè Năm Ấy",
@@ -325,17 +337,6 @@
         "sub_type": "Vietsub",
         "current_episode": "Hoàn Tất (12/12)",
         "total_episodes": "12",
-        "country": "viet-nam"
-    },
-    {
-        "name": "Cô Đừng Hòng Thoát Khỏi Tôi",
-        "year": 2025,
-        "slug": "co-dung-hong-thoat-khoi-toi",
-        "thumb": "https://phimimg.com/upload/vod/20250714-1/006a41e479323b95d0204d9a289e8a38.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250714-1/11559382817d7a7611945c04c1537825.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (28/28)",
-        "total_episodes": "28",
         "country": "viet-nam"
     }
 ]
