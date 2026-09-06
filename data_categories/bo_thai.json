@@ -1,5 +1,17 @@
 [
     {
+        "name": "Juliet và Juliet",
+        "year": 2026,
+        "slug": "juliet-va-juliet",
+        "thumb": "https://phimimg.com/uploads/movies/20260906/juliet-va-juliet-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260906/juliet-va-juliet-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Phim xoay quanh mối thù truyền kiếp giữa hai gia tộc lớn. Giữa áp lực gia đình và những cuộc tranh chấp ngầm đầy căng thẳng, hai người thừa kế trẻ tuổi của hai gia tộc – bao gồm Blue (con gái duy nhất của gia tộc Monchaitrakul) và Tokyo – bất ngờ bước vào cuộc đời nhau và dần nảy sinh tình cảm, trở thành mối tình đầu của đối phương."
+    },
+    {
         "name": "Yêu Hết Lòng Chàng Fanboy",
         "year": 2026,
         "slug": "yeu-het-long-chang-fanboy",
@@ -346,17 +358,5 @@
         "total_episodes": "7",
         "country": "Thái Lan",
         "description": "Cuộc sống yên bình của Jen bị đảo lộn khi Ai, một robot bí ẩn có ngoại hình giống hệt cô gái trong mộng của cô, xuất hiện và gọi cô là &quot;Chủ nhân&quot;. Bị buộc phải sống chung, Jen không ngờ rằng mình lại đem lòng yêu cỗ máy tinh nghịch này. Khi mối liên kết giữa họ ngày càng sâu đậm, cô phải đối mặt với câu hỏi cuối cùng: Ai chỉ là một chương trình lỗi lạc, hay chính là tình yêu của đời cô?"
-    },
-    {
-        "name": "Thế Giới Em Và Tôi",
-        "year": 2026,
-        "slug": "the-gioi-em-va-toi",
-        "thumb": "https://phimimg.com/upload/vod/20260609-1/5550efbb49cb839af1d56ec050851185.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260609-1/c54b7834adf8578b0167b600502bdcba.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (19/19)",
-        "total_episodes": "19",
-        "country": "Thái Lan",
-        "description": "Theo yêu cầu của người bạn bị thương giống tên, Thatri, trong tình cảnh phá sản, mạo danh người bạn đó để nhận thừa kế và thay đổi số phận của cả hai."
     }
 ]
