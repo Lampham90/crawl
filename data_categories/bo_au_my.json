@@ -1,5 +1,17 @@
 [
     {
+        "name": "Tổng Thống Curtis (Phần 1)",
+        "year": 2026,
+        "slug": "tong-thong-curtis-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260906/tong-thong-curtis-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260906/tong-thong-curtis-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Tổng Thống Curtis theo chân Tổng tư lệnh và các nhân viên lập dị của ông điều tra những hiện tượng siêu nhiên chưa được giải thích."
+    },
+    {
         "name": "Lằn Ranh Cuồng Nộ (Phần 1)",
         "year": 2026,
         "slug": "lan-ranh-cuong-no-phan-1",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Âu Mỹ",
         "description": "Để kết hôn với Jowsey, anh ấy không phải là người duy nhất bạn cần phải lấy lòng. Các cô gái ứng tuyển vị trí cô dâu tương lai cũng sẽ phải tạo được ấn tượng tốt với bạn bè của anh. Chính vì vậy, Jowsey đã giao lại quyền quyết định chuyện tình cảm của mình cho ba người bạn thân thiết nhất: Amanda Kloots, Georgia Hassarati và Sonny Henty. Bộ ba này sẽ can thiệp để đưa ra những quyết định khó khăn và dẫn dắt anh trên hành trình biến đổi từ một kẻ đào hoa trở thành một người bạn đời đích thực."
-    },
-    {
-        "name": "Lốp Xe (Phần 3)",
-        "year": 2026,
-        "slug": "lop-xe-phan-3",
-        "thumb": "https://phimimg.com/uploads/movies/20260816/lop-xe-phan-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260816/lop-xe-phan-3-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (12/12)",
-        "total_episodes": "12",
-        "country": "Âu Mỹ",
-        "description": "Tại tiệm ô tô của bố mình, chàng quản lý xui xẻo nỗ lực cải thiện dịch vụ khách hàng và tăng lợi nhuận trong khi kiểm soát người em họ ưa gây rối."
     }
 ]

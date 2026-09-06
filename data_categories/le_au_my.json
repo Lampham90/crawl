@@ -1,5 +1,17 @@
 [
     {
+        "name": "Báo Động Mayday",
+        "year": 2026,
+        "slug": "bao-dong-mayday",
+        "thumb": "https://phimimg.com/uploads/movies/20260906/bao-dong-mayday-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260906/bao-dong-mayday-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Khi một phi công hải quân Hoa Kỳ bị mắc kẹt bên chiến tuyến địch khi đang thực hiện nhiệm vụ tối mật thời Chiến tranh Lạnh, cơ hội sống sót duy nhất của anh là bắt tay liên minh với một cựu đặc vụ KGB lập dị."
+    },
+    {
         "name": "Khi Bố Thất Thủ / Trụ Cột Gia Đình",
         "year": 2026,
         "slug": "khi-bo-that-thu-tru-cot-gia-dinh",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Trước khi trở thành người lãnh đạo một quốc gia, George Washington từng là một người lính trẻ bị cuốn vào một cuộc xung đột toàn cầu. Khi các mối liên minh dần sụp đổ và chiến tranh ngày càng khép chặt, anh buộc phải lựa chọn xem nên tin tưởng ai và đối mặt với hình mẫu người lãnh đạo mà mình đang dần trở thành."
-    },
-    {
-        "name": "Minions & Quái Vật",
-        "year": 2026,
-        "slug": "minions-quai-vat",
-        "thumb": "https://phimimg.com/uploads/movies/20260811/minions-quai-vat-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260811/minions-quai-vat-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Đây là câu chuyện có thật, đầy náo nhiệt, lố bịch và vô cùng điên rồ về cách các Minion chinh phục Hollywood, trở thành ngôi sao điện ảnh, rồi đánh mất tất cả, vô tình giải phóng những quái vật ra thế giới và cuối cùng buộc phải sát cánh bên nhau để cứu lấy Trái Đất khỏi chính mớ hỗn loạn mà họ đã gây ra."
     }
 ]
