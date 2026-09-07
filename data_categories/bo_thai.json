@@ -1,5 +1,17 @@
 [
     {
+        "name": "Sân Golf Tình Yêu",
+        "year": 2026,
+        "slug": "san-golf-tinh-yeu",
+        "thumb": "https://phimimg.com/uploads/movies/20260904/san-golf-tinh-yeu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260904/san-golf-tinh-yeu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Cô con gái ông chủ sân golf mang trong mình giấc mơ thời trang bất ngờ được gọi về để tiếp quản việc kinh doanh của gia đình. Khởi đầu hoàn toàn mới này đã tạo cơ hội cho cô gặp gỡ một nữ vận động viên golf chuyên nghiệp. Sự xuất hiện của cô ấy đã âm thầm thay đổi cách cô nhìn nhận về cuộc đời, ước mơ và chính bản thân mình. Từ đó, một mối quan hệ ngoài dự liệu dần nảy nở từ sàn diễn thời trang đến sân golf."
+    },
+    {
         "name": "Ký Ức Tình Thù",
         "year": 2026,
         "slug": "ky-uc-tinh-thu-2026",
@@ -346,17 +358,5 @@
         "total_episodes": "20",
         "country": "Thái Lan",
         "description": "Bà Đồng Muifei là một cô gái trẻ sống trong một ngôi làng ở vùng núi, mang trên vai trách nhiệm gánh chịu những điều bất hạnh và đau khổ thay cho cộng đồng. Cuộc đời Muifei bắt đầu rẽ sang bước ngoặt bi kịch khi cô đem lòng yêu chàng trai thành phố Phum và rời bỏ quê nhà để đi theo tiếng gọi của con tim. Tuy nhiên, hy vọng về một cuộc sống tốt đẹp hơn nhanh chóng tan biến khi cô phải đối mặt với vô vàn khó khăn, sự bóc lột và những hành vi ngược đãi tàn nhẫn. Bị nhấn chìm trong đau đớn tột cùng, Muifei trở lại dưới hình dạng một linh hồn báo oán, quyết tâm đòi lại công lý."
-    },
-    {
-        "name": "San Hô Đen",
-        "year": 2026,
-        "slug": "san-ho-den",
-        "thumb": "https://phimimg.com/upload/vod/20260701-1/881de1d0760ad2caca0e4d29d0446b46.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260701-1/99666fb21a725348c860a349591ca7c0.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 30",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Sau tai nạn lặn suýt chết khiến máy ảnh của Narathon bị hỏng, anh gặp Kaimook, một sinh viên đang gây tiếng vang với tài nhiếp ảnh dưới nước. Cả hai lập tức khắc khẩu."
     }
 ]

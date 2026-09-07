@@ -1,5 +1,17 @@
 [
     {
+        "name": "Hiệp Sĩ Mặt Nạ MY-TH",
+        "year": 2026,
+        "slug": "hiep-si-mat-na-my-th",
+        "thumb": "https://phimimg.com/uploads/movies/20260907/hiep-si-mat-na-my-th-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260907/hiep-si-mat-na-my-th-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 1",
+        "total_episodes": "48",
+        "country": "Nhật Bản",
+        "description": "Nhân vật trung tâm của phần phim mang hình tượng lấy cảm hứng từ loài chuột – đứng đầu trong chu kỳ 12 con giáp. Câu chuyện theo chân Sora, một thanh niên mang thân phận bề ngoài là người hầu dưới quyền của tiểu thư Yuna. Thế nhưng, đằng sau vỏ bọc đó, Sora thực chất chính là Kamen Rider MY-TH, một chiến binh thầm lặng đã dành nhiều năm trời để săn đuổi và tiêu diệt lũ quái vật bí ẩn mang tên Fukashigi."
+    },
+    {
         "name": "Thợ Săn Giác Thú Omegahorn",
         "year": 2026,
         "slug": "tho-san-giac-thu-omegahorn",
@@ -391,23 +403,5 @@
         "sub_type": "Vietsub + Thuyết Minh + Lồng Tiếng",
         "current_episode": "Full",
         "total_episodes": "1"
-    },
-    {
-        "name": "Lương Trần Mỹ Cẩm",
-        "year": 2026,
-        "slug": "luong-tran-my-cam",
-        "thumb": "https://phimimg.com/upload/vod/20260504-1/95985e2f2e38ad97c847ff0c7b375486.jpg",
-        "actor": [
-            "Nhậm Mẫn",
-            "Thử Sa",
-            "Đổng Tư Thành",
-            "Hoàng Nghệ",
-            "Ngô Cương",
-            "Tả Diệp",
-            "Trương Diệu"
-        ],
-        "sub_type": "Vietsub + Thuyết Minh + Lồng Tiếng",
-        "current_episode": "Hoàn Tất (40/40)",
-        "total_episodes": "40"
     }
 ]
