@@ -1,5 +1,17 @@
 [
     {
+        "name": "Hành Trình Của Moana",
+        "year": 2026,
+        "slug": "hanh-trinh-cua-moana-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Nghe theo tiếng gọi của Đại Dương, Moana dũng cảm rời đảo Motunui, lần đầu vượt qua rạn san hô để khám phá thế giới rộng lớn. Cùng á thần Maui, cô bắt đầu hành trình phiêu lưu đầy kỳ diệu với sứ mệnh mang lại sự thịnh vượng cho quê hương."
+    },
+    {
         "name": "Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)",
         "year": 2026,
         "slug": "sep-chinh-la-than-tuong-bias-toi-sep-cua-toi",
@@ -346,17 +358,5 @@
         "total_episodes": "11",
         "country": "Nhật Bản",
         "description": "Từng là một nữ sinh côn đồ thời trung học, Tagami Kotoha quyết tâm trở thành bác sĩ phẫu thuật thần kinh sau một biến cố thay đổi cuộc đời. Khi làm việc tại bệnh viện, cô liên tục đối mặt với những ca bệnh khó cùng nhiều bất công trong hệ thống y tế. Với tính cách thẳng thắn và ý chí mạnh mẽ, Kotoha luôn đặt tính mạng bệnh nhân lên hàng đầu và không ngừng đấu tranh để bảo vệ điều đúng đắn. Bộ phim truyền tải thông điệp về lòng dũng cảm, sự trưởng thành và tinh thần cống hiến của người bác sĩ."
-    },
-    {
-        "name": "Cơn Thịnh Nộ",
-        "year": 2026,
-        "slug": "con-thinh-no",
-        "thumb": "https://phimimg.com/uploads/movies/20260707/con-thinh-no-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260707/con-thinh-no-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Hồng Kông",
-        "description": "Chủ tiệm Vương Vĩ có cô con gái Vũ Tình bị một băng nhóm tội phạm bắt cóc giữa phố. Trong hành trình giải cứu con, anh lần theo dấu vết của một mạng lưới buôn người và tội phạm ngầm vô cùng nguy hiểm. Đồng hành cùng anh là một nhà báo mang trong mình quá khứ bí ẩn. Hai người buộc phải hợp tác, sử dụng kỹ năng chiến đấu của mình để đối đầu với tổ chức tội phạm và đưa cô bé trở về an toàn."
     }
 ]

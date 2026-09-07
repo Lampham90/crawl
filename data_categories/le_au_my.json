@@ -1,5 +1,17 @@
 [
     {
+        "name": "Hành Trình Của Moana",
+        "year": 2026,
+        "slug": "hanh-trinh-cua-moana-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Nghe theo tiếng gọi của Đại Dương, Moana dũng cảm rời đảo Motunui, lần đầu vượt qua rạn san hô để khám phá thế giới rộng lớn. Cùng á thần Maui, cô bắt đầu hành trình phiêu lưu đầy kỳ diệu với sứ mệnh mang lại sự thịnh vượng cho quê hương."
+    },
+    {
         "name": "Những Lời Trăn Trối Nổi Tiếng: Gloria Steinem",
         "year": 2026,
         "slug": "nhung-loi-tran-troi-noi-tieng-gloria-steinem",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Xoay quanh thời niên thiếu và giai đoạn đầu trưởng thành của George Washington — người sau này trở thành vị Tổng thống đầu tiên của Hợp chủng quốc Hoa Kỳ."
-    },
-    {
-        "name": "Đừng Nói Chúc May Mắn",
-        "year": 2026,
-        "slug": "dung-noi-chuc-may-man",
-        "thumb": "https://phimimg.com/uploads/movies/20260815/dung-noi-chuc-may-man-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260815/dung-noi-chuc-may-man-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Sophie Birenbaum đã sẵn sàng tỏa sáng với vai chính trong vở nhạc kịch của trường trung học. Nhưng rồi cô đột nhiên phải đối mặt với nhiều sóng gió ở nhà hơn là trên sân khấu."
     }
 ]
