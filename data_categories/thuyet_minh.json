@@ -1,5 +1,17 @@
 [
     {
+        "name": "Ký Ức Tình Thù",
+        "year": 2026,
+        "slug": "ky-uc-tinh-thu-2026",
+        "thumb": "https://phimimg.com/upload/vod/20260530-1/adb081b18e4973cd68c787019e43b6fc.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260530-1/a678892c24f3e13d9d787cae492d5f52.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 20",
+        "total_episodes": "20",
+        "country": "Thái Lan",
+        "description": "Phim kể về Rawee, người thừa kế khối tài sản kếch xù từ cha và có một cuộc hôn nhân sắp đặt. Anh bị sát hại sau khi phát hiện vợ mình ngoại tình. Rất may, Rawee không chết mà chỉ mất trí nhớ và được cô gái Lockchan cứu sống. Liệu Rawee có lấy lại được ký ức để trả thù những kẻ đã từng giết hại mình?"
+    },
+    {
         "name": "Phò Mã Tiểu Ngỗ Tác",
         "year": 2026,
         "slug": "pho-ma-tieu-ngo-tac",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Hàn Quốc",
         "description": "Giáo sư Se Jeong tham dự một hội nghị công nghệ sinh học, nhưng lại chứng kiến ​​nó biến thành thảm họa khi một loại virus đột biến nhanh chóng được giải phóng. Khi dịch bệnh lan rộng và những người nhiễm bệnh bắt đầu biến đổi, chính quyền đã phong tỏa toàn bộ cơ sở."
-    },
-    {
-        "name": "Biệt Đội Siêu Khờ",
-        "year": 2026,
-        "slug": "biet-doi-sieu-kho",
-        "thumb": "https://phimimg.com/upload/vod/20260515-1/085e2fde72531db8a9cadea7a1c95c65.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260515-1/ea04332b4572392a919e1c6587b9f2f3.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Hàn Quốc",
-        "description": "Yoo In Sik (&quot;Nữ luật sư kỳ lạ Woo Young Woo&quot;) đạo diễn loạt phim hài hành động này về ba kẻ lạc loài tình cờ sở hữu siêu năng lực – nhưng không biết cách sử dụng."
     }
 ]

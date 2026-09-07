@@ -1,5 +1,41 @@
 [
     {
+        "name": "Ký Ức Tình Thù",
+        "year": 2026,
+        "slug": "ky-uc-tinh-thu-2026",
+        "thumb": "https://phimimg.com/upload/vod/20260530-1/adb081b18e4973cd68c787019e43b6fc.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260530-1/a678892c24f3e13d9d787cae492d5f52.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 20",
+        "total_episodes": "20",
+        "country": "Thái Lan",
+        "description": "Phim kể về Rawee, người thừa kế khối tài sản kếch xù từ cha và có một cuộc hôn nhân sắp đặt. Anh bị sát hại sau khi phát hiện vợ mình ngoại tình. Rất may, Rawee không chết mà chỉ mất trí nhớ và được cô gái Lockchan cứu sống. Liệu Rawee có lấy lại được ký ức để trả thù những kẻ đã từng giết hại mình?"
+    },
+    {
+        "name": "Giáo Trình Tình Yêu Bắt Buộc",
+        "year": 2026,
+        "slug": "giao-trinh-tinh-yeu-bat-buoc",
+        "thumb": "https://phimimg.com/uploads/movies/20260818/giao-trinh-tinh-yeu-bat-buoc-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260818/giao-trinh-tinh-yeu-bat-buoc-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "15",
+        "country": "Thái Lan",
+        "description": "Sáu học sinh cùng nhau trải qua những tình cảm đơn phương thầm kín, những lời hứa hẹn năm xưa và những tổn thương tình cảm bất ngờ khi họ bị buộc phải tham gia vào một khóa học bắt buộc của nhà trường về chủ đề tình yêu."
+    },
+    {
+        "name": "Anh Sam Của Em",
+        "year": 2026,
+        "slug": "anh-sam-cua-em",
+        "thumb": "https://phimimg.com/uploads/movies/20260727/anh-sam-cua-em-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260727/anh-sam-cua-em-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "12",
+        "country": "Thái Lan",
+        "description": "Một thư ký được giao nhiệm vụ đi đưa người em trai bỏ nhà ra đi của sếp mình trở về. Tuy nhiên, trong quá trình tiếp cận, anh lại đem lòng yêu chính người đàn ông đang bị tổn thương vì tình yêu mà mình có nhiệm vụ phải đưa về nhà."
+    },
+    {
         "name": "Juliet và Juliet",
         "year": 2026,
         "slug": "juliet-va-juliet",
@@ -240,18 +276,6 @@
         "description": "Võ sĩ quyền Anh Dom nằm vùng để thâm nhập tổ chức tội phạm hùng mạnh, nhưng nhiệm vụ này nhanh chóng đẩy cả cuộc hôn nhân lẫn tính mạng của anh vào thế hiểm nguy."
     },
     {
-        "name": "Giáo Trình Tình Yêu Bắt Buộc",
-        "year": 2026,
-        "slug": "giao-trinh-tinh-yeu-bat-buoc",
-        "thumb": "https://phimimg.com/uploads/movies/20260818/giao-trinh-tinh-yeu-bat-buoc-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260818/giao-trinh-tinh-yeu-bat-buoc-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "15",
-        "country": "Thái Lan",
-        "description": "Sáu học sinh cùng nhau trải qua những tình cảm đơn phương thầm kín, những lời hứa hẹn năm xưa và những tổn thương tình cảm bất ngờ khi họ bị buộc phải tham gia vào một khóa học bắt buộc của nhà trường về chủ đề tình yêu."
-    },
-    {
         "name": "Đầu Bếp Đấu Giá",
         "year": 2026,
         "slug": "dau-bep-dau-gia",
@@ -274,18 +298,6 @@
         "total_episodes": "19",
         "country": "Thái Lan",
         "description": "Tình yêu, ước mơ, cuộc sống mưu sinh xoáy vào nhau khi nhóm &quot;Gen Me&quot; đối diện nhịp sống hối hả ở Thái Lan, nơi trưởng thành đánh đổi bằng nước mắt, tình cảm và sự thật nghiệt ngã."
-    },
-    {
-        "name": "Anh Sam Của Em",
-        "year": 2026,
-        "slug": "anh-sam-cua-em",
-        "thumb": "https://phimimg.com/uploads/movies/20260727/anh-sam-cua-em-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260727/anh-sam-cua-em-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Một thư ký được giao nhiệm vụ đi đưa người em trai bỏ nhà ra đi của sếp mình trở về. Tuy nhiên, trong quá trình tiếp cận, anh lại đem lòng yêu chính người đàn ông đang bị tổn thương vì tình yêu mà mình có nhiệm vụ phải đưa về nhà."
     },
     {
         "name": "Xích Tình Rực Lửa",
@@ -346,17 +358,5 @@
         "total_episodes": "30",
         "country": "Thái Lan",
         "description": "Sau tai nạn lặn suýt chết khiến máy ảnh của Narathon bị hỏng, anh gặp Kaimook, một sinh viên đang gây tiếng vang với tài nhiếp ảnh dưới nước. Cả hai lập tức khắc khẩu."
-    },
-    {
-        "name": "Bạn Gái Người Máy",
-        "year": 2026,
-        "slug": "ban-gai-nguoi-may",
-        "thumb": "https://phimimg.com/upload/vod/20260702-1/88140f84f7bde451cb436d2693f74efb.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260702-1/9ddc66c01bd307e5fd64162459ea38d5.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (7/7)",
-        "total_episodes": "7",
-        "country": "Thái Lan",
-        "description": "Cuộc sống yên bình của Jen bị đảo lộn khi Ai, một robot bí ẩn có ngoại hình giống hệt cô gái trong mộng của cô, xuất hiện và gọi cô là &quot;Chủ nhân&quot;. Bị buộc phải sống chung, Jen không ngờ rằng mình lại đem lòng yêu cỗ máy tinh nghịch này. Khi mối liên kết giữa họ ngày càng sâu đậm, cô phải đối mặt với câu hỏi cuối cùng: Ai chỉ là một chương trình lỗi lạc, hay chính là tình yêu của đời cô?"
     }
 ]
