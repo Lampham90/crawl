@@ -1,5 +1,17 @@
 [
     {
+        "name": "Hai Trái Tim",
+        "year": 2026,
+        "slug": "hai-trai-tim",
+        "thumb": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 8",
+        "total_episodes": "16",
+        "country": "Thái Lan",
+        "description": "Võ sĩ quyền Anh Dom nằm vùng để thâm nhập tổ chức tội phạm hùng mạnh, nhưng nhiệm vụ này nhanh chóng đẩy cả cuộc hôn nhân lẫn tính mạng của anh vào thế hiểm nguy."
+    },
+    {
         "name": "Bùa Ngải Trói Buộc",
         "year": 2026,
         "slug": "bua-ngai-troi-buoc",
@@ -286,18 +298,6 @@
         "total_episodes": "12",
         "country": "Thái Lan",
         "description": "Cuộc đời của một chàng trai trẻ đã thay đổi mãi mãi khi anh bị một Alpha quyền năng đánh dấu, buộc chặt định mệnh của cả hai vào một mối liên kết không thể nào trốn chạy."
-    },
-    {
-        "name": "Hai Trái Tim",
-        "year": 2026,
-        "slug": "hai-trai-tim",
-        "thumb": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
-        "total_episodes": "16",
-        "country": "Thái Lan",
-        "description": "Võ sĩ quyền Anh Dom nằm vùng để thâm nhập tổ chức tội phạm hùng mạnh, nhưng nhiệm vụ này nhanh chóng đẩy cả cuộc hôn nhân lẫn tính mạng của anh vào thế hiểm nguy."
     },
     {
         "name": "Đầu Bếp Đấu Giá",
