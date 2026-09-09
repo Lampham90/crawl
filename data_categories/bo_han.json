@@ -1,5 +1,17 @@
 [
     {
+        "name": "Đế Chế Đại Hàn (Phần 2)",
+        "year": 2026,
+        "slug": "de-che-dai-han-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20260910/de-che-dai-han-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260910/de-che-dai-han-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "6",
+        "country": "Hàn Quốc",
+        "description": "Phần 2 tiếp tục xoáy sâu vào những cuộc đấu đá quyền lực căng thẳng, lòng tham, sự trả thù và phản bội gia đình, đặt hai nhân vật chính ở các chiến tuyến đối lập giữa một bên là khát vọng quyền lực/tiền tài và một bên là công lý."
+    },
+    {
         "name": "Cớ Gì Lại Đi Leo Núi?",
         "year": 2026,
         "slug": "co-gi-lai-di-leo-nui",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Hàn Quốc",
         "description": "Cảnh sát, những kẻ buôn lậu ma túy và gián điệp: một vụ bắt cóc bí ẩn vô tình vạch trần một mạng lưới tội phạm quy mô lớn, nơi mà cả tình yêu lẫn tình dục đều trở thành những công cụ để trao đổi lợi ích."
-    },
-    {
-        "name": "Hương Vị Của Biển (Hương Vị Của Biển Ở Calape)",
-        "year": 2026,
-        "slug": "huong-vi-cua-bien-huong-vi-cua-bien-o-calape",
-        "thumb": "https://phimimg.com/upload/vod/20260420-1/e3eaa4b0416041de5503e84fe7adeeaf.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260420-1/66246a718fc118958826694276d74afd.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (5/5)",
-        "total_episodes": "5",
-        "country": "Hàn Quốc",
-        "description": "Chị đại Yum Jung Ah, &quot;chuyên gia gia vị&quot; Park Jun Myun, anh chàng đa năng DEX và em út Kim Hye Yoon cùng lên đường khám phá hương vị biển ở vùng đất mới: Philippines. Bắt đầu hành trình khuấy đảo Calape, tìm kiếm những nguyên liệu theo mùa và các sản vật tươi ngon miền nhiệt đới."
     }
 ]
