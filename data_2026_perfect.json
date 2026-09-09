@@ -183,6 +183,54 @@
     ],
     "anime_nhat": [
         {
+            "name": "Meitantei Precure!",
+            "year": 2026,
+            "slug": "meitantei-precure",
+            "thumb": "https://phimimg.com/upload/vod/20260607-1/9369fb0b1a0db1c015470c105d065ba0.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260607-1/0d46f3ca0500b986fda2df9d94ab9efa.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 32",
+            "total_episodes": "40",
+            "country": "Nhật Bản",
+            "description": "Cốt truyện xoay quanh Anna Akechi, một nữ sinh 14 tuổi sống tại thành phố Makoto Mirai vào năm 2027. Vào ngày sinh nhật của mình, Anna được dẫn dắt bởi một tiên nữ tên là Pochitan và một chiếc mặt dây chuyền bí ẩn, khiến cô bị du hành ngược thời gian về thành phố Makoto Mirai của năm 1999. Tại đây, Anna gặp gỡ Mikuru Kobayashi, một cô gái trẻ đầy nhiệt huyết với ước mơ trở thành thám tử lừng danh. Khi một vụ trộm kỳ lạ xảy ra do những kẻ được gọi là &quot;Băng trộm bóng đêm&quot; (Phantom Thieves) thực hiện, cả hai đã cùng nhau biến hình thành các chiến binh nòng cốt"
+        },
+        {
+            "name": "Cuộc Đời Phù Thủy Ở Mông Cổ",
+            "year": 2026,
+            "slug": "cuoc-doi-phu-thuy-o-mong-co",
+            "thumb": "https://phimimg.com/uploads/movies/20260708/cuoc-doi-phu-thuy-o-mong-co-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260708/cuoc-doi-phu-thuy-o-mong-co-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 11",
+            "total_episodes": "13",
+            "country": "Nhật Bản",
+            "description": "Sau khi mất đi người mẹ và cả quê hương, sự tuyệt vọng của Sitara đã biến thành quyết tâm sắt đá nhờ vào sức mạnh của tri thức. Những cơ hội mới mở ra khi cô được một gia đình học giả nhận nuôi và giúp cô tiếp cận nền giáo dục sâu rộng hơn. Trong khi đó, Đế quốc Mông Cổ của Thành Cát Tư Hãn liên tục chinh phạt hết quốc gia này đến quốc gia khác, dần tiến sát đến ngôi nhà mới của Sitara. Sau khi bị Tứ Hoàng tử của đế quốc bắt làm tù binh, ngọn lửa thù hận và khao khát báo thù trong lòng cô chính thức được thắp sáng."
+        },
+        {
+            "name": "Azur Lane: Bisoku Zenshin! Ni!! (Phần 2)",
+            "year": 2026,
+            "slug": "azur-lane-bisoku-zenshin-ni-phan-2",
+            "thumb": "https://phimimg.com/uploads/movies/20260723/azur-lane-bisoku-zenshin-ni-phan-2-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260723/azur-lane-bisoku-zenshin-ni-phan-2-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 10",
+            "total_episodes": "13",
+            "country": "Nhật Bản",
+            "description": "Đây là một thế giới có phần kỳ lạ, nơi các \"hạm娘\" (thiếu nữ tàu chiến) sinh sống. Một cuộc sống học đường vô cùng nhộn nhịp và vui vẻ dành cho các cô gái đến từ nhiều phe phái khác nhau bắt đầu tại căn cứ hải quân Azur Lane. Sống hết mình với tuổi trẻ, các cô gái liên tục vướng vào những tình huống dở khóc dở cười — chậm rãi nhưng chắc chắn!"
+        },
+        {
+            "name": "Xanh Thẳm (Phần 3)",
+            "year": 2026,
+            "slug": "xanh-tham-phan-3",
+            "thumb": "https://phimimg.com/uploads/movies/20260708/xanh-tham-phan-3-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260708/xanh-tham-phan-3-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 10",
+            "total_episodes": "12",
+            "country": "Nhật Bản",
+            "description": "Iori Kitahara mong muốn có một tuổi thanh xuân tươi mới của mình trên bán đảo Izu khi anh chuẩn bị bắt đầu cuộc sống đại học ở đó, ở trong một căn phòng phía trên cửa hàng lặn \"Grand Blue\" của chú mình. Tuy nhiên, anh nhanh chóng bị sốc khi gặp Câu lạc bộ Lặn địa phương, một nhóm toàn thanh niên trai tráng dành nhiều thời gian để uống rượu, tiệc tùng và khỏa thân hơn là tập trung chuyên môn. Bất chấp những nỗ lực của mình để tránh xa nhóm, Iori nhanh chóng bị cuốn vào những trò hề của họ, trong khi chị em họ của anh cố gắng cho anh thấy những điều kỳ diệu khi lặn xuống biển và đại dương."
+        },
+        {
             "name": "Vị Thánh Vô Tư Không Thể Kiềm Chế Sức Mạnh",
             "year": 2026,
             "slug": "vi-thanh-vo-tu-khong-the-kiem-che-suc-manh",
@@ -217,18 +265,6 @@
             "total_episodes": "12",
             "country": "Nhật Bản",
             "description": "Mitsuki Aya bước vào Học viện Nữ sinh danh giá Kuromi với một mục tiêu duy nhất: trở thành một quý cô thanh lịch giống như “Hoa Ly Trắng” hoàn hảo của trường — Yorue Mio. Thế nhưng, hình tượng của Mio trong lòng Aya bỗng chốc tan vỡ khi cô vô tình bắt gặp nàng tiểu thư này đang... cày game đối kháng?! Hóa ra, Mio thanh tao thực chất lại là một game thủ hạng nặng — và cô ấy muốn thách đấu một trận tử hùng với Aya! Trận chiến (cùng tình bạn của họ) chính thức bắt đầu từ đây."
-        },
-        {
-            "name": "Xanh Thẳm (Phần 3)",
-            "year": 2026,
-            "slug": "xanh-tham-phan-3",
-            "thumb": "https://phimimg.com/uploads/movies/20260708/xanh-tham-phan-3-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260708/xanh-tham-phan-3-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 10",
-            "total_episodes": "12",
-            "country": "Nhật Bản",
-            "description": "Iori Kitahara mong muốn có một tuổi thanh xuân tươi mới của mình trên bán đảo Izu khi anh chuẩn bị bắt đầu cuộc sống đại học ở đó, ở trong một căn phòng phía trên cửa hàng lặn \"Grand Blue\" của chú mình. Tuy nhiên, anh nhanh chóng bị sốc khi gặp Câu lạc bộ Lặn địa phương, một nhóm toàn thanh niên trai tráng dành nhiều thời gian để uống rượu, tiệc tùng và khỏa thân hơn là tập trung chuyên môn. Bất chấp những nỗ lực của mình để tránh xa nhóm, Iori nhanh chóng bị cuốn vào những trò hề của họ, trong khi chị em họ của anh cố gắng cho anh thấy những điều kỳ diệu khi lặn xuống biển và đại dương."
         },
         {
             "name": "Trò Chơi Dối Trá",
@@ -325,45 +361,57 @@
             "total_episodes": "24",
             "country": "Nhật Bản",
             "description": "Tám năm trước, Nanoka Kiba là người duy nhất sống sót thần kỳ sau một tai nạn thảm khốc tại trung tâm thương mại thị trấn Gogyo. Ở hiện tại, trên đường đi học về, cô bị thu hút bởi một lối đi bỏ hoang và bất ngờ bị dịch chuyển về thời đại Taisho của Nhật Bản. Tại đây, cô gặp gỡ Mao – một chàng trai bí ẩn cũng vừa đặt chân đến ngôi làng đầy ma quỷ cùng lúc với cô. Cùng nhau, họ bắt đầu điều tra những sự kiện kỳ quái xảy ra xung quanh. Nanoka dần chắp vá lại những ký ức vụn vỡ về vụ tai nạn năm xưa và nhận ra rằng, cô và Mao có thể đang cùng mang trong mình một vận mệnh chung đầy đen tối."
-        },
-        {
-            "name": "Hậu Phương Mạnh Nhất Thế Giới - Nhà Khai Phá Tân Binh Của Vương Quốc Mê Cung",
-            "year": 2026,
-            "slug": "hau-phuong-manh-nhat-the-gioi-nha-khai-pha-tan-binh-cua-vuong-quoc-me-cung",
-            "thumb": "https://phimimg.com/upload/vod/20260706-1/f71f0f1d25c2cf1dbee49f48d2c10b65.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260706-1/77db63f704e93279e6a31c668daf3c32.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 10",
-            "total_episodes": "12",
-            "country": "Nhật Bản",
-            "description": "Nhân vật chính là một nô lệ của tư bản, sau khi gặp tai nạn bất ngờ đã chuyển sinh đến dị giới mang tên “Vương quốc mê cung”. Tại nơi đó, anh trở thành một nhà thám hiểm mê cung và thức tỉnh một nghề nghiệp bí ẩn mang tên “Hậu phương” Đây là một nghề hỗ trợ toàn năng, vừa có thể tấn công, phòng thủ lẫn trị liệu! Phía sau, cùng với cô gái lính đánh thuê á nhân bí ẩn, vị sếp nữ xinh đẹp từ kiếp trước và những người đồng đội đầy cá tính, chàng trai liên tục leo hạng trong Vương quốc mê cung! &quot;Mọi người, tôi đến hỗ trợ mọi người đây!&quot; Sự hỗ trợ ấy sẽ tăng cường sức mạnh và sợi dây gắn kết. Câu chuyện phiêu lưu của hậu phương mạnh nhất chính thức mở màn!"
-        },
-        {
-            "name": "100 Cô Bạn Gái Yêu Bạn Rất Rất Rất Rất Rất Nhiều (Phần 3)",
-            "year": 2026,
-            "slug": "100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3",
-            "thumb": "https://phimimg.com/uploads/movies/20260707/100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260707/100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 10",
-            "total_episodes": "12",
-            "country": "Nhật Bản",
-            "description": "Rentaro Aijo đã trải qua 100 lần thất tình hồi còn học sơ trung. Khi vừa lên cao trung, cậu đã đến một đền thờ và ước rằng \"tôi muốn có người yêu\". Thần tình yêu xuất hiện và phán rằng \"tại cao trung, con sẽ gặp được 100 người định mệnh của mình\". Tuy nhiên, theo vị thần, những người gặp một nửa định mệnh của mình phải yêu nhau và cảm thấy hạnh phúc, bằng không họ sẽ chết. Gặp gỡ liên tiếp những con người định mệnh của mình, Rentaro sẽ làm thế nào đây? Điều gì sẽ đến với 100 cô bạn gái của cậu?"
-        },
-        {
-            "name": "Tạm Biệt, Lara",
-            "year": 2026,
-            "slug": "tam-biet-lara",
-            "thumb": "https://phimimg.com/upload/vod/20260706-1/a58d4995de5cca37d9a5505d0f7ca237.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260706-1/921417e1ad5a13789142b510a53cf56e.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 10",
-            "total_episodes": "12",
-            "country": "Nhật Bản",
-            "description": "Ngày xửa ngày xưa, một nàng tiên cá tên Lara đã đem lòng yêu một hoàng tử loài người. Để được ở bên anh, nàng đã dùng lọ thuốc của phù thủy để biến thành người — nhưng ma thuật luôn đi kèm với cái giá phải trả: Nếu không thể tìm thấy tình yêu đích thực, nàng sẽ tan biến thành bọt biển mãi mãi. Giờ đây, 200 năm sau, Lara bất ngờ tỉnh giấc tại Hồ Biwa với một cơ hội cuối cùng để giành lấy sự sống và tình yêu."
         }
     ],
     "hh_trung_quoc": [
+        {
+            "name": "Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện",
+            "year": 2026,
+            "slug": "huyen-huyen-ta-thien-menh-trum-phan-dien",
+            "thumb": "https://phimimg.com/uploads/movies/20260726/huyen-huyen-ta-thien-menh-trum-phan-dien-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260726/huyen-huyen-ta-thien-menh-trum-phan-dien-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 19",
+            "total_episodes": "60",
+            "country": "Trung Quốc",
+            "description": "Bộ phim được chuyển thể từ tiểu thuyết cùng tên trên trang web Faloo, kể về anh chàng Cố Trường Ca xuyên không đến một thế giới huyền ảo và phát hiện mình trở thành Cố Trường Ca - phản diện độc ác, kẻ vốn định sẵn sẽ bị nhân vật chính đánh bại. Để tự bảo vệ bản thân và thay đổi số phận, anh buộc phải tận dụng hệ thống cùng lợi thế biết trước mô-típ của dòng truyện \"vả mặt\", liên tục mưu tính, cướp cơ duyên và chèn ép các nhân vật chính, nhờ đó, anh liên tục nhận được phần thưởng, từng bước vươn lên đỉnh cao."
+        },
+        {
+            "name": "Lý Hùng Miêu",
+            "year": 2026,
+            "slug": "ly-hung-mieu",
+            "thumb": "https://phimimg.com/uploads/movies/20260801/ly-hung-mieu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260801/ly-hung-mieu-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "9",
+            "country": "Trung Quốc",
+            "description": "Gấu Trúc Lý, hay còn được viết đến với cái tên khác là Lý Hùng Miêu, một tác phẩm được kết hợp tinh tế giữa phong cách võ hiệp của Trung Quốc và những nét viễn tưởng mang tầm vóc vũ trụ của Nhật Bản. Tác giả Văn Chu mang đến câu chuyện về hành trình đầy lâm li bi đát nhưng cũng không kém phần thú vị của một cậu bé đến từ nhân tộc có tên Lý Hùng Miêu, cậu được Yêu tộc nuôi dưỡng và cưu mang từ nhỏ, học tập, rèn luyện và mang trên mình những tinh túy của võ thuật vô cùng tiềm năng. Theo sự dẫn dắt của sư phụ mình, Lý Hùng Miêu xuống núi và truy tìm để hỏi tội 3 kẻ thù đã nhẫn tâm thảm sát Yêu tộc thời gian trước đó. Hành trình truy tìm kẻ thù ấy không hề dễ dàng bởi thiên hạ rộng lớn bao la và ẩn chứa vô vàn những biến số khôn lường. Những sự thật về trận chiến giữa Nhân tộc và Yêu tộc dần được vén màn, cũng như những bị ẩn về thời kỳ đó, số phận của bản thân Gấu trúc Lý cũng được phơi bày."
+        },
+        {
+            "name": "Bắt Đầu Với Chí Tôn Đan Điền",
+            "year": 2025,
+            "slug": "bat-dau-voi-chi-ton-dan-dien",
+            "thumb": "https://phimimg.com/upload/vod/20251008-1/5969b30193530e9ca100cb6683241181.jpg",
+            "poster": "https://phimimg.com/upload/vod/20251008-1/9ea5adf1e158025b17f0d3ac241e4172.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 28",
+            "total_episodes": "40",
+            "country": "Trung Quốc",
+            "description": "Bắt Đầu Với Chí Tôn Đan Điền phiên bản 3D sẽ mang đến những khoảnh khắc thú vì hơn với việc khắc họa sinh động hành trình trở thành Đại Đế đầy gian khổ của một bán thần tên là Tần Thư. Bị coi là bán thần vì Tần Thư tuy mang cốt cách của một thần tử nhưng lại sống trong thân xác của một người phàm từ khi mới sinh ra. Điều này mang lại vô số điều bất lợi và sự khinh miệt đến với cậu, các thần nhân thì luôn tìm cách để chiếm đoạt lấy thân phận thần tử của mình bởi với họ thì điều đó quá dễ dàng. Nhưng khi giang trần để thực sự sống trong thân thế của một con người đích thực, Tần Thư đã đanh thép khẳng định được sức mạnh và ý chí không bao giờ khuất phục của mình. Nhờ có những nỗ lực và cả cơ duyên nên Tần Thư đã có được Đan Đình Vĩnh Động, sức mạnh nâng lên không ngừng. Tần Thư đã giao chiến và hạ gục cả quỷ Tu La lẫn tên Võ Đế với sức mạnh vô song."
+        },
+        {
+            "name": "100 Ngày Trở Thành Vua",
+            "year": 2026,
+            "slug": "100-ngay-tro-thanh-vua",
+            "thumb": "https://phimimg.com/upload/vod/20260705-1/be3861cd61b17562208ac480e1a72485.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260705-1/fa3aca9eeb59b42dfcda83b0c2d85fd4.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 23",
+            "total_episodes": "25",
+            "country": "Trung Quốc",
+            "description": "Bị dồn đến bờ vực của sự tuyệt vọng, Minh — chủ của một quán ăn — đã tạo nên một mối liên kết không tưởng với linh hồn của chân mệnh Thiên tử là Quốc vương Lie sau khi nuốt chửng linh hồn này để cứu lấy người mình yêu. Bị ràng buộc bởi định mệnh, cả hai dấn thân vào một cuộc hành trình đầy hiểm nguy để thách thức kẻ bạo chúa đã chiếm đoạt ngai vàng. Với vỏn vẹn một trăm ngày để xoay chuyển số phận, Minh đã tận dụng trí nhớ phi thường của mình để làm chủ những ma pháp cổ xưa đã thất truyền từ lâu, đồng thời chiêu mộ đồng minh và thu phục lòng dân trên suốt chặng đường. Khi sức mạnh ngày một lớn dần, quyết tâm lật đổ triều đại thối nát, đòi lại vương vị cho vị vua đích thực và khôi phục thái bình cho vương quốc của họ lại càng thêm sục sôi."
+        },
         {
             "name": "Sơn Hải Kinh: Thiết Lập Lại Trật Tự",
             "year": 2026,
@@ -437,18 +485,6 @@
             "description": "Hãy cùng đón xem hành trình thiếu niên chiêu hồn đối đầu trực diện với tà phái Cửu Cúc, liều mình bảo vệ chúng sinh Lam Hải trước nguy cơ sụp đổ ranh giới hai giới. Trong thế giới này, ý thức của muôn loài đều được cấu tạo từ các hạt vi mô. Thiếu niên Lâm Dã ở đảo Lam Hải bẩm sinh sở hữu thể chất \"chiêu hồn\" đặc biệt, được giới \"Du Hồn\" coi là \"khách sạn di động\", suốt ngày bị linh hồn nhập xác gây rối và phải bỏ chạy thục mạng. Sau khi tình cờ gặp gỡ Trần Quả — cô gái mang dị năng có khả năng thu phục \"Du Hồn\", Lâm Dã bước chân vào tổ chức siêu nhiên Học viện Hoa Tịnh, từ đó cuốn vào cuộc tranh đấu kéo dài hàng thế kỷ với tà phái \"Cửu Cúc Nhất Phái\" đến từ Đông Doanh. Trong hành trình này, cậu liên tục đối mặt với những âm mưu ly gián, hãm hại, và sự sụp đổ niềm tin. Cho đến khi cánh cổng ranh giới sắp mở ra, toàn thành phố rơi vào cảnh nguy vong, Lâm Dã đã dùng chấp niệm của một người bình thường để quyết đấu đến cùng với bản sao hoàn hảo của chính mình, dốc hết sức tàn bảo vệ Lam Hải. Tuy nhiên, ngay khi đại chiến khép lại và anh hùng ngã xuống, một âm mưu mới của Cửu Cúc Nhất Phái lại âm thầm lan rộng nơi sâu thẳm của dãy Côn Lôn..."
         },
         {
-            "name": "Bắt Đầu Với Chí Tôn Đan Điền",
-            "year": 2025,
-            "slug": "bat-dau-voi-chi-ton-dan-dien",
-            "thumb": "https://phimimg.com/upload/vod/20251008-1/5969b30193530e9ca100cb6683241181.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251008-1/9ea5adf1e158025b17f0d3ac241e4172.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 27",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "description": "Bắt Đầu Với Chí Tôn Đan Điền phiên bản 3D sẽ mang đến những khoảnh khắc thú vì hơn với việc khắc họa sinh động hành trình trở thành Đại Đế đầy gian khổ của một bán thần tên là Tần Thư. Bị coi là bán thần vì Tần Thư tuy mang cốt cách của một thần tử nhưng lại sống trong thân xác của một người phàm từ khi mới sinh ra. Điều này mang lại vô số điều bất lợi và sự khinh miệt đến với cậu, các thần nhân thì luôn tìm cách để chiếm đoạt lấy thân phận thần tử của mình bởi với họ thì điều đó quá dễ dàng. Nhưng khi giang trần để thực sự sống trong thân thế của một con người đích thực, Tần Thư đã đanh thép khẳng định được sức mạnh và ý chí không bao giờ khuất phục của mình. Nhờ có những nỗ lực và cả cơ duyên nên Tần Thư đã có được Đan Đình Vĩnh Động, sức mạnh nâng lên không ngừng. Tần Thư đã giao chiến và hạ gục cả quỷ Tu La lẫn tên Võ Đế với sức mạnh vô song."
-        },
-        {
             "name": "Thái Cổ Thần Tôn",
             "year": 2026,
             "slug": "thai-co-than-ton",
@@ -497,18 +533,6 @@
             "description": "Dưới thời loạn lạc, yêu quái nổi lên khắp nơi, gian thần thao túng triều chính. Đúng lúc đó, U giới thâm nhập, thế lực của người và quỷ cùng tàn phá nhân gian. Hứa Ứng là một người bắt rắn, anh không chịu nổi cảnh thần cỏ bán mạng cho U giới, ức hiếp dân lành nên đã phản kháng và phạm tội giết thần, đồng thời anh cũng ra tay đánh chết quan lại triều đình bất lực. Kết quả, Hứa Ứng bị thế lực hai giới truy sát, bắt đầu cuộc đời lưu vong…"
         },
         {
-            "name": "100 Ngày Trở Thành Vua",
-            "year": 2026,
-            "slug": "100-ngay-tro-thanh-vua",
-            "thumb": "https://phimimg.com/upload/vod/20260705-1/be3861cd61b17562208ac480e1a72485.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260705-1/fa3aca9eeb59b42dfcda83b0c2d85fd4.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 22",
-            "total_episodes": "25",
-            "country": "Trung Quốc",
-            "description": "Bị dồn đến bờ vực của sự tuyệt vọng, Minh — chủ của một quán ăn — đã tạo nên một mối liên kết không tưởng với linh hồn của chân mệnh Thiên tử là Quốc vương Lie sau khi nuốt chửng linh hồn này để cứu lấy người mình yêu. Bị ràng buộc bởi định mệnh, cả hai dấn thân vào một cuộc hành trình đầy hiểm nguy để thách thức kẻ bạo chúa đã chiếm đoạt ngai vàng. Với vỏn vẹn một trăm ngày để xoay chuyển số phận, Minh đã tận dụng trí nhớ phi thường của mình để làm chủ những ma pháp cổ xưa đã thất truyền từ lâu, đồng thời chiêu mộ đồng minh và thu phục lòng dân trên suốt chặng đường. Khi sức mạnh ngày một lớn dần, quyết tâm lật đổ triều đại thối nát, đòi lại vương vị cho vị vua đích thực và khôi phục thái bình cho vương quốc của họ lại càng thêm sục sôi."
-        },
-        {
             "name": "Linh Cảnh Hành Giả",
             "year": 2026,
             "slug": "linh-canh-hanh-gia",
@@ -519,33 +543,21 @@
             "total_episodes": "30",
             "country": "Trung Quốc",
             "description": "Đây là một thế giới kỳ dị tồn tại song song với thế giới hiện thực, nơi người tham gia phải vượt qua những phó bản nguy hiểm, đối mặt với các nhiệm vụ sinh tử và những sinh vật siêu nhiên. Trong quá trình khám phá Linh Cảnh, Trương Nguyên Thanh từng bước thức tỉnh năng lực, trưởng thành qua những cuộc phiêu lưu và dần khám phá những bí mật ẩn giấu phía sau thế giới này."
-        },
-        {
-            "name": "Linh Cảnh Hành Giả: Ngoại Truyện",
-            "year": 2026,
-            "slug": "linh-canh-hanh-gia-ngoai-truyen",
-            "thumb": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-ngoai-truyen-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-ngoai-truyen-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "30",
-            "country": "Trung Quốc",
-            "description": "Series ngoại truyện hài hước của \"Linh Cảnh Hành Giả\" được chắt lọc từ nguyên tác, mang đến góc nhìn mới mẻ và thú vị về cuộc sống đời thường với những tình huống tréo ngoe, dở khóc dở cười chưa từng được hé lộ của Trương Nguyên Thanh cùng người thân, bạn bè. Loạt phim sẽ đưa bạn bước vào một thế giới \"Linh Cảnh Hành Giả\" vô cùng trọn vẹn và nhiều màu sắc."
-        },
-        {
-            "name": "Pháp Sư Tử Linh: Ta Chính Là Thiên Tai",
-            "year": 2026,
-            "slug": "phap-su-tu-linh-ta-chinh-la-thien-tai",
-            "thumb": "https://phimimg.com/uploads/movies/20260807/phap-su-tu-linh-ta-chinh-la-thien-tai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260807/phap-su-tu-linh-ta-chinh-la-thien-tai-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 15",
-            "total_episodes": "60",
-            "country": "Trung Quốc",
-            "description": "Pháp Sư Tử Linh: Ta Chính Là Thiên Tai, một tác phẩm được chuyển thể từ cuốn tiểu thuyết nổi tiếng cùng tên, mang đến câu chuyện về hành trình trở thành một quân vương của một người có tên là Lâm Mặc Ngữ. Vốn không định làm vua, nhưng cuộc sống xô đẩy và Lâm Mặc Ngữ đã phải thuận theo thời thế. Nơi mà anh ta sống thực tế là đang bị những quy tắc của trò chơi giáng xuống và làm đảo lộn mọi thứ, con người và những sinh linh trên thế giới bị biến thành những phần của trò chơi, thậm chí là họ phải đối mặt với nạn xâm lăng từ những dị tộc như ma tộc và long tộc, mang đến những cuộc chiến không có hồi kết và vô cùng khốc liệt. Nhưng với Lâm Mặc Ngữ thì khác, anh ta mang trên mình những thiên phú bẩm sinh rất đặc biệt, những năng lực rất khác người, chỉ cần xua tay là có thể tạo ra một đội quân hùng mạnh. Nhờ vậy mà Lâm Mặc Ngữ đã đánh lui được những dị tộc và mang lại sự bình yên cho thế giới, phá vỡ thế chân vạc vốn tồn tại lâu năm giữa 3 nước để thống nhất thiên hạ, trở thành một vị quân vương chính hiệu."
         }
     ],
     "phim_chieu_rap": [
+        {
+            "name": "Làng Khát Máu",
+            "year": 2025,
+            "slug": "lang-khat-mau",
+            "thumb": "https://phimimg.com/uploads/movies/20260909/lang-khat-mau-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260909/lang-khat-mau-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Nhật Bản",
+            "description": "Biên tập viên tạp chí chuyên điều tra hiện tượng kỳ bí bỗng nhiên mất tích. Người đồng nghiệp trẻ Ozawa Yūki và nhà báo Seno Chihiro bắt đầu lần theo những dấu vết còn sót lại.  Những manh mối họ tìm thấy liên quan đến nhiều sự kiện bí ẩn: trẻ em mất tích, các vụ hoảng loạn tập thể, video livestream rùng rợn… Tất cả đều dẫn đến “một nơi nào đó ở vùng Kinki” – một địa điểm đầy ám ảnh mà dường như không ai muốn nhắc tới."
+        },
         {
             "name": "Hành Trình Của Moana",
             "year": 2026,
@@ -713,18 +725,6 @@
             "total_episodes": "1",
             "country": "Hồng Kông",
             "description": "Chủ tiệm Vương Vĩ có cô con gái Vũ Tình bị một băng nhóm tội phạm bắt cóc giữa phố. Trong hành trình giải cứu con, anh lần theo dấu vết của một mạng lưới buôn người và tội phạm ngầm vô cùng nguy hiểm. Đồng hành cùng anh là một nhà báo mang trong mình quá khứ bí ẩn. Hai người buộc phải hợp tác, sử dụng kỹ năng chiến đấu của mình để đối đầu với tổ chức tội phạm và đưa cô bé trở về an toàn."
-        },
-        {
-            "name": "Bầy Xác Sống",
-            "year": 2026,
-            "slug": "bay-xac-song",
-            "thumb": "https://phimimg.com/uploads/movies/20260723/bay-xac-song-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260723/bay-xac-song-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Hàn Quốc",
-            "description": "Giáo sư Se Jeong tham dự một hội nghị công nghệ sinh học, nhưng lại chứng kiến ​​nó biến thành thảm họa khi một loại virus đột biến nhanh chóng được giải phóng. Khi dịch bệnh lan rộng và những người nhiễm bệnh bắt đầu biến đổi, chính quyền đã phong tỏa toàn bộ cơ sở."
         }
     ],
     "le_vn": [
@@ -917,7 +917,7 @@
             "thumb": "https://phimimg.com/uploads/movies/20260819/phu-sa-thumb.webp",
             "poster": "https://i.ex-cdn.com/danviet.vn/files/content/2026/08/13/final--poster-phu-sa-1012.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 12",
+            "current_episode": "Tập 13",
             "total_episodes": "35",
             "country": "Việt Nam",
             "description": "Câu chuyện bắt đầu tại xóm Bình Hòa ven sông Tiền, nơi những vụ sạt lở liên tiếp khiến nhà cửa, vườn tược đứng trước nguy cơ biến mất. Người dân hoang mang, những lời đồn về đất đai mất giá xuất hiện, cò đất lảng vảng và ngày càng nhiều gia đình nghĩ tới chuyện bán đất, rời quê. Đúng lúc ấy, Phù Sa (diễn viên Trúc Mây) từ thành phố trở về mang theo một kế hoạch đầy tham vọng: Nâng giá trị cây ca cao, tạo ra sản phẩm của Bình Hòa và từ đó mở thêm sinh kế cho người dân."
@@ -929,7 +929,7 @@
             "thumb": "https://phimimg.com/uploads/movies/20260808/mua-he-nam-ay-2026-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20260808/mua-he-nam-ay-2026-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 13",
+            "current_episode": "Tập 14",
             "total_episodes": "40",
             "country": "Việt Nam",
             "description": "Lấy bối cảnh trải dài giữa những năm tháng thanh xuân và hiện tại sau gần một thập kỷ, Mùa hè năm ấy kể câu chuyện về tình bạn, tình yêu và những biến cố khi còn trên ghế nhà trường."
@@ -1639,6 +1639,126 @@
     ],
     "bo_trung": [
         {
+            "name": "Hiện Trường Săn Án",
+            "year": 2026,
+            "slug": "hien-truong-san-an",
+            "thumb": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 2",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ chui. Một vụ án cũ bị lãng quên suốt 7 năm bất ngờ được lật lại. Trong quá trình dấn thân truy tìm sự thật, nhóm cảnh sát điều tra không chỉ bóc gỡ từng lớp âm mưu đen tối mà còn liên tục trăn trở, thảo luận sâu sắc về vinh quang của người chiến sĩ công an cùng sự kính úy đối với giá trị thiêng liêng của sinh mạng con người."
+        },
+        {
+            "name": "Sư Huynh Quá Cẩn Trọng",
+            "year": 2026,
+            "slug": "su-huynh-qua-can-trong",
+            "thumb": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (30/30)",
+            "total_episodes": "30",
+            "country": "Trung Quốc",
+            "description": "Kiếp trước, Lý Trường Thọ là một bệnh nhân mắc bệnh hiểm nghèo. Sau một lần ngoài ý muốn sống lại ở thế giới hồng hoang, trở thành một tu sĩ Luyện Khí nhỏ bé luôn trân trọng tính mạng, không muốn dính vào nhân quả. Để tránh đại kiếp thiên hạ đã được thiên đạo tiên tri, y theo đuổi con đường \"ổn vững\", chỉ mong sớm lên thiên đình sống qua ngày. Vì thế, y hành sự thận trọng, bất động thì vững như bàn thạch, động một cái là long trời lở đất. Y tin rằng thời đại chỉ biết chém giết đã qua, lừa được thì tuyệt đối không giết, độc thân được thì tuyệt đối không yêu. Thế nhưng, kẻ địch và mỹ nhân lại ùn ùn kéo đến. Y bất cẩn trở thành cao thủ đứng sau bày mưu tính kế, bị cuốn vào trận đấu của nhiều thế lực, triển khai kế hoạch \"Long tộc lên trời\", thậm chí còn khiến đại kiếp thiên hạ đến sớm hơn..."
+        },
+        {
+            "name": "Quan Săn Yêu Cửu Phẩm",
+            "year": 2026,
+            "slug": "quan-san-yeu-cuu-pham",
+            "thumb": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 10",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Thượng Quan Tử Yên, một tiểu yêu mang sát khí, và đạo sĩ Nguyên Sơ, người mang tình kiếp khiến người mình yêu phải chết, trở thành Quan Săn Yêu Cửu Phẩm và cùng nhau bước lên hành trình vá trời. Trên đường đi, cả hai phải đối mặt với yêu ma và những hiểm họa đe dọa nhân gian."
+        },
+        {
+            "name": "Phù Sinh: Bạch Xà Tiền Duyên",
+            "year": 2026,
+            "slug": "phu-sinh-bach-xa-tien-duyen",
+            "thumb": "https://phimimg.com/uploads/movies/20260904/phu-sinh-bach-xa-tien-duyen-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260904/phu-sinh-bach-xa-tien-duyen-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 16",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Vốn dĩ sắp phi thăng thành tiên sau 500 năm tu luyện, Bạch Tố Trinh lại vì vướng bận một \"tình kiếp\" dang dở mà đánh mất đi phần ký ức quan trọng. Phụng mệnh thượng thần, nàng hạ phàm tìm kiếm Hứa Tiên để trả nợ ân tình. Bước vào chốn hồng trần, Bạch Tố Trinh cùng Tiểu Thanh tình cờ kết giao với Hứa Tiên – lúc này lại mang thân phận thầy trừ yêu gánh trên vai huyết thù diệt môn, cùng vị đệ tử Kim Sơn - Pháp Hải. Bốn người kề vai sát cánh, từ đó mở ra một vòng xoáy định mệnh."
+        },
+        {
+            "name": "Phò Mã Tiểu Ngỗ Tác",
+            "year": 2026,
+            "slug": "pho-ma-tieu-ngo-tac",
+            "thumb": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 37",
+            "total_episodes": "43",
+            "country": "Trung Quốc",
+            "description": "Thiên kim tiểu thư Quân Thanh Lam bi thảm chịu cảnh gia tộc bị xét nhà diệt môn. Vị hôn phu năm xưa là Lý Tùng Nghiêu chẳng những không dang tay cứu giúp, mà còn đích thân hủy hoại dung mạo của nàng. Trở về từ cõi chết, nàng thay hình đổi dạng, nữ cải trang thành nam hóa thân thành pháp y của Đại Lý Tự, nhẫn nhịn ẩn mình chỉ một lòng lật lại vụ án để báo thù. Nào ngờ nàng lại tái ngộ Lý Tùng Nghiêu, người thương năm xưa nay đã trở thành một Đoan Vương tàn nhẫn máu lạnh. Hắn trắng trợn bắt ép và giam cầm nàng. Yêu hận đan xen, quyền mưu quỷ quyệt nối gót bủa vây, màn sương mù của vụ án cũ từng lớp bị bóc trần. Một ván cờ sinh tử giằng xé giữa cuộc chiến báo thù và tư tình lại chính thức bắt đầu."
+        },
+        {
+            "name": "Người Quyết Định",
+            "year": 2026,
+            "slug": "nguoi-quyet-dinh",
+            "thumb": "https://phimimg.com/uploads/movies/20260904/nguoi-quyet-dinh-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260904/nguoi-quyet-dinh-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 18",
+            "total_episodes": "26",
+            "country": "Trung Quốc",
+            "description": "Thành phố Thi Thiềm mượn làn gió phát triển logistics để trỗi dậy, nhưng kéo theo đó là các băng nhóm xã hội đen mọc lên như nấm. Cảnh sát nằm vùng Lăng Triệt bị ép phải bắt cặp với Thẩm Thẩm Lân — một tên giang hồ lưu linh. Cả hai đi từ mâu thuẫn chồng chất đến lúc thấu hiểu và trân trọng lẫn nhau. Trên hành trình truy vết, nội gián liên tục xuất hiện, bức màn đen tối trong đồn cảnh sát dần lộ diện. Khi anh em trở thành quân cờ, công lý biến thành công cụ ngã giá, một cơn bão hắc bạch phân tranh mới chỉ vừa bắt đầu..."
+        },
+        {
+            "name": "Muôn Dặm Giang Sơn Chờ Ta Khai Phá",
+            "year": 2026,
+            "slug": "muon-dam-giang-son-cho-ta-khai-pha",
+            "thumb": "https://phimimg.com/uploads/movies/20260831/muon-dam-giang-son-cho-ta-khai-pha-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260831/muon-dam-giang-son-cho-ta-khai-pha-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 22",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Triệu Đông - tiên tôn một lòng cầu đạo, lạnh nhạt với tình duyên thế tục, khiến tiên quyến đâm sau lưng, đoạ kiếp trong nỗi tiếc hận. Sau khi trùng sinh, hắn nhập vào thân xác một tên lưu manh cũng tên Triệu Đông. Trải qua hai kiếp tiên phàm, hắn thấu hiểu đạo lý \"mọi việc đều phải có chừng mực\", quyết định gắn bó với chốn phàm trần, bù đắp những tiếc nuối trước kia và một lần nữa chứng đắc đại đạo."
+        },
+        {
+            "name": "Giao Phong",
+            "year": 2026,
+            "slug": "giao-phong",
+            "thumb": "https://phimimg.com/uploads/movies/20260908/giao-phong-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260908/giao-phong-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 7",
+            "total_episodes": "40",
+            "country": "Trung Quốc",
+            "description": "Một vụ án rò rỉ thông tin mật quy mô lớn vào thời điểm chuyển giao thế kỷ đã làm rúng động tình hình hai bên eo biển, đồng thời che giấu một cuộc đọ sức nảy lửa trên chiến tuyến thầm lặng giữa thế lực nước ngoài và lực lượng an ninh quốc gia. Vào cuối những năm 1990, tại Cục An ninh Quốc gia thành phố Mẫn Châu, hai thầy trò có tính cách hoàn toàn trái ngược nhau đã kề vai sát cánh chiến đấu vì sứ mệnh và niềm tin chung do sự an bài ngẫu nhiên của số phận. Họ cùng nhau đập tan hàng loạt âm mưu nguy hiểm, đồng thời vướng vào những ân oán giằng xé kéo dài suốt 20 năm với đối thủ. Khi thời gian trôi qua, làn sóng biến động của thế kỷ mới ập đến khiến cục diện phòng thủ - tấn công an ninh quốc gia thay đổi, nhưng cuộc chiến trong bóng tối vẫn không hề dừng lại. Trải qua muôn vàn thử thách nhân tính, mối quan hệ số phận giữa ba người họ dần thay đổi lặng lẽ theo thời gian qua từng lựa chọn khác nhau."
+        },
+        {
+            "name": "Đầu Xuân Tươi Sáng",
+            "year": 2026,
+            "slug": "dau-xuan-tuoi-sang",
+            "thumb": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 21",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Thượng Chi Đào chân ướt chân ráo tới Bắc Kinh, đụng độ phải oan gia là \"thiên tài ma quỷ\" xuất chúng Loan Niệm. Thượng Chi Đào sôi nổi, dũng cảm từng bước trưởng thành, phá vỡ tuyến phòng thủ tâm lý kiên cố, khôn khéo của Loan Niệm. Hai người thu hút nhau, dây dưa vờn qua vờn lại giữa chốn đô thị ngột ngạt, hết tan lại hợp. Yêu là phải dùng hết lòng dũng cảm, không để lại nuối tiếc. Yêu là hàn gắn cho nhau và cùng trưởng thành. Nhưng đứng trước tình yêu, cô lại lựa chọn sinh tồn. Khi cô có thể một mình đứng vững, anh thu lại sự sắc bén, họ sẽ viết nên cái kết mới cho nhau trong tâm thế ngang hàng bình đẳng…"
+        },
+        {
+            "name": "Bay Vào Trái Tim Anh / Bay Vào Tim Anh",
+            "year": 2026,
+            "slug": "bay-vao-trai-tim-anh-bay-vao-tim-anh",
+            "thumb": "https://phimimg.com/uploads/movies/20260831/bay-vao-trai-tim-anh-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260831/bay-vao-trai-tim-anh-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 18",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Nguyễn Tư Nhàn, một tiếp viên hàng không quyết tâm theo đuổi ước mơ phi công, đã vượt qua nhiều thử thách để tốt nghiệp xuất sắc. Trên hành trình chinh phục sự nghiệp, cô dần nảy sinh tình cảm chân thành với Phó chủ tịch hãng hàng không Phó Minh Dư bất chấp những hiểu lầm và trở ngại."
+        },
+        {
             "name": "Sinh Đúng Thời Điểm",
             "year": 2026,
             "slug": "sinh-dung-thoi-diem",
@@ -1651,42 +1771,6 @@
             "description": "Sinh Phùng Kỳ Thời là bộ phim gia đình thời đại, được chuyển thể từ tiểu thuyết \"Láng Giềng\" của Hàn Thập Tam. Phim có sự tham gia diễn chính của Quan Tiểu Đồng (từng đóng \"Người Trong Ngõ Nhỏ\", \"Năm Tháng Hữu Tình\") và Vương Tử Kỳ (từng đóng \"Bảng Thượng Giai Tế\", \"Ngự Tứ Tiểu Ngỗ Tác 2\"), cùng sự tham gia đặc biệt của Lưu Lâm, Quách Đào và Quách Hiểu Đông. Đầu những năm 80, tại thị trấn Thanh Ngô có hai nhà họ Tề và nhà họ Tào với hoàn cảnh hoàn toàn khác biệt. Một ngày nọ, hai gia đình cùng lúc chào đón hai đứa trẻ là Tề Thời và Tào Tín. Tề Thời mắc bệnh bạch tạng, từ nhỏ đã nhận thức được sự \"khác biệt\" của bản thân nên cô uống nước tương, đội tóc giả, hy vọng bằng những cách đó có thể trở thành một người bình thường như bao người khác. Trong khi đó, Tào Tín từ nhỏ luôn là \"con nhà người ta\" trong lời khen của mọi bậc phụ huynh. Thế nhưng phía sau ánh hào quang ấy lại là những yêu cầu khắt khe và áp lực không ngừng từ người bố nghiêm khắc. Khi cô gái Tề Thời cá tính, dũng cảm và kiên cường gặp chàng trai Tào Tín ngoan ngoãn, ưu tú và kỷ luật, hai gia đình cũng dần trở nên gắn bó qua những năm tháng hàng xóm bên nhau.Thế nhưng sự việc \"đổi con\" tưởng như hoang đường lại tạo nên những câu chuyện đầy nước mắt, đồng thời mở ra cơ hội cho một \"cuộc sống mới\". Những đứa trẻ phải trải qua thử thách về tình thân, tình bạn và tình yêu. Những người trưởng thành cũng phải đối diện với những vấn đề nan giải về sự nghiệp, hôn nhân và gia đình. Giữa dòng chảy của thời đại, dù cuộc sống có nhiều lần vấp ngã và chông chênh, họ vẫn cùng nhau chắp vá, chữa lành, rèn luyện bản thân trên hành trình cuộc đời, từng bước tìm kiếm ý nghĩa cuộc sống và hạnh phúc thuộc về chính mình. Bộ phim sẽ được phát sóng trực tuyến trên nền tảng iQIYI Quốc tế (iQ.com)."
         },
         {
-            "name": "Giao Phong",
-            "year": 2026,
-            "slug": "giao-phong",
-            "thumb": "https://phimimg.com/uploads/movies/20260908/giao-phong-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260908/giao-phong-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 5",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "description": "Một vụ án rò rỉ thông tin mật quy mô lớn vào thời điểm chuyển giao thế kỷ đã làm rúng động tình hình hai bên eo biển, đồng thời che giấu một cuộc đọ sức nảy lửa trên chiến tuyến thầm lặng giữa thế lực nước ngoài và lực lượng an ninh quốc gia. Vào cuối những năm 1990, tại Cục An ninh Quốc gia thành phố Mẫn Châu, hai thầy trò có tính cách hoàn toàn trái ngược nhau đã kề vai sát cánh chiến đấu vì sứ mệnh và niềm tin chung do sự an bài ngẫu nhiên của số phận. Họ cùng nhau đập tan hàng loạt âm mưu nguy hiểm, đồng thời vướng vào những ân oán giằng xé kéo dài suốt 20 năm với đối thủ. Khi thời gian trôi qua, làn sóng biến động của thế kỷ mới ập đến khiến cục diện phòng thủ - tấn công an ninh quốc gia thay đổi, nhưng cuộc chiến trong bóng tối vẫn không hề dừng lại. Trải qua muôn vàn thử thách nhân tính, mối quan hệ số phận giữa ba người họ dần thay đổi lặng lẽ theo thời gian qua từng lựa chọn khác nhau."
-        },
-        {
-            "name": "Phò Mã Tiểu Ngỗ Tác",
-            "year": 2026,
-            "slug": "pho-ma-tieu-ngo-tac",
-            "thumb": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 35",
-            "total_episodes": "43",
-            "country": "Trung Quốc",
-            "description": "Thiên kim tiểu thư Quân Thanh Lam bi thảm chịu cảnh gia tộc bị xét nhà diệt môn. Vị hôn phu năm xưa là Lý Tùng Nghiêu chẳng những không dang tay cứu giúp, mà còn đích thân hủy hoại dung mạo của nàng. Trở về từ cõi chết, nàng thay hình đổi dạng, nữ cải trang thành nam hóa thân thành pháp y của Đại Lý Tự, nhẫn nhịn ẩn mình chỉ một lòng lật lại vụ án để báo thù. Nào ngờ nàng lại tái ngộ Lý Tùng Nghiêu, người thương năm xưa nay đã trở thành một Đoan Vương tàn nhẫn máu lạnh. Hắn trắng trợn bắt ép và giam cầm nàng. Yêu hận đan xen, quyền mưu quỷ quyệt nối gót bủa vây, màn sương mù của vụ án cũ từng lớp bị bóc trần. Một ván cờ sinh tử giằng xé giữa cuộc chiến báo thù và tư tình lại chính thức bắt đầu."
-        },
-        {
-            "name": "Người Quyết Định",
-            "year": 2026,
-            "slug": "nguoi-quyet-dinh",
-            "thumb": "https://phimimg.com/uploads/movies/20260904/nguoi-quyet-dinh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260904/nguoi-quyet-dinh-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 16",
-            "total_episodes": "26",
-            "country": "Trung Quốc",
-            "description": "Thành phố Thi Thiềm mượn làn gió phát triển logistics để trỗi dậy, nhưng kéo theo đó là các băng nhóm xã hội đen mọc lên như nấm. Cảnh sát nằm vùng Lăng Triệt bị ép phải bắt cặp với Thẩm Thẩm Lân — một tên giang hồ lưu linh. Cả hai đi từ mâu thuẫn chồng chất đến lúc thấu hiểu và trân trọng lẫn nhau. Trên hành trình truy vết, nội gián liên tục xuất hiện, bức màn đen tối trong đồn cảnh sát dần lộ diện. Khi anh em trở thành quân cờ, công lý biến thành công cụ ngã giá, một cơn bão hắc bạch phân tranh mới chỉ vừa bắt đầu..."
-        },
-        {
             "name": "Hành Trình Tập Dượt Chia Tay",
             "year": 2026,
             "slug": "hanh-trinh-tap-duot-chia-tay",
@@ -1697,66 +1781,6 @@
             "total_episodes": "11",
             "country": "Trung Quốc",
             "description": "Nhà văn hết thời Phương Hạo Văn bị thất thế sau khi từ chối nữ đại gia. Sau một tai nạn, anh bị quản lý cũ xúi giả vờ tự sát livestream để \"dùng cái chết câu view\" bán sách. Kế hoạch lừa đảo vỡ lở khi một fan cuồng xuất hiện, kéo cả hai vào hành trình dở khóc dở cười \"muốn sống không xong, muốn chết không được\"."
-        },
-        {
-            "name": "Đầu Xuân Tươi Sáng",
-            "year": 2026,
-            "slug": "dau-xuan-tuoi-sang",
-            "thumb": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 20",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Thượng Chi Đào chân ướt chân ráo tới Bắc Kinh, đụng độ phải oan gia là \"thiên tài ma quỷ\" xuất chúng Loan Niệm. Thượng Chi Đào sôi nổi, dũng cảm từng bước trưởng thành, phá vỡ tuyến phòng thủ tâm lý kiên cố, khôn khéo của Loan Niệm. Hai người thu hút nhau, dây dưa vờn qua vờn lại giữa chốn đô thị ngột ngạt, hết tan lại hợp. Yêu là phải dùng hết lòng dũng cảm, không để lại nuối tiếc. Yêu là hàn gắn cho nhau và cùng trưởng thành. Nhưng đứng trước tình yêu, cô lại lựa chọn sinh tồn. Khi cô có thể một mình đứng vững, anh thu lại sự sắc bén, họ sẽ viết nên cái kết mới cho nhau trong tâm thế ngang hàng bình đẳng…"
-        },
-        {
-            "name": "Bay Vào Trái Tim Anh / Bay Vào Tim Anh",
-            "year": 2026,
-            "slug": "bay-vao-trai-tim-anh-bay-vao-tim-anh",
-            "thumb": "https://phimimg.com/uploads/movies/20260831/bay-vao-trai-tim-anh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260831/bay-vao-trai-tim-anh-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 16",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Nguyễn Tư Nhàn, một tiếp viên hàng không quyết tâm theo đuổi ước mơ phi công, đã vượt qua nhiều thử thách để tốt nghiệp xuất sắc. Trên hành trình chinh phục sự nghiệp, cô dần nảy sinh tình cảm chân thành với Phó chủ tịch hãng hàng không Phó Minh Dư bất chấp những hiểu lầm và trở ngại."
-        },
-        {
-            "name": "Muôn Dặm Giang Sơn Chờ Ta Khai Phá",
-            "year": 2026,
-            "slug": "muon-dam-giang-son-cho-ta-khai-pha",
-            "thumb": "https://phimimg.com/uploads/movies/20260831/muon-dam-giang-son-cho-ta-khai-pha-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260831/muon-dam-giang-son-cho-ta-khai-pha-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 21",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Triệu Đông - tiên tôn một lòng cầu đạo, lạnh nhạt với tình duyên thế tục, khiến tiên quyến đâm sau lưng, đoạ kiếp trong nỗi tiếc hận. Sau khi trùng sinh, hắn nhập vào thân xác một tên lưu manh cũng tên Triệu Đông. Trải qua hai kiếp tiên phàm, hắn thấu hiểu đạo lý \"mọi việc đều phải có chừng mực\", quyết định gắn bó với chốn phàm trần, bù đắp những tiếc nuối trước kia và một lần nữa chứng đắc đại đạo."
-        },
-        {
-            "name": "Phù Sinh: Bạch Xà Tiền Duyên",
-            "year": 2026,
-            "slug": "phu-sinh-bach-xa-tien-duyen",
-            "thumb": "https://phimimg.com/uploads/movies/20260904/phu-sinh-bach-xa-tien-duyen-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260904/phu-sinh-bach-xa-tien-duyen-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 14",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Vốn dĩ sắp phi thăng thành tiên sau 500 năm tu luyện, Bạch Tố Trinh lại vì vướng bận một \"tình kiếp\" dang dở mà đánh mất đi phần ký ức quan trọng. Phụng mệnh thượng thần, nàng hạ phàm tìm kiếm Hứa Tiên để trả nợ ân tình. Bước vào chốn hồng trần, Bạch Tố Trinh cùng Tiểu Thanh tình cờ kết giao với Hứa Tiên – lúc này lại mang thân phận thầy trừ yêu gánh trên vai huyết thù diệt môn, cùng vị đệ tử Kim Sơn - Pháp Hải. Bốn người kề vai sát cánh, từ đó mở ra một vòng xoáy định mệnh."
-        },
-        {
-            "name": "Quan Săn Yêu Cửu Phẩm",
-            "year": 2026,
-            "slug": "quan-san-yeu-cuu-pham",
-            "thumb": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Thượng Quan Tử Yên, một tiểu yêu mang sát khí, và đạo sĩ Nguyên Sơ, người mang tình kiếp khiến người mình yêu phải chết, trở thành Quan Săn Yêu Cửu Phẩm và cùng nhau bước lên hành trình vá trời. Trên đường đi, cả hai phải đối mặt với yêu ma và những hiểm họa đe dọa nhân gian."
         },
         {
             "name": "Kim Sắc",
@@ -1793,30 +1817,6 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Trong quá trình nạo vét lòng sông thành phố, một bộ xương trắng lộ ra khỏi mặt đất. Qua giải phẫu, pháp y Tần Minh phát hiện đây là thi thể nữ trong một vụ án cũ từ nhiều năm trước. Vào đêm sinh nhật của Tần Minh, bão vết đen Mặt Trời xuất hiện, khiến chiếc bộ đàm đồ chơi bất ngờ kết nối được với bố anh Tần Thiên ở 30 năm trước. Tần Minh cảnh báo trước về một vụ nổ nhờ đó cứu sống Tần Thiên, nhưng làm dấy lên vụ án liên hoàn \"Sát nhân búa đêm mưa\". Hai bố con cảnh sát ở hai thời không khác nhau cùng bắt tay phá án, truy tìm sự thật."
-        },
-        {
-            "name": "Người Tình Hoàn Hảo",
-            "year": 2026,
-            "slug": "nguoi-tinh-hoan-hao",
-            "thumb": "https://phimimg.com/uploads/movies/20260829/nguoi-tinh-hoan-hao-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260829/nguoi-tinh-hoan-hao-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (25/25)",
-            "total_episodes": "25",
-            "country": "Trung Quốc",
-            "description": "Tô Nhan là một nữ luật sư hàng đầu 30 tuổi, sau khi liên tiếp trải qua những tổn thương như bị thầy giáo xâm hại, gia đình lạnh nhạt và bị chồng sắp cưới phản bội đã đóng cửa con tim, thề sẽ coi bản thân là trên hết. Cho đến khi cô gặp Trình Lẫm, chàng trai 19 tuổi mà cô từng giúp đỡ tại trại giáo dưỡng năm xưa. Giờ đây, cậu mang theo mối tình sâu đậm suốt 5 năm, một lần nữa bước vào cuộc đời cô. Cả hai cùng viết nên câu chuyện cứu rỗi lẫn nhau, học cách tin tưởng vào tình yêu và dũng khí thêm lần nữa."
-        },
-        {
-            "name": "Sư Huynh Quá Cẩn Trọng",
-            "year": 2026,
-            "slug": "su-huynh-qua-can-trong",
-            "thumb": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (30/30)",
-            "total_episodes": "30",
-            "country": "Trung Quốc",
-            "description": "Kiếp trước, Lý Trường Thọ là một bệnh nhân mắc bệnh hiểm nghèo. Sau một lần ngoài ý muốn sống lại ở thế giới hồng hoang, trở thành một tu sĩ Luyện Khí nhỏ bé luôn trân trọng tính mạng, không muốn dính vào nhân quả. Để tránh đại kiếp thiên hạ đã được thiên đạo tiên tri, y theo đuổi con đường \"ổn vững\", chỉ mong sớm lên thiên đình sống qua ngày. Vì thế, y hành sự thận trọng, bất động thì vững như bàn thạch, động một cái là long trời lở đất. Y tin rằng thời đại chỉ biết chém giết đã qua, lừa được thì tuyệt đối không giết, độc thân được thì tuyệt đối không yêu. Thế nhưng, kẻ địch và mỹ nhân lại ùn ùn kéo đến. Y bất cẩn trở thành cao thủ đứng sau bày mưu tính kế, bị cuốn vào trận đấu của nhiều thế lực, triển khai kế hoạch \"Long tộc lên trời\", thậm chí còn khiến đại kiếp thiên hạ đến sớm hơn..."
         }
     ],
     "le_au_my": [
@@ -2003,6 +2003,30 @@
     ],
     "bo_au_my": [
         {
+            "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
+            "year": 2026,
+            "slug": "huan-luyen-vien-ted-lasso-phan-4",
+            "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
+        },
+        {
+            "name": "Quý Ông Thế Giới Ngầm (Phần 2)",
+            "year": 2026,
+            "slug": "quy-ong-the-gioi-ngam-phan-2",
+            "thumb": "https://phimimg.com/uploads/movies/20260905/quy-ong-the-gioi-ngam-phan-2-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260905/quy-ong-the-gioi-ngam-phan-2-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (8/8)",
+            "total_episodes": "8",
+            "country": "Anh",
+            "description": "Thừa kế bất động sản của gia đình, chàng quý tộc Eddie phát hiện ra rằng đó là nơi một đế chế cần sa khổng lồ ngự trị và người đứng đầu đế chế đó không chịu rời đi."
+        },
+        {
             "name": "Hỗn loạn (Phần 5)",
             "year": 2026,
             "slug": "hon-loan-phan-5",
@@ -2051,18 +2075,6 @@
             "description": "Nhân vật chính là Alice Black (Emmy Rossum), một cựu cảnh sát New York. Sau khi bị bạn trai là đồng nghiệp bạo hành và chứng kiến cả sở cảnh sát quay lưng khi cô tố cáo hắn, Alice rời lực lượng và gia nhập FBI. Những sang chấn trong quá khứ khiến cô đặc biệt quan tâm đến các vụ án liên quan đến bạo lực đối với phụ nữ."
         },
         {
-            "name": "Quý Ông Thế Giới Ngầm (Phần 2)",
-            "year": 2026,
-            "slug": "quy-ong-the-gioi-ngam-phan-2",
-            "thumb": "https://phimimg.com/uploads/movies/20260905/quy-ong-the-gioi-ngam-phan-2-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260905/quy-ong-the-gioi-ngam-phan-2-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
-            "country": "Anh",
-            "description": "Thừa kế bất động sản của gia đình, chàng quý tộc Eddie phát hiện ra rằng đó là nơi một đế chế cần sa khổng lồ ngự trị và người đứng đầu đế chế đó không chịu rời đi."
-        },
-        {
             "name": "Người Chạy Xuyên Không Gian (Phần 2)",
             "year": 2026,
             "slug": "nguoi-chay-xuyen-khong-gian-phan-2",
@@ -2109,18 +2121,6 @@
             "total_episodes": "8",
             "country": "Âu Mỹ",
             "description": "Jack Reacher 2022: Phát Súng Cuối Cùng, kể về câu chuyện của Jack Reacher, một cựu cảnh sát hình sự, bị vướng vào một âm mưu vu oan to lớn, được thực hiện bởi một nhóm cảnh sát, doanh nhân lẫn chính trị gia biến chất. Reacher và vợ sẽ phải làm gì để thoát khỏi âm mưu này, nhất là sau cái chết của người anh mình?"
-        },
-        {
-            "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
-            "year": 2026,
-            "slug": "huan-luyen-vien-ted-lasso-phan-4",
-            "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 5",
-            "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
         },
         {
             "name": "Danny Go! (Phần 2)",
@@ -2731,6 +2731,66 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Hiện Trường Săn Án",
+            "year": 2026,
+            "slug": "hien-truong-san-an",
+            "thumb": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 2",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ chui. Một vụ án cũ bị lãng quên suốt 7 năm bất ngờ được lật lại. Trong quá trình dấn thân truy tìm sự thật, nhóm cảnh sát điều tra không chỉ bóc gỡ từng lớp âm mưu đen tối mà còn liên tục trăn trở, thảo luận sâu sắc về vinh quang của người chiến sĩ công an cùng sự kính úy đối với giá trị thiêng liêng của sinh mạng con người."
+        },
+        {
+            "name": "Sư Huynh Quá Cẩn Trọng",
+            "year": 2026,
+            "slug": "su-huynh-qua-can-trong",
+            "thumb": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (30/30)",
+            "total_episodes": "30",
+            "country": "Trung Quốc",
+            "description": "Kiếp trước, Lý Trường Thọ là một bệnh nhân mắc bệnh hiểm nghèo. Sau một lần ngoài ý muốn sống lại ở thế giới hồng hoang, trở thành một tu sĩ Luyện Khí nhỏ bé luôn trân trọng tính mạng, không muốn dính vào nhân quả. Để tránh đại kiếp thiên hạ đã được thiên đạo tiên tri, y theo đuổi con đường \"ổn vững\", chỉ mong sớm lên thiên đình sống qua ngày. Vì thế, y hành sự thận trọng, bất động thì vững như bàn thạch, động một cái là long trời lở đất. Y tin rằng thời đại chỉ biết chém giết đã qua, lừa được thì tuyệt đối không giết, độc thân được thì tuyệt đối không yêu. Thế nhưng, kẻ địch và mỹ nhân lại ùn ùn kéo đến. Y bất cẩn trở thành cao thủ đứng sau bày mưu tính kế, bị cuốn vào trận đấu của nhiều thế lực, triển khai kế hoạch \"Long tộc lên trời\", thậm chí còn khiến đại kiếp thiên hạ đến sớm hơn..."
+        },
+        {
+            "name": "Phò Mã Tiểu Ngỗ Tác",
+            "year": 2026,
+            "slug": "pho-ma-tieu-ngo-tac",
+            "thumb": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 37",
+            "total_episodes": "43",
+            "country": "Trung Quốc",
+            "description": "Thiên kim tiểu thư Quân Thanh Lam bi thảm chịu cảnh gia tộc bị xét nhà diệt môn. Vị hôn phu năm xưa là Lý Tùng Nghiêu chẳng những không dang tay cứu giúp, mà còn đích thân hủy hoại dung mạo của nàng. Trở về từ cõi chết, nàng thay hình đổi dạng, nữ cải trang thành nam hóa thân thành pháp y của Đại Lý Tự, nhẫn nhịn ẩn mình chỉ một lòng lật lại vụ án để báo thù. Nào ngờ nàng lại tái ngộ Lý Tùng Nghiêu, người thương năm xưa nay đã trở thành một Đoan Vương tàn nhẫn máu lạnh. Hắn trắng trợn bắt ép và giam cầm nàng. Yêu hận đan xen, quyền mưu quỷ quyệt nối gót bủa vây, màn sương mù của vụ án cũ từng lớp bị bóc trần. Một ván cờ sinh tử giằng xé giữa cuộc chiến báo thù và tư tình lại chính thức bắt đầu."
+        },
+        {
+            "name": "Đầu Xuân Tươi Sáng",
+            "year": 2026,
+            "slug": "dau-xuan-tuoi-sang",
+            "thumb": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 21",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Thượng Chi Đào chân ướt chân ráo tới Bắc Kinh, đụng độ phải oan gia là \"thiên tài ma quỷ\" xuất chúng Loan Niệm. Thượng Chi Đào sôi nổi, dũng cảm từng bước trưởng thành, phá vỡ tuyến phòng thủ tâm lý kiên cố, khôn khéo của Loan Niệm. Hai người thu hút nhau, dây dưa vờn qua vờn lại giữa chốn đô thị ngột ngạt, hết tan lại hợp. Yêu là phải dùng hết lòng dũng cảm, không để lại nuối tiếc. Yêu là hàn gắn cho nhau và cùng trưởng thành. Nhưng đứng trước tình yêu, cô lại lựa chọn sinh tồn. Khi cô có thể một mình đứng vững, anh thu lại sự sắc bén, họ sẽ viết nên cái kết mới cho nhau trong tâm thế ngang hàng bình đẳng…"
+        },
+        {
+            "name": "Bay Vào Trái Tim Anh / Bay Vào Tim Anh",
+            "year": 2026,
+            "slug": "bay-vao-trai-tim-anh-bay-vao-tim-anh",
+            "thumb": "https://phimimg.com/uploads/movies/20260831/bay-vao-trai-tim-anh-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260831/bay-vao-trai-tim-anh-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 18",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Nguyễn Tư Nhàn, một tiếp viên hàng không quyết tâm theo đuổi ước mơ phi công, đã vượt qua nhiều thử thách để tốt nghiệp xuất sắc. Trên hành trình chinh phục sự nghiệp, cô dần nảy sinh tình cảm chân thành với Phó chủ tịch hãng hàng không Phó Minh Dư bất chấp những hiểu lầm và trở ngại."
+        },
+        {
             "name": "Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)",
             "year": 2026,
             "slug": "sep-chinh-la-than-tuong-bias-toi-sep-cua-toi",
@@ -2765,42 +2825,6 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Giữa chốn giang hồ mênh mông đầy máu lửa, đao kiếm vô tình, Hữu Thân Bất Phá, hoàng tử nước Thương, ra tay như sấm chớp, cứu mạng Giang Ly, đệ tử Thái Nhất Tông, trong khoảnh khắc sinh tử. Một người mang thân phận hoàng tộc, một kẻ xuất thân tông môn, vốn chẳng chung đường, vậy mà chỉ sau một trận đao kiếm, đã xem nhau như tri kỷ. Từ đó, hai người sóng vai bước vào Đại Hoang Nguyên, nơi luật lệ chỉ được viết bằng thép lạnh và máu tươi. Họ cải trang trà trộn vào thương đội, vượt qua thiên kiếp giáng xuống như trời phạt, bị mãnh thú rình rập giữa đêm tối, lại nhiều lần vung kiếm đối đầu bọn cường đạo hung tàn. Mỗi lần thoát chết, tình nghĩa càng thêm bền chặt. Một lần vì nghĩa mà ra tay cứu mỹ nhân, số phận hai người càng bị cuốn sâu vào vòng xoáy giang hồ."
-        },
-        {
-            "name": "Phò Mã Tiểu Ngỗ Tác",
-            "year": 2026,
-            "slug": "pho-ma-tieu-ngo-tac",
-            "thumb": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 35",
-            "total_episodes": "43",
-            "country": "Trung Quốc",
-            "description": "Thiên kim tiểu thư Quân Thanh Lam bi thảm chịu cảnh gia tộc bị xét nhà diệt môn. Vị hôn phu năm xưa là Lý Tùng Nghiêu chẳng những không dang tay cứu giúp, mà còn đích thân hủy hoại dung mạo của nàng. Trở về từ cõi chết, nàng thay hình đổi dạng, nữ cải trang thành nam hóa thân thành pháp y của Đại Lý Tự, nhẫn nhịn ẩn mình chỉ một lòng lật lại vụ án để báo thù. Nào ngờ nàng lại tái ngộ Lý Tùng Nghiêu, người thương năm xưa nay đã trở thành một Đoan Vương tàn nhẫn máu lạnh. Hắn trắng trợn bắt ép và giam cầm nàng. Yêu hận đan xen, quyền mưu quỷ quyệt nối gót bủa vây, màn sương mù của vụ án cũ từng lớp bị bóc trần. Một ván cờ sinh tử giằng xé giữa cuộc chiến báo thù và tư tình lại chính thức bắt đầu."
-        },
-        {
-            "name": "Đầu Xuân Tươi Sáng",
-            "year": 2026,
-            "slug": "dau-xuan-tuoi-sang",
-            "thumb": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 20",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Thượng Chi Đào chân ướt chân ráo tới Bắc Kinh, đụng độ phải oan gia là \"thiên tài ma quỷ\" xuất chúng Loan Niệm. Thượng Chi Đào sôi nổi, dũng cảm từng bước trưởng thành, phá vỡ tuyến phòng thủ tâm lý kiên cố, khôn khéo của Loan Niệm. Hai người thu hút nhau, dây dưa vờn qua vờn lại giữa chốn đô thị ngột ngạt, hết tan lại hợp. Yêu là phải dùng hết lòng dũng cảm, không để lại nuối tiếc. Yêu là hàn gắn cho nhau và cùng trưởng thành. Nhưng đứng trước tình yêu, cô lại lựa chọn sinh tồn. Khi cô có thể một mình đứng vững, anh thu lại sự sắc bén, họ sẽ viết nên cái kết mới cho nhau trong tâm thế ngang hàng bình đẳng…"
-        },
-        {
-            "name": "Bay Vào Trái Tim Anh / Bay Vào Tim Anh",
-            "year": 2026,
-            "slug": "bay-vao-trai-tim-anh-bay-vao-tim-anh",
-            "thumb": "https://phimimg.com/uploads/movies/20260831/bay-vao-trai-tim-anh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260831/bay-vao-trai-tim-anh-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 16",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Nguyễn Tư Nhàn, một tiếp viên hàng không quyết tâm theo đuổi ước mơ phi công, đã vượt qua nhiều thử thách để tốt nghiệp xuất sắc. Trên hành trình chinh phục sự nghiệp, cô dần nảy sinh tình cảm chân thành với Phó chủ tịch hãng hàng không Phó Minh Dư bất chấp những hiểu lầm và trở ngại."
         },
         {
             "name": "Hành Trình Của Moana",
@@ -2885,56 +2909,32 @@
             "total_episodes": "12",
             "country": "Thái Lan",
             "description": "Một cầu thủ bóng đá kết bạn với một thực thể ban điều ước đầy bí ẩn, nhưng những món quà nguy hiểm từ thực thể này lại che giấu những bí mật đen tối, vô tình kéo hai người lại gần nhau hơn."
-        },
-        {
-            "name": "Vỏ Bọc Ngoại Tình (Ngoại Tình Đã Nhằm Nhò Gì)",
-            "year": 2026,
-            "slug": "vo-boc-ngoai-tinh-ngoai-tinh-da-nham-nho-gi",
-            "thumb": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260802/vo-boc-ngoai-tinh-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
-            "country": "Hàn Quốc",
-            "description": "Kyung Hee, một influencer có gia đình kiểu mẫu và sự nghiệp đáng ngưỡng mộ. Nhưng khi phát hiện chồng mình che giấu một bí mật kinh hoàng, cô buộc phải cùng anh chôn vùi sự thật. Một tin nhắn nặc danh xuất hiện, kéo cả gia đình vào cơn ác mộng không lối thoát."
-        },
-        {
-            "name": "Phát Súng Cuối Cùng (Phần 4)",
-            "year": 2026,
-            "slug": "phat-sung-cuoi-cung-phan-4",
-            "thumb": "https://phimimg.com/uploads/movies/20260817/phat-sung-cuoi-cung-phan-4-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260817/phat-sung-cuoi-cung-phan-4-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 6",
-            "total_episodes": "8",
-            "country": "Âu Mỹ",
-            "description": "Jack Reacher 2022: Phát Súng Cuối Cùng, kể về câu chuyện của Jack Reacher, một cựu cảnh sát hình sự, bị vướng vào một âm mưu vu oan to lớn, được thực hiện bởi một nhóm cảnh sát, doanh nhân lẫn chính trị gia biến chất. Reacher và vợ sẽ phải làm gì để thoát khỏi âm mưu này, nhất là sau cái chết của người anh mình?"
         }
     ],
     "trending_phim_bo": [
         {
-            "name": "Hành Trình Của Moana",
-            "year": 2026,
-            "slug": "hanh-trinh-cua-moana-2026",
-            "thumb": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-poster.webp",
-            "sub_type": "Thuyết Minh",
+            "name": "Làng Khát Máu",
+            "year": 2025,
+            "slug": "lang-khat-mau",
+            "thumb": "https://phimimg.com/uploads/movies/20260909/lang-khat-mau-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260909/lang-khat-mau-poster.webp",
+            "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Nghe theo tiếng gọi của Đại Dương, Moana dũng cảm rời đảo Motunui, lần đầu vượt qua rạn san hô để khám phá thế giới rộng lớn. Cùng á thần Maui, cô bắt đầu hành trình phiêu lưu đầy kỳ diệu với sứ mệnh mang lại sự thịnh vượng cho quê hương."
+            "country": "Nhật Bản",
+            "description": "Biên tập viên tạp chí chuyên điều tra hiện tượng kỳ bí bỗng nhiên mất tích. Người đồng nghiệp trẻ Ozawa Yūki và nhà báo Seno Chihiro bắt đầu lần theo những dấu vết còn sót lại.  Những manh mối họ tìm thấy liên quan đến nhiều sự kiện bí ẩn: trẻ em mất tích, các vụ hoảng loạn tập thể, video livestream rùng rợn… Tất cả đều dẫn đến “một nơi nào đó ở vùng Kinki” – một địa điểm đầy ám ảnh mà dường như không ai muốn nhắc tới."
         },
         {
-            "name": "Sinh Đúng Thời Điểm",
+            "name": "Hiện Trường Săn Án",
             "year": 2026,
-            "slug": "sinh-dung-thoi-diem",
-            "thumb": "https://phimimg.com/uploads/movies/20260904/sinh-dung-thoi-diem-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260904/sinh-dung-thoi-diem-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 9",
-            "total_episodes": "28",
+            "slug": "hien-truong-san-an",
+            "thumb": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 2",
+            "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Sinh Phùng Kỳ Thời là bộ phim gia đình thời đại, được chuyển thể từ tiểu thuyết \"Láng Giềng\" của Hàn Thập Tam. Phim có sự tham gia diễn chính của Quan Tiểu Đồng (từng đóng \"Người Trong Ngõ Nhỏ\", \"Năm Tháng Hữu Tình\") và Vương Tử Kỳ (từng đóng \"Bảng Thượng Giai Tế\", \"Ngự Tứ Tiểu Ngỗ Tác 2\"), cùng sự tham gia đặc biệt của Lưu Lâm, Quách Đào và Quách Hiểu Đông. Đầu những năm 80, tại thị trấn Thanh Ngô có hai nhà họ Tề và nhà họ Tào với hoàn cảnh hoàn toàn khác biệt. Một ngày nọ, hai gia đình cùng lúc chào đón hai đứa trẻ là Tề Thời và Tào Tín. Tề Thời mắc bệnh bạch tạng, từ nhỏ đã nhận thức được sự \"khác biệt\" của bản thân nên cô uống nước tương, đội tóc giả, hy vọng bằng những cách đó có thể trở thành một người bình thường như bao người khác. Trong khi đó, Tào Tín từ nhỏ luôn là \"con nhà người ta\" trong lời khen của mọi bậc phụ huynh. Thế nhưng phía sau ánh hào quang ấy lại là những yêu cầu khắt khe và áp lực không ngừng từ người bố nghiêm khắc. Khi cô gái Tề Thời cá tính, dũng cảm và kiên cường gặp chàng trai Tào Tín ngoan ngoãn, ưu tú và kỷ luật, hai gia đình cũng dần trở nên gắn bó qua những năm tháng hàng xóm bên nhau.Thế nhưng sự việc \"đổi con\" tưởng như hoang đường lại tạo nên những câu chuyện đầy nước mắt, đồng thời mở ra cơ hội cho một \"cuộc sống mới\". Những đứa trẻ phải trải qua thử thách về tình thân, tình bạn và tình yêu. Những người trưởng thành cũng phải đối diện với những vấn đề nan giải về sự nghiệp, hôn nhân và gia đình. Giữa dòng chảy của thời đại, dù cuộc sống có nhiều lần vấp ngã và chông chênh, họ vẫn cùng nhau chắp vá, chữa lành, rèn luyện bản thân trên hành trình cuộc đời, từng bước tìm kiếm ý nghĩa cuộc sống và hạnh phúc thuộc về chính mình. Bộ phim sẽ được phát sóng trực tuyến trên nền tảng iQIYI Quốc tế (iQ.com)."
+            "description": "Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ chui. Một vụ án cũ bị lãng quên suốt 7 năm bất ngờ được lật lại. Trong quá trình dấn thân truy tìm sự thật, nhóm cảnh sát điều tra không chỉ bóc gỡ từng lớp âm mưu đen tối mà còn liên tục trăn trở, thảo luận sâu sắc về vinh quang của người chiến sĩ công an cùng sự kính úy đối với giá trị thiêng liêng của sinh mạng con người."
         },
         {
             "name": "Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)",
@@ -2961,40 +2961,40 @@
             "description": "Lấy bối cảnh U.C. 0105, Liên bang Trái Đất ngày càng tham nhũng và áp dụng chính sách đàn áp dân thường. Hathaway Noa bí mật trở thành thủ lĩnh tổ chức kháng chiến “Mafty”, chuyên ám sát các quan chức cấp cao để chống lại chính quyền độc tài.  Trong phần phim 2026, Hathaway tiếp tục chuẩn bị kế hoạch tấn công hội nghị Adelaide — nơi tập trung giới lãnh đạo Liên bang. Đồng thời, lực lượng Liên bang dưới quyền Kenneth Sleg mở chiến dịch truy lùng và tiêu diệt Mafty."
         },
         {
-            "name": "Hỗn loạn (Phần 5)",
+            "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
             "year": 2026,
-            "slug": "hon-loan-phan-5",
-            "thumb": "https://phimimg.com/uploads/movies/20260908/hon-loan-phan-5-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260908/hon-loan-phan-5-poster.webp",
+            "slug": "huan-luyen-vien-ted-lasso-phan-4",
+            "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (11/11)",
-            "total_episodes": "11",
-            "country": "Israel",
-            "description": "Doron và các thành viên trong đội đặc nhiệm tiếp tục bước vào một chiến dịch sinh tử mới, đối mặt với những mối đe dọa không chỉ bó hẹp trong khu vực mà còn mở rộng ra quốc tế (bao gồm cả các hoạt động truy vết tại châu Âu), khi lằn ranh giữa nhiệm vụ quốc gia và sự trả thù cá nhân trở nên mờ nhạt hơn bao giờ hết."
+            "current_episode": "Tập 6",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
         },
         {
-            "name": "Mùi Phở",
+            "name": "Hành Trình Của Moana",
             "year": 2026,
-            "slug": "mui-pho",
-            "thumb": "https://phimimg.com/uploads/movies/20260902/mui-pho-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260902/mui-pho-poster.webp",
-            "sub_type": "Vietsub",
+            "slug": "hanh-trinh-cua-moana-2026",
+            "thumb": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-poster.webp",
+            "sub_type": "Thuyết Minh",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Việt Nam",
-            "description": "Câu chuyện về sự xung đột thế hệ và những va chạm giữa quan niệm cũ và lối sống hiện đại, xoay quanh món Phở - biểu tượng ẩm thực Việt. Đằng sau những mâu thuẫn và tranh cãi ấy, từng bí mật dần được hé lộ, mở ra hành trình tìm lại sự ấm áp của tình thân qua những tình tiết hài hước, dí dỏm và đầy duyên dáng."
+            "country": "Âu Mỹ",
+            "description": "Nghe theo tiếng gọi của Đại Dương, Moana dũng cảm rời đảo Motunui, lần đầu vượt qua rạn san hô để khám phá thế giới rộng lớn. Cùng á thần Maui, cô bắt đầu hành trình phiêu lưu đầy kỳ diệu với sứ mệnh mang lại sự thịnh vượng cho quê hương."
         },
         {
-            "name": "Giao Phong",
+            "name": "Sư Huynh Quá Cẩn Trọng",
             "year": 2026,
-            "slug": "giao-phong",
-            "thumb": "https://phimimg.com/uploads/movies/20260908/giao-phong-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260908/giao-phong-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 5",
-            "total_episodes": "40",
+            "slug": "su-huynh-qua-can-trong",
+            "thumb": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (30/30)",
+            "total_episodes": "30",
             "country": "Trung Quốc",
-            "description": "Một vụ án rò rỉ thông tin mật quy mô lớn vào thời điểm chuyển giao thế kỷ đã làm rúng động tình hình hai bên eo biển, đồng thời che giấu một cuộc đọ sức nảy lửa trên chiến tuyến thầm lặng giữa thế lực nước ngoài và lực lượng an ninh quốc gia. Vào cuối những năm 1990, tại Cục An ninh Quốc gia thành phố Mẫn Châu, hai thầy trò có tính cách hoàn toàn trái ngược nhau đã kề vai sát cánh chiến đấu vì sứ mệnh và niềm tin chung do sự an bài ngẫu nhiên của số phận. Họ cùng nhau đập tan hàng loạt âm mưu nguy hiểm, đồng thời vướng vào những ân oán giằng xé kéo dài suốt 20 năm với đối thủ. Khi thời gian trôi qua, làn sóng biến động của thế kỷ mới ập đến khiến cục diện phòng thủ - tấn công an ninh quốc gia thay đổi, nhưng cuộc chiến trong bóng tối vẫn không hề dừng lại. Trải qua muôn vàn thử thách nhân tính, mối quan hệ số phận giữa ba người họ dần thay đổi lặng lẽ theo thời gian qua từng lựa chọn khác nhau."
+            "description": "Kiếp trước, Lý Trường Thọ là một bệnh nhân mắc bệnh hiểm nghèo. Sau một lần ngoài ý muốn sống lại ở thế giới hồng hoang, trở thành một tu sĩ Luyện Khí nhỏ bé luôn trân trọng tính mạng, không muốn dính vào nhân quả. Để tránh đại kiếp thiên hạ đã được thiên đạo tiên tri, y theo đuổi con đường \"ổn vững\", chỉ mong sớm lên thiên đình sống qua ngày. Vì thế, y hành sự thận trọng, bất động thì vững như bàn thạch, động một cái là long trời lở đất. Y tin rằng thời đại chỉ biết chém giết đã qua, lừa được thì tuyệt đối không giết, độc thân được thì tuyệt đối không yêu. Thế nhưng, kẻ địch và mỹ nhân lại ùn ùn kéo đến. Y bất cẩn trở thành cao thủ đứng sau bày mưu tính kế, bị cuốn vào trận đấu của nhiều thế lực, triển khai kế hoạch \"Long tộc lên trời\", thậm chí còn khiến đại kiếp thiên hạ đến sớm hơn..."
         },
         {
             "name": "Cá Mập: Cơn Bão",
@@ -3021,40 +3021,40 @@
             "description": "\"Doraemon: Nobita và Lâu đài dưới đáy biển\" (tên khác là Lâu đài ma dưới đáy biển) là một trong những tác phẩm kinh điển thuộc loạt truyện dài và phim điện ảnh Doraemon. Hiện tại, tác phẩm này đang thu hút sự chú ý với phiên bản làm mới (remake) ra mắt vào năm 2026."
         },
         {
-            "name": "Lực lượng Lanterns (Phần 1)",
+            "name": "Quý Ông Thế Giới Ngầm (Phần 2)",
             "year": 2026,
-            "slug": "luc-luong-lanterns-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-poster.webp",
+            "slug": "quy-ong-the-gioi-ngam-phan-2",
+            "thumb": "https://phimimg.com/uploads/movies/20260905/quy-ong-the-gioi-ngam-phan-2-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260905/quy-ong-the-gioi-ngam-phan-2-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
+            "current_episode": "Hoàn Tất (8/8)",
             "total_episodes": "8",
-            "country": "Âu Mỹ",
-            "description": "Xoay quanh tân binh John Stewart và huyền thoại Hal Jordan — hai cảnh sát liên ngân hà bị cuốn vào một bí ẩn đen tối ngay tại Trái Đất khi họ điều tra một vụ án mạng ở vùng trung tâm nước Mỹ."
+            "country": "Anh",
+            "description": "Thừa kế bất động sản của gia đình, chàng quý tộc Eddie phát hiện ra rằng đó là nơi một đế chế cần sa khổng lồ ngự trị và người đứng đầu đế chế đó không chịu rời đi."
         },
         {
-            "name": "Doraemon: Nobita và Lâu Đài Dưới Đáy Biển (Phiên bản mới)",
+            "name": "Mùi Phở",
             "year": 2026,
-            "slug": "doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi",
-            "thumb": "https://phimimg.com/uploads/movies/20260829/doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260829/doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi-poster.webp",
+            "slug": "mui-pho",
+            "thumb": "https://phimimg.com/uploads/movies/20260902/mui-pho-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260902/mui-pho-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Nhật Bản",
-            "description": "\"Doraemon: Nobita và Lâu đài dưới đáy biển\" (tên khác là Lâu đài ma dưới đáy biển) là một trong những tác phẩm kinh điển thuộc loạt truyện dài và phim điện ảnh Doraemon. Hiện tại, tác phẩm này đang thu hút sự chú ý với phiên bản làm mới (remake) ra mắt vào năm 2026."
+            "country": "Việt Nam",
+            "description": "Câu chuyện về sự xung đột thế hệ và những va chạm giữa quan niệm cũ và lối sống hiện đại, xoay quanh món Phở - biểu tượng ẩm thực Việt. Đằng sau những mâu thuẫn và tranh cãi ấy, từng bí mật dần được hé lộ, mở ra hành trình tìm lại sự ấm áp của tình thân qua những tình tiết hài hước, dí dỏm và đầy duyên dáng."
         },
         {
-            "name": "Phò Mã Tiểu Ngỗ Tác",
+            "name": "Quan Săn Yêu Cửu Phẩm",
             "year": 2026,
-            "slug": "pho-ma-tieu-ngo-tac",
-            "thumb": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 35",
-            "total_episodes": "43",
+            "slug": "quan-san-yeu-cuu-pham",
+            "thumb": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 10",
+            "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Thiên kim tiểu thư Quân Thanh Lam bi thảm chịu cảnh gia tộc bị xét nhà diệt môn. Vị hôn phu năm xưa là Lý Tùng Nghiêu chẳng những không dang tay cứu giúp, mà còn đích thân hủy hoại dung mạo của nàng. Trở về từ cõi chết, nàng thay hình đổi dạng, nữ cải trang thành nam hóa thân thành pháp y của Đại Lý Tự, nhẫn nhịn ẩn mình chỉ một lòng lật lại vụ án để báo thù. Nào ngờ nàng lại tái ngộ Lý Tùng Nghiêu, người thương năm xưa nay đã trở thành một Đoan Vương tàn nhẫn máu lạnh. Hắn trắng trợn bắt ép và giam cầm nàng. Yêu hận đan xen, quyền mưu quỷ quyệt nối gót bủa vây, màn sương mù của vụ án cũ từng lớp bị bóc trần. Một ván cờ sinh tử giằng xé giữa cuộc chiến báo thù và tư tình lại chính thức bắt đầu."
+            "description": "Thượng Quan Tử Yên, một tiểu yêu mang sát khí, và đạo sĩ Nguyên Sơ, người mang tình kiếp khiến người mình yêu phải chết, trở thành Quan Săn Yêu Cửu Phẩm và cùng nhau bước lên hành trình vá trời. Trên đường đi, cả hai phải đối mặt với yêu ma và những hiểm họa đe dọa nhân gian."
         },
         {
             "name": "Bốn bàn tay, hai bản sonata",
@@ -3081,16 +3081,16 @@
             "description": "Giữa một khung cảnh triều đình nhà Tống rối ren, giang hồ nổi sóng, một vị thiếu hiệp Lạc Hàn lại chọn cách ẩn cư ở nơi biên thùy hẻo lánh để an phận thủ thường, chỉ 3 năm 1 lần đến với kinh thành thăm bạn và gửi cho anh ta – Dịch Liễm vài phương thuốc quý. Nhưng chuyến đi lần này thì đã xảy ra những biến cố không ngờ tới. Dịch Liễm vị cuốn vào một âm mưu trộm bạc to lớn, mà để cứu bằng hữu nên Lạc Hàn đã phải ra tay và lâm vào cuộc chiến tàn khốc ấy, bởi xung quanh họ và những kẻ chủ mưu thì có các thế lực giang hồ và cả triều đình nữa, mọi thứ ngày trở nên hỗn tạp và khó lường hơn bao giờ hết. Bên cạnh đôi bạn thân, bộ phim cũng khắc họa quá trình sinh trưởng và chiến đấu của những vị đại hiệp trượng nghĩa như nữ hiệp Kinh Tam Nương hay đại hiệp Cảnh Thương Hoài, nhưng cũng không thể thiếu vị thống lĩnh quân triều đình Đề Kỵ Viên Thần Long, người mà gần như xuất hiện với hai tư thế khác nhau và cũng chính là đối thủ cuối cùng trong trận chiến của Lạc Hàn sau này."
         },
         {
-            "name": "Cuộc Gọi Khẩn Cấp 9-1-1 (Phần 9",
-            "year": 2025,
-            "slug": "cuoc-goi-khan-cap-9-1-1-phan-9",
-            "thumb": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-9-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-9-poster.webp",
+            "name": "Hỗn loạn (Phần 5)",
+            "year": 2026,
+            "slug": "hon-loan-phan-5",
+            "thumb": "https://phimimg.com/uploads/movies/20260908/hon-loan-phan-5-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260908/hon-loan-phan-5-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 11",
-            "total_episodes": "18",
-            "country": "Âu Mỹ",
-            "description": "Khám phá những trải nghiệm đầy áp lực của các sĩ quan cảnh sát, nhân viên y tế và lính cứu hỏa, những người bị đẩy vào các tình huống đáng sợ, gây sốc và thót tim nhất. Những người ứng phó khẩn cấp này phải cố gắng cân bằng giữa việc cứu những người đang ở trong tình trạng dễ bị tổn thương nhất với việc giải quyết các vấn đề trong cuộc sống của chính họ."
+            "current_episode": "Hoàn Tất (11/11)",
+            "total_episodes": "11",
+            "country": "Israel",
+            "description": "Doron và các thành viên trong đội đặc nhiệm tiếp tục bước vào một chiến dịch sinh tử mới, đối mặt với những mối đe dọa không chỉ bó hẹp trong khu vực mà còn mở rộng ra quốc tế (bao gồm cả các hoạt động truy vết tại châu Âu), khi lằn ranh giữa nhiệm vụ quốc gia và sự trả thù cá nhân trở nên mờ nhạt hơn bao giờ hết."
         }
     ]
 }
