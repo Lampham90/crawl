@@ -1639,6 +1639,30 @@
     ],
     "bo_trung": [
         {
+            "name": "Quan Săn Yêu Cửu Phẩm",
+            "year": 2026,
+            "slug": "quan-san-yeu-cuu-pham",
+            "thumb": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 10",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Thượng Quan Tử Yên, một tiểu yêu mang sát khí, và đạo sĩ Nguyên Sơ, người mang tình kiếp khiến người mình yêu phải chết, trở thành Quan Săn Yêu Cửu Phẩm và cùng nhau bước lên hành trình vá trời. Trên đường đi, cả hai phải đối mặt với yêu ma và những hiểm họa đe dọa nhân gian."
+        },
+        {
+            "name": "Đầu Xuân Tươi Sáng",
+            "year": 2026,
+            "slug": "dau-xuan-tuoi-sang",
+            "thumb": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (24/24)",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Thượng Chi Đào chân ướt chân ráo tới Bắc Kinh, đụng độ phải oan gia là \"thiên tài ma quỷ\" xuất chúng Loan Niệm. Thượng Chi Đào sôi nổi, dũng cảm từng bước trưởng thành, phá vỡ tuyến phòng thủ tâm lý kiên cố, khôn khéo của Loan Niệm. Hai người thu hút nhau, dây dưa vờn qua vờn lại giữa chốn đô thị ngột ngạt, hết tan lại hợp. Yêu là phải dùng hết lòng dũng cảm, không để lại nuối tiếc. Yêu là hàn gắn cho nhau và cùng trưởng thành. Nhưng đứng trước tình yêu, cô lại lựa chọn sinh tồn. Khi cô có thể một mình đứng vững, anh thu lại sự sắc bén, họ sẽ viết nên cái kết mới cho nhau trong tâm thế ngang hàng bình đẳng…"
+        },
+        {
             "name": "Hiện Trường Săn Án",
             "year": 2026,
             "slug": "hien-truong-san-an",
@@ -1661,18 +1685,6 @@
             "total_episodes": "30",
             "country": "Trung Quốc",
             "description": "Kiếp trước, Lý Trường Thọ là một bệnh nhân mắc bệnh hiểm nghèo. Sau một lần ngoài ý muốn sống lại ở thế giới hồng hoang, trở thành một tu sĩ Luyện Khí nhỏ bé luôn trân trọng tính mạng, không muốn dính vào nhân quả. Để tránh đại kiếp thiên hạ đã được thiên đạo tiên tri, y theo đuổi con đường \"ổn vững\", chỉ mong sớm lên thiên đình sống qua ngày. Vì thế, y hành sự thận trọng, bất động thì vững như bàn thạch, động một cái là long trời lở đất. Y tin rằng thời đại chỉ biết chém giết đã qua, lừa được thì tuyệt đối không giết, độc thân được thì tuyệt đối không yêu. Thế nhưng, kẻ địch và mỹ nhân lại ùn ùn kéo đến. Y bất cẩn trở thành cao thủ đứng sau bày mưu tính kế, bị cuốn vào trận đấu của nhiều thế lực, triển khai kế hoạch \"Long tộc lên trời\", thậm chí còn khiến đại kiếp thiên hạ đến sớm hơn..."
-        },
-        {
-            "name": "Quan Săn Yêu Cửu Phẩm",
-            "year": 2026,
-            "slug": "quan-san-yeu-cuu-pham",
-            "thumb": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 10",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Thượng Quan Tử Yên, một tiểu yêu mang sát khí, và đạo sĩ Nguyên Sơ, người mang tình kiếp khiến người mình yêu phải chết, trở thành Quan Săn Yêu Cửu Phẩm và cùng nhau bước lên hành trình vá trời. Trên đường đi, cả hai phải đối mặt với yêu ma và những hiểm họa đe dọa nhân gian."
         },
         {
             "name": "Phù Sinh: Bạch Xà Tiền Duyên",
@@ -1733,18 +1745,6 @@
             "total_episodes": "40",
             "country": "Trung Quốc",
             "description": "Một vụ án rò rỉ thông tin mật quy mô lớn vào thời điểm chuyển giao thế kỷ đã làm rúng động tình hình hai bên eo biển, đồng thời che giấu một cuộc đọ sức nảy lửa trên chiến tuyến thầm lặng giữa thế lực nước ngoài và lực lượng an ninh quốc gia. Vào cuối những năm 1990, tại Cục An ninh Quốc gia thành phố Mẫn Châu, hai thầy trò có tính cách hoàn toàn trái ngược nhau đã kề vai sát cánh chiến đấu vì sứ mệnh và niềm tin chung do sự an bài ngẫu nhiên của số phận. Họ cùng nhau đập tan hàng loạt âm mưu nguy hiểm, đồng thời vướng vào những ân oán giằng xé kéo dài suốt 20 năm với đối thủ. Khi thời gian trôi qua, làn sóng biến động của thế kỷ mới ập đến khiến cục diện phòng thủ - tấn công an ninh quốc gia thay đổi, nhưng cuộc chiến trong bóng tối vẫn không hề dừng lại. Trải qua muôn vàn thử thách nhân tính, mối quan hệ số phận giữa ba người họ dần thay đổi lặng lẽ theo thời gian qua từng lựa chọn khác nhau."
-        },
-        {
-            "name": "Đầu Xuân Tươi Sáng",
-            "year": 2026,
-            "slug": "dau-xuan-tuoi-sang",
-            "thumb": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 21",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Thượng Chi Đào chân ướt chân ráo tới Bắc Kinh, đụng độ phải oan gia là \"thiên tài ma quỷ\" xuất chúng Loan Niệm. Thượng Chi Đào sôi nổi, dũng cảm từng bước trưởng thành, phá vỡ tuyến phòng thủ tâm lý kiên cố, khôn khéo của Loan Niệm. Hai người thu hút nhau, dây dưa vờn qua vờn lại giữa chốn đô thị ngột ngạt, hết tan lại hợp. Yêu là phải dùng hết lòng dũng cảm, không để lại nuối tiếc. Yêu là hàn gắn cho nhau và cùng trưởng thành. Nhưng đứng trước tình yêu, cô lại lựa chọn sinh tồn. Khi cô có thể một mình đứng vững, anh thu lại sự sắc bén, họ sẽ viết nên cái kết mới cho nhau trong tâm thế ngang hàng bình đẳng…"
         },
         {
             "name": "Bay Vào Trái Tim Anh / Bay Vào Tim Anh",
@@ -2731,6 +2731,18 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Đầu Xuân Tươi Sáng",
+            "year": 2026,
+            "slug": "dau-xuan-tuoi-sang",
+            "thumb": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (24/24)",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Thượng Chi Đào chân ướt chân ráo tới Bắc Kinh, đụng độ phải oan gia là \"thiên tài ma quỷ\" xuất chúng Loan Niệm. Thượng Chi Đào sôi nổi, dũng cảm từng bước trưởng thành, phá vỡ tuyến phòng thủ tâm lý kiên cố, khôn khéo của Loan Niệm. Hai người thu hút nhau, dây dưa vờn qua vờn lại giữa chốn đô thị ngột ngạt, hết tan lại hợp. Yêu là phải dùng hết lòng dũng cảm, không để lại nuối tiếc. Yêu là hàn gắn cho nhau và cùng trưởng thành. Nhưng đứng trước tình yêu, cô lại lựa chọn sinh tồn. Khi cô có thể một mình đứng vững, anh thu lại sự sắc bén, họ sẽ viết nên cái kết mới cho nhau trong tâm thế ngang hàng bình đẳng…"
+        },
+        {
             "name": "Hiện Trường Săn Án",
             "year": 2026,
             "slug": "hien-truong-san-an",
@@ -2765,18 +2777,6 @@
             "total_episodes": "43",
             "country": "Trung Quốc",
             "description": "Thiên kim tiểu thư Quân Thanh Lam bi thảm chịu cảnh gia tộc bị xét nhà diệt môn. Vị hôn phu năm xưa là Lý Tùng Nghiêu chẳng những không dang tay cứu giúp, mà còn đích thân hủy hoại dung mạo của nàng. Trở về từ cõi chết, nàng thay hình đổi dạng, nữ cải trang thành nam hóa thân thành pháp y của Đại Lý Tự, nhẫn nhịn ẩn mình chỉ một lòng lật lại vụ án để báo thù. Nào ngờ nàng lại tái ngộ Lý Tùng Nghiêu, người thương năm xưa nay đã trở thành một Đoan Vương tàn nhẫn máu lạnh. Hắn trắng trợn bắt ép và giam cầm nàng. Yêu hận đan xen, quyền mưu quỷ quyệt nối gót bủa vây, màn sương mù của vụ án cũ từng lớp bị bóc trần. Một ván cờ sinh tử giằng xé giữa cuộc chiến báo thù và tư tình lại chính thức bắt đầu."
-        },
-        {
-            "name": "Đầu Xuân Tươi Sáng",
-            "year": 2026,
-            "slug": "dau-xuan-tuoi-sang",
-            "thumb": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 21",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Thượng Chi Đào chân ướt chân ráo tới Bắc Kinh, đụng độ phải oan gia là \"thiên tài ma quỷ\" xuất chúng Loan Niệm. Thượng Chi Đào sôi nổi, dũng cảm từng bước trưởng thành, phá vỡ tuyến phòng thủ tâm lý kiên cố, khôn khéo của Loan Niệm. Hai người thu hút nhau, dây dưa vờn qua vờn lại giữa chốn đô thị ngột ngạt, hết tan lại hợp. Yêu là phải dùng hết lòng dũng cảm, không để lại nuối tiếc. Yêu là hàn gắn cho nhau và cùng trưởng thành. Nhưng đứng trước tình yêu, cô lại lựa chọn sinh tồn. Khi cô có thể một mình đứng vững, anh thu lại sự sắc bén, họ sẽ viết nên cái kết mới cho nhau trong tâm thế ngang hàng bình đẳng…"
         },
         {
             "name": "Bay Vào Trái Tim Anh / Bay Vào Tim Anh",
@@ -2925,16 +2925,16 @@
             "description": "Biên tập viên tạp chí chuyên điều tra hiện tượng kỳ bí bỗng nhiên mất tích. Người đồng nghiệp trẻ Ozawa Yūki và nhà báo Seno Chihiro bắt đầu lần theo những dấu vết còn sót lại.  Những manh mối họ tìm thấy liên quan đến nhiều sự kiện bí ẩn: trẻ em mất tích, các vụ hoảng loạn tập thể, video livestream rùng rợn… Tất cả đều dẫn đến “một nơi nào đó ở vùng Kinki” – một địa điểm đầy ám ảnh mà dường như không ai muốn nhắc tới."
         },
         {
-            "name": "Hiện Trường Săn Án",
+            "name": "Quan Săn Yêu Cửu Phẩm",
             "year": 2026,
-            "slug": "hien-truong-san-an",
-            "thumb": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 2",
+            "slug": "quan-san-yeu-cuu-pham",
+            "thumb": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 10",
             "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ chui. Một vụ án cũ bị lãng quên suốt 7 năm bất ngờ được lật lại. Trong quá trình dấn thân truy tìm sự thật, nhóm cảnh sát điều tra không chỉ bóc gỡ từng lớp âm mưu đen tối mà còn liên tục trăn trở, thảo luận sâu sắc về vinh quang của người chiến sĩ công an cùng sự kính úy đối với giá trị thiêng liêng của sinh mạng con người."
+            "description": "Thượng Quan Tử Yên, một tiểu yêu mang sát khí, và đạo sĩ Nguyên Sơ, người mang tình kiếp khiến người mình yêu phải chết, trở thành Quan Săn Yêu Cửu Phẩm và cùng nhau bước lên hành trình vá trời. Trên đường đi, cả hai phải đối mặt với yêu ma và những hiểm họa đe dọa nhân gian."
         },
         {
             "name": "Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)",
@@ -2985,16 +2985,16 @@
             "description": "Nghe theo tiếng gọi của Đại Dương, Moana dũng cảm rời đảo Motunui, lần đầu vượt qua rạn san hô để khám phá thế giới rộng lớn. Cùng á thần Maui, cô bắt đầu hành trình phiêu lưu đầy kỳ diệu với sứ mệnh mang lại sự thịnh vượng cho quê hương."
         },
         {
-            "name": "Sư Huynh Quá Cẩn Trọng",
+            "name": "Đầu Xuân Tươi Sáng",
             "year": 2026,
-            "slug": "su-huynh-qua-can-trong",
-            "thumb": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-poster.webp",
+            "slug": "dau-xuan-tuoi-sang",
+            "thumb": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260826/dau-xuan-tuoi-sang-poster.webp",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (30/30)",
-            "total_episodes": "30",
+            "current_episode": "Hoàn Tất (24/24)",
+            "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Kiếp trước, Lý Trường Thọ là một bệnh nhân mắc bệnh hiểm nghèo. Sau một lần ngoài ý muốn sống lại ở thế giới hồng hoang, trở thành một tu sĩ Luyện Khí nhỏ bé luôn trân trọng tính mạng, không muốn dính vào nhân quả. Để tránh đại kiếp thiên hạ đã được thiên đạo tiên tri, y theo đuổi con đường \"ổn vững\", chỉ mong sớm lên thiên đình sống qua ngày. Vì thế, y hành sự thận trọng, bất động thì vững như bàn thạch, động một cái là long trời lở đất. Y tin rằng thời đại chỉ biết chém giết đã qua, lừa được thì tuyệt đối không giết, độc thân được thì tuyệt đối không yêu. Thế nhưng, kẻ địch và mỹ nhân lại ùn ùn kéo đến. Y bất cẩn trở thành cao thủ đứng sau bày mưu tính kế, bị cuốn vào trận đấu của nhiều thế lực, triển khai kế hoạch \"Long tộc lên trời\", thậm chí còn khiến đại kiếp thiên hạ đến sớm hơn..."
+            "description": "Thượng Chi Đào chân ướt chân ráo tới Bắc Kinh, đụng độ phải oan gia là \"thiên tài ma quỷ\" xuất chúng Loan Niệm. Thượng Chi Đào sôi nổi, dũng cảm từng bước trưởng thành, phá vỡ tuyến phòng thủ tâm lý kiên cố, khôn khéo của Loan Niệm. Hai người thu hút nhau, dây dưa vờn qua vờn lại giữa chốn đô thị ngột ngạt, hết tan lại hợp. Yêu là phải dùng hết lòng dũng cảm, không để lại nuối tiếc. Yêu là hàn gắn cho nhau và cùng trưởng thành. Nhưng đứng trước tình yêu, cô lại lựa chọn sinh tồn. Khi cô có thể một mình đứng vững, anh thu lại sự sắc bén, họ sẽ viết nên cái kết mới cho nhau trong tâm thế ngang hàng bình đẳng…"
         },
         {
             "name": "Cá Mập: Cơn Bão",
@@ -3045,16 +3045,16 @@
             "description": "Câu chuyện về sự xung đột thế hệ và những va chạm giữa quan niệm cũ và lối sống hiện đại, xoay quanh món Phở - biểu tượng ẩm thực Việt. Đằng sau những mâu thuẫn và tranh cãi ấy, từng bí mật dần được hé lộ, mở ra hành trình tìm lại sự ấm áp của tình thân qua những tình tiết hài hước, dí dỏm và đầy duyên dáng."
         },
         {
-            "name": "Quan Săn Yêu Cửu Phẩm",
+            "name": "Hiện Trường Săn Án",
             "year": 2026,
-            "slug": "quan-san-yeu-cuu-pham",
-            "thumb": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260907/quan-san-yeu-cuu-pham-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 10",
+            "slug": "hien-truong-san-an",
+            "thumb": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 2",
             "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Thượng Quan Tử Yên, một tiểu yêu mang sát khí, và đạo sĩ Nguyên Sơ, người mang tình kiếp khiến người mình yêu phải chết, trở thành Quan Săn Yêu Cửu Phẩm và cùng nhau bước lên hành trình vá trời. Trên đường đi, cả hai phải đối mặt với yêu ma và những hiểm họa đe dọa nhân gian."
+            "description": "Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ chui. Một vụ án cũ bị lãng quên suốt 7 năm bất ngờ được lật lại. Trong quá trình dấn thân truy tìm sự thật, nhóm cảnh sát điều tra không chỉ bóc gỡ từng lớp âm mưu đen tối mà còn liên tục trăn trở, thảo luận sâu sắc về vinh quang của người chiến sĩ công an cùng sự kính úy đối với giá trị thiêng liêng của sinh mạng con người."
         },
         {
             "name": "Bốn bàn tay, hai bản sonata",
