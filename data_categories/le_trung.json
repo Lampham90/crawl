@@ -1,5 +1,17 @@
 [
     {
+        "name": "Người Biến Mất",
+        "year": 2026,
+        "slug": "nguoi-bien-mat",
+        "thumb": "https://phimimg.com/uploads/movies/20260910/nguoi-bien-mat-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260910/nguoi-bien-mat-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Trung Quốc",
+        "description": "Một thi thể bị che giấu, một đứa trẻ bị thất lạc và một vụ hành hung chưa có lời giải làm chấn động cả khu chung cư. Ba bi kịch này có mối liên hệ bí ẩn như thế nào?"
+    },
+    {
         "name": "Sử Quỷ Ký: Thôn Hoàng Tuyền",
         "year": 2026,
         "slug": "su-quy-ky-thon-hoang-tuyen",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Trung Quốc",
         "description": "Tám phàm nhân bình thường ở tầng lớp đáy xã hội đã sử dụng trí thông minh đường phố cùng những mưu mẹo dở khóc dở cười để chống lại các vị thần tiên quyền năng, từ đó chính thức giành được danh hiệu \"Bát Tiên\"."
-    },
-    {
-        "name": "Đội Bóng Nữ Túc",
-        "year": 2026,
-        "slug": "doi-bong-nu-tuc",
-        "thumb": "https://phimimg.com/uploads/movies/20260723/doi-bong-nu-tuc-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260723/doi-bong-nu-tuc-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Hồng Kông",
-        "description": "Giải đấu \"Cúp Tối Cao Vô Địch\" sắp sửa khởi tranh, hội tụ hàng loạt đội bóng đỉnh cao bước vào màn đọ sức vô tiền khoáng hậu! Thế nhưng, Đội bóng đá nữ Kung Fu ngay từ đầu đã bốc phải \"kịch bản địa ngục\": các đối thủ đều là những cao thủ siêu việt, áp lực từ bên ngoài ngày một đè nặng, còn những mưu đồ gian lận trên sân cỏ thì dồn dập kéo đến... Liệu họ có thể dùng võ thuật Kung Fu để xoay chuyển cục diện trên mặt cỏ xanh?"
     }
 ]

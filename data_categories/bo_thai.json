@@ -1,5 +1,53 @@
 [
     {
+        "name": "NOUR",
+        "year": 2026,
+        "slug": "nour",
+        "thumb": "https://phimimg.com/uploads/movies/20260826/nour-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260826/nour-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
+    },
+    {
+        "name": "Luang Pho Trong Sạch",
+        "year": 2026,
+        "slug": "luang-pho-trong-sach",
+        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 28",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
+    },
+    {
+        "name": "Chuyện Tình Đảo Thiên Đường",
+        "year": 2026,
+        "slug": "chuyen-tinh-dao-thien-duong",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "17",
+        "country": "Thái Lan",
+        "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
+    },
+    {
+        "name": "Bóng Dưới Trăng",
+        "year": 2026,
+        "slug": "bong-duoi-trang",
+        "thumb": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
+    },
+    {
         "name": "Cú Giao Bóng Tình Yêu",
         "year": 2026,
         "slug": "cu-giao-bong-tinh-yeu",
@@ -34,18 +82,6 @@
         "total_episodes": "12",
         "country": "Thái Lan",
         "description": "Cuộc đời của một chàng trai trẻ đã thay đổi mãi mãi khi anh bị một Alpha quyền năng đánh dấu, buộc chặt định mệnh của cả hai vào một mối liên kết không thể nào trốn chạy."
-    },
-    {
-        "name": "Luang Pho Trong Sạch",
-        "year": 2026,
-        "slug": "luang-pho-trong-sach",
-        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 27",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
     },
     {
         "name": "Hai Trái Tim",
@@ -264,18 +300,6 @@
         "description": "Bị phản bội, Rin gieo lời nguyền để trả thù tình cũ. Nhưng khi lời nguyền ứng nghiệm lên người bạn cùng lớp, cậu phải tìm cách hóa giải mà không để lộ dòng dõi bí mật của mình."
     },
     {
-        "name": "Chuyện Tình Đảo Thiên Đường",
-        "year": 2026,
-        "slug": "chuyen-tinh-dao-thien-duong",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "17",
-        "country": "Thái Lan",
-        "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
-    },
-    {
         "name": "Manga Sát Lệnh",
         "year": 2026,
         "slug": "manga-sat-lenh",
@@ -286,30 +310,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Kay, một họa sĩ manga nổi tiếng, bất ngờ bị cuốn vào cuộc điều tra một vụ án giết người hàng loạt khi các nạn nhân, phương thức gây án và hiện trường đều giống đến rợn người với những tình tiết trong tác phẩm anh từng sáng tác. Điều này khiến Phát, thanh tra phụ trách vụ án, đưa Kay vào tầm theo dõi sát sao. Buộc phải hợp tác trong quá trình điều tra, Kay và Phát cùng nhau lần theo từng manh mối để tìm ra sự thật và danh tính kẻ sát nhân. Khi cuộc điều tra dần hé mở những bí ẩn, sự nghi ngờ ban đầu cũng từng bước nhường chỗ cho niềm tin, kéo hai người xích lại gần nhau hơn theo cách mà cả hai đều không ngờ tới. Thế nhưng, càng đào sâu, những bí mật bị chôn vùi trong quá khứ càng lần lượt được phơi bày. Khi mỗi sự thật mới đều thử thách mối quan hệ giữa họ, Kay và Phát phải quyết định liệu họ có thể cùng nhau đối mặt với hiểm nguy hay sẽ trở thành những mục tiêu tiếp theo của kẻ sát nhân."
-    },
-    {
-        "name": "NOUR",
-        "year": 2026,
-        "slug": "nour",
-        "thumb": "https://phimimg.com/uploads/movies/20260826/nour-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260826/nour-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
-    },
-    {
-        "name": "Bóng Dưới Trăng",
-        "year": 2026,
-        "slug": "bong-duoi-trang",
-        "thumb": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
     },
     {
         "name": "Đầu Bếp Đấu Giá",

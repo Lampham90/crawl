@@ -1,5 +1,17 @@
 [
     {
+        "name": "Tại Sao Tôi Lại Kết Hôn Nữa?",
+        "year": 2026,
+        "slug": "tai-sao-toi-lai-ket-hon-nua",
+        "thumb": "https://phimimg.com/uploads/movies/20260910/tai-sao-toi-lai-ket-hon-nua-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260910/tai-sao-toi-lai-ket-hon-nua-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Các cặp đôi tái ngộ trong đám cưới của con gái của Marcus và Angela tại một điểm du lịch. Những rắc rối cũ lẫn mới lại kéo đến, khiến họ tự hỏi: \"Tại sao chúng ta lại kết hôn nhỉ?\""
+    },
+    {
         "name": "Bí Mật Giới Thể Thao: Mr T",
         "year": 2026,
         "slug": "bi-mat-gioi-the-thao-mr-t",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Trong bộ phim tài liệu này, lời khai chấn động của người tố giác cáo buộc Boeing có văn hóa cắt giảm chi phí và hành vi che đậy, dẫn đến những sai sót chết người về an toàn bay."
-    },
-    {
-        "name": "Câu Chuyện Đồ Chơi 5",
-        "year": 2026,
-        "slug": "cau-chuyen-do-choi-5",
-        "thumb": "https://phimimg.com/uploads/movies/20260818/cau-chuyen-do-choi-5-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260818/cau-chuyen-do-choi-5-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Khi Bonnie được tặng chiếc máy tính bảng Lilypad và dần mê mẩn món đồ chơi mới, Buzz, Woody, Jessie cùng cả nhóm bỗng đứng trước nguy cơ bị lãng quên. Để giành lại giờ chơi, họ phải đối đầu với “đối thủ” hiện đại nhất từ trước đến nay: một màn hình nhỏ nhưng có sức hút quá lớn."
     }
 ]
