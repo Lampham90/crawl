@@ -547,6 +547,18 @@
     ],
     "phim_chieu_rap": [
         {
+            "name": "Hẹn Em Ngày Nhật Thực",
+            "year": 2026,
+            "slug": "hen-em-ngay-nhat-thuc",
+            "thumb": "https://phimimg.com/uploads/movies/20260910/hen-em-ngay-nhat-thuc-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260910/hen-em-ngay-nhat-thuc-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Việt Nam",
+            "description": "Năm 1995, khi đang đứng trước một quyết định quan trọng của cuộc đời, Ân bất ngờ bị kéo trở lại quá khứ bởi những bức thư tình chưa từng trao tay. Hành trình tìm gặp Thiên - mối tình đầu từng khắc sâu trong tim - đưa cô về lại thôn xóm Trà Mây năm xưa, nơi những ký ức ngọt ngào xen lẫn tổn thương vẫn chưa hề nguôi ngoai. Trong khoảnh khắc định mệnh khi hai người bất ngờ chạm mặt, những bí mật bị che giấu suốt nhiều năm dần hé lộ, buộc Ân phải đối diện với sự thật và lựa chọn con đường cho riêng mình. “Hẹn Em Ngày Nhật Thực” là câu chuyện tình yêu đầy cảm xúc về những điều chưa nói, về tình yêu vĩnh cửu và câu hỏi day dứt: nếu còn cơ hội, ta có dám tin vào trái tim mình một lần nữa?"
+        },
+        {
             "name": "Làng Khát Máu",
             "year": 2025,
             "slug": "lang-khat-mau",
@@ -713,21 +725,21 @@
             "total_episodes": "1",
             "country": "Âu Mỹ",
             "description": "Sau khi chồng qua đời, một người phụ nữ tìm sự an ủi bên gia đình chồng. Nhưng rồi từng người một biến thành những deadite quỷ ám, khiến cô dần nhận ra rằng những lời thề nguyện khi còn sống… vẫn tồn tại ngay cả sau cái chết."
-        },
-        {
-            "name": "Cơn Thịnh Nộ",
-            "year": 2026,
-            "slug": "con-thinh-no",
-            "thumb": "https://phimimg.com/uploads/movies/20260707/con-thinh-no-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260707/con-thinh-no-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Hồng Kông",
-            "description": "Chủ tiệm Vương Vĩ có cô con gái Vũ Tình bị một băng nhóm tội phạm bắt cóc giữa phố. Trong hành trình giải cứu con, anh lần theo dấu vết của một mạng lưới buôn người và tội phạm ngầm vô cùng nguy hiểm. Đồng hành cùng anh là một nhà báo mang trong mình quá khứ bí ẩn. Hai người buộc phải hợp tác, sử dụng kỹ năng chiến đấu của mình để đối đầu với tổ chức tội phạm và đưa cô bé trở về an toàn."
         }
     ],
     "le_vn": [
+        {
+            "name": "Hẹn Em Ngày Nhật Thực",
+            "year": 2026,
+            "slug": "hen-em-ngay-nhat-thuc",
+            "thumb": "https://phimimg.com/uploads/movies/20260910/hen-em-ngay-nhat-thuc-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260910/hen-em-ngay-nhat-thuc-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Việt Nam",
+            "description": "Năm 1995, khi đang đứng trước một quyết định quan trọng của cuộc đời, Ân bất ngờ bị kéo trở lại quá khứ bởi những bức thư tình chưa từng trao tay. Hành trình tìm gặp Thiên - mối tình đầu từng khắc sâu trong tim - đưa cô về lại thôn xóm Trà Mây năm xưa, nơi những ký ức ngọt ngào xen lẫn tổn thương vẫn chưa hề nguôi ngoai. Trong khoảnh khắc định mệnh khi hai người bất ngờ chạm mặt, những bí mật bị che giấu suốt nhiều năm dần hé lộ, buộc Ân phải đối diện với sự thật và lựa chọn con đường cho riêng mình. “Hẹn Em Ngày Nhật Thực” là câu chuyện tình yêu đầy cảm xúc về những điều chưa nói, về tình yêu vĩnh cửu và câu hỏi day dứt: nếu còn cơ hội, ta có dám tin vào trái tim mình một lần nữa?"
+        },
         {
             "name": "Mùi Phở",
             "year": 2026,
@@ -895,18 +907,6 @@
             "total_episodes": "1",
             "country": "Việt Nam",
             "description": "Một gia đình nhỏ vì không đủ điều kiện đã phải mua một căn nhà mà người dân xung quanh đồn đoán rằng có nhiều điều kỳ lạ tâm linh liệu gia đình sẽ đối mặt với ngôi nhà nhiều chủ sẽ như thế nào?"
-        },
-        {
-            "name": "Nhà Mình Đi Thôi",
-            "year": 2026,
-            "slug": "nha-minh-di-thoi",
-            "thumb": "https://phimimg.com/upload/vod/20260429-1/8d966927d4a06bb9eb2ecee4f294b008.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260429-1/ab078333b569d2a7528cdfa03cede208.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Việt Nam",
-            "description": "Phương - chủ Startup trẻ đầy tham vọng, buộc phải thực hiện một chuyến du lịch tuyệt hảo giả tạo cho gia đình bất ổn của mình, để giành lấy khoản đầu tư cho dự án khởi nghiệp. Liệu cô có thể chinh phục thử thách, hàn gắn tình cảm gia đình và nắm bắt cơ hội thành công?"
         }
     ],
     "bo_vn": [
@@ -1275,6 +1275,18 @@
     ],
     "bo_han": [
         {
+            "name": "Trúng Số Độc Đắc Vẫn Phải Đi Làm",
+            "year": 2026,
+            "slug": "trung-so-doc-dac-van-phai-di-lam",
+            "thumb": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Coi tấm séc trúng thưởng như một dạng \"bảo hiểm tinh thần\", Eun-tae mang theo một thái độ tự tin, thoải mái và không còn sợ sệt bất cứ điều gì tại công sở. Sự thay đổi ngầm này vô tình tạo ra hàng loạt tình huống dở khóc dở cười, làm đảo lộn trật tự phân cấp công sở và thay đổi cách nhìn của các đồng nghiệp cũng như cấp trên đối với anh."
+        },
+        {
             "name": "Ừ Thì Ly Hôn!",
             "year": 2026,
             "slug": "u-thi-ly-hon",
@@ -1441,18 +1453,6 @@
             "total_episodes": "8",
             "country": "Hàn Quốc",
             "description": "Ngôi sao hàng đầu xuất thân từ sao nhí Jung Yi Hyun quyết định rời khỏi làng giải trí sau cái chết bất ngờ của mẹ. Còn Kang Jae Won là người làm nhiều công việc bán thời gian để kiếm sống qua ngày, vì áp lực của thực tại mà buộc phải tạm gác lại giấc mơ trở thành diễn viên… Hai người đã chia tay và cắt đứt mối quan hệ vì một sự hiểu lầm thời học trung học. Nhiều năm sau, họ lại gặp lại nhau tình cờ trong một vở ca kịch. Trong quá trình hóa thân vào cảm xúc của nhân vật trên sân khấu, họ cũng dần học lại cách yêu thương nhau."
-        },
-        {
-            "name": "Giấc Mơ Trao Em",
-            "year": 2026,
-            "slug": "giac-mo-trao-em",
-            "thumb": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260714/giac-mo-trao-em-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (12/12)",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Woo Soo Bin và Ju Yi Jae gặp lại sau 15 năm. Ký ức cũ dần sống dậy, cả hai phải đối diện với những cảm xúc và tình yêu vẫn chưa thực sự kết thúc."
         }
     ],
     "le_trung": [
@@ -1639,6 +1639,30 @@
     ],
     "bo_trung": [
         {
+            "name": "Tế Công: Hàng Long Trừ Yêu",
+            "year": 2026,
+            "slug": "te-cong-hang-long-tru-yeu",
+            "thumb": "https://phimimg.com/uploads/movies/20260910/te-cong-hang-long-tru-yeu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260910/te-cong-hang-long-tru-yeu-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Tế Công rong ruổi chốn phàm trần, phổ độ chúng sinh, nhưng lại vướng vào một tình kiếp đã được định sẵn. Tình cờ gặp lại người con gái từng quen biết, cả hai cùng đối mặt với những ân oán tình thù và họa yêu ma đang hoành hành. Một bên là những ngày tháng vui nhộn nơi Linh Ẩn Tự, một bên là cuộc đối đầu sinh tử giữa thần và ma. Thấu hiểu tham, sân, si và vọng niệm, giữa những hợp tan buồn vui, Tế Công hàng yêu trừ ma, bảo vệ bình an cho thế gian."
+        },
+        {
+            "name": "Người Hàng Xóm Khả Nghi",
+            "year": 2026,
+            "slug": "nguoi-hang-xom-kha-nghi",
+            "thumb": "https://phimimg.com/uploads/movies/20260910/nguoi-hang-xom-kha-nghi-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260910/nguoi-hang-xom-kha-nghi-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (3/3)",
+            "total_episodes": "3",
+            "country": "Trung Quốc",
+            "description": "Chuyển vào căn nhà mới, những tưởng đây sẽ là khởi đầu cho hạnh phúc, nhưng cô lại phát hiện người hàng xóm nam sống đối diện ngày càng có những biểu hiện kỳ quái, rùng rợn. Những thay đổi nhỏ đến mức khó nhận ra trên quần áo phơi ngoài giá, những tiếng động sột soạt ma quái ngoài cửa lúc nửa đêm, và cả một gương mặt người chợt thoáng qua áp sát bên ngoài cửa sổ... Liệu đó chỉ là sự nhạy cảm quá mức cùng những tưởng tượng vô căn cứ? Hay là sự thật kinh hoàng đang diễn ra?  Cho đến khi tay nắm cửa bám đầy bụi bẩn bị ai đó âm thầm vặn mở, mọi ảo tưởng về hạnh phúc mới sụp đổ hoàn toàn trong chớp mắt. Những lời dối trá ẩn nấp sâu bên dưới những ngày tháng bình yên hóa ra còn tàn khốc và chết người hơn rất nhiều so với tưởng tượng."
+        },
+        {
             "name": "Sư Huynh Quá Cẩn Trọng",
             "year": 2026,
             "slug": "su-huynh-qua-can-trong",
@@ -1793,30 +1817,6 @@
             "total_episodes": "11",
             "country": "Trung Quốc",
             "description": "Nhà văn hết thời Phương Hạo Văn bị thất thế sau khi từ chối nữ đại gia. Sau một tai nạn, anh bị quản lý cũ xúi giả vờ tự sát livestream để \"dùng cái chết câu view\" bán sách. Kế hoạch lừa đảo vỡ lở khi một fan cuồng xuất hiện, kéo cả hai vào hành trình dở khóc dở cười \"muốn sống không xong, muốn chết không được\"."
-        },
-        {
-            "name": "Kim Sắc",
-            "year": 2026,
-            "slug": "kim-sac",
-            "thumb": "https://phimimg.com/uploads/movies/20260826/kim-sac-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260826/kim-sac-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (13/13)",
-            "total_episodes": "13",
-            "country": "Trung Quốc",
-            "description": "Ba mươi vạn lượng vàng bất ngờ xuất hiện giữa đại mạc, tương truyền bất cứ ai tìm kiếm kho báu đều sẽ hóa thành lệ quỷ. Cẩm Y Vệ đến điều tra nhưng ngay ngày đầu tiên đã phát điên. Vị phó sứ gan dạ, trung thành bị lạc lối, lún sâu trong dục vọng và tín nghĩa. Một cô gái từng chịu cảnh diệt môn, bách độc bất xâm, nay trở lại đại mạc, biến mình thành mục tiêu tranh giành của các thế lực và quyết tâm báo thù! Sau lớp cát vàng mịt mù là lòng tham của những kẻ nhòm ngó kho báu cùng cạm bẫy được giăng sẵn để kéo cô vào cuộc. Từ dịch trạm, tiêu cục đến phủ tướng quân, một làn khói cô đơn giữa sa mạc và những hiệp khách giang hồ, một câu chuyện võ hiệp đậm chất phương Đông sẽ được kể lại theo một cách hoàn toàn mới."
-        },
-        {
-            "name": "Tàng Phong",
-            "year": 2026,
-            "slug": "tang-phong",
-            "thumb": "https://phimimg.com/uploads/movies/20260819/tang-phong-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260819/tang-phong-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 23",
-            "total_episodes": "23",
-            "country": "Trung Quốc",
-            "description": "Đàm Ngạn, Phó phòng Tuyên truyền Cục Công an thành phố Hồng Diệp, được điều chuyển sang làm Chính ủy Chi đội Cảnh sát đặc nhiệm. Từ một người quen làm công tác tuyên truyền, anh phải thích nghi với môi trường thực chiến và dần phối hợp với Chi đội trưởng Liêu Bất Phàm trong quá trình hỗ trợ phá án."
         }
     ],
     "le_au_my": [
@@ -2913,40 +2913,40 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Làng Khát Máu",
-            "year": 2025,
-            "slug": "lang-khat-mau",
-            "thumb": "https://phimimg.com/uploads/movies/20260909/lang-khat-mau-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260909/lang-khat-mau-poster.webp",
+            "name": "Hẹn Em Ngày Nhật Thực",
+            "year": 2026,
+            "slug": "hen-em-ngay-nhat-thuc",
+            "thumb": "https://phimimg.com/uploads/movies/20260910/hen-em-ngay-nhat-thuc-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260910/hen-em-ngay-nhat-thuc-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Nhật Bản",
-            "description": "Biên tập viên tạp chí chuyên điều tra hiện tượng kỳ bí bỗng nhiên mất tích. Người đồng nghiệp trẻ Ozawa Yūki và nhà báo Seno Chihiro bắt đầu lần theo những dấu vết còn sót lại.  Những manh mối họ tìm thấy liên quan đến nhiều sự kiện bí ẩn: trẻ em mất tích, các vụ hoảng loạn tập thể, video livestream rùng rợn… Tất cả đều dẫn đến “một nơi nào đó ở vùng Kinki” – một địa điểm đầy ám ảnh mà dường như không ai muốn nhắc tới."
+            "country": "Việt Nam",
+            "description": "Năm 1995, khi đang đứng trước một quyết định quan trọng của cuộc đời, Ân bất ngờ bị kéo trở lại quá khứ bởi những bức thư tình chưa từng trao tay. Hành trình tìm gặp Thiên - mối tình đầu từng khắc sâu trong tim - đưa cô về lại thôn xóm Trà Mây năm xưa, nơi những ký ức ngọt ngào xen lẫn tổn thương vẫn chưa hề nguôi ngoai. Trong khoảnh khắc định mệnh khi hai người bất ngờ chạm mặt, những bí mật bị che giấu suốt nhiều năm dần hé lộ, buộc Ân phải đối diện với sự thật và lựa chọn con đường cho riêng mình. “Hẹn Em Ngày Nhật Thực” là câu chuyện tình yêu đầy cảm xúc về những điều chưa nói, về tình yêu vĩnh cửu và câu hỏi day dứt: nếu còn cơ hội, ta có dám tin vào trái tim mình một lần nữa?"
         },
         {
-            "name": "Sư Huynh Quá Cẩn Trọng",
+            "name": "Tế Công: Hàng Long Trừ Yêu",
             "year": 2026,
-            "slug": "su-huynh-qua-can-trong",
-            "thumb": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (30/30)",
-            "total_episodes": "30",
+            "slug": "te-cong-hang-long-tru-yeu",
+            "thumb": "https://phimimg.com/uploads/movies/20260910/te-cong-hang-long-tru-yeu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260910/te-cong-hang-long-tru-yeu-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Kiếp trước, Lý Trường Thọ là một bệnh nhân mắc bệnh hiểm nghèo. Sau một lần ngoài ý muốn sống lại ở thế giới hồng hoang, trở thành một tu sĩ Luyện Khí nhỏ bé luôn trân trọng tính mạng, không muốn dính vào nhân quả. Để tránh đại kiếp thiên hạ đã được thiên đạo tiên tri, y theo đuổi con đường \"ổn vững\", chỉ mong sớm lên thiên đình sống qua ngày. Vì thế, y hành sự thận trọng, bất động thì vững như bàn thạch, động một cái là long trời lở đất. Y tin rằng thời đại chỉ biết chém giết đã qua, lừa được thì tuyệt đối không giết, độc thân được thì tuyệt đối không yêu. Thế nhưng, kẻ địch và mỹ nhân lại ùn ùn kéo đến. Y bất cẩn trở thành cao thủ đứng sau bày mưu tính kế, bị cuốn vào trận đấu của nhiều thế lực, triển khai kế hoạch \"Long tộc lên trời\", thậm chí còn khiến đại kiếp thiên hạ đến sớm hơn..."
+            "description": "Tế Công rong ruổi chốn phàm trần, phổ độ chúng sinh, nhưng lại vướng vào một tình kiếp đã được định sẵn. Tình cờ gặp lại người con gái từng quen biết, cả hai cùng đối mặt với những ân oán tình thù và họa yêu ma đang hoành hành. Một bên là những ngày tháng vui nhộn nơi Linh Ẩn Tự, một bên là cuộc đối đầu sinh tử giữa thần và ma. Thấu hiểu tham, sân, si và vọng niệm, giữa những hợp tan buồn vui, Tế Công hàng yêu trừ ma, bảo vệ bình an cho thế gian."
         },
         {
-            "name": "Ừ Thì Ly Hôn!",
+            "name": "Trúng Số Độc Đắc Vẫn Phải Đi Làm",
             "year": 2026,
-            "slug": "u-thi-ly-hon",
-            "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 8",
-            "total_episodes": "12",
+            "slug": "trung-so-doc-dac-van-phai-di-lam",
+            "thumb": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "10",
             "country": "Hàn Quốc",
-            "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
+            "description": "Coi tấm séc trúng thưởng như một dạng \"bảo hiểm tinh thần\", Eun-tae mang theo một thái độ tự tin, thoải mái và không còn sợ sệt bất cứ điều gì tại công sở. Sự thay đổi ngầm này vô tình tạo ra hàng loạt tình huống dở khóc dở cười, làm đảo lộn trật tự phân cấp công sở và thay đổi cách nhìn của các đồng nghiệp cũng như cấp trên đối với anh."
         },
         {
             "name": "Mobile Suit Gundam: Tia Chớp Hathaway / Mobile Suit Gundam: Hathaway Ma Thuật Nữ Thần Circe",
@@ -2973,40 +2973,40 @@
             "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
         },
         {
-            "name": "Hành Trình Của Moana",
-            "year": 2026,
-            "slug": "hanh-trinh-cua-moana-2026",
-            "thumb": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-poster.webp",
-            "sub_type": "Thuyết Minh",
+            "name": "Làng Khát Máu",
+            "year": 2025,
+            "slug": "lang-khat-mau",
+            "thumb": "https://phimimg.com/uploads/movies/20260909/lang-khat-mau-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260909/lang-khat-mau-poster.webp",
+            "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Nghe theo tiếng gọi của Đại Dương, Moana dũng cảm rời đảo Motunui, lần đầu vượt qua rạn san hô để khám phá thế giới rộng lớn. Cùng á thần Maui, cô bắt đầu hành trình phiêu lưu đầy kỳ diệu với sứ mệnh mang lại sự thịnh vượng cho quê hương."
+            "country": "Nhật Bản",
+            "description": "Biên tập viên tạp chí chuyên điều tra hiện tượng kỳ bí bỗng nhiên mất tích. Người đồng nghiệp trẻ Ozawa Yūki và nhà báo Seno Chihiro bắt đầu lần theo những dấu vết còn sót lại.  Những manh mối họ tìm thấy liên quan đến nhiều sự kiện bí ẩn: trẻ em mất tích, các vụ hoảng loạn tập thể, video livestream rùng rợn… Tất cả đều dẫn đến “một nơi nào đó ở vùng Kinki” – một địa điểm đầy ám ảnh mà dường như không ai muốn nhắc tới."
         },
         {
-            "name": "Phò Mã Tiểu Ngỗ Tác",
+            "name": "Người Hàng Xóm Khả Nghi",
             "year": 2026,
-            "slug": "pho-ma-tieu-ngo-tac",
-            "thumb": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260825/pho-ma-tieu-ngo-tac-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 37",
-            "total_episodes": "43",
-            "country": "Trung Quốc",
-            "description": "Thiên kim tiểu thư Quân Thanh Lam bi thảm chịu cảnh gia tộc bị xét nhà diệt môn. Vị hôn phu năm xưa là Lý Tùng Nghiêu chẳng những không dang tay cứu giúp, mà còn đích thân hủy hoại dung mạo của nàng. Trở về từ cõi chết, nàng thay hình đổi dạng, nữ cải trang thành nam hóa thân thành pháp y của Đại Lý Tự, nhẫn nhịn ẩn mình chỉ một lòng lật lại vụ án để báo thù. Nào ngờ nàng lại tái ngộ Lý Tùng Nghiêu, người thương năm xưa nay đã trở thành một Đoan Vương tàn nhẫn máu lạnh. Hắn trắng trợn bắt ép và giam cầm nàng. Yêu hận đan xen, quyền mưu quỷ quyệt nối gót bủa vây, màn sương mù của vụ án cũ từng lớp bị bóc trần. Một ván cờ sinh tử giằng xé giữa cuộc chiến báo thù và tư tình lại chính thức bắt đầu."
-        },
-        {
-            "name": "Đế Chế Đại Hàn (Phần 2)",
-            "year": 2026,
-            "slug": "de-che-dai-han-phan-2",
-            "thumb": "https://phimimg.com/uploads/movies/20260910/de-che-dai-han-phan-2-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260910/de-che-dai-han-phan-2-poster.webp",
+            "slug": "nguoi-hang-xom-kha-nghi",
+            "thumb": "https://phimimg.com/uploads/movies/20260910/nguoi-hang-xom-kha-nghi-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260910/nguoi-hang-xom-kha-nghi-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "6",
+            "current_episode": "Hoàn Tất (3/3)",
+            "total_episodes": "3",
+            "country": "Trung Quốc",
+            "description": "Chuyển vào căn nhà mới, những tưởng đây sẽ là khởi đầu cho hạnh phúc, nhưng cô lại phát hiện người hàng xóm nam sống đối diện ngày càng có những biểu hiện kỳ quái, rùng rợn. Những thay đổi nhỏ đến mức khó nhận ra trên quần áo phơi ngoài giá, những tiếng động sột soạt ma quái ngoài cửa lúc nửa đêm, và cả một gương mặt người chợt thoáng qua áp sát bên ngoài cửa sổ... Liệu đó chỉ là sự nhạy cảm quá mức cùng những tưởng tượng vô căn cứ? Hay là sự thật kinh hoàng đang diễn ra?  Cho đến khi tay nắm cửa bám đầy bụi bẩn bị ai đó âm thầm vặn mở, mọi ảo tưởng về hạnh phúc mới sụp đổ hoàn toàn trong chớp mắt. Những lời dối trá ẩn nấp sâu bên dưới những ngày tháng bình yên hóa ra còn tàn khốc và chết người hơn rất nhiều so với tưởng tượng."
+        },
+        {
+            "name": "Ừ Thì Ly Hôn!",
+            "year": 2026,
+            "slug": "u-thi-ly-hon",
+            "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 8",
+            "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Phần 2 tiếp tục xoáy sâu vào những cuộc đấu đá quyền lực căng thẳng, lòng tham, sự trả thù và phản bội gia đình, đặt hai nhân vật chính ở các chiến tuyến đối lập giữa một bên là khát vọng quyền lực/tiền tài và một bên là công lý."
+            "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
         },
         {
             "name": "Doraemon: Nobita và Lâu Đài Dưới Đáy Biển (Phiên bản mới)",
@@ -3033,40 +3033,40 @@
             "description": "Thừa kế bất động sản của gia đình, chàng quý tộc Eddie phát hiện ra rằng đó là nơi một đế chế cần sa khổng lồ ngự trị và người đứng đầu đế chế đó không chịu rời đi."
         },
         {
-            "name": "Mùi Phở",
+            "name": "Hành Trình Của Moana",
             "year": 2026,
-            "slug": "mui-pho",
-            "thumb": "https://phimimg.com/uploads/movies/20260902/mui-pho-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260902/mui-pho-poster.webp",
-            "sub_type": "Vietsub",
+            "slug": "hanh-trinh-cua-moana-2026",
+            "thumb": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-poster.webp",
+            "sub_type": "Thuyết Minh",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Việt Nam",
-            "description": "Câu chuyện về sự xung đột thế hệ và những va chạm giữa quan niệm cũ và lối sống hiện đại, xoay quanh món Phở - biểu tượng ẩm thực Việt. Đằng sau những mâu thuẫn và tranh cãi ấy, từng bí mật dần được hé lộ, mở ra hành trình tìm lại sự ấm áp của tình thân qua những tình tiết hài hước, dí dỏm và đầy duyên dáng."
+            "country": "Âu Mỹ",
+            "description": "Nghe theo tiếng gọi của Đại Dương, Moana dũng cảm rời đảo Motunui, lần đầu vượt qua rạn san hô để khám phá thế giới rộng lớn. Cùng á thần Maui, cô bắt đầu hành trình phiêu lưu đầy kỳ diệu với sứ mệnh mang lại sự thịnh vượng cho quê hương."
         },
         {
-            "name": "Người Quyết Định",
+            "name": "Sư Huynh Quá Cẩn Trọng",
             "year": 2026,
-            "slug": "nguoi-quyet-dinh",
-            "thumb": "https://phimimg.com/uploads/movies/20260904/nguoi-quyet-dinh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260904/nguoi-quyet-dinh-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 20",
-            "total_episodes": "26",
-            "country": "Trung Quốc",
-            "description": "Thành phố Thi Thiềm mượn làn gió phát triển logistics để trỗi dậy, nhưng kéo theo đó là các băng nhóm xã hội đen mọc lên như nấm. Cảnh sát nằm vùng Lăng Triệt bị ép phải bắt cặp với Thẩm Thẩm Lân — một tên giang hồ lưu linh. Cả hai đi từ mâu thuẫn chồng chất đến lúc thấu hiểu và trân trọng lẫn nhau. Trên hành trình truy vết, nội gián liên tục xuất hiện, bức màn đen tối trong đồn cảnh sát dần lộ diện. Khi anh em trở thành quân cờ, công lý biến thành công cụ ngã giá, một cơn bão hắc bạch phân tranh mới chỉ vừa bắt đầu..."
-        },
-        {
-            "name": "Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)",
-            "year": 2026,
-            "slug": "sep-chinh-la-than-tuong-bias-toi-sep-cua-toi",
-            "thumb": "https://phimimg.com/uploads/movies/20260806/sep-chinh-la-than-tuong-bias-toi-sep-cua-toi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260806/sep-chinh-la-than-tuong-bias-toi-sep-cua-toi-poster.webp",
+            "slug": "su-huynh-qua-can-trong",
+            "thumb": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260819/su-huynh-qua-can-trong-poster.webp",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (12/12)",
-            "total_episodes": "12",
+            "current_episode": "Hoàn Tất (30/30)",
+            "total_episodes": "30",
+            "country": "Trung Quốc",
+            "description": "Kiếp trước, Lý Trường Thọ là một bệnh nhân mắc bệnh hiểm nghèo. Sau một lần ngoài ý muốn sống lại ở thế giới hồng hoang, trở thành một tu sĩ Luyện Khí nhỏ bé luôn trân trọng tính mạng, không muốn dính vào nhân quả. Để tránh đại kiếp thiên hạ đã được thiên đạo tiên tri, y theo đuổi con đường \"ổn vững\", chỉ mong sớm lên thiên đình sống qua ngày. Vì thế, y hành sự thận trọng, bất động thì vững như bàn thạch, động một cái là long trời lở đất. Y tin rằng thời đại chỉ biết chém giết đã qua, lừa được thì tuyệt đối không giết, độc thân được thì tuyệt đối không yêu. Thế nhưng, kẻ địch và mỹ nhân lại ùn ùn kéo đến. Y bất cẩn trở thành cao thủ đứng sau bày mưu tính kế, bị cuốn vào trận đấu của nhiều thế lực, triển khai kế hoạch \"Long tộc lên trời\", thậm chí còn khiến đại kiếp thiên hạ đến sớm hơn..."
+        },
+        {
+            "name": "Đế Chế Đại Hàn (Phần 2)",
+            "year": 2026,
+            "slug": "de-che-dai-han-phan-2",
+            "thumb": "https://phimimg.com/uploads/movies/20260910/de-che-dai-han-phan-2-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260910/de-che-dai-han-phan-2-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "6",
             "country": "Hàn Quốc",
-            "description": "Nam Da Reum (Kim Hye Joon) là một fan cuồng đã theo đuổi thần tượng Lee Chan suốt 11 năm. Cô từ chối một công việc tốt để gia nhập công ty thời trang Appello, nơi Lee Chan hiện làm giám đốc sáng tạo, với hy vọng được làm việc gần thần tượng. Tuy nhiên, ngay trong ngày đầu tiên, Da Reum lại liên tục chạm mặt Kang Ha Gi (Kang Hoon) – vị CEO lạnh lùng nhưng tốt bụng của công ty. Những hiểu lầm và tình huống dở khóc dở cười khiến mối quan hệ giữa hai người ngày càng phát triển, trong khi Da Reum vẫn phải đối diện với tình cảm dành cho thần tượng Lee Chan."
+            "description": "Phần 2 tiếp tục xoáy sâu vào những cuộc đấu đá quyền lực căng thẳng, lòng tham, sự trả thù và phản bội gia đình, đặt hai nhân vật chính ở các chiến tuyến đối lập giữa một bên là khát vọng quyền lực/tiền tài và một bên là công lý."
         },
         {
             "name": "Bôi Tuyết",
