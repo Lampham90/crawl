@@ -1,5 +1,17 @@
 [
     {
+        "name": "Trúng Số Độc Đắc Vẫn Phải Đi Làm",
+        "year": 2026,
+        "slug": "trung-so-doc-dac-van-phai-di-lam",
+        "thumb": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "10",
+        "country": "Hàn Quốc",
+        "description": "Coi tấm séc trúng thưởng như một dạng \"bảo hiểm tinh thần\", Eun-tae mang theo một thái độ tự tin, thoải mái và không còn sợ sệt bất cứ điều gì tại công sở. Sự thay đổi ngầm này vô tình tạo ra hàng loạt tình huống dở khóc dở cười, làm đảo lộn trật tự phân cấp công sở và thay đổi cách nhìn của các đồng nghiệp cũng như cấp trên đối với anh."
+    },
+    {
         "name": "Đạo Quật Vương (Vua Trộm Mộ)",
         "year": 2026,
         "slug": "dao-quat-vuong-vua-trom-mo",
@@ -346,17 +358,5 @@
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Một công tố viên đầy tham vọng bị mất trí nhớ và chuyển đến sống cùng một huấn luyện viên quyền Anh tự nhận là bạn trai cô. Liệu tình huống éo le này có dẫn đến tình yêu đích thực?"
-    },
-    {
-        "name": "Tình Yêu Và Tội Lỗi",
-        "year": 2026,
-        "slug": "tinh-yeu-va-toi-loi-2026",
-        "thumb": "https://phimimg.com/uploads/movies/20260709/tinh-yeu-va-toi-loi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260709/tinh-yeu-va-toi-loi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Hàn Quốc",
-        "description": "Cảnh sát, những kẻ buôn lậu ma túy và gián điệp: một vụ bắt cóc bí ẩn vô tình vạch trần một mạng lưới tội phạm quy mô lớn, nơi mà cả tình yêu lẫn tình dục đều trở thành những công cụ để trao đổi lợi ích."
     }
 ]
