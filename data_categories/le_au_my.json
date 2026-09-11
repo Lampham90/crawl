@@ -1,5 +1,17 @@
 [
     {
+        "name": "Dưới Làn Lửa Đạn",
+        "year": 2025,
+        "slug": "duoi-lan-lua-dan",
+        "thumb": "https://phimimg.com/uploads/movies/20260911/duoi-lan-lua-dan-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260911/duoi-lan-lua-dan-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Hai đặc vụ ngầm hay cãi vã đóng giả làm kẻ buôn ma túy đối thủ phải hợp tác để sống sót sau một tay bắn tỉa không ngừng nghỉ và bảo vệ một chiếc cặp chứa các tài liệu tuyệt mật."
+    },
+    {
         "name": "Tại Sao Tôi Lại Kết Hôn Nữa?",
         "year": 2026,
         "slug": "tai-sao-toi-lai-ket-hon-nua",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Lời tuyên bố của một người đàn ông xa lạ điển trai rằng cô con gái 15 tuổi của một cặp vợ chồng đã bị tráo đổi từ lúc mới sinh đã đẩy gia đình hoàn hảo của họ vào cảnh hỗn loạn, làm hé lộ những bí mật chấn động."
-    },
-    {
-        "name": "Rơi Tự Do: Ngày Phán Xét Của Boeing",
-        "year": 2026,
-        "slug": "roi-tu-do-ngay-phan-xet-cua-boeing",
-        "thumb": "https://phimimg.com/uploads/movies/20260820/roi-tu-do-ngay-phan-xet-cua-boeing-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260820/roi-tu-do-ngay-phan-xet-cua-boeing-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Trong bộ phim tài liệu này, lời khai chấn động của người tố giác cáo buộc Boeing có văn hóa cắt giảm chi phí và hành vi che đậy, dẫn đến những sai sót chết người về an toàn bay."
     }
 ]
