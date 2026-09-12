@@ -1,5 +1,17 @@
 [
     {
+        "name": "Phim Tài Liệu Về AI: Hay Cách Tôi Trở Thành Kẻ Lạc Quan Về Tận Thế",
+        "year": 2026,
+        "slug": "phim-tai-lieu-ve-ai-hay-cach-toi-tro-thanh-ke-lac-quan-ve-tan-the",
+        "thumb": "https://phimimg.com/uploads/movies/20260912/phim-tai-lieu-ve-ai-hay-cach-toi-tro-thanh-ke-lac-quan-ve-tan-the-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260912/phim-tai-lieu-ve-ai-hay-cach-toi-tro-thanh-ke-lac-quan-ve-tan-the-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Một người sắp làm cha tìm hiểu AI, phỏng vấn các chuyên gia và lãnh đạo trong ngành công nghệ để hiểu AI có thể ảnh hưởng ra sao đến cuộc sống của con mình và tương lai nhân loại."
+    },
+    {
         "name": "Dưới Làn Lửa Đạn",
         "year": 2025,
         "slug": "duoi-lan-lua-dan",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Anh",
         "description": "Mutiny (Tàu buồn người) kể về Cole Reed do Jason Statham thủ vai, sau khi tận mắt chứng kiến ông chủ tỷ phú của mình bị sát hại và bản thân trở thành kẻ thế thân bị vu oan, Cole Reed (Jason Statham) đã đột nhập lên một con tàu chở hàng để bắt đầu hành trình truy tìm sự thật và trả thù cho vị sếp cũ. Tuy nhiên, chuyến đi đơn độc này lại đẩy anh vào nguy hiểm khi Cole vô tình bóc trần một âm mưu quốc tế quy mô và cực kỳ nguy hiểm."
-    },
-    {
-        "name": "Người Lạ Trong Nhà Tôi",
-        "year": 2025,
-        "slug": "nguoi-la-trong-nha-toi",
-        "thumb": "https://phimimg.com/uploads/movies/20260821/nguoi-la-trong-nha-toi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260821/nguoi-la-trong-nha-toi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Lời tuyên bố của một người đàn ông xa lạ điển trai rằng cô con gái 15 tuổi của một cặp vợ chồng đã bị tráo đổi từ lúc mới sinh đã đẩy gia đình hoàn hảo của họ vào cảnh hỗn loạn, làm hé lộ những bí mật chấn động."
     }
 ]

@@ -1,5 +1,29 @@
 [
     {
+        "name": "Seoul Unnie",
+        "year": 2026,
+        "slug": "seoul-unnie",
+        "thumb": "https://phimimg.com/uploads/movies/20260905/seoul-unnie-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260905/seoul-unnie-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "3",
+        "country": "Hàn Quốc",
+        "description": "Chương trình đưa khán giả dạo quanh Seoul, khám phá những xu hướng thời thượng cùng \"Phù thủy make-up\" Pony và minh tinh Jung Ye In, cựu thành viên nhóm nhạc nữ Lovelyz. Đặc biệt, Thanh Mèo và Trương Nhã Dinh đến từ Việt Nam cũng đồng hành chia sẻ những bí kíp làm đẹp xuyên biên giới."
+    },
+    {
+        "name": "Chiến Binh Đường Phố: Đại Chiến Biên Đạo",
+        "year": 2026,
+        "slug": "chien-binh-duong-pho-dai-chien-bien-dao",
+        "thumb": "https://phimimg.com/uploads/movies/20260905/chien-binh-duong-pho-dai-chien-bien-dao-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260905/chien-binh-duong-pho-dai-chien-bien-dao-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "13",
+        "country": "Hàn Quốc",
+        "description": "Những chiến binh đường phố ra trận ở một đẳng cấp mới: Trận đại chiến của dàn biên đạo hàng đầu Hàn Quốc hứa hẹn mang đến những sân khấu bùng nổ và rực rỡ nhất từ trước đến nay."
+    },
+    {
         "name": "Tiệm Bánh Gạo Vũ Trụ",
         "year": 2026,
         "slug": "tiem-banh-gao-vu-tru",
@@ -154,30 +178,6 @@
         "total_episodes": "14",
         "country": "Hàn Quốc",
         "description": "Sau Season 1, Yi-soo đã thực sự nhận ra mình muốn trở thành một cảnh sát, chứ không còn xem công việc này như trò chơi của một thiếu gia. Anh hoàn thành khóa đào tạo chính thức tại Học viện Cảnh sát, sau đó quay trở lại Đội Trọng án 1. Lần này, Yi-soo đã trưởng thành và chuyên nghiệp hơn, nhưng vẫn giữ phong cách điều tra rất đặc biệt: khi cảnh sát gặp bế tắc, anh có thể dùng tiền bạc, các mối quan hệ và nguồn lực khổng lồ của gia đình tài phiệt để mở ra những hướng điều tra mà người bình thường không thể tiếp cận."
-    },
-    {
-        "name": "Seoul Unnie",
-        "year": 2026,
-        "slug": "seoul-unnie",
-        "thumb": "https://phimimg.com/uploads/movies/20260905/seoul-unnie-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260905/seoul-unnie-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "3",
-        "country": "Hàn Quốc",
-        "description": "Chương trình đưa khán giả dạo quanh Seoul, khám phá những xu hướng thời thượng cùng \"Phù thủy make-up\" Pony và minh tinh Jung Ye In, cựu thành viên nhóm nhạc nữ Lovelyz. Đặc biệt, Thanh Mèo và Trương Nhã Dinh đến từ Việt Nam cũng đồng hành chia sẻ những bí kíp làm đẹp xuyên biên giới."
-    },
-    {
-        "name": "Chiến Binh Đường Phố: Đại Chiến Biên Đạo",
-        "year": 2026,
-        "slug": "chien-binh-duong-pho-dai-chien-bien-dao",
-        "thumb": "https://phimimg.com/uploads/movies/20260905/chien-binh-duong-pho-dai-chien-bien-dao-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260905/chien-binh-duong-pho-dai-chien-bien-dao-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "13",
-        "country": "Hàn Quốc",
-        "description": "Những chiến binh đường phố ra trận ở một đẳng cấp mới: Trận đại chiến của dàn biên đạo hàng đầu Hàn Quốc hứa hẹn mang đến những sân khấu bùng nổ và rực rỡ nhất từ trước đến nay."
     },
     {
         "name": "Vỏ Bọc Ngoại Tình (Ngoại Tình Đã Nhằm Nhò Gì)",
