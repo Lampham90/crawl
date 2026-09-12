@@ -1,5 +1,65 @@
 [
     {
+        "name": "Oán Linh Dục Vọng",
+        "year": 2026,
+        "slug": "oan-linh-duc-vong",
+        "thumb": "https://phimimg.com/uploads/movies/20260912/oan-linh-duc-vong-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260912/oan-linh-duc-vong-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 2",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Yothaka phát hiện chồng mình là Nat có quan hệ bất chính với Pam, nữ cấp trên của anh. Cuộc hôn nhân vốn đã rạn nứt càng trở nên phức tạp khi hai vợ chồng quyết định chuyển đến căn nhà cổ được thừa kế từ gia đình Nat và đối mặt với hàng loạt những hiện tượng kỳ lạ. Căn nhà tưởng như sẽ là nơi bắt đầu cuộc sống mới của Yothaka và Nat hóa ra lại ẩn chứa một quá khứ vô cùng đen tối. Oán Linh Dục Vọng là câu chuyện về tình yêu, sự phản bội, và cái giá đắt phải trả cho những lời nói dối trong quá khứ."
+    },
+    {
+        "name": "NOUR",
+        "year": 2026,
+        "slug": "nour",
+        "thumb": "https://phimimg.com/uploads/movies/20260826/nour-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260826/nour-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
+    },
+    {
+        "name": "Luang Pho Trong Sạch",
+        "year": 2026,
+        "slug": "luang-pho-trong-sach",
+        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (30/30)",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
+    },
+    {
+        "name": "Hội Chứng Mê Bạn Cùng Lớp",
+        "year": 2026,
+        "slug": "hoi-chung-me-ban-cung-lop",
+        "thumb": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 8",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Chuyển đến trường cấp ba hàng đầu, chàng trai nuôi mộng trở thành ngôi sao nhạc rock Leerit thề sẽ tránh xa chuyện yêu đương, nhưng nhanh chóng đổi ý khi gặp bạn cùng phòng mới."
+    },
+    {
+        "name": "Đừng Xin Anh Jane",
+        "year": 2026,
+        "slug": "dung-xin-anh-jane",
+        "thumb": "https://phimimg.com/upload/vod/20260628-1/a95d26463927cbc3490db630c8f8f16a.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260628-1/579b51f4dd34a72eb28ee9ab9e2c57ca.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Hoàn Tất (12/12)",
+        "total_episodes": "12",
+        "country": "Thái Lan",
+        "description": "Một cầu thủ bóng đá kết bạn với một thực thể ban điều ước đầy bí ẩn, nhưng những món quà nguy hiểm từ thực thể này lại che giấu những bí mật đen tối, vô tình kéo hai người lại gần nhau hơn."
+    },
+    {
         "name": "Người Yêu Xui Xẻo",
         "year": 2026,
         "slug": "nguoi-yeu-xui-xeo",
@@ -10,18 +70,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Bị phản bội, Rin gieo lời nguyền để trả thù tình cũ. Nhưng khi lời nguyền ứng nghiệm lên người bạn cùng lớp, cậu phải tìm cách hóa giải mà không để lộ dòng dõi bí mật của mình."
-    },
-    {
-        "name": "Luang Pho Trong Sạch",
-        "year": 2026,
-        "slug": "luang-pho-trong-sach",
-        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 29",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
     },
     {
         "name": "Hãy Là Người Chơi Thứ Hai Của Tôi / Hãy Làm Người Chơi Số Hai Của Anh (Bản Uncut)",
@@ -46,18 +94,6 @@
         "total_episodes": "17",
         "country": "Thái Lan",
         "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
-    },
-    {
-        "name": "NOUR",
-        "year": 2026,
-        "slug": "nour",
-        "thumb": "https://phimimg.com/uploads/movies/20260826/nour-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260826/nour-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
     },
     {
         "name": "Bóng Dưới Trăng",
@@ -264,30 +300,6 @@
         "description": "Dù vẫn còn tình cảm với nhau nhưng bị mẹ của Runch chia cắt, hai người phụ nữ phải giả vờ rằng cuộc hôn nhân của họ vẫn hạnh phúc để hoàn tất một thương vụ kinh doanh quan trọng."
     },
     {
-        "name": "Đừng Xin Anh Jane",
-        "year": 2026,
-        "slug": "dung-xin-anh-jane",
-        "thumb": "https://phimimg.com/upload/vod/20260628-1/a95d26463927cbc3490db630c8f8f16a.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260628-1/579b51f4dd34a72eb28ee9ab9e2c57ca.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 11",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Một cầu thủ bóng đá kết bạn với một thực thể ban điều ước đầy bí ẩn, nhưng những món quà nguy hiểm từ thực thể này lại che giấu những bí mật đen tối, vô tình kéo hai người lại gần nhau hơn."
-    },
-    {
-        "name": "Hội Chứng Mê Bạn Cùng Lớp",
-        "year": 2026,
-        "slug": "hoi-chung-me-ban-cung-lop",
-        "thumb": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
-        "total_episodes": "8",
-        "country": "Thái Lan",
-        "description": "Chuyển đến trường cấp ba hàng đầu, chàng trai nuôi mộng trở thành ngôi sao nhạc rock Leerit thề sẽ tránh xa chuyện yêu đương, nhưng nhanh chóng đổi ý khi gặp bạn cùng phòng mới."
-    },
-    {
         "name": "Giang Hồ Bangkok",
         "year": 2026,
         "slug": "giang-ho-bangkok",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Thái Lan",
         "description": "Tại vùng đất phương Nam, \"Fai\" Atchima Watinwanich có dịp tái ngộ với người đối đầu cũ của mình là \"Kaprao\" Athitaya Thitsama — một cuộc gặp gỡ có thể thắp lên ngọn lửa tình yêu hoặc sẽ lại vạch trần những vết thương cũ chưa lành."
-    },
-    {
-        "name": "Tám Tay Lừa Đảo",
-        "year": 2026,
-        "slug": "tam-tay-lua-dao",
-        "thumb": "https://phimimg.com/upload/vod/20260619-1/9e93d64325569582ddae5c844a3c1d4d.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260702-1/662375d82c0df6023d38812cb33f4661.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (19/19)",
-        "total_episodes": "19",
-        "country": "Thái Lan",
-        "description": "Miễn cưỡng liên thủ, tám tay lừa đảo toan thực hiện phi vụ nguy hiểm nhất từ trước đến nay: lừa chính những tên tội phạm đứng sau một mạng lưới lừa đảo ngầm khổng lồ."
     }
 ]

@@ -1,5 +1,29 @@
 [
     {
+        "name": "Tiệm Bánh Gạo Vũ Trụ",
+        "year": 2026,
+        "slug": "tiem-banh-gao-vu-tru",
+        "thumb": "https://phimimg.com/uploads/movies/20260805/tiem-banh-gao-vu-tru-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260805/tiem-banh-gao-vu-tru-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Cửa hàng bánh gạo vũ trụ ra đời sau khi Lee Eun Ji, Mimi, Lee Young Ji và An Yu Jin thua cuộc trong nhiệm vụ thoát khỏi phòng kín của Torong. Hình phạt là các cô nàng phải cùng nhau làm việc tại một cửa hàng bánh gạo, thức dậy lúc 5 giờ sáng và vật lộn buôn bán."
+    },
+    {
+        "name": "Hương Vị Của Biển (Mùa 3)",
+        "year": 2026,
+        "slug": "huong-vi-cua-bien-mua-3",
+        "thumb": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "11",
+        "country": "Hàn Quốc",
+        "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
+    },
+    {
         "name": "Ừ Thì Ly Hôn!",
         "year": 2026,
         "slug": "u-thi-ly-hon",
@@ -156,18 +180,6 @@
         "description": "Những chiến binh đường phố ra trận ở một đẳng cấp mới: Trận đại chiến của dàn biên đạo hàng đầu Hàn Quốc hứa hẹn mang đến những sân khấu bùng nổ và rực rỡ nhất từ trước đến nay."
     },
     {
-        "name": "Hương Vị Của Biển (Mùa 3)",
-        "year": 2026,
-        "slug": "huong-vi-cua-bien-mua-3",
-        "thumb": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "11",
-        "country": "Hàn Quốc",
-        "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
-    },
-    {
         "name": "Vỏ Bọc Ngoại Tình (Ngoại Tình Đã Nhằm Nhò Gì)",
         "year": 2026,
         "slug": "vo-boc-ngoai-tinh-ngoai-tinh-da-nham-nho-gi",
@@ -178,18 +190,6 @@
         "total_episodes": "8",
         "country": "Hàn Quốc",
         "description": "Kyung Hee, một influencer có gia đình kiểu mẫu và sự nghiệp đáng ngưỡng mộ. Nhưng khi phát hiện chồng mình che giấu một bí mật kinh hoàng, cô buộc phải cùng anh chôn vùi sự thật. Một tin nhắn nặc danh xuất hiện, kéo cả gia đình vào cơn ác mộng không lối thoát."
-    },
-    {
-        "name": "Tiệm Bánh Gạo Vũ Trụ",
-        "year": 2026,
-        "slug": "tiem-banh-gao-vu-tru",
-        "thumb": "https://phimimg.com/uploads/movies/20260805/tiem-banh-gao-vu-tru-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260805/tiem-banh-gao-vu-tru-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Cửa hàng bánh gạo vũ trụ ra đời sau khi Lee Eun Ji, Mimi, Lee Young Ji và An Yu Jin thua cuộc trong nhiệm vụ thoát khỏi phòng kín của Torong. Hình phạt là các cô nàng phải cùng nhau làm việc tại một cửa hàng bánh gạo, thức dậy lúc 5 giờ sáng và vật lộn buôn bán."
     },
     {
         "name": "Lớp Học Tình Yêu (Phần 3)",
