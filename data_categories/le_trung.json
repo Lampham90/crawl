@@ -1,5 +1,17 @@
 [
     {
+        "name": "Thư Tình Gửi Ngoại",
+        "year": 2026,
+        "slug": "thu-tinh-gui-ngoai",
+        "thumb": "https://phimimg.com/uploads/movies/20260913/thu-tinh-gui-ngoai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260913/thu-tinh-gui-ngoai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Trung Quốc",
+        "description": "Tác phẩm lấy bối cảnh Trung Quốc, Thái Lan từ thập niên 1950 tới hiện tại, nói về cuộc đời của bà Diệp Thục Như (Ngô Thiếu Khanh đóng). Xuất thân tiểu thư, bà trốn nhà đi theo chàng trai nghèo Trịnh Mộc Sinh (Vương Ngạn Đồng đóng), sinh ba người con. Vì biến cố chính trị, ông Mộc Sinh phiêu bạt tới Thái Lan, ở đây làm lụng kiếm tiền gửi về cho vợ con. Trịnh Mộc Sinh đầu óc nhanh nhạy, giỏi kiếm tiền, trợ cấp đủ đầy cho gia đình và một lòng một dạ với vợ. Đôi vợ chồng gửi gắm tình yêu qua những lá thư. Một ngày, Diệp Thục Như nhận bức ảnh chồng bên một phụ nữ và những đứa trẻ kèm tin ông đã qua đời. Cháu của Diệp Thục Như trưởng thành, từ Trung Quốc tới Thái Lan tìm thân nhân của ông nội, từ đó mở ra câu chuyện ấm áp, giàu nghĩa tình sau những lá thư mà Trịnh Mộc Sinh gửi cho vợ."
+    },
+    {
         "name": "Người Biến Mất",
         "year": 2026,
         "slug": "nguoi-bien-mat",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Trung Quốc",
         "description": "Nữ cảnh sát chống ma túy Trần Phi dẫn đầu đội đặc nhiệm đột kích xưởng sản xuất ma túy của trùm ma túy Đinh Công, tuy nhiên chiến dịch đã thất bại do bị nghe lén. Nữ cảnh sát nằm vùng Lâm Hiểu đã phải trả giá bằng cả tính mạng để gửi ra những bằng chứng then chốt, mở ra một chiến dịch cất vó cuối cùng nhằm triệt phá đường dây ma túy quốc tế."
-    },
-    {
-        "name": "Bát Tiên!",
-        "year": 2026,
-        "slug": "bat-tien",
-        "thumb": "https://phimimg.com/uploads/movies/20260723/bat-tien-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260723/bat-tien-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Trung Quốc",
-        "description": "Tám phàm nhân bình thường ở tầng lớp đáy xã hội đã sử dụng trí thông minh đường phố cùng những mưu mẹo dở khóc dở cười để chống lại các vị thần tiên quyền năng, từ đó chính thức giành được danh hiệu \"Bát Tiên\"."
     }
 ]

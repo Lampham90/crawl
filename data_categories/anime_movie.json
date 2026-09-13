@@ -1,5 +1,17 @@
 [
     {
+        "name": "Gintama The Movie 2026: Yoshiwara Trong Biển Lửa",
+        "year": 2026,
+        "slug": "gintama-the-movie-2026-yoshiwara-trong-bien-lua",
+        "thumb": "https://phimimg.com/uploads/movies/20260913/gintama-the-movie-2026-yoshiwara-trong-bien-lua-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260913/gintama-the-movie-2026-yoshiwara-trong-bien-lua-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Nhật Bản",
+        "description": "Yoshiwara — khu phố đèn đỏ khổng lồ nằm sâu dưới lòng đất, nơi ánh mặt trời không bao giờ chạm tới và pháp luật gần như vô dụng. Tại đây, dục vọng và bạo lực bị thống trị bởi Housen, “Dạ Vương” khét tiếng thuộc tộc chiến binh Yato.  Ở Edo, Sakata Gintoki cùng nhóm Yorozuya gặp Seita, cậu bé mồ côi sống bằng nghề móc túi. Seita tin rằng Hinowa — Oiran nổi tiếng nhất Yoshiwara — chính là mẹ ruột thất lạc của mình.  Cảm động trước mong muốn giản đơn “chỉ được gặp mẹ một lần”, Gintoki và đồng đội quyết định bước vào Yoshiwara để giúp cậu. Nhưng nơi đây bị Housen cai trị bằng sức mạnh tuyệt đối, biến cuộc tìm kiếm thành trận chiến giữa tình người và bóng tối của “thành phố đêm vĩnh cửu”."
+    },
+    {
         "name": "Doraemon: Nobita và Lâu Đài Dưới Đáy Biển (Phiên Bản Mới)",
         "year": 2026,
         "slug": "doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi",
@@ -332,16 +344,5 @@
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "Nhật Bản"
-    },
-    {
-        "name": "Ánh sáng của thế giới",
-        "year": 2025,
-        "slug": "anh-sang-cua-the-gioi",
-        "thumb": "https://phimimg.com/upload/vod/20260602-1/15ce1758714686e29cd7bf9de25b84bc.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260602-1/cfd0c4de179f9d7e2ce51b36e6796f1f.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ"
     }
 ]
