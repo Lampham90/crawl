@@ -183,6 +183,18 @@
     ],
     "anime_nhat": [
         {
+            "name": "Bảo Mẫu Bí Mật Của Tiểu Thư",
+            "year": 2026,
+            "slug": "bao-mau-bi-mat-cua-tieu-thu",
+            "thumb": "https://phimimg.com/upload/vod/20260705-1/bb555252d6405782a1ca8c04a6f4f310.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260705-1/9cb6f0492fcdf331cb804240d4c7e2e9.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 11",
+            "total_episodes": "12",
+            "country": "Nhật Bản",
+            "description": "Hinako Konohana là một tiểu thư hoàn hảo trong mắt mọi người — duyên dáng, thanh lịch và không một tì vết… hoặc ít nhất đó là những gì họ nghĩ. Đằng sau cánh cửa đóng kín, cô nàng lại là một &quot;thảm họa&quot; toàn diện, kẻ thậm chí không thể tự xoay xở với những công việc nhà cơ bản nhất! Khi cậu học sinh bình thường Itsuki Tomonari trở thành người chăm sóc cho cô, cậu bị kéo vào cuộc chiến dọn dẹp rắc rối 24/7 để bảo vệ hình tượng &quot;hoàn mỹ&quot; của nàng tiểu thư. Cuộc sống chung đầy vụng về và hỗn loạn không ngừng ấy, trớ trêu thay, lại bắt đầu nhen nhóm thành một thứ cảm xúc ngọt ngào tựa như tình yêu…"
+        },
+        {
             "name": "Cậu Và Tớ Là Hai Thái Cực Đối Lập (Seihantai na Kimi to Boku) (Phần 2)",
             "year": 2026,
             "slug": "cau-va-to-la-hai-thai-cuc-doi-lap-seihantai-na-kimi-to-boku-phan-2",
@@ -333,7 +345,7 @@
             "thumb": "https://phimimg.com/upload/vod/20260628-1/72b2dbd4ea6b8259b07dd9abe2618d0a.jpg",
             "poster": "https://phimimg.com/upload/vod/20260628-1/42ef1fa70615d6076afd6d4c72ccef28.jpg",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 12",
+            "current_episode": "Hoàn Tất (12/12)",
             "total_episodes": "12",
             "country": "Nhật Bản",
             "description": "Mồ côi ngay từ khi mới nở, chú rồng cô độc mang tên &quot;Bác Đôi Cánh&quot; được một gia đình mèo biết sử dụng ma thuật nhận nuôi và nuôi nấng như con ruột. Khi lớn lên, Bác Đôi Cánh trở thành người bảo vệ cho đàn mèo, quyết tâm giữ cho chúng được an toàn trước loài người. Thế nhưng, khi chứng kiến những chú mèo dùng phép thuật của mình để kết nối với con người, Bác Đôi Cánh cũng dần mở lòng và có thiện cảm hơn với họ trong câu chuyện đầy cảm xúc và xúc động này."
@@ -349,18 +361,6 @@
             "total_episodes": "10",
             "country": "Nhật Bản",
             "description": "Cuộc đại chiến giữa các Thần Chết và đế chế Quincy bước vào giai đoạn khốc liệt nhất khi những trận chiến sinh tử liên tiếp nổ ra. Ichigo Kurosaki cùng các đồng đội phải đối mặt với những kẻ thù sở hữu sức mạnh vượt ngoài tưởng tượng để bảo vệ cả hai thế giới. Trong khi đó, những bí mật về quá khứ, số phận và nguồn gốc sức mạnh dần được hé lộ, làm thay đổi cục diện cuộc chiến. Mỗi quyết định đều phải trả giá bằng sự hy sinh, đẩy các chiến binh đến giới hạn của bản thân."
-        },
-        {
-            "name": "Thiếu Chủ Giỏi Chạy Trốn (Phần 2)",
-            "year": 2026,
-            "slug": "thieu-chu-gioi-chay-tron-phan-2",
-            "thumb": "https://phimimg.com/uploads/movies/20260719/thieu-chu-gioi-chay-tron-phan-2-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260719/thieu-chu-gioi-chay-tron-phan-2-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 9",
-            "total_episodes": "24",
-            "country": "Nhật Bản",
-            "description": "Vào năm 1333 tại Kamakura, vương triều Mạc phủ sụp đổ sau cuộc đảo chính tàn khốc của kẻ phản bội Ashikaga Takauji. Giữa ngọn lửa chiến tranh, Hojo Tokiyuki – người thừa kế hợp pháp của Mạc phủ, một cậu bé tám tuổi vốn nhút nhát và không có tài năng võ thuật – đã mất đi tất cả gia đình và gia tộc của mình. Tuy nhiên, Tokiyuki lại sở hữu một thiên phú độc nhất vô nhị vượt trội hơn bất kỳ ai: khả năng trốn chạy và né đòn siêu phàm. Được sự dẫn dắt của vị tư tế lập dị Suwa Yorishige, vị thiếu gia trốn chạy bắt đầu hành trình tập hợp những đồng minh đáng tin cậy để sinh tồn và nuôi hy vọng giành lại Kamakura."
         }
     ],
     "hh_trung_quoc": [
@@ -1795,9 +1795,9 @@
             "description": "Nguyễn Tư Nhàn, một tiếp viên hàng không quyết tâm theo đuổi ước mơ phi công, đã vượt qua nhiều thử thách để tốt nghiệp xuất sắc. Trên hành trình chinh phục sự nghiệp, cô dần nảy sinh tình cảm chân thành với Phó chủ tịch hãng hàng không Phó Minh Dư bất chấp những hiểu lầm và trở ngại."
         },
         {
-            "name": "Ngọa Long",
+            "name": "Ngọa Long: Thiên Tài Quân Sư",
             "year": 2026,
-            "slug": "ngoa-long",
+            "slug": "ngoa-long-thien-tai-quan-su",
             "thumb": "https://phimimg.com/uploads/movies/20260912/ngoa-long-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20260912/ngoa-long-poster.webp",
             "sub_type": "Vietsub",
@@ -2445,7 +2445,7 @@
             "thumb": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
+            "current_episode": "Hoàn Tất (8/8)",
             "total_episodes": "8",
             "country": "Thái Lan",
             "description": "Chuyển đến trường cấp ba hàng đầu, chàng trai nuôi mộng trở thành ngôi sao nhạc rock Leerit thề sẽ tránh xa chuyện yêu đương, nhưng nhanh chóng đổi ý khi gặp bạn cùng phòng mới."
