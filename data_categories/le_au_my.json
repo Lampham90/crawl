@@ -1,5 +1,17 @@
 [
     {
+        "name": "Siêu Cảnh Khuyển",
+        "year": 2025,
+        "slug": "sieu-canh-khuyen",
+        "thumb": "https://phimimg.com/upload/vod/20250512-1/0b3b6767532eda0429ba8fc48c4b81b9.jpg",
+        "poster": "https://phimimg.com/upload/vod/20250512-1/8fc7e83b01f3513e1a4221f1209377ac.jpg",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Câu chuyện bắt đầu khi sĩ quan cảnh sát Knight và chú chó nghiệp vụ Greg bị thương nặng trong một vụ nổ do âm mưu của mèo ác nhân Petey. Để cứu cả hai, các bác sĩ quyết định thực hiện một ca phẫu thuật ghép đôi, kết hợp đầu của Greg với thân thể của Knight, tạo nên Dog Man – một anh hùng nửa người nửa chó. Với bản năng trung thành của loài chó và trí tuệ của con người, Dog Man phải đối mặt với những kế hoạch xấu xa của Petey. Tình tiết trở nên phức tạp khi Petey tạo ra bản sao của mình, Lil Petey, nhưng Lil Petey lại hình thành mối quan hệ đặc biệt với Dog Man. Khi Lil Petey bị bắt cóc, Dog Man và Petey buộc phải hợp tác để giải cứu chú mèo con, dẫn đến những tình huống hài hước và cảm động."
+    },
+    {
         "name": "Phim Tài Liệu Về AI: Hay Cách Tôi Trở Thành Kẻ Lạc Quan Về Tận Thế",
         "year": 2026,
         "slug": "phim-tai-lieu-ve-ai-hay-cach-toi-tro-thanh-ke-lac-quan-ve-tan-the",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Phim theo chân Chris Davis (Austin North) – một công nhân giàn khoan dầu trẻ tuổi cùng chú chó cứu hộ của mình đang lái xe vượt tiểu bang để đến dự lễ cưới mà anh hằng mong đợi. Tuy nhiên, chuyến đi vui vẻ nhanh chóng biến thành cơn ác mộng khi họ bị tấn công dã man tại một trạm dừng chân ven đường vắng vẻ."
-    },
-    {
-        "name": "Tàu Buôn Người",
-        "year": 2026,
-        "slug": "tau-buon-nguoi",
-        "thumb": "https://phimimg.com/uploads/movies/20260821/tau-buon-nguoi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260821/tau-buon-nguoi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Anh",
-        "description": "Mutiny (Tàu buồn người) kể về Cole Reed do Jason Statham thủ vai, sau khi tận mắt chứng kiến ông chủ tỷ phú của mình bị sát hại và bản thân trở thành kẻ thế thân bị vu oan, Cole Reed (Jason Statham) đã đột nhập lên một con tàu chở hàng để bắt đầu hành trình truy tìm sự thật và trả thù cho vị sếp cũ. Tuy nhiên, chuyến đi đơn độc này lại đẩy anh vào nguy hiểm khi Cole vô tình bóc trần một âm mưu quốc tế quy mô và cực kỳ nguy hiểm."
     }
 ]

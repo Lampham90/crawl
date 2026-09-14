@@ -1,5 +1,29 @@
 [
     {
+        "name": "Thợ Săn Giác Thú Omegahorn",
+        "year": 2026,
+        "slug": "tho-san-giac-thu-omegahorn",
+        "thumb": "https://phimimg.com/uploads/movies/20260726/tho-san-giac-thu-omegahorn-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260726/tho-san-giac-thu-omegahorn-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 8",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Thời cổ đại, các Giác thú khổng lồ từng thống trị thế giới trước khi bị phong ấn vào các Egorgear và biến mất. Đến thời hiện đại, một nhóm người gọi là Thợ săn bắt đầu sử dụng Máy Khởi Giác để giải phóng sức mạnh của chúng. Tình cờ tìm thấy một Máy Khởi Giác kỳ lạ tên Omegahorn cùng một Egorgear cổ xưa, Shout đã đánh thức con thú khổng lồ có sừng mang tên Viêm Giác. Nhận ra tố chất của một vị vua trong cậu, Viêm Giác mời Shout làm Đội Trưởng Omegahorn, kề vai sát cánh chiến đấu cùng mình và trở thành Thợ Săn Giác Thú Omegahorn."
+    },
+    {
+        "name": "Siêu Cảnh Khuyển",
+        "year": 2025,
+        "slug": "sieu-canh-khuyen",
+        "thumb": "https://phimimg.com/upload/vod/20250512-1/0b3b6767532eda0429ba8fc48c4b81b9.jpg",
+        "poster": "https://phimimg.com/upload/vod/20250512-1/8fc7e83b01f3513e1a4221f1209377ac.jpg",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Câu chuyện bắt đầu khi sĩ quan cảnh sát Knight và chú chó nghiệp vụ Greg bị thương nặng trong một vụ nổ do âm mưu của mèo ác nhân Petey. Để cứu cả hai, các bác sĩ quyết định thực hiện một ca phẫu thuật ghép đôi, kết hợp đầu của Greg với thân thể của Knight, tạo nên Dog Man – một anh hùng nửa người nửa chó. Với bản năng trung thành của loài chó và trí tuệ của con người, Dog Man phải đối mặt với những kế hoạch xấu xa của Petey. Tình tiết trở nên phức tạp khi Petey tạo ra bản sao của mình, Lil Petey, nhưng Lil Petey lại hình thành mối quan hệ đặc biệt với Dog Man. Khi Lil Petey bị bắt cóc, Dog Man và Petey buộc phải hợp tác để giải cứu chú mèo con, dẫn đến những tình huống hài hước và cảm động."
+    },
+    {
         "name": "Song Mệnh Cõi Hoàng Tuyền",
         "year": 2026,
         "slug": "song-menh-coi-hoang-tuyen",
@@ -70,18 +94,6 @@
         "total_episodes": "48",
         "country": "Nhật Bản",
         "description": "Nhân vật trung tâm của phần phim mang hình tượng lấy cảm hứng từ loài chuột – đứng đầu trong chu kỳ 12 con giáp. Câu chuyện theo chân Sora, một thanh niên mang thân phận bề ngoài là người hầu dưới quyền của tiểu thư Yuna. Thế nhưng, đằng sau vỏ bọc đó, Sora thực chất chính là Kamen Rider MY-TH, một chiến binh thầm lặng đã dành nhiều năm trời để săn đuổi và tiêu diệt lũ quái vật bí ẩn mang tên Fukashigi."
-    },
-    {
-        "name": "Thợ Săn Giác Thú Omegahorn",
-        "year": 2026,
-        "slug": "tho-san-giac-thu-omegahorn",
-        "thumb": "https://phimimg.com/uploads/movies/20260726/tho-san-giac-thu-omegahorn-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260726/tho-san-giac-thu-omegahorn-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 7",
-        "total_episodes": "12",
-        "country": "Nhật Bản",
-        "description": "Thời cổ đại, các Giác thú khổng lồ từng thống trị thế giới trước khi bị phong ấn vào các Egorgear và biến mất. Đến thời hiện đại, một nhóm người gọi là Thợ săn bắt đầu sử dụng Máy Khởi Giác để giải phóng sức mạnh của chúng. Tình cờ tìm thấy một Máy Khởi Giác kỳ lạ tên Omegahorn cùng một Egorgear cổ xưa, Shout đã đánh thức con thú khổng lồ có sừng mang tên Viêm Giác. Nhận ra tố chất của một vị vua trong cậu, Viêm Giác mời Shout làm Đội Trưởng Omegahorn, kề vai sát cánh chiến đấu cùng mình và trở thành Thợ Săn Giác Thú Omegahorn."
     },
     {
         "name": "Hiệp Sĩ Mặt Nạ ZEZTZ",
@@ -359,21 +371,5 @@
         "sub_type": "Vietsub + Lồng Tiếng",
         "current_episode": "Hoàn Tất (20/20)",
         "total_episodes": "20"
-    },
-    {
-        "name": "Nữ Thần Chính Nghĩa (Nữ Thần Công Lý)",
-        "year": 2026,
-        "slug": "nu-than-chinh-nghia-nu-than-cong-ly",
-        "thumb": "https://phimimg.com/upload/vod/20260418-1/ae1cea3cd7cc5ea36f5b49d4753fca33.jpg",
-        "actor": [
-            "Xa Thi Mạn",
-            "Đàm Diệu Văn",
-            "Hứa Thiệu Hùng",
-            "Trần Vỹ",
-            "Mã Quán Đông"
-        ],
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (25/25)",
-        "total_episodes": "25"
     }
 ]
