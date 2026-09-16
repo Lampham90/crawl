@@ -1,5 +1,17 @@
 [
     {
+        "name": "Thunder 3",
+        "year": 2026,
+        "slug": "thunder-3",
+        "thumb": "https://phimimg.com/uploads/movies/20260710/thunder-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260710/thunder-3-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 11",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Là những học sinh cấp hai bình thường đến mức không có gì nổi bật, Pyontaro, Hiroshi và Tsubame bỗng chốc bước chân vào một cuộc phiêu lưu phi thường khi cô em gái nhỏ của Pyontaro đột nhiên mất tích."
+    },
+    {
         "name": "Được Cứu Sống Nhờ Vòng Tay Lạnh Giá Của Hoàng Tử",
         "year": 2026,
         "slug": "duoc-cuu-song-nho-vong-tay-lanh-gia-cua-hoang-tu",
@@ -346,17 +358,5 @@
         "total_episodes": "13",
         "country": "Nhật Bản",
         "description": "Leon, người từng làm công nhân ở Nhật Bản, được chuyển sinh vào thế giới \"Otome\", và tuyệt vọng khi nhận ra quy luật của thế giới này- là nơi mà phụ nữ mới là những người nắm quyền. Đàn ông dường như chỉ là vật nuôi, phục vụ như những hòn đá tảng cho phụ nữ ở nơi đây.Ngoại lệ duy nhất là những mục tiêu trong trò chơi, một nhóm ikemen được dẫn đầu bởi thái tử điện hạ. Và trong tình huống quái dị này, Leon sở hữu một vũ khí bí mật. Đó chính là kí ức từ kiếp trước, khi mà đứa em gái trơ tráo bắt anh ta hoàn thành trò chơi này. Và Leon - Một người chỉ muốn sống một cách yên bình nơi chốn đồng quê, phải sử dụng những kiến thức ấy để chống lại phụ nữ và đám ikemen. Và đây là câu chuyện đầy bất ngờ trong việc đánh bại nữ chính độc ác ở thế giới Otome..."
-    },
-    {
-        "name": "Thunder 3",
-        "year": 2026,
-        "slug": "thunder-3",
-        "thumb": "https://phimimg.com/uploads/movies/20260710/thunder-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260710/thunder-3-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 10",
-        "total_episodes": "12",
-        "country": "Nhật Bản",
-        "description": "Là những học sinh cấp hai bình thường đến mức không có gì nổi bật, Pyontaro, Hiroshi và Tsubame bỗng chốc bước chân vào một cuộc phiêu lưu phi thường khi cô em gái nhỏ của Pyontaro đột nhiên mất tích."
     }
 ]
