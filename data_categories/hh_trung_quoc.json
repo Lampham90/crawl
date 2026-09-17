@@ -12,6 +12,18 @@
         "description": "Đây là một thế giới kỳ dị tồn tại song song với thế giới hiện thực, nơi người tham gia phải vượt qua những phó bản nguy hiểm, đối mặt với các nhiệm vụ sinh tử và những sinh vật siêu nhiên. Trong quá trình khám phá Linh Cảnh, Trương Nguyên Thanh từng bước thức tỉnh năng lực, trưởng thành qua những cuộc phiêu lưu và dần khám phá những bí mật ẩn giấu phía sau thế giới này."
     },
     {
+        "name": "Học Viện Cao Võ Đông Đại",
+        "year": 2026,
+        "slug": "hoc-vien-cao-vo-dong-dai",
+        "thumb": "https://phimimg.com/uploads/movies/20260718/hoc-vien-cao-vo-dong-dai-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260718/hoc-vien-cao-vo-dong-dai-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 10",
+        "total_episodes": "12",
+        "country": "Trung Quốc",
+        "description": "Vạn Vật Sinh là một thứ công pháp cổ xưa thần kỳ và bí ẩn hơn tất cả những hiểu biết của con người thời hiện đại ngày nay, nhưng bằng một cách thần bí nào đó mà nó lại được truyền thừa và tái hiện trong cơ thể của một thiếu niên thời hiện đại là Tần Vũ. Vốn Tần Vũ được chọn để làm người kế thừa bởi anh mang trong mình những thiên bẩm vô cùng to lớn, có thể dễ kể đến nhất chính là linh căn phế. Tham gia rèn luyện tại Học Viện Cao Võ Đông Đại, Tần Vũ đã nâng cao những sức mạnh thiên bẩm của mình và cùng với các chiến hữu liều mình xả thân chiến đấu cho lẽ phải, đánh đuổi yêu ma, tạo nên một thế giới yên bình sau những biến cố liên tiếp xảy đến."
+    },
+    {
         "name": "Sơn Hải Kinh: Thiết Lập Lại Trật Tự",
         "year": 2026,
         "slug": "son-hai-kinh-thiet-lap-lai-trat-tu",
@@ -142,18 +154,6 @@
         "total_episodes": "10",
         "country": "Pháp",
         "description": "Các đặc vụ Sam và Kit vi vu khắp thế giới cùng kỹ năng trinh thám, kiến thức khoa học và thiết bị hay ho để phá giải vô số bí ẩn của vương quốc động vật."
-    },
-    {
-        "name": "Học Viện Cao Võ Đông Đại",
-        "year": 2026,
-        "slug": "hoc-vien-cao-vo-dong-dai",
-        "thumb": "https://phimimg.com/uploads/movies/20260718/hoc-vien-cao-vo-dong-dai-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260718/hoc-vien-cao-vo-dong-dai-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "12",
-        "country": "Trung Quốc",
-        "description": "Vạn Vật Sinh là một thứ công pháp cổ xưa thần kỳ và bí ẩn hơn tất cả những hiểu biết của con người thời hiện đại ngày nay, nhưng bằng một cách thần bí nào đó mà nó lại được truyền thừa và tái hiện trong cơ thể của một thiếu niên thời hiện đại là Tần Vũ. Vốn Tần Vũ được chọn để làm người kế thừa bởi anh mang trong mình những thiên bẩm vô cùng to lớn, có thể dễ kể đến nhất chính là linh căn phế. Tham gia rèn luyện tại Học Viện Cao Võ Đông Đại, Tần Vũ đã nâng cao những sức mạnh thiên bẩm của mình và cùng với các chiến hữu liều mình xả thân chiến đấu cho lẽ phải, đánh đuổi yêu ma, tạo nên một thế giới yên bình sau những biến cố liên tiếp xảy đến."
     },
     {
         "name": "Học Viện Cao Võ Đông Đại (Phần 1)",

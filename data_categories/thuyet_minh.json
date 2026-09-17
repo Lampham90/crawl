@@ -1,5 +1,41 @@
 [
     {
+        "name": "Mối Quan Hệ Mập Mờ",
+        "year": 2025,
+        "slug": "moi-quan-he-map-mo",
+        "thumb": "https://phimimg.com/uploads/movies/20260917/moi-quan-he-map-mo-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260917/moi-quan-he-map-mo-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Hoàn Tất (7/7)",
+        "total_episodes": "7",
+        "country": "Nhật Bản",
+        "description": "Seri khao khát tình yêu nhưng vì quá khứ đau buồn nên luôn e ngại những mối quan hệ nghiêm túc. Một ngày nọ, Seri gặp Mahiro, người có quan điểm về tình yêu giống như cô. Họ nhất trí cùng nhau bước vào mối quan hệ hẹn hò với giao ước là không được phép nảy sinh tình cảm thật. Tuy nhiên, sau một thời gian quen biết, tình cảm mà Seri và Mahiro dành cho nhau ngày càng sâu đậm, buộc họ phải lựa chọn giữa việc tự bảo vệ mình trước rủi ro bị tổn thương hoặc dũng cảm nghe theo tiếng gọi của con tim."
+    },
+    {
+        "name": "Phát Súng Cuối Cùng (Phần 4)",
+        "year": 2026,
+        "slug": "phat-sung-cuoi-cung-phan-4",
+        "thumb": "https://phimimg.com/uploads/movies/20260817/phat-sung-cuoi-cung-phan-4-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260817/phat-sung-cuoi-cung-phan-4-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Jack Reacher 2022: Phát Súng Cuối Cùng, kể về câu chuyện của Jack Reacher, một cựu cảnh sát hình sự, bị vướng vào một âm mưu vu oan to lớn, được thực hiện bởi một nhóm cảnh sát, doanh nhân lẫn chính trị gia biến chất. Reacher và vợ sẽ phải làm gì để thoát khỏi âm mưu này, nhất là sau cái chết của người anh mình?"
+    },
+    {
+        "name": "Hồ Sơ Mật",
+        "year": 2025,
+        "slug": "ho-so-mat",
+        "thumb": "https://phimimg.com/uploads/movies/20260917/ho-so-mat-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260917/ho-so-mat-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Hoàn Tất (11/11)",
+        "total_episodes": "11",
+        "country": "Nhật Bản",
+        "description": "Chuyển thể từ bộ truyện tranh cùng tên, phim xoay quanh hành trình phá án của Tsuyoshi Maki và Ikko Aoki, hai thành viên thuộc Đội 9 của Viện Thí nghiệm Khoa học Pháp y. Tại đây, các điều tra viên sử dụng một công nghệ tiên tiến để tái hiện ký ức của người đã chết thành hình ảnh, từ đó lần theo manh mối và làm sáng tỏ những vụ án tưởng chừng như đã đi vào ngõ cụt. Là đội trưởng đội 9, Tsuyoshi dẫn dắt nhân viên mới Ikko, người có ngoại hình rất giống một đồng nghiệp đã qua đời của anh. Trong quá trình khám phá ký ức của nạn nhân để tìm ra sự thật, cả hai phải đối mặt với sự giằng xé nội tâm giữa sứ mệnh đi tìm công lý và sự tôn trọng quyền riêng tư của người đã khuất."
+    },
+    {
         "name": "Ừ Thì Ly Hôn!",
         "year": 2026,
         "slug": "u-thi-ly-hon",
@@ -252,18 +288,6 @@
         "description": "Kyung Hee, một influencer có gia đình kiểu mẫu và sự nghiệp đáng ngưỡng mộ. Nhưng khi phát hiện chồng mình che giấu một bí mật kinh hoàng, cô buộc phải cùng anh chôn vùi sự thật. Một tin nhắn nặc danh xuất hiện, kéo cả gia đình vào cơn ác mộng không lối thoát."
     },
     {
-        "name": "Phát Súng Cuối Cùng (Phần 4)",
-        "year": 2026,
-        "slug": "phat-sung-cuoi-cung-phan-4",
-        "thumb": "https://phimimg.com/uploads/movies/20260817/phat-sung-cuoi-cung-phan-4-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260817/phat-sung-cuoi-cung-phan-4-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 6",
-        "total_episodes": "8",
-        "country": "Âu Mỹ",
-        "description": "Jack Reacher 2022: Phát Súng Cuối Cùng, kể về câu chuyện của Jack Reacher, một cựu cảnh sát hình sự, bị vướng vào một âm mưu vu oan to lớn, được thực hiện bởi một nhóm cảnh sát, doanh nhân lẫn chính trị gia biến chất. Reacher và vợ sẽ phải làm gì để thoát khỏi âm mưu này, nhất là sau cái chết của người anh mình?"
-    },
-    {
         "name": "Giang Hồ Bangkok",
         "year": 2026,
         "slug": "giang-ho-bangkok",
@@ -334,29 +358,5 @@
         "total_episodes": "30",
         "country": "Trung Quốc",
         "description": "\"Cửu Môn\" kể câu chuyện Trường Sa xảy ra biến động, hai kì tài Trương Khải Sơn và Ngô Lão Cẩu cùng hợp lực, bắt tay với Hoắc Tiên Cô và các thành viên Cửu Môn cùng dấn thân vào mạo hiểm kỳ quái. Vụ biến mất bí ẩn của Đội 401 kéo theo bí mật kinh hoàng bị chôn vùi suốt trăm năm. Sự lựa chọn giữa sự sống và cái chết, tình nghĩa huynh đệ, trách nhiệm với môn phái và đại nghĩa với đất nước đan xen vào nhau. Các thành viên của Cửu Môn sẵn lòng hy sinh, hăng hái bảo vệ gia đình và đất nước, cùng nhau vượt qua khó khăn."
-    },
-    {
-        "name": "Ngự Đình Dao",
-        "year": 2026,
-        "slug": "ngu-dinh-dao",
-        "thumb": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260729/ngu-dinh-dao-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (32/32)",
-        "total_episodes": "32",
-        "country": "Trung Quốc",
-        "description": "Mạnh Đình Huy (Ngô Cẩn Ngôn) là nữ quan đầu tiên của triều Đại Ninh thi đỗ tam nguyên. Trên triều, nàng khôn khéo, tàn nhẫn, lọc lõi đủ đường, bị gán tiếng “gian thần” nhưng thực chất lại chỉ có một lý tưởng duy nhất: dốc hết tâm huyết để phò tá vị minh quân trẻ tuổi mà mình từng mang ơn. Thế nhưng, trên con đường đầy cạm bẫy của quyền lực, Mạnh Đình Huy không ngờ rằng tấm lòng nàng dốc lòng chôn giấu lại được hồi đáp bằng tình yêu sâu sắc. Anh Quả (Trần Triết Viễn), vị quân vương ẩn nhẫn, trị quốc bằng trí tuệ và sự điềm tĩnh, từng bước để lộ trái tim chỉ dành cho nàng. Chàng không giỏi lời hoa mỹ, nhưng mỗi hành động, mỗi ánh mắt đều là minh chứng cho một tình yêu lặng lẽ mà mãnh liệt."
-    },
-    {
-        "name": "Khi Ánh Sao Rơi Xuống Biển Hoa / Khi Ánh Sao Rơi",
-        "year": 2025,
-        "slug": "khi-anh-sao-roi-xuong-bien-hoa-khi-anh-sao-roi",
-        "thumb": "https://phimimg.com/upload/vod/20251012-1/1e5640bb3c7ec62cfc1a0beadfafbae4.jpg",
-        "poster": "https://phimimg.com/upload/vod/20251012-1/139c4d959952ab5a07f12c0743f99b8c.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (24/24)",
-        "total_episodes": "24",
-        "country": "Trung Quốc",
-        "description": "Cố Lưu Tô, nhà sáng lập một thương hiệu trang sức, là người mạnh mẽ quyết đoán trong công việc, đồng thời cũng nghiêm túc thận trọng trong cuộc sống thường ngày. Do phát sinh &quot;sự cố&quot;, cô bất ngờ trải qua tình một đêm với chàng &quot;thiếu gia&quot; Lục Tinh Thần cô mới chỉ gặp một lần, từ đó dẫn đến hiểu lầm nghiêm trọng! Tệ hơn là ngay sau đó Lục Tinh Thần được nhận vào công ty, trở thành thư ký thân cận của Cố Lưu Tô. Cặp đôi oan gia không thể ngờ rằng, người từng đối đầu gay gắt lại có thể dần thay đổi theo thời gian. Lục Tinh Thần nảy sinh lòng mến mộ không thể nói rõ với Cố Lưu Tô. Tài năng thiết kế của cậu cũng được một người tỉ mỉ kĩ tính như Cố Lưu Tô công nhận. Sự hòa hợp về tâm hồn khiến họ ngày càng say mê trong tỉnh táo, đắm chìm trong những phút giây bình yên mà rạo rực sóng ngầm."
     }
 ]

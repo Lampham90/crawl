@@ -1,5 +1,17 @@
 [
     {
+        "name": "NOUR",
+        "year": 2026,
+        "slug": "nour",
+        "thumb": "https://phimimg.com/uploads/movies/20260826/nour-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260826/nour-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
+    },
+    {
         "name": "Bóng Dưới Trăng",
         "year": 2026,
         "slug": "bong-duoi-trang",
@@ -214,18 +226,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Yothaka phát hiện chồng mình là Nat có quan hệ bất chính với Pam, nữ cấp trên của anh. Cuộc hôn nhân vốn đã rạn nứt càng trở nên phức tạp khi hai vợ chồng quyết định chuyển đến căn nhà cổ được thừa kế từ gia đình Nat và đối mặt với hàng loạt những hiện tượng kỳ lạ. Căn nhà tưởng như sẽ là nơi bắt đầu cuộc sống mới của Yothaka và Nat hóa ra lại ẩn chứa một quá khứ vô cùng đen tối. Oán Linh Dục Vọng là câu chuyện về tình yêu, sự phản bội, và cái giá đắt phải trả cho những lời nói dối trong quá khứ."
-    },
-    {
-        "name": "NOUR",
-        "year": 2026,
-        "slug": "nour",
-        "thumb": "https://phimimg.com/uploads/movies/20260826/nour-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260826/nour-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
     },
     {
         "name": "Luang Pho Trong Sạch",
