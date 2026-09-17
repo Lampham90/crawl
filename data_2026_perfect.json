@@ -183,6 +183,18 @@
     ],
     "anime_nhat": [
         {
+            "name": "Thunder 3",
+            "year": 2026,
+            "slug": "thunder-3",
+            "thumb": "https://phimimg.com/uploads/movies/20260710/thunder-3-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260710/thunder-3-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 11",
+            "total_episodes": "12",
+            "country": "Nhật Bản",
+            "description": "Là những học sinh cấp hai bình thường đến mức không có gì nổi bật, Pyontaro, Hiroshi và Tsubame bỗng chốc bước chân vào một cuộc phiêu lưu phi thường khi cô em gái nhỏ của Pyontaro đột nhiên mất tích."
+        },
+        {
             "name": "Vị Thánh Vô Tư Không Thể Kiềm Chế Sức Mạnh",
             "year": 2026,
             "slug": "vi-thanh-vo-tu-khong-the-kiem-che-suc-manh",
@@ -349,18 +361,6 @@
             "total_episodes": "12",
             "country": "Nhật Bản",
             "description": "Năm 2029, tại một Nhật Bản ở tương lai gần. Nữ chiến binh cyborg toàn phần Motoko Kusanagi đã hình dung ra một lực lượng đặc nhiệm chuyên tấn công phủ đầu các mối đe dọa mới nổi. Cô và các đồng đội của mình đã được Daisuke Aramaki chiêu mộ để thành lập Đội 9 Cục An ninh Công cộng, còn được biết đến với cái tên \"Biệt đội Vỏ bọc\" (Shell Squad). Một âm mưu quốc tế dần lộ diện, hướng về gã hacker bí ẩn được gọi là \"Kẻ Điều Khiển Rối\" (Puppet Master). Số phận nào đang đón đợi Kusanagi? Mục đích cuối cùng của gã hacker kia là gì? Một kỷ nguyên mới của thể loại hành động cyberpunk chính thức bắt đầu!"
-        },
-        {
-            "name": "Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác (Phần 2)",
-            "year": 2026,
-            "slug": "hiep-si-xuong-tren-duong-du-hanh-den-the-gioi-khac-phan-2",
-            "thumb": "https://phimimg.com/upload/vod/20260705-1/561c22e37143930082aa6b208bdc9ad9.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260705-1/0bfec379d64859044e30d3840776d173.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 11",
-            "total_episodes": "12",
-            "country": "Nhật Bản",
-            "description": "Một ngày nọ, một game thủ chơi game cho đến khi anh ta ngủ thiếp đi… và khi anh ta tỉnh dậy, anh ta thấy mình đang ở trong thế giới games – và nhập vào một bộ xương! Được trang bị vũ khí và áo giáp mạnh mẽ như avatar &nbsp;của mình nhưng bị mắc kẹt với ngoại hình bộ xương đáng sợ, Arc phải tìm một chỗ đứng cho mình trong vùng đất mới lạ này. Tất cả hy vọng của anh ta về một cuộc sống yên tĩnh bị tiêu tan khi anh ta vượt qua con đường với một chiến binh yêu tinh xinh đẹp, đưa anh ta vào một cuộc hành trình đầy máu và nước mắt."
         }
     ],
     "hh_trung_quoc": [
@@ -1281,7 +1281,7 @@
             "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 9",
+            "current_episode": "Tập 10",
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
@@ -2367,6 +2367,30 @@
     ],
     "bo_thai": [
         {
+            "name": "Trái tim của kẻ ký sinh",
+            "year": 2026,
+            "slug": "trai-tim-cua-ke-ky-sinh",
+            "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 3",
+            "total_episodes": "30",
+            "country": "Thái Lan",
+            "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
+        },
+        {
+            "name": "Chuyện Tình Đảo Thiên Đường",
+            "year": 2026,
+            "slug": "chuyen-tinh-dao-thien-duong",
+            "thumb": null,
+            "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 7",
+            "total_episodes": "17",
+            "country": "Thái Lan",
+            "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
+        },
+        {
             "name": "Hai Trái Tim",
             "year": 2026,
             "slug": "hai-trai-tim",
@@ -2437,18 +2461,6 @@
             "total_episodes": "10",
             "country": "Thái Lan",
             "description": "Một nữ cảnh sát Bangkok bản tính đa nghi đang ráo riết truy lùng một tên trùm buôn người có năng lực kháng đạn. Cô lặn lội đến vùng Phop Phra, tỉnh Tak để tìm một vị cao nhân nhờ rèn những viên đạn yểm phép. Thế nhưng khi đến nơi, cô phát hiện ra người mình cất công tìm kiếm lại chính là mối duyên tiền định - người đã dành trọn cả cuộc đời chỉ để chờ đợi ngày được đoàn tụ cùng tình yêu đích thực."
-        },
-        {
-            "name": "Trái tim của kẻ ký sinh",
-            "year": 2026,
-            "slug": "trai-tim-cua-ke-ky-sinh",
-            "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 1",
-            "total_episodes": "30",
-            "country": "Thái Lan",
-            "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
         },
         {
             "name": "Juliet và Juliet",
@@ -2533,18 +2545,6 @@
             "total_episodes": "8",
             "country": "Thái Lan",
             "description": "Câu chuyện bắt đầu khi Fourmod, một chàng trai17 tuổi đại diện cho thế hệ Gen Z trong lĩnh vực thời trang, tự tin và thích phiêu lưu, kết nối với Chien, một nhạc sĩ trung học phổ thông, thông qua việc làm móng gel. Chien, một chàng trai vui tính, thường trêu chọc Fourmod để thu hút sự chú ý của cậu. Nhưng ngay khi Fourmod thể hiện sự quan tâm, Chien lại lảng tránh, khiến Fourmod bối rối. Thực tế, Chien đang có Neon, một nam sinh cấp hai nổi tiếng, người chỉ là một trong những mối quan hệ thoáng qua của Chien.Cảm thấy bị thách thức, Fourmod tìm sự giúp đỡ từ người bạn thân Babin, một chàng trai tốt bụng nhưng tinh nghịch, để thu hút sự chú ý của Chien. Trong khi đó, Babin cũng cố gắng kết nối với Neon để giúp đỡ, nhưng hóa ra cả hai vô tình phát triển tình cảm với nhau. Điều này làm phức tạp mối quan hệ của cả bốn người, khiến mọi chuyện trở nên khó giải quyết hơn."
-        },
-        {
-            "name": "Điên Tình",
-            "year": 2026,
-            "slug": "dien-tinh-2026",
-            "thumb": "https://phimimg.com/uploads/movies/20260830/dien-tinh-2026-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260830/dien-tinh-2026-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "10",
-            "country": "Thái Lan",
-            "description": "Dean (William Jakrapatr) là một anh chàng hào hoa, thích tiệc tùng, tán tỉnh và kiên quyết không muốn bị ràng buộc trong một mối quan hệ lâu dài. Mọi chuyện bắt đầu rẽ hướng khi anh nhận lời giúp cậu bạn thân Ten (Barcode Tinnasit) để tiếp cận Pun (Kin Thanachai) – người mà Ten đang thầm thương trộm nhớ, nhưng ngặt nỗi Pun lại có tình cảm với Moth (Est Supha)."
         }
     ],
     "long_tieng": [
@@ -2731,6 +2731,18 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Ừ Thì Ly Hôn!",
+            "year": 2026,
+            "slug": "u-thi-ly-hon",
+            "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 10",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
+        },
+        {
             "name": "Phò Mã Tiểu Ngỗ Tác",
             "year": 2026,
             "slug": "pho-ma-tieu-ngo-tac",
@@ -2753,18 +2765,6 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Giữa chốn giang hồ mênh mông đầy máu lửa, đao kiếm vô tình, Hữu Thân Bất Phá, hoàng tử nước Thương, ra tay như sấm chớp, cứu mạng Giang Ly, đệ tử Thái Nhất Tông, trong khoảnh khắc sinh tử. Một người mang thân phận hoàng tộc, một kẻ xuất thân tông môn, vốn chẳng chung đường, vậy mà chỉ sau một trận đao kiếm, đã xem nhau như tri kỷ. Từ đó, hai người sóng vai bước vào Đại Hoang Nguyên, nơi luật lệ chỉ được viết bằng thép lạnh và máu tươi. Họ cải trang trà trộn vào thương đội, vượt qua thiên kiếp giáng xuống như trời phạt, bị mãnh thú rình rập giữa đêm tối, lại nhiều lần vung kiếm đối đầu bọn cường đạo hung tàn. Mỗi lần thoát chết, tình nghĩa càng thêm bền chặt. Một lần vì nghĩa mà ra tay cứu mỹ nhân, số phận hai người càng bị cuốn sâu vào vòng xoáy giang hồ."
-        },
-        {
-            "name": "Ừ Thì Ly Hôn!",
-            "year": 2026,
-            "slug": "u-thi-ly-hon",
-            "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 9",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
         },
         {
             "name": "Hiện Trường Săn Án",
@@ -2943,7 +2943,7 @@
             "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 9",
+            "current_episode": "Tập 10",
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
