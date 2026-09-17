@@ -1,5 +1,29 @@
 [
     {
+        "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
+        "year": 2026,
+        "slug": "huan-luyen-vien-ted-lasso-phan-4",
+        "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
+    },
+    {
+        "name": "Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1)",
+        "year": 2026,
+        "slug": "cau-be-mat-tich-chuyen-nam-85-phan-1",
+        "thumb": "https://phimimg.com/upload/vod/20260428-1/b13c9349c92630c22e6d5b14c42882fd.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260428-1/420d39137d52c9438683e550bd8fd629.jpg",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Mùa đông. Hawkins. 1985. Chào mừng trở lại thị trấn đầy bí mật, nơi hội bạn thân quen đối mặt với loạt bí ẩn mới... và một giống loài kỳ dị hoàn toàn mới."
+    },
+    {
         "name": "Cuộc Gọi Khẩn Cấp 9-1-1 (Phần 9",
         "year": 2025,
         "slug": "cuoc-goi-khan-cap-9-1-1-phan-9",
@@ -106,18 +130,6 @@
         "total_episodes": "8",
         "country": "Âu Mỹ",
         "description": "Alix Earle — biểu tượng \"It Girl\" hàng đầu của Thế hệ Z — sẽ mang đến những góc nhìn chân thực, không kịch bản và không lọc chỉnh trong series thực tế hậu trường xoay quanh cuộc sống cá nhân cùng gia đình đa dạng, đầy màu sắc của cô."
-    },
-    {
-        "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
-        "year": 2026,
-        "slug": "huan-luyen-vien-ted-lasso-phan-4",
-        "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
     },
     {
         "name": "Quý Ông Thế Giới Ngầm (Phần 2)",
@@ -346,17 +358,5 @@
         "total_episodes": "5",
         "country": "Anh",
         "description": "Sau vụ sát hại dã man hai cảnh sát, một thanh tra ngoan cường bất đắc dĩ hợp tác cùng người cha cựu cảnh sát đã xa cách bấy lâu để truy lùng hung thủ."
-    },
-    {
-        "name": "Star Trek: Những Miền Đất Mới (Phần 4)",
-        "year": 2026,
-        "slug": "star-trek-nhung-mien-dat-moi-phan-4",
-        "thumb": "https://phimimg.com/uploads/movies/20260816/star-trek-nhung-mien-dat-moi-phan-4-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260816/star-trek-nhung-mien-dat-moi-phan-4-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Là phần tiền truyện của bộ phim gốc của Star Trek, bộ phim Star Trek: Strange New Worlds này sẽ theo chân phi hành đoàn của tàu USS Enterprise dưới sự chỉ huy của Thuyền trưởng Christopher Pike."
     }
 ]
