@@ -1,5 +1,41 @@
 [
     {
+        "name": "Trái tim của kẻ ký sinh",
+        "year": 2026,
+        "slug": "trai-tim-cua-ke-ky-sinh",
+        "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
+    },
+    {
+        "name": "Người Yêu Xui Xẻo",
+        "year": 2026,
+        "slug": "nguoi-yeu-xui-xeo",
+        "thumb": "https://phimimg.com/uploads/movies/20260808/nguoi-yeu-xui-xeo-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260808/nguoi-yeu-xui-xeo-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Bị phản bội, Rin gieo lời nguyền để trả thù tình cũ. Nhưng khi lời nguyền ứng nghiệm lên người bạn cùng lớp, cậu phải tìm cách hóa giải mà không để lộ dòng dõi bí mật của mình."
+    },
+    {
+        "name": "Chuyện Tình Đảo Thiên Đường",
+        "year": 2026,
+        "slug": "chuyen-tinh-dao-thien-duong",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 8",
+        "total_episodes": "17",
+        "country": "Thái Lan",
+        "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
+    },
+    {
         "name": "Oán Linh Dục Vọng",
         "year": 2026,
         "slug": "oan-linh-duc-vong",
@@ -34,30 +70,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
-    },
-    {
-        "name": "Trái tim của kẻ ký sinh",
-        "year": 2026,
-        "slug": "trai-tim-cua-ke-ky-sinh",
-        "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
-    },
-    {
-        "name": "Chuyện Tình Đảo Thiên Đường",
-        "year": 2026,
-        "slug": "chuyen-tinh-dao-thien-duong",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
-        "total_episodes": "17",
-        "country": "Thái Lan",
-        "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
     },
     {
         "name": "Hai Trái Tim",
@@ -262,18 +274,6 @@
         "total_episodes": "12",
         "country": "Thái Lan",
         "description": "Một cầu thủ bóng đá kết bạn với một thực thể ban điều ước đầy bí ẩn, nhưng những món quà nguy hiểm từ thực thể này lại che giấu những bí mật đen tối, vô tình kéo hai người lại gần nhau hơn."
-    },
-    {
-        "name": "Người Yêu Xui Xẻo",
-        "year": 2026,
-        "slug": "nguoi-yeu-xui-xeo",
-        "thumb": "https://phimimg.com/uploads/movies/20260808/nguoi-yeu-xui-xeo-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260808/nguoi-yeu-xui-xeo-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Bị phản bội, Rin gieo lời nguyền để trả thù tình cũ. Nhưng khi lời nguyền ứng nghiệm lên người bạn cùng lớp, cậu phải tìm cách hóa giải mà không để lộ dòng dõi bí mật của mình."
     },
     {
         "name": "Hãy Là Người Chơi Thứ Hai Của Tôi / Hãy Làm Người Chơi Số Hai Của Anh (Bản Uncut)",

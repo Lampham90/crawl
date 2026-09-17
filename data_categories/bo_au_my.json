@@ -1,5 +1,41 @@
 [
     {
+        "name": "Quái Vật: Câu Chuyện Về Lizzie Borden",
+        "year": 2026,
+        "slug": "quai-vat-cau-chuyen-ve-lizzie-borden",
+        "thumb": "https://phimimg.com/uploads/movies/20260917/quai-vat-cau-chuyen-ve-lizzie-borden-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260917/quai-vat-cau-chuyen-ve-lizzie-borden-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Bị người mẹ kế chua ngoa dày vò, Lizzie Borden bỗng thấy một chân trời mới khi một cô hầu gái không theo khuôn phép và đầy khiêu khích vào làm trong nhà."
+    },
+    {
+        "name": "Xác Sống: Thành Phố Chết (Phần 3)",
+        "year": 2026,
+        "slug": "xac-song-thanh-pho-chet-phan-3",
+        "thumb": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-3-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Maggie và Negan du hành đến Manhattan hậu tận thế, nơi từ lâu đã bị cắt đứt khỏi đất liền. Thành phố này đầy những người chết và cư dân ở đây đã biến New York thành thế giới của riêng họ."
+    },
+    {
+        "name": "Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 2)",
+        "year": 2026,
+        "slug": "cau-be-mat-tich-chuyen-nam-85-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20260917/cau-be-mat-tich-chuyen-nam-85-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260917/cau-be-mat-tich-chuyen-nam-85-phan-2-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Mùa đông. Hawkins. 1985. Chào mừng trở lại thị trấn đầy bí mật, nơi hội bạn thân quen đối mặt với loạt bí ẩn mới... và một giống loài kỳ dị hoàn toàn mới."
+    },
+    {
         "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
         "year": 2026,
         "slug": "huan-luyen-vien-ted-lasso-phan-4",
@@ -288,18 +324,6 @@
         "description": "Khi chồng bỏ cô để đi theo người phụ nữ khác, người mẹ miền Nam kiên cường nọ bắt đầu làm lại cuộc đời với sự ủng hộ của gia đình yêu thương nhưng cũng rất thẳng thắn."
     },
     {
-        "name": "Xác Sống: Thành Phố Chết (Phần 3)",
-        "year": 2026,
-        "slug": "xac-song-thanh-pho-chet-phan-3",
-        "thumb": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-3-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "8",
-        "country": "Âu Mỹ",
-        "description": "Maggie và Negan du hành đến Manhattan hậu tận thế, nơi từ lâu đã bị cắt đứt khỏi đất liền. Thành phố này đầy những người chết và cư dân ở đây đã biến New York thành thế giới của riêng họ."
-    },
-    {
         "name": "Cái Chết Của Vợ Người Mục Sư",
         "year": 2026,
         "slug": "cai-chet-cua-vo-nguoi-muc-su",
@@ -334,29 +358,5 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Season 9 tiếp tục sau các sự kiện lớn liên quan đến Evil Morty và sự sụp đổ của Citadel. Khác với một số mùa gần đây thiên về các tập độc lập, mùa này quay trở lại với một cốt truyện xuyên suốt về đa vũ trụ và mối quan hệ phức tạp giữa Rick, Morty và Evil Morty."
-    },
-    {
-        "name": "Bí Mật Bị Vùi Lấp (Phần 5)",
-        "year": 2026,
-        "slug": "bi-mat-bi-vui-lap-phan-5",
-        "thumb": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-5-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260822/bi-mat-bi-vui-lap-phan-5-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Trên hòn đảo mà kẻ thì giàu có, người lại nghèo khó ở Bắc Carolina, John B và hội bạn thân khám phá bí ẩn và phiêu lưu trong khi truy tìm kho báu mất tích."
-    },
-    {
-        "name": "Cuộc Hiến Tế Bằng Máu",
-        "year": 2026,
-        "slug": "cuoc-hien-te-bang-mau",
-        "thumb": "https://phimimg.com/uploads/movies/20260822/cuoc-hien-te-bang-mau-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260822/cuoc-hien-te-bang-mau-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (5/5)",
-        "total_episodes": "5",
-        "country": "Anh",
-        "description": "Sau vụ sát hại dã man hai cảnh sát, một thanh tra ngoan cường bất đắc dĩ hợp tác cùng người cha cựu cảnh sát đã xa cách bấy lâu để truy lùng hung thủ."
     }
 ]
