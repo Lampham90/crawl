@@ -1,8 +1,20 @@
 [
     {
-        "name": "Vụ bê bối",
+        "name": "Đối Chứng",
         "year": 2026,
-        "slug": "vu-be-boi",
+        "slug": "doi-chung",
+        "thumb": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260907/doi-chung-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 10",
+        "total_episodes": "25",
+        "country": "Hồng Kông",
+        "description": "Đối Chứng theo chân quá trình trưởng thành trong sự nghiệp của Trình Chỉ Hân, một nữ bác sĩ pháp y mới vào nghề. Được điều động đến làm việc dưới trướng ân nhân Lâm Sâm, Chỉ Hân luôn cố gắng vượt qua mọi khó khăn để được công nhận thực lực. Sau khi giúp cảnh sát tổ trọng án Cao Tuấn thoát khỏi cáo buộc giết người, cô lại càng được đồng nghiệp và cấp trên tin tưởng. Cũng từ đó, Chỉ Hân cùng Lâm Sâm và Cao Tuấn trở thành một bộ ba ăn ý, hỗ trợ nhau phá giải nhiều vụ án bí ẩn."
+    },
+    {
+        "name": "Vụ Bê Bối Thời Joseon / Bê Bối Triều Đại",
+        "year": 2026,
+        "slug": "vu-be-boi-thoi-joseon-be-boi-trieu-dai",
         "thumb": "https://phimimg.com/uploads/movies/20260918/vu-be-boi-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260918/vu-be-boi-poster.webp",
         "sub_type": "Lồng Tiếng",
@@ -34,18 +46,6 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Mùa đông. Hawkins. 1985. Chào mừng trở lại thị trấn đầy bí mật, nơi hội bạn thân quen đối mặt với loạt bí ẩn mới... và một giống loài kỳ dị hoàn toàn mới."
-    },
-    {
-        "name": "Đối Chứng",
-        "year": 2026,
-        "slug": "doi-chung",
-        "thumb": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260907/doi-chung-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 9",
-        "total_episodes": "25",
-        "country": "Hồng Kông",
-        "description": "Đối Chứng theo chân quá trình trưởng thành trong sự nghiệp của Trình Chỉ Hân, một nữ bác sĩ pháp y mới vào nghề. Được điều động đến làm việc dưới trướng ân nhân Lâm Sâm, Chỉ Hân luôn cố gắng vượt qua mọi khó khăn để được công nhận thực lực. Sau khi giúp cảnh sát tổ trọng án Cao Tuấn thoát khỏi cáo buộc giết người, cô lại càng được đồng nghiệp và cấp trên tin tưởng. Cũng từ đó, Chỉ Hân cùng Lâm Sâm và Cao Tuấn trở thành một bộ ba ăn ý, hỗ trợ nhau phá giải nhiều vụ án bí ẩn."
     },
     {
         "name": "Hiệp Sĩ Mặt Nạ MY-TH",
@@ -142,6 +142,18 @@
         "total_episodes": "50",
         "country": "Nhật Bản",
         "description": "Kamen Rider Zeztz xoay quanh một người hùng có năng lực điều khiển giấc mơ. Ban ngày, Yorozu Baku là một anh chàng thất nghiệp sống cùng em gái, nhưng đến đêm, anh lại trở thành một Kamen Rider bất khả chiến bại có khả năng xâm nhập vào giấc mơ của người khác. Khi một thế lực đen tối bắt đầu làm tổ trong giấc mơ của con người để rồi từ đó dần dần xâm lấn thế giới thực, Baku chính là người duy nhất có thể chiến đấu trong mơ để bảo vệ nhân loại và giấc ngủ của họ."
+    },
+    {
+        "name": "Vụ bê bối",
+        "year": 2026,
+        "slug": "vu-be-boi",
+        "thumb": "https://phimimg.com/uploads/movies/20260918/vu-be-boi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260918/vu-be-boi-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Hàn Quốc",
+        "description": "Thời Joseon, một đề nghị bí mật thổi bùng khát khao thầm kín, kéo một nữ quý tộc tài hoa, một tay phong tình nổi tiếng và một quý cô chẳng mảy may nghi ngờ vào cuộc chơi nguy hiểm."
     },
     {
         "name": "Bí Mật Bị Vùi Lấp (Phần 5)",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Âu Mỹ",
         "description": "Từ những căn phòng bí mật cho đến những trò đùa tai quái và các thử thách điên rồ, anh em nhà Stokes biến những điều không thể thành hiện thực trong tập phim tổng hợp chuỗi video được xem nhiều nhất của họ."
-    },
-    {
-        "name": "Lời nguyền Đông Cung",
-        "year": 2026,
-        "slug": "loi-nguyen-dong-cung",
-        "thumb": "https://phimimg.com/uploads/movies/20260718/loi-nguyen-dong-cung-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260718/loi-nguyen-dong-cung-phan-1-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Hàn Quốc",
-        "description": "Một nam nhân có thể bước vào thế giới linh hồn và một cung nữ có thể nghe thấy người chết đến Đông Cung theo lệnh vua. Liệu họ có thể vén màn những bí mật đen tối ở đây?"
     }
 ]

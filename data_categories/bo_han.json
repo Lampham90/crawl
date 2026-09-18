@@ -1,8 +1,20 @@
 [
     {
-        "name": "Vụ bê bối",
+        "name": "Hương Vị Của Biển (Mùa 3)",
         "year": 2026,
-        "slug": "vu-be-boi",
+        "slug": "huong-vi-cua-bien-mua-3",
+        "thumb": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 8",
+        "total_episodes": "11",
+        "country": "Hàn Quốc",
+        "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
+    },
+    {
+        "name": "Vụ Bê Bối Thời Joseon / Bê Bối Triều Đại",
+        "year": 2026,
+        "slug": "vu-be-boi-thoi-joseon-be-boi-trieu-dai",
         "thumb": "https://phimimg.com/uploads/movies/20260918/vu-be-boi-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260918/vu-be-boi-poster.webp",
         "sub_type": "Lồng Tiếng",
@@ -180,18 +192,6 @@
         "description": "Những chiến binh đường phố ra trận ở một đẳng cấp mới: Trận đại chiến của dàn biên đạo hàng đầu Hàn Quốc hứa hẹn mang đến những sân khấu bùng nổ và rực rỡ nhất từ trước đến nay."
     },
     {
-        "name": "Hương Vị Của Biển (Mùa 3)",
-        "year": 2026,
-        "slug": "huong-vi-cua-bien-mua-3",
-        "thumb": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
-        "total_episodes": "11",
-        "country": "Hàn Quốc",
-        "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
-    },
-    {
         "name": "Cớ Gì Lại Đi Leo Núi?",
         "year": 2026,
         "slug": "co-gi-lai-di-leo-nui",
@@ -276,6 +276,18 @@
         "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
     },
     {
+        "name": "Vụ bê bối",
+        "year": 2026,
+        "slug": "vu-be-boi",
+        "thumb": "https://phimimg.com/uploads/movies/20260918/vu-be-boi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260918/vu-be-boi-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Hàn Quốc",
+        "description": "Thời Joseon, một đề nghị bí mật thổi bùng khát khao thầm kín, kéo một nữ quý tộc tài hoa, một tay phong tình nổi tiếng và một quý cô chẳng mảy may nghi ngờ vào cuộc chơi nguy hiểm."
+    },
+    {
         "name": "Play Me: Buổi Diễn Tập Của Chúng Ta",
         "year": 2026,
         "slug": "play-me-buoi-dien-tap-cua-chung-ta",
@@ -341,18 +353,6 @@
         "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-8",
         "thumb": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-8-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-8-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (13/13)",
-        "total_episodes": "13",
-        "country": "Pháp",
-        "description": "Marinette và Adrien — hai thiếu niên sống tại Paris — được trao ban những viên bảo ngọc đầy quyền năng để biến hình thành các siêu anh hùng Ladybug (Bọ Rùa) và Cat Noir (Mèo Đen). Thế nhưng, không một ai trong hai người biết được danh tính thực sự của đối phương — hay thậm chí là cả việc họ chính là bạn cùng lớp của nhau!"
-    },
-    {
-        "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 7)",
-        "year": 2026,
-        "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-7",
-        "thumb": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-7-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-7-poster.webp",
         "sub_type": "Vietsub",
         "current_episode": "Hoàn Tất (13/13)",
         "total_episodes": "13",
