@@ -1,5 +1,17 @@
 [
     {
+        "name": "Tình Yêu Trên Thực Đơn",
+        "year": 2026,
+        "slug": "tinh-yeu-tren-thuc-don",
+        "thumb": "https://phimimg.com/uploads/movies/20260918/tinh-yeu-tren-thuc-don-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260918/tinh-yeu-tren-thuc-don-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 8",
+        "total_episodes": "50",
+        "country": "Hàn Quốc",
+        "description": "Một cặp đôi từng yêu nhau rồi chia tay. 8 năm sau, anh trở thành đầu bếp nổi tiếng và gặp lại cô. Tình cũ dần trở lại nhưng cả hai phải đối mặt với nhiều rắc rối từ gia đình."
+    },
+    {
         "name": "Ngày Hè",
         "year": 2026,
         "slug": "ngay-he",
@@ -346,17 +358,5 @@
         "total_episodes": "27",
         "country": "Pháp",
         "description": "Marinette và Adrien — hai thiếu niên sống tại Paris — được trao ban những viên bảo ngọc đầy quyền năng để biến hình thành các siêu anh hùng Ladybug (Bọ Rùa) và Cat Noir (Mèo Đen). Thế nhưng, không một ai trong hai người biết được danh tính thực sự của đối phương — hay thậm chí là cả việc họ chính là bạn cùng lớp của nhau!"
-    },
-    {
-        "name": "Muộn Còn Hơn Ế (Phần 2)",
-        "year": 2026,
-        "slug": "muon-con-hon-e-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260712/muon-con-hon-e-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260712/muon-con-hon-e-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Hàn Quốc",
-        "description": "Sẵn sàng hẹn hò, những người độc thân lâu năm sẽ được chuyên gia giúp đỡ về phong cách, sức khỏe và sự tự tin."
     }
 ]
