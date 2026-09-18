@@ -1,5 +1,17 @@
 [
     {
+        "name": "Vụ bê bối",
+        "year": 2026,
+        "slug": "vu-be-boi",
+        "thumb": "https://phimimg.com/uploads/movies/20260918/vu-be-boi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260918/vu-be-boi-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Hàn Quốc",
+        "description": "Thời Joseon, một đề nghị bí mật thổi bùng khát khao thầm kín, kéo một nữ quý tộc tài hoa, một tay phong tình nổi tiếng và một quý cô chẳng mảy may nghi ngờ vào cuộc chơi nguy hiểm."
+    },
+    {
         "name": "Tình Yêu Trên Thực Đơn",
         "year": 2026,
         "slug": "tinh-yeu-tren-thuc-don",
@@ -344,18 +356,6 @@
         "sub_type": "Vietsub",
         "current_episode": "Hoàn Tất (13/13)",
         "total_episodes": "13",
-        "country": "Pháp",
-        "description": "Marinette và Adrien — hai thiếu niên sống tại Paris — được trao ban những viên bảo ngọc đầy quyền năng để biến hình thành các siêu anh hùng Ladybug (Bọ Rùa) và Cat Noir (Mèo Đen). Thế nhưng, không một ai trong hai người biết được danh tính thực sự của đối phương — hay thậm chí là cả việc họ chính là bạn cùng lớp của nhau!"
-    },
-    {
-        "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 6)",
-        "year": 2025,
-        "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-6",
-        "thumb": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-6-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-6-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (27/27)",
-        "total_episodes": "27",
         "country": "Pháp",
         "description": "Marinette và Adrien — hai thiếu niên sống tại Paris — được trao ban những viên bảo ngọc đầy quyền năng để biến hình thành các siêu anh hùng Ladybug (Bọ Rùa) và Cat Noir (Mèo Đen). Thế nhưng, không một ai trong hai người biết được danh tính thực sự của đối phương — hay thậm chí là cả việc họ chính là bạn cùng lớp của nhau!"
     }

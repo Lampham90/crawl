@@ -1,5 +1,17 @@
 [
     {
+        "name": "Vụ bê bối",
+        "year": 2026,
+        "slug": "vu-be-boi",
+        "thumb": "https://phimimg.com/uploads/movies/20260918/vu-be-boi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260918/vu-be-boi-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Hàn Quốc",
+        "description": "Thời Joseon, một đề nghị bí mật thổi bùng khát khao thầm kín, kéo một nữ quý tộc tài hoa, một tay phong tình nổi tiếng và một quý cô chẳng mảy may nghi ngờ vào cuộc chơi nguy hiểm."
+    },
+    {
         "name": "Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 2)",
         "year": 2026,
         "slug": "cau-be-mat-tich-chuyen-nam-85-phan-2",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Hàn Quốc",
         "description": "Một nam nhân có thể bước vào thế giới linh hồn và một cung nữ có thể nghe thấy người chết đến Đông Cung theo lệnh vua. Liệu họ có thể vén màn những bí mật đen tối ở đây?"
-    },
-    {
-        "name": "Chiếc Vòng Kỳ Ảo (Lự Kính / Bộ Lọc)",
-        "year": 2025,
-        "slug": "chiec-vong-ky-ao-lu-kinh-bo-loc",
-        "thumb": "https://phimimg.com/upload/vod/20250226-1/377167fde75949fee8aadcf30b271ac8.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250226-1/aa82c41fd81dba6a3c71a7cd95c0d411.jpg",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (32/32)",
-        "total_episodes": "32",
-        "country": "Trung Quốc",
-        "description": "Một sản phẩm công nghệ mới mang tên “vòng tay filter” đã khiến cho cô gái bình thường Tô Tranh Tranh có năng lực thay đổi diện mạo. Nhờ đó, cô biến thành cô gái xinh đẹp &quot;Tô Diểu&quot;, nữ tiến sĩ thông minh &quot;Phương Cẩn&quot;, chàng trai điển trai như bước ra từ truyện tranh &quot;Toàn Thắng Đường&quot;. Việc này không những khiến cô tận hưởng niềm vui khi lật ngược tình thế mà cô còn giúp đỡ những người yếu thế, thực thi công lý. Cùng lúc đó, Đường Kỳ rung động trước sự dũng cảm của Tô Diểu, đồng điệu với tư duy của Phương Cẩn, tán thưởng sự rạng rỡ, đẹp trai của Toàn Thắng Đường. Để giữ bí mật, Tô Tranh Tranh buộc phải nói dối hết lần này đến lần khác, khiến Đường Kỳ liên tục đánh mất người mình yêu. Trải qua những cú sốc dồn dập, bệnh về mắt của Đường Kỳ ngày càng nghiêm trọng khiến Tô Tranh Tranh chột dạ và áy náy khôn nguôi."
     }
 ]
