@@ -1,15 +1,39 @@
 [
     {
-        "name": "Tài phiệt và Cảnh sát (Phần 2)",
+        "name": "Ừ Thì Ly Hôn!",
         "year": 2026,
-        "slug": "tai-phiet-va-canh-sat-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-poster.webp",
+        "slug": "u-thi-ly-hon",
+        "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
         "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 13",
-        "total_episodes": "14",
+        "current_episode": "Tập 10",
+        "total_episodes": "12",
         "country": "Hàn Quốc",
-        "description": "Sau Season 1, Yi-soo đã thực sự nhận ra mình muốn trở thành một cảnh sát, chứ không còn xem công việc này như trò chơi của một thiếu gia. Anh hoàn thành khóa đào tạo chính thức tại Học viện Cảnh sát, sau đó quay trở lại Đội Trọng án 1. Lần này, Yi-soo đã trưởng thành và chuyên nghiệp hơn, nhưng vẫn giữ phong cách điều tra rất đặc biệt: khi cảnh sát gặp bế tắc, anh có thể dùng tiền bạc, các mối quan hệ và nguồn lực khổng lồ của gia đình tài phiệt để mở ra những hướng điều tra mà người bình thường không thể tiếp cận."
+        "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
+    },
+    {
+        "name": "Chiến Binh Đường Phố: Đại Chiến Biên Đạo",
+        "year": 2026,
+        "slug": "chien-binh-duong-pho-dai-chien-bien-dao",
+        "thumb": "https://phimimg.com/uploads/movies/20260905/chien-binh-duong-pho-dai-chien-bien-dao-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260905/chien-binh-duong-pho-dai-chien-bien-dao-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "13",
+        "country": "Hàn Quốc",
+        "description": "Những chiến binh đường phố ra trận ở một đẳng cấp mới: Trận đại chiến của dàn biên đạo hàng đầu Hàn Quốc hứa hẹn mang đến những sân khấu bùng nổ và rực rỡ nhất từ trước đến nay."
+    },
+    {
+        "name": "Seoul Unnie",
+        "year": 2026,
+        "slug": "seoul-unnie",
+        "thumb": "https://phimimg.com/uploads/movies/20260905/seoul-unnie-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260905/seoul-unnie-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (3/3)",
+        "total_episodes": "3",
+        "country": "Hàn Quốc",
+        "description": "Chương trình đưa khán giả dạo quanh Seoul, khám phá những xu hướng thời thượng cùng \"Phù thủy make-up\" Pony và minh tinh Jung Ye In, cựu thành viên nhóm nhạc nữ Lovelyz. Đặc biệt, Thanh Mèo và Trương Nhã Dinh đến từ Việt Nam cũng đồng hành chia sẻ những bí kíp làm đẹp xuyên biên giới."
     },
     {
         "name": "Hương Vị Của Biển (Mùa 3)",
@@ -22,6 +46,18 @@
         "total_episodes": "11",
         "country": "Hàn Quốc",
         "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
+    },
+    {
+        "name": "Tài phiệt và Cảnh sát (Phần 2)",
+        "year": 2026,
+        "slug": "tai-phiet-va-canh-sat-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 13",
+        "total_episodes": "14",
+        "country": "Hàn Quốc",
+        "description": "Sau Season 1, Yi-soo đã thực sự nhận ra mình muốn trở thành một cảnh sát, chứ không còn xem công việc này như trò chơi của một thiếu gia. Anh hoàn thành khóa đào tạo chính thức tại Học viện Cảnh sát, sau đó quay trở lại Đội Trọng án 1. Lần này, Yi-soo đã trưởng thành và chuyên nghiệp hơn, nhưng vẫn giữ phong cách điều tra rất đặc biệt: khi cảnh sát gặp bế tắc, anh có thể dùng tiền bạc, các mối quan hệ và nguồn lực khổng lồ của gia đình tài phiệt để mở ra những hướng điều tra mà người bình thường không thể tiếp cận."
     },
     {
         "name": "Vụ Bê Bối Thời Joseon / Bê Bối Triều Đại",
@@ -58,18 +94,6 @@
         "total_episodes": "10",
         "country": "Hàn Quốc",
         "description": "Yeo Eun Ho và Cha Do Hyeon là đôi bạn thân suốt 19 năm, nhưng Eun Ho không hề biết Do Hyeon luôn thầm yêu mình một cách mãnh liệt. Kế hoạch dần chiếm lấy trái tim bạn thân của Do Hyeon bị xáo trộn bởi sự xuất hiện của học sinh mới Kwon Yi Hyeon, buộc cậu phải tìm cách giữ Eun Ho ở bên cạnh mình."
-    },
-    {
-        "name": "Ừ Thì Ly Hôn!",
-        "year": 2026,
-        "slug": "u-thi-ly-hon",
-        "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 10",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
     },
     {
         "name": "Trúng Số Độc Đắc Vẫn Phải Đi Làm",
@@ -166,30 +190,6 @@
         "total_episodes": "14",
         "country": "Hàn Quốc",
         "description": "Yoo Bo Na có một cuộc sống tưởng chừng bình thường bên chồng con và công việc quản lý bán hàng. Nhưng đằng sau vẻ ngoài của một người vợ, người mẹ mẫu mực, cô lại là “Kingfisher” – nữ sát thủ bắn tỉa khét tiếng chuyên xử lý những kẻ phạm tội thoát khỏi sự trừng phạt của pháp luật. Sau ba năm tạm rời nghề để sinh con, Bo Na buộc phải tái xuất và bước vào cuộc sống hai mặt đầy nguy hiểm. Trong lúc cố gắng giữ kín thân phận, cô không ngờ người chồng làm nghề phóng viên lại ngày càng tiến gần đến bí mật của mình."
-    },
-    {
-        "name": "Seoul Unnie",
-        "year": 2026,
-        "slug": "seoul-unnie",
-        "thumb": "https://phimimg.com/uploads/movies/20260905/seoul-unnie-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260905/seoul-unnie-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "3",
-        "country": "Hàn Quốc",
-        "description": "Chương trình đưa khán giả dạo quanh Seoul, khám phá những xu hướng thời thượng cùng \"Phù thủy make-up\" Pony và minh tinh Jung Ye In, cựu thành viên nhóm nhạc nữ Lovelyz. Đặc biệt, Thanh Mèo và Trương Nhã Dinh đến từ Việt Nam cũng đồng hành chia sẻ những bí kíp làm đẹp xuyên biên giới."
-    },
-    {
-        "name": "Chiến Binh Đường Phố: Đại Chiến Biên Đạo",
-        "year": 2026,
-        "slug": "chien-binh-duong-pho-dai-chien-bien-dao",
-        "thumb": "https://phimimg.com/uploads/movies/20260905/chien-binh-duong-pho-dai-chien-bien-dao-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260905/chien-binh-duong-pho-dai-chien-bien-dao-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "13",
-        "country": "Hàn Quốc",
-        "description": "Những chiến binh đường phố ra trận ở một đẳng cấp mới: Trận đại chiến của dàn biên đạo hàng đầu Hàn Quốc hứa hẹn mang đến những sân khấu bùng nổ và rực rỡ nhất từ trước đến nay."
     },
     {
         "name": "Cớ Gì Lại Đi Leo Núi?",

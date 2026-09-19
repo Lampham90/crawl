@@ -1,5 +1,17 @@
 [
     {
+        "name": "Hope: Vùng Tử Địa",
+        "year": 2026,
+        "slug": "hope-vung-tu-dia",
+        "thumb": "https://phimimg.com/uploads/movies/20260919/hope-vung-tu-dia-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260919/hope-vung-tu-dia-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Hàn Quốc",
+        "description": "Tại Hope Harbor, một ngôi làng hẻo lánh nằm gần khu vực phi quân sự, cảnh sát trưởng Bum-seok đã nhận được tin báo khẩn cấp từ người dân địa phương về sự xuất hiện của một con hổ. Khi cả ngôi làng chìm trong hoảng loạn, Bum-seok ngỡ ngàng khi phát hiện một sự thật nằm ngoài sức tưởng tượng của con người."
+    },
+    {
         "name": "Ma Tù",
         "year": 2026,
         "slug": "ma-tu",
@@ -317,17 +329,6 @@
         "slug": "trung-gian-gioi",
         "thumb": "https://phimimg.com/upload/vod/20260105-1/5a072eda7c5097f3d9fca9a54d9c0009.jpg",
         "poster": "https://phimimg.com/upload/vod/20260105-1/84f7090f3868c1f80674f96802aa8aec.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "han-quoc"
-    },
-    {
-        "name": "Tay Anh Giữ Một Vì Sao",
-        "year": 2025,
-        "slug": "tay-anh-giu-mot-vi-sao",
-        "thumb": "https://phimimg.com/upload/vod/20260101-1/d4996c364d140f3419448c6fb455a37a.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260101-1/1f84d38287b85555cfefd5bbd36798ee.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",
