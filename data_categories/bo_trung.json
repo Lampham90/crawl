@@ -1,5 +1,41 @@
 [
     {
+        "name": "Thiếp Vốn Chỉ Là Cỏ Rác",
+        "year": 2026,
+        "slug": "thiep-von-chi-la-co-rac",
+        "thumb": "https://phimimg.com/uploads/movies/20260920/thiep-von-chi-la-co-rac-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260920/thiep-von-chi-la-co-rac-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "30",
+        "country": "Trung Quốc",
+        "description": "Trần Thủ Hòa, một người thợ đan cỏ, vì “cỏ cùng gốc” mà chọc giận Thần phi, bị tra tấn đến chết một cách thê thảm. Người vợ Tô Vãn Nương ngày ngày mong ngóng chồng trở về, cuối cùng chỉ nhận lại thi thể của chàng bị nhồi đầy cỏ khô. Đau đớn tột cùng, nàng hóa thân thành nữ y Tô Thảo, lẻn vào hoàng thành. Lấy sạp thuốc làm vỏ bọc, nàng âm thầm xây dựng mạng lưới thu thập tin tức, từng bước tiếp cận Hoàng đế. Tất cả chỉ để báo thù cho người chồng đã chết thảm."
+    },
+    {
+        "name": "Nhất Âu Xuân",
+        "year": 2026,
+        "slug": "nhat-au-xuan",
+        "thumb": "https://phimimg.com/uploads/movies/20260917/nhat-au-xuan-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260917/nhat-au-xuan-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 12",
+        "total_episodes": "30",
+        "country": "Trung Quốc",
+        "description": "\"Người đàn ông sát phạt quyết đoán, thâm sâu mưu mô\" Thẩm Nhuận và cô gái “thông minh tỉnh táo như bông sen đen” Tạ Thanh Viên trở thành lưỡi dao của nhau, cùng nhau bước trên con đường báo thù đan xen trong lý trí và tình cảm. Giữa những cuộc đấu đá công khai và âm thầm trong các gia tộc quyền quý, họ làm rung chuyển cả chính trường triều đình."
+    },
+    {
+        "name": "Lan Hương Như Cố",
+        "year": 2026,
+        "slug": "lan-huong-nhu-co",
+        "thumb": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 21",
+        "total_episodes": "47",
+        "country": "Trung Quốc",
+        "description": "Thẩm Gia Lan, trưởng tôn nữ của Thẩm đại học sĩ, đã đính hôn với Lâm Cẩm Kỳ, trưởng tôn của Lại bộ Thượng thư Lâm gia. Nhưng triều đình bất ngờ nổi sóng gió, ông nội cô là Thẩm đại học sĩ bị kết tội mưu phản, khiến cả Thẩm gia rơi vào thảm họa diệt môn. Nhà họ Lâm liền hủy hôn với nhà họ Thẩm để tự bảo vệ mình, quay ra kết thông gia với nhà họ Triệu là ngự tiền mới bổ nhiệm. Vợ chồng Hứa Vạn Toàn là tôi tớ của nhà họ Lâm, từng được mẹ Thẩm Gia Lan cứu giúp, đã che giấu Gia Lan bằng cách để cô thế chỗ đứa con gái Hứa Lan Hương vừa mất vì bệnh. Từ đó Gia Lan mang thân phận Hứa Lan Hương, trở thành nha hoàn hạng ba ở Lâm phủ. Khó khăn bủa vây, Lan Hương vẫn không cúi đầu trước số phận, luôn nỗ lực tìm kiếm hạnh phúc cho cuộc sống của bản thân và gia đình, chống lại mọi bất công và áp bức. Cuối cùng, bằng lòng tốt và sự thông minh, Lan Hương đã vượt lên trên ràng buộc của địa vị giai cấp, chiếm được tình cảm của Lâm Cẩm Kỳ, đồng thời giành được sự tin tưởng và tôn trọng của toàn bộ nhà họ Lâm. Cô trở thành người nắm quyền nhà họ Lâm, tự nắm chắc vận mệnh trong tay, và rửa sạch oan khuất, đòi lại công bằng cho Thẩm gia."
+    },
+    {
         "name": "Vì Yêu Xứng Danh",
         "year": 2026,
         "slug": "vi-yeu-xung-danh",
@@ -154,30 +190,6 @@
         "total_episodes": "16",
         "country": "Trung Quốc",
         "description": "Ba mươi sáu bàng môn, bảy mươi hai tả đạo, trong đó “Bí Bảo” được xem là đứng đầu. Bước chân vào con đường phát tài, tranh đoạt tạo hóa của đất trời, cũng đồng nghĩa với việc đặt mình vào vô số hiểm cảnh. Đậu Chiêm Long – vị “Thần Tài” tà môn nhất lịch sử – mang trong mình một vận mệnh không thể thoát khỏi. Giữa những bí thuật dân gian, kỳ cảnh quỷ dị và vòng xoáy nhân quả, hắn buộc phải nghịch thiên cải mệnh, phá vỡ xiềng xích số phận và tìm ra con đường sống của chính mình."
-    },
-    {
-        "name": "Lan Hương Như Cố",
-        "year": 2026,
-        "slug": "lan-huong-nhu-co",
-        "thumb": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 20",
-        "total_episodes": "47",
-        "country": "Trung Quốc",
-        "description": "Thẩm Gia Lan, trưởng tôn nữ của Thẩm đại học sĩ, đã đính hôn với Lâm Cẩm Kỳ, trưởng tôn của Lại bộ Thượng thư Lâm gia. Nhưng triều đình bất ngờ nổi sóng gió, ông nội cô là Thẩm đại học sĩ bị kết tội mưu phản, khiến cả Thẩm gia rơi vào thảm họa diệt môn. Nhà họ Lâm liền hủy hôn với nhà họ Thẩm để tự bảo vệ mình, quay ra kết thông gia với nhà họ Triệu là ngự tiền mới bổ nhiệm. Vợ chồng Hứa Vạn Toàn là tôi tớ của nhà họ Lâm, từng được mẹ Thẩm Gia Lan cứu giúp, đã che giấu Gia Lan bằng cách để cô thế chỗ đứa con gái Hứa Lan Hương vừa mất vì bệnh. Từ đó Gia Lan mang thân phận Hứa Lan Hương, trở thành nha hoàn hạng ba ở Lâm phủ. Khó khăn bủa vây, Lan Hương vẫn không cúi đầu trước số phận, luôn nỗ lực tìm kiếm hạnh phúc cho cuộc sống của bản thân và gia đình, chống lại mọi bất công và áp bức. Cuối cùng, bằng lòng tốt và sự thông minh, Lan Hương đã vượt lên trên ràng buộc của địa vị giai cấp, chiếm được tình cảm của Lâm Cẩm Kỳ, đồng thời giành được sự tin tưởng và tôn trọng của toàn bộ nhà họ Lâm. Cô trở thành người nắm quyền nhà họ Lâm, tự nắm chắc vận mệnh trong tay, và rửa sạch oan khuất, đòi lại công bằng cho Thẩm gia."
-    },
-    {
-        "name": "Nhất Âu Xuân",
-        "year": 2026,
-        "slug": "nhat-au-xuan",
-        "thumb": "https://phimimg.com/uploads/movies/20260917/nhat-au-xuan-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260917/nhat-au-xuan-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 10",
-        "total_episodes": "30",
-        "country": "Trung Quốc",
-        "description": "\"Người đàn ông sát phạt quyết đoán, thâm sâu mưu mô\" Thẩm Nhuận và cô gái “thông minh tỉnh táo như bông sen đen” Tạ Thanh Viên trở thành lưỡi dao của nhau, cùng nhau bước trên con đường báo thù đan xen trong lý trí và tình cảm. Giữa những cuộc đấu đá công khai và âm thầm trong các gia tộc quyền quý, họ làm rung chuyển cả chính trường triều đình."
     },
     {
         "name": "Quang Âm Chi Ngoại",
@@ -346,17 +358,5 @@
         "total_episodes": "24",
         "country": "Trung Quốc",
         "description": "Giữa chốn giang hồ mênh mông đầy máu lửa, đao kiếm vô tình, Hữu Thân Bất Phá, hoàng tử nước Thương, ra tay như sấm chớp, cứu mạng Giang Ly, đệ tử Thái Nhất Tông, trong khoảnh khắc sinh tử. Một người mang thân phận hoàng tộc, một kẻ xuất thân tông môn, vốn chẳng chung đường, vậy mà chỉ sau một trận đao kiếm, đã xem nhau như tri kỷ. Từ đó, hai người sóng vai bước vào Đại Hoang Nguyên, nơi luật lệ chỉ được viết bằng thép lạnh và máu tươi. Họ cải trang trà trộn vào thương đội, vượt qua thiên kiếp giáng xuống như trời phạt, bị mãnh thú rình rập giữa đêm tối, lại nhiều lần vung kiếm đối đầu bọn cường đạo hung tàn. Mỗi lần thoát chết, tình nghĩa càng thêm bền chặt. Một lần vì nghĩa mà ra tay cứu mỹ nhân, số phận hai người càng bị cuốn sâu vào vòng xoáy giang hồ."
-    },
-    {
-        "name": "Vạn Cổ Thần Đế",
-        "year": 2026,
-        "slug": "van-co-than-de",
-        "thumb": "https://phimimg.com/uploads/movies/20260721/van-co-than-de-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260721/van-co-than-de-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 19",
-        "total_episodes": "60",
-        "country": "Trung Quốc",
-        "description": "Tám trăm năm trước, Trương Nhược Trần là nhi tử duy nhất của Minh Đế. Tuy sở hữu tài năng tuyệt thế, chàng lại bị thanh mai trúc mã là công chúa Trì Dao sát hại. Tám trăm năm sau, chàng trọng sinh trong thân xác của Trương Nhược Trần - Cửu vương tử vô dụng của Vân Vũ Quận Quốc. Thân thể mới này ốm yếu, bệnh tật, không có chút linh lực nào, khiến chàng cùng mẫu thân là Lâm Phi phải chịu đủ mọi sự chèn ép trong phủ Quận Vương. Sau khi nhớ lại kiếp trước, Trương Nhược Trần thề sẽ trả thù Trì Dao nữ vương - nay đã trở thành chúa tể của Côn Luân Giới, đồng thời bảo vệ Lâm Phi, người mẹ hết lòng yêu thương mình. Sau khi thức tỉnh ấn ký Thần Võ Thời Không, Trương Nhược Trần dựa vào kinh nghiệm từ kiếp trước cùng sự khổ luyện để nhanh chóng trở nên mạnh mẽ."
     }
 ]
