@@ -1,5 +1,17 @@
 [
     {
+        "name": "Song Hỷ Lâm Nguy",
+        "year": 2026,
+        "slug": "song-hy-lam-nguy",
+        "thumb": "https://phimimg.com/uploads/movies/20260920/song-hy-lam-nguy-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260920/song-hy-lam-nguy-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Việt Nam",
+        "description": "Hai lễ cưới, một sang trọng sa hoa, một đạm bạc dân dã, đáng lý sẽ được tổ chức đối diện nhau. Rắc rối bắt đầu khi đội ngũ tổ chức của hai lễ cưới phát hiện ra danh sách khách mời của hai bên là giống nhau."
+    },
+    {
         "name": "Hẹn Em Ngày Nhật Thực",
         "year": 2026,
         "slug": "hen-em-ngay-nhat-thuc",
@@ -321,17 +333,6 @@
         "slug": "lam-giau-voi-ma-2-cuoc-chien-hot-xoan",
         "thumb": "https://phimimg.com/upload/vod/20260101-1/3d7252b82b44a1ac1c4e282013145a02.jpg",
         "poster": "https://phimimg.com/upload/vod/20260101-1/86f6ed61a2f142f36ec35040a3377b7f.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "viet-nam"
-    },
-    {
-        "name": "Trái Tim Què Quặt",
-        "year": 2025,
-        "slug": "trai-tim-que-quat",
-        "thumb": "https://phimimg.com/upload/vod/20251228-1/334226be504001bd56d0c586bf5d96e0.jpg",
-        "poster": "https://phimimg.com/upload/vod/20251228-1/01c581e13dff7d2430f5857ae0753aa7.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",
