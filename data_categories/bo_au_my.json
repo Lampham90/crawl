@@ -1,5 +1,17 @@
 [
     {
+        "name": "Truy Tìm Công Lý",
+        "year": 2026,
+        "slug": "truy-tim-cong-ly",
+        "thumb": "https://phimimg.com/uploads/movies/20260920/truy-tim-cong-ly-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260920/truy-tim-cong-ly-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Frances Neagley là một điều tra viên tư nhân tại Chicago và là cựu đồng nghiệp quân ngũ của Jack Reacher trong Đơn vị Điều tra Đặc biệt 110 của Lục quân. Khi nhận được tin một người bạn thân thiết, yêu quý từ quá khứ của mình bị sát hại trong một vụ tai nạn đầy nghi vấn, cô quyết tâm bằng mọi giá phải đòi lại công lý."
+    },
+    {
         "name": "Manh Mối Cuối Cùng (Phần 1)",
         "year": 2026,
         "slug": "manh-moi-cuoi-cung-phan-1",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Những thanh niên ở độ tuổi đôi mươi gồm Clark Kent, cô nàng Lois Lane thông minh đầy nhiệt huyết, cùng người bạn thân nhất của họ là Jimmy Olsen bắt đầu khám phá bản thân và tất cả những điều họ có thể cùng nhau đạt được với tư cách là một đội nhà báo điều tra tại tòa soạn Daily Planet."
-    },
-    {
-        "name": "Rick Và Morty (Phần 9)",
-        "year": 2026,
-        "slug": "rick-va-morty-phan-9",
-        "thumb": "https://phimimg.com/upload/vod/20260604-1/56460003fbb5366fc854821a32c228e2.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260604-1/b1c22d42dde3369e0cff0a9ac5e58d0f.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Season 9 tiếp tục sau các sự kiện lớn liên quan đến Evil Morty và sự sụp đổ của Citadel. Khác với một số mùa gần đây thiên về các tập độc lập, mùa này quay trở lại với một cốt truyện xuyên suốt về đa vũ trụ và mối quan hệ phức tạp giữa Rick, Morty và Evil Morty."
     }
 ]
