@@ -1,5 +1,17 @@
 [
     {
+        "name": "Một Bộ Phim Minecraft",
+        "year": 2025,
+        "slug": "mot-bo-phim-minecraft",
+        "thumb": "https://phimimg.com/upload/vod/20250513-1/7c40c5e1c5f88fdff52d54b03d084497.jpg",
+        "poster": "https://phimimg.com/upload/vod/20250508-1/d43ada4cb5f9a1dbdb9d614406726a53.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Thụy Điển",
+        "description": "Chào mừng bạn đến với thế giới của Minecraft, nơi sự sáng tạo không chỉ giúp bạn chế tạo mà còn là yếu tố quan trọng để sống sót! Bốn kẻ lạc lõng - Garrett “The Garbage Man” Garrison (Momoa), Henry (Hansen), Natalie (Myers) và Dawn (Brooks) - bất ngờ gặp rắc rối khi họ bị kéo qua cánh cửa bí ẩn dẫn đến Overworld: một thế giới kỳ lạ được tạo bởi những khối lập phương và phát triển nhờ vào trí tưởng tượng. Để trở về nhà, họ cần phải làm chủ được thế giới này (và bảo vệ nó khỏi những thực thể tà ác như Piglins và Thây Ma) trong khi dấn thân vào chuyến phiêu lưu màu nhiệm với một thợ chế tạo chuyên nghiệp và khó lường - Steve (Black). Chuyến hành trình này sẽ thách thức sự can đảm của cả năm người, thúc đẩy họ tìm lại với những phẩm chất làm nên sự đặc biệt của riêng mình,… đồng thời là những kỹ năng cần thiết để trở lại với thế giới thật."
+    },
+    {
         "name": "Ngày Tàn Của Phố Oak",
         "year": 2026,
         "slug": "ngay-tan-cua-pho-oak",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Vào những năm 1970 tại Detroit, John Miller đem lòng yêu người phụ nữ của một kẻ găng-stơ địa phương và rồi bị tống vào tù vì một tội ác mà anh không hề phạm phải. Khi cuộc đời đã bị hủy hoại, Miller lập kế hoạch trả thù kẻ đã cướp đi người phụ nữ anh yêu."
-    },
-    {
-        "name": "Pinocchio: Không Bị Trói / Pinocchio: Cuộc Tàn Sát Của Con Rối",
-        "year": 2026,
-        "slug": "pinocchio-khong-bi-troi-pinocchio-cuoc-tan-sat-cua-con-roi",
-        "thumb": "https://phimimg.com/uploads/movies/20260826/pinocchio-khong-bi-troi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260826/pinocchio-khong-bi-troi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Anh",
-        "description": "Dưới sự thao túng của một con Dế tà ác và được tạo ra bởi Geppetto, Pinocchio phát động một cuộc tàn sát đẫm máu nhằm tự biến mình thành một cậu bé bằng xương bằng thịt giống như người anh trai James của mình, từng chút một."
     }
 ]

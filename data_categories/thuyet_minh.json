@@ -1,5 +1,29 @@
 [
     {
+        "name": "Một Bộ Phim Minecraft",
+        "year": 2025,
+        "slug": "mot-bo-phim-minecraft",
+        "thumb": "https://phimimg.com/upload/vod/20250513-1/7c40c5e1c5f88fdff52d54b03d084497.jpg",
+        "poster": "https://phimimg.com/upload/vod/20250508-1/d43ada4cb5f9a1dbdb9d614406726a53.jpg",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Thụy Điển",
+        "description": "Chào mừng bạn đến với thế giới của Minecraft, nơi sự sáng tạo không chỉ giúp bạn chế tạo mà còn là yếu tố quan trọng để sống sót! Bốn kẻ lạc lõng - Garrett “The Garbage Man” Garrison (Momoa), Henry (Hansen), Natalie (Myers) và Dawn (Brooks) - bất ngờ gặp rắc rối khi họ bị kéo qua cánh cửa bí ẩn dẫn đến Overworld: một thế giới kỳ lạ được tạo bởi những khối lập phương và phát triển nhờ vào trí tưởng tượng. Để trở về nhà, họ cần phải làm chủ được thế giới này (và bảo vệ nó khỏi những thực thể tà ác như Piglins và Thây Ma) trong khi dấn thân vào chuyến phiêu lưu màu nhiệm với một thợ chế tạo chuyên nghiệp và khó lường - Steve (Black). Chuyến hành trình này sẽ thách thức sự can đảm của cả năm người, thúc đẩy họ tìm lại với những phẩm chất làm nên sự đặc biệt của riêng mình,… đồng thời là những kỹ năng cần thiết để trở lại với thế giới thật."
+    },
+    {
+        "name": "Hiện Trường Săn Án",
+        "year": 2026,
+        "slug": "hien-truong-san-an",
+        "thumb": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 16",
+        "total_episodes": "24",
+        "country": "Trung Quốc",
+        "description": "Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ chui. Một vụ án cũ bị lãng quên suốt 7 năm bất ngờ được lật lại. Trong quá trình dấn thân truy tìm sự thật, nhóm cảnh sát điều tra không chỉ bóc gỡ từng lớp âm mưu đen tối mà còn liên tục trăn trở, thảo luận sâu sắc về vinh quang của người chiến sĩ công an cùng sự kính úy đối với giá trị thiêng liêng của sinh mạng con người."
+    },
+    {
         "name": "Nhất Âu Xuân",
         "year": 2026,
         "slug": "nhat-au-xuan",
@@ -228,18 +252,6 @@
         "description": "Giữa chốn giang hồ mênh mông đầy máu lửa, đao kiếm vô tình, Hữu Thân Bất Phá, hoàng tử nước Thương, ra tay như sấm chớp, cứu mạng Giang Ly, đệ tử Thái Nhất Tông, trong khoảnh khắc sinh tử. Một người mang thân phận hoàng tộc, một kẻ xuất thân tông môn, vốn chẳng chung đường, vậy mà chỉ sau một trận đao kiếm, đã xem nhau như tri kỷ. Từ đó, hai người sóng vai bước vào Đại Hoang Nguyên, nơi luật lệ chỉ được viết bằng thép lạnh và máu tươi. Họ cải trang trà trộn vào thương đội, vượt qua thiên kiếp giáng xuống như trời phạt, bị mãnh thú rình rập giữa đêm tối, lại nhiều lần vung kiếm đối đầu bọn cường đạo hung tàn. Mỗi lần thoát chết, tình nghĩa càng thêm bền chặt. Một lần vì nghĩa mà ra tay cứu mỹ nhân, số phận hai người càng bị cuốn sâu vào vòng xoáy giang hồ."
     },
     {
-        "name": "Hiện Trường Săn Án",
-        "year": 2026,
-        "slug": "hien-truong-san-an",
-        "thumb": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 10",
-        "total_episodes": "24",
-        "country": "Trung Quốc",
-        "description": "Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ chui. Một vụ án cũ bị lãng quên suốt 7 năm bất ngờ được lật lại. Trong quá trình dấn thân truy tìm sự thật, nhóm cảnh sát điều tra không chỉ bóc gỡ từng lớp âm mưu đen tối mà còn liên tục trăn trở, thảo luận sâu sắc về vinh quang của người chiến sĩ công an cùng sự kính úy đối với giá trị thiêng liêng của sinh mạng con người."
-    },
-    {
         "name": "Lâu Đài Tham Vọng (Bản Thái)",
         "year": 2026,
         "slug": "lau-dai-tham-vong-ban-thai",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Nghe theo tiếng gọi của Đại Dương, Moana dũng cảm rời đảo Motunui, lần đầu vượt qua rạn san hô để khám phá thế giới rộng lớn. Cùng á thần Maui, cô bắt đầu hành trình phiêu lưu đầy kỳ diệu với sứ mệnh mang lại sự thịnh vượng cho quê hương."
-    },
-    {
-        "name": "Cá Mập: Cơn Bão",
-        "year": 2025,
-        "slug": "ca-map-con-bao",
-        "thumb": "https://phimimg.com/upload/vod/20250516-1/573f2ef62b3ee2fa4fcd5f68f350f78f.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250516-1/9b78cc6a0d6205f2b5f156a4976c63f3.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (6/6)",
-        "total_episodes": "6",
-        "country": "Hàn Quốc",
-        "description": "Bộ phim là phần tiếp theo của &quot;Shark: The Beginning&quot; (2021), tiếp tục câu chuyện về Cha Woo-sol (do Kim Min-seok thủ vai), một nạn nhân của bạo lực học đường, sau khi ra tù đã trở thành võ sĩ MMA chuyên nghiệp. Trong phần mới này, anh đối đầu với Hyun Woo-yong (do Lee Hyun-wook thủ vai), một nhân vật phản diện nguy hiểm."
     }
 ]
