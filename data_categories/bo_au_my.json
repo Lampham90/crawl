@@ -1,5 +1,17 @@
 [
     {
+        "name": "Tuổi Trẻ (Phần 1)",
+        "year": 2026,
+        "slug": "tuoi-tre-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "8",
+        "country": "Anh",
+        "description": "Xoay quanh cuộc sống đầy náo nhiệt, những trò quậy phá siêu lầy lội và những rung động đầu đời trong sáng của nhóm học sinh tại một trường học ở địa phương."
+    },
+    {
         "name": "Tổng Thống Curtis (Phần 1)",
         "year": 2026,
         "slug": "tong-thong-curtis-phan-1",
@@ -346,17 +358,5 @@
         "total_episodes": "16",
         "country": "Âu Mỹ",
         "description": "Khi chồng bỏ cô để đi theo người phụ nữ khác, người mẹ miền Nam kiên cường nọ bắt đầu làm lại cuộc đời với sự ủng hộ của gia đình yêu thương nhưng cũng rất thẳng thắn."
-    },
-    {
-        "name": "Cái Chết Của Vợ Người Mục Sư",
-        "year": 2026,
-        "slug": "cai-chet-cua-vo-nguoi-muc-su",
-        "thumb": "https://phimimg.com/uploads/movies/20260826/cai-chet-cua-vo-nguoi-muc-su-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260826/cai-chet-cua-vo-nguoi-muc-su-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (3/3)",
-        "total_episodes": "3",
-        "country": "Âu Mỹ",
-        "description": "Chuyện gì đã xảy ra với Mica Miller? Loạt phim tài liệu này tái hiện cuộc đời đầy hứa hẹn, cuộc hôn nhân độc hại và những tình tiết bí ẩn xung quanh cái chết của cô."
     }
 ]

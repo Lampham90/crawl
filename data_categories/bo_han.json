@@ -1,5 +1,41 @@
 [
     {
+        "name": "Giác Quan Thứ Sáu: Mặt Trái",
+        "year": 2026,
+        "slug": "giac-quan-thu-sau-mat-trai",
+        "thumb": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "10",
+        "country": "Hàn Quốc",
+        "description": "Giác Quan Thứ Sáu trở lại với phiên bản hoàn toàn mới, truy tìm những thứ giả mạo ở những địa điểm khác thường và gặp gỡ những con người thú vị. Liệu giác quan nhạy bén của MC quốc dân Yoo Jae Suk, diễn viên hài Song Eun Yi, tài tử Go Kyung Pyo và BIBI có phanh phui được những thật giả lẫn lộn này?"
+    },
+    {
+        "name": "Tài phiệt và Cảnh sát (Phần 2)",
+        "year": 2026,
+        "slug": "tai-phiet-va-canh-sat-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Hoàn Tất (14/14)",
+        "total_episodes": "14",
+        "country": "Hàn Quốc",
+        "description": "Sau Season 1, Yi-soo đã thực sự nhận ra mình muốn trở thành một cảnh sát, chứ không còn xem công việc này như trò chơi của một thiếu gia. Anh hoàn thành khóa đào tạo chính thức tại Học viện Cảnh sát, sau đó quay trở lại Đội Trọng án 1. Lần này, Yi-soo đã trưởng thành và chuyên nghiệp hơn, nhưng vẫn giữ phong cách điều tra rất đặc biệt: khi cảnh sát gặp bế tắc, anh có thể dùng tiền bạc, các mối quan hệ và nguồn lực khổng lồ của gia đình tài phiệt để mở ra những hướng điều tra mà người bình thường không thể tiếp cận."
+    },
+    {
+        "name": "Yêu một người khác / Yêu Một Người Khác Không Phải Em",
+        "year": 2026,
+        "slug": "yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em",
+        "thumb": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "14",
+        "country": "Hàn Quốc",
+        "description": "Phim khai thác câu chuyện thực tế và đầy cảm xúc về cặp đôi Namgoong Ho và Lee Mi-do đã gắn bó bên nhau suốt 10 năm. Khi sự quen thuộc dần lấn át những rung động ban đầu và họ đứng trước ngưỡng cửa hôn nhân, mối quan hệ bắt đầu xuất hiện những vết rạn và khoảng cách."
+    },
+    {
         "name": "Bốn Bàn Tay, Hai Bản Sonata",
         "year": 2026,
         "slug": "bon-ban-tay-hai-ban-sonata",
@@ -72,18 +108,6 @@
         "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
     },
     {
-        "name": "Tài phiệt và Cảnh sát (Phần 2)",
-        "year": 2026,
-        "slug": "tai-phiet-va-canh-sat-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 13",
-        "total_episodes": "14",
-        "country": "Hàn Quốc",
-        "description": "Sau Season 1, Yi-soo đã thực sự nhận ra mình muốn trở thành một cảnh sát, chứ không còn xem công việc này như trò chơi của một thiếu gia. Anh hoàn thành khóa đào tạo chính thức tại Học viện Cảnh sát, sau đó quay trở lại Đội Trọng án 1. Lần này, Yi-soo đã trưởng thành và chuyên nghiệp hơn, nhưng vẫn giữ phong cách điều tra rất đặc biệt: khi cảnh sát gặp bế tắc, anh có thể dùng tiền bạc, các mối quan hệ và nguồn lực khổng lồ của gia đình tài phiệt để mở ra những hướng điều tra mà người bình thường không thể tiếp cận."
-    },
-    {
         "name": "Vụ Bê Bối Thời Joseon / Bê Bối Triều Đại",
         "year": 2026,
         "slug": "vu-be-boi-thoi-joseon-be-boi-trieu-dai",
@@ -144,18 +168,6 @@
         "description": "Phần 2 tiếp tục xoáy sâu vào những cuộc đấu đá quyền lực căng thẳng, lòng tham, sự trả thù và phản bội gia đình, đặt hai nhân vật chính ở các chiến tuyến đối lập giữa một bên là khát vọng quyền lực/tiền tài và một bên là công lý."
     },
     {
-        "name": "Giác Quan Thứ Sáu: Mặt Trái",
-        "year": 2026,
-        "slug": "giac-quan-thu-sau-mat-trai",
-        "thumb": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "10",
-        "country": "Hàn Quốc",
-        "description": "Giác Quan Thứ Sáu trở lại với phiên bản hoàn toàn mới, truy tìm những thứ giả mạo ở những địa điểm khác thường và gặp gỡ những con người thú vị. Liệu giác quan nhạy bén của MC quốc dân Yoo Jae Suk, diễn viên hài Song Eun Yi, tài tử Go Kyung Pyo và BIBI có phanh phui được những thật giả lẫn lộn này?"
-    },
-    {
         "name": "Đạo Quật Vương (Vua Trộm Mộ)",
         "year": 2026,
         "slug": "dao-quat-vuong-vua-trom-mo",
@@ -166,18 +178,6 @@
         "total_episodes": "13",
         "country": "Hàn Quốc",
         "description": "Một ngày nọ, những lăng mộ bí ẩn đồng loạt xuất hiện trên khắp thế giới, mang theo những cổ vật ban cho chủ sở hữu những năng lực siêu nhiên phi thường. Seo Joo-heon là một nhà thám hiểm, chuyên gia khai quật và cũng là một tay trộm mộ khét tiếng.Sau khi bị chính chủ nhân của mình phản bội, Joo-heon tưởng chừng đã phải bỏ mạng dưới sức mạnh của một cổ vật mới đầy quyền năng. Thế nhưng, định mệnh đã cho anh cơ hội thứ hai: anh đột ngột tỉnh dậy ở thời điểm 15 năm trước, khi mà những lăng mộ và cổ vật còn chưa hề xuất hiện.Được thôi thúc bởi ngọn lửa trả thù, Joo-heon sẽ tận dụng những kiến thức từ tương lai như thế nào để chinh phục mọi lăng mộ và trở thành Đạo Quật Vương?"
-    },
-    {
-        "name": "Yêu một người khác / Yêu Một Người Khác Không Phải Em",
-        "year": 2026,
-        "slug": "yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em",
-        "thumb": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "14",
-        "country": "Hàn Quốc",
-        "description": "Phim khai thác câu chuyện thực tế và đầy cảm xúc về cặp đôi Namgoong Ho và Lee Mi-do đã gắn bó bên nhau suốt 10 năm. Khi sự quen thuộc dần lấn át những rung động ban đầu và họ đứng trước ngưỡng cửa hôn nhân, mối quan hệ bắt đầu xuất hiện những vết rạn và khoảng cách."
     },
     {
         "name": "Sát Thủ Nội Trợ (Vợ Tôi Là Sát Thủ)",
