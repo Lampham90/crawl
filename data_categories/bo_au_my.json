@@ -1,5 +1,29 @@
 [
     {
+        "name": "Tổng Thống Curtis (Phần 1)",
+        "year": 2026,
+        "slug": "tong-thong-curtis-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260906/tong-thong-curtis-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260906/tong-thong-curtis-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 9",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Tổng Thống Curtis theo chân Tổng tư lệnh và các nhân viên lập dị của ông điều tra những hiện tượng siêu nhiên chưa được giải thích."
+    },
+    {
+        "name": "Lãnh Địa Tử Chiến (Phần 2)",
+        "year": 2026,
+        "slug": "lanh-dia-tu-chien-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Sau những biến động và cuộc chiến đẫm máu ở mùa đầu tiên, gia đình tội phạm quyền lực nhà Harrigan bước sang mùa 2 trong tình trạng rạn nứt nghiêm trọng. Sức ép đè nặng khi các thành viên bắt đầu đối đầu lẫn nhau, đứng trước nguy cơ xảy ra một cuộc nội chiến thực sự."
+    },
+    {
         "name": "Lực lượng Lanterns (Phần 1)",
         "year": 2026,
         "slug": "luc-luong-lanterns-phan-1",
@@ -216,18 +240,6 @@
         "description": "Trong sitcom hoạt hình này, sau khi Ruthie tự phá tan cuộc sống hoàn hảo của mình, Andrew và Eunice giúp cô nhận ra không hoàn hảo cũng có cái vui, còn cô giúp họ trưởng thành."
     },
     {
-        "name": "Tổng Thống Curtis (Phần 1)",
-        "year": 2026,
-        "slug": "tong-thong-curtis-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260906/tong-thong-curtis-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260906/tong-thong-curtis-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Tổng Thống Curtis theo chân Tổng tư lệnh và các nhân viên lập dị của ông điều tra những hiện tượng siêu nhiên chưa được giải thích."
-    },
-    {
         "name": "Lằn Ranh Cuồng Nộ (Phần 1)",
         "year": 2026,
         "slug": "lan-ranh-cuong-no-phan-1",
@@ -346,17 +358,5 @@
         "total_episodes": "3",
         "country": "Âu Mỹ",
         "description": "Chuyện gì đã xảy ra với Mica Miller? Loạt phim tài liệu này tái hiện cuộc đời đầy hứa hẹn, cuộc hôn nhân độc hại và những tình tiết bí ẩn xung quanh cái chết của cô."
-    },
-    {
-        "name": "Những Cuộc Phiêu Lưu Cùng Superman (Phần 3)",
-        "year": 2026,
-        "slug": "nhung-cuoc-phieu-luu-cung-superman-phan-3",
-        "thumb": "https://phimimg.com/uploads/movies/20260723/nhung-cuoc-phieu-luu-cung-superman-phan-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260723/nhung-cuoc-phieu-luu-cung-superman-phan-3-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Những thanh niên ở độ tuổi đôi mươi gồm Clark Kent, cô nàng Lois Lane thông minh đầy nhiệt huyết, cùng người bạn thân nhất của họ là Jimmy Olsen bắt đầu khám phá bản thân và tất cả những điều họ có thể cùng nhau đạt được với tư cách là một đội nhà báo điều tra tại tòa soạn Daily Planet."
     }
 ]
