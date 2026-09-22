@@ -6,7 +6,7 @@
         "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
+        "current_episode": "Tập 7",
         "total_episodes": "30",
         "country": "Thái Lan",
         "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
@@ -18,10 +18,22 @@
         "thumb": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-poster.webp",
         "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 15",
+        "current_episode": "Hoàn Tất (16/16)",
         "total_episodes": "16",
         "country": "Thái Lan",
         "description": "Được làm lại từ bộ phim Hàn Quốc đình đám cùng tên, Lâu Đài Tham Vọng (Bản Thái) xoay quanh cuộc chiến khốc liệt của những bậc cha mẹ giàu có tại khu biệt thự Sky Castle nhằm đưa con cái vào trường đại học danh giá. Fah, một người mẹ đang che giấu quá khứ nghèo khó, quyết tâm ép con gái phải đỗ Harvard để bảo vệ địa vị của bản thân. Áp lực ngày càng gia tăng với sự xuất hiện của một chuyên gia luyện thi khắc nghiệt và một học sinh thiên tài mang trong mình một bí mật có thể phá hủy mọi thứ mà Fah dày công gây dựng. Sau một sự cố gây chấn động tại một bữa tiệc, những sự thật bị chôn vùi ở Sky Castle lần lượt bị phơi bày."
+    },
+    {
+        "name": "Bùa Ngải Trói Buộc",
+        "year": 2026,
+        "slug": "bua-ngai-troi-buoc",
+        "thumb": "https://phimimg.com/uploads/movies/20260907/khom-khlang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260907/khom-khlang-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Một nữ cảnh sát Bangkok bản tính đa nghi đang ráo riết truy lùng một tên trùm buôn người có năng lực kháng đạn. Cô lặn lội đến vùng Phop Phra, tỉnh Tak để tìm một vị cao nhân nhờ rèn những viên đạn yểm phép. Thế nhưng khi đến nơi, cô phát hiện ra người mình cất công tìm kiếm lại chính là mối duyên tiền định - người đã dành trọn cả cuộc đời chỉ để chờ đợi ngày được đoàn tụ cùng tình yêu đích thực."
     },
     {
         "name": "Juliet và Juliet",
@@ -274,18 +286,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Khi linh hồn của một bác sĩ phẫu thuật thời hiện đại bị nhập vào thể xác của một kẻ chuyên gây rắc rối bị người người ghét bỏ ở thế kỷ 17, anh đã sử dụng nền y học tiên tiến để cứu người, đồng thời từng bước chinh phục người đối đầu gay gắt nhất của mình."
-    },
-    {
-        "name": "Bùa Ngải Trói Buộc",
-        "year": 2026,
-        "slug": "bua-ngai-troi-buoc",
-        "thumb": "https://phimimg.com/uploads/movies/20260907/khom-khlang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260907/khom-khlang-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Một nữ cảnh sát Bangkok bản tính đa nghi đang ráo riết truy lùng một tên trùm buôn người có năng lực kháng đạn. Cô lặn lội đến vùng Phop Phra, tỉnh Tak để tìm một vị cao nhân nhờ rèn những viên đạn yểm phép. Thế nhưng khi đến nơi, cô phát hiện ra người mình cất công tìm kiếm lại chính là mối duyên tiền định - người đã dành trọn cả cuộc đời chỉ để chờ đợi ngày được đoàn tụ cùng tình yêu đích thực."
     },
     {
         "name": "Luang Pho Trong Sạch",
