@@ -1,5 +1,29 @@
 [
     {
+        "name": "Drew Binsky Lữ Khách Bốn Phương Trời (Phần 2)",
+        "year": 2026,
+        "slug": "drew-binsky-lu-khach-bon-phuong-troi-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20260923/drew-binsky-lu-khach-bon-phuong-troi-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260923/drew-binsky-lu-khach-bon-phuong-troi-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "30",
+        "country": "Âu Mỹ",
+        "description": "Những điểm đến khắc nghiệt. Những nền văn hóa bí ẩn. Những con người phi thường. Drew Binsky đi tới mọi quốc gia trên Trái Đất để tìm ra điều kết nối tất cả chúng ta."
+    },
+    {
+        "name": "Drew Binsky Lữ Khách Bốn Phương Trời (Phần 1)",
+        "year": 2026,
+        "slug": "drew-binsky-lu-khach-bon-phuong-troi-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260923/drew-binsky-lu-khach-bon-phuong-troi-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260923/drew-binsky-lu-khach-bon-phuong-troi-phan-1-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (30/30)",
+        "total_episodes": "30",
+        "country": "Âu Mỹ",
+        "description": "Những điểm đến khắc nghiệt. Những nền văn hóa bí ẩn. Những con người phi thường. Drew Binsky đi tới mọi quốc gia trên Trái Đất để tìm ra điều kết nối tất cả chúng ta."
+    },
+    {
         "name": "Tuổi Trẻ (Phần 1)",
         "year": 2026,
         "slug": "tuoi-tre-phan-1",
@@ -334,29 +358,5 @@
         "total_episodes": "16",
         "country": "Âu Mỹ",
         "description": "Số phận của một vũ nữ thoát y thay đổi khi cô vướng vào một gia đình giàu có nhưng đầy bất ổn đứng sau một đế chế mỹ phẩm và một âm mưu buôn người xảo quyệt."
-    },
-    {
-        "name": "Khởi Đầu Mới (Phần 2)",
-        "year": 2026,
-        "slug": "khoi-dau-moi-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260828/khoi-dau-moi-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260828/khoi-dau-moi-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Khi chồng bỏ cô để đi theo người phụ nữ khác, người mẹ miền Nam kiên cường nọ bắt đầu làm lại cuộc đời với sự ủng hộ của gia đình yêu thương nhưng cũng rất thẳng thắn."
-    },
-    {
-        "name": "Khởi Đầu Mới (Phần 1)",
-        "year": 2025,
-        "slug": "khoi-dau-moi-phan-1",
-        "thumb": "https://phimimg.com/upload/vod/20250802-1/4dff9c35b15700b37caee47b0a8c5aeb.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250802-1/d87d76911fbb38944619b0dfd48a5e2a.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (16/16)",
-        "total_episodes": "16",
-        "country": "Âu Mỹ",
-        "description": "Khi chồng bỏ cô để đi theo người phụ nữ khác, người mẹ miền Nam kiên cường nọ bắt đầu làm lại cuộc đời với sự ủng hộ của gia đình yêu thương nhưng cũng rất thẳng thắn."
     }
 ]

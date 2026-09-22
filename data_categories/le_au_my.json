@@ -1,5 +1,41 @@
 [
     {
+        "name": "Tony",
+        "year": 2026,
+        "slug": "tony",
+        "thumb": "https://phimimg.com/uploads/movies/20260923/tony-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260923/tony-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Bộ phim tái hiện thời thanh xuân năm 19 tuổi của cố đầu bếp, nhà văn và đầu bếp truyền hình lừng danh thế giới Anthony Bourdain."
+    },
+    {
+        "name": "Chuyến Xe Rượt Đuổi",
+        "year": 2026,
+        "slug": "chuyen-xe-ruot-duoi",
+        "thumb": "https://phimimg.com/uploads/movies/20260923/chuyen-xe-ruot-duoi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260923/chuyen-xe-ruot-duoi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Theo chân Jason — một cựu quân nhân đang thất sủng và vật lộn với chứng nghiện ngập. Trong một lần nhận chở khách qua ứng dụng rideshare, anh vô tình phát hiện ra nữ hành khách mà mình đang chở thực chất đang bị giam cầm và buôn bán bởi một đường dây tội phạm tàn ác."
+    },
+    {
+        "name": "Phi Vụ Sửa Sai",
+        "year": 2026,
+        "slug": "phi-vu-sua-sai",
+        "thumb": "https://phimimg.com/uploads/movies/20260923/phi-vu-sua-sai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260923/phi-vu-sua-sai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Sau một nhiệm vụ giải cứu thất bại ở Afghanistan, một nhóm cựu đặc vụ CIA mang trong mình cảm giác tội lỗi và thất bại. Khi người chỉ huy Larry tiết lộ bí mật về 25 triệu USD được cất giấu tại Tehran, Tucker tập hợp cả nhóm trở lại Iran, vừa nhằm kiếm một khoản tiền khổng lồ, vừa tìm cách chuộc lại những sai lầm trong quá khứ. Nhưng nhiệm vụ nhanh chóng biến thành một cuộc giải cứu nguy hiểm với những âm mưu, phản bội và bí mật tình báo bị che giấu suốt nhiều năm."
+    },
+    {
         "name": "Tình Dục Tuổi Teen Và Cái Chết Tại Trại Miasma",
         "year": 2026,
         "slug": "tinh-duc-tuoi-teen-va-cai-chet-tai-trai-miasma",
@@ -322,41 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Dựa trên thiên sử thi Hy Lạp cổ đại. Sau mười năm chiến tranh, Vua Odysseus ra khơi trở về quê nhà Ithaca, khát khao được đoàn tụ với người vợ yêu thương. Nhưng hành trình trở về của ông còn gian nan hơn cả chiến trường, khi ông phải đối mặt với những quái vật chết người cùng sự phẫn nộ của các vị thần để giành lấy sự sống."
-    },
-    {
-        "name": "Grand Theft Auto VI: Cái Nhìn Sâu Hơn",
-        "year": 2026,
-        "slug": "grand-theft-auto-vi-cai-nhin-sau-hon",
-        "thumb": "https://phimimg.com/uploads/movies/20260829/grand-theft-auto-vi-cai-nhin-sau-hon-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260829/grand-theft-auto-vi-cai-nhin-sau-hon-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Video tập trung khai thác mối quan hệ kiểu \"Bonnie và Clyde\" giữa Lucia và Jason. Người chơi có thể chuyển đổi mượt mà giữa hai nhân vật này khi thực hiện nhiệm vụ hoặc khám phá thế giới mở, kết hợp chiến đấu đồng đội ăn ý hơn so với các phần trước."
-    },
-    {
-        "name": "Leanne Morgan: Những Thứ Không Thể Nói Ra",
-        "year": 2025,
-        "slug": "leanne-morgan-nhung-thu-khong-the-noi-ra",
-        "thumb": "https://phimimg.com/uploads/movies/20260828/leanne-morgan-nhung-thu-khong-the-noi-ra-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260828/leanne-morgan-nhung-thu-khong-the-noi-ra-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Mỹ",
-        "description": "Từ chia sẻ bí quyết để có cuộc hôn nhân dài lâu đến thử CBD lần đầu cũng như lần cuối, Leanne Morgan kể hết mọi chuyện thú vị với sự duyên dáng miền Nam của mình."
-    },
-    {
-        "name": "Batman: Sự Sụp Đổ Của Hiệp Sĩ - Phần 1",
-        "year": 2026,
-        "slug": "batman-su-sup-do-cua-hiep-si-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260828/batman-su-sup-do-cua-hiep-si-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260828/batman-su-sup-do-cua-hiep-si-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Trại tâm thần Arkham đã bị phá hủy, và tất cả tù nhân của nó đã được thả tự do khắp thành phố Gotham. Khi Batman chạy đua để bắt giữ một số kẻ thù nguy hiểm nhất của mình, anh ta bị đẩy đến giới hạn về thể chất và tinh thần, và bước vào cuộc đối đầu cuối cùng với một mối đe dọa mới: người đàn ông có tên là Bane!"
     }
 ]
