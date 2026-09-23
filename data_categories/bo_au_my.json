@@ -1,5 +1,29 @@
 [
     {
+        "name": "Manh Mối Cuối Cùng (Phần 1)",
+        "year": 2026,
+        "slug": "manh-moi-cuoi-cung-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260909/manh-moi-cuoi-cung-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260909/manh-moi-cuoi-cung-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "6",
+        "country": "Úc",
+        "description": "Khi nhân viên trực tổng đài khẩn cấp Ian Ridley nhận được cuộc gọi hoảng loạn từ một cô bé tuổi teen mà anh tin có thể là cô con gái mất tích từ lâu của mình, anh bất chấp tất cả để tìm ra cô bé."
+    },
+    {
+        "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
+        "year": 2026,
+        "slug": "huan-luyen-vien-ted-lasso-phan-4",
+        "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 8",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
+    },
+    {
         "name": "Drew Binsky Lữ Khách Bốn Phương Trời (Phần 2)",
         "year": 2026,
         "slug": "drew-binsky-lu-khach-bon-phuong-troi-phan-2",
@@ -84,18 +108,6 @@
         "description": "Frances Neagley là một điều tra viên tư nhân tại Chicago và là cựu đồng nghiệp quân ngũ của Jack Reacher trong Đơn vị Điều tra Đặc biệt 110 của Lục quân. Khi nhận được tin một người bạn thân thiết, yêu quý từ quá khứ của mình bị sát hại trong một vụ tai nạn đầy nghi vấn, cô quyết tâm bằng mọi giá phải đòi lại công lý."
     },
     {
-        "name": "Manh Mối Cuối Cùng (Phần 1)",
-        "year": 2026,
-        "slug": "manh-moi-cuoi-cung-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260909/manh-moi-cuoi-cung-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260909/manh-moi-cuoi-cung-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "6",
-        "country": "Úc",
-        "description": "Khi nhân viên trực tổng đài khẩn cấp Ian Ridley nhận được cuộc gọi hoảng loạn từ một cô bé tuổi teen mà anh tin có thể là cô con gái mất tích từ lâu của mình, anh bất chấp tất cả để tìm ra cô bé."
-    },
-    {
         "name": "Người Chạy Xuyên Không Gian (Phần 2)",
         "year": 2026,
         "slug": "nguoi-chay-xuyen-khong-gian-phan-2",
@@ -154,18 +166,6 @@
         "total_episodes": "8",
         "country": "Âu Mỹ",
         "description": "Mùa đông. Hawkins. 1985. Chào mừng trở lại thị trấn đầy bí mật, nơi hội bạn thân quen đối mặt với loạt bí ẩn mới... và một giống loài kỳ dị hoàn toàn mới."
-    },
-    {
-        "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
-        "year": 2026,
-        "slug": "huan-luyen-vien-ted-lasso-phan-4",
-        "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
     },
     {
         "name": "Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1)",
