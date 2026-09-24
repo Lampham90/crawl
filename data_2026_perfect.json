@@ -547,6 +547,18 @@
     ],
     "phim_chieu_rap": [
         {
+            "name": "Ma Xó",
+            "year": 2026,
+            "slug": "ma-xo",
+            "thumb": "https://phimimg.com/uploads/movies/20260924/ma-xo-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260924/ma-xo-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Việt Nam",
+            "description": "Trong cái nghèo cùng cực và nỗi sợ mất con sau một lần sảy thai, cuộc sống của vợ chồng Phú và Thảo (đang mang thai) trở nên tăm tối hơn bao giờ hết khi bà Thuận (mẹ Phú) qua đời vì không có tiền chữa bệnh. Giữa lúc tuyệt vọng, Thảo nghe lời bà Tánh – một người hàng xóm làm nghề cúng – quyết định thực hiện nghi thức thỉnh “vong cô hồn” về làm ma xó để trấn giữ ngôi nhà và bảo vệ thai nhi. Khi thực thể trong xó nhà bắt đầu \"đòi nợ\", Thảo mới bàng hoàng nhận ra: thứ cô rước về để bảo vệ gia đình, thực chất là một cơn ác mộng không có đường lui."
+        },
+        {
             "name": "Một Bộ Phim Minecraft",
             "year": 2025,
             "slug": "mot-bo-phim-minecraft",
@@ -713,21 +725,21 @@
             "total_episodes": "1",
             "country": "Thái Lan",
             "description": "Suốt mười năm đằng đẵng, chú chó hoang lông trắng với chiếc mũi đỏ mang tên 'GOHAN' cứ thế phiêu dạt giữa cuộc đời, ôm trọn những ký ức chẳng thể phai nhòa.\r Đó là sự ấm áp bình lặng bên người chủ đầu tiên – một kỹ sư ô tô người Nhật sắp sửa nghỉ hưu.\r Là những ngày tháng rộn ràng bên người chủ thứ hai – cô giúp việc trẻ người Miến Điện làm việc tại trạm cứu hộ thú cưng.\r Và cuối cùng, là những bài học thầm lặng chú dạy cho người chủ hiện tại – một sinh viên mỹ thuật, người lần đầu tiên trong đời học cách định nghĩa thế nào là tình yêu.\r Một câu chuyện về thời gian, về những cuộc hội ngộ và chia ly, và về một chú chó ghi nhớ tất cả."
-        },
+        }
+    ],
+    "le_vn": [
         {
-            "name": "Anh Hùng",
+            "name": "Ma Xó",
             "year": 2026,
-            "slug": "anh-hung-2026",
-            "thumb": "https://phimimg.com/uploads/movies/20260821/anh-hung-2026-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260821/anh-hung-2026-poster.webp",
+            "slug": "ma-xo",
+            "thumb": "https://phimimg.com/uploads/movies/20260924/ma-xo-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260924/ma-xo-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
             "country": "Việt Nam",
-            "description": "Câu chuyện phim theo chân Hùng (Thái Hòa) - người cha đơn thân kiêm tài xế taxi và đồng nghiệp hãng xe là Tuấn (Võ Tấn Phát) bị cuốn vào một phi vụ lừa đảo từ thiện tiền tỉ trong khi sinh mạng cô con gái nhỏ của anh đang nằm gọn trong tay tử thần."
-        }
-    ],
-    "le_vn": [
+            "description": "Trong cái nghèo cùng cực và nỗi sợ mất con sau một lần sảy thai, cuộc sống của vợ chồng Phú và Thảo (đang mang thai) trở nên tăm tối hơn bao giờ hết khi bà Thuận (mẹ Phú) qua đời vì không có tiền chữa bệnh. Giữa lúc tuyệt vọng, Thảo nghe lời bà Tánh – một người hàng xóm làm nghề cúng – quyết định thực hiện nghi thức thỉnh “vong cô hồn” về làm ma xó để trấn giữ ngôi nhà và bảo vệ thai nhi. Khi thực thể trong xó nhà bắt đầu \"đòi nợ\", Thảo mới bàng hoàng nhận ra: thứ cô rước về để bảo vệ gia đình, thực chất là một cơn ác mộng không có đường lui."
+        },
         {
             "name": "Song Hỷ Lâm Nguy",
             "year": 2026,
@@ -895,18 +907,6 @@
             "total_episodes": "1",
             "country": "Việt Nam",
             "description": "Với tâm thế luôn mang đến những điều mới để cho khán giả của mình không nhàm chán, Thỏ Ơi!!&nbsp;-&nbsp;bộ phim điện ảnh thứ 4 của đạo diễn Trấn Thành hứa hẹn sẽ mang đến một màu sắc hoàn toàn khác biệt."
-        },
-        {
-            "name": "Tổ Quốc Trong Tim: The Concert Film",
-            "year": 2025,
-            "slug": "to-quoc-trong-tim-the-concert-film",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/ad207ba831a1be34987ff26253e9a2cb.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/3201764cd0f14ea80343edae10724beb.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Việt Nam",
-            "description": "Sau thành công rực rỡ của “Concert Quốc gia – Tổ Quốc Trong Tim” diễn ra ngày 10/8 tại Sân vận động Quốc gia Mỹ Đình, cùng với sự mong đợi và yêu cầu từ đông đảo công chúng, Báo Nhân Dân quyết định ra mắt “Tổ Quốc Trong Tim: The Concert Film”. Bộ phim không chỉ tái hiện lại một sự kiện văn hóa – nghệ thuật mang dấu ấn lịch sử, mà còn là hành trình lan tỏa mạnh mẽ tình yêu Tổ quốc và niềm tự hào dân tộc."
         }
     ],
     "bo_vn": [
@@ -1275,6 +1275,18 @@
     ],
     "bo_han": [
         {
+            "name": "Ừ Thì Ly Hôn!",
+            "year": 2026,
+            "slug": "u-thi-ly-hon",
+            "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (12/12)",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
+        },
+        {
             "name": "Hương Vị Của Biển (Mùa 3)",
             "year": 2026,
             "slug": "huong-vi-cua-bien-mua-3",
@@ -1333,18 +1345,6 @@
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Khi hai nghệ sĩ piano trẻ đến từ hai thế giới hoàn toàn khác biệt gặp gỡ tại ngôi trường trung học âm nhạc danh giá, khúc nhạc cuộc đời của họ bắt đầu gắn kết chặt chẽ."
-        },
-        {
-            "name": "Ừ Thì Ly Hôn!",
-            "year": 2026,
-            "slug": "u-thi-ly-hon",
-            "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 10",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
         },
         {
             "name": "Vụ Bê Bối Thời Joseon / Bê Bối Triều Đại",
@@ -1639,6 +1639,18 @@
     ],
     "bo_trung": [
         {
+            "name": "Lan Hương Như Cố",
+            "year": 2026,
+            "slug": "lan-huong-nhu-co",
+            "thumb": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 28",
+            "total_episodes": "47",
+            "country": "Trung Quốc",
+            "description": "Thẩm Gia Lan, trưởng tôn nữ của Thẩm đại học sĩ, đã đính hôn với Lâm Cẩm Kỳ, trưởng tôn của Lại bộ Thượng thư Lâm gia. Nhưng triều đình bất ngờ nổi sóng gió, ông nội cô là Thẩm đại học sĩ bị kết tội mưu phản, khiến cả Thẩm gia rơi vào thảm họa diệt môn. Nhà họ Lâm liền hủy hôn với nhà họ Thẩm để tự bảo vệ mình, quay ra kết thông gia với nhà họ Triệu là ngự tiền mới bổ nhiệm. Vợ chồng Hứa Vạn Toàn là tôi tớ của nhà họ Lâm, từng được mẹ Thẩm Gia Lan cứu giúp, đã che giấu Gia Lan bằng cách để cô thế chỗ đứa con gái Hứa Lan Hương vừa mất vì bệnh. Từ đó Gia Lan mang thân phận Hứa Lan Hương, trở thành nha hoàn hạng ba ở Lâm phủ. Khó khăn bủa vây, Lan Hương vẫn không cúi đầu trước số phận, luôn nỗ lực tìm kiếm hạnh phúc cho cuộc sống của bản thân và gia đình, chống lại mọi bất công và áp bức. Cuối cùng, bằng lòng tốt và sự thông minh, Lan Hương đã vượt lên trên ràng buộc của địa vị giai cấp, chiếm được tình cảm của Lâm Cẩm Kỳ, đồng thời giành được sự tin tưởng và tôn trọng của toàn bộ nhà họ Lâm. Cô trở thành người nắm quyền nhà họ Lâm, tự nắm chắc vận mệnh trong tay, và rửa sạch oan khuất, đòi lại công bằng cho Thẩm gia."
+        },
+        {
             "name": "Nhất Âu Xuân",
             "year": 2026,
             "slug": "nhat-au-xuan",
@@ -1697,18 +1709,6 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Hà Tiểu Viên, một cung nữ tầm thường rơi vào vòng lặp sống lại 33 lần. Kiếp nào cô cũng cố gắng theo đuổi Thái tử Triệu Quân Nghiêu, nhưng kết cục luôn là Thái tử phải lòng hoa khôi Mục Đình Đình, bỏ mạng vì biến cố cung đình. Ở kiếp thứ 34, Thất hoàng tử Triệu Bách Khanh tiết lộ rằng số phận của hai người ràng buộc với nhau, chỉ khi nào hắn đăng cơ, đồng thời Hà Tiểu Viên giành được tình yêu đích thực của Thái tử thì vòng lặp mới kết thúc. Để đạt được mục tiêu, cả hai liên minh với nhau. Triệu Bách Khanh đích thân hướng dẫn Hà Tiểu Viên quyến rũ Thái tử. Ràng buộc số phận khiến hai người dần nhìn thấu tấm lòng của nhau, cuối cùng họ hợp sức ngăn chặn âm mưu và tìm thấy tình yêu đích thực."
-        },
-        {
-            "name": "Lan Hương Như Cố",
-            "year": 2026,
-            "slug": "lan-huong-nhu-co",
-            "thumb": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 27",
-            "total_episodes": "47",
-            "country": "Trung Quốc",
-            "description": "Thẩm Gia Lan, trưởng tôn nữ của Thẩm đại học sĩ, đã đính hôn với Lâm Cẩm Kỳ, trưởng tôn của Lại bộ Thượng thư Lâm gia. Nhưng triều đình bất ngờ nổi sóng gió, ông nội cô là Thẩm đại học sĩ bị kết tội mưu phản, khiến cả Thẩm gia rơi vào thảm họa diệt môn. Nhà họ Lâm liền hủy hôn với nhà họ Thẩm để tự bảo vệ mình, quay ra kết thông gia với nhà họ Triệu là ngự tiền mới bổ nhiệm. Vợ chồng Hứa Vạn Toàn là tôi tớ của nhà họ Lâm, từng được mẹ Thẩm Gia Lan cứu giúp, đã che giấu Gia Lan bằng cách để cô thế chỗ đứa con gái Hứa Lan Hương vừa mất vì bệnh. Từ đó Gia Lan mang thân phận Hứa Lan Hương, trở thành nha hoàn hạng ba ở Lâm phủ. Khó khăn bủa vây, Lan Hương vẫn không cúi đầu trước số phận, luôn nỗ lực tìm kiếm hạnh phúc cho cuộc sống của bản thân và gia đình, chống lại mọi bất công và áp bức. Cuối cùng, bằng lòng tốt và sự thông minh, Lan Hương đã vượt lên trên ràng buộc của địa vị giai cấp, chiếm được tình cảm của Lâm Cẩm Kỳ, đồng thời giành được sự tin tưởng và tôn trọng của toàn bộ nhà họ Lâm. Cô trở thành người nắm quyền nhà họ Lâm, tự nắm chắc vận mệnh trong tay, và rửa sạch oan khuất, đòi lại công bằng cho Thẩm gia."
         },
         {
             "name": "Giao Phong",
@@ -2367,6 +2367,18 @@
     ],
     "bo_thai": [
         {
+            "name": "Lời Tình Dối Lừa (Phần 1)",
+            "year": 2026,
+            "slug": "loi-tinh-doi-lua-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20260924/loi-tinh-doi-lua-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260924/loi-tinh-doi-lua-phan-1-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "10",
+            "country": "Thái Lan",
+            "description": "Sau tai nạn khiến Chris mất trí nhớ, cô sống hạnh phúc bên Nadia và tin rằng mình đã có một cuộc đời bình yên. Nhưng sự xuất hiện của Sun dần hé lộ những bí mật đáng sợ, khiến Chris bắt đầu nghi ngờ liệu cuộc sống hiện tại có thực sự là sự thật."
+        },
+        {
             "name": "Chuyện Tình Đảo Thiên Đường",
             "year": 2026,
             "slug": "chuyen-tinh-dao-thien-duong",
@@ -2533,18 +2545,6 @@
             "total_episodes": "12",
             "country": "Thái Lan",
             "description": "Wan, một fanboy cuồng nhiệt của Nine, bị Third - bạn diễn của Nine - hiểu lầm là fan cuồng (sasaeng). Tuy nhiên, Wan bất ngờ có cơ hội tham gia đóng chung bộ phim BL với cả hai, dẫn đến nhiều tình huống hỗn loạn trên phim trường. Trong quá trình dấn thân vào thế giới mới cùng hai hậu bối Renji và Time, cảm xúc của Wan dần trở nên phức tạp khi Third trở thành người luôn giúp đỡ anh, còn Nine lại thay đổi theo cách mà anh chưa từng ngờ tới."
-        },
-        {
-            "name": "GELBOYS (Phần 2)",
-            "year": 2025,
-            "slug": "gelboys-phan-2",
-            "thumb": "https://phimimg.com/uploads/movies/20260809/gelboys-phan-2-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260809/gelboys-phan-2-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 7",
-            "total_episodes": "8",
-            "country": "Thái Lan",
-            "description": "Câu chuyện bắt đầu khi Fourmod, một chàng trai17 tuổi đại diện cho thế hệ Gen Z trong lĩnh vực thời trang, tự tin và thích phiêu lưu, kết nối với Chien, một nhạc sĩ trung học phổ thông, thông qua việc làm móng gel. Chien, một chàng trai vui tính, thường trêu chọc Fourmod để thu hút sự chú ý của cậu. Nhưng ngay khi Fourmod thể hiện sự quan tâm, Chien lại lảng tránh, khiến Fourmod bối rối. Thực tế, Chien đang có Neon, một nam sinh cấp hai nổi tiếng, người chỉ là một trong những mối quan hệ thoáng qua của Chien.Cảm thấy bị thách thức, Fourmod tìm sự giúp đỡ từ người bạn thân Babin, một chàng trai tốt bụng nhưng tinh nghịch, để thu hút sự chú ý của Chien. Trong khi đó, Babin cũng cố gắng kết nối với Neon để giúp đỡ, nhưng hóa ra cả hai vô tình phát triển tình cảm với nhau. Điều này làm phức tạp mối quan hệ của cả bốn người, khiến mọi chuyện trở nên khó giải quyết hơn."
         }
     ],
     "long_tieng": [
@@ -2913,6 +2913,66 @@
     ],
     "trending_phim_bo": [
         {
+            "name": "Ma Xó",
+            "year": 2026,
+            "slug": "ma-xo",
+            "thumb": "https://phimimg.com/uploads/movies/20260924/ma-xo-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260924/ma-xo-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Việt Nam",
+            "description": "Trong cái nghèo cùng cực và nỗi sợ mất con sau một lần sảy thai, cuộc sống của vợ chồng Phú và Thảo (đang mang thai) trở nên tăm tối hơn bao giờ hết khi bà Thuận (mẹ Phú) qua đời vì không có tiền chữa bệnh. Giữa lúc tuyệt vọng, Thảo nghe lời bà Tánh – một người hàng xóm làm nghề cúng – quyết định thực hiện nghi thức thỉnh “vong cô hồn” về làm ma xó để trấn giữ ngôi nhà và bảo vệ thai nhi. Khi thực thể trong xó nhà bắt đầu \"đòi nợ\", Thảo mới bàng hoàng nhận ra: thứ cô rước về để bảo vệ gia đình, thực chất là một cơn ác mộng không có đường lui."
+        },
+        {
+            "name": "Lan Hương Như Cố",
+            "year": 2026,
+            "slug": "lan-huong-nhu-co",
+            "thumb": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 28",
+            "total_episodes": "47",
+            "country": "Trung Quốc",
+            "description": "Thẩm Gia Lan, trưởng tôn nữ của Thẩm đại học sĩ, đã đính hôn với Lâm Cẩm Kỳ, trưởng tôn của Lại bộ Thượng thư Lâm gia. Nhưng triều đình bất ngờ nổi sóng gió, ông nội cô là Thẩm đại học sĩ bị kết tội mưu phản, khiến cả Thẩm gia rơi vào thảm họa diệt môn. Nhà họ Lâm liền hủy hôn với nhà họ Thẩm để tự bảo vệ mình, quay ra kết thông gia với nhà họ Triệu là ngự tiền mới bổ nhiệm. Vợ chồng Hứa Vạn Toàn là tôi tớ của nhà họ Lâm, từng được mẹ Thẩm Gia Lan cứu giúp, đã che giấu Gia Lan bằng cách để cô thế chỗ đứa con gái Hứa Lan Hương vừa mất vì bệnh. Từ đó Gia Lan mang thân phận Hứa Lan Hương, trở thành nha hoàn hạng ba ở Lâm phủ. Khó khăn bủa vây, Lan Hương vẫn không cúi đầu trước số phận, luôn nỗ lực tìm kiếm hạnh phúc cho cuộc sống của bản thân và gia đình, chống lại mọi bất công và áp bức. Cuối cùng, bằng lòng tốt và sự thông minh, Lan Hương đã vượt lên trên ràng buộc của địa vị giai cấp, chiếm được tình cảm của Lâm Cẩm Kỳ, đồng thời giành được sự tin tưởng và tôn trọng của toàn bộ nhà họ Lâm. Cô trở thành người nắm quyền nhà họ Lâm, tự nắm chắc vận mệnh trong tay, và rửa sạch oan khuất, đòi lại công bằng cho Thẩm gia."
+        },
+        {
+            "name": "Ừ Thì Ly Hôn!",
+            "year": 2026,
+            "slug": "u-thi-ly-hon",
+            "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (12/12)",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
+        },
+        {
+            "name": "Thế Giới Hoàn Mỹ Movie: Cửu Kiếp Phần Thiên",
+            "year": 2026,
+            "slug": "the-gioi-hoan-my-movie-cuu-kiep-phan-thien",
+            "thumb": "https://phimimg.com/uploads/movies/20260809/the-gioi-hoan-my-movie-cuu-kiep-phan-thien-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260809/the-gioi-hoan-my-movie-cuu-kiep-phan-thien-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Trung Quốc",
+            "description": "Câu chuyện xoay quanh trận đại chiến cuối cùng của Kỷ Nguyên Tiên Cổ. Tổ Tế Linh Liễu Thần đứng ra dẫn dắt quần hùng đi tìm tia hy vọng sau cùng. Hoang Thiên Đế Thạch Hạo dùng một giọt chân huyết hóa thành phân thân, nghịch chuyển thời không giáng lâm Tiên Cổ, cùng những người đồng sinh cộng tử tìm kiếm phương pháp tối hậu để xóa bỏ tận gốc hắc ám. Đại kiếp hắc ám giáng xuống, chương cuối của Tiên Cổ chính thức mở màn, khúc tráng ca bi hùng vang lên!"
+        },
+        {
+            "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
+            "year": 2026,
+            "slug": "huan-luyen-vien-ted-lasso-phan-4",
+            "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
+        },
+        {
             "name": "Một Bộ Phim Minecraft",
             "year": 2025,
             "slug": "mot-bo-phim-minecraft",
@@ -2949,28 +3009,28 @@
             "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
         },
         {
-            "name": "Thế Giới Hoàn Mỹ Movie: Cửu Kiếp Phần Thiên",
+            "name": "Gintama The Movie 2026: Yoshiwara Trong Biển Lửa",
             "year": 2026,
-            "slug": "the-gioi-hoan-my-movie-cuu-kiep-phan-thien",
-            "thumb": "https://phimimg.com/uploads/movies/20260809/the-gioi-hoan-my-movie-cuu-kiep-phan-thien-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260809/the-gioi-hoan-my-movie-cuu-kiep-phan-thien-poster.webp",
+            "slug": "gintama-the-movie-2026-yoshiwara-trong-bien-lua",
+            "thumb": "https://phimimg.com/uploads/movies/20260913/gintama-the-movie-2026-yoshiwara-trong-bien-lua-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260913/gintama-the-movie-2026-yoshiwara-trong-bien-lua-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Trung Quốc",
-            "description": "Câu chuyện xoay quanh trận đại chiến cuối cùng của Kỷ Nguyên Tiên Cổ. Tổ Tế Linh Liễu Thần đứng ra dẫn dắt quần hùng đi tìm tia hy vọng sau cùng. Hoang Thiên Đế Thạch Hạo dùng một giọt chân huyết hóa thành phân thân, nghịch chuyển thời không giáng lâm Tiên Cổ, cùng những người đồng sinh cộng tử tìm kiếm phương pháp tối hậu để xóa bỏ tận gốc hắc ám. Đại kiếp hắc ám giáng xuống, chương cuối của Tiên Cổ chính thức mở màn, khúc tráng ca bi hùng vang lên!"
+            "country": "Nhật Bản",
+            "description": "Yoshiwara — khu phố đèn đỏ khổng lồ nằm sâu dưới lòng đất, nơi ánh mặt trời không bao giờ chạm tới và pháp luật gần như vô dụng. Tại đây, dục vọng và bạo lực bị thống trị bởi Housen, “Dạ Vương” khét tiếng thuộc tộc chiến binh Yato.  Ở Edo, Sakata Gintoki cùng nhóm Yorozuya gặp Seita, cậu bé mồ côi sống bằng nghề móc túi. Seita tin rằng Hinowa — Oiran nổi tiếng nhất Yoshiwara — chính là mẹ ruột thất lạc của mình.  Cảm động trước mong muốn giản đơn “chỉ được gặp mẹ một lần”, Gintoki và đồng đội quyết định bước vào Yoshiwara để giúp cậu. Nhưng nơi đây bị Housen cai trị bằng sức mạnh tuyệt đối, biến cuộc tìm kiếm thành trận chiến giữa tình người và bóng tối của “thành phố đêm vĩnh cửu”."
         },
         {
-            "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
+            "name": "Lãnh Địa Tử Chiến (Phần 2)",
             "year": 2026,
-            "slug": "huan-luyen-vien-ted-lasso-phan-4",
-            "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
+            "slug": "lanh-dia-tu-chien-phan-2",
+            "thumb": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
+            "current_episode": "Tập 1",
             "total_episodes": "10",
             "country": "Âu Mỹ",
-            "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
+            "description": "Sau những biến động và cuộc chiến đẫm máu ở mùa đầu tiên, gia đình tội phạm quyền lực nhà Harrigan bước sang mùa 2 trong tình trạng rạn nứt nghiêm trọng. Sức ép đè nặng khi các thành viên bắt đầu đối đầu lẫn nhau, đứng trước nguy cơ xảy ra một cuộc nội chiến thực sự."
         },
         {
             "name": "Song Hỷ Lâm Nguy",
@@ -3007,66 +3067,6 @@
             "total_episodes": "10",
             "country": "Hàn Quốc",
             "description": "Giác Quan Thứ Sáu trở lại với phiên bản hoàn toàn mới, truy tìm những thứ giả mạo ở những địa điểm khác thường và gặp gỡ những con người thú vị. Liệu giác quan nhạy bén của MC quốc dân Yoo Jae Suk, diễn viên hài Song Eun Yi, tài tử Go Kyung Pyo và BIBI có phanh phui được những thật giả lẫn lộn này?"
-        },
-        {
-            "name": "Gintama The Movie 2026: Yoshiwara Trong Biển Lửa",
-            "year": 2026,
-            "slug": "gintama-the-movie-2026-yoshiwara-trong-bien-lua",
-            "thumb": "https://phimimg.com/uploads/movies/20260913/gintama-the-movie-2026-yoshiwara-trong-bien-lua-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260913/gintama-the-movie-2026-yoshiwara-trong-bien-lua-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Nhật Bản",
-            "description": "Yoshiwara — khu phố đèn đỏ khổng lồ nằm sâu dưới lòng đất, nơi ánh mặt trời không bao giờ chạm tới và pháp luật gần như vô dụng. Tại đây, dục vọng và bạo lực bị thống trị bởi Housen, “Dạ Vương” khét tiếng thuộc tộc chiến binh Yato.  Ở Edo, Sakata Gintoki cùng nhóm Yorozuya gặp Seita, cậu bé mồ côi sống bằng nghề móc túi. Seita tin rằng Hinowa — Oiran nổi tiếng nhất Yoshiwara — chính là mẹ ruột thất lạc của mình.  Cảm động trước mong muốn giản đơn “chỉ được gặp mẹ một lần”, Gintoki và đồng đội quyết định bước vào Yoshiwara để giúp cậu. Nhưng nơi đây bị Housen cai trị bằng sức mạnh tuyệt đối, biến cuộc tìm kiếm thành trận chiến giữa tình người và bóng tối của “thành phố đêm vĩnh cửu”."
-        },
-        {
-            "name": "Lãnh Địa Tử Chiến (Phần 2)",
-            "year": 2026,
-            "slug": "lanh-dia-tu-chien-phan-2",
-            "thumb": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 1",
-            "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Sau những biến động và cuộc chiến đẫm máu ở mùa đầu tiên, gia đình tội phạm quyền lực nhà Harrigan bước sang mùa 2 trong tình trạng rạn nứt nghiêm trọng. Sức ép đè nặng khi các thành viên bắt đầu đối đầu lẫn nhau, đứng trước nguy cơ xảy ra một cuộc nội chiến thực sự."
-        },
-        {
-            "name": "Hope: Vùng Tử Địa",
-            "year": 2026,
-            "slug": "hope-vung-tu-dia",
-            "thumb": "https://phimimg.com/uploads/movies/20260919/hope-vung-tu-dia-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260919/hope-vung-tu-dia-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Hàn Quốc",
-            "description": "Tại Hope Harbor, một ngôi làng hẻo lánh nằm gần khu vực phi quân sự, cảnh sát trưởng Bum-seok đã nhận được tin báo khẩn cấp từ người dân địa phương về sự xuất hiện của một con hổ. Khi cả ngôi làng chìm trong hoảng loạn, Bum-seok ngỡ ngàng khi phát hiện một sự thật nằm ngoài sức tưởng tượng của con người."
-        },
-        {
-            "name": "Vì Yêu Xứng Danh",
-            "year": 2026,
-            "slug": "vi-yeu-xung-danh",
-            "thumb": "https://phimimg.com/uploads/movies/20260917/vi-yeu-xung-danh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260917/vi-yeu-xung-danh-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 17",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Khương Lai từng hiến thận vì tình yêu, nào ngờ lại bị chính người mình yêu phản bội. Không chỉ bị gài thành “kẻ tâm thần”, cô còn suýt bị thủ tiêu. May mắn sống sót, Khương Lai thay đổi diện mạo, trở thành Triệu Khả và âm thầm bắt tay với người phụ nữ bí ẩn Triệu Mạch. Trở lại với một thân phận hoàn toàn mới, cô từng bước giăng bẫy, xoay chuyển thế cờ, vạch trần những bí mật bị chôn giấu giữa vòng xoáy yêu hận và quyết đòi lại công bằng cho chính mình."
-        },
-        {
-            "name": "Tài phiệt và Cảnh sát (Phần 2)",
-            "year": 2026,
-            "slug": "tai-phiet-va-canh-sat-phan-2",
-            "thumb": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (14/14)",
-            "total_episodes": "14",
-            "country": "Hàn Quốc",
-            "description": "Sau Season 1, Yi-soo đã thực sự nhận ra mình muốn trở thành một cảnh sát, chứ không còn xem công việc này như trò chơi của một thiếu gia. Anh hoàn thành khóa đào tạo chính thức tại Học viện Cảnh sát, sau đó quay trở lại Đội Trọng án 1. Lần này, Yi-soo đã trưởng thành và chuyên nghiệp hơn, nhưng vẫn giữ phong cách điều tra rất đặc biệt: khi cảnh sát gặp bế tắc, anh có thể dùng tiền bạc, các mối quan hệ và nguồn lực khổng lồ của gia đình tài phiệt để mở ra những hướng điều tra mà người bình thường không thể tiếp cận."
         },
         {
             "name": "Doraemon: Nobita và Lâu Đài Dưới Đáy Biển (Phiên Bản Mới)",
