@@ -1,17 +1,5 @@
 [
     {
-        "name": "Đế Chế Đại Hàn (Phần 2)",
-        "year": 2026,
-        "slug": "de-che-dai-han-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260910/de-che-dai-han-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260910/de-che-dai-han-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (6/6)",
-        "total_episodes": "6",
-        "country": "Hàn Quốc",
-        "description": "Phần 2 tiếp tục xoáy sâu vào những cuộc đấu đá quyền lực căng thẳng, lòng tham, sự trả thù và phản bội gia đình, đặt hai nhân vật chính ở các chiến tuyến đối lập giữa một bên là khát vọng quyền lực/tiền tài và một bên là công lý."
-    },
-    {
         "name": "Ừ Thì Ly Hôn!",
         "year": 2026,
         "slug": "u-thi-ly-hon",
@@ -22,6 +10,42 @@
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
+    },
+    {
+        "name": "Ngày Hè",
+        "year": 2026,
+        "slug": "ngay-he",
+        "thumb": "https://phimimg.com/uploads/movies/20260828/ngay-he-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260828/ngay-he-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Hàn Quốc",
+        "description": "Yeo Eun Ho và Cha Do Hyeon là đôi bạn thân suốt 19 năm, nhưng Eun Ho không hề biết Do Hyeon luôn thầm yêu mình một cách mãnh liệt. Kế hoạch dần chiếm lấy trái tim bạn thân của Do Hyeon bị xáo trộn bởi sự xuất hiện của học sinh mới Kwon Yi Hyeon, buộc cậu phải tìm cách giữ Eun Ho ở bên cạnh mình."
+    },
+    {
+        "name": "Trúng Số Độc Đắc Vẫn Phải Đi Làm",
+        "year": 2026,
+        "slug": "trung-so-doc-dac-van-phai-di-lam",
+        "thumb": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "10",
+        "country": "Hàn Quốc",
+        "description": "Coi tấm séc trúng thưởng như một dạng \"bảo hiểm tinh thần\", Eun-tae mang theo một thái độ tự tin, thoải mái và không còn sợ sệt bất cứ điều gì tại công sở. Sự thay đổi ngầm này vô tình tạo ra hàng loạt tình huống dở khóc dở cười, làm đảo lộn trật tự phân cấp công sở và thay đổi cách nhìn của các đồng nghiệp cũng như cấp trên đối với anh."
+    },
+    {
+        "name": "Đế Chế Đại Hàn (Phần 2)",
+        "year": 2026,
+        "slug": "de-che-dai-han-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20260910/de-che-dai-han-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260910/de-che-dai-han-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (6/6)",
+        "total_episodes": "6",
+        "country": "Hàn Quốc",
+        "description": "Phần 2 tiếp tục xoáy sâu vào những cuộc đấu đá quyền lực căng thẳng, lòng tham, sự trả thù và phản bội gia đình, đặt hai nhân vật chính ở các chiến tuyến đối lập giữa một bên là khát vọng quyền lực/tiền tài và một bên là công lý."
     },
     {
         "name": "Hương Vị Của Biển (Mùa 3)",
@@ -142,30 +166,6 @@
         "total_episodes": "50",
         "country": "Hàn Quốc",
         "description": "Một cặp đôi từng yêu nhau rồi chia tay. 8 năm sau, anh trở thành đầu bếp nổi tiếng và gặp lại cô. Tình cũ dần trở lại nhưng cả hai phải đối mặt với nhiều rắc rối từ gia đình."
-    },
-    {
-        "name": "Ngày Hè",
-        "year": 2026,
-        "slug": "ngay-he",
-        "thumb": "https://phimimg.com/uploads/movies/20260828/ngay-he-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260828/ngay-he-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "10",
-        "country": "Hàn Quốc",
-        "description": "Yeo Eun Ho và Cha Do Hyeon là đôi bạn thân suốt 19 năm, nhưng Eun Ho không hề biết Do Hyeon luôn thầm yêu mình một cách mãnh liệt. Kế hoạch dần chiếm lấy trái tim bạn thân của Do Hyeon bị xáo trộn bởi sự xuất hiện của học sinh mới Kwon Yi Hyeon, buộc cậu phải tìm cách giữ Eun Ho ở bên cạnh mình."
-    },
-    {
-        "name": "Trúng Số Độc Đắc Vẫn Phải Đi Làm",
-        "year": 2026,
-        "slug": "trung-so-doc-dac-van-phai-di-lam",
-        "thumb": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "10",
-        "country": "Hàn Quốc",
-        "description": "Coi tấm séc trúng thưởng như một dạng \"bảo hiểm tinh thần\", Eun-tae mang theo một thái độ tự tin, thoải mái và không còn sợ sệt bất cứ điều gì tại công sở. Sự thay đổi ngầm này vô tình tạo ra hàng loạt tình huống dở khóc dở cười, làm đảo lộn trật tự phân cấp công sở và thay đổi cách nhìn của các đồng nghiệp cũng như cấp trên đối với anh."
     },
     {
         "name": "Đạo Quật Vương (Vua Trộm Mộ)",

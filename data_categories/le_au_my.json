@@ -1,5 +1,17 @@
 [
     {
+        "name": "Cú Sốc",
+        "year": 2026,
+        "slug": "cu-soc",
+        "thumb": "https://phimimg.com/upload/vod/20260505-1/8d2f42eb4d2a2db443d7ad863d83ba51.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260505-1/aa5419bddec64990d591f77262fc2e42.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Một cặp đôi đang hạnh phúc chuẩn bị kết hôn bất ngờ bị thử thách khi một biến cố ngoài dự kiến khiến cả tuần lễ cưới của họ rơi vào hỗn loạn."
+    },
+    {
         "name": "Tony",
         "year": 2026,
         "slug": "tony",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Anh",
         "description": "Câu chuyện theo chân Odysseus trong hành trình kéo dài 10 năm trở về nhà sau cuộc chiến thành Troy, nơi ông phải đối mặt với các vị thần, quái vật và vô vàn thử thách, đồng thời nỗ lực đoàn tụ với vợ và giành lại vương quốc của mình."
-    },
-    {
-        "name": "The Odyssey",
-        "year": 2026,
-        "slug": "the-odyssey",
-        "thumb": "https://phimimg.com/uploads/movies/20260829/the-odyssey-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260829/the-odyssey-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Dựa trên thiên sử thi Hy Lạp cổ đại. Sau mười năm chiến tranh, Vua Odysseus ra khơi trở về quê nhà Ithaca, khát khao được đoàn tụ với người vợ yêu thương. Nhưng hành trình trở về của ông còn gian nan hơn cả chiến trường, khi ông phải đối mặt với những quái vật chết người cùng sự phẫn nộ của các vị thần để giành lấy sự sống."
     }
 ]
