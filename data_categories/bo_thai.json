@@ -1,5 +1,17 @@
 [
     {
+        "name": "Hội quạ đen",
+        "year": 2026,
+        "slug": "hoi-qua-den",
+        "thumb": "https://phimimg.com/uploads/movies/20260919/hoi-qua-den-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260919/hoi-qua-den-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "16",
+        "country": "Thái Lan",
+        "description": "Bốn cặp đôi cùng tham gia Hội quạ đen bí ẩn, nơi những vụ việc siêu nhiên và nhiệm vụ nguy hiểm dẫn đến những mối quan hệ lãng mạn không ngờ tới."
+    },
+    {
         "name": "Lắng Nghe Thanh Âm",
         "year": 2026,
         "slug": "lang-nghe-thanh-am",
@@ -262,18 +274,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Dean (William Jakrapatr) là một anh chàng hào hoa, thích tiệc tùng, tán tỉnh và kiên quyết không muốn bị ràng buộc trong một mối quan hệ lâu dài. Mọi chuyện bắt đầu rẽ hướng khi anh nhận lời giúp cậu bạn thân Ten (Barcode Tinnasit) để tiếp cận Pun (Kin Thanachai) – người mà Ten đang thầm thương trộm nhớ, nhưng ngặt nỗi Pun lại có tình cảm với Moth (Est Supha)."
-    },
-    {
-        "name": "Hội quạ đen",
-        "year": 2026,
-        "slug": "hoi-qua-den",
-        "thumb": "https://phimimg.com/uploads/movies/20260919/hoi-qua-den-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260919/hoi-qua-den-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "16",
-        "country": "Thái Lan",
-        "description": "Bốn cặp đôi cùng tham gia Hội quạ đen bí ẩn, nơi những vụ việc siêu nhiên và nhiệm vụ nguy hiểm dẫn đến những mối quan hệ lãng mạn không ngờ tới."
     },
     {
         "name": "Hãy Là Người Chơi Thứ Hai Của Tôi / Hãy Làm Người Chơi Số Hai Của Anh (Bản Uncut)",
