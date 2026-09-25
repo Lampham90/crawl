@@ -1,5 +1,17 @@
 [
     {
+        "name": "Đặc vụ xanh (Phần 1)",
+        "year": 2026,
+        "slug": "dac-vu-xanh-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260925/dac-vu-xanh-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260925/dac-vu-xanh-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "6",
+        "country": "Anh",
+        "description": "Mackie và Jules bị cuốn vào một vụ án nguy hiểm khi kẻ thủ ác tưởng như đã biến mất nay bỗng quay trở lại. Khi dấn thân điều tra, họ dần phát hiện nội bộ cảnh sát đang che giấu một bí mật kinh hoàng."
+    },
+    {
         "name": "Truy Tìm Công Lý",
         "year": 2026,
         "slug": "truy-tim-cong-ly",
@@ -344,18 +356,6 @@
         "sub_type": "Vietsub",
         "current_episode": "Tập 8",
         "total_episodes": "40",
-        "country": "Âu Mỹ",
-        "description": "Số phận của một vũ nữ thoát y thay đổi khi cô vướng vào một gia đình giàu có nhưng đầy bất ổn đứng sau một đế chế mỹ phẩm và một âm mưu buôn người xảo quyệt."
-    },
-    {
-        "name": "Sắc Đen Huyền Diệu (Phần 2)",
-        "year": 2025,
-        "slug": "sac-den-huyen-dieu-phan-2",
-        "thumb": "https://phimimg.com/upload/vod/20250912-1/dabdfd62b8a6dc1aaf52b0d68eb90db4.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260320-1/832294bf8265a0c0198fe607cb0f714b.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (16/16)",
-        "total_episodes": "16",
         "country": "Âu Mỹ",
         "description": "Số phận của một vũ nữ thoát y thay đổi khi cô vướng vào một gia đình giàu có nhưng đầy bất ổn đứng sau một đế chế mỹ phẩm và một âm mưu buôn người xảo quyệt."
     }
