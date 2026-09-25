@@ -1,5 +1,17 @@
 [
     {
+        "name": "UNABOMBER",
+        "year": 2026,
+        "slug": "unabomber",
+        "thumb": "https://phimimg.com/uploads/movies/20260925/unabomber-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260925/unabomber-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Lấy cảm hứng từ sự kiện có thật, bộ phim chính kịch này kể về hành trình Ted Kaczynski từ thần đồng Harvard và đối tượng thí nghiệm trở thành Unabomber giữa lúc bị FBI truy lùng."
+    },
+    {
         "name": "Cú Sốc",
         "year": 2026,
         "slug": "cu-soc",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Khi con trai nhỏ mất tích, một người đàn ông góa vợ phải nhờ đến người cha xa cách từ lâu – cựu thanh tra từng bắt giữ tên sát nhân hàng loạt, kẻ giờ đây có liên quan đến vụ án."
-    },
-    {
-        "name": "Sử Thi Odyssey",
-        "year": 2026,
-        "slug": "su-thi-odyssey",
-        "thumb": "https://phimimg.com/uploads/movies/20260829/su-thi-odyssey-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260829/su-thi-odyssey-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Anh",
-        "description": "Câu chuyện theo chân Odysseus trong hành trình kéo dài 10 năm trở về nhà sau cuộc chiến thành Troy, nơi ông phải đối mặt với các vị thần, quái vật và vô vàn thử thách, đồng thời nỗ lực đoàn tụ với vợ và giành lại vương quốc của mình."
     }
 ]
