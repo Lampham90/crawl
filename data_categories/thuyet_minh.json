@@ -1,5 +1,17 @@
 [
     {
+        "name": "Tàn Thuốc",
+        "year": 2026,
+        "slug": "tan-thuoc",
+        "thumb": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 8",
+        "total_episodes": "9",
+        "country": "Hồng Kông",
+        "description": "Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần được hé lộ, cả hai cùng bị kéo vào một vụ án làm tiền giả xuyên quốc gia và cuộc tranh giành quyền lực giữa các thế lực địa phương."
+    },
+    {
         "name": "Tôi Không Phải Là Đại Sư (Phần 1)",
         "year": 2026,
         "slug": "toi-khong-phai-la-dai-su-phan-1",
@@ -178,18 +190,6 @@
         "total_episodes": "24",
         "country": "Trung Quốc",
         "description": "Nguyễn Tư Nhàn, một tiếp viên hàng không quyết tâm theo đuổi ước mơ phi công, đã vượt qua nhiều thử thách để tốt nghiệp xuất sắc. Trên hành trình chinh phục sự nghiệp, cô dần nảy sinh tình cảm chân thành với Phó chủ tịch hãng hàng không Phó Minh Dư bất chấp những hiểu lầm và trở ngại."
-    },
-    {
-        "name": "Tàn Thuốc",
-        "year": 2026,
-        "slug": "tan-thuoc",
-        "thumb": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 7",
-        "total_episodes": "9",
-        "country": "Hồng Kông",
-        "description": "Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần được hé lộ, cả hai cùng bị kéo vào một vụ án làm tiền giả xuyên quốc gia và cuộc tranh giành quyền lực giữa các thế lực địa phương."
     },
     {
         "name": "Vẽ Lại Thanh Xuân",
