@@ -1,5 +1,17 @@
 [
     {
+        "name": "Truyện Kinh Dị Mỹ (Phần 13)",
+        "year": 2026,
+        "slug": "truyen-kinh-di-my-phan-13",
+        "thumb": "https://phimimg.com/uploads/movies/20260927/truyen-kinh-di-my-phan-13-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260927/truyen-kinh-di-my-phan-13-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "13",
+        "country": "Âu Mỹ",
+        "description": "Truyện kinh dị Mỹ (tựa gốc: American Horror Story) là loạt phim truyền hình nhiều tập ngắn kinh dị của Mỹ được sản xuất bởi Ryan Murphy và Brad Falchuk. Được biên kịch dưới dạng series, mỗi mùa được sản xuất dưới dạng phim truyền hình ngắn, khoảng 12 tập. Sau mỗi mùa, bối cảnh, cũng như các nhân vật được thay mới hoàn toàn, kể cả với các diễn viên từng tham gia mùa trước nên các mùa phim có cốt truyện độc lập với nhau, sở hữu cao trào và kết thúc riêng. Một số yếu tố trong phim lấy cảm hứng từ những câu chuyện và nhân vật có thật."
+    },
+    {
         "name": "Lãnh Địa Tử Chiến (Phần 2)",
         "year": 2026,
         "slug": "lanh-dia-tu-chien-phan-2",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Trong thế giới hoang tàn và nhiễm độc ở tương lai, hàng nghìn người sống trong một silo khổng lồ sâu dưới lòng đất. Sau khi một cảnh sát trưởng phá vỡ một quy tắc chủ chốt và dân thường thiệt mạng một cách bí ẩn, kỹ sư Juliette bắt đầu phát hiện ra những bí mật gây sốc và sự thật về silo."
-    },
-    {
-        "name": "Thám Tử Động Vật (Phần 5)",
-        "year": 2025,
-        "slug": "tham-tu-dong-vat-phan-5",
-        "thumb": "https://phimimg.com/upload/vod/20250610-1/0d30161302389112696eb6465a3b58d2.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250610-1/62897087c9910c1787f8b00cb71a71b0.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (9/9)",
-        "total_episodes": "9",
-        "country": "Pháp",
-        "description": "Các đặc vụ Sam và Kit vi vu khắp thế giới cùng kỹ năng trinh thám, kiến thức khoa học và thiết bị hay ho để phá giải vô số bí ẩn của vương quốc động vật."
     }
 ]

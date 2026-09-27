@@ -6,10 +6,22 @@
         "thumb": "https://phimimg.com/uploads/movies/20260829/bon-ban-tay-hai-ban-sonata-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260829/bon-ban-tay-hai-ban-sonata-poster.webp",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
+        "current_episode": "Tập 10",
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Khi hai nghệ sĩ piano trẻ đến từ hai thế giới hoàn toàn khác biệt gặp gỡ tại ngôi trường trung học âm nhạc danh giá, khúc nhạc cuộc đời của họ bắt đầu gắn kết chặt chẽ."
+    },
+    {
+        "name": "Chìm Vào Mắt Em (Phần 1)",
+        "year": 2026,
+        "slug": "chim-vao-mat-em-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260927/chim-vao-mat-em-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260927/chim-vao-mat-em-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Xoay quanh Lee A-ran (Bona), một vận động viên lặn trẻ tuổi phải dừng lại sự nghiệp vì hội chứng sợ nước sau một tai nạn bí ẩn. Khi trở lại ngôi trường cấp 3 ven biển, cô gặp lại Jang Se-jin (Park Seo-ham) — người bạn thơ ấu nắm giữ khả năng đọc được ký ức của người khác thông qua va chạm nước. Cả hai cùng nhau khám phá ra bí mật liên quan đến biến cố năm xưa và hành trình chữa lành tổn thương tâm lý."
     },
     {
         "name": "Tiệm Bánh Gạo Vũ Trụ",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Hàn Quốc",
         "description": "Yoo In Sik (&quot;Nữ luật sư kỳ lạ Woo Young Woo&quot;) đạo diễn loạt phim hài hành động này về ba kẻ lạc loài tình cờ sở hữu siêu năng lực – nhưng không biết cách sử dụng."
-    },
-    {
-        "name": "Viên Ngọc Thần Chuyện Về Bọ Rùa Và Mèo Mun (Phần 8)",
-        "year": 2026,
-        "slug": "vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-8",
-        "thumb": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-8-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260812/vien-ngoc-than-chuyen-ve-bo-rua-va-meo-mun-phan-8-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (13/13)",
-        "total_episodes": "13",
-        "country": "Pháp",
-        "description": "Marinette và Adrien — hai thiếu niên sống tại Paris — được trao ban những viên bảo ngọc đầy quyền năng để biến hình thành các siêu anh hùng Ladybug (Bọ Rùa) và Cat Noir (Mèo Đen). Thế nhưng, không một ai trong hai người biết được danh tính thực sự của đối phương — hay thậm chí là cả việc họ chính là bạn cùng lớp của nhau!"
     }
 ]
