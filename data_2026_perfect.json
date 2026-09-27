@@ -1,6 +1,18 @@
 {
     "anime_movie": [
         {
+            "name": "Thám Tử Lừng Danh Conan: Vụ án tiền giả Ultra 30",
+            "year": 2026,
+            "slug": "tham-tu-lung-danh-conan-vu-an-tien-gia-ultra-30",
+            "thumb": "https://phimimg.com/uploads/movies/20260927/tham-tu-lung-danh-conan-vu-an-tien-gia-ultra-30-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260927/tham-tu-lung-danh-conan-vu-an-tien-gia-ultra-30-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Nhật Bản",
+            "description": "Cốt truyện của phần phim khởi đầu từ sự xuất hiện của những tờ tiền giả trên thị trường, nhanh chóng biến một cuộc điều tra tội phạm thông thường thành mối đe dọa an ninh trên quy mô toàn quốc. Để truy tìm nguồn gốc dòng tiền bất hợp pháp, Conan Edogawa cùng các đồng đội đã di chuyển tới Cục In tiền Quốc gia tại Nagano. Những manh mối thu thập được tiếp tục đưa Conan và thám tử trung học Heiji Hattori tiến về Osaka, nơi nghi vấn là đại bản doanh sản xuất tiền giả."
+        },
+        {
             "name": "Thế Giới Hoàn Mỹ Movie: Cửu Kiếp Phần Thiên",
             "year": 2026,
             "slug": "the-gioi-hoan-my-movie-cuu-kiep-phan-thien",
@@ -167,21 +179,57 @@
             "total_episodes": "1",
             "country": "Trung Quốc",
             "description": "Ngay từ thuở khai thiên lập địa, Hỗn Độn xâm chiếm vạn vật. Phàm là sinh linh được sinh ra trong cõi Vô Cực này, đều sẽ bị âm thầm gieo vào 1 tia Hỗn Độn Chi Lực, để khi chín muồi thì bị thu hoạch. Tuyệt Thiên Thông vì muốn chống lại Hỗn Độn, đã thu nhận đệ tử đầu tiên của mình là Từ Âm. Nhưng kẻ mà ông đặt nhiều kỳ vọng ấy cuối cùng lại phản bội ông. Ngàn vạn năm sau, Từ Dương nắm quyền chưởng quản Thiên Lam Tông, Ngũ Đại Pháp Tọa phục sinh Từ Âm. Kẻ đã ngủ yên suốt ngàn vạn năm ấy nay mang trong mình Hỗn Độn Chi Lực mạnh mẽ hơn xưa. Cuộc đại chiến giữa Âm và Dương, từ đó mà bắt đầu."
-        },
-        {
-            "name": "Sesame Street Bão Đang Tới",
-            "year": 2026,
-            "slug": "sesame-street-bao-dang-toi",
-            "thumb": "https://phimimg.com/uploads/movies/20260804/sesame-street-bao-dang-toi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260804/sesame-street-bao-dang-toi-poster.webp",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Mỹ",
-            "description": "Sau khi một cơn bão quét qua Phố Vừng, Big Bird không còn tổ nữa! Nhưng các bạn của cậu đã cùng nhau động viên cậu – và giúp cậu xây lại ngôi nhà."
         }
     ],
     "anime_nhat": [
+        {
+            "name": "Cô Nàng Mọt Sách",
+            "year": 2026,
+            "slug": "co-nang-mot-sach",
+            "thumb": "https://phimimg.com/upload/vod/20260413-1/123b7a5cfa19c587ac0fb3395cd828f0.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260413-1/7a0e4154b3a97790815b0ffa25ffcf2b.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 23",
+            "total_episodes": "24",
+            "country": "Nhật Bản",
+            "description": "Ritsu được thừa hưởng giác quan thứ sáu từ ông nội, cùng với một hộ pháp bảo vệ thuộc cõi âm tên là Blue Storm. Những hiện tượng kỳ lạ dường như luôn bám theo bộ đôi này, và nhiệm vụ của họ là phải tìm ra chân tướng của những sự kiện bí ẩn đó. Mỗi câu chuyện là một phần độc lập nhưng đều có sự xuất hiện của các nhân vật quen thuộc những người mà bạn sẽ dần thấu hiểu và trân trọng khi chứng kiến cách họ đối mặt với những thứ &quot;không thuộc về thế giới này&quot; theo phong cách riêng của mỗi người."
+        },
+        {
+            "name": "Vào Ma Giới Rồi Đấy! Iruma-kun (Phần 4)",
+            "year": 2026,
+            "slug": "vao-ma-gioi-roi-day-irumakun-phan-4",
+            "thumb": "https://phimimg.com/upload/vod/20260407-1/d12a54fa0682e1b66ab4c1b0f147b0ab.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260407-1/c4b0b33444924bf81ca7bfe6081e4ef7.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (24/24)",
+            "total_episodes": "24",
+            "country": "Nhật Bản",
+            "description": "Iruma tiếp tục cuộc sống tại học viện Babyls với những thử thách ngày càng khó khăn. Cậu cùng các bạn phải đối mặt với kỳ thi mới và những âm mưu bí ẩn trong thế giới ma quái. Sự trưởng thành của Iruma dần được thể hiện khi cậu học cách bảo vệ bạn bè và khẳng định bản thân. Các mối quan hệ xung quanh cậu cũng trở nên sâu sắc và phức tạp hơn. Giữa tiếng cười và hiểm nguy, Iruma tiến gần hơn tới vị trí đặc biệt trong ma giới."
+        },
+        {
+            "name": "Mẹ Kế, Chị Kế Không Hề Khắt Khe",
+            "year": 2026,
+            "slug": "me-ke-chi-ke-khong-he-khat-khe",
+            "thumb": "https://phimimg.com/uploads/movies/20260709/me-ke-chi-ke-khong-he-khat-khe-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260709/me-ke-chi-ke-khong-he-khat-khe-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (12/12)",
+            "total_episodes": "12",
+            "country": "Nhật Bản",
+            "description": "Khi người mẹ yêu dấu qua đời vì bạo bệnh, Miya Nakamura, cô con gái riêng của một gia tộc danh giá, được đưa về phủ chính của gia đình Kounokura. Nghĩ rằng bản thân sẽ chỉ nhận lại sự khinh miệt và tàn nhẫn vì là con của phòng nhì, Miya đã chuẩn bị tâm lý cho tình huống tồi tệ nhất... Thế nhưng, thứ đón chờ cô tại đây lại là một điều mà cô chưa từng dám nghĩ tới...!"
+        },
+        {
+            "name": "Hell Mode: Game Thủ Xuất Chúng Tung Hoành Chốn Dị Giới Hỗn Nguyên (Phần 2)",
+            "year": 2026,
+            "slug": "hell-mode-game-thu-xuat-chung-tung-hoanh-chon-di-gioi-hon-nguyen-phan-2",
+            "thumb": "https://phimimg.com/upload/vod/20260705-1/eb633393851788cf7a7665e245c43438.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260705-1/60a64bc29b820d39997e3cbd6bc01518.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (13/13)",
+            "total_episodes": "13",
+            "country": "Nhật Bản",
+            "description": "Kenichi Yamada, một nhân viên văn phòng 35 tuổi độc thân, đã dành phần lớn thời gian trưởng thành của mình để cày cuốc mọi tựa game MMORPG trên thị trường. Chán nản với vòng lặp của lối chơi lặp lại và luôn ưu ái người chơi mới, anh lập tức bị thu hút bởi lời quảng cáo về một trò chơi mới: không có hồi kết và đặc biệt là có chế độ &#39;Hell Mode&#39; (Chế độ Địa ngục). Đây là mức độ khó khiến việc thăng cấp trở nên gần như không tưởng, nhưng bù lại hứa hẹn tiềm năng tăng trưởng không giới hạn. Sau khi chọn lớp nhân vật Triệu hồi sư vừa ra mắt, Kenichi thấy mình tái sinh dưới hình hài Allen, một đứa trẻ sơ sinh trong một gia đình nông nô, với hành trang duy nhất là trí tuệ và những ký ức từ kiếp trước để dẫn lối."
+        },
         {
             "name": "Thiếu Chủ Giỏi Chạy Trốn (Phần 2)",
             "year": 2026,
@@ -313,54 +361,6 @@
             "total_episodes": "22",
             "country": "Nhật Bản",
             "description": "Thời gian trôi qua thật yên bình đối với Sakamoto kể từ khi anh ấy rời khỏi thế giới ngầm. Anh ấy đang điều hành một cửa hàng nhỏ trong khu phố với người vợ xinh đẹp và đứa con của mình, và có vẻ hơi... phát tướng rồi. Nhưng một ngày nọ, một nhân vật từ quá khứ của anh ấy đến thăm và đưa ra một lời đề nghị mà anh ấy không thể từ chối: quay trở lại thế giới sát thủ hoặc là chết!"
-        },
-        {
-            "name": "Mắc Kẹt Trong Game Hẹn Hò: Thế Giới Game Otome Thật Khắc Nghiệt Với Nhân Vật Quần Chúng (Phần 2)",
-            "year": 2026,
-            "slug": "mac-ket-trong-game-hen-ho-the-gioi-game-otome-that-khac-nghiet-voi-nhan-vat-quan-chung-phan-2",
-            "thumb": "https://phimimg.com/uploads/movies/20260708/the-gioi-otome-game-that-khac-nghiet-voi-nhan-vat-quan-chung-phan-2-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260708/the-gioi-otome-game-that-khac-nghiet-voi-nhan-vat-quan-chung-phan-2-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 12",
-            "total_episodes": "13",
-            "country": "Nhật Bản",
-            "description": "Leon, người từng làm công nhân ở Nhật Bản, được chuyển sinh vào thế giới \"Otome\", và tuyệt vọng khi nhận ra quy luật của thế giới này- là nơi mà phụ nữ mới là những người nắm quyền. Đàn ông dường như chỉ là vật nuôi, phục vụ như những hòn đá tảng cho phụ nữ ở nơi đây.Ngoại lệ duy nhất là những mục tiêu trong trò chơi, một nhóm ikemen được dẫn đầu bởi thái tử điện hạ. Và trong tình huống quái dị này, Leon sở hữu một vũ khí bí mật. Đó chính là kí ức từ kiếp trước, khi mà đứa em gái trơ tráo bắt anh ta hoàn thành trò chơi này. Và Leon - Một người chỉ muốn sống một cách yên bình nơi chốn đồng quê, phải sử dụng những kiến thức ấy để chống lại phụ nữ và đám ikemen. Và đây là câu chuyện đầy bất ngờ trong việc đánh bại nữ chính độc ác ở thế giới Otome..."
-        },
-        {
-            "name": "Tanya Chiến Ký (Phần 2)",
-            "year": 2026,
-            "slug": "tanya-chien-ky-phan-2",
-            "thumb": "https://phimimg.com/upload/vod/20260703-1/8be73977810615aa8477fe5d99def74f.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260703-1/e95b02d3e2e34eaa97b8acf51468a5d6.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 12",
-            "total_episodes": "16",
-            "country": "Nhật Bản",
-            "description": "Trên tiền tuyến giữa cuộc chiến, một cô gái nhỏ bé, tóc vàng, đôi mắt xanh kiên định, và làn da trắng nhuốm màu khói chiến tranh, bằng chất giọng lanh lảnh của mình, cô điều khiển cả sư đoàn pháp thuật của Đế Quốc. Cô chính là Thiếu Úy Tanya Degurechaff. Nhưng bản chất thật đằng sau hình hài cô gái 9 tuổi này là gì đây? Quả thật, cô chính là một chàng nhân viên ưu tú 30 tuổi, tái sinh dưới hình dạng một cô gái nhỏ, vì vậy anh đã kiêu ngạo mà nói phạm đến Chúa Trời nên phải chịu hình phạt này. Dù hình dáng nhỏ bé, nhưng Tanya vẫn không giấu được bản chất của một người chiến binh tàn bạo, coi trọng sự nghiệp của mình hơn bất cứ thứ gì khác, thậm chí cả mạng sống của những người dưới cô."
-        },
-        {
-            "name": "Sự Nghiện Ngập Hoàn Hảo",
-            "year": 2026,
-            "slug": "su-nghien-ngap-hoan-hao",
-            "thumb": "https://phimimg.com/uploads/movies/20260709/su-nghien-ngap-hoan-hao-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260709/su-nghien-ngap-hoan-hao-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 12",
-            "total_episodes": "13",
-            "country": "Nhật Bản",
-            "description": "Akihito, một nam sinh đại học lăng nhăng và cuồng ngoại hình, cực kỳ ghét Sae — kẻ sở hữu gương mặt cực phẩm cùng thái độ ngạo mạn. Khi nhận ra cô gái mà mình đang tăm tia trong buổi xem mắt nhóm lại chủ động tiếp cận Sae, sự ức chế của Akihito đã chạm đỉnh. Đúng lúc đó, Akihito vô tình bắt gặp Sae đang cãi vã với một người đàn ông trước cửa khách sạn, từ đó phát hiện ra bí mật động trời: Sae thực chất là người đồng tính và đóng vai \"dưới\" (bottom). Sae thú nhận những rắc rối của bản thân khi không thể tìm được cảm giác hòa hợp trong chuyện chăn gối, một khía cạnh hoàn toàn tương phản với vẻ ngoài hoàn hảo thường ngày của anh. Bị kích động bởi lời khiêu khích, Akihito đã dùng vũ lực đè Sae xuống, thế nhưng chính Sae lúc này cũng không thể kìm nén bản thân thêm được nữa...?!"
-        },
-        {
-            "name": "ReZERO - Bắt Đầu Lại Ở Thế Giới Khác (Phần 4)",
-            "year": 2026,
-            "slug": "rezero-bat-dau-lai-o-the-gioi-khac-phan-4",
-            "thumb": "https://phimimg.com/upload/vod/20260423-1/b2ee47fa752ddfa5793c46ae57537dde.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260423-1/ffd6a732d5b223183fdcde2169e43b61.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 18",
-            "total_episodes": "19",
-            "country": "Nhật Bản",
-            "description": "Re:Zero Mùa 4 sẽ tập trung vào Arc 6 (Hành lang ký ức), đưa Subaru và nhóm bạn tiến về phía đông đến Tháp canh Pleiades giữa sa mạc cát chết chóc để tìm cách giải cứu những người bị ăn mất &quot;tên&quot; và &quot;ký ức&quot;. Tại đây, họ phải đối mặt với 5 thử thách khắc nghiệt từ người canh giữ tòa tháp là Shaula và huyền thoại Reid Astrea, đồng thời Subaru sẽ rơi vào trạng thái tuyệt vọng tột cùng khi chính bản thân anh bị mất trí nhớ, không còn nhớ mình là ai hay khả năng &quot;Trở về từ cõi chết&quot;. Đây được đánh giá là phần nội dung đen tối và kịch tính nhất từ trước đến nay, nơi ranh giới giữa cái chết và sự điên loạn trở nên mong manh hơn bao giờ hết."
         }
     ],
     "hh_trung_quoc": [
@@ -1275,6 +1275,18 @@
     ],
     "bo_han": [
         {
+            "name": "Bốn Bàn Tay, Hai Bản Sonata",
+            "year": 2026,
+            "slug": "bon-ban-tay-hai-ban-sonata",
+            "thumb": "https://phimimg.com/uploads/movies/20260829/bon-ban-tay-hai-ban-sonata-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260829/bon-ban-tay-hai-ban-sonata-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 9",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Khi hai nghệ sĩ piano trẻ đến từ hai thế giới hoàn toàn khác biệt gặp gỡ tại ngôi trường trung học âm nhạc danh giá, khúc nhạc cuộc đời của họ bắt đầu gắn kết chặt chẽ."
+        },
+        {
             "name": "Ừ Thì Ly Hôn!",
             "year": 2026,
             "slug": "u-thi-ly-hon",
@@ -1369,18 +1381,6 @@
             "total_episodes": "14",
             "country": "Hàn Quốc",
             "description": "Phim khai thác câu chuyện thực tế và đầy cảm xúc về cặp đôi Namgoong Ho và Lee Mi-do đã gắn bó bên nhau suốt 10 năm. Khi sự quen thuộc dần lấn át những rung động ban đầu và họ đứng trước ngưỡng cửa hôn nhân, mối quan hệ bắt đầu xuất hiện những vết rạn và khoảng cách."
-        },
-        {
-            "name": "Bốn Bàn Tay, Hai Bản Sonata",
-            "year": 2026,
-            "slug": "bon-ban-tay-hai-ban-sonata",
-            "thumb": "https://phimimg.com/uploads/movies/20260829/bon-ban-tay-hai-ban-sonata-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260829/bon-ban-tay-hai-ban-sonata-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Khi hai nghệ sĩ piano trẻ đến từ hai thế giới hoàn toàn khác biệt gặp gỡ tại ngôi trường trung học âm nhạc danh giá, khúc nhạc cuộc đời của họ bắt đầu gắn kết chặt chẽ."
         },
         {
             "name": "Vụ Bê Bối Thời Joseon / Bê Bối Triều Đại",
@@ -1639,6 +1639,30 @@
     ],
     "bo_trung": [
         {
+            "name": "Tôi Không Phải Là Đại Sư (Phần 1)",
+            "year": 2026,
+            "slug": "toi-khong-phai-la-dai-su-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20260924/toi-khong-phai-la-dai-su-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260924/toi-khong-phai-la-dai-su-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 8",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Trường Phong Khởi là phim trinh thám huyền bí thời Dân Quốc do đạo diễn Dương Lỗi (đạo diễn \"Tam Thể\", \"Thái Bình Niên\") chỉ đạo và biên kịch Dương Triết chấp bút. Bộ phim chuyển thể từ tiểu thuyết \"Tôi Là Một Thầy Bói\" của tác giả Dịch Chi. Phim có sự tham gia diễn chính của Lý Hiện (từng đóng \"Cá Mực Hầm Mật\", \"Đi Đến Nơi Có Gió\"), Lý Nhất Đồng (từng đóng \"Cuồng Phong\", \"Vân Tú Hành\"), Lưu Quán Lân (từng đóng \"Khanh Khanh Nhật Thường\"), Quả Tĩnh Lâm (từng đóng \"Phong Dữ Triều\"), cùng sự tham gia đặc biệt của Ngô Cương. Thượng Quan Thành Minh tận mắt chứng kiến cả gia đình bị Thiên Tướng Phái bày kế sát hại. Anh đổi tên, âm thầm che giấu thân phận, quyết trả lại từng món nợ máu theo cách “ăn miếng trả miếng”. Anh đồng hành cùng Giang Phi Yến, một cô gái đang chìm trong nghịch cảnh nhưng vẫn quyết tâm thay đổi số phận. Hai người cùng giăng ra những màn lừa đảo liên hoàn để chống lại kẻ thù. Trên hành trình đó, họ từng bước vạch trần những góc khuất đen tối phía sau các trò lừa đào, cuối cùng phá tan Thiên Tướng Phái, giải cứu những người bị khống chế, trừng trị cái ác, bảo vệ chính nghĩa. Bộ phim sẽ được phát sóng trực tuyến trên nền tảng iQIYI Quốc tế (iQ.com)."
+        },
+        {
+            "name": "Lan Hương Như Cố",
+            "year": 2026,
+            "slug": "lan-huong-nhu-co",
+            "thumb": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 34",
+            "total_episodes": "47",
+            "country": "Trung Quốc",
+            "description": "Thẩm Gia Lan, trưởng tôn nữ của Thẩm đại học sĩ, đã đính hôn với Lâm Cẩm Kỳ, trưởng tôn của Lại bộ Thượng thư Lâm gia. Nhưng triều đình bất ngờ nổi sóng gió, ông nội cô là Thẩm đại học sĩ bị kết tội mưu phản, khiến cả Thẩm gia rơi vào thảm họa diệt môn. Nhà họ Lâm liền hủy hôn với nhà họ Thẩm để tự bảo vệ mình, quay ra kết thông gia với nhà họ Triệu là ngự tiền mới bổ nhiệm. Vợ chồng Hứa Vạn Toàn là tôi tớ của nhà họ Lâm, từng được mẹ Thẩm Gia Lan cứu giúp, đã che giấu Gia Lan bằng cách để cô thế chỗ đứa con gái Hứa Lan Hương vừa mất vì bệnh. Từ đó Gia Lan mang thân phận Hứa Lan Hương, trở thành nha hoàn hạng ba ở Lâm phủ. Khó khăn bủa vây, Lan Hương vẫn không cúi đầu trước số phận, luôn nỗ lực tìm kiếm hạnh phúc cho cuộc sống của bản thân và gia đình, chống lại mọi bất công và áp bức. Cuối cùng, bằng lòng tốt và sự thông minh, Lan Hương đã vượt lên trên ràng buộc của địa vị giai cấp, chiếm được tình cảm của Lâm Cẩm Kỳ, đồng thời giành được sự tin tưởng và tôn trọng của toàn bộ nhà họ Lâm. Cô trở thành người nắm quyền nhà họ Lâm, tự nắm chắc vận mệnh trong tay, và rửa sạch oan khuất, đòi lại công bằng cho Thẩm gia."
+        },
+        {
             "name": "Nhất Âu Xuân",
             "year": 2026,
             "slug": "nhat-au-xuan",
@@ -1649,18 +1673,6 @@
             "total_episodes": "30",
             "country": "Trung Quốc",
             "description": "\"Người đàn ông sát phạt quyết đoán, thâm sâu mưu mô\" Thẩm Nhuận và cô gái “thông minh tỉnh táo như bông sen đen” Tạ Thanh Viên trở thành lưỡi dao của nhau, cùng nhau bước trên con đường báo thù đan xen trong lý trí và tình cảm. Giữa những cuộc đấu đá công khai và âm thầm trong các gia tộc quyền quý, họ làm rung chuyển cả chính trường triều đình."
-        },
-        {
-            "name": "Lan Hương Như Cố",
-            "year": 2026,
-            "slug": "lan-huong-nhu-co",
-            "thumb": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 33",
-            "total_episodes": "47",
-            "country": "Trung Quốc",
-            "description": "Thẩm Gia Lan, trưởng tôn nữ của Thẩm đại học sĩ, đã đính hôn với Lâm Cẩm Kỳ, trưởng tôn của Lại bộ Thượng thư Lâm gia. Nhưng triều đình bất ngờ nổi sóng gió, ông nội cô là Thẩm đại học sĩ bị kết tội mưu phản, khiến cả Thẩm gia rơi vào thảm họa diệt môn. Nhà họ Lâm liền hủy hôn với nhà họ Thẩm để tự bảo vệ mình, quay ra kết thông gia với nhà họ Triệu là ngự tiền mới bổ nhiệm. Vợ chồng Hứa Vạn Toàn là tôi tớ của nhà họ Lâm, từng được mẹ Thẩm Gia Lan cứu giúp, đã che giấu Gia Lan bằng cách để cô thế chỗ đứa con gái Hứa Lan Hương vừa mất vì bệnh. Từ đó Gia Lan mang thân phận Hứa Lan Hương, trở thành nha hoàn hạng ba ở Lâm phủ. Khó khăn bủa vây, Lan Hương vẫn không cúi đầu trước số phận, luôn nỗ lực tìm kiếm hạnh phúc cho cuộc sống của bản thân và gia đình, chống lại mọi bất công và áp bức. Cuối cùng, bằng lòng tốt và sự thông minh, Lan Hương đã vượt lên trên ràng buộc của địa vị giai cấp, chiếm được tình cảm của Lâm Cẩm Kỳ, đồng thời giành được sự tin tưởng và tôn trọng của toàn bộ nhà họ Lâm. Cô trở thành người nắm quyền nhà họ Lâm, tự nắm chắc vận mệnh trong tay, và rửa sạch oan khuất, đòi lại công bằng cho Thẩm gia."
         },
         {
             "name": "Vì Yêu Xứng Danh",
@@ -1793,18 +1805,6 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Liên Diệp, đường chủ bang Tam Sơn, bất ngờ gặp thảm án cả nhà bị sát hại. Để điều tra chân tướng và báo thù, anh liên thủ với Lý Minh Viễn - người bạn nối khố hiện là Phó Cục trưởng Cục Cảnh sát Dung Thành, và Trần Điệp Y - bà chủ vũ trường Hoa Nhài. Trong quá trình phá án, họ lần lượt làm sáng tỏ hàng loạt vụ án bí ẩn do Matsui Jiichiro, tên trùm gián điệp Nhật Bản, dàn dựng nhằm thâm nhập Dung Thành. Trước âm mưu xâm lược của quân Nhật, họ không quản hiểm nguy, xông pha nơi tuyến đầu, quyết tâm bảo vệ quê hương, đất nước."
-        },
-        {
-            "name": "Tôi Không Phải Là Đại Sư (Phần 1)",
-            "year": 2026,
-            "slug": "toi-khong-phai-la-dai-su-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20260924/toi-khong-phai-la-dai-su-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260924/toi-khong-phai-la-dai-su-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 6",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Trường Phong Khởi là phim trinh thám huyền bí thời Dân Quốc do đạo diễn Dương Lỗi (đạo diễn \"Tam Thể\", \"Thái Bình Niên\") chỉ đạo và biên kịch Dương Triết chấp bút. Bộ phim chuyển thể từ tiểu thuyết \"Tôi Là Một Thầy Bói\" của tác giả Dịch Chi. Phim có sự tham gia diễn chính của Lý Hiện (từng đóng \"Cá Mực Hầm Mật\", \"Đi Đến Nơi Có Gió\"), Lý Nhất Đồng (từng đóng \"Cuồng Phong\", \"Vân Tú Hành\"), Lưu Quán Lân (từng đóng \"Khanh Khanh Nhật Thường\"), Quả Tĩnh Lâm (từng đóng \"Phong Dữ Triều\"), cùng sự tham gia đặc biệt của Ngô Cương. Thượng Quan Thành Minh tận mắt chứng kiến cả gia đình bị Thiên Tướng Phái bày kế sát hại. Anh đổi tên, âm thầm che giấu thân phận, quyết trả lại từng món nợ máu theo cách “ăn miếng trả miếng”. Anh đồng hành cùng Giang Phi Yến, một cô gái đang chìm trong nghịch cảnh nhưng vẫn quyết tâm thay đổi số phận. Hai người cùng giăng ra những màn lừa đảo liên hoàn để chống lại kẻ thù. Trên hành trình đó, họ từng bước vạch trần những góc khuất đen tối phía sau các trò lừa đào, cuối cùng phá tan Thiên Tướng Phái, giải cứu những người bị khống chế, trừng trị cái ác, bảo vệ chính nghĩa. Bộ phim sẽ được phát sóng trực tuyến trên nền tảng iQIYI Quốc tế (iQ.com)."
         },
         {
             "name": "Vân Tước Khiếu Thiên Lục",
@@ -2367,6 +2367,66 @@
     ],
     "bo_thai": [
         {
+            "name": "Yêu Hết Lòng Chàng Fanboy",
+            "year": 2026,
+            "slug": "yeu-het-long-chang-fanboy",
+            "thumb": "https://phimimg.com/uploads/movies/20260830/yeu-het-long-chang-fanboy-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260830/yeu-het-long-chang-fanboy-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 5",
+            "total_episodes": "12",
+            "country": "Thái Lan",
+            "description": "Wan, một fanboy cuồng nhiệt của Nine, bị Third - bạn diễn của Nine - hiểu lầm là fan cuồng (sasaeng). Tuy nhiên, Wan bất ngờ có cơ hội tham gia đóng chung bộ phim BL với cả hai, dẫn đến nhiều tình huống hỗn loạn trên phim trường. Trong quá trình dấn thân vào thế giới mới cùng hai hậu bối Renji và Time, cảm xúc của Wan dần trở nên phức tạp khi Third trở thành người luôn giúp đỡ anh, còn Nine lại thay đổi theo cách mà anh chưa từng ngờ tới."
+        },
+        {
+            "name": "GELBOYS (Phần 2)",
+            "year": 2025,
+            "slug": "gelboys-phan-2",
+            "thumb": "https://phimimg.com/uploads/movies/20260809/gelboys-phan-2-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260809/gelboys-phan-2-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (8/8)",
+            "total_episodes": "8",
+            "country": "Thái Lan",
+            "description": "Câu chuyện bắt đầu khi Fourmod, một chàng trai17 tuổi đại diện cho thế hệ Gen Z trong lĩnh vực thời trang, tự tin và thích phiêu lưu, kết nối với Chien, một nhạc sĩ trung học phổ thông, thông qua việc làm móng gel. Chien, một chàng trai vui tính, thường trêu chọc Fourmod để thu hút sự chú ý của cậu. Nhưng ngay khi Fourmod thể hiện sự quan tâm, Chien lại lảng tránh, khiến Fourmod bối rối. Thực tế, Chien đang có Neon, một nam sinh cấp hai nổi tiếng, người chỉ là một trong những mối quan hệ thoáng qua của Chien.Cảm thấy bị thách thức, Fourmod tìm sự giúp đỡ từ người bạn thân Babin, một chàng trai tốt bụng nhưng tinh nghịch, để thu hút sự chú ý của Chien. Trong khi đó, Babin cũng cố gắng kết nối với Neon để giúp đỡ, nhưng hóa ra cả hai vô tình phát triển tình cảm với nhau. Điều này làm phức tạp mối quan hệ của cả bốn người, khiến mọi chuyện trở nên khó giải quyết hơn."
+        },
+        {
+            "name": "Ký Túc Xá \"Lắm Chiêu\"",
+            "year": 2026,
+            "slug": "ky-tuc-xa-lam-chieu",
+            "thumb": "https://phimimg.com/uploads/movies/20260921/ky-tuc-xa-lam-chieu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260921/ky-tuc-xa-lam-chieu-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "10",
+            "country": "Thái Lan",
+            "description": "Câu chuyện bắt đầu khi Dobby đưa ra quyết định bất ngờ là bán đi khu ký túc xá cũ của gia đình (The D Dorm). Tuy nhiên, để có được quyền bán tòa nhà này, anh vướng vào một nhiệm vụ dở khóc dở cười: phải giúp linh hồn của ông nội quá cố (A Kong) truy tìm lại người tình đầu tiên trong quá khứ."
+        },
+        {
+            "name": "Điên Tình",
+            "year": 2026,
+            "slug": "dien-tinh-2026",
+            "thumb": "https://phimimg.com/uploads/movies/20260830/dien-tinh-2026-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260830/dien-tinh-2026-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 5",
+            "total_episodes": "10",
+            "country": "Thái Lan",
+            "description": "Dean (William Jakrapatr) là một anh chàng hào hoa, thích tiệc tùng, tán tỉnh và kiên quyết không muốn bị ràng buộc trong một mối quan hệ lâu dài. Mọi chuyện bắt đầu rẽ hướng khi anh nhận lời giúp cậu bạn thân Ten (Barcode Tinnasit) để tiếp cận Pun (Kin Thanachai) – người mà Ten đang thầm thương trộm nhớ, nhưng ngặt nỗi Pun lại có tình cảm với Moth (Est Supha)."
+        },
+        {
+            "name": "Yêu Nhầm Cảnh Sát / Thanh Tra Theer Yêu Dấu / Vợ Sắp Cưới Của Thanh Tra",
+            "year": 2026,
+            "slug": "yeu-nham-canh-sat-thanh-tra-theer-yeu-dau-vo-sap-cuoi-cua-thanh-tra",
+            "thumb": "https://phimimg.com/uploads/movies/20260915/yeu-nham-canh-sat-thanh-tra-theer-yeu-dau-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260915/yeu-nham-canh-sat-thanh-tra-theer-yeu-dau-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 3",
+            "total_episodes": "12",
+            "country": "Thái Lan",
+            "description": "Thanh tra Theer buộc phải kết hôn với Mangkorn, cấp dưới thường xuyên tranh cãi với mình, để hóa giải vận đen theo lời thầy bói. Cả hai thỏa thuận sẽ ly hôn sau sáu tháng, nhưng trong thời gian sống chung, tình cảm dần nảy sinh và khiến cuộc hôn nhân không còn đơn thuần là một thỏa thuận."
+        },
+        {
             "name": "Hội quạ đen",
             "year": 2026,
             "slug": "hoi-qua-den",
@@ -2485,66 +2545,6 @@
             "total_episodes": "10",
             "country": "Thái Lan",
             "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
-        },
-        {
-            "name": "Bóng Dưới Trăng",
-            "year": 2026,
-            "slug": "bong-duoi-trang",
-            "thumb": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 7",
-            "total_episodes": "10",
-            "country": "Thái Lan",
-            "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
-        },
-        {
-            "name": "Bùa Ngải Trói Buộc",
-            "year": 2026,
-            "slug": "bua-ngai-troi-buoc",
-            "thumb": "https://phimimg.com/uploads/movies/20260907/khom-khlang-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260907/khom-khlang-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "10",
-            "country": "Thái Lan",
-            "description": "Một nữ cảnh sát Bangkok bản tính đa nghi đang ráo riết truy lùng một tên trùm buôn người có năng lực kháng đạn. Cô lặn lội đến vùng Phop Phra, tỉnh Tak để tìm một vị cao nhân nhờ rèn những viên đạn yểm phép. Thế nhưng khi đến nơi, cô phát hiện ra người mình cất công tìm kiếm lại chính là mối duyên tiền định - người đã dành trọn cả cuộc đời chỉ để chờ đợi ngày được đoàn tụ cùng tình yêu đích thực."
-        },
-        {
-            "name": "Hai Trái Tim",
-            "year": 2026,
-            "slug": "hai-trai-tim",
-            "thumb": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 13",
-            "total_episodes": "16",
-            "country": "Thái Lan",
-            "description": "Võ sĩ quyền Anh Dom nằm vùng để thâm nhập tổ chức tội phạm hùng mạnh, nhưng nhiệm vụ này nhanh chóng đẩy cả cuộc hôn nhân lẫn tính mạng của anh vào thế hiểm nguy."
-        },
-        {
-            "name": "Lâu Đài Tham Vọng (Bản Thái)",
-            "year": 2026,
-            "slug": "lau-dai-tham-vong-ban-thai",
-            "thumb": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (16/16)",
-            "total_episodes": "16",
-            "country": "Thái Lan",
-            "description": "Được làm lại từ bộ phim Hàn Quốc đình đám cùng tên, Lâu Đài Tham Vọng (Bản Thái) xoay quanh cuộc chiến khốc liệt của những bậc cha mẹ giàu có tại khu biệt thự Sky Castle nhằm đưa con cái vào trường đại học danh giá. Fah, một người mẹ đang che giấu quá khứ nghèo khó, quyết tâm ép con gái phải đỗ Harvard để bảo vệ địa vị của bản thân. Áp lực ngày càng gia tăng với sự xuất hiện của một chuyên gia luyện thi khắc nghiệt và một học sinh thiên tài mang trong mình một bí mật có thể phá hủy mọi thứ mà Fah dày công gây dựng. Sau một sự cố gây chấn động tại một bữa tiệc, những sự thật bị chôn vùi ở Sky Castle lần lượt bị phơi bày."
-        },
-        {
-            "name": "Juliet và Juliet",
-            "year": 2026,
-            "slug": "juliet-va-juliet",
-            "thumb": "https://phimimg.com/uploads/movies/20260906/juliet-va-juliet-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260906/juliet-va-juliet-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "10",
-            "country": "Thái Lan",
-            "description": "Phim xoay quanh mối thù truyền kiếp giữa hai gia tộc lớn. Giữa áp lực gia đình và những cuộc tranh chấp ngầm đầy căng thẳng, hai người thừa kế trẻ tuổi của hai gia tộc – bao gồm Blue (con gái duy nhất của gia tộc Monchaitrakul) và Tokyo – bất ngờ bước vào cuộc đời nhau và dần nảy sinh tình cảm, trở thành mối tình đầu của đối phương."
         }
     ],
     "long_tieng": [
@@ -2731,6 +2731,18 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Tôi Không Phải Là Đại Sư (Phần 1)",
+            "year": 2026,
+            "slug": "toi-khong-phai-la-dai-su-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20260924/toi-khong-phai-la-dai-su-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260924/toi-khong-phai-la-dai-su-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 8",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Trường Phong Khởi là phim trinh thám huyền bí thời Dân Quốc do đạo diễn Dương Lỗi (đạo diễn \"Tam Thể\", \"Thái Bình Niên\") chỉ đạo và biên kịch Dương Triết chấp bút. Bộ phim chuyển thể từ tiểu thuyết \"Tôi Là Một Thầy Bói\" của tác giả Dịch Chi. Phim có sự tham gia diễn chính của Lý Hiện (từng đóng \"Cá Mực Hầm Mật\", \"Đi Đến Nơi Có Gió\"), Lý Nhất Đồng (từng đóng \"Cuồng Phong\", \"Vân Tú Hành\"), Lưu Quán Lân (từng đóng \"Khanh Khanh Nhật Thường\"), Quả Tĩnh Lâm (từng đóng \"Phong Dữ Triều\"), cùng sự tham gia đặc biệt của Ngô Cương. Thượng Quan Thành Minh tận mắt chứng kiến cả gia đình bị Thiên Tướng Phái bày kế sát hại. Anh đổi tên, âm thầm che giấu thân phận, quyết trả lại từng món nợ máu theo cách “ăn miếng trả miếng”. Anh đồng hành cùng Giang Phi Yến, một cô gái đang chìm trong nghịch cảnh nhưng vẫn quyết tâm thay đổi số phận. Hai người cùng giăng ra những màn lừa đảo liên hoàn để chống lại kẻ thù. Trên hành trình đó, họ từng bước vạch trần những góc khuất đen tối phía sau các trò lừa đào, cuối cùng phá tan Thiên Tướng Phái, giải cứu những người bị khống chế, trừng trị cái ác, bảo vệ chính nghĩa. Bộ phim sẽ được phát sóng trực tuyến trên nền tảng iQIYI Quốc tế (iQ.com)."
+        },
+        {
             "name": "Nhất Âu Xuân",
             "year": 2026,
             "slug": "nhat-au-xuan",
@@ -2753,18 +2765,6 @@
             "total_episodes": "9",
             "country": "Hồng Kông",
             "description": "Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần được hé lộ, cả hai cùng bị kéo vào một vụ án làm tiền giả xuyên quốc gia và cuộc tranh giành quyền lực giữa các thế lực địa phương."
-        },
-        {
-            "name": "Tôi Không Phải Là Đại Sư (Phần 1)",
-            "year": 2026,
-            "slug": "toi-khong-phai-la-dai-su-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20260924/toi-khong-phai-la-dai-su-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260924/toi-khong-phai-la-dai-su-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 6",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Trường Phong Khởi là phim trinh thám huyền bí thời Dân Quốc do đạo diễn Dương Lỗi (đạo diễn \"Tam Thể\", \"Thái Bình Niên\") chỉ đạo và biên kịch Dương Triết chấp bút. Bộ phim chuyển thể từ tiểu thuyết \"Tôi Là Một Thầy Bói\" của tác giả Dịch Chi. Phim có sự tham gia diễn chính của Lý Hiện (từng đóng \"Cá Mực Hầm Mật\", \"Đi Đến Nơi Có Gió\"), Lý Nhất Đồng (từng đóng \"Cuồng Phong\", \"Vân Tú Hành\"), Lưu Quán Lân (từng đóng \"Khanh Khanh Nhật Thường\"), Quả Tĩnh Lâm (từng đóng \"Phong Dữ Triều\"), cùng sự tham gia đặc biệt của Ngô Cương. Thượng Quan Thành Minh tận mắt chứng kiến cả gia đình bị Thiên Tướng Phái bày kế sát hại. Anh đổi tên, âm thầm che giấu thân phận, quyết trả lại từng món nợ máu theo cách “ăn miếng trả miếng”. Anh đồng hành cùng Giang Phi Yến, một cô gái đang chìm trong nghịch cảnh nhưng vẫn quyết tâm thay đổi số phận. Hai người cùng giăng ra những màn lừa đảo liên hoàn để chống lại kẻ thù. Trên hành trình đó, họ từng bước vạch trần những góc khuất đen tối phía sau các trò lừa đào, cuối cùng phá tan Thiên Tướng Phái, giải cứu những người bị khống chế, trừng trị cái ác, bảo vệ chính nghĩa. Bộ phim sẽ được phát sóng trực tuyến trên nền tảng iQIYI Quốc tế (iQ.com)."
         },
         {
             "name": "Sơn Hải Kinh: Thiết Lập Lại Trật Tự",
@@ -2925,40 +2925,40 @@
             "description": "Một cặp đôi đang hạnh phúc chuẩn bị kết hôn bất ngờ bị thử thách khi một biến cố ngoài dự kiến khiến cả tuần lễ cưới của họ rơi vào hỗn loạn."
         },
         {
-            "name": "Nhất Âu Xuân",
+            "name": "Tôi Không Phải Là Đại Sư (Phần 1)",
             "year": 2026,
-            "slug": "nhat-au-xuan",
-            "thumb": "https://phimimg.com/uploads/movies/20260917/nhat-au-xuan-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260917/nhat-au-xuan-poster.webp",
+            "slug": "toi-khong-phai-la-dai-su-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20260924/toi-khong-phai-la-dai-su-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260924/toi-khong-phai-la-dai-su-poster.webp",
             "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 21",
-            "total_episodes": "30",
+            "current_episode": "Tập 8",
+            "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "\"Người đàn ông sát phạt quyết đoán, thâm sâu mưu mô\" Thẩm Nhuận và cô gái “thông minh tỉnh táo như bông sen đen” Tạ Thanh Viên trở thành lưỡi dao của nhau, cùng nhau bước trên con đường báo thù đan xen trong lý trí và tình cảm. Giữa những cuộc đấu đá công khai và âm thầm trong các gia tộc quyền quý, họ làm rung chuyển cả chính trường triều đình."
+            "description": "Trường Phong Khởi là phim trinh thám huyền bí thời Dân Quốc do đạo diễn Dương Lỗi (đạo diễn \"Tam Thể\", \"Thái Bình Niên\") chỉ đạo và biên kịch Dương Triết chấp bút. Bộ phim chuyển thể từ tiểu thuyết \"Tôi Là Một Thầy Bói\" của tác giả Dịch Chi. Phim có sự tham gia diễn chính của Lý Hiện (từng đóng \"Cá Mực Hầm Mật\", \"Đi Đến Nơi Có Gió\"), Lý Nhất Đồng (từng đóng \"Cuồng Phong\", \"Vân Tú Hành\"), Lưu Quán Lân (từng đóng \"Khanh Khanh Nhật Thường\"), Quả Tĩnh Lâm (từng đóng \"Phong Dữ Triều\"), cùng sự tham gia đặc biệt của Ngô Cương. Thượng Quan Thành Minh tận mắt chứng kiến cả gia đình bị Thiên Tướng Phái bày kế sát hại. Anh đổi tên, âm thầm che giấu thân phận, quyết trả lại từng món nợ máu theo cách “ăn miếng trả miếng”. Anh đồng hành cùng Giang Phi Yến, một cô gái đang chìm trong nghịch cảnh nhưng vẫn quyết tâm thay đổi số phận. Hai người cùng giăng ra những màn lừa đảo liên hoàn để chống lại kẻ thù. Trên hành trình đó, họ từng bước vạch trần những góc khuất đen tối phía sau các trò lừa đào, cuối cùng phá tan Thiên Tướng Phái, giải cứu những người bị khống chế, trừng trị cái ác, bảo vệ chính nghĩa. Bộ phim sẽ được phát sóng trực tuyến trên nền tảng iQIYI Quốc tế (iQ.com)."
         },
         {
-            "name": "Ừ Thì Ly Hôn!",
+            "name": "Bốn Bàn Tay, Hai Bản Sonata",
             "year": 2026,
-            "slug": "u-thi-ly-hon",
-            "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (12/12)",
+            "slug": "bon-ban-tay-hai-ban-sonata",
+            "thumb": "https://phimimg.com/uploads/movies/20260829/bon-ban-tay-hai-ban-sonata-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260829/bon-ban-tay-hai-ban-sonata-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 9",
             "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
+            "description": "Khi hai nghệ sĩ piano trẻ đến từ hai thế giới hoàn toàn khác biệt gặp gỡ tại ngôi trường trung học âm nhạc danh giá, khúc nhạc cuộc đời của họ bắt đầu gắn kết chặt chẽ."
         },
         {
-            "name": "Thế Giới Hoàn Mỹ Movie: Cửu Kiếp Phần Thiên",
+            "name": "Thám Tử Lừng Danh Conan: Vụ án tiền giả Ultra 30",
             "year": 2026,
-            "slug": "the-gioi-hoan-my-movie-cuu-kiep-phan-thien",
-            "thumb": "https://phimimg.com/uploads/movies/20260809/the-gioi-hoan-my-movie-cuu-kiep-phan-thien-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260809/the-gioi-hoan-my-movie-cuu-kiep-phan-thien-poster.webp",
+            "slug": "tham-tu-lung-danh-conan-vu-an-tien-gia-ultra-30",
+            "thumb": "https://phimimg.com/uploads/movies/20260927/tham-tu-lung-danh-conan-vu-an-tien-gia-ultra-30-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260927/tham-tu-lung-danh-conan-vu-an-tien-gia-ultra-30-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Trung Quốc",
-            "description": "Câu chuyện xoay quanh trận đại chiến cuối cùng của Kỷ Nguyên Tiên Cổ. Tổ Tế Linh Liễu Thần đứng ra dẫn dắt quần hùng đi tìm tia hy vọng sau cùng. Hoang Thiên Đế Thạch Hạo dùng một giọt chân huyết hóa thành phân thân, nghịch chuyển thời không giáng lâm Tiên Cổ, cùng những người đồng sinh cộng tử tìm kiếm phương pháp tối hậu để xóa bỏ tận gốc hắc ám. Đại kiếp hắc ám giáng xuống, chương cuối của Tiên Cổ chính thức mở màn, khúc tráng ca bi hùng vang lên!"
+            "country": "Nhật Bản",
+            "description": "Cốt truyện của phần phim khởi đầu từ sự xuất hiện của những tờ tiền giả trên thị trường, nhanh chóng biến một cuộc điều tra tội phạm thông thường thành mối đe dọa an ninh trên quy mô toàn quốc. Để truy tìm nguồn gốc dòng tiền bất hợp pháp, Conan Edogawa cùng các đồng đội đã di chuyển tới Cục In tiền Quốc gia tại Nagano. Những manh mối thu thập được tiếp tục đưa Conan và thám tử trung học Heiji Hattori tiến về Osaka, nơi nghi vấn là đại bản doanh sản xuất tiền giả."
         },
         {
             "name": "Lãnh Địa Tử Chiến (Phần 2)",
@@ -2991,34 +2991,34 @@
             "thumb": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20260912/lan-huong-nhu-co-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 33",
+            "current_episode": "Tập 34",
             "total_episodes": "47",
             "country": "Trung Quốc",
             "description": "Thẩm Gia Lan, trưởng tôn nữ của Thẩm đại học sĩ, đã đính hôn với Lâm Cẩm Kỳ, trưởng tôn của Lại bộ Thượng thư Lâm gia. Nhưng triều đình bất ngờ nổi sóng gió, ông nội cô là Thẩm đại học sĩ bị kết tội mưu phản, khiến cả Thẩm gia rơi vào thảm họa diệt môn. Nhà họ Lâm liền hủy hôn với nhà họ Thẩm để tự bảo vệ mình, quay ra kết thông gia với nhà họ Triệu là ngự tiền mới bổ nhiệm. Vợ chồng Hứa Vạn Toàn là tôi tớ của nhà họ Lâm, từng được mẹ Thẩm Gia Lan cứu giúp, đã che giấu Gia Lan bằng cách để cô thế chỗ đứa con gái Hứa Lan Hương vừa mất vì bệnh. Từ đó Gia Lan mang thân phận Hứa Lan Hương, trở thành nha hoàn hạng ba ở Lâm phủ. Khó khăn bủa vây, Lan Hương vẫn không cúi đầu trước số phận, luôn nỗ lực tìm kiếm hạnh phúc cho cuộc sống của bản thân và gia đình, chống lại mọi bất công và áp bức. Cuối cùng, bằng lòng tốt và sự thông minh, Lan Hương đã vượt lên trên ràng buộc của địa vị giai cấp, chiếm được tình cảm của Lâm Cẩm Kỳ, đồng thời giành được sự tin tưởng và tôn trọng của toàn bộ nhà họ Lâm. Cô trở thành người nắm quyền nhà họ Lâm, tự nắm chắc vận mệnh trong tay, và rửa sạch oan khuất, đòi lại công bằng cho Thẩm gia."
         },
         {
-            "name": "Ngày Hè",
+            "name": "Ừ Thì Ly Hôn!",
             "year": 2026,
-            "slug": "ngay-he",
-            "thumb": "https://phimimg.com/uploads/movies/20260828/ngay-he-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260828/ngay-he-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (10/10)",
-            "total_episodes": "10",
+            "slug": "u-thi-ly-hon",
+            "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (12/12)",
+            "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Yeo Eun Ho và Cha Do Hyeon là đôi bạn thân suốt 19 năm, nhưng Eun Ho không hề biết Do Hyeon luôn thầm yêu mình một cách mãnh liệt. Kế hoạch dần chiếm lấy trái tim bạn thân của Do Hyeon bị xáo trộn bởi sự xuất hiện của học sinh mới Kwon Yi Hyeon, buộc cậu phải tìm cách giữ Eun Ho ở bên cạnh mình."
+            "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
         },
         {
-            "name": "Gintama The Movie 2026: Yoshiwara Trong Biển Lửa",
+            "name": "Thế Giới Hoàn Mỹ Movie: Cửu Kiếp Phần Thiên",
             "year": 2026,
-            "slug": "gintama-the-movie-2026-yoshiwara-trong-bien-lua",
-            "thumb": "https://phimimg.com/uploads/movies/20260913/gintama-the-movie-2026-yoshiwara-trong-bien-lua-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260913/gintama-the-movie-2026-yoshiwara-trong-bien-lua-poster.webp",
+            "slug": "the-gioi-hoan-my-movie-cuu-kiep-phan-thien",
+            "thumb": "https://phimimg.com/uploads/movies/20260809/the-gioi-hoan-my-movie-cuu-kiep-phan-thien-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260809/the-gioi-hoan-my-movie-cuu-kiep-phan-thien-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Nhật Bản",
-            "description": "Yoshiwara — khu phố đèn đỏ khổng lồ nằm sâu dưới lòng đất, nơi ánh mặt trời không bao giờ chạm tới và pháp luật gần như vô dụng. Tại đây, dục vọng và bạo lực bị thống trị bởi Housen, “Dạ Vương” khét tiếng thuộc tộc chiến binh Yato.  Ở Edo, Sakata Gintoki cùng nhóm Yorozuya gặp Seita, cậu bé mồ côi sống bằng nghề móc túi. Seita tin rằng Hinowa — Oiran nổi tiếng nhất Yoshiwara — chính là mẹ ruột thất lạc của mình.  Cảm động trước mong muốn giản đơn “chỉ được gặp mẹ một lần”, Gintoki và đồng đội quyết định bước vào Yoshiwara để giúp cậu. Nhưng nơi đây bị Housen cai trị bằng sức mạnh tuyệt đối, biến cuộc tìm kiếm thành trận chiến giữa tình người và bóng tối của “thành phố đêm vĩnh cửu”."
+            "country": "Trung Quốc",
+            "description": "Câu chuyện xoay quanh trận đại chiến cuối cùng của Kỷ Nguyên Tiên Cổ. Tổ Tế Linh Liễu Thần đứng ra dẫn dắt quần hùng đi tìm tia hy vọng sau cùng. Hoang Thiên Đế Thạch Hạo dùng một giọt chân huyết hóa thành phân thân, nghịch chuyển thời không giáng lâm Tiên Cổ, cùng những người đồng sinh cộng tử tìm kiếm phương pháp tối hậu để xóa bỏ tận gốc hắc ám. Đại kiếp hắc ám giáng xuống, chương cuối của Tiên Cổ chính thức mở màn, khúc tráng ca bi hùng vang lên!"
         },
         {
             "name": "Những Điệp Viên Hết Thời (Phần 6)",
@@ -3045,40 +3045,40 @@
             "description": "Chào mừng bạn đến với thế giới của Minecraft, nơi sự sáng tạo không chỉ giúp bạn chế tạo mà còn là yếu tố quan trọng để sống sót! Bốn kẻ lạc lõng - Garrett “The Garbage Man” Garrison (Momoa), Henry (Hansen), Natalie (Myers) và Dawn (Brooks) - bất ngờ gặp rắc rối khi họ bị kéo qua cánh cửa bí ẩn dẫn đến Overworld: một thế giới kỳ lạ được tạo bởi những khối lập phương và phát triển nhờ vào trí tưởng tượng. Để trở về nhà, họ cần phải làm chủ được thế giới này (và bảo vệ nó khỏi những thực thể tà ác như Piglins và Thây Ma) trong khi dấn thân vào chuyến phiêu lưu màu nhiệm với một thợ chế tạo chuyên nghiệp và khó lường - Steve (Black). Chuyến hành trình này sẽ thách thức sự can đảm của cả năm người, thúc đẩy họ tìm lại với những phẩm chất làm nên sự đặc biệt của riêng mình,… đồng thời là những kỹ năng cần thiết để trở lại với thế giới thật."
         },
         {
-            "name": "Vì Yêu Xứng Danh",
+            "name": "Nhất Âu Xuân",
             "year": 2026,
-            "slug": "vi-yeu-xung-danh",
-            "thumb": "https://phimimg.com/uploads/movies/20260917/vi-yeu-xung-danh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260917/vi-yeu-xung-danh-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 20",
-            "total_episodes": "24",
+            "slug": "nhat-au-xuan",
+            "thumb": "https://phimimg.com/uploads/movies/20260917/nhat-au-xuan-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260917/nhat-au-xuan-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 21",
+            "total_episodes": "30",
             "country": "Trung Quốc",
-            "description": "Khương Lai từng hiến thận vì tình yêu, nào ngờ lại bị chính người mình yêu phản bội. Không chỉ bị gài thành “kẻ tâm thần”, cô còn suýt bị thủ tiêu. May mắn sống sót, Khương Lai thay đổi diện mạo, trở thành Triệu Khả và âm thầm bắt tay với người phụ nữ bí ẩn Triệu Mạch. Trở lại với một thân phận hoàn toàn mới, cô từng bước giăng bẫy, xoay chuyển thế cờ, vạch trần những bí mật bị chôn giấu giữa vòng xoáy yêu hận và quyết đòi lại công bằng cho chính mình."
+            "description": "\"Người đàn ông sát phạt quyết đoán, thâm sâu mưu mô\" Thẩm Nhuận và cô gái “thông minh tỉnh táo như bông sen đen” Tạ Thanh Viên trở thành lưỡi dao của nhau, cùng nhau bước trên con đường báo thù đan xen trong lý trí và tình cảm. Giữa những cuộc đấu đá công khai và âm thầm trong các gia tộc quyền quý, họ làm rung chuyển cả chính trường triều đình."
         },
         {
-            "name": "Trúng Số Độc Đắc Vẫn Phải Đi Làm",
+            "name": "Ngày Hè",
             "year": 2026,
-            "slug": "trung-so-doc-dac-van-phai-di-lam",
-            "thumb": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-poster.webp",
+            "slug": "ngay-he",
+            "thumb": "https://phimimg.com/uploads/movies/20260828/ngay-he-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260828/ngay-he-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
+            "current_episode": "Hoàn Tất (10/10)",
             "total_episodes": "10",
             "country": "Hàn Quốc",
-            "description": "Coi tấm séc trúng thưởng như một dạng \"bảo hiểm tinh thần\", Eun-tae mang theo một thái độ tự tin, thoải mái và không còn sợ sệt bất cứ điều gì tại công sở. Sự thay đổi ngầm này vô tình tạo ra hàng loạt tình huống dở khóc dở cười, làm đảo lộn trật tự phân cấp công sở và thay đổi cách nhìn của các đồng nghiệp cũng như cấp trên đối với anh."
+            "description": "Yeo Eun Ho và Cha Do Hyeon là đôi bạn thân suốt 19 năm, nhưng Eun Ho không hề biết Do Hyeon luôn thầm yêu mình một cách mãnh liệt. Kế hoạch dần chiếm lấy trái tim bạn thân của Do Hyeon bị xáo trộn bởi sự xuất hiện của học sinh mới Kwon Yi Hyeon, buộc cậu phải tìm cách giữ Eun Ho ở bên cạnh mình."
         },
         {
-            "name": "Doraemon: Nobita và Lâu Đài Dưới Đáy Biển (Phiên Bản Mới)",
+            "name": "Gintama The Movie 2026: Yoshiwara Trong Biển Lửa",
             "year": 2026,
-            "slug": "doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi",
-            "thumb": "https://phimimg.com/uploads/movies/20260829/doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260829/doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi-poster.webp",
-            "sub_type": "Lồng Tiếng",
+            "slug": "gintama-the-movie-2026-yoshiwara-trong-bien-lua",
+            "thumb": "https://phimimg.com/uploads/movies/20260913/gintama-the-movie-2026-yoshiwara-trong-bien-lua-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260913/gintama-the-movie-2026-yoshiwara-trong-bien-lua-poster.webp",
+            "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
             "country": "Nhật Bản",
-            "description": "\"Doraemon: Nobita và Lâu đài dưới đáy biển\" (tên khác là Lâu đài ma dưới đáy biển) là một trong những tác phẩm kinh điển thuộc loạt truyện dài và phim điện ảnh Doraemon. Hiện tại, tác phẩm này đang thu hút sự chú ý với phiên bản làm mới (remake) ra mắt vào năm 2026."
+            "description": "Yoshiwara — khu phố đèn đỏ khổng lồ nằm sâu dưới lòng đất, nơi ánh mặt trời không bao giờ chạm tới và pháp luật gần như vô dụng. Tại đây, dục vọng và bạo lực bị thống trị bởi Housen, “Dạ Vương” khét tiếng thuộc tộc chiến binh Yato.  Ở Edo, Sakata Gintoki cùng nhóm Yorozuya gặp Seita, cậu bé mồ côi sống bằng nghề móc túi. Seita tin rằng Hinowa — Oiran nổi tiếng nhất Yoshiwara — chính là mẹ ruột thất lạc của mình.  Cảm động trước mong muốn giản đơn “chỉ được gặp mẹ một lần”, Gintoki và đồng đội quyết định bước vào Yoshiwara để giúp cậu. Nhưng nơi đây bị Housen cai trị bằng sức mạnh tuyệt đối, biến cuộc tìm kiếm thành trận chiến giữa tình người và bóng tối của “thành phố đêm vĩnh cửu”."
         },
         {
             "name": "Một thế giới khác biệt (Phần 1)",
