@@ -1,5 +1,29 @@
 [
     {
+        "name": "Tổng Thống Curtis (Phần 1)",
+        "year": 2026,
+        "slug": "tong-thong-curtis-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260906/tong-thong-curtis-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260906/tong-thong-curtis-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Tổng Thống Curtis theo chân Tổng tư lệnh và các nhân viên lập dị của ông điều tra những hiện tượng siêu nhiên chưa được giải thích."
+    },
+    {
+        "name": "Tuổi Trẻ (Phần 1)",
+        "year": 2026,
+        "slug": "tuoi-tre-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "8",
+        "country": "Anh",
+        "description": "Xoay quanh cuộc sống đầy náo nhiệt, những trò quậy phá siêu lầy lội và những rung động đầu đời trong sáng của nhóm học sinh tại một trường học ở địa phương."
+    },
+    {
         "name": "Lực lượng Lanterns (Phần 1)",
         "year": 2026,
         "slug": "luc-luong-lanterns-phan-1",
@@ -154,30 +178,6 @@
         "total_episodes": "30",
         "country": "Âu Mỹ",
         "description": "Những điểm đến khắc nghiệt. Những nền văn hóa bí ẩn. Những con người phi thường. Drew Binsky đi tới mọi quốc gia trên Trái Đất để tìm ra điều kết nối tất cả chúng ta."
-    },
-    {
-        "name": "Tuổi Trẻ (Phần 1)",
-        "year": 2026,
-        "slug": "tuoi-tre-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "8",
-        "country": "Anh",
-        "description": "Xoay quanh cuộc sống đầy náo nhiệt, những trò quậy phá siêu lầy lội và những rung động đầu đời trong sáng của nhóm học sinh tại một trường học ở địa phương."
-    },
-    {
-        "name": "Tổng Thống Curtis (Phần 1)",
-        "year": 2026,
-        "slug": "tong-thong-curtis-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260906/tong-thong-curtis-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260906/tong-thong-curtis-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Tổng Thống Curtis theo chân Tổng tư lệnh và các nhân viên lập dị của ông điều tra những hiện tượng siêu nhiên chưa được giải thích."
     },
     {
         "name": "Quái Vật: Câu Chuyện Về Lizzie Borden",
