@@ -1,5 +1,17 @@
 [
     {
+        "name": "Ván Cờ Hôn Nhân",
+        "year": 2026,
+        "slug": "van-co-hon-nhan",
+        "thumb": "https://phimimg.com/uploads/movies/20260929/van-co-hon-nhan-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260929/van-co-hon-nhan-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (25/25)",
+        "total_episodes": "25",
+        "country": "Trung Quốc",
+        "description": "Khương Hạnh Như là người phụ nữ hiền lành, hết lòng vì gia đình nhưng lại bị chồng và bạn thân phản bội. Sau một tai nạn nghiêm trọng, cô tỉnh dậy và phát hiện mình đang ở thời điểm trước khi bi kịch xảy ra, như thể đã nhìn thấy tương lai qua một giấc mơ tiên tri. Quyết tâm thay đổi số phận, Hạnh Như lên kế hoạch vạch trần những kẻ phản bội và giành lại cuộc đời mình. Nhờ biết trước các biến cố và nỗ lực không ngừng, cô dần khẳng định năng lực trong ngành quảng cáo. Đồng hành cùng cấp trên Diệp Gia Khiêm, Hạnh Như tìm thấy tình yêu mới và cùng các nữ đồng nghiệp xây dựng \"Binh đoàn hồng\", tạo nên nhiều chiến dịch quảng cáo thành công và ý nghĩa."
+    },
+    {
         "name": "Đối Chứng",
         "year": 2026,
         "slug": "doi-chung",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Nhật Bản",
         "description": "Kamado Tanjiro gia nhập Sát Quỷ Đoàn sau khi em gái Nezuko bị biến thành quỷ. Trong quá trình trưởng thành, Tanjiro đã chiến đấu với nhiều con quỷ cùng với các đồng đội Agatsuma Zenitsu và Hashibira Inosuke. Hành trình đưa cậu đến với cuộc chiến cùng những kiếm sĩ cấp cao nhất của Sát Quỷ Đoàn - các Trụ Cột - gồm Viêm Trụ Rengoku Kyojuro trên Chuyến Tàu Vô Tận, Âm Trụ Uzui Tengen tại Kỹ Viện Trấn, cũng như Hà Trụ Tokito Muichiro và Luyến Trụ Kanroji Mitsuri tại Làng Thợ Rèn. Khi các thành viên của Sát Quỷ Đoàn và Trụ Cột tham gia vào chương trình đặc huấn để chuẩn bị cho trận chiến sắp với lũ quỷ, Kibutsuji Muzan xuất hiện tại Dinh thự Ubuyashiki. Khi thủ lĩnh của Sát Quỷ Đoàn gặp nguy hiểm, Tanjiro và các Trụ Cột trở về trụ sở Thế nhưng, Muzan bất ngờ kéo toàn bộ Sát Quỷ Đoàn đến hang ổ cuối cùng của lũ quỷ là Vô Hạn Thành, mở màn cho trận đánh cuối cùng của cả hai phe."
-    },
-    {
-        "name": "Chó Hoang Và Xương",
-        "year": 2026,
-        "slug": "cho-hoang-va-xuong",
-        "thumb": "https://phimimg.com/upload/vod/20260705-1/d1e3f78ec436e006cd71338e333adae7.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260705-1/cf344e4d8b5bb10f4eefa2a3ec5463f1.jpg",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (32/32)",
-        "total_episodes": "32",
-        "country": "Trung Quốc",
-        "description": "Đôi thanh mai trúc mã Trần Dị và Miêu Tĩnh tưởng chừng bị cắt đứt sau biến cố, cho đến khi Miêu Tĩnh lựa chọn trở về sau nhiều năm tha phương."
     }
 ]
