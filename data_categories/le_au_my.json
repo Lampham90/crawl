@@ -1,5 +1,17 @@
 [
     {
+        "name": "Chuyến Vận Chuyển Sinh Tử",
+        "year": 2026,
+        "slug": "chuyen-van-chuyen-sinh-tu",
+        "thumb": "https://phimimg.com/uploads/movies/20260929/chuyen-van-chuyen-sinh-tu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260929/chuyen-van-chuyen-sinh-tu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Một cựu binh bị cuốn vào một cuộc đua sinh tử nghẹt thở với thời gian khi một chuyến vận chuyển thuốc cấp cứu sống còn biến anh cùng người đồng hành bất đắc dĩ thành mục tiêu săn đuổi của một băng đảng cartel tàn bạo. Khi nhiệm vụ dần vượt tầm kiểm soát thành một cuộc săn người đẫm máu, mỗi khúc ngoặt, sự trì hoãn và từng viên đạn đều đẩy họ đến gần hơn với thất bại. Trong bối cảnh sự phản bội bủa giăng khắp phía, họ buộc phải sống sót qua cuộc truy đuổi tàn khốc để giao kịp lô hàng nhằm cứu sống mạng mạng một cô bé."
+    },
+    {
         "name": "UNABOMBER",
         "year": 2026,
         "slug": "unabomber",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Mỹ",
         "description": "Từ một học giả người Úc trở thành hiện tượng meme toàn cầu, vũ công breaking \"Raygun\" kể lại hành trình không theo lối mòn đưa cô đến với sân khấu Olympic – và cả thị phi kéo theo."
-    },
-    {
-        "name": "Người Thì Thầm",
-        "year": 2026,
-        "slug": "nguoi-thi-tham",
-        "thumb": "https://phimimg.com/uploads/movies/20260829/nguoi-thi-tham-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260829/nguoi-thi-tham-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Khi con trai nhỏ mất tích, một người đàn ông góa vợ phải nhờ đến người cha xa cách từ lâu – cựu thanh tra từng bắt giữ tên sát nhân hàng loạt, kẻ giờ đây có liên quan đến vụ án."
     }
 ]
