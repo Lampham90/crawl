@@ -1,5 +1,17 @@
 [
     {
+        "name": "Mononoke – Phim điện ảnh: Chương III – Lời nguyền của rắn",
+        "year": 2026,
+        "slug": "mononoke-phim-dien-anh-chuong-iii-loi-nguyen-cua-ran",
+        "thumb": "https://phimimg.com/uploads/movies/20260930/mononoke-phim-dien-anh-chuong-iii-loi-nguyen-cua-ran-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260930/mononoke-phim-dien-anh-chuong-iii-loi-nguyen-cua-ran-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Nhật Bản",
+        "description": "Khi bi kịch ập đến bên trong những bức tường của Ōoku, những cảm xúc méo mó của con người và những mối hận thù đang mưng mủ đã tạo ra kẻ thù đáng sợ nhất từ trước đến nay của Dược Sư."
+    },
+    {
         "name": "Thám Tử Lừng Danh Conan: Vụ án tiền giả Ultra 30",
         "year": 2026,
         "slug": "tham-tu-lung-danh-conan-vu-an-tien-gia-ultra-30",
@@ -334,16 +346,5 @@
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "Âu Mỹ"
-    },
-    {
-        "name": "Kaguya: Công Chúa Vũ Trụ!",
-        "year": 2026,
-        "slug": "kaguya-cong-chua-vu-tru",
-        "thumb": "https://phimimg.com/upload/vod/20260122-1/7eabb2d3cf4f6e8d2216f6cb67d1ee51.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260122-1/04e6b18a66ac7116d54146be5bcc7f6e.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Nhật Bản"
     }
 ]
