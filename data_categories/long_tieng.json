@@ -1,5 +1,17 @@
 [
     {
+        "name": "LEGO ONE PIECE",
+        "year": 2026,
+        "slug": "lego-one-piece",
+        "thumb": "https://phimimg.com/uploads/movies/20261001/lego-one-piece-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261001/lego-one-piece-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (2/2)",
+        "total_episodes": "2",
+        "country": "Âu Mỹ",
+        "description": "Băng Mũ Rơm ra khơi trong phần đặc biệt hai tập này của LEGO! Cùng Luffy, Nami, Usopp và cả băng bước vào hành trình phiêu lưu kỳ thú, được tái hiện hoàn toàn bằng từng viên gạch."
+    },
+    {
         "name": "Đối Chứng",
         "year": 2026,
         "slug": "doi-chung",
@@ -346,17 +358,5 @@
         "total_episodes": "25",
         "country": "Hồng Kông",
         "description": "Giữa những cám dỗ của cuộc sống, ranh giới giữa khát vọng và lòng tham vô cùng mong manh. Phim gồm 6 câu chuyện chuyển thể từ các vụ án có thật, tái hiện những bi kịch bắt nguồn từ tham vọng, tình yêu, thù hận và những bí ẩn tâm linh. Không chỉ mang đến các vụ phá án kịch tính với nhiều cú ngoặt bất ngờ, bộ phim còn khắc họa những góc khuất trong bản chất con người, nơi chỉ một ý niệm cũng có thể quyết định ranh giới giữa thiện và ác."
-    },
-    {
-        "name": "Thanh Gươm Diệt Quỷ: Vô Hạn Thành",
-        "year": 2025,
-        "slug": "thanh-guom-diet-quy-vo-han-thanh",
-        "thumb": "https://phimimg.com/upload/vod/20250722-1/16ea0557ca40cd54a3d25c6750a65c0b.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250722-1/66ee196318069c6ede9450a5f76a4648.jpg",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Nhật Bản",
-        "description": "Kamado Tanjiro gia nhập Sát Quỷ Đoàn sau khi em gái Nezuko bị biến thành quỷ. Trong quá trình trưởng thành, Tanjiro đã chiến đấu với nhiều con quỷ cùng với các đồng đội Agatsuma Zenitsu và Hashibira Inosuke. Hành trình đưa cậu đến với cuộc chiến cùng những kiếm sĩ cấp cao nhất của Sát Quỷ Đoàn - các Trụ Cột - gồm Viêm Trụ Rengoku Kyojuro trên Chuyến Tàu Vô Tận, Âm Trụ Uzui Tengen tại Kỹ Viện Trấn, cũng như Hà Trụ Tokito Muichiro và Luyến Trụ Kanroji Mitsuri tại Làng Thợ Rèn. Khi các thành viên của Sát Quỷ Đoàn và Trụ Cột tham gia vào chương trình đặc huấn để chuẩn bị cho trận chiến sắp với lũ quỷ, Kibutsuji Muzan xuất hiện tại Dinh thự Ubuyashiki. Khi thủ lĩnh của Sát Quỷ Đoàn gặp nguy hiểm, Tanjiro và các Trụ Cột trở về trụ sở Thế nhưng, Muzan bất ngờ kéo toàn bộ Sát Quỷ Đoàn đến hang ổ cuối cùng của lũ quỷ là Vô Hạn Thành, mở màn cho trận đánh cuối cùng của cả hai phe."
     }
 ]

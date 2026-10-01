@@ -1,5 +1,17 @@
 [
     {
+        "name": "LEGO ONE PIECE",
+        "year": 2026,
+        "slug": "lego-one-piece",
+        "thumb": "https://phimimg.com/uploads/movies/20261001/lego-one-piece-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261001/lego-one-piece-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (2/2)",
+        "total_episodes": "2",
+        "country": "Âu Mỹ",
+        "description": "Băng Mũ Rơm ra khơi trong phần đặc biệt hai tập này của LEGO! Cùng Luffy, Nami, Usopp và cả băng bước vào hành trình phiêu lưu kỳ thú, được tái hiện hoàn toàn bằng từng viên gạch."
+    },
+    {
         "name": "Manh Mối Cuối Cùng (Phần 1)",
         "year": 2026,
         "slug": "manh-moi-cuoi-cung-phan-1",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Sau Cuộc chiến Nhân bản (Clone Wars), Maul lập kế hoạch tái thiết lại liên minh tội phạm của mình trên một hành tinh chưa bị Đế Chế vươn vòi tới."
-    },
-    {
-        "name": "Hầm SILO (Phần 3)",
-        "year": 2026,
-        "slug": "ham-silo-phan-3",
-        "thumb": "https://phimimg.com/upload/vod/20260704-1/dd78762f7651be4977588e7b8b93fb91.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260704-1/a87af009b289da38de8dbaed7d279cec.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Trong thế giới hoang tàn và nhiễm độc ở tương lai, hàng nghìn người sống trong một silo khổng lồ sâu dưới lòng đất. Sau khi một cảnh sát trưởng phá vỡ một quy tắc chủ chốt và dân thường thiệt mạng một cách bí ẩn, kỹ sư Juliette bắt đầu phát hiện ra những bí mật gây sốc và sự thật về silo."
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "name": "Quan Phu: Đến Khi Cái Chết Chia Lìa",
+        "year": 2026,
+        "slug": "quan-phu-den-khi-cai-chet-chia-lia",
+        "thumb": "https://phimimg.com/uploads/movies/20261001/quan-phu-den-khi-cai-chet-chia-lia-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261001/quan-phu-den-khi-cai-chet-chia-lia-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Trong phim tài liệu này, một nhà báo và một thanh tra phanh phui sự thật về một kẻ sát nhân có sức hút che giấu cả một chuỗi hôn nhân đổ vỡ và những cái chết đáng ngờ."
+    },
+    {
         "name": "Chuyến Vận Chuyển Sinh Tử / Kẻ Vận Chuyển",
         "year": 2026,
         "slug": "chuyen-van-chuyen-sinh-tu-ke-van-chuyen",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Từ những khoảnh khắc đầu tiên của vụ tấn công đến những ngày cuối cùng đầy ám ảnh ở Kabul hai thập kỷ sau, bộ phim tài liệu cuốn hút này tìm hiểu hệ quả của sự kiện 11/9."
-    },
-    {
-        "name": "Bí Mật Giới Thể Thao: Rachael Gunn",
-        "year": 2026,
-        "slug": "bi-mat-gioi-the-thao-rachael-gunn",
-        "thumb": "https://phimimg.com/uploads/movies/20260903/bi-mat-gioi-the-thao-rachael-gunn-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260903/bi-mat-gioi-the-thao-rachael-gunn-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Mỹ",
-        "description": "Từ một học giả người Úc trở thành hiện tượng meme toàn cầu, vũ công breaking \"Raygun\" kể lại hành trình không theo lối mòn đưa cô đến với sân khấu Olympic – và cả thị phi kéo theo."
     }
 ]
