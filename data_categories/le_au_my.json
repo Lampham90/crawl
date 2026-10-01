@@ -1,5 +1,17 @@
 [
     {
+        "name": "Tro Tàn Vùng Lên",
+        "year": 2026,
+        "slug": "tro-tan-vung-len",
+        "thumb": "https://phimimg.com/uploads/movies/20261001/tro-tan-vung-len-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261001/tro-tan-vung-len-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Đức",
+        "description": "Giữa nước Anh thế kỷ 14 bị dịch bệnh tàn phá, một người nông dân nghèo vô tình châm ngòi cho làn sóng phản kháng chống lại Vua Richard II. Từ một kẻ vô danh dưới đáy xã hội, ông trở thành huyền thoại của những con người không còn gì để mất."
+    },
+    {
         "name": "Quan Phu: Đến Khi Cái Chết Chia Lìa",
         "year": 2026,
         "slug": "quan-phu-den-khi-cai-chet-chia-lia",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Maia Marten, một nữ luật sư tài năng tại Luân Đôn, bị suy sụp hoàn toàn chỉ sau một cuộc điện thoại khi đang chạy bộ buổi sáng: con trai cô đã bị bắt cóc. Để cứu lấy con, cô bắt buộc phải tiếp tục chạy, tuân theo từng mệnh lệnh tàn nhẫn của kẻ tống tiền và không được tin tưởng bất kỳ ai — mỗi giây trôi qua đều là một thử thách đo lường xem một người mẹ có thể đi xa đến đâu để bảo vệ đứa con của mình."
-    },
-    {
-        "name": "Bước Ngoặt Thế Hệ: 11 Tháng 9",
-        "year": 2026,
-        "slug": "buoc-ngoat-the-he-11-thang-9",
-        "thumb": "https://phimimg.com/uploads/movies/20260903/buoc-ngoat-the-he-11-thang-9-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260903/buoc-ngoat-the-he-11-thang-9-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Từ những khoảnh khắc đầu tiên của vụ tấn công đến những ngày cuối cùng đầy ám ảnh ở Kabul hai thập kỷ sau, bộ phim tài liệu cuốn hút này tìm hiểu hệ quả của sự kiện 11/9."
     }
 ]
