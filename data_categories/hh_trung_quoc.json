@@ -6,10 +6,22 @@
         "thumb": "https://phimimg.com/uploads/movies/20260930/nguoi-giu-mo-dai-ha-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260930/nguoi-giu-mo-dai-ha-poster.webp",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
+        "current_episode": "Tập 4",
         "total_episodes": "59",
         "country": "Trung Quốc",
         "description": "Mười năm trước, sau ba ngày liên tiếp xuất hiện trăng máu thì hàng loạt sự kiện quỷ quái, thần linh, dị đồng, kinh dị liên tục xảy ra. Khi những điều bí ẩn và quỷ dị giáng xuống nhân gian, khi nỗi kinh hoàng và tuyệt vọng bao trùm khắp nơi, con người chúng ta nên quỳ gối cúi đầu, bật khóc trong tuyệt vọng, hay cầm vũ khí vùng lên chống trả? Đây là một thời đại hoàn toàn mới, và thời đại này thuộc về những kẻ siêu phàm! Khi cánh cửa dẫn đến thế giới siêu phàm mở ra, Tô Bạch đã nhìn thấy một thế giới hoàn toàn khác…"
+    },
+    {
+        "name": "Linh Cảnh Hành Giả",
+        "year": 2026,
+        "slug": "linh-canh-hanh-gia",
+        "thumb": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "30",
+        "country": "Trung Quốc",
+        "description": "Đây là một thế giới kỳ dị tồn tại song song với thế giới hiện thực, nơi người tham gia phải vượt qua những phó bản nguy hiểm, đối mặt với các nhiệm vụ sinh tử và những sinh vật siêu nhiên. Trong quá trình khám phá Linh Cảnh, Trương Nguyên Thanh từng bước thức tỉnh năng lực, trưởng thành qua những cuộc phiêu lưu và dần khám phá những bí mật ẩn giấu phía sau thế giới này."
     },
     {
         "name": "Lý Hùng Miêu",
@@ -130,18 +142,6 @@
         "total_episodes": "12",
         "country": "Trung Quốc",
         "description": "Vạn Vật Sinh là một thứ công pháp cổ xưa thần kỳ và bí ẩn hơn tất cả những hiểu biết của con người thời hiện đại ngày nay, nhưng bằng một cách thần bí nào đó mà nó lại được truyền thừa và tái hiện trong cơ thể của một thiếu niên thời hiện đại là Tần Vũ. Vốn Tần Vũ được chọn để làm người kế thừa bởi anh mang trong mình những thiên bẩm vô cùng to lớn, có thể dễ kể đến nhất chính là linh căn phế. Tham gia rèn luyện tại Học Viện Cao Võ Đông Đại, Tần Vũ đã nâng cao những sức mạnh thiên bẩm của mình và cùng với các chiến hữu liều mình xả thân chiến đấu cho lẽ phải, đánh đuổi yêu ma, tạo nên một thế giới yên bình sau những biến cố liên tiếp xảy đến."
-    },
-    {
-        "name": "Linh Cảnh Hành Giả",
-        "year": 2026,
-        "slug": "linh-canh-hanh-gia",
-        "thumb": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "30",
-        "country": "Trung Quốc",
-        "description": "Đây là một thế giới kỳ dị tồn tại song song với thế giới hiện thực, nơi người tham gia phải vượt qua những phó bản nguy hiểm, đối mặt với các nhiệm vụ sinh tử và những sinh vật siêu nhiên. Trong quá trình khám phá Linh Cảnh, Trương Nguyên Thanh từng bước thức tỉnh năng lực, trưởng thành qua những cuộc phiêu lưu và dần khám phá những bí mật ẩn giấu phía sau thế giới này."
     },
     {
         "name": "Thám Tử Động Vật (Phần 7)",
