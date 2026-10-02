@@ -1,5 +1,29 @@
 [
     {
+        "name": "Hương Vị Của Biển (Mùa 3)",
+        "year": 2026,
+        "slug": "huong-vi-cua-bien-mua-3",
+        "thumb": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 9",
+        "total_episodes": "11",
+        "country": "Hàn Quốc",
+        "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
+    },
+    {
+        "name": "Chuyến Xe Tâm Tình",
+        "year": 2026,
+        "slug": "chuyen-xe-tam-tinh",
+        "thumb": "https://phimimg.com/uploads/movies/20261002/chuyen-xe-tam-tinh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261002/chuyen-xe-tam-tinh-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Hàn Quốc",
+        "description": "Mang màu sắc nhẹ nhàng, ấm áp và giàu tính nhân văn, phim kể về một tài xế taxi đặc biệt, người chuyên đưa các vị khách xa lạ đi qua những hành trình gắn liền với ký ức và câu chuyện riêng của họ. Mỗi chuyến xe là một câu chuyện về tình yêu, gia đình, những tiếc nuối hoặc những ước mơ chưa hoàn thành. Thông qua những cuộc trò chuyện và những bài hát do chính hành khách chọn, người tài xế giúp họ đối diện với quá khứ, tìm thấy sự an ủi và có thêm dũng khí để bước tiếp."
+    },
+    {
         "name": "Đạo Quật Vương (Vua Trộm Mộ)",
         "year": 2026,
         "slug": "dao-quat-vuong-vua-trom-mo",
@@ -94,18 +118,6 @@
         "total_episodes": "6",
         "country": "Hàn Quốc",
         "description": "Phần 2 tiếp tục xoáy sâu vào những cuộc đấu đá quyền lực căng thẳng, lòng tham, sự trả thù và phản bội gia đình, đặt hai nhân vật chính ở các chiến tuyến đối lập giữa một bên là khát vọng quyền lực/tiền tài và một bên là công lý."
-    },
-    {
-        "name": "Hương Vị Của Biển (Mùa 3)",
-        "year": 2026,
-        "slug": "huong-vi-cua-bien-mua-3",
-        "thumb": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "11",
-        "country": "Hàn Quốc",
-        "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
     },
     {
         "name": "Giác Quan Thứ Sáu: Mặt Trái",
@@ -346,17 +358,5 @@
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Túng tiền, cựu trùm băng đảng nọ bắt tay với một người theo đuổi nghề luật sư để chiếm đoạt quỹ dự phòng của một khu chung cư, nào ngờ phát hiện đường dây tham nhũng có hệ thống."
-    },
-    {
-        "name": "Biệt Đội Siêu Khờ",
-        "year": 2026,
-        "slug": "biet-doi-sieu-kho",
-        "thumb": "https://phimimg.com/upload/vod/20260515-1/085e2fde72531db8a9cadea7a1c95c65.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260515-1/ea04332b4572392a919e1c6587b9f2f3.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Hàn Quốc",
-        "description": "Yoo In Sik (&quot;Nữ luật sư kỳ lạ Woo Young Woo&quot;) đạo diễn loạt phim hài hành động này về ba kẻ lạc loài tình cờ sở hữu siêu năng lực – nhưng không biết cách sử dụng."
     }
 ]

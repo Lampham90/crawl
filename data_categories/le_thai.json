@@ -1,5 +1,17 @@
 [
     {
+        "name": "Chuyện Ma Giảng Đường 4",
+        "year": 2026,
+        "slug": "chuyen-ma-giang-duong-4",
+        "thumb": "https://phimimg.com/uploads/movies/20261002/chuyen-ma-giang-duong-4-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261002/chuyen-ma-giang-duong-4-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Thái Lan",
+        "description": "Bốn trường đại học Thái Lan, bốn truyền thuyết chết người. Sinh viên đối mặt với cây cầu tử thần, ngôi nhà ma, nghi lễ tàn nhẫn và căn phòng ma ám trong tuyển tập kinh dị này."
+    },
+    {
         "name": "Tây Du Ký Đại Náo",
         "year": 2026,
         "slug": "tay-du-ky-dai-nao",
@@ -321,17 +333,6 @@
         "slug": "ngay-lap-voi-nguoi-thuong",
         "thumb": "https://phimimg.com/upload/vod/20250919-1/30183a6ea5f3989cec9257221624d25f.jpg",
         "poster": "https://phimimg.com/upload/vod/20250919-1/dd783660f9f98c344e07d2b4b1c515cd.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "thai-lan"
-    },
-    {
-        "name": "Quan Tài Vợ Quỷ (Nghĩa Địa Của Người Sống)",
-        "year": 2025,
-        "slug": "quan-tai-vo-quy-nghia-dia-cua-nguoi-song",
-        "thumb": "https://phimimg.com/upload/vod/20250907-1/9e88d8b90fb137faca907cf7c046f9c1.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250907-1/accfd71836fd6eef666c11dcc762c0fe.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",

@@ -1,5 +1,29 @@
 [
     {
+        "name": "Đồn Cảnh Sát Nhí Nhố 3",
+        "year": 2026,
+        "slug": "don-canh-sat-nhi-nho-3",
+        "thumb": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-3-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Khi lễ đính hôn phong cách Ấn Độ đầy khoa trương và náo nhiệt của Farva với em gái của Thorny rơi vào cảnh hỗn loạn, biệt đội cảnh sát siêu quậy phải tìm cách xoay xở trước những mưu đồ phá hoại tình cảm của Thorny, đồng thời nỗ lực phá giải một đường dây buôn bán ma túy mới đầy hiểm hóc — tất cả nhằm giải cứu tình thế và bảo vệ cho chính đám cưới này."
+    },
+    {
+        "name": "Coyote Đấu Với Acme",
+        "year": 2026,
+        "slug": "coyote-dau-voi-acme",
+        "thumb": "https://phimimg.com/uploads/movies/20261002/coyote-dau-voi-acme-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261002/coyote-dau-voi-acme-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Sau quá nhiều lần thất bại vì những món hàng lỗi của công ty Acme trong cuộc săn đuổi không ngừng nghỉ chú chim Roadrunner, Wile E. Coyote quyết định thuê một luật sư… từ biển quảng cáo, để kiện tập đoàn Acme ra tòa."
+    },
+    {
         "name": "Tro Tàn Vùng Lên",
         "year": 2026,
         "slug": "tro-tan-vung-len",
@@ -334,29 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Hai ông trùm khét tiếng Frank Costello và Vito Genovese từng là bạn thân, nhưng ganh tị và phản bội đã biến họ thành kẻ thù không đội trời chung. Cuộc chiến giành quyền lực giữa họ không chỉ định hình lại thế giới ngầm New York, mà còn làm rung chuyển cả nước Mỹ."
-    },
-    {
-        "name": "Instadocs: Máy Bay Mồi Nhử",
-        "year": 2026,
-        "slug": "instadocs-may-bay-moi-nhu",
-        "thumb": "https://phimimg.com/uploads/movies/20260905/instadocs-may-bay-moi-nhu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260905/instadocs-may-bay-moi-nhu-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Mối đe dọa nghiêm trọng. Một cuộc trốn thoát bí mật. Và một chiếc xe đồ ăn Thổ Nhĩ Kỳ? Với lời kể trực tiếp, \"Instadocs\" sẽ làm rõ những gì đã xảy ra trên Không Lực Một."
-    },
-    {
-        "name": "Người Chạy / Kẻ Chạy Trốn",
-        "year": 2026,
-        "slug": "nguoi-chay-ke-chay-tron",
-        "thumb": "https://phimimg.com/uploads/movies/20260904/nguoi-chay-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260904/nguoi-chay-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Maia Marten, một nữ luật sư tài năng tại Luân Đôn, bị suy sụp hoàn toàn chỉ sau một cuộc điện thoại khi đang chạy bộ buổi sáng: con trai cô đã bị bắt cóc. Để cứu lấy con, cô bắt buộc phải tiếp tục chạy, tuân theo từng mệnh lệnh tàn nhẫn của kẻ tống tiền và không được tin tưởng bất kỳ ai — mỗi giây trôi qua đều là một thử thách đo lường xem một người mẹ có thể đi xa đến đâu để bảo vệ đứa con của mình."
     }
 ]

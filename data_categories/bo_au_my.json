@@ -1,5 +1,17 @@
 [
     {
+        "name": "Phía Đông Vườn Địa Đàng",
+        "year": 2026,
+        "slug": "phia-dong-vuon-dia-dang-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20261002/phia-dong-vuon-dia-dang-2026-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261002/phia-dong-vuon-dia-dang-2026-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (7/7)",
+        "total_episodes": "7",
+        "country": "Âu Mỹ",
+        "description": "Đầu những năm 1900, một người phụ nữ vô cùng độc lập gây rạn nứt giữa hai anh em, châm ngòi cho câu chuyện kéo dài qua hai thế hệ."
+    },
+    {
         "name": "LEGO ONE PIECE",
         "year": 2026,
         "slug": "lego-one-piece",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Âu Mỹ",
         "description": "Nhân vật chính là Alice Black (Emmy Rossum), một cựu cảnh sát New York. Sau khi bị bạn trai là đồng nghiệp bạo hành và chứng kiến cả sở cảnh sát quay lưng khi cô tố cáo hắn, Alice rời lực lượng và gia nhập FBI. Những sang chấn trong quá khứ khiến cô đặc biệt quan tâm đến các vụ án liên quan đến bạo lực đối với phụ nữ."
-    },
-    {
-        "name": "Chiến Tranh Giữa Các Vì Sao: Maul – Chúa Tể Bóng Tối",
-        "year": 2026,
-        "slug": "chien-tranh-giua-cac-vi-sao-maul-chua-te-bong-toi",
-        "thumb": "https://phimimg.com/uploads/movies/20260905/chien-tranh-giua-cac-vi-sao-maul-chua-te-bong-toi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260905/chien-tranh-giua-cac-vi-sao-maul-chua-te-bong-toi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Sau Cuộc chiến Nhân bản (Clone Wars), Maul lập kế hoạch tái thiết lại liên minh tội phạm của mình trên một hành tinh chưa bị Đế Chế vươn vòi tới."
     }
 ]

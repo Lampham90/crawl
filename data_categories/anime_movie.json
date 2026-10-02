@@ -1,5 +1,17 @@
 [
     {
+        "name": "Tiên Nghịch Movie: Thí Tiên Chi Chiến",
+        "year": 2026,
+        "slug": "tien-nghich-movie-thi-tien-chi-chien",
+        "thumb": "https://phimimg.com/uploads/movies/20261002/tien-nghich-movie-thi-tien-chi-chien-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261002/tien-nghich-movie-thi-tien-chi-chien-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Trung Quốc",
+        "description": "Sau khi tiến vào Lôi Chi Tiên Giới, Vương Lâm bất ngờ rơi vào thiên la sát cục do Huyết Tổ giăng sẵn. Giữa mê trận chồng chất, mọi đường lui đều bị phong bế, hắn trở thành mục tiêu của cuộc truy sát không khoan nhượng từ một kẻ địch sở hữu thực lực vượt xa bản thân.  Bị dồn đến ranh giới sinh tử, Vương Lâm không lựa chọn khuất phục. Với ý chí nghịch thiên, sự bình tĩnh cùng kinh nghiệm tích lũy qua vô số lần cận kề cái chết, hắn từng bước nhìn thấu sát cục, phá vỡ từng tầng bố trí của đối phương và nghịch chuyển thế cờ trong hoàn cảnh tưởng chừng không còn lối thoát."
+    },
+    {
         "name": "Mononoke – Phim điện ảnh: Chương III – Lời nguyền của rắn",
         "year": 2026,
         "slug": "mononoke-phim-dien-anh-chuong-iii-loi-nguyen-cua-ran",
@@ -335,16 +347,5 @@
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "Nhật Bản"
-    },
-    {
-        "name": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
-        "year": 2026,
-        "slug": "tuyen-thu-de-mui-vi-chien-thang",
-        "thumb": "https://phimimg.com/upload/vod/20260325-1/57000b826e67c1db2727e310aec0b004.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260325-1/1f5f942c1627deb2064d8be37d172855.jpg",
-        "sub_type": "Vietsub + Thuyết Minh",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ"
     }
 ]
