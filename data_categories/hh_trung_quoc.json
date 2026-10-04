@@ -1,5 +1,29 @@
 [
     {
+        "name": "Cục Quản Lý Ký Ức",
+        "year": 2026,
+        "slug": "cuc-quan-ly-ky-uc",
+        "thumb": "https://phimimg.com/uploads/movies/20261004/cuc-quan-ly-ky-uc-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261004/cuc-quan-ly-ky-uc-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "23",
+        "country": "Trung Quốc",
+        "description": "Câu chuyện xoay quanh nhân vật Quan Triều. Để quay về quá khứ, anh mải miết đi tìm \"Thước Thạch\" - nguồn năng lượng kích hoạt Khẩu Súng Thời Gian. Tuy nhiên, anh lại vô tình rơi vào Cục Quản Lý Ký Ức. Để tìm đường trở lại thực tại, Quan Triều phải đồng hành cùng các quản lý ký ức như Phương Đường và Bách Trọng để thu hồi những \"Bug Người\" (những lỗi sinh ra từ bộ nhớ con người) ở từng tầng ký ức."
+    },
+    {
+        "name": "Thần Tài Đậu Chiêm Long",
+        "year": 2026,
+        "slug": "than-tai-dau-chiem-long",
+        "thumb": "https://phimimg.com/uploads/movies/20260818/than-tai-dau-chiem-long-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260818/than-tai-dau-chiem-long-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 10",
+        "total_episodes": "16",
+        "country": "Trung Quốc",
+        "description": "Ba mươi sáu bàng môn, bảy mươi hai tả đạo, trong đó “Bí Bảo” được xem là đứng đầu. Bước chân vào con đường phát tài, tranh đoạt tạo hóa của đất trời, cũng đồng nghĩa với việc đặt mình vào vô số hiểm cảnh. Đậu Chiêm Long – vị “Thần Tài” tà môn nhất lịch sử – mang trong mình một vận mệnh không thể thoát khỏi. Giữa những bí thuật dân gian, kỳ cảnh quỷ dị và vòng xoáy nhân quả, hắn buộc phải nghịch thiên cải mệnh, phá vỡ xiềng xích số phận và tìm ra con đường sống của chính mình."
+    },
+    {
         "name": "Vạn Cổ Chí Tôn: Lý Vân Tiêu Truyện",
         "year": 2026,
         "slug": "van-co-chi-ton-ly-van-tieu-truyen",
@@ -118,18 +142,6 @@
         "total_episodes": "25",
         "country": "Trung Quốc",
         "description": "Hãy cùng đón xem hành trình thiếu niên chiêu hồn đối đầu trực diện với tà phái Cửu Cúc, liều mình bảo vệ chúng sinh Lam Hải trước nguy cơ sụp đổ ranh giới hai giới. Trong thế giới này, ý thức của muôn loài đều được cấu tạo từ các hạt vi mô. Thiếu niên Lâm Dã ở đảo Lam Hải bẩm sinh sở hữu thể chất \"chiêu hồn\" đặc biệt, được giới \"Du Hồn\" coi là \"khách sạn di động\", suốt ngày bị linh hồn nhập xác gây rối và phải bỏ chạy thục mạng. Sau khi tình cờ gặp gỡ Trần Quả — cô gái mang dị năng có khả năng thu phục \"Du Hồn\", Lâm Dã bước chân vào tổ chức siêu nhiên Học viện Hoa Tịnh, từ đó cuốn vào cuộc tranh đấu kéo dài hàng thế kỷ với tà phái \"Cửu Cúc Nhất Phái\" đến từ Đông Doanh. Trong hành trình này, cậu liên tục đối mặt với những âm mưu ly gián, hãm hại, và sự sụp đổ niềm tin. Cho đến khi cánh cổng ranh giới sắp mở ra, toàn thành phố rơi vào cảnh nguy vong, Lâm Dã đã dùng chấp niệm của một người bình thường để quyết đấu đến cùng với bản sao hoàn hảo của chính mình, dốc hết sức tàn bảo vệ Lam Hải. Tuy nhiên, ngay khi đại chiến khép lại và anh hùng ngã xuống, một âm mưu mới của Cửu Cúc Nhất Phái lại âm thầm lan rộng nơi sâu thẳm của dãy Côn Lôn..."
-    },
-    {
-        "name": "Thần Tài Đậu Chiêm Long",
-        "year": 2026,
-        "slug": "than-tai-dau-chiem-long",
-        "thumb": "https://phimimg.com/uploads/movies/20260818/than-tai-dau-chiem-long-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260818/than-tai-dau-chiem-long-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "16",
-        "country": "Trung Quốc",
-        "description": "Ba mươi sáu bàng môn, bảy mươi hai tả đạo, trong đó “Bí Bảo” được xem là đứng đầu. Bước chân vào con đường phát tài, tranh đoạt tạo hóa của đất trời, cũng đồng nghĩa với việc đặt mình vào vô số hiểm cảnh. Đậu Chiêm Long – vị “Thần Tài” tà môn nhất lịch sử – mang trong mình một vận mệnh không thể thoát khỏi. Giữa những bí thuật dân gian, kỳ cảnh quỷ dị và vòng xoáy nhân quả, hắn buộc phải nghịch thiên cải mệnh, phá vỡ xiềng xích số phận và tìm ra con đường sống của chính mình."
     },
     {
         "name": "Sơn Hải Kinh: Thiết Lập Lại Trật Tự",
@@ -332,16 +344,5 @@
         "current_episode": "Hoàn Tất (26/26)",
         "total_episodes": "26",
         "country": "Trung Quốc"
-    },
-    {
-        "name": "Vị Vua Mạnh Nhất Làm Gì Ở Kiếp Thứ Hai (Phần 2)",
-        "year": 2026,
-        "slug": "vi-vua-manh-nhat-lam-gi-o-kiep-thu-hai-phan-2",
-        "thumb": "https://phimimg.com/upload/vod/20260407-1/20c13944700ada228e91a1ae8e0c84c1.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260407-1/aedbffec5010775e98d8061eae35fca4.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (12/12)",
-        "total_episodes": "12",
-        "country": "Nhật Bản"
     }
 ]
