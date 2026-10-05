@@ -1,5 +1,17 @@
 [
     {
+        "name": "Người Nhện: Khởi Đầu Mới",
+        "year": 2026,
+        "slug": "nguoi-nhen-khoi-dau-moi",
+        "thumb": "https://phimimg.com/uploads/movies/20260827/nguoi-nhen-khoi-dau-moi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260827/nguoi-nhen-khoi-dau-moi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Không còn Tony Stark, MJ hay Ned kề cận, Peter buộc phải đơn thân độc mã đối diện với phe đối đầu bí ẩn. Tuy nhiên, khi áp lực ngày càng gia tăng, nó kích hoạt một sự biến đổi thể chất bất ngờ, đe dọa chính sự tồn tại của anh. Đồng thời, một chuỗi tội phạm bí ẩn mới xuất hiện, kéo theo một trong những mối đe dọa mạnh mẽ nhất mà Spider-Man từng đối mặt."
+    },
+    {
         "name": "Sống Đời",
         "year": 2026,
         "slug": "song-doi",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Khi một phi công hải quân Hoa Kỳ bị mắc kẹt bên chiến tuyến địch khi đang thực hiện nhiệm vụ tối mật thời Chiến tranh Lạnh, cơ hội sống sót duy nhất của anh là bắt tay liên minh với một cựu đặc vụ KGB lập dị."
-    },
-    {
-        "name": "Khi Bố Thất Thủ / Trụ Cột Gia Đình",
-        "year": 2026,
-        "slug": "khi-bo-that-thu-tru-cot-gia-dinh",
-        "thumb": "https://phimimg.com/uploads/movies/20260730/khi-bo-that-thu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260730/khi-bo-that-thu-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Khi vợ chốt được một thương vụ trên Shark Tank, Nate trở thành ông bố nội trợ của ba cô con gái. Hành trình đầy tiếng cười giúp anh khám phá ý nghĩa thực sự của gia đình."
     }
 ]
