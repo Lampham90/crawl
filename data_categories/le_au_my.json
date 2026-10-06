@@ -1,5 +1,17 @@
 [
     {
+        "name": "Quỷ Quyệt: Ranh Giới Vô Định",
+        "year": 2026,
+        "slug": "quy-quyet-ranh-gioi-vo-dinh",
+        "thumb": "https://phimimg.com/uploads/movies/20261007/quy-quyet-ranh-gioi-vo-dinh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261007/quy-quyet-ranh-gioi-vo-dinh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Ba kẻ rình rập xâm nhập một khu dân cư yên tĩnh và kéo một gia đình mới chuyển đến sang cõi linh hồn. Tại đó, họ phát hiện ra một sự thật kinh hoàng: cõi âm đang dần xâm lấn thế giới thực."
+    },
+    {
         "name": "Người Nhện: Khởi Đầu Mới",
         "year": 2026,
         "slug": "nguoi-nhen-khoi-dau-moi",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Trước khi qua đời, nhà hoạt động Gloria Steinem gửi gắm thông điệp chân thành cuối cùng đến thế giới, biết rằng buổi phỏng vấn này chỉ lên sóng sau khi bà đã ra đi."
-    },
-    {
-        "name": "Báo Động Mayday",
-        "year": 2026,
-        "slug": "bao-dong-mayday",
-        "thumb": "https://phimimg.com/uploads/movies/20260906/bao-dong-mayday-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260906/bao-dong-mayday-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Khi một phi công hải quân Hoa Kỳ bị mắc kẹt bên chiến tuyến địch khi đang thực hiện nhiệm vụ tối mật thời Chiến tranh Lạnh, cơ hội sống sót duy nhất của anh là bắt tay liên minh với một cựu đặc vụ KGB lập dị."
     }
 ]
