@@ -547,6 +547,18 @@
     ],
     "phim_chieu_rap": [
         {
+            "name": "Quỷ Quyệt: Ranh Giới Vô Định",
+            "year": 2026,
+            "slug": "quy-quyet-ranh-gioi-vo-dinh",
+            "thumb": "https://phimimg.com/uploads/movies/20261007/quy-quyet-ranh-gioi-vo-dinh-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261007/quy-quyet-ranh-gioi-vo-dinh-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Ba kẻ rình rập xâm nhập một khu dân cư yên tĩnh và kéo một gia đình mới chuyển đến sang cõi linh hồn. Tại đó, họ phát hiện ra một sự thật kinh hoàng: cõi âm đang dần xâm lấn thế giới thực."
+        },
+        {
             "name": "Người Nhện: Khởi Đầu Mới",
             "year": 2026,
             "slug": "nguoi-nhen-khoi-dau-moi",
@@ -713,18 +725,6 @@
             "total_episodes": "1",
             "country": "Âu Mỹ",
             "description": "Nghe theo tiếng gọi của Đại Dương, Moana dũng cảm rời đảo Motunui, lần đầu vượt qua rạn san hô để khám phá thế giới rộng lớn. Cùng á thần Maui, cô bắt đầu hành trình phiêu lưu đầy kỳ diệu với sứ mệnh mang lại sự thịnh vượng cho quê hương."
-        },
-        {
-            "name": "Mùi Phở",
-            "year": 2026,
-            "slug": "mui-pho",
-            "thumb": "https://phimimg.com/uploads/movies/20260902/mui-pho-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260902/mui-pho-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Việt Nam",
-            "description": "Câu chuyện về sự xung đột thế hệ và những va chạm giữa quan niệm cũ và lối sống hiện đại, xoay quanh món Phở - biểu tượng ẩm thực Việt. Đằng sau những mâu thuẫn và tranh cãi ấy, từng bí mật dần được hé lộ, mở ra hành trình tìm lại sự ấm áp của tình thân qua những tình tiết hài hước, dí dỏm và đầy duyên dáng."
         }
     ],
     "le_vn": [
@@ -1821,6 +1821,18 @@
     ],
     "le_au_my": [
         {
+            "name": "Quỷ Quyệt: Ranh Giới Vô Định",
+            "year": 2026,
+            "slug": "quy-quyet-ranh-gioi-vo-dinh",
+            "thumb": "https://phimimg.com/uploads/movies/20261007/quy-quyet-ranh-gioi-vo-dinh-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261007/quy-quyet-ranh-gioi-vo-dinh-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Ba kẻ rình rập xâm nhập một khu dân cư yên tĩnh và kéo một gia đình mới chuyển đến sang cõi linh hồn. Tại đó, họ phát hiện ra một sự thật kinh hoàng: cõi âm đang dần xâm lấn thế giới thực."
+        },
+        {
             "name": "Người Nhện: Khởi Đầu Mới",
             "year": 2026,
             "slug": "nguoi-nhen-khoi-dau-moi",
@@ -1987,18 +1999,6 @@
             "total_episodes": "1",
             "country": "Âu Mỹ",
             "description": "Khởi đầu mới của một gia đình tại ngôi nhà mới bỗng chốc sụp đổ khi đứa con trai của họ phát hiện ra một chiếc máy tính bảng tích hợp công nghệ trí tuệ nhân tạo (AI). Chiếc máy đã giải phóng một làn sóng kinh hoàng không chỉ liên quan đến các thế lực siêu nhiên mà còn dính líu đến những bí mật đen tối về lòng tham và sự tham nhũng đang bủa vằn quanh họ."
-        },
-        {
-            "name": "Đội nhảy xuất sắc nhất / Đội nhảy số một",
-            "year": 2026,
-            "slug": "doi-nhay-xuat-sac-nhat-doi-nhay-so-mot",
-            "thumb": "https://phimimg.com/uploads/movies/20260921/doi-nhay-xuat-sac-nhat-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260921/doi-nhay-xuat-sac-nhat-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Trên hành trình chinh phục ngôi vị quán quân và vượt qua các vòng thi đấu căng thẳng, họ phải đối mặt với những đối thủ đáng gờm — nổi bật là Deepica (Shreya Navile), đội trưởng một đội nhảy đối thủ đầy tài năng. Bộ phim kết hợp giữa các màn vũ đạo hoành tráng, âm nhạc sôi động và những câu chuyện dở khóc dở cười tuổi sinh viên."
         }
     ],
     "bo_au_my": [
@@ -2913,16 +2913,16 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Người Nhện: Khởi Đầu Mới",
+            "name": "Quỷ Quyệt: Ranh Giới Vô Định",
             "year": 2026,
-            "slug": "nguoi-nhen-khoi-dau-moi",
-            "thumb": "https://phimimg.com/uploads/movies/20260827/nguoi-nhen-khoi-dau-moi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260827/nguoi-nhen-khoi-dau-moi-poster.webp",
+            "slug": "quy-quyet-ranh-gioi-vo-dinh",
+            "thumb": "https://phimimg.com/uploads/movies/20261007/quy-quyet-ranh-gioi-vo-dinh-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261007/quy-quyet-ranh-gioi-vo-dinh-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
             "country": "Âu Mỹ",
-            "description": "Không còn Tony Stark, MJ hay Ned kề cận, Peter buộc phải đơn thân độc mã đối diện với phe đối đầu bí ẩn. Tuy nhiên, khi áp lực ngày càng gia tăng, nó kích hoạt một sự biến đổi thể chất bất ngờ, đe dọa chính sự tồn tại của anh. Đồng thời, một chuỗi tội phạm bí ẩn mới xuất hiện, kéo theo một trong những mối đe dọa mạnh mẽ nhất mà Spider-Man từng đối mặt."
+            "description": "Ba kẻ rình rập xâm nhập một khu dân cư yên tĩnh và kéo một gia đình mới chuyển đến sang cõi linh hồn. Tại đó, họ phát hiện ra một sự thật kinh hoàng: cõi âm đang dần xâm lấn thế giới thực."
         },
         {
             "name": "Phế Hậu Vào Lãnh Cung Bận Làm Ruộng (Phần 1)",
@@ -2973,16 +2973,16 @@
             "description": "Xoay quanh tân binh John Stewart và huyền thoại Hal Jordan — hai cảnh sát liên ngân hà bị cuốn vào một bí ẩn đen tối ngay tại Trái Đất khi họ điều tra một vụ án mạng ở vùng trung tâm nước Mỹ."
         },
         {
-            "name": "Phá Đám: Sinh Nhật Mẹ",
-            "year": 2025,
-            "slug": "pha-dam-sinh-nhat-me",
-            "thumb": "https://phimimg.com/upload/vod/20260517-1/ad67ffa5d2d07e1566bb07f27bdeb123.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260517-1/cf6c033ac490be0f8414ce3abadf4246.jpg",
+            "name": "Người Nhện: Khởi Đầu Mới",
+            "year": 2026,
+            "slug": "nguoi-nhen-khoi-dau-moi",
+            "thumb": "https://phimimg.com/uploads/movies/20260827/nguoi-nhen-khoi-dau-moi-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260827/nguoi-nhen-khoi-dau-moi-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Việt Nam",
-            "description": "Bị bọn côn đồ đe dọa, một chàng trai trẻ dàn dựng một đám tang giả cho mẹ mình để đòi tiền bảo hiểm. Nhưng kế hoạch điên rồ và bất hiếu của anh liên tục bị phá hoại — bởi cả người lạ, bạn bè, và đặc biệt là vì ngày anh định đưa mẹ vào quan tài lại trùng với sinh nhật lần thứ 60 của bà."
+            "country": "Âu Mỹ",
+            "description": "Không còn Tony Stark, MJ hay Ned kề cận, Peter buộc phải đơn thân độc mã đối diện với phe đối đầu bí ẩn. Tuy nhiên, khi áp lực ngày càng gia tăng, nó kích hoạt một sự biến đổi thể chất bất ngờ, đe dọa chính sự tồn tại của anh. Đồng thời, một chuỗi tội phạm bí ẩn mới xuất hiện, kéo theo một trong những mối đe dọa mạnh mẽ nhất mà Spider-Man từng đối mặt."
         },
         {
             "name": "Trường Sinh Khế",
@@ -3033,16 +3033,16 @@
             "description": "Sau những biến động và cuộc chiến đẫm máu ở mùa đầu tiên, gia đình tội phạm quyền lực nhà Harrigan bước sang mùa 2 trong tình trạng rạn nứt nghiêm trọng. Sức ép đè nặng khi các thành viên bắt đầu đối đầu lẫn nhau, đứng trước nguy cơ xảy ra một cuộc nội chiến thực sự."
         },
         {
-            "name": "Cú Sốc",
-            "year": 2026,
-            "slug": "cu-soc",
-            "thumb": "https://phimimg.com/upload/vod/20260505-1/8d2f42eb4d2a2db443d7ad863d83ba51.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260505-1/aa5419bddec64990d591f77262fc2e42.jpg",
+            "name": "Phá Đám: Sinh Nhật Mẹ",
+            "year": 2025,
+            "slug": "pha-dam-sinh-nhat-me",
+            "thumb": "https://phimimg.com/upload/vod/20260517-1/ad67ffa5d2d07e1566bb07f27bdeb123.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260517-1/cf6c033ac490be0f8414ce3abadf4246.jpg",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Một cặp đôi đang hạnh phúc chuẩn bị kết hôn bất ngờ bị thử thách khi một biến cố ngoài dự kiến khiến cả tuần lễ cưới của họ rơi vào hỗn loạn."
+            "country": "Việt Nam",
+            "description": "Bị bọn côn đồ đe dọa, một chàng trai trẻ dàn dựng một đám tang giả cho mẹ mình để đòi tiền bảo hiểm. Nhưng kế hoạch điên rồ và bất hiếu của anh liên tục bị phá hoại — bởi cả người lạ, bạn bè, và đặc biệt là vì ngày anh định đưa mẹ vào quan tài lại trùng với sinh nhật lần thứ 60 của bà."
         },
         {
             "name": "Phong Hoa Lệnh (Phần 1)",
