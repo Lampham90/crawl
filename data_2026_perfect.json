@@ -1141,6 +1141,18 @@
             "description": "Gang Dong Won, Um Tae Goo và Park Ji Huyn vào vai những cựu ngôi sao K-pop tái hợp sau 20 năm cho một đêm diễn duy nhất – miễn là họ có thể sống sót qua mớ hỗn loạn trước."
         },
         {
+            "name": "Dòng Sông Trắng (Dục Vọng Bên Sông Trắng)",
+            "year": 2025,
+            "slug": "dong-song-trang-duc-vong-ben-song-trang",
+            "thumb": "https://phimimg.com/uploads/movies/20260710/dong-song-trang-duc-vong-ben-song-trang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260710/dong-song-trang-duc-vong-ben-song-trang-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Hàn Quốc",
+            "description": "White River kể về Yang Fan, một người phụ nữ sống trong những ngày phong tỏa buồn tẻ bên dòng Bạch Hà, nơi cuộc sống chỉ xoay quanh nấu nướng và dọn dẹp. Mọi thứ dần thay đổi khi cô bị cuốn vào mối quan hệ đầy dục vọng và bí ẩn giữa chồng mình với một chàng phục vụ trẻ tuổi"
+        },
+        {
             "name": "Khi Chồng Hợp Lực",
             "year": 2026,
             "slug": "khi-chong-hop-luc",
@@ -1259,18 +1271,6 @@
             "total_episodes": "1",
             "country": "Hàn Quốc",
             "description": "Ai rồi cũng nói dối… Một rạng sáng sau đêm bão tuyết, Do Kyung (Jung Ryeo-won) hốt hoảng lái xe đưa chị gái mình đến bệnh viện trong tình trạng đẫm máu. Ngay sau đó, nữ cảnh sát Hyun Joo (Lee Jung-eun) có mặt tại hiện trường và nhanh chóng cảm nhận được rằng sau những lời khai rối ren của Do-kyung là một sự thật đang bị che giấu. Khi mỗi người kể lại vụ việc theo một góc nhìn khác nhau, ranh giới giữa sự thật và dối trá dần tan biến – để lộ một bức tranh tâm lý u tối, rùng mình. Đêm tuyết phủ khiến mọi dấu vết đều biến mất, vậy ai mới thực sự là kẻ thủ ác?"
-        },
-        {
-            "name": "Tình Báo Con Người",
-            "year": 2026,
-            "slug": "tinh-bao-con-nguoi",
-            "thumb": "https://phimimg.com/upload/vod/20260402-1/1dad4e834a4374dc351018defc586fdf.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260402-1/99ae9f8382508c428badfa20781613a1.jpg",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Hàn Quốc",
-            "description": "Trong khi truy quét đường dây ma túy ở Nga, đặc vụ Hàn Quốc nọ phải hợp tác với một đặc vụ Triều Tiên, rồi tình yêu với người đó thử thách lòng trung thành của anh."
         }
     ],
     "bo_han": [
@@ -2367,6 +2367,30 @@
     ],
     "bo_thai": [
         {
+            "name": "Trái tim của kẻ ký sinh",
+            "year": 2026,
+            "slug": "trai-tim-cua-ke-ky-sinh",
+            "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 16",
+            "total_episodes": "30",
+            "country": "Thái Lan",
+            "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
+        },
+        {
+            "name": "Hai Trái Tim",
+            "year": 2026,
+            "slug": "hai-trai-tim",
+            "thumb": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260812/hai-trai-tim-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (16/16)",
+            "total_episodes": "16",
+            "country": "Thái Lan",
+            "description": "Võ sĩ quyền Anh Dom nằm vùng để thâm nhập tổ chức tội phạm hùng mạnh, nhưng nhiệm vụ này nhanh chóng đẩy cả cuộc hôn nhân lẫn tính mạng của anh vào thế hiểm nguy."
+        },
+        {
             "name": "Liệu Pháp Chết Người (Phần 1)",
             "year": 2026,
             "slug": "lieu-phap-chet-nguoi-phan-1",
@@ -2499,18 +2523,6 @@
             "description": "Cô tiểu thư lạnh lùng, cao ngạo của một đế chế kinh doanh bất ngờ sa vào lưới tình với một cô gái trẻ tình cờ gặp bên bờ biển. Nhưng trớ trêu thay, định mệnh lại giáng một đòn cay nghiệt khi người khiến tim cô đập rộn ràng ấy hóa ra lại là một \"thiên thần\" tại một câu lạc bộ độc quyền—sống trong chính thế giới mà cô căm ghét nhất. Dù yêu nhau sâu đậm đến đâu, mối quan hệ của họ vẫn bị xé nát hết lần này đến lần khác bởi định kiến, sự hiểu lầm, những bí mật và rào cản giai cấp xã hội. Mỗi lần trái tim họ dần xích lại gần nhau, lại có thứ gì đó buộc họ phải đẩy nhau ra xa. Câu hỏi giờ đây không chỉ đơn giản là \"Liệu họ có thể yêu nhau?\", mà là \"Liệu họ có đủ dũng khí để yêu mà không phán xét lẫn nhau?\""
         },
         {
-            "name": "Trái tim của kẻ ký sinh",
-            "year": 2026,
-            "slug": "trai-tim-cua-ke-ky-sinh",
-            "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 15",
-            "total_episodes": "30",
-            "country": "Thái Lan",
-            "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
-        },
-        {
             "name": "Hội quạ đen",
             "year": 2026,
             "slug": "hoi-qua-den",
@@ -2533,18 +2545,6 @@
             "total_episodes": "10",
             "country": "Thái Lan",
             "description": "Bị phản bội, Rin gieo lời nguyền để trả thù tình cũ. Nhưng khi lời nguyền ứng nghiệm lên người bạn cùng lớp, cậu phải tìm cách hóa giải mà không để lộ dòng dõi bí mật của mình."
-        },
-        {
-            "name": "Chuyện Tình Đảo Thiên Đường",
-            "year": 2026,
-            "slug": "chuyen-tinh-dao-thien-duong",
-            "thumb": null,
-            "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 12",
-            "total_episodes": "17",
-            "country": "Thái Lan",
-            "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
         }
     ],
     "long_tieng": [
