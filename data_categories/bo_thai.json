@@ -1,5 +1,29 @@
 [
     {
+        "name": "Bùa Ngải Trói Buộc",
+        "year": 2026,
+        "slug": "bua-ngai-troi-buoc",
+        "thumb": "https://phimimg.com/uploads/movies/20260907/khom-khlang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260907/khom-khlang-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Một nữ cảnh sát Bangkok bản tính đa nghi đang ráo riết truy lùng một tên trùm buôn người có năng lực kháng đạn. Cô lặn lội đến vùng Phop Phra, tỉnh Tak để tìm một vị cao nhân nhờ rèn những viên đạn yểm phép. Thế nhưng khi đến nơi, cô phát hiện ra người mình cất công tìm kiếm lại chính là mối duyên tiền định - người đã dành trọn cả cuộc đời chỉ để chờ đợi ngày được đoàn tụ cùng tình yêu đích thực."
+    },
+    {
+        "name": "Chiếc Nhẫn Tri Kỷ",
+        "year": 2026,
+        "slug": "chiec-nhan-tri-ky",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20261006/chiec-nhan-tri-ky-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "24",
+        "country": "Thái Lan",
+        "description": "Một người nổi tiếng có tầm ảnh hưởng chuẩn bị kết hôn với anh bạn trai chân chất. Nhưng cặp đôi một lần nữa phải chứng minh tình yêu của mình khi cặp nhẫn đưa họ quay về quá khứ."
+    },
+    {
         "name": "Trái tim của kẻ ký sinh",
         "year": 2026,
         "slug": "trai-tim-cua-ke-ky-sinh",
@@ -216,18 +240,6 @@
         "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
     },
     {
-        "name": "Bùa Ngải Trói Buộc",
-        "year": 2026,
-        "slug": "bua-ngai-troi-buoc",
-        "thumb": "https://phimimg.com/uploads/movies/20260907/khom-khlang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260907/khom-khlang-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Một nữ cảnh sát Bangkok bản tính đa nghi đang ráo riết truy lùng một tên trùm buôn người có năng lực kháng đạn. Cô lặn lội đến vùng Phop Phra, tỉnh Tak để tìm một vị cao nhân nhờ rèn những viên đạn yểm phép. Thế nhưng khi đến nơi, cô phát hiện ra người mình cất công tìm kiếm lại chính là mối duyên tiền định - người đã dành trọn cả cuộc đời chỉ để chờ đợi ngày được đoàn tụ cùng tình yêu đích thực."
-    },
-    {
         "name": "GELBOYS (Phần 2)",
         "year": 2025,
         "slug": "gelboys-phan-2",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Thái Lan",
         "description": "Chuyển đến trường cấp ba hàng đầu, chàng trai nuôi mộng trở thành ngôi sao nhạc rock Leerit thề sẽ tránh xa chuyện yêu đương, nhưng nhanh chóng đổi ý khi gặp bạn cùng phòng mới."
-    },
-    {
-        "name": "Đừng Xin Anh Jane",
-        "year": 2026,
-        "slug": "dung-xin-anh-jane",
-        "thumb": "https://phimimg.com/upload/vod/20260628-1/a95d26463927cbc3490db630c8f8f16a.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260628-1/579b51f4dd34a72eb28ee9ab9e2c57ca.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (12/12)",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Một cầu thủ bóng đá kết bạn với một thực thể ban điều ước đầy bí ẩn, nhưng những món quà nguy hiểm từ thực thể này lại che giấu những bí mật đen tối, vô tình kéo hai người lại gần nhau hơn."
     }
 ]
