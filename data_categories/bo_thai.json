@@ -1,5 +1,89 @@
 [
     {
+        "name": "NOUR",
+        "year": 2026,
+        "slug": "nour",
+        "thumb": "https://phimimg.com/uploads/movies/20260826/nour-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260826/nour-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 9",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
+    },
+    {
+        "name": "Bóng Dưới Trăng",
+        "year": 2026,
+        "slug": "bong-duoi-trang",
+        "thumb": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 9",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
+    },
+    {
+        "name": "Trái tim của kẻ ký sinh",
+        "year": 2026,
+        "slug": "trai-tim-cua-ke-ky-sinh",
+        "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 18",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
+    },
+    {
+        "name": "Chuyện Tình Đảo Thiên Đường",
+        "year": 2026,
+        "slug": "chuyen-tinh-dao-thien-duong",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 13",
+        "total_episodes": "17",
+        "country": "Thái Lan",
+        "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
+    },
+    {
+        "name": "Juliet và Juliet",
+        "year": 2026,
+        "slug": "juliet-va-juliet",
+        "thumb": "https://phimimg.com/uploads/movies/20260906/juliet-va-juliet-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260906/juliet-va-juliet-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Phim xoay quanh mối thù truyền kiếp giữa hai gia tộc lớn. Giữa áp lực gia đình và những cuộc tranh chấp ngầm đầy căng thẳng, hai người thừa kế trẻ tuổi của hai gia tộc – bao gồm Blue (con gái duy nhất của gia tộc Monchaitrakul) và Tokyo – bất ngờ bước vào cuộc đời nhau và dần nảy sinh tình cảm, trở thành mối tình đầu của đối phương."
+    },
+    {
+        "name": "Liệu Pháp Chết Người (Phần 1)",
+        "year": 2026,
+        "slug": "lieu-phap-chet-nguoi-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 4",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi Kat vô tình quay được cảnh ông trùm Tongyang giết người, cả gia đình cô rơi vào cảnh nhà tan cửa nát. Được cứu sống nhờ sự hy sinh cuối cùng của mẹ, Kat biến mất khỏi thế giới và trở lại với thân phận mới là Hatta. Mang trong mình mối hận khôn nguôi, Hatta dùng Liệu Pháp Chết Người để làm vũ khí trả thù, âm thầm chờ đến ngày sự thật được phơi bày."
+    },
+    {
+        "name": "Chiếc Nhẫn Tri Kỷ",
+        "year": 2026,
+        "slug": "chiec-nhan-tri-ky",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20261006/chiec-nhan-tri-ky-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "24",
+        "country": "Thái Lan",
+        "description": "Một người nổi tiếng có tầm ảnh hưởng chuẩn bị kết hôn với anh bạn trai chân chất. Nhưng cặp đôi một lần nữa phải chứng minh tình yêu của mình khi cặp nhẫn đưa họ quay về quá khứ."
+    },
+    {
         "name": "Bùa Ngải Trói Buộc",
         "year": 2026,
         "slug": "bua-ngai-troi-buoc",
@@ -12,30 +96,6 @@
         "description": "Một nữ cảnh sát Bangkok bản tính đa nghi đang ráo riết truy lùng một tên trùm buôn người có năng lực kháng đạn. Cô lặn lội đến vùng Phop Phra, tỉnh Tak để tìm một vị cao nhân nhờ rèn những viên đạn yểm phép. Thế nhưng khi đến nơi, cô phát hiện ra người mình cất công tìm kiếm lại chính là mối duyên tiền định - người đã dành trọn cả cuộc đời chỉ để chờ đợi ngày được đoàn tụ cùng tình yêu đích thực."
     },
     {
-        "name": "Chiếc Nhẫn Tri Kỷ",
-        "year": 2026,
-        "slug": "chiec-nhan-tri-ky",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20261006/chiec-nhan-tri-ky-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "24",
-        "country": "Thái Lan",
-        "description": "Một người nổi tiếng có tầm ảnh hưởng chuẩn bị kết hôn với anh bạn trai chân chất. Nhưng cặp đôi một lần nữa phải chứng minh tình yêu của mình khi cặp nhẫn đưa họ quay về quá khứ."
-    },
-    {
-        "name": "Trái tim của kẻ ký sinh",
-        "year": 2026,
-        "slug": "trai-tim-cua-ke-ky-sinh",
-        "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 16",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
-    },
-    {
         "name": "Hai Trái Tim",
         "year": 2026,
         "slug": "hai-trai-tim",
@@ -46,18 +106,6 @@
         "total_episodes": "16",
         "country": "Thái Lan",
         "description": "Võ sĩ quyền Anh Dom nằm vùng để thâm nhập tổ chức tội phạm hùng mạnh, nhưng nhiệm vụ này nhanh chóng đẩy cả cuộc hôn nhân lẫn tính mạng của anh vào thế hiểm nguy."
-    },
-    {
-        "name": "Liệu Pháp Chết Người (Phần 1)",
-        "year": 2026,
-        "slug": "lieu-phap-chet-nguoi-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 3",
-        "total_episodes": "8",
-        "country": "Thái Lan",
-        "description": "Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi Kat vô tình quay được cảnh ông trùm Tongyang giết người, cả gia đình cô rơi vào cảnh nhà tan cửa nát. Được cứu sống nhờ sự hy sinh cuối cùng của mẹ, Kat biến mất khỏi thế giới và trở lại với thân phận mới là Hatta. Mang trong mình mối hận khôn nguôi, Hatta dùng Liệu Pháp Chết Người để làm vũ khí trả thù, âm thầm chờ đến ngày sự thật được phơi bày."
     },
     {
         "name": "Yêu Hết Lòng Chàng Fanboy",
@@ -204,42 +252,6 @@
         "description": "Bị phản bội, Rin gieo lời nguyền để trả thù tình cũ. Nhưng khi lời nguyền ứng nghiệm lên người bạn cùng lớp, cậu phải tìm cách hóa giải mà không để lộ dòng dõi bí mật của mình."
     },
     {
-        "name": "Chuyện Tình Đảo Thiên Đường",
-        "year": 2026,
-        "slug": "chuyen-tinh-dao-thien-duong",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 12",
-        "total_episodes": "17",
-        "country": "Thái Lan",
-        "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
-    },
-    {
-        "name": "NOUR",
-        "year": 2026,
-        "slug": "nour",
-        "thumb": "https://phimimg.com/uploads/movies/20260826/nour-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260826/nour-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
-    },
-    {
-        "name": "Bóng Dưới Trăng",
-        "year": 2026,
-        "slug": "bong-duoi-trang",
-        "thumb": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
-    },
-    {
         "name": "GELBOYS (Phần 2)",
         "year": 2025,
         "slug": "gelboys-phan-2",
@@ -286,18 +298,6 @@
         "total_episodes": "16",
         "country": "Thái Lan",
         "description": "Được làm lại từ bộ phim Hàn Quốc đình đám cùng tên, Lâu Đài Tham Vọng (Bản Thái) xoay quanh cuộc chiến khốc liệt của những bậc cha mẹ giàu có tại khu biệt thự Sky Castle nhằm đưa con cái vào trường đại học danh giá. Fah, một người mẹ đang che giấu quá khứ nghèo khó, quyết tâm ép con gái phải đỗ Harvard để bảo vệ địa vị của bản thân. Áp lực ngày càng gia tăng với sự xuất hiện của một chuyên gia luyện thi khắc nghiệt và một học sinh thiên tài mang trong mình một bí mật có thể phá hủy mọi thứ mà Fah dày công gây dựng. Sau một sự cố gây chấn động tại một bữa tiệc, những sự thật bị chôn vùi ở Sky Castle lần lượt bị phơi bày."
-    },
-    {
-        "name": "Juliet và Juliet",
-        "year": 2026,
-        "slug": "juliet-va-juliet",
-        "thumb": "https://phimimg.com/uploads/movies/20260906/juliet-va-juliet-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260906/juliet-va-juliet-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Phim xoay quanh mối thù truyền kiếp giữa hai gia tộc lớn. Giữa áp lực gia đình và những cuộc tranh chấp ngầm đầy căng thẳng, hai người thừa kế trẻ tuổi của hai gia tộc – bao gồm Blue (con gái duy nhất của gia tộc Monchaitrakul) và Tokyo – bất ngờ bước vào cuộc đời nhau và dần nảy sinh tình cảm, trở thành mối tình đầu của đối phương."
     },
     {
         "name": "Hãy Là Người Chơi Thứ Hai Của Tôi / Hãy Làm Người Chơi Số Hai Của Anh (Bản Uncut)",

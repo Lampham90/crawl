@@ -1,5 +1,17 @@
 [
     {
+        "name": "Bảy Hiệp Sĩ Của Vương Quốc Marronnier",
+        "year": 2026,
+        "slug": "bay-hiep-si-cua-vuong-quoc-marronnier",
+        "thumb": "https://phimimg.com/uploads/movies/20261007/bay-hiep-si-cua-vuong-quoc-marronnier-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261007/bay-hiep-si-cua-vuong-quoc-marronnier-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "24",
+        "country": "Nhật Bản",
+        "description": "Nằm tại trung tâm của một lục địa gồm tám vương quốc là Vương quốc Marronnier. Nữ tướng Baribara của vương quốc có bảy người con trai, mỗi người đều sở hữu một tài năng thiên bẩm độc đáo và đang đảm nhận vị trí đoàn trưởng hiệp sĩ. Cùng chung một mục tiêu cao quí là giải cứu công chúa một cách anh hùng vào một ngày nào đó, bảy anh em lên đường đến bảy vương quốc láng giềng với vai trò là sứ giả hòa bình. Những cuộc gặp gỡ, thử thách và định mệnh nào đang chờ đón họ ở những vùng đất xa lạ này?"
+    },
+    {
         "name": "Lực lượng Lanterns (Phần 1)",
         "year": 2026,
         "slug": "luc-luong-lanterns-phan-1",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Mỹ",
         "description": "Trong sitcom hoạt hình này, sau khi Ruthie tự phá tan cuộc sống hoàn hảo của mình, Andrew và Eunice giúp cô nhận ra không hoàn hảo cũng có cái vui, còn cô giúp họ trưởng thành."
-    },
-    {
-        "name": "Lằn Ranh Cuồng Nộ (Phần 1)",
-        "year": 2026,
-        "slug": "lan-ranh-cuong-no-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260808/lan-ranh-cuong-no-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260808/lan-ranh-cuong-no-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "8",
-        "country": "Âu Mỹ",
-        "description": "Nhân vật chính là Alice Black (Emmy Rossum), một cựu cảnh sát New York. Sau khi bị bạn trai là đồng nghiệp bạo hành và chứng kiến cả sở cảnh sát quay lưng khi cô tố cáo hắn, Alice rời lực lượng và gia nhập FBI. Những sang chấn trong quá khứ khiến cô đặc biệt quan tâm đến các vụ án liên quan đến bạo lực đối với phụ nữ."
     }
 ]
