@@ -1275,6 +1275,42 @@
     ],
     "bo_han": [
         {
+            "name": "Trò Chơi Bắt Cóc (Phần 1)",
+            "year": 2026,
+            "slug": "tro-choi-bat-coc-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 1",
+            "total_episodes": "11",
+            "country": "Nhật Bản",
+            "description": "Bộ phim xoay quanh một loạt các vụ bắt cóc đồng loạt tại 7 thành phố lớn ở châu Á (Tokyo, Seoul, Đài Bắc, Singapore, Bangkok, Naha, Manila), buộc các gia đình phải tham gia vào một trò chơi sinh tử thông qua các chỉ thị từ một email bí ẩn."
+        },
+        {
+            "name": "Dâu Tây Ngọt Ngào (Phần 1)",
+            "year": 2026,
+            "slug": "dau-tay-ngot-ngao-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 1",
+            "total_episodes": "10",
+            "country": "Nhật Bản",
+            "description": "Sau khi mất tất cả sau một đêm, Lee Yubin, một nhà thiết kế không gian người Hàn Quốc từng thành công, đã đến một hòn đảo nhỏ xinh đẹp của Nhật Bản. Tại đây, trên đảo Charo, anh gặp Shirahama Karin, một nữ nông dân kiên cường quyết tâm trồng dâu tây bất chấp căn bệnh bí ẩn của mình. Xuất thân từ hai thế giới khác nhau, cả hai vướng vào một sự hiểu lầm bất ngờ. Trong khi đó, một mối tình khác đang nảy nở trên đảo giữa một cặp đôi trái ngược. Park Kunam, một du khách làm việc kỳ nghỉ, quyết định ở lại sau khi đem lòng yêu Mizuno Mari, một người đọc bài tarot trớ trêu thay lại không thể đoán trước được đường tình duyên của chính mình. Khi họ vượt qua câu chuyện tình yêu của riêng mình, họ trở thành những người giúp đỡ đáng tin cậy cho Yubin và Karin."
+        },
+        {
+            "name": "Trúng Số Độc Đắc Vẫn Phải Đi Làm",
+            "year": 2026,
+            "slug": "trung-so-doc-dac-van-phai-di-lam",
+            "thumb": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (10/10)",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Coi tấm séc trúng thưởng như một dạng \"bảo hiểm tinh thần\", Eun-tae mang theo một thái độ tự tin, thoải mái và không còn sợ sệt bất cứ điều gì tại công sở. Sự thay đổi ngầm này vô tình tạo ra hàng loạt tình huống dở khóc dở cười, làm đảo lộn trật tự phân cấp công sở và thay đổi cách nhìn của các đồng nghiệp cũng như cấp trên đối với anh."
+        },
+        {
             "name": "Từng Bước Bên Nhau (Phần 1)",
             "year": 2026,
             "slug": "tung-buoc-ben-nhau-phan-1",
@@ -1333,18 +1369,6 @@
             "total_episodes": "14",
             "country": "Hàn Quốc",
             "description": "Phim khai thác câu chuyện thực tế và đầy cảm xúc về cặp đôi Namgoong Ho và Lee Mi-do đã gắn bó bên nhau suốt 10 năm. Khi sự quen thuộc dần lấn át những rung động ban đầu và họ đứng trước ngưỡng cửa hôn nhân, mối quan hệ bắt đầu xuất hiện những vết rạn và khoảng cách."
-        },
-        {
-            "name": "Trúng Số Độc Đắc Vẫn Phải Đi Làm",
-            "year": 2026,
-            "slug": "trung-so-doc-dac-van-phai-di-lam",
-            "thumb": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Coi tấm séc trúng thưởng như một dạng \"bảo hiểm tinh thần\", Eun-tae mang theo một thái độ tự tin, thoải mái và không còn sợ sệt bất cứ điều gì tại công sở. Sự thay đổi ngầm này vô tình tạo ra hàng loạt tình huống dở khóc dở cười, làm đảo lộn trật tự phân cấp công sở và thay đổi cách nhìn của các đồng nghiệp cũng như cấp trên đối với anh."
         },
         {
             "name": "Hương Vị Của Biển (Mùa 3)",
@@ -1429,30 +1453,6 @@
             "total_episodes": "8",
             "country": "Hàn Quốc",
             "description": "Thời Joseon, một đề nghị bí mật thổi bùng khát khao thầm kín, kéo một nữ quý tộc tài hoa, một tay phong tình nổi tiếng và một quý cô chẳng mảy may nghi ngờ vào cuộc chơi nguy hiểm."
-        },
-        {
-            "name": "Tình Yêu Trên Thực Đơn",
-            "year": 2026,
-            "slug": "tinh-yeu-tren-thuc-don",
-            "thumb": "https://phimimg.com/uploads/movies/20260918/tinh-yeu-tren-thuc-don-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260918/tinh-yeu-tren-thuc-don-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "50",
-            "country": "Hàn Quốc",
-            "description": "Một cặp đôi từng yêu nhau rồi chia tay. 8 năm sau, anh trở thành đầu bếp nổi tiếng và gặp lại cô. Tình cũ dần trở lại nhưng cả hai phải đối mặt với nhiều rắc rối từ gia đình."
-        },
-        {
-            "name": "Sát Thủ Nội Trợ (Vợ Tôi Là Sát Thủ)",
-            "year": 2026,
-            "slug": "sat-thu-noi-tro-vo-toi-la-sat-thu",
-            "thumb": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (14/14)",
-            "total_episodes": "14",
-            "country": "Hàn Quốc",
-            "description": "Yoo Bo Na có một cuộc sống tưởng chừng bình thường bên chồng con và công việc quản lý bán hàng. Nhưng đằng sau vẻ ngoài của một người vợ, người mẹ mẫu mực, cô lại là “Kingfisher” – nữ sát thủ bắn tỉa khét tiếng chuyên xử lý những kẻ phạm tội thoát khỏi sự trừng phạt của pháp luật. Sau ba năm tạm rời nghề để sinh con, Bo Na buộc phải tái xuất và bước vào cuộc sống hai mặt đầy nguy hiểm. Trong lúc cố gắng giữ kín thân phận, cô không ngờ người chồng làm nghề phóng viên lại ngày càng tiến gần đến bí mật của mình."
         }
     ],
     "le_trung": [
@@ -1657,7 +1657,7 @@
             "thumb": "https://phimimg.com/uploads/movies/20260924/truong-sinh-khe-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20260924/truong-sinh-khe-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 20",
+            "current_episode": "Hoàn Tất (20/20)",
             "total_episodes": "20",
             "country": "Trung Quốc",
             "description": "Phim chưa có nội dung."
@@ -2003,6 +2003,42 @@
     ],
     "bo_au_my": [
         {
+            "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
+            "year": 2026,
+            "slug": "huan-luyen-vien-ted-lasso-phan-4",
+            "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (10/10)",
+            "total_episodes": "10",
+            "country": "Âu Mỹ",
+            "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
+        },
+        {
+            "name": "Những Điệp Viên Hết Thời (Phần 6)",
+            "year": 2026,
+            "slug": "nhung-diep-vien-het-thoi-phan-6",
+            "thumb": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "6",
+            "country": "Anh",
+            "description": "Bộ phim điệp viên hài hước theo chân hành trình của một nhóm đặc vụ MI5 vô tích sự và ông sếp đáng ghét của họ - Jackson Lamb khét tiếng - trong thế giới tình báo đầy lừa lọc nhằm bảo vệ nước Anh trước những thế lực xấu xa."
+        },
+        {
+            "name": "Tình Anh Em (Phần 1)",
+            "year": 2026,
+            "slug": "tinh-anh-em-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "8",
+            "country": "Âu Mỹ",
+            "description": "Hai tài tử Hollywood Matthew McConaughey và Woody Harrelson là đôi bạn thân nhiều năm—nhưng một bí mật gia đình chấn động cho thấy mối thâm tình này có thể còn khăng khít hơn thế."
+        },
+        {
             "name": "Lực lượng Lanterns (Phần 1)",
             "year": 2026,
             "slug": "luc-luong-lanterns-phan-1",
@@ -2061,30 +2097,6 @@
             "total_episodes": "7",
             "country": "Âu Mỹ",
             "description": "Đầu những năm 1900, một người phụ nữ vô cùng độc lập gây rạn nứt giữa hai anh em, châm ngòi cho câu chuyện kéo dài qua hai thế hệ."
-        },
-        {
-            "name": "Những Điệp Viên Hết Thời (Phần 6)",
-            "year": 2026,
-            "slug": "nhung-diep-vien-het-thoi-phan-6",
-            "thumb": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "6",
-            "country": "Anh",
-            "description": "Bộ phim điệp viên hài hước theo chân hành trình của một nhóm đặc vụ MI5 vô tích sự và ông sếp đáng ghét của họ - Jackson Lamb khét tiếng - trong thế giới tình báo đầy lừa lọc nhằm bảo vệ nước Anh trước những thế lực xấu xa."
-        },
-        {
-            "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
-            "year": 2026,
-            "slug": "huan-luyen-vien-ted-lasso-phan-4",
-            "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 9",
-            "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
         },
         {
             "name": "Một thế giới khác biệt (Phần 1)",
@@ -2169,18 +2181,6 @@
             "total_episodes": "8",
             "country": "Âu Mỹ",
             "description": "Jack Reacher 2022: Phát Súng Cuối Cùng, kể về câu chuyện của Jack Reacher, một cựu cảnh sát hình sự, bị vướng vào một âm mưu vu oan to lớn, được thực hiện bởi một nhóm cảnh sát, doanh nhân lẫn chính trị gia biến chất. Reacher và vợ sẽ phải làm gì để thoát khỏi âm mưu này, nhất là sau cái chết của người anh mình?"
-        },
-        {
-            "name": "Góc Bếp Kỳ Tài (Phần 5)",
-            "year": 2026,
-            "slug": "goc-bep-ky-tai-phan-5",
-            "thumb": "https://phimimg.com/uploads/movies/20260914/goc-bep-ky-tai-phan-5-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260914/goc-bep-ky-tai-phan-5-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
-            "country": "Âu Mỹ",
-            "description": "Carmen “Carmy” Berzatto, một đầu bếp trẻ đến từ thế giới ẩm thực cao cấp, trở về nhà ở Chicago để điều hành cửa hàng bánh sandwich của gia đình sau cái chết đau lòng. Khi Carmy chiến đấu để biến đổi nhà hàng và chính bản thân mình, cuối cùng đội ngũ bếp thô lỗ của anh ấy cũng tiết lộ họ là gia đình mà anh ấy đã chọn."
         }
     ],
     "le_thai": [
@@ -2937,16 +2937,16 @@
             "description": "Tướng quân nước Tần Bạch Khởi đánh thành khiến ba mươi vạn bách tính Sính Đô của nước Sở bỏ mạng. Vu nữ Sở Ly thi triển \"Sở Phong Dẫn\" xoay chuyển thời gian, nhưng lại bị Tống Tử Uyên, một người vốn chẳng hề quen biết, giết chết bằng một nhát kiếm. Cả hai cùng tái sinh về thời điểm 49 ngày trước đó. Để giải cứu bách tính, họ buộc phải ràng buộc với nhau, cùng trải qua hàng loạt sự việc kỳ quái. Từ đây, mối duyên nợ từ nhiều kiếp trước của hai người dần dần hé lộ."
         },
         {
-            "name": "Từng Bước Bên Nhau (Phần 1)",
+            "name": "Trò Chơi Bắt Cóc (Phần 1)",
             "year": 2026,
-            "slug": "tung-buoc-ben-nhau-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-poster.webp",
+            "slug": "tro-choi-bat-coc-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Min jae từng là vận động viên bơi lội thời trung học, cho đến khi bệnh tật khiến anh mất đi một chân. Giờ đây là nghiên cứu sinh tiến sĩ ngành người máy, anh tỏ ra là một người không màng thế sự—nhưng vẫn còn đó một khao khát giản đơn, nhức nhối: được yêu. Anh suy nghĩ quá nhiều và sợ bị tổn thương, cho đến một ngày, đúng người xuất hiện. Yujin đã từ bỏ chuyên ngành thời trang, lạc lối không có phương hướng rõ ràng, cho đến khi Minjae mở ra trước mắt cô thế giới người máy—và một giấc mơ mới. Mọi thứ về nó đều xa lạ và khó khăn, nhưng tình cảm cô dành cho anh chưa bao giờ dao động. Tia lửa ngay từ cái nhìn đầu tiên làm xáo trộn phòng thí nghiệm yên tĩnh, và sự theo đuổi không sợ hãi của Yujin đã phá vỡ lớp vỏ bọc bảo vệ trái tim Minjae. Dần dần, cả hai xích lại gần nhau hơn. Rắc rối và khó đoán hơn bất kỳ cỗ máy nào, một mối tình lãng mạn bắt đầu—mãnh liệt, ngọt ngào đắng cay và dịu dàng."
+            "current_episode": "Tập 1",
+            "total_episodes": "11",
+            "country": "Nhật Bản",
+            "description": "Bộ phim xoay quanh một loạt các vụ bắt cóc đồng loạt tại 7 thành phố lớn ở châu Á (Tokyo, Seoul, Đài Bắc, Singapore, Bangkok, Naha, Manila), buộc các gia đình phải tham gia vào một trò chơi sinh tử thông qua các chỉ thị từ một email bí ẩn."
         },
         {
             "name": "Yêu Nhân Thần Thám: Kỳ Án Trường An",
@@ -2961,16 +2961,16 @@
             "description": "Giữa Trường An tráng lệ và kỳ ảo dưới triều Đường, nơi những cỗ máy cơ khí tinh xảo hòa quyện cùng mái ngói cong vút, con người và yêu quái cùng chung sống. Địch Thiếu, thiếu niên thiên tài luôn mơ ước trở thành “Đại Thám Tử Số Một Trường An”, sở hữu khả năng suy luận sắc bén cùng tài ăn nói hơn người. Đồng hành cùng cậu là A Sa, tân binh yêu sói của đội tuần tra, giỏi võ nhưng mang trong mình trái tim lương thiện. Một vụ án mạng bí ẩn bất ngờ khiến đôi oan gia này phải hợp tác. Vừa đấu khẩu, vừa phối hợp phá án, cả hai dấn thân vào hành trình điều tra đầy bất ngờ và hiểm nguy. Khi mọi manh mối đều dẫn về trung tâm Trường An, liệu họ có thể bảo vệ sự bình yên của thành? Và đằng sau vẻ phồn hoa của Trường An đang ẩn giấu bí mật kinh thiên động địa nào?"
         },
         {
-            "name": "Lực lượng Lanterns (Phần 1)",
+            "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
             "year": 2026,
-            "slug": "luc-luong-lanterns-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-poster.webp",
+            "slug": "huan-luyen-vien-ted-lasso-phan-4",
+            "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
+            "current_episode": "Hoàn Tất (10/10)",
+            "total_episodes": "10",
             "country": "Âu Mỹ",
-            "description": "Xoay quanh tân binh John Stewart và huyền thoại Hal Jordan — hai cảnh sát liên ngân hà bị cuốn vào một bí ẩn đen tối ngay tại Trái Đất khi họ điều tra một vụ án mạng ở vùng trung tâm nước Mỹ."
+            "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
         },
         {
             "name": "Quỷ Quyệt: Ranh Giới Vô Định",
@@ -2991,22 +2991,22 @@
             "thumb": "https://phimimg.com/uploads/movies/20260924/truong-sinh-khe-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20260924/truong-sinh-khe-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 20",
+            "current_episode": "Hoàn Tất (20/20)",
             "total_episodes": "20",
             "country": "Trung Quốc",
             "description": "Phim chưa có nội dung."
         },
         {
-            "name": "Giác Quan Thứ Sáu: Mặt Trái",
+            "name": "Dâu Tây Ngọt Ngào (Phần 1)",
             "year": 2026,
-            "slug": "giac-quan-thu-sau-mat-trai",
-            "thumb": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-poster.webp",
+            "slug": "dau-tay-ngot-ngao-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
+            "current_episode": "Tập 1",
             "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Giác Quan Thứ Sáu trở lại với phiên bản hoàn toàn mới, truy tìm những thứ giả mạo ở những địa điểm khác thường và gặp gỡ những con người thú vị. Liệu giác quan nhạy bén của MC quốc dân Yoo Jae Suk, diễn viên hài Song Eun Yi, tài tử Go Kyung Pyo và BIBI có phanh phui được những thật giả lẫn lộn này?"
+            "country": "Nhật Bản",
+            "description": "Sau khi mất tất cả sau một đêm, Lee Yubin, một nhà thiết kế không gian người Hàn Quốc từng thành công, đã đến một hòn đảo nhỏ xinh đẹp của Nhật Bản. Tại đây, trên đảo Charo, anh gặp Shirahama Karin, một nữ nông dân kiên cường quyết tâm trồng dâu tây bất chấp căn bệnh bí ẩn của mình. Xuất thân từ hai thế giới khác nhau, cả hai vướng vào một sự hiểu lầm bất ngờ. Trong khi đó, một mối tình khác đang nảy nở trên đảo giữa một cặp đôi trái ngược. Park Kunam, một du khách làm việc kỳ nghỉ, quyết định ở lại sau khi đem lòng yêu Mizuno Mari, một người đọc bài tarot trớ trêu thay lại không thể đoán trước được đường tình duyên của chính mình. Khi họ vượt qua câu chuyện tình yêu của riêng mình, họ trở thành những người giúp đỡ đáng tin cậy cho Yubin và Karin."
         },
         {
             "name": "Tiên Nghịch Movie: Thí Tiên Chi Chiến",
@@ -3021,16 +3021,16 @@
             "description": "Sau khi tiến vào Lôi Chi Tiên Giới, Vương Lâm bất ngờ rơi vào thiên la sát cục do Huyết Tổ giăng sẵn. Giữa mê trận chồng chất, mọi đường lui đều bị phong bế, hắn trở thành mục tiêu của cuộc truy sát không khoan nhượng từ một kẻ địch sở hữu thực lực vượt xa bản thân.  Bị dồn đến ranh giới sinh tử, Vương Lâm không lựa chọn khuất phục. Với ý chí nghịch thiên, sự bình tĩnh cùng kinh nghiệm tích lũy qua vô số lần cận kề cái chết, hắn từng bước nhìn thấu sát cục, phá vỡ từng tầng bố trí của đối phương và nghịch chuyển thế cờ trong hoàn cảnh tưởng chừng không còn lối thoát."
         },
         {
-            "name": "Lãnh Địa Tử Chiến (Phần 2)",
+            "name": "Những Điệp Viên Hết Thời (Phần 6)",
             "year": 2026,
-            "slug": "lanh-dia-tu-chien-phan-2",
-            "thumb": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-poster.webp",
+            "slug": "nhung-diep-vien-het-thoi-phan-6",
+            "thumb": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "10",
-            "country": "Âu Mỹ",
-            "description": "Sau những biến động và cuộc chiến đẫm máu ở mùa đầu tiên, gia đình tội phạm quyền lực nhà Harrigan bước sang mùa 2 trong tình trạng rạn nứt nghiêm trọng. Sức ép đè nặng khi các thành viên bắt đầu đối đầu lẫn nhau, đứng trước nguy cơ xảy ra một cuộc nội chiến thực sự."
+            "current_episode": "Tập 4",
+            "total_episodes": "6",
+            "country": "Anh",
+            "description": "Bộ phim điệp viên hài hước theo chân hành trình của một nhóm đặc vụ MI5 vô tích sự và ông sếp đáng ghét của họ - Jackson Lamb khét tiếng - trong thế giới tình báo đầy lừa lọc nhằm bảo vệ nước Anh trước những thế lực xấu xa."
         },
         {
             "name": "Người Nhện: Khởi Đầu Mới",
@@ -3057,16 +3057,16 @@
             "description": "Khương Tiểu Bạch, một nữ luật sư hiện đại xuyên không về đất nước cổ đại Ba Quyệt. Cô sử dụng kiến thức chuyên môn của mình để minh oan, đòi lại công bằng cho người dân thấp cổ bé họng, thách thức các hủ tục ngàn năm như \"điển thê\" (gán vợ), và thậm chí còn được giao trọng trách sửa đổi luật pháp cho cả đất nước. Trong quá trình đó, cô và hoàng tử Tư Châu từ những hiểu lầm ban đầu đã bén duyên, rồi nguyện thề sống chết có nhau. Tuy nhiên, về sau cô không may bị cuốn vào những mưu đồ quyền lực chốn triều đình cùng cuộc chiến ngầm tranh giành ngôi báu, buộc phải kiên định giữ vững bản tâm giữa những giằng xé của tình yêu, công lý và âm mưu."
         },
         {
-            "name": "Chìm Vào Mắt Em (Phần 1)",
+            "name": "Trúng Số Độc Đắc Vẫn Phải Đi Làm",
             "year": 2026,
-            "slug": "chim-vao-mat-em-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20260927/chim-vao-mat-em-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260927/chim-vao-mat-em-phan-1-poster.webp",
+            "slug": "trung-so-doc-dac-van-phai-di-lam",
+            "thumb": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "12",
+            "current_episode": "Hoàn Tất (10/10)",
+            "total_episodes": "10",
             "country": "Hàn Quốc",
-            "description": "Xoay quanh Lee A-ran (Bona), một vận động viên lặn trẻ tuổi phải dừng lại sự nghiệp vì hội chứng sợ nước sau một tai nạn bí ẩn. Khi trở lại ngôi trường cấp 3 ven biển, cô gặp lại Jang Se-jin (Park Seo-ham) — người bạn thơ ấu nắm giữ khả năng đọc được ký ức của người khác thông qua va chạm nước. Cả hai cùng nhau khám phá ra bí mật liên quan đến biến cố năm xưa và hành trình chữa lành tổn thương tâm lý."
+            "description": "Coi tấm séc trúng thưởng như một dạng \"bảo hiểm tinh thần\", Eun-tae mang theo một thái độ tự tin, thoải mái và không còn sợ sệt bất cứ điều gì tại công sở. Sự thay đổi ngầm này vô tình tạo ra hàng loạt tình huống dở khóc dở cười, làm đảo lộn trật tự phân cấp công sở và thay đổi cách nhìn của các đồng nghiệp cũng như cấp trên đối với anh."
         },
         {
             "name": "Mononoke – Phim điện ảnh: Chương III – Lời nguyền của rắn",
@@ -3081,16 +3081,16 @@
             "description": "Khi bi kịch ập đến bên trong những bức tường của Ōoku, những cảm xúc méo mó của con người và những mối hận thù đang mưng mủ đã tạo ra kẻ thù đáng sợ nhất từ trước đến nay của Dược Sư."
         },
         {
-            "name": "Người Chạy Xuyên Không Gian (Phần 2)",
+            "name": "Tình Anh Em (Phần 1)",
             "year": 2026,
-            "slug": "nguoi-chay-xuyen-khong-gian-phan-2",
-            "thumb": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-poster.webp",
+            "slug": "tinh-anh-em-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "19",
+            "current_episode": "Tập 4",
+            "total_episodes": "8",
             "country": "Âu Mỹ",
-            "description": "Gia đình Jason ban đầu tìm được một khoảng thời gian yên bình, tưởng chừng đã định cư an toàn tại một thực tại mới. Tuy nhiên, sự bình yên đó không kéo dài lâu khi những hiểm họa từ không gian đa vũ trụ và những rắc rối chưa được giải quyết từ thế giới cũ tiếp tục đeo bám, buộc họ phải một lần nữa dấn thân vào cuộc trốn chạy mới."
+            "description": "Hai tài tử Hollywood Matthew McConaughey và Woody Harrelson là đôi bạn thân nhiều năm—nhưng một bí mật gia đình chấn động cho thấy mối thâm tình này có thể còn khăng khít hơn thế."
         }
     ]
 }
