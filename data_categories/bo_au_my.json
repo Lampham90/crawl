@@ -1,5 +1,53 @@
 [
     {
+        "name": "Manh Mối Cuối Cùng (Phần 1)",
+        "year": 2026,
+        "slug": "manh-moi-cuoi-cung-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260909/manh-moi-cuoi-cung-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260909/manh-moi-cuoi-cung-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (6/6)",
+        "total_episodes": "6",
+        "country": "Úc",
+        "description": "Khi nhân viên trực tổng đài khẩn cấp Ian Ridley nhận được cuộc gọi hoảng loạn từ một cô bé tuổi teen mà anh tin có thể là cô con gái mất tích từ lâu của mình, anh bất chấp tất cả để tìm ra cô bé."
+    },
+    {
+        "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
+        "year": 2026,
+        "slug": "huan-luyen-vien-ted-lasso-phan-4",
+        "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
+    },
+    {
+        "name": "Những Điệp Viên Hết Thời (Phần 6)",
+        "year": 2026,
+        "slug": "nhung-diep-vien-het-thoi-phan-6",
+        "thumb": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "6",
+        "country": "Anh",
+        "description": "Bộ phim điệp viên hài hước theo chân hành trình của một nhóm đặc vụ MI5 vô tích sự và ông sếp đáng ghét của họ - Jackson Lamb khét tiếng - trong thế giới tình báo đầy lừa lọc nhằm bảo vệ nước Anh trước những thế lực xấu xa."
+    },
+    {
+        "name": "Tình Anh Em (Phần 1)",
+        "year": 2026,
+        "slug": "tinh-anh-em-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Hai tài tử Hollywood Matthew McConaughey và Woody Harrelson là đôi bạn thân nhiều năm—nhưng một bí mật gia đình chấn động cho thấy mối thâm tình này có thể còn khăng khít hơn thế."
+    },
+    {
         "name": "Bảy Hiệp Sĩ Của Vương Quốc Marronnier",
         "year": 2026,
         "slug": "bay-hiep-si-cua-vuong-quoc-marronnier",
@@ -106,42 +154,6 @@
         "total_episodes": "2",
         "country": "Âu Mỹ",
         "description": "Băng Mũ Rơm ra khơi trong phần đặc biệt hai tập này của LEGO! Cùng Luffy, Nami, Usopp và cả băng bước vào hành trình phiêu lưu kỳ thú, được tái hiện hoàn toàn bằng từng viên gạch."
-    },
-    {
-        "name": "Manh Mối Cuối Cùng (Phần 1)",
-        "year": 2026,
-        "slug": "manh-moi-cuoi-cung-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260909/manh-moi-cuoi-cung-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260909/manh-moi-cuoi-cung-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "6",
-        "country": "Úc",
-        "description": "Khi nhân viên trực tổng đài khẩn cấp Ian Ridley nhận được cuộc gọi hoảng loạn từ một cô bé tuổi teen mà anh tin có thể là cô con gái mất tích từ lâu của mình, anh bất chấp tất cả để tìm ra cô bé."
-    },
-    {
-        "name": "Những Điệp Viên Hết Thời (Phần 6)",
-        "year": 2026,
-        "slug": "nhung-diep-vien-het-thoi-phan-6",
-        "thumb": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "6",
-        "country": "Anh",
-        "description": "Bộ phim điệp viên hài hước theo chân hành trình của một nhóm đặc vụ MI5 vô tích sự và ông sếp đáng ghét của họ - Jackson Lamb khét tiếng - trong thế giới tình báo đầy lừa lọc nhằm bảo vệ nước Anh trước những thế lực xấu xa."
-    },
-    {
-        "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
-        "year": 2026,
-        "slug": "huan-luyen-vien-ted-lasso-phan-4",
-        "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
     },
     {
         "name": "Một thế giới khác biệt (Phần 1)",
@@ -346,17 +358,5 @@
         "total_episodes": "11",
         "country": "Israel",
         "description": "Doron và các thành viên trong đội đặc nhiệm tiếp tục bước vào một chiến dịch sinh tử mới, đối mặt với những mối đe dọa không chỉ bó hẹp trong khu vực mà còn mở rộng ra quốc tế (bao gồm cả các hoạt động truy vết tại châu Âu), khi lằn ranh giữa nhiệm vụ quốc gia và sự trả thù cá nhân trở nên mờ nhạt hơn bao giờ hết."
-    },
-    {
-        "name": "DANG!",
-        "year": 2026,
-        "slug": "dang",
-        "thumb": "https://phimimg.com/uploads/movies/20260908/dang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260908/dang-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Mỹ",
-        "description": "Trong sitcom hoạt hình này, sau khi Ruthie tự phá tan cuộc sống hoàn hảo của mình, Andrew và Eunice giúp cô nhận ra không hoàn hảo cũng có cái vui, còn cô giúp họ trưởng thành."
     }
 ]

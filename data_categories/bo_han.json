@@ -1,5 +1,41 @@
 [
     {
+        "name": "Trò Chơi Bắt Cóc (Phần 1)",
+        "year": 2026,
+        "slug": "tro-choi-bat-coc-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "11",
+        "country": "Nhật Bản",
+        "description": "Bộ phim xoay quanh một loạt các vụ bắt cóc đồng loạt tại 7 thành phố lớn ở châu Á (Tokyo, Seoul, Đài Bắc, Singapore, Bangkok, Naha, Manila), buộc các gia đình phải tham gia vào một trò chơi sinh tử thông qua các chỉ thị từ một email bí ẩn."
+    },
+    {
+        "name": "Dâu Tây Ngọt Ngào (Phần 1)",
+        "year": 2026,
+        "slug": "dau-tay-ngot-ngao-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "10",
+        "country": "Nhật Bản",
+        "description": "Sau khi mất tất cả sau một đêm, Lee Yubin, một nhà thiết kế không gian người Hàn Quốc từng thành công, đã đến một hòn đảo nhỏ xinh đẹp của Nhật Bản. Tại đây, trên đảo Charo, anh gặp Shirahama Karin, một nữ nông dân kiên cường quyết tâm trồng dâu tây bất chấp căn bệnh bí ẩn của mình. Xuất thân từ hai thế giới khác nhau, cả hai vướng vào một sự hiểu lầm bất ngờ. Trong khi đó, một mối tình khác đang nảy nở trên đảo giữa một cặp đôi trái ngược. Park Kunam, một du khách làm việc kỳ nghỉ, quyết định ở lại sau khi đem lòng yêu Mizuno Mari, một người đọc bài tarot trớ trêu thay lại không thể đoán trước được đường tình duyên của chính mình. Khi họ vượt qua câu chuyện tình yêu của riêng mình, họ trở thành những người giúp đỡ đáng tin cậy cho Yubin và Karin."
+    },
+    {
+        "name": "Trúng Số Độc Đắc Vẫn Phải Đi Làm",
+        "year": 2026,
+        "slug": "trung-so-doc-dac-van-phai-di-lam",
+        "thumb": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Hàn Quốc",
+        "description": "Coi tấm séc trúng thưởng như một dạng \"bảo hiểm tinh thần\", Eun-tae mang theo một thái độ tự tin, thoải mái và không còn sợ sệt bất cứ điều gì tại công sở. Sự thay đổi ngầm này vô tình tạo ra hàng loạt tình huống dở khóc dở cười, làm đảo lộn trật tự phân cấp công sở và thay đổi cách nhìn của các đồng nghiệp cũng như cấp trên đối với anh."
+    },
+    {
         "name": "Từng Bước Bên Nhau (Phần 1)",
         "year": 2026,
         "slug": "tung-buoc-ben-nhau-phan-1",
@@ -70,18 +106,6 @@
         "total_episodes": "14",
         "country": "Hàn Quốc",
         "description": "Phim khai thác câu chuyện thực tế và đầy cảm xúc về cặp đôi Namgoong Ho và Lee Mi-do đã gắn bó bên nhau suốt 10 năm. Khi sự quen thuộc dần lấn át những rung động ban đầu và họ đứng trước ngưỡng cửa hôn nhân, mối quan hệ bắt đầu xuất hiện những vết rạn và khoảng cách."
-    },
-    {
-        "name": "Trúng Số Độc Đắc Vẫn Phải Đi Làm",
-        "year": 2026,
-        "slug": "trung-so-doc-dac-van-phai-di-lam",
-        "thumb": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "10",
-        "country": "Hàn Quốc",
-        "description": "Coi tấm séc trúng thưởng như một dạng \"bảo hiểm tinh thần\", Eun-tae mang theo một thái độ tự tin, thoải mái và không còn sợ sệt bất cứ điều gì tại công sở. Sự thay đổi ngầm này vô tình tạo ra hàng loạt tình huống dở khóc dở cười, làm đảo lộn trật tự phân cấp công sở và thay đổi cách nhìn của các đồng nghiệp cũng như cấp trên đối với anh."
     },
     {
         "name": "Tiệm Bánh Gạo Vũ Trụ",
@@ -334,29 +358,5 @@
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Bị ám ảnh bởi khả năng nhìn thấy ma, một nữ thừa kế khách sạn quyết không yêu ai cho đến khi một công tố viên tin rằng lời nguyền của cô có thể giúp anh phá những vụ án khó nhất."
-    },
-    {
-        "name": "Vụ bê bối",
-        "year": 2026,
-        "slug": "vu-be-boi",
-        "thumb": "https://phimimg.com/uploads/movies/20260918/vu-be-boi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260918/vu-be-boi-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Hàn Quốc",
-        "description": "Thời Joseon, một đề nghị bí mật thổi bùng khát khao thầm kín, kéo một nữ quý tộc tài hoa, một tay phong tình nổi tiếng và một quý cô chẳng mảy may nghi ngờ vào cuộc chơi nguy hiểm."
-    },
-    {
-        "name": "Play Me: Buổi Diễn Tập Của Chúng Ta",
-        "year": 2026,
-        "slug": "play-me-buoi-dien-tap-cua-chung-ta",
-        "thumb": "https://phimimg.com/uploads/movies/20260802/play-me-buoi-dien-tap-cua-chung-ta-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260802/play-me-buoi-dien-tap-cua-chung-ta-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Hàn Quốc",
-        "description": "Ngôi sao hàng đầu xuất thân từ sao nhí Jung Yi Hyun quyết định rời khỏi làng giải trí sau cái chết bất ngờ của mẹ. Còn Kang Jae Won là người làm nhiều công việc bán thời gian để kiếm sống qua ngày, vì áp lực của thực tại mà buộc phải tạm gác lại giấc mơ trở thành diễn viên… Hai người đã chia tay và cắt đứt mối quan hệ vì một sự hiểu lầm thời học trung học. Nhiều năm sau, họ lại gặp lại nhau tình cờ trong một vở ca kịch. Trong quá trình hóa thân vào cảm xúc của nhân vật trên sân khấu, họ cũng dần học lại cách yêu thương nhau."
     }
 ]
