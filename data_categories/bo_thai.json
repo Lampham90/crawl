@@ -1,5 +1,77 @@
 [
     {
+        "name": "Vọng Âm Nơi Cố Đô Đã Mất / Truyền Thuyết Hồ Thiêng",
+        "year": 2025,
+        "slug": "vong-am-noi-co-do-da-mat-truyen-thuyet-ho-thieng",
+        "thumb": "https://phimimg.com/upload/vod/20250717-1/ee986c9fac2f9a3f6e67d84af97ad194.jpg",
+        "poster": "https://phimimg.com/upload/vod/20250717-1/c808b7ce358a3ffbf7f47fe3217dad7e.jpg",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (38/38)",
+        "total_episodes": "38",
+        "country": "Thái Lan",
+        "description": "Khi còn nhỏ, Airada thường mơ về một thành phố bị chìm xuống hồ. Cô đã được nghe kể về câu chuyện tình tay ba giữa công chúa, hoàng tử và Naga(thần rắn) dẫn đến sự sụp đổ của thành phố. Giờ đây, những giấc mơ đã trở lại và cô bắt đầu tìm hiểu truyền thuyết về Phadaeng Nang Ai. Cô đã gặp Korawit, người trông giống hệt một người đàn ông mà cô chỉ biết trong mơ. Khi nghe tin về việc nhìn thấy một Thần rắn như trong truyền thuyết Phadaeng Nang Ai, Korawit quyết định điều tra. Khi Airada bắt đầu đặt câu hỏi về mối liên hệ của mình với quá khứ, một hành trình chung để khám phá sự thật và phá bỏ lời nguyền cổ xưa của thành phố bắt đầu."
+    },
+    {
+        "name": "Phía Sau Dối Trá",
+        "year": 2026,
+        "slug": "phia-sau-doi-tra",
+        "thumb": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "16",
+        "country": "Thái Lan",
+        "description": "Thân như anh em ruột dù chẳng phải máu mủ, Rawee và Phakorn bị tình yêu cùng sự dối trá chia cắt. Khi Phakorn ngã bệnh, Rawee hy sinh tất cả – và phải trả một cái giá quá đắt."
+    },
+    {
+        "name": "Di Sản Đen Tối",
+        "year": 2026,
+        "slug": "di-san-den-toi",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20261009/di-san-den-toi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Một gia đình tụ họp suốt một tháng để giành gia tài của người ông. Nhưng khi hàng loạt vụ án mạng xảy ra, họ phải tìm ra kẻ sát nhân đang ẩn mình trong số họ."
+    },
+    {
+        "name": "Trái tim của kẻ ký sinh",
+        "year": 2026,
+        "slug": "trai-tim-cua-ke-ky-sinh",
+        "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 19",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
+    },
+    {
+        "name": "Người Yêu Xui Xẻo",
+        "year": 2026,
+        "slug": "nguoi-yeu-xui-xeo",
+        "thumb": "https://phimimg.com/uploads/movies/20260808/nguoi-yeu-xui-xeo-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260808/nguoi-yeu-xui-xeo-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Bị phản bội, Rin gieo lời nguyền để trả thù tình cũ. Nhưng khi lời nguyền ứng nghiệm lên người bạn cùng lớp, cậu phải tìm cách hóa giải mà không để lộ dòng dõi bí mật của mình."
+    },
+    {
+        "name": "Chuyện Tình Đảo Thiên Đường",
+        "year": 2026,
+        "slug": "chuyen-tinh-dao-thien-duong",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 14",
+        "total_episodes": "17",
+        "country": "Thái Lan",
+        "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
+    },
+    {
         "name": "NOUR",
         "year": 2026,
         "slug": "nour",
@@ -22,30 +94,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
-    },
-    {
-        "name": "Trái tim của kẻ ký sinh",
-        "year": 2026,
-        "slug": "trai-tim-cua-ke-ky-sinh",
-        "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 18",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
-    },
-    {
-        "name": "Chuyện Tình Đảo Thiên Đường",
-        "year": 2026,
-        "slug": "chuyen-tinh-dao-thien-duong",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 13",
-        "total_episodes": "17",
-        "country": "Thái Lan",
-        "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
     },
     {
         "name": "Juliet và Juliet",
@@ -240,18 +288,6 @@
         "description": "Bốn cặp đôi cùng tham gia Hội quạ đen bí ẩn, nơi những vụ việc siêu nhiên và nhiệm vụ nguy hiểm dẫn đến những mối quan hệ lãng mạn không ngờ tới."
     },
     {
-        "name": "Người Yêu Xui Xẻo",
-        "year": 2026,
-        "slug": "nguoi-yeu-xui-xeo",
-        "thumb": "https://phimimg.com/uploads/movies/20260808/nguoi-yeu-xui-xeo-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260808/nguoi-yeu-xui-xeo-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Bị phản bội, Rin gieo lời nguyền để trả thù tình cũ. Nhưng khi lời nguyền ứng nghiệm lên người bạn cùng lớp, cậu phải tìm cách hóa giải mà không để lộ dòng dõi bí mật của mình."
-    },
-    {
         "name": "GELBOYS (Phần 2)",
         "year": 2025,
         "slug": "gelboys-phan-2",
@@ -322,41 +358,5 @@
         "total_episodes": "12",
         "country": "Thái Lan",
         "description": "Cuộc đời của một chàng trai trẻ đã thay đổi mãi mãi khi anh bị một Alpha quyền năng đánh dấu, buộc chặt định mệnh của cả hai vào một mối liên kết không thể nào trốn chạy."
-    },
-    {
-        "name": "Nhân Duyên Tiền Định",
-        "year": 2026,
-        "slug": "nhan-duyen-tien-dinh-2026",
-        "thumb": "https://phimimg.com/uploads/movies/20260715/nhan-duyen-tien-dinh-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260715/nhan-duyen-tien-dinh-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Khi linh hồn của một bác sĩ phẫu thuật thời hiện đại bị nhập vào thể xác của một kẻ chuyên gây rắc rối bị người người ghét bỏ ở thế kỷ 17, anh đã sử dụng nền y học tiên tiến để cứu người, đồng thời từng bước chinh phục người đối đầu gay gắt nhất của mình."
-    },
-    {
-        "name": "Luang Pho Trong Sạch",
-        "year": 2026,
-        "slug": "luang-pho-trong-sach",
-        "thumb": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260805/luang-pho-trong-sach-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (30/30)",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Khi một nhà sư và nhóm của mình trở thành nghi phạm trong một vụ cướp viên kim cương vô giá, họ bắt đầu hành trình phá án để lấy lại danh dự và vạch trần thủ phạm thật sự."
-    },
-    {
-        "name": "Hội Chứng Mê Bạn Cùng Lớp",
-        "year": 2026,
-        "slug": "hoi-chung-me-ban-cung-lop",
-        "thumb": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260726/hoi-chung-me-ban-cung-lop-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Thái Lan",
-        "description": "Chuyển đến trường cấp ba hàng đầu, chàng trai nuôi mộng trở thành ngôi sao nhạc rock Leerit thề sẽ tránh xa chuyện yêu đương, nhưng nhanh chóng đổi ý khi gặp bạn cùng phòng mới."
     }
 ]

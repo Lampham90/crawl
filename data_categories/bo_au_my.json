@@ -1,5 +1,17 @@
 [
     {
+        "name": "Below: Ác Mộng Đại Dương",
+        "year": 2026,
+        "slug": "below-ac-mong-dai-duong",
+        "thumb": "https://phimimg.com/uploads/movies/20261009/below-ac-mong-dai-duong-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261009/below-ac-mong-dai-duong-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (6/6)",
+        "total_episodes": "6",
+        "country": "Anh",
+        "description": "Khi sinh vật biển bí ẩn gieo rắc nỗi kinh hoàng cho một thị trấn nhỏ ở Newfoundland, một ngư dân cứng cỏi và gia đình cùng chiến đấu để bảo vệ cộng đồng gắn bó của họ."
+    },
+    {
         "name": "Manh Mối Cuối Cùng (Phần 1)",
         "year": 2026,
         "slug": "manh-moi-cuoi-cung-phan-1",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Anh",
         "description": "Thừa kế bất động sản của gia đình, chàng quý tộc Eddie phát hiện ra rằng đó là nơi một đế chế cần sa khổng lồ ngự trị và người đứng đầu đế chế đó không chịu rời đi."
-    },
-    {
-        "name": "Hỗn loạn (Phần 5)",
-        "year": 2026,
-        "slug": "hon-loan-phan-5",
-        "thumb": "https://phimimg.com/uploads/movies/20260908/hon-loan-phan-5-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260908/hon-loan-phan-5-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (11/11)",
-        "total_episodes": "11",
-        "country": "Israel",
-        "description": "Doron và các thành viên trong đội đặc nhiệm tiếp tục bước vào một chiến dịch sinh tử mới, đối mặt với những mối đe dọa không chỉ bó hẹp trong khu vực mà còn mở rộng ra quốc tế (bao gồm cả các hoạt động truy vết tại châu Âu), khi lằn ranh giữa nhiệm vụ quốc gia và sự trả thù cá nhân trở nên mờ nhạt hơn bao giờ hết."
     }
 ]
