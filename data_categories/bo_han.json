@@ -1,5 +1,17 @@
 [
     {
+        "name": "100 Ngày Lừa Dối",
+        "year": 2026,
+        "slug": "100-ngay-lua-doi",
+        "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "16",
+        "country": "Hàn Quốc",
+        "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
+    },
+    {
         "name": "Tiệm Bánh Gạo Vũ Trụ",
         "year": 2026,
         "slug": "tiem-banh-gao-vu-tru",
@@ -346,17 +358,5 @@
         "total_episodes": "6",
         "country": "Hàn Quốc",
         "description": "Bộ phim là phần tiếp theo của &quot;Shark: The Beginning&quot; (2021), tiếp tục câu chuyện về Cha Woo-sol (do Kim Min-seok thủ vai), một nạn nhân của bạo lực học đường, sau khi ra tù đã trở thành võ sĩ MMA chuyên nghiệp. Trong phần mới này, anh đối đầu với Hyun Woo-yong (do Lee Hyun-wook thủ vai), một nhân vật phản diện nguy hiểm."
-    },
-    {
-        "name": "Chuyến Xe Tâm Tình",
-        "year": 2026,
-        "slug": "chuyen-xe-tam-tinh",
-        "thumb": "https://phimimg.com/uploads/movies/20261002/chuyen-xe-tam-tinh-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261002/chuyen-xe-tam-tinh-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Hàn Quốc",
-        "description": "Mang màu sắc nhẹ nhàng, ấm áp và giàu tính nhân văn, phim kể về một tài xế taxi đặc biệt, người chuyên đưa các vị khách xa lạ đi qua những hành trình gắn liền với ký ức và câu chuyện riêng của họ. Mỗi chuyến xe là một câu chuyện về tình yêu, gia đình, những tiếc nuối hoặc những ước mơ chưa hoàn thành. Thông qua những cuộc trò chuyện và những bài hát do chính hành khách chọn, người tài xế giúp họ đối diện với quá khứ, tìm thấy sự an ủi và có thêm dũng khí để bước tiếp."
     }
 ]
