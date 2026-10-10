@@ -1,5 +1,29 @@
 [
     {
+        "name": "Cú Rơi Tử Thần 2: Điểm Chết",
+        "year": 2026,
+        "slug": "cu-roi-tu-than-2-diem-chet",
+        "thumb": "https://phimimg.com/uploads/movies/20261010/cu-roi-tu-than-2-diem-chet-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261010/cu-roi-tu-than-2-diem-chet-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Anh",
+        "description": "Sau cái chết của chị gái Hunter, Jax tìm thấy chút an ủi nơi Luce, người bạn gan dạ từng thân thiết với Hunter. Để đối diện nỗi mất mát, họ cùng thử thách cung đường ván treo khét tiếng trên núi Kwan ở Thái Lan, nhưng một vụ sạt lở bất ngờ khiến Jax mắc kẹt ở độ cao 3,000 feet, nơi chỉ một bước sai cũng có thể là dấu chấm hết."
+    },
+    {
+        "name": "Bản Năng Thú",
+        "year": 2026,
+        "slug": "ban-nang-thu",
+        "thumb": "https://phimimg.com/uploads/movies/20261010/ban-nang-thu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261010/ban-nang-thu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Khi con trai họ bị bắt cóc, một ứng viên thị trưởng Los Angeles và vợ cuống cuồng xoay xở tiền chuộc, đồng thời phải đưa ra những lựa chọn có thể phá tan thế giới của họ."
+    },
+    {
         "name": "Quỷ Quyệt: Ranh Giới Vô Định",
         "year": 2026,
         "slug": "quy-quyet-ranh-gioi-vo-dinh",
@@ -334,29 +358,5 @@
         "total_episodes": "1",
         "country": "Anh",
         "description": "Một kẻ chủ mưu tội phạm lập kế hoạch giả chết nhằm chiếm đoạt tiền bảo hiểm, đồng thời đổ tội cho nhân tình của vợ mình. Trong khi đó, người vợ lại âm mưu giết hắn thật để ẵm trọn toàn bộ số tiền. Cả hai lao vào cuộc đua đấu trí sinh tồn để vượt mặt đối phương trong một cuộc chiến sinh tử khốc liệt."
-    },
-    {
-        "name": "Hành Trình Của Moana",
-        "year": 2026,
-        "slug": "hanh-trinh-cua-moana-2026",
-        "thumb": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260908/hanh-trinh-cua-moana-2026-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Nghe theo tiếng gọi của Đại Dương, Moana dũng cảm rời đảo Motunui, lần đầu vượt qua rạn san hô để khám phá thế giới rộng lớn. Cùng á thần Maui, cô bắt đầu hành trình phiêu lưu đầy kỳ diệu với sứ mệnh mang lại sự thịnh vượng cho quê hương."
-    },
-    {
-        "name": "Những Lời Trăn Trối Nổi Tiếng: Gloria Steinem",
-        "year": 2026,
-        "slug": "nhung-loi-tran-troi-noi-tieng-gloria-steinem",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20260907/nhung-loi-tran-troi-noi-tieng-gloria-steinem-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Trước khi qua đời, nhà hoạt động Gloria Steinem gửi gắm thông điệp chân thành cuối cùng đến thế giới, biết rằng buổi phỏng vấn này chỉ lên sóng sau khi bà đã ra đi."
     }
 ]
