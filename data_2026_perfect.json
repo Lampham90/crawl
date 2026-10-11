@@ -183,6 +183,18 @@
     ],
     "anime_nhat": [
         {
+            "name": "Mặt Nạ Chu Sa",
+            "year": 2026,
+            "slug": "mat-na-chu-sa",
+            "thumb": "https://phimimg.com/uploads/movies/20261011/mat-na-chu-sa-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261011/mat-na-chu-sa-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 1",
+            "total_episodes": "12",
+            "country": "Nhật Bản",
+            "description": "Chiếc mặt nạ bí ẩn mang đến tai họa, sở hữu ý chí riêng và dường như bị cuốn hút bởi những cuộc tàn sát. Peru, một thương nhân lang bạt chuyên buôn bán mặt nạ, có khả năng chế tạo những vật phẩm kỳ lạ trao cho người đeo sức mạnh độc đáo. Khi đặt chân đến một thành phố phủ đầy bầu không khí u ám, anh gặp Sonah, cô gái trẻ bí ẩn che giấu nhiều điều chưa được hé lộ. Từ đây, những mâu thuẫn và bí mật dần trỗi dậy, mở màn cho cuộc chiến mặt nạ đầy kịch tính và những bước ngoặt khó lường."
+        },
+        {
             "name": "Tôi Đang Tìm Kiếm Thây Ma",
             "year": 2026,
             "slug": "toi-dang-tim-kiem-thay-ma",
@@ -289,18 +301,6 @@
             "total_episodes": "24",
             "country": "Nhật Bản",
             "description": "Chiến thắng trước Ma Vương đáng lẽ phải là vinh quang rực rỡ của Romelia. Thế nhưng, vị hôn phu của cô — Hoàng tử Henri — lại đột ngột tuyên bố hủy bỏ hôn ước và trục xuất cô trở về quê nhà trong tủi nhục, nơi một lãnh địa đang bị chiến tranh tàn phá đến kiệt quệ. Không nhận được bất kỳ sự hỗ trợ nào từ hoàng gia, Romelia thề sẽ tự mình gầy dựng một quân đội, tái thiết lại các thị trấn đổ nát và khôi phục vương quốc đang chao đảo trước những xung đột mới bùng phát. Cuộc chiến với Ma Vương có thể đã kết thúc, nhưng câu chuyện huyền thoại của cô mới chỉ bắt đầu."
-        },
-        {
-            "name": "Mặt Nạ Chu Sa",
-            "year": 2026,
-            "slug": "mat-na-chu-sa",
-            "thumb": "https://phimimg.com/uploads/movies/20261011/mat-na-chu-sa-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261011/mat-na-chu-sa-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 1",
-            "total_episodes": "12",
-            "country": "Nhật Bản",
-            "description": "Chiếc mặt nạ bí ẩn mang đến tai họa, sở hữu ý chí riêng và dường như bị cuốn hút bởi những cuộc tàn sát. Peru, một thương nhân lang bạt chuyên buôn bán mặt nạ, có khả năng chế tạo những vật phẩm kỳ lạ trao cho người đeo sức mạnh độc đáo. Khi đặt chân đến một thành phố phủ đầy bầu không khí u ám, anh gặp Sonah, cô gái trẻ bí ẩn che giấu nhiều điều chưa được hé lộ. Từ đây, những mâu thuẫn và bí mật dần trỗi dậy, mở màn cho cuộc chiến mặt nạ đầy kịch tính và những bước ngoặt khó lường."
         },
         {
             "name": "Tetsuryo! Gặp Gỡ Tetsudo Musume",
@@ -1371,9 +1371,9 @@
             "description": "Coi tấm séc trúng thưởng như một dạng \"bảo hiểm tinh thần\", Eun-tae mang theo một thái độ tự tin, thoải mái và không còn sợ sệt bất cứ điều gì tại công sở. Sự thay đổi ngầm này vô tình tạo ra hàng loạt tình huống dở khóc dở cười, làm đảo lộn trật tự phân cấp công sở và thay đổi cách nhìn của các đồng nghiệp cũng như cấp trên đối với anh."
         },
         {
-            "name": "Từng Bước Bên Nhau (Phần 1)",
+            "name": "Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Phần 1)",
             "year": 2026,
-            "slug": "tung-buoc-ben-nhau-phan-1",
+            "slug": "tung-buoc-ben-nhau-tien-si-yeu-duong-phan-1",
             "thumb": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-poster.webp",
             "sub_type": "Vietsub",
@@ -2367,6 +2367,18 @@
     ],
     "bo_thai": [
         {
+            "name": "Lời Tình Dối Lừa (Phần 1)",
+            "year": 2026,
+            "slug": "loi-tinh-doi-lua-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20260924/loi-tinh-doi-lua-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260924/loi-tinh-doi-lua-phan-1-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 5",
+            "total_episodes": "10",
+            "country": "Thái Lan",
+            "description": "Sau tai nạn khiến Chris mất trí nhớ, cô sống hạnh phúc bên Nadia và tin rằng mình đã có một cuộc đời bình yên. Nhưng sự xuất hiện của Sun dần hé lộ những bí mật đáng sợ, khiến Chris bắt đầu nghi ngờ liệu cuộc sống hiện tại có thực sự là sự thật."
+        },
+        {
             "name": "Yêu Nhầm Cảnh Sát / Thanh Tra Theer Yêu Dấu / Vợ Sắp Cưới Của Thanh Tra",
             "year": 2026,
             "slug": "yeu-nham-canh-sat-thanh-tra-theer-yeu-dau-vo-sap-cuoi-cua-thanh-tra",
@@ -2533,18 +2545,6 @@
             "total_episodes": "17",
             "country": "Thái Lan",
             "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
-        },
-        {
-            "name": "NOUR",
-            "year": 2026,
-            "slug": "nour",
-            "thumb": "https://phimimg.com/uploads/movies/20260826/nour-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260826/nour-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 9",
-            "total_episodes": "10",
-            "country": "Thái Lan",
-            "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
         }
     ],
     "long_tieng": [
