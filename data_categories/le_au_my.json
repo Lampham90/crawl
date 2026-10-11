@@ -1,5 +1,17 @@
 [
     {
+        "name": "Matchbox: Phim Điện Ảnh",
+        "year": 2026,
+        "slug": "matchbox-phim-dien-anh",
+        "thumb": "https://phimimg.com/uploads/movies/20261011/matchbox-phim-dien-anh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261011/matchbox-phim-dien-anh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Cuộc hội ngộ của một nhóm bạn thuở nhỏ bỗng rẽ vào một bước ngoặt bất ngờ khi cả bọn rơi vào một âm mưu quốc tế nguy hiểm và phải đứng lên cứu thế giới."
+    },
+    {
         "name": "Cú Rơi Tử Thần 2: Điểm Chết",
         "year": 2026,
         "slug": "cu-roi-tu-than-2-diem-chet",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Khi Elliot ngây thơ nhận được một công việc mơ ước cho Erika Tracy — nữ nghệ sĩ lừng danh, biểu tượng đầy khiêu khích — những tưởng ảo tưởng của anh đã thành hiện thực khi Erika chọn anh làm \"chàng thơ\" tình dục của mình. Tuy nhiên, Elliot sớm nhận ra mình đã vượt quá giới hạn kiểm soát khi Erika đưa anh vào một hành trình sâu sắc hơn nhiều so với những gì anh từng hình dung: một thế giới của tình dục, sự ám ảnh, quyền lực, phản bội và cả án mạng."
-    },
-    {
-        "name": "Cứ Giả Vờ Chết Đi",
-        "year": 2026,
-        "slug": "cu-gia-vo-chet-di",
-        "thumb": "https://phimimg.com/uploads/movies/20260908/cu-gia-vo-chet-di-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260908/cu-gia-vo-chet-di-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Anh",
-        "description": "Một kẻ chủ mưu tội phạm lập kế hoạch giả chết nhằm chiếm đoạt tiền bảo hiểm, đồng thời đổ tội cho nhân tình của vợ mình. Trong khi đó, người vợ lại âm mưu giết hắn thật để ẵm trọn toàn bộ số tiền. Cả hai lao vào cuộc đua đấu trí sinh tồn để vượt mặt đối phương trong một cuộc chiến sinh tử khốc liệt."
     }
 ]
