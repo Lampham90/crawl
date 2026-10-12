@@ -1,12 +1,24 @@
 [
     {
+        "name": "Ngọc Điệm Thu",
+        "year": 2026,
+        "slug": "ngoc-diem-thu",
+        "thumb": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 3",
+        "total_episodes": "40",
+        "country": "Trung Quốc",
+        "description": "Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp gỡ Ngu Sưởng Hiên, ngũ thiếu gia nhà họ Ngu. Sau giai đoạn đầu đầy toan tính và nghi kỵ, cả hai dần nảy sinh tình cảm sâu đậm. Nhưng rồi hàng loạt biến cố và bi kịch đẩy Bình Quân đến bờ vực tuyệt vọng, khiến cô phải rời xa Sưởng Hiên. Trải qua nhiều năm đau khổ và dằn vặt, họ gặp lại nhau, từng bước hóa giải hiểu lầm và đối mặt với những bí mật trong quá khứ."
+    },
+    {
         "name": "Mị Ảnh Thần Bộ (Phần 1)",
         "year": 2026,
         "slug": "mi-anh-than-bo-phan-1",
         "thumb": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-poster.webp",
         "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 21",
+        "current_episode": "Tập 22",
         "total_episodes": "30",
         "country": "Trung Quốc",
         "description": "Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc gia diệt vong Li La nay hồi sinh với \"Ngũ Tuyệt Quỷ Thuật\", tạo ra hàng loạt vụ án bí ẩn kinh hoàng. May mắn thay, trong Thần Bộ Ti trực thuộc hoàng quyền, nhóm anh hùng do Lê Tư dẫn đầu vì bảo vệ giang sơn xã tắc, vì sự bình yên của muôn dân đã dũng cảm mở màn cuộc chiến sinh tử với tàn dư của Li La. Thần Bộ Ti vang danh thiên hạ, mang trong mình nhiệt huyết và lòng chính nghĩa, dù nghịch cảnh vẫn cầm đuốc soi đường, từng bước vén màn sương mù, tiến gần đến chân tướng. Chín cỗ quan tài chứa chín thiếu nữ khô héo, bị rút cạn máu mà chết, thê thảm vô cùng. Những cô gái vô tội ấy vì sao mà phải bỏ mạng? Ở sâu trong khu rừng PHắc Phong thần bí, cây ăn thịt người Thiên Ma La dùng 36 đứa trẻ mang dương khí cực thịnh làm thức ăn. Giữa rừng hoa nơi thân người bọc thành kén, lại tỏa ra hương xương khô được luyện từ máu các thiếu nữ. Trong hồ lớn của phủ Đông Nam Thuyền vương, rừng xác trôi nổi lênh đênh; cậu bé ngốc biến thành người sói dưới ánh trăng; lão thần đã cáo quan công khai phi thăng thành tiên trước mắt mọi người; dân làng trong thôn lập tức biến thành những kẻ khát máu; hoàng thái tôn đã chết nhiều ngày lại có thể cử động như thường…. Tội ác của Li La chồng chất ngút trời, đội thần bộ nhất định sẽ đưa chúng ra trước công lý, trả lại thái bình cho vương triều Đại Thế và cuộc sống an yên cho muôn dân!"
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Âu Mỹ",
         "description": "Jack Reacher 2022: Phát Súng Cuối Cùng, kể về câu chuyện của Jack Reacher, một cựu cảnh sát hình sự, bị vướng vào một âm mưu vu oan to lớn, được thực hiện bởi một nhóm cảnh sát, doanh nhân lẫn chính trị gia biến chất. Reacher và vợ sẽ phải làm gì để thoát khỏi âm mưu này, nhất là sau cái chết của người anh mình?"
-    },
-    {
-        "name": "Hồ Sơ Mật",
-        "year": 2025,
-        "slug": "ho-so-mat",
-        "thumb": "https://phimimg.com/uploads/movies/20260917/ho-so-mat-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260917/ho-so-mat-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (11/11)",
-        "total_episodes": "11",
-        "country": "Nhật Bản",
-        "description": "Chuyển thể từ bộ truyện tranh cùng tên, phim xoay quanh hành trình phá án của Tsuyoshi Maki và Ikko Aoki, hai thành viên thuộc Đội 9 của Viện Thí nghiệm Khoa học Pháp y. Tại đây, các điều tra viên sử dụng một công nghệ tiên tiến để tái hiện ký ức của người đã chết thành hình ảnh, từ đó lần theo manh mối và làm sáng tỏ những vụ án tưởng chừng như đã đi vào ngõ cụt. Là đội trưởng đội 9, Tsuyoshi dẫn dắt nhân viên mới Ikko, người có ngoại hình rất giống một đồng nghiệp đã qua đời của anh. Trong quá trình khám phá ký ức của nạn nhân để tìm ra sự thật, cả hai phải đối mặt với sự giằng xé nội tâm giữa sứ mệnh đi tìm công lý và sự tôn trọng quyền riêng tư của người đã khuất."
     }
 ]
