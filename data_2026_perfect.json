@@ -183,6 +183,18 @@
     ],
     "anime_nhat": [
         {
+            "name": "Thế Giới Phép Thuật (Phần 2)",
+            "year": 2026,
+            "slug": "the-gioi-phep-thuat-phan-2",
+            "thumb": "https://phimimg.com/uploads/movies/20261004/the-gioi-phep-thuat-phan-2-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261004/the-gioi-phep-thuat-phan-2-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "26",
+            "country": "Nhật Bản",
+            "description": "Hai đứa trẻ mồ côi được nuôi dạy như anh em trở thành đối thủ trong cuộc chiến tranh giành ngôi vị Ma pháp Vương – thứ hạng phép thuật cao nhất nơi đây."
+        },
+        {
             "name": "Phá Đảo Dị Giới Cùng Nữ Thần Không Tín Đồ",
             "year": 2026,
             "slug": "pha-dao-di-gioi-cung-nu-than-khong-tin-do",
@@ -315,9 +327,9 @@
             "description": "Tay vợt cầu lông Taiki luôn ngưỡng mộ ngôi sao bóng rổ Chinatsu từ xa. Nhưng vào một ngày mùa xuân nọ, một bước ngoặt bất ngờ đưa họ đến gần nhau."
         },
         {
-            "name": "Ao Ashi: Tân Binh Sân Cỏ (Phần 2)",
+            "name": "Ao Ashi: Tân Binh Sân Cỏ / Thiên Tài Bóng Đá Ashito (Phần 2)",
             "year": 2026,
-            "slug": "ao-ashi-tan-binh-san-co-phan-2",
+            "slug": "ao-ashi-tan-binh-san-co-thien-tai-bong-da-ashito-phan-2",
             "thumb": "https://phimimg.com/uploads/movies/20261005/ao-ashi-tan-binh-san-co-phan-2-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20261005/ao-ashi-tan-binh-san-co-phan-2-poster.webp",
             "sub_type": "Vietsub",
@@ -337,18 +349,6 @@
             "total_episodes": "12",
             "country": "Nhật Bản",
             "description": "Câu chuyện theo chân những diễn biến gay kịch của Giải Vô địch Tennis U-17 Thế giới, diễn ra tại Nhà thi đấu KCC ở Melbourne, Australia. Có tổng cộng 32 quốc gia tranh tài tại giải đấu được mong đợi từ lâu này, và chỉ 16 đội xuất sắc nhất trong số đó mới giành được tấm vé bước tiếp vào vòng knock-out chung kết..."
-        },
-        {
-            "name": "Thế Giới Phép Thuật (Phần 2)",
-            "year": 2026,
-            "slug": "the-gioi-phep-thuat-phan-2",
-            "thumb": "https://phimimg.com/uploads/movies/20261004/the-gioi-phep-thuat-phan-2-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261004/the-gioi-phep-thuat-phan-2-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "26",
-            "country": "Nhật Bản",
-            "description": "Hai đứa trẻ mồ côi được nuôi dạy như anh em trở thành đối thủ trong cuộc chiến tranh giành ngôi vị Ma pháp Vương – thứ hạng phép thuật cao nhất nơi đây."
         },
         {
             "name": "Mặt Nạ Chu Sa",
@@ -1275,6 +1275,30 @@
     ],
     "bo_han": [
         {
+            "name": "Yêu một người khác / Yêu Một Người Khác Không Phải Em",
+            "year": 2026,
+            "slug": "yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em",
+            "thumb": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "14",
+            "country": "Hàn Quốc",
+            "description": "Phim khai thác câu chuyện thực tế và đầy cảm xúc về cặp đôi Namgoong Ho và Lee Mi-do đã gắn bó bên nhau suốt 10 năm. Khi sự quen thuộc dần lấn át những rung động ban đầu và họ đứng trước ngưỡng cửa hôn nhân, mối quan hệ bắt đầu xuất hiện những vết rạn và khoảng cách."
+        },
+        {
+            "name": "Giác Quan Thứ Sáu: Mặt Trái",
+            "year": 2026,
+            "slug": "giac-quan-thu-sau-mat-trai",
+            "thumb": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Giác Quan Thứ Sáu trở lại với phiên bản hoàn toàn mới, truy tìm những thứ giả mạo ở những địa điểm khác thường và gặp gỡ những con người thú vị. Liệu giác quan nhạy bén của MC quốc dân Yoo Jae Suk, diễn viên hài Song Eun Yi, tài tử Go Kyung Pyo và BIBI có phanh phui được những thật giả lẫn lộn này?"
+        },
+        {
             "name": "100 Ngày Lừa Dối",
             "year": 2026,
             "slug": "100-ngay-lua-doi",
@@ -1285,18 +1309,6 @@
             "total_episodes": "16",
             "country": "Hàn Quốc",
             "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
-        },
-        {
-            "name": "Yêu một người khác / Yêu Một Người Khác Không Phải Em",
-            "year": 2026,
-            "slug": "yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em",
-            "thumb": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 7",
-            "total_episodes": "14",
-            "country": "Hàn Quốc",
-            "description": "Phim khai thác câu chuyện thực tế và đầy cảm xúc về cặp đôi Namgoong Ho và Lee Mi-do đã gắn bó bên nhau suốt 10 năm. Khi sự quen thuộc dần lấn át những rung động ban đầu và họ đứng trước ngưỡng cửa hôn nhân, mối quan hệ bắt đầu xuất hiện những vết rạn và khoảng cách."
         },
         {
             "name": "Bác Sĩ X",
@@ -1393,18 +1405,6 @@
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Min jae từng là vận động viên bơi lội thời trung học, cho đến khi bệnh tật khiến anh mất đi một chân. Giờ đây là nghiên cứu sinh tiến sĩ ngành người máy, anh tỏ ra là một người không màng thế sự—nhưng vẫn còn đó một khao khát giản đơn, nhức nhối: được yêu. Anh suy nghĩ quá nhiều và sợ bị tổn thương, cho đến một ngày, đúng người xuất hiện. Yujin đã từ bỏ chuyên ngành thời trang, lạc lối không có phương hướng rõ ràng, cho đến khi Minjae mở ra trước mắt cô thế giới người máy—và một giấc mơ mới. Mọi thứ về nó đều xa lạ và khó khăn, nhưng tình cảm cô dành cho anh chưa bao giờ dao động. Tia lửa ngay từ cái nhìn đầu tiên làm xáo trộn phòng thí nghiệm yên tĩnh, và sự theo đuổi không sợ hãi của Yujin đã phá vỡ lớp vỏ bọc bảo vệ trái tim Minjae. Dần dần, cả hai xích lại gần nhau hơn. Rắc rối và khó đoán hơn bất kỳ cỗ máy nào, một mối tình lãng mạn bắt đầu—mãnh liệt, ngọt ngào đắng cay và dịu dàng."
-        },
-        {
-            "name": "Giác Quan Thứ Sáu: Mặt Trái",
-            "year": 2026,
-            "slug": "giac-quan-thu-sau-mat-trai",
-            "thumb": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Giác Quan Thứ Sáu trở lại với phiên bản hoàn toàn mới, truy tìm những thứ giả mạo ở những địa điểm khác thường và gặp gỡ những con người thú vị. Liệu giác quan nhạy bén của MC quốc dân Yoo Jae Suk, diễn viên hài Song Eun Yi, tài tử Go Kyung Pyo và BIBI có phanh phui được những thật giả lẫn lộn này?"
         },
         {
             "name": "Chìm Vào Mắt Em (Phần 1)",
@@ -1639,6 +1639,18 @@
     ],
     "bo_trung": [
         {
+            "name": "Mỹ Nhân Dư",
+            "year": 2026,
+            "slug": "my-nhan-du",
+            "thumb": "https://phimimg.com/uploads/movies/20261010/my-nhan-du-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261010/my-nhan-du-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 9",
+            "total_episodes": "28",
+            "country": "Trung Quốc",
+            "description": "Dư Mộng là con gái độc nhất của gia đình ở khu vực Giang Tô-Chiết Giang-Thượng Hải, và là một blogger mạng, được nhiều người ca ngợi là \"cô gái tốt số\". Vào kỷ niệm 5 năm ngày cưới, cuộc sống tưởng chừng hoàn hảo, hạnh phúc của cô đột ngột tan vỡ: cuộc hôn nhân mỹ mãn với \"chàng rể mẫu mực\" bắt đầu rạn nứt, không những thế cô còn phải đối mặt với vô vàn nguy cơ bị \"hút máu\", vơ vét cạn kiệt tài sản. Nhờ sự giúp đỡ của bạn bè, Dư Mộng nhìn lại cuộc đời mình và giành lại quyền kiểm soát."
+        },
+        {
             "name": "Ngọc Điệm Thu",
             "year": 2026,
             "slug": "ngoc-diem-thu",
@@ -1757,18 +1769,6 @@
             "total_episodes": "6",
             "country": "Trung Quốc",
             "description": "Linh hồn của quân sư Gia Cát Lượng xuyên không từ thời Tam Quốc, nhập vào thân xác một người đàn ông đang chật vật với cuộc sống hiện đại."
-        },
-        {
-            "name": "Mỹ Nhân Dư",
-            "year": 2026,
-            "slug": "my-nhan-du",
-            "thumb": "https://phimimg.com/uploads/movies/20261010/my-nhan-du-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261010/my-nhan-du-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 7",
-            "total_episodes": "28",
-            "country": "Trung Quốc",
-            "description": "Dư Mộng là con gái độc nhất của gia đình ở khu vực Giang Tô-Chiết Giang-Thượng Hải, và là một blogger mạng, được nhiều người ca ngợi là \"cô gái tốt số\". Vào kỷ niệm 5 năm ngày cưới, cuộc sống tưởng chừng hoàn hảo, hạnh phúc của cô đột ngột tan vỡ: cuộc hôn nhân mỹ mãn với \"chàng rể mẫu mực\" bắt đầu rạn nứt, không những thế cô còn phải đối mặt với vô vàn nguy cơ bị \"hút máu\", vơ vét cạn kiệt tài sản. Nhờ sự giúp đỡ của bạn bè, Dư Mộng nhìn lại cuộc đời mình và giành lại quyền kiểm soát."
         },
         {
             "name": "Người Tình Mang Mặt Nạ (Phần 1)",
@@ -2925,28 +2925,28 @@
             "description": "Phí Phông, loài quỷ khát máu trong truyền thuyết dân gian của đồng bào miền núi gây ám ảnh bao đời nay. Phim xoay quanh Còn (Kiều Minh Tuấn) và Dương (Minh Anh), hai pháp sư tập sự lên núi cứu người mẹ đang bị lời nguyền Phí Phông đánh gục. Cùng lúc đó, trong bản sâu cũng xảy ra nhiều cái chết ghê rợn. Mọi nghi ngờ đổ dồn về hai mẹ con Mon (Diệp Bảo Ngọc) và Lua (Nina Nutthacha), những người mang đặc tính y hệt Phí Phông. Thế nhưng, vẫn còn những bí mật động trời bị chôn vùi trong chốn rừng thiêng nước độc, cuốn hai anh em Còn và Dương vào cuộc truy lùng “Phí Phông” không hồi kết."
         },
         {
-            "name": "Ngọc Điệm Thu",
+            "name": "Mỹ Nhân Dư",
             "year": 2026,
-            "slug": "ngoc-diem-thu",
-            "thumb": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 3",
-            "total_episodes": "40",
+            "slug": "my-nhan-du",
+            "thumb": "https://phimimg.com/uploads/movies/20261010/my-nhan-du-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261010/my-nhan-du-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 9",
+            "total_episodes": "28",
             "country": "Trung Quốc",
-            "description": "Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp gỡ Ngu Sưởng Hiên, ngũ thiếu gia nhà họ Ngu. Sau giai đoạn đầu đầy toan tính và nghi kỵ, cả hai dần nảy sinh tình cảm sâu đậm. Nhưng rồi hàng loạt biến cố và bi kịch đẩy Bình Quân đến bờ vực tuyệt vọng, khiến cô phải rời xa Sưởng Hiên. Trải qua nhiều năm đau khổ và dằn vặt, họ gặp lại nhau, từng bước hóa giải hiểu lầm và đối mặt với những bí mật trong quá khứ."
+            "description": "Dư Mộng là con gái độc nhất của gia đình ở khu vực Giang Tô-Chiết Giang-Thượng Hải, và là một blogger mạng, được nhiều người ca ngợi là \"cô gái tốt số\". Vào kỷ niệm 5 năm ngày cưới, cuộc sống tưởng chừng hoàn hảo, hạnh phúc của cô đột ngột tan vỡ: cuộc hôn nhân mỹ mãn với \"chàng rể mẫu mực\" bắt đầu rạn nứt, không những thế cô còn phải đối mặt với vô vàn nguy cơ bị \"hút máu\", vơ vét cạn kiệt tài sản. Nhờ sự giúp đỡ của bạn bè, Dư Mộng nhìn lại cuộc đời mình và giành lại quyền kiểm soát."
         },
         {
-            "name": "100 Ngày Lừa Dối",
+            "name": "Yêu một người khác / Yêu Một Người Khác Không Phải Em",
             "year": 2026,
-            "slug": "100-ngay-lua-doi",
-            "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
+            "slug": "yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em",
+            "thumb": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "16",
+            "current_episode": "Tập 8",
+            "total_episodes": "14",
             "country": "Hàn Quốc",
-            "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
+            "description": "Phim khai thác câu chuyện thực tế và đầy cảm xúc về cặp đôi Namgoong Ho và Lee Mi-do đã gắn bó bên nhau suốt 10 năm. Khi sự quen thuộc dần lấn át những rung động ban đầu và họ đứng trước ngưỡng cửa hôn nhân, mối quan hệ bắt đầu xuất hiện những vết rạn và khoảng cách."
         },
         {
             "name": "Yêu Nhân Thần Thám: Kỳ Án Trường An",
@@ -2985,28 +2985,28 @@
             "description": "Ba kẻ rình rập xâm nhập một khu dân cư yên tĩnh và kéo một gia đình mới chuyển đến sang cõi linh hồn. Tại đó, họ phát hiện ra một sự thật kinh hoàng: cõi âm đang dần xâm lấn thế giới thực."
         },
         {
-            "name": "Đúng Là Một Cô Gái Ngoan Ngoãn",
+            "name": "Ngọc Điệm Thu",
             "year": 2026,
-            "slug": "dung-la-mot-co-gai-ngoan-ngoan",
-            "thumb": "https://phimimg.com/uploads/movies/20261012/dung-la-mot-co-gai-ngoan-ngoan-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261012/dung-la-mot-co-gai-ngoan-ngoan-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "29",
+            "slug": "ngoc-diem-thu",
+            "thumb": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 3",
+            "total_episodes": "40",
             "country": "Trung Quốc",
-            "description": "Bề ngoài, Lộc Minh Vu là tiểu thư ngoan hiền chỉ ru rú trong nhà của nhà họ Lộc. Nhưng thực chất, cô phải ăn nhờ ở đậu nhà người khác, chịu đủ mọi tủi nhục và ức hiếp, khiến cô sớm trở thành người lòng dạ thâm sâu và tàn nhẫn. Đoàn Hưu Minh như một tia sáng rọi vào cuộc đời tăm tối của Lộc Minh Vu, tình nguyện trở thành lưỡi dao báo thù trong tay cô, cùng cô loại trừ kẻ ác, giành lấy tự do."
+            "description": "Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp gỡ Ngu Sưởng Hiên, ngũ thiếu gia nhà họ Ngu. Sau giai đoạn đầu đầy toan tính và nghi kỵ, cả hai dần nảy sinh tình cảm sâu đậm. Nhưng rồi hàng loạt biến cố và bi kịch đẩy Bình Quân đến bờ vực tuyệt vọng, khiến cô phải rời xa Sưởng Hiên. Trải qua nhiều năm đau khổ và dằn vặt, họ gặp lại nhau, từng bước hóa giải hiểu lầm và đối mặt với những bí mật trong quá khứ."
         },
         {
-            "name": "Yêu một người khác / Yêu Một Người Khác Không Phải Em",
+            "name": "Giác Quan Thứ Sáu: Mặt Trái",
             "year": 2026,
-            "slug": "yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em",
-            "thumb": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-poster.webp",
+            "slug": "giac-quan-thu-sau-mat-trai",
+            "thumb": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 7",
-            "total_episodes": "14",
+            "current_episode": "Tập 4",
+            "total_episodes": "10",
             "country": "Hàn Quốc",
-            "description": "Phim khai thác câu chuyện thực tế và đầy cảm xúc về cặp đôi Namgoong Ho và Lee Mi-do đã gắn bó bên nhau suốt 10 năm. Khi sự quen thuộc dần lấn át những rung động ban đầu và họ đứng trước ngưỡng cửa hôn nhân, mối quan hệ bắt đầu xuất hiện những vết rạn và khoảng cách."
+            "description": "Giác Quan Thứ Sáu trở lại với phiên bản hoàn toàn mới, truy tìm những thứ giả mạo ở những địa điểm khác thường và gặp gỡ những con người thú vị. Liệu giác quan nhạy bén của MC quốc dân Yoo Jae Suk, diễn viên hài Song Eun Yi, tài tử Go Kyung Pyo và BIBI có phanh phui được những thật giả lẫn lộn này?"
         },
         {
             "name": "Tiên Nghịch Movie: Thí Tiên Chi Chiến",
@@ -3045,28 +3045,28 @@
             "description": "Không còn Tony Stark, MJ hay Ned kề cận, Peter buộc phải đơn thân độc mã đối diện với phe đối đầu bí ẩn. Tuy nhiên, khi áp lực ngày càng gia tăng, nó kích hoạt một sự biến đổi thể chất bất ngờ, đe dọa chính sự tồn tại của anh. Đồng thời, một chuỗi tội phạm bí ẩn mới xuất hiện, kéo theo một trong những mối đe dọa mạnh mẽ nhất mà Spider-Man từng đối mặt."
         },
         {
-            "name": "Lôi Đình Lệnh",
+            "name": "Đúng Là Một Cô Gái Ngoan Ngoãn",
             "year": 2026,
-            "slug": "loi-dinh-lenh",
-            "thumb": "https://phimimg.com/uploads/movies/20260929/loi-dinh-lenh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260929/loi-dinh-lenh-poster.webp",
+            "slug": "dung-la-mot-co-gai-ngoan-ngoan",
+            "thumb": "https://phimimg.com/uploads/movies/20261012/dung-la-mot-co-gai-ngoan-ngoan-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261012/dung-la-mot-co-gai-ngoan-ngoan-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 29",
-            "total_episodes": "34",
+            "current_episode": "Tập 6",
+            "total_episodes": "29",
             "country": "Trung Quốc",
-            "description": "Trước tình trạng buôn bán ma túy ngày càng hoành hành, Đội trưởng Đội phòng chống ma túy Bạch Hoa dẫn dắt các cảnh sát trẻ Trang Nghiêm, Lý Tiêu cùng đồng đội dấn thân vào hiểm nguy, bí mật nằm vùng, đấu tranh cam go với bọn buôn ma túy. Họ từng bước lần theo manh mối và bóc gỡ mạng lưới tội phạm, cuối cùng bắt giữ tên trùm ma túy khét tiếng, triệt phá tận gốc thế lực bảo kê đứng sau, bảo vệ sự bình yên nơi biên giới."
+            "description": "Bề ngoài, Lộc Minh Vu là tiểu thư ngoan hiền chỉ ru rú trong nhà của nhà họ Lộc. Nhưng thực chất, cô phải ăn nhờ ở đậu nhà người khác, chịu đủ mọi tủi nhục và ức hiếp, khiến cô sớm trở thành người lòng dạ thâm sâu và tàn nhẫn. Đoàn Hưu Minh như một tia sáng rọi vào cuộc đời tăm tối của Lộc Minh Vu, tình nguyện trở thành lưỡi dao báo thù trong tay cô, cùng cô loại trừ kẻ ác, giành lấy tự do."
         },
         {
-            "name": "Bác Sĩ X",
+            "name": "100 Ngày Lừa Dối",
             "year": 2026,
-            "slug": "bac-si-x",
-            "thumb": "https://phimimg.com/uploads/movies/20261010/bac-si-x-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261010/bac-si-x-poster.webp",
+            "slug": "100-ngay-lua-doi",
+            "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Tập 2",
-            "total_episodes": "12",
+            "total_episodes": "16",
             "country": "Hàn Quốc",
-            "description": "Ở một bệnh viện nơi cái tôi và tham nhũng lộng hành, một bác sĩ phẫu thuật bí ẩn nhưng tài năng xuất hiện – nhận những ca tưởng chừng bất khả thi bất chấp sự phản đối quyết liệt."
+            "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
         },
         {
             "name": "Mononoke – Phim điện ảnh: Chương III – Lời nguyền của rắn",
