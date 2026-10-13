@@ -1,5 +1,17 @@
 [
     {
+        "name": "Bẫy Tiền",
+        "year": 2026,
+        "slug": "bay-tien",
+        "thumb": "https://phimimg.com/upload/vod/20260517-1/7a0d249bec11d0aa1bc7cc6a9879377c.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260517-1/443e6005dd8c84e9a9fefedf4d3a1c65.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Việt Nam",
+        "description": "Khi một vụ lừa đảo qua điện thoại bất ngờ xảy ra, Đặng Thức - người từng nghĩ mình có một cuộc sống ổn định - bị cuốn vào vòng xoáy nguy hiểm của tiền bạc, gia đình và lòng tin, nơi mọi lựa chọn đều phải trả giá không chỉ bằng sự giàu có mà còn bằng cả những người anh yêu thương nhất."
+    },
+    {
         "name": "Phí Phông: Quỷ Máu Rừng Thiêng",
         "year": 2026,
         "slug": "phi-phong-quy-mau-rung-thieng",
@@ -325,17 +337,6 @@
         "slug": "khe-uoc-ban-dau",
         "thumb": "https://phimimg.com/upload/vod/20260118-1/490d98873185f55f8be905ee3f01baf1.jpg",
         "poster": "https://phimimg.com/upload/vod/20260118-1/9876156c3ce357e76504844eea7fb38a.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "viet-nam"
-    },
-    {
-        "name": "Đàn Cá Gỗ",
-        "year": 2025,
-        "slug": "dan-ca-go",
-        "thumb": "https://phimimg.com/upload/vod/20260115-1/747b72e7cf61a7bf7d365ae2200f32b0.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260115-1/39c50219936f03a50156032173a3acf7.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",
