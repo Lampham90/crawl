@@ -1,5 +1,17 @@
 [
     {
+        "name": "Căn Nhà Không Mái Che",
+        "year": 2026,
+        "slug": "can-nha-khong-mai-che",
+        "thumb": "https://phimimg.com/uploads/movies/20261013/can-nha-khong-mai-che-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261013/can-nha-khong-mai-che-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "39",
+        "country": "Việt Nam",
+        "description": "Lấy bối cảnh một vùng trung du Bắc Bộ vào những năm 2010, \"Căn nhà không mái che\" mang tới câu chuyện của những con người lao động nhỏ bé, ngày ngày vật lộn với cơm áo, nợ nần và những lo toan đời thường. Ở đó, những người cha, người mẹ luôn đặt sự bình an và tương lai của con cái lên trước hạnh phúc riêng, chỉ mong dựng cho con một “mái che” đủ vững vàng trước những bất trắc của cuộc sống."
+    },
+    {
         "name": "Phù Sa",
         "year": 2026,
         "slug": "phu-sa",
@@ -326,17 +338,6 @@
         "sub_type": "Vietsub",
         "current_episode": "Hoàn Tất (51/51)",
         "total_episodes": "51",
-        "country": "viet-nam"
-    },
-    {
-        "name": "Tôi Là Diệp Chi Mai",
-        "year": 2025,
-        "slug": "toi-la-diep-chi-mai",
-        "thumb": "https://phimimg.com/upload/vod/20251001-1/b62fa2459ec3d4b4ee1f6a144b46cb29.jpg",
-        "poster": "https://phimimg.com/upload/vod/20251001-1/b1de193dd6bf3a77ac7009bdb2c00350.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (12/12)",
-        "total_episodes": "12",
         "country": "viet-nam"
     }
 ]

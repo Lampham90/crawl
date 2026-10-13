@@ -1,5 +1,41 @@
 [
     {
+        "name": "Trái tim của kẻ ký sinh",
+        "year": 2026,
+        "slug": "trai-tim-cua-ke-ky-sinh",
+        "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 21",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
+    },
+    {
+        "name": "Liệu Pháp Chết Người (Phần 1)",
+        "year": 2026,
+        "slug": "lieu-phap-chet-nguoi-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 5",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi Kat vô tình quay được cảnh ông trùm Tongyang giết người, cả gia đình cô rơi vào cảnh nhà tan cửa nát. Được cứu sống nhờ sự hy sinh cuối cùng của mẹ, Kat biến mất khỏi thế giới và trở lại với thân phận mới là Hatta. Mang trong mình mối hận khôn nguôi, Hatta dùng Liệu Pháp Chết Người để làm vũ khí trả thù, âm thầm chờ đến ngày sự thật được phơi bày."
+    },
+    {
+        "name": "Chiếc Nhẫn Tri Kỷ",
+        "year": 2026,
+        "slug": "chiec-nhan-tri-ky",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20261006/chiec-nhan-tri-ky-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "24",
+        "country": "Thái Lan",
+        "description": "Một người nổi tiếng có tầm ảnh hưởng chuẩn bị kết hôn với anh bạn trai chân chất. Nhưng cặp đôi một lần nữa phải chứng minh tình yêu của mình khi cặp nhẫn đưa họ quay về quá khứ."
+    },
+    {
         "name": "Sân Golf Tình Yêu",
         "year": 2026,
         "slug": "san-golf-tinh-yeu",
@@ -106,18 +142,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Phodduang, sinh viên năm thứ ba khoa Khoa học Thể thao, bị ép phải hợp tác và giả vờ hẹn hò với đối thủ của mình là Jinna, sinh viên năm thứ ba khoa Kỹ thuật Ô tô. Cả hai đều có mối liên hệ với Anda, một diễn viên dòng phim BL đang lên. Mọi thứ thay đổi khi tin tức về cái chết bất thường của Anda trong những hoàn cảnh đáng ngờ được lan truyền. Phodduang nhận được một cặp tai nghe và bắt đầu nghe thấy giọng nói của Anda qua đó. Thôi thúc bởi mong muốn vạch trần sự thật, Phodduang và Jin ngày càng trở nên gần gũi hơn. Cuộc truy tìm công lý của họ ngày càng trở nên nguy hiểm. Thế nhưng Jin từ chối lùi bước, quyết tâm tóm gọn kẻ thủng tay sát nhân và bảo vệ người mình yêu. Giữa những cuộc gọi đầy bí ẩn từ chiếc tai nghe, có một âm thanh vang lên lớn hơn tất cả mọi thứ khác — tiếng đập rộn ràng từ trái tim của Phodduang."
-    },
-    {
-        "name": "Trái tim của kẻ ký sinh",
-        "year": 2026,
-        "slug": "trai-tim-cua-ke-ky-sinh",
-        "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 20",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
     },
     {
         "name": "Yêu Được Không",
@@ -238,30 +262,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Phim xoay quanh mối thù truyền kiếp giữa hai gia tộc lớn. Giữa áp lực gia đình và những cuộc tranh chấp ngầm đầy căng thẳng, hai người thừa kế trẻ tuổi của hai gia tộc – bao gồm Blue (con gái duy nhất của gia tộc Monchaitrakul) và Tokyo – bất ngờ bước vào cuộc đời nhau và dần nảy sinh tình cảm, trở thành mối tình đầu của đối phương."
-    },
-    {
-        "name": "Liệu Pháp Chết Người (Phần 1)",
-        "year": 2026,
-        "slug": "lieu-phap-chet-nguoi-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 4",
-        "total_episodes": "8",
-        "country": "Thái Lan",
-        "description": "Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi Kat vô tình quay được cảnh ông trùm Tongyang giết người, cả gia đình cô rơi vào cảnh nhà tan cửa nát. Được cứu sống nhờ sự hy sinh cuối cùng của mẹ, Kat biến mất khỏi thế giới và trở lại với thân phận mới là Hatta. Mang trong mình mối hận khôn nguôi, Hatta dùng Liệu Pháp Chết Người để làm vũ khí trả thù, âm thầm chờ đến ngày sự thật được phơi bày."
-    },
-    {
-        "name": "Chiếc Nhẫn Tri Kỷ",
-        "year": 2026,
-        "slug": "chiec-nhan-tri-ky",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20261006/chiec-nhan-tri-ky-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "24",
-        "country": "Thái Lan",
-        "description": "Một người nổi tiếng có tầm ảnh hưởng chuẩn bị kết hôn với anh bạn trai chân chất. Nhưng cặp đôi một lần nữa phải chứng minh tình yêu của mình khi cặp nhẫn đưa họ quay về quá khứ."
     },
     {
         "name": "Bùa Ngải Trói Buộc",

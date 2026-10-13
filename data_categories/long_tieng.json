@@ -1,5 +1,17 @@
 [
     {
+        "name": "Thành Phố Rực Rỡ",
+        "year": 2026,
+        "slug": "thanh-pho-ruc-ro",
+        "thumb": "https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 1",
+        "total_episodes": "20",
+        "country": "Hồng Kông",
+        "description": "Thành Phố Rực Rỡ xoay quanh cuộc chiến tranh giành quyền lực giữa Quan Hiếu Hiền và Quan Hiếu Quân, hai người con trai của ông trùm quyền lực Quan Chí Sâm. Để triệt hạ Hiếu Quân và vợ là Vương Tuyết Oánh, Hiếu Hiền tuyên bố kết hôn với nữ công tố viên Hồng Hải Uyên. Trong quá khứ, Hải Uyên từng quen Hiếu Quân nhưng lại bị cô bạn thân Tuyết Oánh cướp đi tình yêu. Hiếu Hiền muốn lợi dụng mối hận trong lòng Hải Uyên, biến nó thành vũ khí để đối phó với vợ chồng Hiếu Quân. Giữa một gia đình mà ai cũng mang trong lòng những toan tính riêng, chiến thắng cuối cùng sẽ thuộc về tay ai?"
+    },
+    {
         "name": "Thợ Săn Giác Thú Omegahorn",
         "year": 2026,
         "slug": "tho-san-giac-thu-omegahorn",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Mỹ",
         "description": "Sau khi một cơn bão quét qua Phố Vừng, Big Bird không còn tổ nữa! Nhưng các bạn của cậu đã cùng nhau động viên cậu – và giúp cậu xây lại ngôi nhà."
-    },
-    {
-        "name": "Thám Tử Lừng Danh Conan 28: Dư Ảnh Của Độc Nhãn",
-        "year": 2025,
-        "slug": "tham-tu-lung-danh-conan-28-du-anh-cua-doc-nhan",
-        "thumb": "https://phimimg.com/upload/vod/20250827-1/eddefbf4813488f89a6f0c766f69f82f.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250827-1/aabb76a70d8afd21ddf2be37381c7587.jpg",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Nhật Bản",
-        "description": "Trên những ngọn núi tuyết của Nagano, một vụ án bí ẩn đã đưa Conan và các thám tử quay trở lại quá khứ. Thanh tra Yamato Kansuke - người đã bị thương nặng trong một trận tuyết lở nhiều năm trước - bất ngờ phải đối mặt với những ký ức đau thương của mình trong khi điều tra một vụ tấn công tại Đài quan sát Nobeyama. Cùng lúc đó, Mori Kogoro nhận được một cuộc gọi từ một đồng nghiệp cũ, tiết lộ mối liên hệ đáng ngờ giữa anh ta và vụ án đã bị lãng quên từ lâu. Sự xuất hiện của Morofushi Takaaki, cùng với những nhân vật chủ chốt như Amuro Tooru, Kazami và cảnh sát Tokyo, càng làm phức tạp thêm cuộc điều tra. Khi quá khứ và hiện tại đan xen, một bí ẩn rùng rợn dần dần được hé lộ - và ký ức của Kansuke nắm giữ chìa khóa cho mọi thứ."
     }
 ]
