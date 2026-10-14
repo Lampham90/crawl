@@ -1,5 +1,29 @@
 [
     {
+        "name": "Phía Sau Dối Trá",
+        "year": 2026,
+        "slug": "phia-sau-doi-tra",
+        "thumb": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "16",
+        "country": "Thái Lan",
+        "description": "Thân như anh em ruột dù chẳng phải máu mủ, Rawee và Phakorn bị tình yêu cùng sự dối trá chia cắt. Khi Phakorn ngã bệnh, Rawee hy sinh tất cả – và phải trả một cái giá quá đắt."
+    },
+    {
+        "name": "Chiếc Nhẫn Tri Kỷ",
+        "year": 2026,
+        "slug": "chiec-nhan-tri-ky",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20261006/chiec-nhan-tri-ky-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "24",
+        "country": "Thái Lan",
+        "description": "Một người nổi tiếng có tầm ảnh hưởng chuẩn bị kết hôn với anh bạn trai chân chất. Nhưng cặp đôi một lần nữa phải chứng minh tình yêu của mình khi cặp nhẫn đưa họ quay về quá khứ."
+    },
+    {
         "name": "Juliet và Juliet",
         "year": 2026,
         "slug": "juliet-va-juliet",
@@ -46,18 +70,6 @@
         "total_episodes": "8",
         "country": "Thái Lan",
         "description": "Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi Kat vô tình quay được cảnh ông trùm Tongyang giết người, cả gia đình cô rơi vào cảnh nhà tan cửa nát. Được cứu sống nhờ sự hy sinh cuối cùng của mẹ, Kat biến mất khỏi thế giới và trở lại với thân phận mới là Hatta. Mang trong mình mối hận khôn nguôi, Hatta dùng Liệu Pháp Chết Người để làm vũ khí trả thù, âm thầm chờ đến ngày sự thật được phơi bày."
-    },
-    {
-        "name": "Chiếc Nhẫn Tri Kỷ",
-        "year": 2026,
-        "slug": "chiec-nhan-tri-ky",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20261006/chiec-nhan-tri-ky-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "24",
-        "country": "Thái Lan",
-        "description": "Một người nổi tiếng có tầm ảnh hưởng chuẩn bị kết hôn với anh bạn trai chân chất. Nhưng cặp đôi một lần nữa phải chứng minh tình yêu của mình khi cặp nhẫn đưa họ quay về quá khứ."
     },
     {
         "name": "Sân Golf Tình Yêu",
@@ -202,18 +214,6 @@
         "total_episodes": "38",
         "country": "Thái Lan",
         "description": "Khi còn nhỏ, Airada thường mơ về một thành phố bị chìm xuống hồ. Cô đã được nghe kể về câu chuyện tình tay ba giữa công chúa, hoàng tử và Naga(thần rắn) dẫn đến sự sụp đổ của thành phố. Giờ đây, những giấc mơ đã trở lại và cô bắt đầu tìm hiểu truyền thuyết về Phadaeng Nang Ai. Cô đã gặp Korawit, người trông giống hệt một người đàn ông mà cô chỉ biết trong mơ. Khi nghe tin về việc nhìn thấy một Thần rắn như trong truyền thuyết Phadaeng Nang Ai, Korawit quyết định điều tra. Khi Airada bắt đầu đặt câu hỏi về mối liên hệ của mình với quá khứ, một hành trình chung để khám phá sự thật và phá bỏ lời nguyền cổ xưa của thành phố bắt đầu."
-    },
-    {
-        "name": "Phía Sau Dối Trá",
-        "year": 2026,
-        "slug": "phia-sau-doi-tra",
-        "thumb": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "16",
-        "country": "Thái Lan",
-        "description": "Thân như anh em ruột dù chẳng phải máu mủ, Rawee và Phakorn bị tình yêu cùng sự dối trá chia cắt. Khi Phakorn ngã bệnh, Rawee hy sinh tất cả – và phải trả một cái giá quá đắt."
     },
     {
         "name": "Di Sản Đen Tối",
