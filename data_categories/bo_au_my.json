@@ -1,5 +1,17 @@
 [
     {
+        "name": "Cuộc Gọi Khẩn Cấp 9-1-1 (Phần 9",
+        "year": 2025,
+        "slug": "cuoc-goi-khan-cap-9-1-1-phan-9",
+        "thumb": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-9-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-9-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 13",
+        "total_episodes": "18",
+        "country": "Âu Mỹ",
+        "description": "Khám phá những trải nghiệm đầy áp lực của các sĩ quan cảnh sát, nhân viên y tế và lính cứu hỏa, những người bị đẩy vào các tình huống đáng sợ, gây sốc và thót tim nhất. Những người ứng phó khẩn cấp này phải cố gắng cân bằng giữa việc cứu những người đang ở trong tình trạng dễ bị tổn thương nhất với việc giải quyết các vấn đề trong cuộc sống của chính họ."
+    },
+    {
         "name": "TYSON",
         "year": 2026,
         "slug": "tyson",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Âu Mỹ",
         "description": "Bị người mẹ kế chua ngoa dày vò, Lizzie Borden bỗng thấy một chân trời mới khi một cô hầu gái không theo khuôn phép và đầy khiêu khích vào làm trong nhà."
-    },
-    {
-        "name": "Xác Sống: Thành Phố Chết (Phần 3)",
-        "year": 2026,
-        "slug": "xac-song-thanh-pho-chet-phan-3",
-        "thumb": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260817/xac-song-thanh-pho-chet-phan-3-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Âu Mỹ",
-        "description": "Maggie và Negan du hành đến Manhattan hậu tận thế, nơi từ lâu đã bị cắt đứt khỏi đất liền. Thành phố này đầy những người chết và cư dân ở đây đã biến New York thành thế giới của riêng họ."
     }
 ]
