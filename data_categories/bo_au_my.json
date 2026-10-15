@@ -1,5 +1,41 @@
 [
     {
+        "name": "Nhà Ngoại Giao (Phần 4)",
+        "year": 2026,
+        "slug": "nha-ngoai-giao-phan-4",
+        "thumb": "https://phimimg.com/uploads/movies/20261016/nha-ngoai-giao-phan-4-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261016/nha-ngoai-giao-phan-4-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng."
+    },
+    {
+        "name": "Nhà Ngoại Giao (Phần 3)",
+        "year": 2025,
+        "slug": "nha-ngoai-giao-phan-3",
+        "thumb": "https://phimimg.com/upload/vod/20251017-1/6709a82cb7d44d33e47414a2c51dfc80.jpg",
+        "poster": "https://phimimg.com/upload/vod/20251017-1/7f2f8272d95d1a6e43dfaf0aba10f46a.jpg",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng."
+    },
+    {
+        "name": "Nghệ Thuật Hollywood",
+        "year": 2026,
+        "slug": "nghe-thuat-hollywood",
+        "thumb": "https://phimimg.com/uploads/movies/20261016/nghe-thuat-hollywood-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261016/nghe-thuat-hollywood-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (12/12)",
+        "total_episodes": "12",
+        "country": "Âu Mỹ",
+        "description": "Đến giờ vào lớp tại Hollywood Arts! Biểu tượng tự phong Trina Vega quay lại dẫn dắt nhóm thiếu niên tài năng trên con đường tới hào quang, địa vị và những màn náo loạn hài hước."
+    },
+    {
         "name": "Những Điệp Viên Hết Thời (Phần 6)",
         "year": 2026,
         "slug": "nhung-diep-vien-het-thoi-phan-6",
@@ -322,41 +358,5 @@
         "total_episodes": "8",
         "country": "Âu Mỹ",
         "description": "Frances Neagley là một điều tra viên tư nhân tại Chicago và là cựu đồng nghiệp quân ngũ của Jack Reacher trong Đơn vị Điều tra Đặc biệt 110 của Lục quân. Khi nhận được tin một người bạn thân thiết, yêu quý từ quá khứ của mình bị sát hại trong một vụ tai nạn đầy nghi vấn, cô quyết tâm bằng mọi giá phải đòi lại công lý."
-    },
-    {
-        "name": "Drew Binsky Lữ Khách Bốn Phương Trời (Phần 2)",
-        "year": 2026,
-        "slug": "drew-binsky-lu-khach-bon-phuong-troi-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260923/drew-binsky-lu-khach-bon-phuong-troi-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260923/drew-binsky-lu-khach-bon-phuong-troi-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "30",
-        "country": "Âu Mỹ",
-        "description": "Những điểm đến khắc nghiệt. Những nền văn hóa bí ẩn. Những con người phi thường. Drew Binsky đi tới mọi quốc gia trên Trái Đất để tìm ra điều kết nối tất cả chúng ta."
-    },
-    {
-        "name": "Drew Binsky Lữ Khách Bốn Phương Trời (Phần 1)",
-        "year": 2026,
-        "slug": "drew-binsky-lu-khach-bon-phuong-troi-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260923/drew-binsky-lu-khach-bon-phuong-troi-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260923/drew-binsky-lu-khach-bon-phuong-troi-phan-1-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (30/30)",
-        "total_episodes": "30",
-        "country": "Âu Mỹ",
-        "description": "Những điểm đến khắc nghiệt. Những nền văn hóa bí ẩn. Những con người phi thường. Drew Binsky đi tới mọi quốc gia trên Trái Đất để tìm ra điều kết nối tất cả chúng ta."
-    },
-    {
-        "name": "Quái Vật: Câu Chuyện Về Lizzie Borden",
-        "year": 2026,
-        "slug": "quai-vat-cau-chuyen-ve-lizzie-borden",
-        "thumb": "https://phimimg.com/uploads/movies/20260917/quai-vat-cau-chuyen-ve-lizzie-borden-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260917/quai-vat-cau-chuyen-ve-lizzie-borden-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Âu Mỹ",
-        "description": "Bị người mẹ kế chua ngoa dày vò, Lizzie Borden bỗng thấy một chân trời mới khi một cô hầu gái không theo khuôn phép và đầy khiêu khích vào làm trong nhà."
     }
 ]

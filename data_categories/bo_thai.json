@@ -6,10 +6,22 @@
         "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 23",
+        "current_episode": "Tập 24",
         "total_episodes": "30",
         "country": "Thái Lan",
         "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
+    },
+    {
+        "name": "Chuyện Tình Đảo Thiên Đường",
+        "year": 2026,
+        "slug": "chuyen-tinh-dao-thien-duong",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 16",
+        "total_episodes": "17",
+        "country": "Thái Lan",
+        "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
     },
     {
         "name": "NOUR",
@@ -34,18 +46,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Con trai của nữ nghệ sĩ nổi tiếng Marisa vướng vào mối quan hệ cấm kỵ, kéo theo hàng loạt biến cố và cuối cùng dẫn đến một vụ án mạng bí ẩn. Trong khi cô con dâu Tulaya quyết tâm tìm ra sự thật, Marisa lại bất chấp tất cả để bảo vệ con trai và danh tiếng gia đình. Sự xuất hiện của cô gái bí ẩn Nalin lại càng khiến mọi chuyện vượt khỏi tầm kiểm soát. Những bí mật của hiện tại dần hé lộ bi kịch trong quá khứ, vạch trần Mái Ấm Địa Ngục ẩn sau vẻ ngoài hoàn hảo của một gia đình danh giá."
-    },
-    {
-        "name": "Chuyện Tình Đảo Thiên Đường",
-        "year": 2026,
-        "slug": "chuyen-tinh-dao-thien-duong",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20260827/chuyen-tinh-dao-thien-duong-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 15",
-        "total_episodes": "17",
-        "country": "Thái Lan",
-        "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
     },
     {
         "name": "Bóng Dưới Trăng",
