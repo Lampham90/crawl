@@ -1,5 +1,17 @@
 [
     {
+        "name": "Mái Ấm Địa Ngục",
+        "year": 2026,
+        "slug": "mai-am-dia-nguc",
+        "thumb": "https://phimimg.com/uploads/movies/20261015/mai-am-dia-nguc-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261015/mai-am-dia-nguc-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 2",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Con trai của nữ nghệ sĩ nổi tiếng Marisa vướng vào mối quan hệ cấm kỵ, kéo theo hàng loạt biến cố và cuối cùng dẫn đến một vụ án mạng bí ẩn. Trong khi cô con dâu Tulaya quyết tâm tìm ra sự thật, Marisa lại bất chấp tất cả để bảo vệ con trai và danh tiếng gia đình. Sự xuất hiện của cô gái bí ẩn Nalin lại càng khiến mọi chuyện vượt khỏi tầm kiểm soát. Những bí mật của hiện tại dần hé lộ bi kịch trong quá khứ, vạch trần Mái Ấm Địa Ngục ẩn sau vẻ ngoài hoàn hảo của một gia đình danh giá."
+    },
+    {
         "name": "Chuyện Tình Đảo Thiên Đường",
         "year": 2026,
         "slug": "chuyen-tinh-dao-thien-duong",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Đây là một bộ phim hài lãng mạn vô cùng chữa lành. Chàng streamer game siêu nổi tiếng nhưng độc miệng tên \"Three\" bất ngờ thua trước một người chơi mới thanh thuần tên \"Soh\" ngay trên sóng livestream. Chuyện vốn dĩ bắt đầu từ một cuộc đi \"Tìm kiếm đối thủ cạnh tranh\" lại bất ngờ biến thành hành trình \"Tình cờ gặp gỡ tình yêu\". Người tưởng chừng như chỉ biết \"quấy rối tinh thần\" lại chính là người \"làm trái tim rung động\". Trên con đường theo đuổi ước mơ eSports, họ không chỉ phải đối mặt với thử thách từ các trận đấu game mà còn phải học cách đối diện với thứ tình cảm không thể dễ dàng nhấn nút \"khởi động lại\"."
-    },
-    {
-        "name": "Nút Thắt",
-        "year": 2026,
-        "slug": "nut-that",
-        "thumb": "https://phimimg.com/upload/vod/20260702-1/1b8bc37d5683e785764ff94ce8eef51a.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260702-1/0bc8b35212cf621b9858b600f9981df8.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (12/12)",
-        "total_episodes": "12",
-        "country": "Thái Lan",
-        "description": "Cuộc đời của một chàng trai trẻ đã thay đổi mãi mãi khi anh bị một Alpha quyền năng đánh dấu, buộc chặt định mệnh của cả hai vào một mối liên kết không thể nào trốn chạy."
     }
 ]
