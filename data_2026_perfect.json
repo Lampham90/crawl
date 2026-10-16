@@ -183,6 +183,18 @@
     ],
     "anime_nhat": [
         {
+            "name": "Pháp Sư Băng Kiếm / Pháp Sư Băng Kiếm Sẽ Thống Trị Thế Giới (Phần 2)",
+            "year": 2026,
+            "slug": "phap-su-bang-kiem-phap-su-bang-kiem-se-thong-tri-the-gioi-phan-2",
+            "thumb": "https://phimimg.com/uploads/movies/20261009/phap-su-bang-kiem-phap-su-bang-kiem-se-thong-tri-the-gioi-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261009/phap-su-bang-kiem-phap-su-bang-kiem-se-thong-tri-the-gioi-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "24",
+            "country": "Nhật Bản",
+            "description": "Mọi người đều biết về người lính mạnh nhất, Magician Iceblade, Ray White. Sau khi vượt qua một cuộc chiến đẫm máu, Ray đăng ký vào Học viện Arnold, sẵn sàng trải nghiệm một cuộc sống bình thường—một điều xa xỉ mà anh chưa từng có. Để đạt được mục tiêu này, anh ta giữ bí mật danh tính của mình là Pháp sư Băng kiếm. Mặc dù bị tẩy chay vì là thường dân, Ray kết bạn với Amelia Rose kiêu hãnh nhưng tốt bụng, Evy Armstrong cơ bắp và Elisa nhút nhát và mọt sách. Tuy nhiên, Ray được giao nhiệm vụ săn lùng một điệp viên có động cơ vẫn chưa rõ ràng..."
+        },
+        {
             "name": "Sự Trả Thù Của Dự Khuyết Thánh Nữ (Phần 2)",
             "year": 2026,
             "slug": "su-tra-thu-cua-du-khuyet-thanh-nu-phan-2",
@@ -349,18 +361,6 @@
             "total_episodes": "12",
             "country": "Nhật Bản",
             "description": "Được tái sinh như một vũ khí có tri giác với ký ức về tiền kiếp, nhưng không phải tên của anh ta, một thanh kiếm ma thuật cứu một nữ thú nhân trẻ khỏi cuộc sống nô lệ. Fran, cô gái tai mèo, trở thành chủ nhân của anh ta và chỉ muốn trở nên mạnh mẽ hơn, trong khi thanh kiếm muốn biết tại sao anh ta lại ở đây. Cùng nhau, cuộc hành trình của bộ đôi kỳ lạ chỉ mới bắt đầu!"
-        },
-        {
-            "name": "Tiểu Thư Cuồng Loạn Nia Liston",
-            "year": 2026,
-            "slug": "tieu-thu-cuong-loan-nia-liston",
-            "thumb": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "25",
-            "country": "Nhật Bản",
-            "description": "Một cô gái đang hấp hối được cứu sống khi linh hồn của một chiến binh ngã xuống được đặt vào cơ thể cô. Điều đó mang lại cho cô một cuộc sống mới, năng lực chữa lành cùng một khao khát chiến đấu không gì dập tắt nổi — thứ châm ngòi cho những cuộc hỗn chiến đẫm máu trên bước đường cô đi."
         }
     ],
     "hh_trung_quoc": [
@@ -981,114 +981,6 @@
             "total_episodes": "12",
             "country": "Việt Nam",
             "description": "Yêu Em Như Ngày Đầu Tiên xoay quanh cuộc đời đầy biến động của Hoàng Kim, một cô gái hiếu thảo nhưng số phận bi thảm. Để có tiền cứu mẹ ruột đang mắc bệnh hiểm nghèo, Hoàng Kim chấp nhận thay con gái của mẹ kế cưới Hòa Phong, một chàng trai nhà giàu tài giỏi đang nằm liệt giường trong trạng thái thực vật do bị đầu độc. Về làm dâu nhà họ Hòa, cô liên tục bị nhà chồng hãm hại và ức hiếp cho đến khi Hòa Phong bất ngờ tỉnh lại. Trong quá trình điều tra kẻ đã đầu độc mình, Hòa Phong bắt đầu nảy sinh tình cảm thật sự với cô vợ hợp đồng Hoàng Kim."
-        },
-        {
-            "name": "Trời Cao Nguyên Xanh",
-            "year": 2026,
-            "slug": "troi-cao-nguyen-xanh",
-            "thumb": "https://phimimg.com/uploads/movies/20260708/troi-cao-nguyen-xanh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260708/troi-cao-nguyen-xanh-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (27/27)",
-            "total_episodes": "27",
-            "country": "Việt Nam",
-            "description": "Nội dung phim mở đầu bằng những cuộc vây bắt gay cấn các nhóm phản động đang có kế hoạch gây tiếng vang, phát tán tài liệu \"Nhà nước tự trị\" hòng chia rẽ khối đại đoàn kết dân tộc. Điểm đặc biệt của tác phẩm là không xây dựng tuyến thiện - ác đơn giản. Các nhân vật mang nét diễn biến nội tâm phức tạp, giằng xé giữa quá khứ và hiện tại. Lực lượng an ninh phải tìm cách giải quyết vấn đề từ gốc rễ, lấy sự thấu hiểu, kiên nhẫn và lòng tin của đồng bào các dân tộc làm sức mạnh bảo vệ bình yên buôn làng."
-        },
-        {
-            "name": "Dưới Ô Cửa Sáng Đèn",
-            "year": 2026,
-            "slug": "duoi-o-cua-sang-den",
-            "thumb": "https://phimimg.com/upload/vod/20260603-1/1f7121f61ac26ca917c8e6d70c3a629c.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260603-1/350fdb0e13cb5809f7f7e61237b39538.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (33/33)",
-            "total_episodes": "33",
-            "country": "Việt Nam",
-            "description": "&quot;Dưới ô cửa sáng đèn&quot; khắc họa cuộc sống đầy trăn trở của những người hàng xóm tại khu tập thể cũ Hà Nội, nơi tình làng nghĩa xóm vượt qua những áp lực thời đại. Phim tập trung vào nhân vật Sinh cùng những câu chuyện đời thường, vất vả mưu sinh và sự gắn kết con người trong bối cảnh khu tập thể chờ giải tỏa."
-        },
-        {
-            "name": "Bước Chân Vào Đời",
-            "year": 2026,
-            "slug": "buoc-chan-vao-doi",
-            "thumb": "https://phimimg.com/upload/vod/20260226-1/39e50c2e2e64f30fce13b4ec9cf98151.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260226-1/0722263a7f51e2323aafb8b5841b2c63.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (36/36)",
-            "total_episodes": "36",
-            "country": "Việt Nam",
-            "description": "Phim là cuộc hành trình trưởng thành của 3 chị em Thương (Quỳnh Kool), Trang (Ngọc Thủy), Minh (Sơn Tùng) sau biến cố bố mẹ đột ngột qua đời. Mỗi người một tính cách nhưng họ luôn yêu thương và bao bọc nhau. Trong đó, Quỳnh Kool đảm nhận vai chị cả Thương, cô vừa tốt nghiệp đại học sư phạm hơn 1 năm với tấm bằng giỏi nhưng vẫn lận đận chưa có việc làm. Giờ đây, Thương có cơ hội vào làm hợp đồng tại 1 trường cấp 2. Để có tiền mưu sinh, lo cho em gái học năm 3 đại học và em trai học lớp 11, Thương ngoài đi dạy còn phải làm nhiều công việc khác. Thế nhưng, tình yêu và sự bao bọc của Thương dành cho các em đôi khi lại lại khiến các em cảm thấy ngột ngạt, gây nên những xung đột không đáng có."
-        },
-        {
-            "name": "Phía Bên Kia Thành Phố",
-            "year": 2026,
-            "slug": "phia-ben-kia-thanh-pho",
-            "thumb": "https://phimimg.com/upload/vod/20260603-1/b5e7f3373b9a442f09b65c2234db86cd.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260603-1/7fd55181a699c9473ea154a9cd45b33c.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 26",
-            "total_episodes": "35",
-            "country": "Việt Nam",
-            "description": "Phim lấy bối cảnh một khu phố lao động ven đô, xoay quanh đôi bạn thân trái tính trái nết là Cương và Khuê. Cả hai cùng trải qua những biến động tâm lý tuổi học đường, áp lực thành tích và rạn nứt tình cảm khi một cô bạn mới xuất hiện, khơi lại những bí mật quá khứ của gia đình họ."
-        },
-        {
-            "name": "Tận Hiến",
-            "year": 2026,
-            "slug": "tan-hien",
-            "thumb": "https://phimimg.com/upload/vod/20260513-1/3048bddd30fbd3f3bc95cb636d67efee.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260513-1/51f724508514799548dfaace58be692f.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (15/15)",
-            "total_episodes": "15",
-            "country": "Việt Nam",
-            "description": "Trong giai đoạn chính trị phức tạp ở khu vực Đông Dương thập niên 60 thế kỷ trước, người đàn ông mang bí danh P1 được Bộ Công an Việt Nam giao nhiệm vụ thâm nhập vào hàng ngũ đối phương trên đất Lào. Anh đã phải đánh cược sự an toàn không chỉ của bản thân mà cả gia đình để thực thi sứ mệnh thiêng liêng với Tổ quốc. Bộ phim nhằm tôn vinh sự hy sinh thầm lặng của những chiến sĩ tình báo thuộc lực lượng CAND trên đất Lào từ 1957 đến 1977, với lý tưởng và sự tận hiến, kiên trung, tuyệt đối trung thành với đất nước."
-        },
-        {
-            "name": "Lời Hứa Đầu Tiên",
-            "year": 2026,
-            "slug": "loi-hua-dau-tien",
-            "thumb": "https://phimimg.com/upload/vod/20260420-1/56404d15490e9a917b12b340b114779a.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260420-1/43c782a7900f84dd2c9ce0c821d8e983.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 18",
-            "total_episodes": "50",
-            "country": "Việt Nam",
-            "description": "Một nhóm bạn trẻ đối mặt với những biến cố trong tình yêu, gia đình và ước mơ. Từ những lời hứa tưởng chừng đơn giản, họ dần trưởng thành, học cách chịu trách nhiệm và tìm ra hướng đi cho cuộc sống của mình."
-        },
-        {
-            "name": "Ngược Đường Ngược Nắng",
-            "year": 2026,
-            "slug": "nguoc-duong-nguoc-nang",
-            "thumb": "https://phimimg.com/upload/vod/20260403-1/2a82f2e2d6cfb86e1daa740edf76a1ce.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260403-1/da18192c671fd053d2315f1160312315.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 34",
-            "total_episodes": "45",
-            "country": "Việt Nam",
-            "description": "Bộ phim kể về hành trình bảo tồn làng nghề làm hương truyền thống của những người trẻ qua việc giải quyết mâu thuẫn giữa tư duy cũ và mới."
-        },
-        {
-            "name": "Trò Đùa Huyết Thống",
-            "year": 2026,
-            "slug": "tro-dua-huyet-thong",
-            "thumb": "https://phimimg.com/upload/vod/20260411-1/4ae1176e77e7f7593bbf8037d9bbed39.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260411-1/1e05fe777dd325484caeac8f4d4d972e.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (23/23)",
-            "total_episodes": "23",
-            "country": "Việt Nam",
-            "description": "Sau nhiều năm xa xứ, Dylan trở về Việt Nam để trả thù mẹ kế và người em cùng cha khác mẹ đã từng hãm hại anh để giành quyền thừa kế. Mang trong mình căn bệnh lạ từ sau khi bị mẹ kế đầu độc, Dylan buộc phải tìm đến Bảo Ngọc - một nữ bác sĩ Đông y nổi tiếng với khả năng chữa bệnh kỳ diệu. Thế nhưng, từng mũi kim, từng thang thuốc của Bảo Ngọc không chỉ khơi dậy sức sống trong Dylan, mà còn đẩy anh từng bước lún vào mưu kế nghiệt ngã. Trò Đùa Huyết Thống là hành trình đấu trí nghẹt thở, nơi tình yêu thương bị lợi dụng thành thứ vũ khí nguy hiểm nhất."
-        },
-        {
-            "name": "Bóng Ma Hạnh Phúc",
-            "year": 2026,
-            "slug": "bong-ma-hanh-phuc",
-            "thumb": "https://phimimg.com/upload/vod/20260411-1/86ef3be13cd96c237487646c36173140.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260411-1/e846238c395ac0fea302be8b608ddab0.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (50/50)",
-            "total_episodes": "50",
-            "country": "Việt Nam",
-            "description": "Bóng Ma Hạnh Phúc xoay quanh cuộc hôn nhân đầy rạn nứt giữa Hoàng Dũng và Thanh Mai khi người vợ từ bỏ sự nghiệp để làm hậu phương nhưng lại bị chồng phản bội bởi sự xuất hiện của &quot;tiểu tam&quot; Như Trang, từ đó phơi bày những ích kỷ, dối trá và bi kịch ẩn sau vỏ bọc gia đình hoàn mỹ."
         }
     ],
     "le_han": [
@@ -1639,6 +1531,78 @@
     ],
     "bo_trung": [
         {
+            "name": "Sở Ly",
+            "year": 2026,
+            "slug": "so-ly",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/so-ly-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/so-ly-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 17",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Tướng quân nước Tần Bạch Khởi đánh thành khiến ba mươi vạn bách tính Sính Đô của nước Sở bỏ mạng. Vu nữ Sở Ly thi triển \"Sở Phong Dẫn\" xoay chuyển thời gian, nhưng lại bị Tống Tử Uyên, một người vốn chẳng hề quen biết, giết chết bằng một nhát kiếm. Cả hai cùng tái sinh về thời điểm 49 ngày trước đó. Để giải cứu bách tính, họ buộc phải ràng buộc với nhau, cùng trải qua hàng loạt sự việc kỳ quái. Từ đây, mối duyên nợ từ nhiều kiếp trước của hai người dần dần hé lộ."
+        },
+        {
+            "name": "Đúng Là Một Cô Gái Ngoan Ngoãn",
+            "year": 2026,
+            "slug": "dung-la-mot-co-gai-ngoan-ngoan",
+            "thumb": "https://phimimg.com/uploads/movies/20261012/dung-la-mot-co-gai-ngoan-ngoan-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261012/dung-la-mot-co-gai-ngoan-ngoan-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 14",
+            "total_episodes": "29",
+            "country": "Trung Quốc",
+            "description": "Bề ngoài, Lộc Minh Vu là tiểu thư ngoan hiền chỉ ru rú trong nhà của nhà họ Lộc. Nhưng thực chất, cô phải ăn nhờ ở đậu nhà người khác, chịu đủ mọi tủi nhục và ức hiếp, khiến cô sớm trở thành người lòng dạ thâm sâu và tàn nhẫn. Đoàn Hưu Minh như một tia sáng rọi vào cuộc đời tăm tối của Lộc Minh Vu, tình nguyện trở thành lưỡi dao báo thù trong tay cô, cùng cô loại trừ kẻ ác, giành lấy tự do."
+        },
+        {
+            "name": "Ngọc Điệm Thu",
+            "year": 2026,
+            "slug": "ngoc-diem-thu",
+            "thumb": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 10",
+            "total_episodes": "40",
+            "country": "Trung Quốc",
+            "description": "Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp gỡ Ngu Sưởng Hiên, ngũ thiếu gia nhà họ Ngu. Sau giai đoạn đầu đầy toan tính và nghi kỵ, cả hai dần nảy sinh tình cảm sâu đậm. Nhưng rồi hàng loạt biến cố và bi kịch đẩy Bình Quân đến bờ vực tuyệt vọng, khiến cô phải rời xa Sưởng Hiên. Trải qua nhiều năm đau khổ và dằn vặt, họ gặp lại nhau, từng bước hóa giải hiểu lầm và đối mặt với những bí mật trong quá khứ."
+        },
+        {
+            "name": "Không Thể Thay Thế",
+            "year": 2026,
+            "slug": "khong-the-thay-the-2026",
+            "thumb": "https://phimimg.com/uploads/movies/20260929/khong-the-thay-the-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260929/khong-the-thay-the-phan-1-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (20/20)",
+            "total_episodes": "20",
+            "country": "Trung Quốc",
+            "description": "Từ Trì là cô gái xuất thân từ một thị trấn nhỏ, bước vào ngành tư vấn sau biến cố gia đình và luôn tâm niệm không để bản thân bị người khác thay thế. Cô gặp Diệp Tín Chi, một đối tác ưu tú từng bị hãm hại và đang lên kế hoạch trả thù, rồi từ mối quan hệ thầy trò dần trở thành cộng sự. Qua quá trình đồng hành và thấu hiểu, cả hai dần trở thành những người không thể thay thế trong cuộc đời của nhau."
+        },
+        {
+            "name": "Mối Tình Đầu Thứ Hai",
+            "year": 2026,
+            "slug": "moi-tinh-dau-thu-hai",
+            "thumb": "https://phimimg.com/uploads/movies/20261015/moi-tinh-dau-thu-hai-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261015/moi-tinh-dau-thu-hai-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 10",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Cô nàng nguyên khí đầy nghị lực Zhou Xiangxiang và nam thần bóng đá học đường lạnh lùng, “tâm bất biến” Gu Han — hai người bạn thuở nhỏ đã nhiều năm mất liên lạc — nay bất ngờ hội ngộ sau một sự hiểu lầm. Trải qua những màn đấu khẩu “oan gia ngõ hẹp”, họ dần thấu hiểu và cùng nhau chứng kiến hành trình dũng cảm theo đuổi ước mơ, từ đó làm thay đổi lẫn nhau trong một câu chuyện ngọt ngào đến lịm tim, tiến hóa từ đôi oan gia thành \"giáo trình yêu đương\" mẫu mực."
+        },
+        {
+            "name": "Không Thể Đến Gần Anh Ấy",
+            "year": 2026,
+            "slug": "khong-the-den-gan-anh-ay",
+            "thumb": null,
+            "poster": "https://phimimg.com/uploads/movies/20261002/khong-the-den-gan-anh-ay-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (23/23)",
+            "total_episodes": "23",
+            "country": "Trung Quốc",
+            "description": "Diễn viên múa ba lê chính Lạc Tích Vũ sau khi gặp tai nạn xe hơi đã xuyên không về năm 2014 và gặp \"học sinh cá biệt\" Hạ Lan. Lạc Tích Vũ phát hiện ra mình và Hạ Lan đã bị ràng buộc sinh tử với nhau. Chỉ cần hai người yêu nhau là sẽ lại chết một lần nữa. Cả hai đã liên tục rơi vào vòng lặp, ở mỗi thời không mới lại gặp nhau và yêu nhau. Hai người quyết định tự tay tìm ra hung thủ để chấm dứt tất cả chuyện này."
+        },
+        {
             "name": "Yêu Một Kẻ Ngốc",
             "year": 2026,
             "slug": "yeu-mot-ke-ngoc",
@@ -1663,18 +1627,6 @@
             "description": "Từ những năm 90, khi ngành công nghiệp dầu mỏ phát triển vũ bão, có kẻ phất lên như diều gặp gió, nhưng cũng có người rơi vào cát bụi. Số phận hỉ nộ ái ố của những con người nhỏ bé giữa tiếng gầm rú của thời đại chính là hình ảnh phản chiếu của mỗi chúng ta. Giữa công cuộc cải cách tăng thu, lớn mạnh không ngừng và sự phát triển chóng mặt của nghiệp vụ, các cuộc chiến phe phái trong hệ thống dầu mỏ ngày càng trở nên khốc liệt, khiến khu tập thể của thị trấn nhỏ ngầm nổi sóng gió. Sự cám dỗ của quyền lực và tiền tài đã phóng đại những dục vọng thầm kín trong tâm hồn những con người bình thường. Con đường sai lầm mà một thế hệ đã đi qua, suy cho cùng đều phải trả cái giá tương xứng. Năm 1997, tại thị trấn nhỏ Vu Cảng (Wugang) thuộc khu vực Tây Nam, gia đình Trần Thiện sinh sống trong tòa nhà độc thân do đơn vị dầu mỏ Tây Nam phân phối. Người cha Trần Phúc là chủ xưởng dự án thi công đường ống dẫn dầu, người mẹ Trương Văn Anh là cốt cán thiết kế tại Viện Thiết kế Dầu mỏ, ngoài ra còn có người chị gái Trần Anh làm việc tại phòng lưu trữ trạm cung ứng. Cả gia đình vô cùng đầm ấm, hạnh phúc, và Trần Thiện vốn cũng sẽ bước theo con đường của thế hệ đi trước để quay về làm việc trong hệ thống dầu mỏ. Thế nhưng, một tai nạn nổ đường ống khí đốt bất ngờ đã thay đổi quỹ đạo cuộc đời của tất cả mọi người. Người cha Trần Phúc thiệt mạng trong tai nạn ấy, còn người mẹ Trương Văn Anh trở thành vật tế thần trong cuộc đấu đá nội bộ của hệ thống dầu mỏ. Không chịu nổi đả kích, Trần Thiện một mình rời nhà, đến làm việc tại đội cứu hộ để kiếm sống qua ngày. Đến năm 2001, hệ thống dầu mỏ Tây Nam bắt kịp chuyến tàu tốc hành phát triển kinh tế, nhà nhà đều có cuộc sống sung túc như tầng lớp trung lưu. Trần Thiện trở thành \"Thiện gia\" — người đứng đầu đội thi công, nhưng anh lại tự giam cầm bản thân mình ở những năm tháng ấy như một cái xác không hồn. Và rồi, anh tình cờ chạm mặt... một vụ án nổ tai nạn tương tự, cùng vị Viện trưởng Viện thiết kế từng thất bại trong cuộc chiến phe phái năm xưa..."
         },
         {
-            "name": "Ngọc Điệm Thu",
-            "year": 2026,
-            "slug": "ngoc-diem-thu",
-            "thumb": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 10",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "description": "Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp gỡ Ngu Sưởng Hiên, ngũ thiếu gia nhà họ Ngu. Sau giai đoạn đầu đầy toan tính và nghi kỵ, cả hai dần nảy sinh tình cảm sâu đậm. Nhưng rồi hàng loạt biến cố và bi kịch đẩy Bình Quân đến bờ vực tuyệt vọng, khiến cô phải rời xa Sưởng Hiên. Trải qua nhiều năm đau khổ và dằn vặt, họ gặp lại nhau, từng bước hóa giải hiểu lầm và đối mặt với những bí mật trong quá khứ."
-        },
-        {
             "name": "Mỹ Nhân Dư",
             "year": 2026,
             "slug": "my-nhan-du",
@@ -1685,30 +1637,6 @@
             "total_episodes": "28",
             "country": "Trung Quốc",
             "description": "Dư Mộng là con gái độc nhất của gia đình ở khu vực Giang Tô-Chiết Giang-Thượng Hải, và là một blogger mạng, được nhiều người ca ngợi là \"cô gái tốt số\". Vào kỷ niệm 5 năm ngày cưới, cuộc sống tưởng chừng hoàn hảo, hạnh phúc của cô đột ngột tan vỡ: cuộc hôn nhân mỹ mãn với \"chàng rể mẫu mực\" bắt đầu rạn nứt, không những thế cô còn phải đối mặt với vô vàn nguy cơ bị \"hút máu\", vơ vét cạn kiệt tài sản. Nhờ sự giúp đỡ của bạn bè, Dư Mộng nhìn lại cuộc đời mình và giành lại quyền kiểm soát."
-        },
-        {
-            "name": "Mối Tình Đầu Thứ Hai",
-            "year": 2026,
-            "slug": "moi-tinh-dau-thu-hai",
-            "thumb": "https://phimimg.com/uploads/movies/20261015/moi-tinh-dau-thu-hai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261015/moi-tinh-dau-thu-hai-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Cô nàng nguyên khí đầy nghị lực Zhou Xiangxiang và nam thần bóng đá học đường lạnh lùng, “tâm bất biến” Gu Han — hai người bạn thuở nhỏ đã nhiều năm mất liên lạc — nay bất ngờ hội ngộ sau một sự hiểu lầm. Trải qua những màn đấu khẩu “oan gia ngõ hẹp”, họ dần thấu hiểu và cùng nhau chứng kiến hành trình dũng cảm theo đuổi ước mơ, từ đó làm thay đổi lẫn nhau trong một câu chuyện ngọt ngào đến lịm tim, tiến hóa từ đôi oan gia thành \"giáo trình yêu đương\" mẫu mực."
-        },
-        {
-            "name": "Sở Ly",
-            "year": 2026,
-            "slug": "so-ly",
-            "thumb": "https://phimimg.com/uploads/movies/20261008/so-ly-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261008/so-ly-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 16",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Tướng quân nước Tần Bạch Khởi đánh thành khiến ba mươi vạn bách tính Sính Đô của nước Sở bỏ mạng. Vu nữ Sở Ly thi triển \"Sở Phong Dẫn\" xoay chuyển thời gian, nhưng lại bị Tống Tử Uyên, một người vốn chẳng hề quen biết, giết chết bằng một nhát kiếm. Cả hai cùng tái sinh về thời điểm 49 ngày trước đó. Để giải cứu bách tính, họ buộc phải ràng buộc với nhau, cùng trải qua hàng loạt sự việc kỳ quái. Từ đây, mối duyên nợ từ nhiều kiếp trước của hai người dần dần hé lộ."
         },
         {
             "name": "Mị Ảnh Thần Bộ (Phần 1)",
@@ -1735,30 +1663,6 @@
             "description": "Trước tình trạng buôn bán ma túy ngày càng hoành hành, Đội trưởng Đội phòng chống ma túy Bạch Hoa dẫn dắt các cảnh sát trẻ Trang Nghiêm, Lý Tiêu cùng đồng đội dấn thân vào hiểm nguy, bí mật nằm vùng, đấu tranh cam go với bọn buôn ma túy. Họ từng bước lần theo manh mối và bóc gỡ mạng lưới tội phạm, cuối cùng bắt giữ tên trùm ma túy khét tiếng, triệt phá tận gốc thế lực bảo kê đứng sau, bảo vệ sự bình yên nơi biên giới."
         },
         {
-            "name": "Không Thể Thay Thế",
-            "year": 2026,
-            "slug": "khong-the-thay-the-2026",
-            "thumb": "https://phimimg.com/uploads/movies/20260929/khong-the-thay-the-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260929/khong-the-thay-the-phan-1-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 19",
-            "total_episodes": "20",
-            "country": "Trung Quốc",
-            "description": "Từ Trì là cô gái xuất thân từ một thị trấn nhỏ, bước vào ngành tư vấn sau biến cố gia đình và luôn tâm niệm không để bản thân bị người khác thay thế. Cô gặp Diệp Tín Chi, một đối tác ưu tú từng bị hãm hại và đang lên kế hoạch trả thù, rồi từ mối quan hệ thầy trò dần trở thành cộng sự. Qua quá trình đồng hành và thấu hiểu, cả hai dần trở thành những người không thể thay thế trong cuộc đời của nhau."
-        },
-        {
-            "name": "Không Thể Đến Gần Anh Ấy",
-            "year": 2026,
-            "slug": "khong-the-den-gan-anh-ay",
-            "thumb": null,
-            "poster": "https://phimimg.com/uploads/movies/20261002/khong-the-den-gan-anh-ay-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 22",
-            "total_episodes": "23",
-            "country": "Trung Quốc",
-            "description": "Diễn viên múa ba lê chính Lạc Tích Vũ sau khi gặp tai nạn xe hơi đã xuyên không về năm 2014 và gặp \"học sinh cá biệt\" Hạ Lan. Lạc Tích Vũ phát hiện ra mình và Hạ Lan đã bị ràng buộc sinh tử với nhau. Chỉ cần hai người yêu nhau là sẽ lại chết một lần nữa. Cả hai đã liên tục rơi vào vòng lặp, ở mỗi thời không mới lại gặp nhau và yêu nhau. Hai người quyết định tự tay tìm ra hung thủ để chấm dứt tất cả chuyện này."
-        },
-        {
             "name": "Hiện Trường Săn Án",
             "year": 2026,
             "slug": "hien-truong-san-an",
@@ -1769,18 +1673,6 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ chui. Một vụ án cũ bị lãng quên suốt 7 năm bất ngờ được lật lại. Trong quá trình dấn thân truy tìm sự thật, nhóm cảnh sát điều tra không chỉ bóc gỡ từng lớp âm mưu đen tối mà còn liên tục trăn trở, thảo luận sâu sắc về vinh quang của người chiến sĩ công an cùng sự kính úy đối với giá trị thiêng liêng của sinh mạng con người."
-        },
-        {
-            "name": "Đúng Là Một Cô Gái Ngoan Ngoãn",
-            "year": 2026,
-            "slug": "dung-la-mot-co-gai-ngoan-ngoan",
-            "thumb": "https://phimimg.com/uploads/movies/20261012/dung-la-mot-co-gai-ngoan-ngoan-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261012/dung-la-mot-co-gai-ngoan-ngoan-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 12",
-            "total_episodes": "29",
-            "country": "Trung Quốc",
-            "description": "Bề ngoài, Lộc Minh Vu là tiểu thư ngoan hiền chỉ ru rú trong nhà của nhà họ Lộc. Nhưng thực chất, cô phải ăn nhờ ở đậu nhà người khác, chịu đủ mọi tủi nhục và ức hiếp, khiến cô sớm trở thành người lòng dạ thâm sâu và tàn nhẫn. Đoàn Hưu Minh như một tia sáng rọi vào cuộc đời tăm tối của Lộc Minh Vu, tình nguyện trở thành lưỡi dao báo thù trong tay cô, cùng cô loại trừ kẻ ác, giành lấy tự do."
         },
         {
             "name": "Án Tử Cận Kề",
@@ -2003,6 +1895,18 @@
     ],
     "bo_au_my": [
         {
+            "name": "Người Chạy Xuyên Không Gian (Phần 2)",
+            "year": 2026,
+            "slug": "nguoi-chay-xuyen-khong-gian-phan-2",
+            "thumb": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "19",
+            "country": "Âu Mỹ",
+            "description": "Gia đình Jason ban đầu tìm được một khoảng thời gian yên bình, tưởng chừng đã định cư an toàn tại một thực tại mới. Tuy nhiên, sự bình yên đó không kéo dài lâu khi những hiểm họa từ không gian đa vũ trụ và những rắc rối chưa được giải quyết từ thế giới cũ tiếp tục đeo bám, buộc họ phải một lần nữa dấn thân vào cuộc trốn chạy mới."
+        },
+        {
             "name": "Nhà Ngoại Giao (Phần 4)",
             "year": 2026,
             "slug": "nha-ngoai-giao-phan-4",
@@ -2121,18 +2025,6 @@
             "total_episodes": "10",
             "country": "Âu Mỹ",
             "description": "Sau những biến động và cuộc chiến đẫm máu ở mùa đầu tiên, gia đình tội phạm quyền lực nhà Harrigan bước sang mùa 2 trong tình trạng rạn nứt nghiêm trọng. Sức ép đè nặng khi các thành viên bắt đầu đối đầu lẫn nhau, đứng trước nguy cơ xảy ra một cuộc nội chiến thực sự."
-        },
-        {
-            "name": "Người Chạy Xuyên Không Gian (Phần 2)",
-            "year": 2026,
-            "slug": "nguoi-chay-xuyen-khong-gian-phan-2",
-            "thumb": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 7",
-            "total_episodes": "19",
-            "country": "Âu Mỹ",
-            "description": "Gia đình Jason ban đầu tìm được một khoảng thời gian yên bình, tưởng chừng đã định cư an toàn tại một thực tại mới. Tuy nhiên, sự bình yên đó không kéo dài lâu khi những hiểm họa từ không gian đa vũ trụ và những rắc rối chưa được giải quyết từ thế giới cũ tiếp tục đeo bám, buộc họ phải một lần nữa dấn thân vào cuộc trốn chạy mới."
         },
         {
             "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
@@ -2743,6 +2635,18 @@
             "description": "Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp gỡ Ngu Sưởng Hiên, ngũ thiếu gia nhà họ Ngu. Sau giai đoạn đầu đầy toan tính và nghi kỵ, cả hai dần nảy sinh tình cảm sâu đậm. Nhưng rồi hàng loạt biến cố và bi kịch đẩy Bình Quân đến bờ vực tuyệt vọng, khiến cô phải rời xa Sưởng Hiên. Trải qua nhiều năm đau khổ và dằn vặt, họ gặp lại nhau, từng bước hóa giải hiểu lầm và đối mặt với những bí mật trong quá khứ."
         },
         {
+            "name": "Không Thể Thay Thế",
+            "year": 2026,
+            "slug": "khong-the-thay-the-2026",
+            "thumb": "https://phimimg.com/uploads/movies/20260929/khong-the-thay-the-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260929/khong-the-thay-the-phan-1-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (20/20)",
+            "total_episodes": "20",
+            "country": "Trung Quốc",
+            "description": "Từ Trì là cô gái xuất thân từ một thị trấn nhỏ, bước vào ngành tư vấn sau biến cố gia đình và luôn tâm niệm không để bản thân bị người khác thay thế. Cô gặp Diệp Tín Chi, một đối tác ưu tú từng bị hãm hại và đang lên kế hoạch trả thù, rồi từ mối quan hệ thầy trò dần trở thành cộng sự. Qua quá trình đồng hành và thấu hiểu, cả hai dần trở thành những người không thể thay thế trong cuộc đời của nhau."
+        },
+        {
             "name": "Mị Ảnh Thần Bộ (Phần 1)",
             "year": 2026,
             "slug": "mi-anh-than-bo-phan-1",
@@ -2753,18 +2657,6 @@
             "total_episodes": "30",
             "country": "Trung Quốc",
             "description": "Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc gia diệt vong Li La nay hồi sinh với \"Ngũ Tuyệt Quỷ Thuật\", tạo ra hàng loạt vụ án bí ẩn kinh hoàng. May mắn thay, trong Thần Bộ Ti trực thuộc hoàng quyền, nhóm anh hùng do Lê Tư dẫn đầu vì bảo vệ giang sơn xã tắc, vì sự bình yên của muôn dân đã dũng cảm mở màn cuộc chiến sinh tử với tàn dư của Li La. Thần Bộ Ti vang danh thiên hạ, mang trong mình nhiệt huyết và lòng chính nghĩa, dù nghịch cảnh vẫn cầm đuốc soi đường, từng bước vén màn sương mù, tiến gần đến chân tướng. Chín cỗ quan tài chứa chín thiếu nữ khô héo, bị rút cạn máu mà chết, thê thảm vô cùng. Những cô gái vô tội ấy vì sao mà phải bỏ mạng? Ở sâu trong khu rừng PHắc Phong thần bí, cây ăn thịt người Thiên Ma La dùng 36 đứa trẻ mang dương khí cực thịnh làm thức ăn. Giữa rừng hoa nơi thân người bọc thành kén, lại tỏa ra hương xương khô được luyện từ máu các thiếu nữ. Trong hồ lớn của phủ Đông Nam Thuyền vương, rừng xác trôi nổi lênh đênh; cậu bé ngốc biến thành người sói dưới ánh trăng; lão thần đã cáo quan công khai phi thăng thành tiên trước mắt mọi người; dân làng trong thôn lập tức biến thành những kẻ khát máu; hoàng thái tôn đã chết nhiều ngày lại có thể cử động như thường…. Tội ác của Li La chồng chất ngút trời, đội thần bộ nhất định sẽ đưa chúng ra trước công lý, trả lại thái bình cho vương triều Đại Thế và cuộc sống an yên cho muôn dân!"
-        },
-        {
-            "name": "Không Thể Thay Thế",
-            "year": 2026,
-            "slug": "khong-the-thay-the-2026",
-            "thumb": "https://phimimg.com/uploads/movies/20260929/khong-the-thay-the-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260929/khong-the-thay-the-phan-1-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Tập 19",
-            "total_episodes": "20",
-            "country": "Trung Quốc",
-            "description": "Từ Trì là cô gái xuất thân từ một thị trấn nhỏ, bước vào ngành tư vấn sau biến cố gia đình và luôn tâm niệm không để bản thân bị người khác thay thế. Cô gặp Diệp Tín Chi, một đối tác ưu tú từng bị hãm hại và đang lên kế hoạch trả thù, rồi từ mối quan hệ thầy trò dần trở thành cộng sự. Qua quá trình đồng hành và thấu hiểu, cả hai dần trở thành những người không thể thay thế trong cuộc đời của nhau."
         },
         {
             "name": "Hiện Trường Săn Án",
@@ -2925,16 +2817,16 @@
             "description": "Giữa Trường An tráng lệ và kỳ ảo dưới triều Đường, nơi những cỗ máy cơ khí tinh xảo hòa quyện cùng mái ngói cong vút, con người và yêu quái cùng chung sống. Địch Thiếu, thiếu niên thiên tài luôn mơ ước trở thành “Đại Thám Tử Số Một Trường An”, sở hữu khả năng suy luận sắc bén cùng tài ăn nói hơn người. Đồng hành cùng cậu là A Sa, tân binh yêu sói của đội tuần tra, giỏi võ nhưng mang trong mình trái tim lương thiện. Một vụ án mạng bí ẩn bất ngờ khiến đôi oan gia này phải hợp tác. Vừa đấu khẩu, vừa phối hợp phá án, cả hai dấn thân vào hành trình điều tra đầy bất ngờ và hiểm nguy. Khi mọi manh mối đều dẫn về trung tâm Trường An, liệu họ có thể bảo vệ sự bình yên của thành? Và đằng sau vẻ phồn hoa của Trường An đang ẩn giấu bí mật kinh thiên động địa nào?"
         },
         {
-            "name": "Yêu Một Kẻ Ngốc",
+            "name": "Sở Ly",
             "year": 2026,
-            "slug": "yeu-mot-ke-ngoc",
-            "thumb": "https://phimimg.com/uploads/movies/20261010/yeu-mot-ke-ngoc-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261010/yeu-mot-ke-ngoc-poster.webp",
+            "slug": "so-ly",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/so-ly-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/so-ly-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "20",
+            "current_episode": "Tập 17",
+            "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Ing — người thừa kế vô cùng tự tin của Tập đoàn Araya — tình cờ gặp gỡ Yok, người thừa kế của một gia đình quý tộc lâu đời, thông qua Itt (em cùng cha khác mẹ của Ing và cũng là bạn của Yok). Lấy cớ bàn chuyện công việc, Ing liên tục tìm mọi cách để bước vào cuộc sống của Yok. Thế rồi, trong một đêm hỗn loạn chìm đắm trong men rượu, cả hai vượt qua giới hạn và trở nên thân mật, khiến tình cảm mà Yok dành cho Ing dần dần thay đổi. Khi tình yêu bắt đầu chớm nở giữa họ, Ing hoàn toàn không hề hay biết rằng bản thân đã bước vào một cái bẫy do chính Yok giăng sẵn."
+            "description": "Tướng quân nước Tần Bạch Khởi đánh thành khiến ba mươi vạn bách tính Sính Đô của nước Sở bỏ mạng. Vu nữ Sở Ly thi triển \"Sở Phong Dẫn\" xoay chuyển thời gian, nhưng lại bị Tống Tử Uyên, một người vốn chẳng hề quen biết, giết chết bằng một nhát kiếm. Cả hai cùng tái sinh về thời điểm 49 ngày trước đó. Để giải cứu bách tính, họ buộc phải ràng buộc với nhau, cùng trải qua hàng loạt sự việc kỳ quái. Từ đây, mối duyên nợ từ nhiều kiếp trước của hai người dần dần hé lộ."
         },
         {
             "name": "Chuyện Tình Rung Cảm",
@@ -2961,16 +2853,16 @@
             "description": "Giữa Trường An tráng lệ và kỳ ảo dưới triều Đường, nơi những cỗ máy cơ khí tinh xảo hòa quyện cùng mái ngói cong vút, con người và yêu quái cùng chung sống. Địch Thiếu, thiếu niên thiên tài luôn mơ ước trở thành “Đại Thám Tử Số Một Trường An”, sở hữu khả năng suy luận sắc bén cùng tài ăn nói hơn người. Đồng hành cùng cậu là A Sa, tân binh yêu sói của đội tuần tra, giỏi võ nhưng mang trong mình trái tim lương thiện. Một vụ án mạng bí ẩn bất ngờ khiến đôi oan gia này phải hợp tác. Vừa đấu khẩu, vừa phối hợp phá án, cả hai dấn thân vào hành trình điều tra đầy bất ngờ và hiểm nguy. Khi mọi manh mối đều dẫn về trung tâm Trường An, liệu họ có thể bảo vệ sự bình yên của thành? Và đằng sau vẻ phồn hoa của Trường An đang ẩn giấu bí mật kinh thiên động địa nào?"
         },
         {
-            "name": "Nhà Ngoại Giao (Phần 4)",
+            "name": "Người Chạy Xuyên Không Gian (Phần 2)",
             "year": 2026,
-            "slug": "nha-ngoai-giao-phan-4",
-            "thumb": "https://phimimg.com/uploads/movies/20261016/nha-ngoai-giao-phan-4-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261016/nha-ngoai-giao-phan-4-poster.webp",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Hoàn Tất (8/8)",
-            "total_episodes": "8",
+            "slug": "nguoi-chay-xuyen-khong-gian-phan-2",
+            "thumb": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 8",
+            "total_episodes": "19",
             "country": "Âu Mỹ",
-            "description": "Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng."
+            "description": "Gia đình Jason ban đầu tìm được một khoảng thời gian yên bình, tưởng chừng đã định cư an toàn tại một thực tại mới. Tuy nhiên, sự bình yên đó không kéo dài lâu khi những hiểm họa từ không gian đa vũ trụ và những rắc rối chưa được giải quyết từ thế giới cũ tiếp tục đeo bám, buộc họ phải một lần nữa dấn thân vào cuộc trốn chạy mới."
         },
         {
             "name": "Vùng Tử Địa",
@@ -2985,16 +2877,16 @@
             "description": "Tại Hope Harbor, một ngôi làng hẻo lánh nằm gần khu vực phi quân sự, cảnh sát trưởng Bum-seok đã nhận được tin báo khẩn cấp từ người dân địa phương về sự xuất hiện của một con hổ. Khi cả ngôi làng chìm trong hoảng loạn, Bum-seok ngỡ ngàng khi phát hiện một sự thật nằm ngoài sức tưởng tượng của con người."
         },
         {
-            "name": "Thắp Sáng Đêm Đen",
+            "name": "Đúng Là Một Cô Gái Ngoan Ngoãn",
             "year": 2026,
-            "slug": "thap-sang-dem-den",
-            "thumb": "https://phimimg.com/uploads/movies/20261016/thap-sang-dem-den-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261016/thap-sang-dem-den-poster.webp",
+            "slug": "dung-la-mot-co-gai-ngoan-ngoan",
+            "thumb": "https://phimimg.com/uploads/movies/20261012/dung-la-mot-co-gai-ngoan-ngoan-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261012/dung-la-mot-co-gai-ngoan-ngoan-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "12",
+            "current_episode": "Tập 14",
+            "total_episodes": "29",
             "country": "Trung Quốc",
-            "description": "Từ những năm 90, khi ngành công nghiệp dầu mỏ phát triển vũ bão, có kẻ phất lên như diều gặp gió, nhưng cũng có người rơi vào cát bụi. Số phận hỉ nộ ái ố của những con người nhỏ bé giữa tiếng gầm rú của thời đại chính là hình ảnh phản chiếu của mỗi chúng ta. Giữa công cuộc cải cách tăng thu, lớn mạnh không ngừng và sự phát triển chóng mặt của nghiệp vụ, các cuộc chiến phe phái trong hệ thống dầu mỏ ngày càng trở nên khốc liệt, khiến khu tập thể của thị trấn nhỏ ngầm nổi sóng gió. Sự cám dỗ của quyền lực và tiền tài đã phóng đại những dục vọng thầm kín trong tâm hồn những con người bình thường. Con đường sai lầm mà một thế hệ đã đi qua, suy cho cùng đều phải trả cái giá tương xứng. Năm 1997, tại thị trấn nhỏ Vu Cảng (Wugang) thuộc khu vực Tây Nam, gia đình Trần Thiện sinh sống trong tòa nhà độc thân do đơn vị dầu mỏ Tây Nam phân phối. Người cha Trần Phúc là chủ xưởng dự án thi công đường ống dẫn dầu, người mẹ Trương Văn Anh là cốt cán thiết kế tại Viện Thiết kế Dầu mỏ, ngoài ra còn có người chị gái Trần Anh làm việc tại phòng lưu trữ trạm cung ứng. Cả gia đình vô cùng đầm ấm, hạnh phúc, và Trần Thiện vốn cũng sẽ bước theo con đường của thế hệ đi trước để quay về làm việc trong hệ thống dầu mỏ. Thế nhưng, một tai nạn nổ đường ống khí đốt bất ngờ đã thay đổi quỹ đạo cuộc đời của tất cả mọi người. Người cha Trần Phúc thiệt mạng trong tai nạn ấy, còn người mẹ Trương Văn Anh trở thành vật tế thần trong cuộc đấu đá nội bộ của hệ thống dầu mỏ. Không chịu nổi đả kích, Trần Thiện một mình rời nhà, đến làm việc tại đội cứu hộ để kiếm sống qua ngày. Đến năm 2001, hệ thống dầu mỏ Tây Nam bắt kịp chuyến tàu tốc hành phát triển kinh tế, nhà nhà đều có cuộc sống sung túc như tầng lớp trung lưu. Trần Thiện trở thành \"Thiện gia\" — người đứng đầu đội thi công, nhưng anh lại tự giam cầm bản thân mình ở những năm tháng ấy như một cái xác không hồn. Và rồi, anh tình cờ chạm mặt... một vụ án nổ tai nạn tương tự, cùng vị Viện trưởng Viện thiết kế từng thất bại trong cuộc chiến phe phái năm xưa..."
+            "description": "Bề ngoài, Lộc Minh Vu là tiểu thư ngoan hiền chỉ ru rú trong nhà của nhà họ Lộc. Nhưng thực chất, cô phải ăn nhờ ở đậu nhà người khác, chịu đủ mọi tủi nhục và ức hiếp, khiến cô sớm trở thành người lòng dạ thâm sâu và tàn nhẫn. Đoàn Hưu Minh như một tia sáng rọi vào cuộc đời tăm tối của Lộc Minh Vu, tình nguyện trở thành lưỡi dao báo thù trong tay cô, cùng cô loại trừ kẻ ác, giành lấy tự do."
         },
         {
             "name": "Chiếc Cà Vạt Rối Rắm",
@@ -3021,11 +2913,11 @@
             "description": "Sau khi tiến vào Lôi Chi Tiên Giới, Vương Lâm bất ngờ rơi vào thiên la sát cục do Huyết Tổ giăng sẵn. Giữa mê trận chồng chất, mọi đường lui đều bị phong bế, hắn trở thành mục tiêu của cuộc truy sát không khoan nhượng từ một kẻ địch sở hữu thực lực vượt xa bản thân.  Bị dồn đến ranh giới sinh tử, Vương Lâm không lựa chọn khuất phục. Với ý chí nghịch thiên, sự bình tĩnh cùng kinh nghiệm tích lũy qua vô số lần cận kề cái chết, hắn từng bước nhìn thấu sát cục, phá vỡ từng tầng bố trí của đối phương và nghịch chuyển thế cờ trong hoàn cảnh tưởng chừng không còn lối thoát."
         },
         {
-            "name": "Nhà Ngoại Giao (Phần 3)",
-            "year": 2025,
-            "slug": "nha-ngoai-giao-phan-3",
-            "thumb": "https://phimimg.com/upload/vod/20251017-1/6709a82cb7d44d33e47414a2c51dfc80.jpg",
-            "poster": "https://phimimg.com/upload/vod/20251017-1/7f2f8272d95d1a6e43dfaf0aba10f46a.jpg",
+            "name": "Nhà Ngoại Giao (Phần 4)",
+            "year": 2026,
+            "slug": "nha-ngoai-giao-phan-4",
+            "thumb": "https://phimimg.com/uploads/movies/20261016/nha-ngoai-giao-phan-4-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261016/nha-ngoai-giao-phan-4-poster.webp",
             "sub_type": "Lồng Tiếng",
             "current_episode": "Hoàn Tất (8/8)",
             "total_episodes": "8",
@@ -3081,16 +2973,16 @@
             "description": "Khi bi kịch ập đến bên trong những bức tường của Ōoku, những cảm xúc méo mó của con người và những mối hận thù đang mưng mủ đã tạo ra kẻ thù đáng sợ nhất từ trước đến nay của Dược Sư."
         },
         {
-            "name": "Nghệ Thuật Hollywood",
-            "year": 2026,
-            "slug": "nghe-thuat-hollywood",
-            "thumb": "https://phimimg.com/uploads/movies/20261016/nghe-thuat-hollywood-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261016/nghe-thuat-hollywood-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (12/12)",
-            "total_episodes": "12",
+            "name": "Nhà Ngoại Giao (Phần 3)",
+            "year": 2025,
+            "slug": "nha-ngoai-giao-phan-3",
+            "thumb": "https://phimimg.com/upload/vod/20251017-1/6709a82cb7d44d33e47414a2c51dfc80.jpg",
+            "poster": "https://phimimg.com/upload/vod/20251017-1/7f2f8272d95d1a6e43dfaf0aba10f46a.jpg",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Hoàn Tất (8/8)",
+            "total_episodes": "8",
             "country": "Âu Mỹ",
-            "description": "Đến giờ vào lớp tại Hollywood Arts! Biểu tượng tự phong Trina Vega quay lại dẫn dắt nhóm thiếu niên tài năng trên con đường tới hào quang, địa vị và những màn náo loạn hài hước."
+            "description": "Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng."
         }
     ]
 }
