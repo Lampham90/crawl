@@ -1,5 +1,17 @@
 [
     {
+        "name": "Instadocs: AI mất kiểm soát",
+        "year": 2026,
+        "slug": "instadocs-ai-mat-kiem-soat",
+        "thumb": "https://phimimg.com/uploads/movies/20261016/instadocs-ai-mat-kiem-soat-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261016/instadocs-ai-mat-kiem-soat-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Có phải AI đã phạm trọng tội? \"Instadocs\" điều tra vụ hack Hugging Face và lý do vụ tấn công mạng này có thể là phát súng cảnh báo cho tương lai của nhân loại."
+    },
+    {
         "name": "Matchbox: Phim Điện Ảnh",
         "year": 2026,
         "slug": "matchbox-phim-dien-anh",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Mỹ",
         "description": "Mr. T từng gây bão toàn cầu như một biểu tượng thập niên 80. Bộ phim tài liệu hé lộ toàn bộ câu chuyện đằng sau mái tóc mohawk, sợi dây chuyền và câu cửa miệng, qua lời kể của ông."
-    },
-    {
-        "name": "Anh Muốn \"Yêu\" Với Em",
-        "year": 2026,
-        "slug": "anh-muon-yeu-voi-em",
-        "thumb": "https://phimimg.com/uploads/movies/20260908/anh-muon-yeu-voi-em-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260908/anh-muon-yeu-voi-em-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Khi Elliot ngây thơ nhận được một công việc mơ ước cho Erika Tracy — nữ nghệ sĩ lừng danh, biểu tượng đầy khiêu khích — những tưởng ảo tưởng của anh đã thành hiện thực khi Erika chọn anh làm \"chàng thơ\" tình dục của mình. Tuy nhiên, Elliot sớm nhận ra mình đã vượt quá giới hạn kiểm soát khi Erika đưa anh vào một hành trình sâu sắc hơn nhiều so với những gì anh từng hình dung: một thế giới của tình dục, sự ám ảnh, quyền lực, phản bội và cả án mạng."
     }
 ]
