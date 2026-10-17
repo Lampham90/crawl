@@ -1275,13 +1275,25 @@
     ],
     "bo_han": [
         {
+            "name": "100 Ngày Lừa Dối",
+            "year": 2026,
+            "slug": "100-ngay-lua-doi",
+            "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 3",
+            "total_episodes": "16",
+            "country": "Hàn Quốc",
+            "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
+        },
+        {
             "name": "Bác Sĩ X",
             "year": 2026,
             "slug": "bac-si-x",
             "thumb": "https://phimimg.com/uploads/movies/20261010/bac-si-x-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20261010/bac-si-x-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
+            "current_episode": "Tập 4",
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Ở một bệnh viện nơi cái tôi và tham nhũng lộng hành, một bác sĩ phẫu thuật bí ẩn nhưng tài năng xuất hiện – nhận những ca tưởng chừng bất khả thi bất chấp sự phản đối quyết liệt."
@@ -1393,18 +1405,6 @@
             "total_episodes": "10",
             "country": "Hàn Quốc",
             "description": "Giác Quan Thứ Sáu trở lại với phiên bản hoàn toàn mới, truy tìm những thứ giả mạo ở những địa điểm khác thường và gặp gỡ những con người thú vị. Liệu giác quan nhạy bén của MC quốc dân Yoo Jae Suk, diễn viên hài Song Eun Yi, tài tử Go Kyung Pyo và BIBI có phanh phui được những thật giả lẫn lộn này?"
-        },
-        {
-            "name": "100 Ngày Lừa Dối",
-            "year": 2026,
-            "slug": "100-ngay-lua-doi",
-            "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "16",
-            "country": "Hàn Quốc",
-            "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
         },
         {
             "name": "Nạp Đầy Trái Tim",
@@ -1639,6 +1639,18 @@
     ],
     "bo_trung": [
         {
+            "name": "Gả Kim Thoa / Gả trâm vàng",
+            "year": 2026,
+            "slug": "ga-kim-thoa-ga-tram-vang",
+            "thumb": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "33",
+            "country": "Trung Quốc",
+            "description": "A Sửu vốn là thiếu nữ đổ phân ban đêm trên phố có thân phận thấp hèn, bị mọi người chà đạp và bắt nạt. Chỉ vì có khuôn mặt giống hệt tiểu thư Ngụy Nhiêu của Hầu Phủ, cô bất ngờ trở thành tân nương xung hỷ cho thế tử Lục Trạc của Quốc Công Phủ. A Sửu ôm đầy tham vọng, một lòng tranh thủ cơ hội để leo cao, nhưng phu quân mới cưới đang gần đất xa trời đột nhiên tỉnh lại, âm mưu tu hú chiếm tổ dẫn đến nhiều tai họa liên tiếp. Ngụy Nhiêu hận cô chiếm chỗ của mình, nôn nóng muốn trừ khử cô; Lục Trạc coi cô là người phụ nữ độc địa, tìm mọi cách phòng bị trước các toan tính. Quốc Công Phủ bề ngoài trông hòa thuận êm ấm, thực ra đầy rẫy cạm bẫy, nguy hiểm bủa vây. A Sửu nỗ lực xoay sở giữa cơn sóng ngầm, mưu tính con đường phía trước, vùng vẫy thoát khỏi xiềng xích của số phận, hơn nữa còn điều tra ra bí mật về thân thế của mình, cuối cùng cũng được đoàn tụ với người thân yêu nhất, đang từ cô gái đổ phân thấp hèn lội ngược dòng vươn lên cao, sống cuộc đời gấm hoa rực rỡ."
+        },
+        {
             "name": "Tuý Mộng",
             "year": 2026,
             "slug": "tuy-mong",
@@ -1783,18 +1795,6 @@
             "description": "Từ những năm 90, khi ngành công nghiệp dầu mỏ phát triển vũ bão, có kẻ phất lên như diều gặp gió, nhưng cũng có người rơi vào cát bụi. Số phận hỉ nộ ái ố của những con người nhỏ bé giữa tiếng gầm rú của thời đại chính là hình ảnh phản chiếu của mỗi chúng ta. Giữa công cuộc cải cách tăng thu, lớn mạnh không ngừng và sự phát triển chóng mặt của nghiệp vụ, các cuộc chiến phe phái trong hệ thống dầu mỏ ngày càng trở nên khốc liệt, khiến khu tập thể của thị trấn nhỏ ngầm nổi sóng gió. Sự cám dỗ của quyền lực và tiền tài đã phóng đại những dục vọng thầm kín trong tâm hồn những con người bình thường. Con đường sai lầm mà một thế hệ đã đi qua, suy cho cùng đều phải trả cái giá tương xứng. Năm 1997, tại thị trấn nhỏ Vu Cảng (Wugang) thuộc khu vực Tây Nam, gia đình Trần Thiện sinh sống trong tòa nhà độc thân do đơn vị dầu mỏ Tây Nam phân phối. Người cha Trần Phúc là chủ xưởng dự án thi công đường ống dẫn dầu, người mẹ Trương Văn Anh là cốt cán thiết kế tại Viện Thiết kế Dầu mỏ, ngoài ra còn có người chị gái Trần Anh làm việc tại phòng lưu trữ trạm cung ứng. Cả gia đình vô cùng đầm ấm, hạnh phúc, và Trần Thiện vốn cũng sẽ bước theo con đường của thế hệ đi trước để quay về làm việc trong hệ thống dầu mỏ. Thế nhưng, một tai nạn nổ đường ống khí đốt bất ngờ đã thay đổi quỹ đạo cuộc đời của tất cả mọi người. Người cha Trần Phúc thiệt mạng trong tai nạn ấy, còn người mẹ Trương Văn Anh trở thành vật tế thần trong cuộc đấu đá nội bộ của hệ thống dầu mỏ. Không chịu nổi đả kích, Trần Thiện một mình rời nhà, đến làm việc tại đội cứu hộ để kiếm sống qua ngày. Đến năm 2001, hệ thống dầu mỏ Tây Nam bắt kịp chuyến tàu tốc hành phát triển kinh tế, nhà nhà đều có cuộc sống sung túc như tầng lớp trung lưu. Trần Thiện trở thành \"Thiện gia\" — người đứng đầu đội thi công, nhưng anh lại tự giam cầm bản thân mình ở những năm tháng ấy như một cái xác không hồn. Và rồi, anh tình cờ chạm mặt... một vụ án nổ tai nạn tương tự, cùng vị Viện trưởng Viện thiết kế từng thất bại trong cuộc chiến phe phái năm xưa..."
         },
         {
-            "name": "Gả Kim Thoa / Gả trâm vàng",
-            "year": 2026,
-            "slug": "ga-kim-thoa-ga-tram-vang",
-            "thumb": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "33",
-            "country": "Trung Quốc",
-            "description": "A Sửu vốn là thiếu nữ đổ phân ban đêm trên phố có thân phận thấp hèn, bị mọi người chà đạp và bắt nạt. Chỉ vì có khuôn mặt giống hệt tiểu thư Ngụy Nhiêu của Hầu Phủ, cô bất ngờ trở thành tân nương xung hỷ cho thế tử Lục Trạc của Quốc Công Phủ. A Sửu ôm đầy tham vọng, một lòng tranh thủ cơ hội để leo cao, nhưng phu quân mới cưới đang gần đất xa trời đột nhiên tỉnh lại, âm mưu tu hú chiếm tổ dẫn đến nhiều tai họa liên tiếp. Ngụy Nhiêu hận cô chiếm chỗ của mình, nôn nóng muốn trừ khử cô; Lục Trạc coi cô là người phụ nữ độc địa, tìm mọi cách phòng bị trước các toan tính. Quốc Công Phủ bề ngoài trông hòa thuận êm ấm, thực ra đầy rẫy cạm bẫy, nguy hiểm bủa vây. A Sửu nỗ lực xoay sở giữa cơn sóng ngầm, mưu tính con đường phía trước, vùng vẫy thoát khỏi xiềng xích của số phận, hơn nữa còn điều tra ra bí mật về thân thế của mình, cuối cùng cũng được đoàn tụ với người thân yêu nhất, đang từ cô gái đổ phân thấp hèn lội ngược dòng vươn lên cao, sống cuộc đời gấm hoa rực rỡ."
-        },
-        {
             "name": "Không Thể Đến Gần Anh Ấy",
             "year": 2026,
             "slug": "khong-the-den-gan-anh-ay",
@@ -1807,16 +1807,16 @@
             "description": "Diễn viên múa ba lê chính Lạc Tích Vũ sau khi gặp tai nạn xe hơi đã xuyên không về năm 2014 và gặp \"học sinh cá biệt\" Hạ Lan. Lạc Tích Vũ phát hiện ra mình và Hạ Lan đã bị ràng buộc sinh tử với nhau. Chỉ cần hai người yêu nhau là sẽ lại chết một lần nữa. Cả hai đã liên tục rơi vào vòng lặp, ở mỗi thời không mới lại gặp nhau và yêu nhau. Hai người quyết định tự tay tìm ra hung thủ để chấm dứt tất cả chuyện này."
         },
         {
-            "name": "Mị Ảnh Thần Bộ (Phần 1)",
+            "name": "Yêu Một Kẻ Ngốc",
             "year": 2026,
-            "slug": "mi-anh-than-bo-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (30/30)",
-            "total_episodes": "30",
+            "slug": "yeu-mot-ke-ngoc",
+            "thumb": "https://phimimg.com/uploads/movies/20261010/yeu-mot-ke-ngoc-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261010/yeu-mot-ke-ngoc-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 3",
+            "total_episodes": "20",
             "country": "Trung Quốc",
-            "description": "Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc gia diệt vong Li La nay hồi sinh với \"Ngũ Tuyệt Quỷ Thuật\", tạo ra hàng loạt vụ án bí ẩn kinh hoàng. May mắn thay, trong Thần Bộ Ti trực thuộc hoàng quyền, nhóm anh hùng do Lê Tư dẫn đầu vì bảo vệ giang sơn xã tắc, vì sự bình yên của muôn dân đã dũng cảm mở màn cuộc chiến sinh tử với tàn dư của Li La. Thần Bộ Ti vang danh thiên hạ, mang trong mình nhiệt huyết và lòng chính nghĩa, dù nghịch cảnh vẫn cầm đuốc soi đường, từng bước vén màn sương mù, tiến gần đến chân tướng. Chín cỗ quan tài chứa chín thiếu nữ khô héo, bị rút cạn máu mà chết, thê thảm vô cùng. Những cô gái vô tội ấy vì sao mà phải bỏ mạng? Ở sâu trong khu rừng PHắc Phong thần bí, cây ăn thịt người Thiên Ma La dùng 36 đứa trẻ mang dương khí cực thịnh làm thức ăn. Giữa rừng hoa nơi thân người bọc thành kén, lại tỏa ra hương xương khô được luyện từ máu các thiếu nữ. Trong hồ lớn của phủ Đông Nam Thuyền vương, rừng xác trôi nổi lênh đênh; cậu bé ngốc biến thành người sói dưới ánh trăng; lão thần đã cáo quan công khai phi thăng thành tiên trước mắt mọi người; dân làng trong thôn lập tức biến thành những kẻ khát máu; hoàng thái tôn đã chết nhiều ngày lại có thể cử động như thường…. Tội ác của Li La chồng chất ngút trời, đội thần bộ nhất định sẽ đưa chúng ra trước công lý, trả lại thái bình cho vương triều Đại Thế và cuộc sống an yên cho muôn dân!"
+            "description": "Ing — người thừa kế vô cùng tự tin của Tập đoàn Araya — tình cờ gặp gỡ Yok, người thừa kế của một gia đình quý tộc lâu đời, thông qua Itt (em cùng cha khác mẹ của Ing và cũng là bạn của Yok). Lấy cớ bàn chuyện công việc, Ing liên tục tìm mọi cách để bước vào cuộc sống của Yok. Thế rồi, trong một đêm hỗn loạn chìm đắm trong men rượu, cả hai vượt qua giới hạn và trở nên thân mật, khiến tình cảm mà Yok dành cho Ing dần dần thay đổi. Khi tình yêu bắt đầu chớm nở giữa họ, Ing hoàn toàn không hề hay biết rằng bản thân đã bước vào một cái bẫy do chính Yok giăng sẵn."
         }
     ],
     "le_au_my": [
@@ -2925,28 +2925,28 @@
             "description": "Giữa Trường An tráng lệ và kỳ ảo dưới triều Đường, nơi những cỗ máy cơ khí tinh xảo hòa quyện cùng mái ngói cong vút, con người và yêu quái cùng chung sống. Địch Thiếu, thiếu niên thiên tài luôn mơ ước trở thành “Đại Thám Tử Số Một Trường An”, sở hữu khả năng suy luận sắc bén cùng tài ăn nói hơn người. Đồng hành cùng cậu là A Sa, tân binh yêu sói của đội tuần tra, giỏi võ nhưng mang trong mình trái tim lương thiện. Một vụ án mạng bí ẩn bất ngờ khiến đôi oan gia này phải hợp tác. Vừa đấu khẩu, vừa phối hợp phá án, cả hai dấn thân vào hành trình điều tra đầy bất ngờ và hiểm nguy. Khi mọi manh mối đều dẫn về trung tâm Trường An, liệu họ có thể bảo vệ sự bình yên của thành? Và đằng sau vẻ phồn hoa của Trường An đang ẩn giấu bí mật kinh thiên động địa nào?"
         },
         {
-            "name": "Tuý Mộng",
+            "name": "Gả Kim Thoa / Gả trâm vàng",
             "year": 2026,
-            "slug": "tuy-mong",
-            "thumb": "https://phimimg.com/uploads/movies/20261017/tuy-mong-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261017/tuy-mong-poster.webp",
+            "slug": "ga-kim-thoa-ga-tram-vang",
+            "thumb": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "18",
+            "current_episode": "Tập 6",
+            "total_episodes": "33",
             "country": "Trung Quốc",
-            "description": "Nhiều năm trước, phóng viên Thẩm Lạc Thủy từng ghi lại cuộc sống của những công nhân tại nhà máy bia cũ ở thành phố La Thành. Giờ đây, cô trở lại La Thành, một lần nữa cầm máy quay để khám phá những góc khuất đã dần bị thời gian lãng quên. Tào Quân, Đồ Xuân Diễm, Tiền Nghĩa Xuyên, Trình Hữu Điền… từng là những nhân vật chính trong các thước phim của cô, nhưng theo dòng chảy năm tháng, mỗi người lại trải qua những thăng trầm, biến cố số phận khác nhau. Câu chuyện của họ tựa như những bí ẩn bị thời gian giấu kín. Lần theo những dấu vết đan xen giữa quá khứ và hiện tại, Thẩm Lạc Thủy từng bước đem những chuyện cũ đã bị chôn vùi suốt bao năm ra ánh sáng."
+            "description": "A Sửu vốn là thiếu nữ đổ phân ban đêm trên phố có thân phận thấp hèn, bị mọi người chà đạp và bắt nạt. Chỉ vì có khuôn mặt giống hệt tiểu thư Ngụy Nhiêu của Hầu Phủ, cô bất ngờ trở thành tân nương xung hỷ cho thế tử Lục Trạc của Quốc Công Phủ. A Sửu ôm đầy tham vọng, một lòng tranh thủ cơ hội để leo cao, nhưng phu quân mới cưới đang gần đất xa trời đột nhiên tỉnh lại, âm mưu tu hú chiếm tổ dẫn đến nhiều tai họa liên tiếp. Ngụy Nhiêu hận cô chiếm chỗ của mình, nôn nóng muốn trừ khử cô; Lục Trạc coi cô là người phụ nữ độc địa, tìm mọi cách phòng bị trước các toan tính. Quốc Công Phủ bề ngoài trông hòa thuận êm ấm, thực ra đầy rẫy cạm bẫy, nguy hiểm bủa vây. A Sửu nỗ lực xoay sở giữa cơn sóng ngầm, mưu tính con đường phía trước, vùng vẫy thoát khỏi xiềng xích của số phận, hơn nữa còn điều tra ra bí mật về thân thế của mình, cuối cùng cũng được đoàn tụ với người thân yêu nhất, đang từ cô gái đổ phân thấp hèn lội ngược dòng vươn lên cao, sống cuộc đời gấm hoa rực rỡ."
         },
         {
-            "name": "Bác Sĩ X",
+            "name": "100 Ngày Lừa Dối",
             "year": 2026,
-            "slug": "bac-si-x",
-            "thumb": "https://phimimg.com/uploads/movies/20261010/bac-si-x-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261010/bac-si-x-poster.webp",
+            "slug": "100-ngay-lua-doi",
+            "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Tập 3",
-            "total_episodes": "12",
+            "total_episodes": "16",
             "country": "Hàn Quốc",
-            "description": "Ở một bệnh viện nơi cái tôi và tham nhũng lộng hành, một bác sĩ phẫu thuật bí ẩn nhưng tài năng xuất hiện – nhận những ca tưởng chừng bất khả thi bất chấp sự phản đối quyết liệt."
+            "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
         },
         {
             "name": "Yêu Nhân Thần Thám: Kỳ Án Trường An",
@@ -2985,28 +2985,28 @@
             "description": "Tại Hope Harbor, một ngôi làng hẻo lánh nằm gần khu vực phi quân sự, cảnh sát trưởng Bum-seok đã nhận được tin báo khẩn cấp từ người dân địa phương về sự xuất hiện của một con hổ. Khi cả ngôi làng chìm trong hoảng loạn, Bum-seok ngỡ ngàng khi phát hiện một sự thật nằm ngoài sức tưởng tượng của con người."
         },
         {
-            "name": "Ngày Bạn Thân Giàu Có Chẳng Còn Xa",
+            "name": "Tuý Mộng",
             "year": 2026,
-            "slug": "ngay-ban-than-giau-co-chang-con-xa",
-            "thumb": "https://phimimg.com/uploads/movies/20261017/ngay-ban-than-giau-co-chang-con-xa-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261017/ngay-ban-than-giau-co-chang-con-xa-poster.webp",
+            "slug": "tuy-mong",
+            "thumb": "https://phimimg.com/uploads/movies/20261017/tuy-mong-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261017/tuy-mong-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "24",
+            "current_episode": "Tập 3",
+            "total_episodes": "18",
             "country": "Trung Quốc",
-            "description": "Đôi bạn thân thời hiện đại Điền Úc Viên và Lâm Thư Điều vô tình xuyên vào một cuốn tiểu thuyết đấu đá gia đình, trở thành hai chị em dâu thế mạng sắp bị hãm hại trên thuyền hoa, chết thảm ngay trong đêm tân hôn. Hai người bắt tay nhau vạch trần những âm mưu và cạm bẫy liên hoàn của chị dâu cả và cô con gái nuôi Thẩm Uyển Uyển để kiếm tiền tìm đường sống. Thế tử lạnh lùng Thẩm Trình bị trúng loại độc kỳ lạ, cần máu của nữ chính để duy trì mạng sống. Tam thiếu gia ăn chơi Thẩm Hòa âm thầm có chí hướng làm ngỗ tác. Tình cảm của hai cặp đôi dần nảy nở. Nữ chính nguyên tác Tống Chương trọng sinh cùng Tam hoàng tử mưu phản liên tục gây khó dễ, khiến bốn người phải bắt tay điều tra vụ án cũ Kỳ Vân Quan, tìm ra nhân chứng bị hàm oan, vạch trần tội ác tày trời của hoàng tử, rửa sạch tiếng xấu cho cả nhà họ Thẩm. Cuối cùng, họ thoát khỏi số phận bi kịch đã định sẵn, cùng nhau sống những ngày tháng bình yên."
+            "description": "Nhiều năm trước, phóng viên Thẩm Lạc Thủy từng ghi lại cuộc sống của những công nhân tại nhà máy bia cũ ở thành phố La Thành. Giờ đây, cô trở lại La Thành, một lần nữa cầm máy quay để khám phá những góc khuất đã dần bị thời gian lãng quên. Tào Quân, Đồ Xuân Diễm, Tiền Nghĩa Xuyên, Trình Hữu Điền… từng là những nhân vật chính trong các thước phim của cô, nhưng theo dòng chảy năm tháng, mỗi người lại trải qua những thăng trầm, biến cố số phận khác nhau. Câu chuyện của họ tựa như những bí ẩn bị thời gian giấu kín. Lần theo những dấu vết đan xen giữa quá khứ và hiện tại, Thẩm Lạc Thủy từng bước đem những chuyện cũ đã bị chôn vùi suốt bao năm ra ánh sáng."
         },
         {
-            "name": "Hương Vị Của Biển (Mùa 3)",
+            "name": "Bác Sĩ X",
             "year": 2026,
-            "slug": "huong-vi-cua-bien-mua-3",
-            "thumb": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-poster.webp",
+            "slug": "bac-si-x",
+            "thumb": "https://phimimg.com/uploads/movies/20261010/bac-si-x-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261010/bac-si-x-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (11/11)",
-            "total_episodes": "11",
+            "current_episode": "Tập 4",
+            "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
+            "description": "Ở một bệnh viện nơi cái tôi và tham nhũng lộng hành, một bác sĩ phẫu thuật bí ẩn nhưng tài năng xuất hiện – nhận những ca tưởng chừng bất khả thi bất chấp sự phản đối quyết liệt."
         },
         {
             "name": "Tiên Nghịch Movie: Thí Tiên Chi Chiến",
@@ -3045,28 +3045,28 @@
             "description": "Khi một vụ lừa đảo qua điện thoại bất ngờ xảy ra, Đặng Thức - người từng nghĩ mình có một cuộc sống ổn định - bị cuốn vào vòng xoáy nguy hiểm của tiền bạc, gia đình và lòng tin, nơi mọi lựa chọn đều phải trả giá không chỉ bằng sự giàu có mà còn bằng cả những người anh yêu thương nhất."
         },
         {
-            "name": "Sở Ly",
+            "name": "Ngày Bạn Thân Giàu Có Chẳng Còn Xa",
             "year": 2026,
-            "slug": "so-ly",
-            "thumb": "https://phimimg.com/uploads/movies/20261008/so-ly-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261008/so-ly-poster.webp",
+            "slug": "ngay-ban-than-giau-co-chang-con-xa",
+            "thumb": "https://phimimg.com/uploads/movies/20261017/ngay-ban-than-giau-co-chang-con-xa-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261017/ngay-ban-than-giau-co-chang-con-xa-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 18",
+            "current_episode": "Tập 8",
             "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Tướng quân nước Tần Bạch Khởi đánh thành khiến ba mươi vạn bách tính Sính Đô của nước Sở bỏ mạng. Vu nữ Sở Ly thi triển \"Sở Phong Dẫn\" xoay chuyển thời gian, nhưng lại bị Tống Tử Uyên, một người vốn chẳng hề quen biết, giết chết bằng một nhát kiếm. Cả hai cùng tái sinh về thời điểm 49 ngày trước đó. Để giải cứu bách tính, họ buộc phải ràng buộc với nhau, cùng trải qua hàng loạt sự việc kỳ quái. Từ đây, mối duyên nợ từ nhiều kiếp trước của hai người dần dần hé lộ."
+            "description": "Đôi bạn thân thời hiện đại Điền Úc Viên và Lâm Thư Điều vô tình xuyên vào một cuốn tiểu thuyết đấu đá gia đình, trở thành hai chị em dâu thế mạng sắp bị hãm hại trên thuyền hoa, chết thảm ngay trong đêm tân hôn. Hai người bắt tay nhau vạch trần những âm mưu và cạm bẫy liên hoàn của chị dâu cả và cô con gái nuôi Thẩm Uyển Uyển để kiếm tiền tìm đường sống. Thế tử lạnh lùng Thẩm Trình bị trúng loại độc kỳ lạ, cần máu của nữ chính để duy trì mạng sống. Tam thiếu gia ăn chơi Thẩm Hòa âm thầm có chí hướng làm ngỗ tác. Tình cảm của hai cặp đôi dần nảy nở. Nữ chính nguyên tác Tống Chương trọng sinh cùng Tam hoàng tử mưu phản liên tục gây khó dễ, khiến bốn người phải bắt tay điều tra vụ án cũ Kỳ Vân Quan, tìm ra nhân chứng bị hàm oan, vạch trần tội ác tày trời của hoàng tử, rửa sạch tiếng xấu cho cả nhà họ Thẩm. Cuối cùng, họ thoát khỏi số phận bi kịch đã định sẵn, cùng nhau sống những ngày tháng bình yên."
         },
         {
-            "name": "Trò Chơi Bắt Cóc (Phần 1)",
+            "name": "Hương Vị Của Biển (Mùa 3)",
             "year": 2026,
-            "slug": "tro-choi-bat-coc-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
+            "slug": "huong-vi-cua-bien-mua-3",
+            "thumb": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
+            "current_episode": "Hoàn Tất (11/11)",
             "total_episodes": "11",
-            "country": "Nhật Bản",
-            "description": "Bộ phim xoay quanh một loạt các vụ bắt cóc đồng loạt tại 7 thành phố lớn ở châu Á (Tokyo, Seoul, Đài Bắc, Singapore, Bangkok, Naha, Manila), buộc các gia đình phải tham gia vào một trò chơi sinh tử thông qua các chỉ thị từ một email bí ẩn."
+            "country": "Hàn Quốc",
+            "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
         },
         {
             "name": "Mononoke – Phim điện ảnh: Chương III – Lời nguyền của rắn",
