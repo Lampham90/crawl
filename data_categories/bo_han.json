@@ -1,5 +1,29 @@
 [
     {
+        "name": "Thợ Rèn Huyền Thoại",
+        "year": 2026,
+        "slug": "tho-ren-huyen-thoai",
+        "thumb": "https://phimimg.com/uploads/movies/20261004/tho-ren-huyen-thoai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261004/tho-ren-huyen-thoai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Thoát khỏi cuộc sống thường nhật ảm đạm trong SATISFY — một trò chơi thực tế ảo nơi người chơi có thể gặt hái danh vọng cùng tiền tài ngoài đời thực. Tuy nhiên, một người chơi tên Grid dường như chưa từng gặp may mắn trong cả game lẫn cuộc sống đời thực. Mọi thứ chỉ hoàn toàn thay đổi khi một nhiệm vụ đầy thử thách đã dẫn lối đưa anh trở thành người thừa kế của một thợ rèn huyền thoại. Dù toàn bộ chỉ số bị đưa về số 0, anh vẫn đang thăng cấp thần tốc và tự tay chế tạo ra những trang bị cấp thần vô cùng bá đạo."
+    },
+    {
+        "name": "100 Ngày Lừa Dối",
+        "year": 2026,
+        "slug": "100-ngay-lua-doi",
+        "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "16",
+        "country": "Hàn Quốc",
+        "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
+    },
+    {
         "name": "Chìm Vào Mắt Em (Phần 1)",
         "year": 2026,
         "slug": "chim-vao-mat-em-phan-1",
@@ -34,18 +58,6 @@
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Cửa hàng bánh gạo vũ trụ ra đời sau khi Lee Eun Ji, Mimi, Lee Young Ji và An Yu Jin thua cuộc trong nhiệm vụ thoát khỏi phòng kín của Torong. Hình phạt là các cô nàng phải cùng nhau làm việc tại một cửa hàng bánh gạo, thức dậy lúc 5 giờ sáng và vật lộn buôn bán."
-    },
-    {
-        "name": "100 Ngày Lừa Dối",
-        "year": 2026,
-        "slug": "100-ngay-lua-doi",
-        "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "16",
-        "country": "Hàn Quốc",
-        "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
     },
     {
         "name": "Bác Sĩ X",
@@ -154,18 +166,6 @@
         "total_episodes": "10",
         "country": "Hàn Quốc",
         "description": "Giác Quan Thứ Sáu trở lại với phiên bản hoàn toàn mới, truy tìm những thứ giả mạo ở những địa điểm khác thường và gặp gỡ những con người thú vị. Liệu giác quan nhạy bén của MC quốc dân Yoo Jae Suk, diễn viên hài Song Eun Yi, tài tử Go Kyung Pyo và BIBI có phanh phui được những thật giả lẫn lộn này?"
-    },
-    {
-        "name": "Thợ Rèn Huyền Thoại",
-        "year": 2026,
-        "slug": "tho-ren-huyen-thoai",
-        "thumb": "https://phimimg.com/uploads/movies/20261004/tho-ren-huyen-thoai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261004/tho-ren-huyen-thoai-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "12",
-        "country": "Nhật Bản",
-        "description": "Thoát khỏi cuộc sống thường nhật ảm đạm trong SATISFY — một trò chơi thực tế ảo nơi người chơi có thể gặt hái danh vọng cùng tiền tài ngoài đời thực. Tuy nhiên, một người chơi tên Grid dường như chưa từng gặp may mắn trong cả game lẫn cuộc sống đời thực. Mọi thứ chỉ hoàn toàn thay đổi khi một nhiệm vụ đầy thử thách đã dẫn lối đưa anh trở thành người thừa kế của một thợ rèn huyền thoại. Dù toàn bộ chỉ số bị đưa về số 0, anh vẫn đang thăng cấp thần tốc và tự tay chế tạo ra những trang bị cấp thần vô cùng bá đạo."
     },
     {
         "name": "Nạp Đầy Trái Tim",
