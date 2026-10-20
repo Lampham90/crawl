@@ -183,6 +183,18 @@
     ],
     "anime_nhat": [
         {
+            "name": "Bleach: Huyết Chiến Ngàn Năm - Kiếp Nạn",
+            "year": 2026,
+            "slug": "bleach-huyet-chien-ngan-nam-kiep-nan",
+            "thumb": "https://phimimg.com/uploads/movies/20260726/bleach-huyet-chien-ngan-nam-kiep-nan-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260726/bleach-huyet-chien-ngan-nam-kiep-nan-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 9",
+            "total_episodes": "10",
+            "country": "Nhật Bản",
+            "description": "Cuộc đại chiến giữa các Thần Chết và đế chế Quincy bước vào giai đoạn khốc liệt nhất khi những trận chiến sinh tử liên tiếp nổ ra. Ichigo Kurosaki cùng các đồng đội phải đối mặt với những kẻ thù sở hữu sức mạnh vượt ngoài tưởng tượng để bảo vệ cả hai thế giới. Trong khi đó, những bí mật về quá khứ, số phận và nguồn gốc sức mạnh dần được hé lộ, làm thay đổi cục diện cuộc chiến. Mỗi quyết định đều phải trả giá bằng sự hy sinh, đẩy các chiến binh đến giới hạn của bản thân."
+        },
+        {
             "name": "Xin Chào, Tôi Là Một Phù Thủy, Và Người Tôi Thầm Yêu Muốn Tôi Pha Chế Một Loại Thuốc Tình Yêu!",
             "year": 2026,
             "slug": "xin-chao-toi-la-mot-phu-thuy-va-nguoi-toi-tham-yeu-muon-toi-pha-che-mot-loai-thuoc-tinh-yeu",
@@ -349,18 +361,6 @@
             "total_episodes": "24",
             "country": "Nhật Bản",
             "description": "Ashito Aoi là một cầu thủ bóng đá trẻ, đầy khát vọng đến từ một thị trấn vùng nông thôn ở Nhật Bản. Hy vọng vào được một trường trung học với một câu lạc bộ bóng đá giỏi đã tan thành mây khói khi anh gây ra một sự cố trong một trận đấu quan trọng cho đội của mình, dẫn đến việc họ bị loại khỏi giải đấu. Tuy nhiên, anh đã lọt vào mắt xanh của một người quan trọng tình cờ đến thăm từ Tokyo. Mọi chuyện sẽ diễn ra như thế nào đối với Ashito?"
-        },
-        {
-            "name": "Diamond no Ace: Act II Second Season",
-            "year": 2026,
-            "slug": "diamond-no-ace-act-ii-second-season",
-            "thumb": "https://phimimg.com/upload/vod/20260607-1/778307513fbf25ae8a78de3442f789d4.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260607-1/604371171975f9a66cd31c831b352816.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 15",
-            "total_episodes": "24",
-            "country": "Nhật Bản",
-            "description": "Tiếp tục vòng loại mùa hè trên con đường trưởng thành của Ace Sawamura."
         }
     ],
     "hh_trung_quoc": [
