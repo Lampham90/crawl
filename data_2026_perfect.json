@@ -183,6 +183,18 @@
     ],
     "anime_nhat": [
         {
+            "name": "Thám Tử Đã Chết (Phần 2)",
+            "year": 2026,
+            "slug": "tham-tu-da-chet-phan-2",
+            "thumb": "https://phimimg.com/uploads/movies/20261009/tham-tu-da-chet-phan-2-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261009/tham-tu-da-chet-phan-2-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 3",
+            "total_episodes": "13",
+            "country": "Nhật Bản",
+            "description": "Sau khi cùng nữ thám tử tóc bạc Siesta ngăn chặn vụ không tặc, Kimihiko sống cuộc đời phiêu lưu phá án khắp thế giới — cho đến khi Siesta qua đời; một năm sau, một vụ án mới khơi lại vết thương cũ, đan xen giữa giết người, âm mưu và người cộng sự đã khuất."
+        },
+        {
             "name": "Cyberpunk Edgerunners (Phần 2)",
             "year": 2026,
             "slug": "cyberpunk-edgerunners-phan-2",
@@ -349,18 +361,6 @@
             "total_episodes": "12",
             "country": "Nhật Bản",
             "description": "Sau cuộc xung đột căng thẳng với Tenjiku-hen, Takemichi đã đạt được một tương lai nơi Hinata được cứu sống. Tuy nhiên, Mikey lại biến mất trong quá khứ thuộc \"Kỷ nguyên Tam Thiên\". Phần phim này sẽ thích ứng từ chương 186 của manga trở đi, xoay quanh cuộc đại chiến nảy lửa giữa ba thế lực băng đảng lớn nhất để giành quyền bá chủ."
-        },
-        {
-            "name": "Khi Tôi Tái Sinh Thành Nhân Vật Phụ Mạnh Nhất / Chuyển Sinh Thành Nhân Vật Phụ Trong Game Người Lớn",
-            "year": 2026,
-            "slug": "khi-toi-tai-sinh-thanh-nhan-vat-phu-manh-nhat-chuyen-sinh-thanh-nhan-vat-phu-trong-game-nguoi-lon",
-            "thumb": "https://phimimg.com/uploads/movies/20261011/khi-toi-tai-sinh-thanh-nhan-vat-phu-manh-nhat-chuyen-sinh-thanh-nhan-vat-phu-trong-game-nguoi-lon-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261011/khi-toi-tai-sinh-thanh-nhan-vat-phu-manh-nhat-chuyen-sinh-thanh-nhan-vat-phu-trong-game-nguoi-lon-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "13",
-            "country": "Nhật Bản",
-            "description": "Một chàng trai vô tình bị chuyển sinh vào thế giới của \"Magiero\" – một tựa game hẹn hò giả tưởng vô cùng đình đám. Trớ trêu thay, thay vì trở thành nam chính đào hoa sở hữu dàn harem 24 mỹ nhân cùng sức mạnh bá đạo, cậu lại thức tỉnh trong thân xác của Kousuke Takioto, một nhân vật phụ làm nền chuyên đi cười cợt bên cạnh nam chính. Tuy nhiên, thay vì cam chịu số phận và bỏ mặc dàn nữ chính, Kousuke quyết định tận dụng kiến thức uyên thâm về trò chơi của mình để rèn luyện ma thuật, chinh phục các hầm ngục và phấn đấu trở thành người mạnh nhất."
         }
     ],
     "hh_trung_quoc": [
@@ -1275,13 +1275,25 @@
     ],
     "bo_han": [
         {
+            "name": "Trò Chơi Bắt Cóc (Phần 1)",
+            "year": 2026,
+            "slug": "tro-choi-bat-coc-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 3",
+            "total_episodes": "11",
+            "country": "Nhật Bản",
+            "description": "Bộ phim xoay quanh một loạt các vụ bắt cóc đồng loạt tại 7 thành phố lớn ở châu Á (Tokyo, Seoul, Đài Bắc, Singapore, Bangkok, Naha, Manila), buộc các gia đình phải tham gia vào một trò chơi sinh tử thông qua các chỉ thị từ một email bí ẩn."
+        },
+        {
             "name": "Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Phần 1)",
             "year": 2026,
             "slug": "tung-buoc-ben-nhau-tien-si-yeu-duong-phan-1",
             "thumb": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 5",
+            "current_episode": "Tập 6",
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Min jae từng là vận động viên bơi lội thời trung học, cho đến khi bệnh tật khiến anh mất đi một chân. Giờ đây là nghiên cứu sinh tiến sĩ ngành người máy, anh tỏ ra là một người không màng thế sự—nhưng vẫn còn đó một khao khát giản đơn, nhức nhối: được yêu. Anh suy nghĩ quá nhiều và sợ bị tổn thương, cho đến một ngày, đúng người xuất hiện. Yujin đã từ bỏ chuyên ngành thời trang, lạc lối không có phương hướng rõ ràng, cho đến khi Minjae mở ra trước mắt cô thế giới người máy—và một giấc mơ mới. Mọi thứ về nó đều xa lạ và khó khăn, nhưng tình cảm cô dành cho anh chưa bao giờ dao động. Tia lửa ngay từ cái nhìn đầu tiên làm xáo trộn phòng thí nghiệm yên tĩnh, và sự theo đuổi không sợ hãi của Yujin đã phá vỡ lớp vỏ bọc bảo vệ trái tim Minjae. Dần dần, cả hai xích lại gần nhau hơn. Rắc rối và khó đoán hơn bất kỳ cỗ máy nào, một mối tình lãng mạn bắt đầu—mãnh liệt, ngọt ngào đắng cay và dịu dàng."
@@ -1369,18 +1381,6 @@
             "total_episodes": "11",
             "country": "Hàn Quốc",
             "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
-        },
-        {
-            "name": "Trò Chơi Bắt Cóc (Phần 1)",
-            "year": 2026,
-            "slug": "tro-choi-bat-coc-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "11",
-            "country": "Nhật Bản",
-            "description": "Bộ phim xoay quanh một loạt các vụ bắt cóc đồng loạt tại 7 thành phố lớn ở châu Á (Tokyo, Seoul, Đài Bắc, Singapore, Bangkok, Naha, Manila), buộc các gia đình phải tham gia vào một trò chơi sinh tử thông qua các chỉ thị từ một email bí ẩn."
         },
         {
             "name": "Dâu Tây Ngọt Ngào (Phần 1)",
@@ -2373,10 +2373,22 @@
             "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 27",
+            "current_episode": "Tập 28",
             "total_episodes": "30",
             "country": "Thái Lan",
             "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
+        },
+        {
+            "name": "Phía Sau Dối Trá",
+            "year": 2026,
+            "slug": "phia-sau-doi-tra",
+            "thumb": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 5",
+            "total_episodes": "16",
+            "country": "Thái Lan",
+            "description": "Thân như anh em ruột dù chẳng phải máu mủ, Rawee và Phakorn bị tình yêu cùng sự dối trá chia cắt. Khi Phakorn ngã bệnh, Rawee hy sinh tất cả – và phải trả một cái giá quá đắt."
         },
         {
             "name": "Liệu Pháp Chết Người (Phần 1)",
@@ -2401,18 +2413,6 @@
             "total_episodes": "24",
             "country": "Thái Lan",
             "description": "Một người nổi tiếng có tầm ảnh hưởng chuẩn bị kết hôn với anh bạn trai chân chất. Nhưng cặp đôi một lần nữa phải chứng minh tình yêu của mình khi cặp nhẫn đưa họ quay về quá khứ."
-        },
-        {
-            "name": "Phía Sau Dối Trá",
-            "year": 2026,
-            "slug": "phia-sau-doi-tra",
-            "thumb": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "16",
-            "country": "Thái Lan",
-            "description": "Thân như anh em ruột dù chẳng phải máu mủ, Rawee và Phakorn bị tình yêu cùng sự dối trá chia cắt. Khi Phakorn ngã bệnh, Rawee hy sinh tất cả – và phải trả một cái giá quá đắt."
         },
         {
             "name": "Bùa Ngải Trói Buộc / Trấn Yểm",
@@ -2555,7 +2555,7 @@
             "thumb": "https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-thumb.webp",
             "poster": "https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-poster.webp",
             "sub_type": "Lồng Tiếng",
-            "current_episode": "Tập 7",
+            "current_episode": "Tập 8",
             "total_episodes": "20",
             "country": "Hồng Kông",
             "description": "Thành Phố Rực Rỡ xoay quanh cuộc chiến tranh giành quyền lực giữa Quan Hiếu Hiền và Quan Hiếu Quân, hai người con trai của ông trùm quyền lực Quan Chí Sâm. Để triệt hạ Hiếu Quân và vợ là Vương Tuyết Oánh, Hiếu Hiền tuyên bố kết hôn với nữ công tố viên Hồng Hải Uyên. Trong quá khứ, Hải Uyên từng quen Hiếu Quân nhưng lại bị cô bạn thân Tuyết Oánh cướp đi tình yêu. Hiếu Hiền muốn lợi dụng mối hận trong lòng Hải Uyên, biến nó thành vũ khí để đối phó với vợ chồng Hiếu Quân. Giữa một gia đình mà ai cũng mang trong lòng những toan tính riêng, chiến thắng cuối cùng sẽ thuộc về tay ai?"
@@ -2937,16 +2937,16 @@
             "description": "Vì muốn đòi lại công bằng cho cha, Dư Tụng bước chân vào nhà họ Tống với thân phận trợ lý. Bằng sự chân thành, cô dần chiếm được lòng tin của Tống Trừng, đồng thời liên minh với tài xế Tĩnh để cùng thu thập chứng cứ, vạch trần những tội ác của nhà họ Tống trước công chúng. Thế nhưng, Dư Tụng không để lòng thù hận nuốt chửng, cô quyết tâm thoát khỏi những xiềng xích của quá khứ và nhận ra rằng chiến thắng thực sự là giành lại quyền làm chủ cuộc đời mình. Cuối cùng, cô trở lại làm chính mình, hướng về tương lai tươi sáng."
         },
         {
-            "name": "Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Phần 1)",
+            "name": "Trò Chơi Bắt Cóc (Phần 1)",
             "year": 2026,
-            "slug": "tung-buoc-ben-nhau-tien-si-yeu-duong-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-poster.webp",
+            "slug": "tro-choi-bat-coc-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 5",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Min jae từng là vận động viên bơi lội thời trung học, cho đến khi bệnh tật khiến anh mất đi một chân. Giờ đây là nghiên cứu sinh tiến sĩ ngành người máy, anh tỏ ra là một người không màng thế sự—nhưng vẫn còn đó một khao khát giản đơn, nhức nhối: được yêu. Anh suy nghĩ quá nhiều và sợ bị tổn thương, cho đến một ngày, đúng người xuất hiện. Yujin đã từ bỏ chuyên ngành thời trang, lạc lối không có phương hướng rõ ràng, cho đến khi Minjae mở ra trước mắt cô thế giới người máy—và một giấc mơ mới. Mọi thứ về nó đều xa lạ và khó khăn, nhưng tình cảm cô dành cho anh chưa bao giờ dao động. Tia lửa ngay từ cái nhìn đầu tiên làm xáo trộn phòng thí nghiệm yên tĩnh, và sự theo đuổi không sợ hãi của Yujin đã phá vỡ lớp vỏ bọc bảo vệ trái tim Minjae. Dần dần, cả hai xích lại gần nhau hơn. Rắc rối và khó đoán hơn bất kỳ cỗ máy nào, một mối tình lãng mạn bắt đầu—mãnh liệt, ngọt ngào đắng cay và dịu dàng."
+            "current_episode": "Tập 3",
+            "total_episodes": "11",
+            "country": "Nhật Bản",
+            "description": "Bộ phim xoay quanh một loạt các vụ bắt cóc đồng loạt tại 7 thành phố lớn ở châu Á (Tokyo, Seoul, Đài Bắc, Singapore, Bangkok, Naha, Manila), buộc các gia đình phải tham gia vào một trò chơi sinh tử thông qua các chỉ thị từ một email bí ẩn."
         },
         {
             "name": "Yêu Nhân Thần Thám: Kỳ Án Trường An",
@@ -2997,16 +2997,16 @@
             "description": "Nhiều năm trước, phóng viên Thẩm Lạc Thủy từng ghi lại cuộc sống của những công nhân tại nhà máy bia cũ ở thành phố La Thành. Giờ đây, cô trở lại La Thành, một lần nữa cầm máy quay để khám phá những góc khuất đã dần bị thời gian lãng quên. Tào Quân, Đồ Xuân Diễm, Tiền Nghĩa Xuyên, Trình Hữu Điền… từng là những nhân vật chính trong các thước phim của cô, nhưng theo dòng chảy năm tháng, mỗi người lại trải qua những thăng trầm, biến cố số phận khác nhau. Câu chuyện của họ tựa như những bí ẩn bị thời gian giấu kín. Lần theo những dấu vết đan xen giữa quá khứ và hiện tại, Thẩm Lạc Thủy từng bước đem những chuyện cũ đã bị chôn vùi suốt bao năm ra ánh sáng."
         },
         {
-            "name": "Tình Yêu Trong Vỏ Bọc / Tình Yêu Ngụy Trang",
+            "name": "Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Phần 1)",
             "year": 2026,
-            "slug": "tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang",
-            "thumb": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-poster.webp",
+            "slug": "tung-buoc-ben-nhau-tien-si-yeu-duong-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 1",
+            "current_episode": "Tập 6",
             "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Tình Yêu Trong Vỏ Bọc (Love in Disguise) là một bộ phim truyền hình hài lãng mạn công sở của Hàn Quốc, với sự tham gia của các diễn viên Yim Si-wan, Seol In-ah, Kim Jung-hyun và Yeonwoo. Dựa trên tiểu thuyết mạng \"Tại Sao Bạn Không Biết Đó Là Con Gái?\""
+            "description": "Min jae từng là vận động viên bơi lội thời trung học, cho đến khi bệnh tật khiến anh mất đi một chân. Giờ đây là nghiên cứu sinh tiến sĩ ngành người máy, anh tỏ ra là một người không màng thế sự—nhưng vẫn còn đó một khao khát giản đơn, nhức nhối: được yêu. Anh suy nghĩ quá nhiều và sợ bị tổn thương, cho đến một ngày, đúng người xuất hiện. Yujin đã từ bỏ chuyên ngành thời trang, lạc lối không có phương hướng rõ ràng, cho đến khi Minjae mở ra trước mắt cô thế giới người máy—và một giấc mơ mới. Mọi thứ về nó đều xa lạ và khó khăn, nhưng tình cảm cô dành cho anh chưa bao giờ dao động. Tia lửa ngay từ cái nhìn đầu tiên làm xáo trộn phòng thí nghiệm yên tĩnh, và sự theo đuổi không sợ hãi của Yujin đã phá vỡ lớp vỏ bọc bảo vệ trái tim Minjae. Dần dần, cả hai xích lại gần nhau hơn. Rắc rối và khó đoán hơn bất kỳ cỗ máy nào, một mối tình lãng mạn bắt đầu—mãnh liệt, ngọt ngào đắng cay và dịu dàng."
         },
         {
             "name": "Tiên Nghịch Movie: Thí Tiên Chi Chiến",
@@ -3057,16 +3057,16 @@
             "description": "Tướng quân nước Tần Bạch Khởi đánh thành khiến ba mươi vạn bách tính Sính Đô của nước Sở bỏ mạng. Vu nữ Sở Ly thi triển \"Sở Phong Dẫn\" xoay chuyển thời gian, nhưng lại bị Tống Tử Uyên, một người vốn chẳng hề quen biết, giết chết bằng một nhát kiếm. Cả hai cùng tái sinh về thời điểm 49 ngày trước đó. Để giải cứu bách tính, họ buộc phải ràng buộc với nhau, cùng trải qua hàng loạt sự việc kỳ quái. Từ đây, mối duyên nợ từ nhiều kiếp trước của hai người dần dần hé lộ."
         },
         {
-            "name": "Giác Quan Thứ Sáu: Mặt Trái",
+            "name": "Tình Yêu Trong Vỏ Bọc / Tình Yêu Ngụy Trang",
             "year": 2026,
-            "slug": "giac-quan-thu-sau-mat-trai",
-            "thumb": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-poster.webp",
+            "slug": "tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang",
+            "thumb": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 5",
-            "total_episodes": "10",
+            "current_episode": "Tập 1",
+            "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Giác Quan Thứ Sáu trở lại với phiên bản hoàn toàn mới, truy tìm những thứ giả mạo ở những địa điểm khác thường và gặp gỡ những con người thú vị. Liệu giác quan nhạy bén của MC quốc dân Yoo Jae Suk, diễn viên hài Song Eun Yi, tài tử Go Kyung Pyo và BIBI có phanh phui được những thật giả lẫn lộn này?"
+            "description": "Tình Yêu Trong Vỏ Bọc (Love in Disguise) là một bộ phim truyền hình hài lãng mạn công sở của Hàn Quốc, với sự tham gia của các diễn viên Yim Si-wan, Seol In-ah, Kim Jung-hyun và Yeonwoo. Dựa trên tiểu thuyết mạng \"Tại Sao Bạn Không Biết Đó Là Con Gái?\""
         },
         {
             "name": "Mononoke – Phim điện ảnh: Chương III – Lời nguyền của rắn",
