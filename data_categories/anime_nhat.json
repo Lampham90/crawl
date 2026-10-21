@@ -1,5 +1,17 @@
 [
     {
+        "name": "Thám Tử Đã Chết (Phần 2)",
+        "year": 2026,
+        "slug": "tham-tu-da-chet-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20261009/tham-tu-da-chet-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261009/tham-tu-da-chet-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "13",
+        "country": "Nhật Bản",
+        "description": "Sau khi cùng nữ thám tử tóc bạc Siesta ngăn chặn vụ không tặc, Kimihiko sống cuộc đời phiêu lưu phá án khắp thế giới — cho đến khi Siesta qua đời; một năm sau, một vụ án mới khơi lại vết thương cũ, đan xen giữa giết người, âm mưu và người cộng sự đã khuất."
+    },
+    {
         "name": "Cyberpunk Edgerunners (Phần 2)",
         "year": 2026,
         "slug": "cyberpunk-edgerunners-phan-2",
@@ -346,17 +358,5 @@
         "total_episodes": "13",
         "country": "Nhật Bản",
         "description": "Fia luôn mơ ước trở thành một hiệp sĩ vĩ đại, bất chấp việc cô thiếu hụt tài năng kiếm thuật. Thế rồi, một lần ranh giới giữa sống và chết trong trận chiến đã thức tỉnh ký ức kiếp trước của cô — người từng là Đại Thánh Nữ huyền thoại đánh bại Ma Vương. Quyền năng to lớn quay trở lại, nhưng cùng với đó là những kẻ thù từng tàn sát cô năm xưa cũng trỗi dậy. Fia thề sẽ giấu kín danh tính thực sự để giữ mạng sống. Thế nhưng, làm sao một hiệp sĩ đầy lòng nhân ái có thể nhắm mắt làm ngơ mà không dùng sức mạnh của mình để cứu giúp những người đang lâm nguy?"
-    },
-    {
-        "name": "Huyết Quỷ Hỗn Chiến (Phần 2)",
-        "year": 2026,
-        "slug": "huyet-quy-hon-chien-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20261004/huyet-quy-hon-chien-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261004/huyet-quy-hon-chien-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "24",
-        "country": "Nhật Bản",
-        "description": "Rất lâu sau khi Momotaro huyền thoại chiến đấu với Oni, một thiếu niên nổi loạn phát hiện ra cuộc xung đột vẫn chưa kết thúc — và dòng máu nguy hiểm vẫn chảy trong huyết quản cậu."
     }
 ]
