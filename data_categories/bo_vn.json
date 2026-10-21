@@ -1,5 +1,17 @@
 [
     {
+        "name": "Căn Nhà Không Mái Che",
+        "year": 2026,
+        "slug": "can-nha-khong-mai-che",
+        "thumb": "https://phimimg.com/uploads/movies/20261013/can-nha-khong-mai-che-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261013/can-nha-khong-mai-che-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "39",
+        "country": "Việt Nam",
+        "description": "Lấy bối cảnh một vùng trung du Bắc Bộ vào những năm 2010, \"Căn nhà không mái che\" mang tới câu chuyện của những con người lao động nhỏ bé, ngày ngày vật lộn với cơm áo, nợ nần và những lo toan đời thường. Ở đó, những người cha, người mẹ luôn đặt sự bình an và tương lai của con cái lên trước hạnh phúc riêng, chỉ mong dựng cho con một “mái che” đủ vững vàng trước những bất trắc của cuộc sống."
+    },
+    {
         "name": "Phù Sa",
         "year": 2026,
         "slug": "phu-sa",
@@ -22,18 +34,6 @@
         "total_episodes": "24",
         "country": "Việt Nam",
         "description": "Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn."
-    },
-    {
-        "name": "Căn Nhà Không Mái Che",
-        "year": 2026,
-        "slug": "can-nha-khong-mai-che",
-        "thumb": "https://phimimg.com/uploads/movies/20261013/can-nha-khong-mai-che-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261013/can-nha-khong-mai-che-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "39",
-        "country": "Việt Nam",
-        "description": "Lấy bối cảnh một vùng trung du Bắc Bộ vào những năm 2010, \"Căn nhà không mái che\" mang tới câu chuyện của những con người lao động nhỏ bé, ngày ngày vật lộn với cơm áo, nợ nần và những lo toan đời thường. Ở đó, những người cha, người mẹ luôn đặt sự bình an và tương lai của con cái lên trước hạnh phúc riêng, chỉ mong dựng cho con một “mái che” đủ vững vàng trước những bất trắc của cuộc sống."
     },
     {
         "name": "Mùa Hè Năm Ấy",
