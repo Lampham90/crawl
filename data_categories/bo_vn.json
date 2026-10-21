@@ -1,5 +1,17 @@
 [
     {
+        "name": "Phù Sa",
+        "year": 2026,
+        "slug": "phu-sa",
+        "thumb": "https://phimimg.com/uploads/movies/20260819/phu-sa-thumb.webp",
+        "poster": "https://i.ex-cdn.com/danviet.vn/files/content/2026/08/13/final--poster-phu-sa-1012.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (40/40)",
+        "total_episodes": "40",
+        "country": "Việt Nam",
+        "description": "Câu chuyện bắt đầu tại xóm Bình Hòa ven sông Tiền, nơi những vụ sạt lở liên tiếp khiến nhà cửa, vườn tược đứng trước nguy cơ biến mất. Người dân hoang mang, những lời đồn về đất đai mất giá xuất hiện, cò đất lảng vảng và ngày càng nhiều gia đình nghĩ tới chuyện bán đất, rời quê. Đúng lúc ấy, Phù Sa (diễn viên Trúc Mây) từ thành phố trở về mang theo một kế hoạch đầy tham vọng: Nâng giá trị cây ca cao, tạo ra sản phẩm của Bình Hòa và từ đó mở thêm sinh kế cho người dân."
+    },
+    {
         "name": "Căn Nhà Không Mái Che",
         "year": 2026,
         "slug": "can-nha-khong-mai-che",
@@ -10,18 +22,6 @@
         "total_episodes": "39",
         "country": "Việt Nam",
         "description": "Lấy bối cảnh một vùng trung du Bắc Bộ vào những năm 2010, \"Căn nhà không mái che\" mang tới câu chuyện của những con người lao động nhỏ bé, ngày ngày vật lộn với cơm áo, nợ nần và những lo toan đời thường. Ở đó, những người cha, người mẹ luôn đặt sự bình an và tương lai của con cái lên trước hạnh phúc riêng, chỉ mong dựng cho con một “mái che” đủ vững vàng trước những bất trắc của cuộc sống."
-    },
-    {
-        "name": "Phù Sa",
-        "year": 2026,
-        "slug": "phu-sa",
-        "thumb": "https://phimimg.com/uploads/movies/20260819/phu-sa-thumb.webp",
-        "poster": "https://i.ex-cdn.com/danviet.vn/files/content/2026/08/13/final--poster-phu-sa-1012.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 38",
-        "total_episodes": "40",
-        "country": "Việt Nam",
-        "description": "Câu chuyện bắt đầu tại xóm Bình Hòa ven sông Tiền, nơi những vụ sạt lở liên tiếp khiến nhà cửa, vườn tược đứng trước nguy cơ biến mất. Người dân hoang mang, những lời đồn về đất đai mất giá xuất hiện, cò đất lảng vảng và ngày càng nhiều gia đình nghĩ tới chuyện bán đất, rời quê. Đúng lúc ấy, Phù Sa (diễn viên Trúc Mây) từ thành phố trở về mang theo một kế hoạch đầy tham vọng: Nâng giá trị cây ca cao, tạo ra sản phẩm của Bình Hòa và từ đó mở thêm sinh kế cho người dân."
     },
     {
         "name": "Đội Bóng Nữ Làng Xuân",

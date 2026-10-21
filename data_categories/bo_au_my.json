@@ -1,5 +1,29 @@
 [
     {
+        "name": "Hồ Crystal",
+        "year": 2026,
+        "slug": "ho-crystal",
+        "thumb": "https://phimimg.com/uploads/movies/20261021/ho-crystal-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261021/ho-crystal-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Pam Voorhees, một người mẹ đơn thân, vẫn chưa thể nguôi ngoai nỗi đau mất con sau khi Jason — đứa con trai nhỏ ốm yếu của bà — đuối nước thảm thương dưới hồ nước của thị trấn gần một năm trước. Khi hai kẻ xa lạ tìm đến tận nhà Pam để bới móc quá khứ của bà, một chuỗi sự kiện đáng sợ bắt đầu bùng nổ, khiến người dân thị trấn Crystal Lake phải bàng hoàng tự hỏi: Rốt cuộc Pam Voorhees là ai?"
+    },
+    {
+        "name": "Cyberpunk Edgerunners (Phần 2)",
+        "year": 2026,
+        "slug": "cyberpunk-edgerunners-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Nhật Bản",
+        "description": "Giữa cảnh loạn lạc đầy sự thối nát và siêu thiết bị điều khiển, tên nhóc đường phố tài ba mà liều lĩnh cố gắng trở thành edgerunner, lính đánh thuê ngoài vòng pháp luật."
+    },
+    {
         "name": "Tuổi Trẻ (Phần 1)",
         "year": 2026,
         "slug": "tuoi-tre-phan-1",
@@ -334,29 +358,5 @@
         "total_episodes": "7",
         "country": "Âu Mỹ",
         "description": "Đầu những năm 1900, một người phụ nữ vô cùng độc lập gây rạn nứt giữa hai anh em, châm ngòi cho câu chuyện kéo dài qua hai thế hệ."
-    },
-    {
-        "name": "LEGO ONE PIECE",
-        "year": 2026,
-        "slug": "lego-one-piece",
-        "thumb": "https://phimimg.com/uploads/movies/20261001/lego-one-piece-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261001/lego-one-piece-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Hoàn Tất (2/2)",
-        "total_episodes": "2",
-        "country": "Âu Mỹ",
-        "description": "Băng Mũ Rơm ra khơi trong phần đặc biệt hai tập này của LEGO! Cùng Luffy, Nami, Usopp và cả băng bước vào hành trình phiêu lưu kỳ thú, được tái hiện hoàn toàn bằng từng viên gạch."
-    },
-    {
-        "name": "Một thế giới khác biệt (Phần 1)",
-        "year": 2026,
-        "slug": "mot-the-gioi-khac-biet-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260925/mot-the-gioi-khac-biet-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260925/mot-the-gioi-khac-biet-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Một cô sinh viên năm nhất cùng hội bạn chí cốt xoay xở với chuyện học hành, rắc rối tình cảm và truyền thống gia đình tại trường đại học dành cho người Mỹ da đen có bề dày lịch sử."
     }
 ]
