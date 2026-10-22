@@ -911,6 +911,18 @@
     ],
     "bo_vn": [
         {
+            "name": "Xóm Nhỏ",
+            "year": 2026,
+            "slug": "xom-nho",
+            "thumb": "https://phimimg.com/uploads/movies/20261022/xom-nho-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261022/xom-nho-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 1",
+            "total_episodes": "35",
+            "country": "Việt Nam",
+            "description": "\"Xóm nhỏ\" xoay quanh câu chuyện của Trâm - cô gái 19 tuổi mang trong mình sự bồng bột và ngang bướng của tuổi trẻ. Sau cuộc tranh cãi gay gắt với bố, Trâm quyết định rời nhà lên Hà Nội với mong muốn tự lập và chứng minh bản thân. Không chỉ xoay quanh hành trình trưởng thành của những người trẻ, “Xóm nhỏ” còn khắc họa cuộc sống của cộng đồng lao động xa quê với nhiều số phận và hoàn cảnh khác nhau. Đằng sau những lo toan cơm áo, những vất vả thường nhật vẫn là sự sẻ chia, lòng tốt và tình cảm chân thành giữa những con người cùng cảnh ngộ."
+        },
+        {
             "name": "Căn Nhà Không Mái Che",
             "year": 2026,
             "slug": "can-nha-khong-mai-che",
@@ -1077,18 +1089,6 @@
             "total_episodes": "23",
             "country": "Việt Nam",
             "description": "Sau nhiều năm xa xứ, Dylan trở về Việt Nam để trả thù mẹ kế và người em cùng cha khác mẹ đã từng hãm hại anh để giành quyền thừa kế. Mang trong mình căn bệnh lạ từ sau khi bị mẹ kế đầu độc, Dylan buộc phải tìm đến Bảo Ngọc - một nữ bác sĩ Đông y nổi tiếng với khả năng chữa bệnh kỳ diệu. Thế nhưng, từng mũi kim, từng thang thuốc của Bảo Ngọc không chỉ khơi dậy sức sống trong Dylan, mà còn đẩy anh từng bước lún vào mưu kế nghiệt ngã. Trò Đùa Huyết Thống là hành trình đấu trí nghẹt thở, nơi tình yêu thương bị lợi dụng thành thứ vũ khí nguy hiểm nhất."
-        },
-        {
-            "name": "Bóng Ma Hạnh Phúc",
-            "year": 2026,
-            "slug": "bong-ma-hanh-phuc",
-            "thumb": "https://phimimg.com/upload/vod/20260411-1/86ef3be13cd96c237487646c36173140.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260411-1/e846238c395ac0fea302be8b608ddab0.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (50/50)",
-            "total_episodes": "50",
-            "country": "Việt Nam",
-            "description": "Bóng Ma Hạnh Phúc xoay quanh cuộc hôn nhân đầy rạn nứt giữa Hoàng Dũng và Thanh Mai khi người vợ từ bỏ sự nghiệp để làm hậu phương nhưng lại bị chồng phản bội bởi sự xuất hiện của &quot;tiểu tam&quot; Như Trang, từ đó phơi bày những ích kỷ, dối trá và bi kịch ẩn sau vỏ bọc gia đình hoàn mỹ."
         }
     ],
     "le_han": [
@@ -1275,6 +1275,30 @@
     ],
     "bo_han": [
         {
+            "name": "Tình Yêu Trong Vỏ Bọc / Tình Yêu Ngụy Trang",
+            "year": 2026,
+            "slug": "tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang",
+            "thumb": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 2",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Tình Yêu Trong Vỏ Bọc (Love in Disguise) là một bộ phim truyền hình hài lãng mạn công sở của Hàn Quốc, với sự tham gia của các diễn viên Yim Si-wan, Seol In-ah, Kim Jung-hyun và Yeonwoo. Dựa trên tiểu thuyết mạng \"Tại Sao Bạn Không Biết Đó Là Con Gái?\""
+        },
+        {
+            "name": "Dâu Tây Ngọt Ngào (Phần 1)",
+            "year": 2026,
+            "slug": "dau-tay-ngot-ngao-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 3",
+            "total_episodes": "10",
+            "country": "Nhật Bản",
+            "description": "Sau khi mất tất cả sau một đêm, Lee Yubin, một nhà thiết kế không gian người Hàn Quốc từng thành công, đã đến một hòn đảo nhỏ xinh đẹp của Nhật Bản. Tại đây, trên đảo Charo, anh gặp Shirahama Karin, một nữ nông dân kiên cường quyết tâm trồng dâu tây bất chấp căn bệnh bí ẩn của mình. Xuất thân từ hai thế giới khác nhau, cả hai vướng vào một sự hiểu lầm bất ngờ. Trong khi đó, một mối tình khác đang nảy nở trên đảo giữa một cặp đôi trái ngược. Park Kunam, một du khách làm việc kỳ nghỉ, quyết định ở lại sau khi đem lòng yêu Mizuno Mari, một người đọc bài tarot trớ trêu thay lại không thể đoán trước được đường tình duyên của chính mình. Khi họ vượt qua câu chuyện tình yêu của riêng mình, họ trở thành những người giúp đỡ đáng tin cậy cho Yubin và Karin."
+        },
+        {
             "name": "Trò Chơi Bắt Cóc (Phần 1)",
             "year": 2026,
             "slug": "tro-choi-bat-coc-phan-1",
@@ -1297,18 +1321,6 @@
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Min jae từng là vận động viên bơi lội thời trung học, cho đến khi bệnh tật khiến anh mất đi một chân. Giờ đây là nghiên cứu sinh tiến sĩ ngành người máy, anh tỏ ra là một người không màng thế sự—nhưng vẫn còn đó một khao khát giản đơn, nhức nhối: được yêu. Anh suy nghĩ quá nhiều và sợ bị tổn thương, cho đến một ngày, đúng người xuất hiện. Yujin đã từ bỏ chuyên ngành thời trang, lạc lối không có phương hướng rõ ràng, cho đến khi Minjae mở ra trước mắt cô thế giới người máy—và một giấc mơ mới. Mọi thứ về nó đều xa lạ và khó khăn, nhưng tình cảm cô dành cho anh chưa bao giờ dao động. Tia lửa ngay từ cái nhìn đầu tiên làm xáo trộn phòng thí nghiệm yên tĩnh, và sự theo đuổi không sợ hãi của Yujin đã phá vỡ lớp vỏ bọc bảo vệ trái tim Minjae. Dần dần, cả hai xích lại gần nhau hơn. Rắc rối và khó đoán hơn bất kỳ cỗ máy nào, một mối tình lãng mạn bắt đầu—mãnh liệt, ngọt ngào đắng cay và dịu dàng."
-        },
-        {
-            "name": "Tình Yêu Trong Vỏ Bọc / Tình Yêu Ngụy Trang",
-            "year": 2026,
-            "slug": "tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang",
-            "thumb": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 1",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Tình Yêu Trong Vỏ Bọc (Love in Disguise) là một bộ phim truyền hình hài lãng mạn công sở của Hàn Quốc, với sự tham gia của các diễn viên Yim Si-wan, Seol In-ah, Kim Jung-hyun và Yeonwoo. Dựa trên tiểu thuyết mạng \"Tại Sao Bạn Không Biết Đó Là Con Gái?\""
         },
         {
             "name": "Giác Quan Thứ Sáu: Mặt Trái",
@@ -1381,18 +1393,6 @@
             "total_episodes": "11",
             "country": "Hàn Quốc",
             "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
-        },
-        {
-            "name": "Dâu Tây Ngọt Ngào (Phần 1)",
-            "year": 2026,
-            "slug": "dau-tay-ngot-ngao-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
-            "total_episodes": "10",
-            "country": "Nhật Bản",
-            "description": "Sau khi mất tất cả sau một đêm, Lee Yubin, một nhà thiết kế không gian người Hàn Quốc từng thành công, đã đến một hòn đảo nhỏ xinh đẹp của Nhật Bản. Tại đây, trên đảo Charo, anh gặp Shirahama Karin, một nữ nông dân kiên cường quyết tâm trồng dâu tây bất chấp căn bệnh bí ẩn của mình. Xuất thân từ hai thế giới khác nhau, cả hai vướng vào một sự hiểu lầm bất ngờ. Trong khi đó, một mối tình khác đang nảy nở trên đảo giữa một cặp đôi trái ngược. Park Kunam, một du khách làm việc kỳ nghỉ, quyết định ở lại sau khi đem lòng yêu Mizuno Mari, một người đọc bài tarot trớ trêu thay lại không thể đoán trước được đường tình duyên của chính mình. Khi họ vượt qua câu chuyện tình yêu của riêng mình, họ trở thành những người giúp đỡ đáng tin cậy cho Yubin và Karin."
         },
         {
             "name": "Chuyện Tình Rung Cảm",
@@ -1639,6 +1639,30 @@
     ],
     "bo_trung": [
         {
+            "name": "Tiểu Thành Lương Phương",
+            "year": 2026,
+            "slug": "tieu-thanh-luong-phuong",
+            "thumb": "https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 4",
+            "total_episodes": "29",
+            "country": "Trung Quốc",
+            "description": "Sau một biến cố nghiêm trọng trong sự nghiệp, bác sĩ thiên tài Lưu Tranh Lượng buộc phải trở về quê nhà và làm việc tại một bệnh viện tuyến cơ sở. Tại đây, anh cùng đồng nghiệp thường xuyên đối mặt với các ca bệnh oái oăm và những tình huống dở khóc dở cười. Tiểu Thành Lương Phương chính là hành trình tìm lại ý nghĩa của nghề y và giá trị của cuộc sống của Lưu Tranh Lượng qua từng ca bệnh ở thị trấn nhỏ."
+        },
+        {
+            "name": "Dữ Thương Long",
+            "year": 2026,
+            "slug": "du-thuong-long",
+            "thumb": "https://phimimg.com/uploads/movies/20261022/du-thuong-long-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261022/du-thuong-long-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Bộ phim kể về con gái nhà tướng Nhạc Vọng Thư bị hiến tế xuống Long Uyên, vô tình giải trừ phong ấn cho Long Quân Ly Chỉ. Hai người từ đối đầu chuyển sang thấu hiểu, lấy việc \"áp chế Ly Hỏa\" làm giao dịch để kết liên minh. Nàng mượn sức mạnh của Long Quân để phản kích lại âm mưu của nhà họ Nhạc và Tề vương, còn vì nàng mà chàng học được tình ái chốn nhân gian. Cuối cùng, Ly Chỉ quyết định lưu lại nhân gian, tạo nên một mối tình khắc cốt ghi tâm."
+        },
+        {
             "name": "Ván Cờ Của Cô Ấy",
             "year": 2026,
             "slug": "van-co-cua-co-ay",
@@ -1793,30 +1817,6 @@
             "total_episodes": "12",
             "country": "Trung Quốc",
             "description": "Từ những năm 90, khi ngành công nghiệp dầu mỏ phát triển vũ bão, có kẻ phất lên như diều gặp gió, nhưng cũng có người rơi vào cát bụi. Số phận hỉ nộ ái ố của những con người nhỏ bé giữa tiếng gầm rú của thời đại chính là hình ảnh phản chiếu của mỗi chúng ta. Giữa công cuộc cải cách tăng thu, lớn mạnh không ngừng và sự phát triển chóng mặt của nghiệp vụ, các cuộc chiến phe phái trong hệ thống dầu mỏ ngày càng trở nên khốc liệt, khiến khu tập thể của thị trấn nhỏ ngầm nổi sóng gió. Sự cám dỗ của quyền lực và tiền tài đã phóng đại những dục vọng thầm kín trong tâm hồn những con người bình thường. Con đường sai lầm mà một thế hệ đã đi qua, suy cho cùng đều phải trả cái giá tương xứng. Năm 1997, tại thị trấn nhỏ Vu Cảng (Wugang) thuộc khu vực Tây Nam, gia đình Trần Thiện sinh sống trong tòa nhà độc thân do đơn vị dầu mỏ Tây Nam phân phối. Người cha Trần Phúc là chủ xưởng dự án thi công đường ống dẫn dầu, người mẹ Trương Văn Anh là cốt cán thiết kế tại Viện Thiết kế Dầu mỏ, ngoài ra còn có người chị gái Trần Anh làm việc tại phòng lưu trữ trạm cung ứng. Cả gia đình vô cùng đầm ấm, hạnh phúc, và Trần Thiện vốn cũng sẽ bước theo con đường của thế hệ đi trước để quay về làm việc trong hệ thống dầu mỏ. Thế nhưng, một tai nạn nổ đường ống khí đốt bất ngờ đã thay đổi quỹ đạo cuộc đời của tất cả mọi người. Người cha Trần Phúc thiệt mạng trong tai nạn ấy, còn người mẹ Trương Văn Anh trở thành vật tế thần trong cuộc đấu đá nội bộ của hệ thống dầu mỏ. Không chịu nổi đả kích, Trần Thiện một mình rời nhà, đến làm việc tại đội cứu hộ để kiếm sống qua ngày. Đến năm 2001, hệ thống dầu mỏ Tây Nam bắt kịp chuyến tàu tốc hành phát triển kinh tế, nhà nhà đều có cuộc sống sung túc như tầng lớp trung lưu. Trần Thiện trở thành \"Thiện gia\" — người đứng đầu đội thi công, nhưng anh lại tự giam cầm bản thân mình ở những năm tháng ấy như một cái xác không hồn. Và rồi, anh tình cờ chạm mặt... một vụ án nổ tai nạn tương tự, cùng vị Viện trưởng Viện thiết kế từng thất bại trong cuộc chiến phe phái năm xưa..."
-        },
-        {
-            "name": "Mỹ Nhân Dư",
-            "year": 2026,
-            "slug": "my-nhan-du",
-            "thumb": "https://phimimg.com/uploads/movies/20261010/my-nhan-du-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261010/my-nhan-du-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 23",
-            "total_episodes": "28",
-            "country": "Trung Quốc",
-            "description": "Dư Mộng là con gái độc nhất của gia đình ở khu vực Giang Tô-Chiết Giang-Thượng Hải, và là một blogger mạng, được nhiều người ca ngợi là \"cô gái tốt số\". Vào kỷ niệm 5 năm ngày cưới, cuộc sống tưởng chừng hoàn hảo, hạnh phúc của cô đột ngột tan vỡ: cuộc hôn nhân mỹ mãn với \"chàng rể mẫu mực\" bắt đầu rạn nứt, không những thế cô còn phải đối mặt với vô vàn nguy cơ bị \"hút máu\", vơ vét cạn kiệt tài sản. Nhờ sự giúp đỡ của bạn bè, Dư Mộng nhìn lại cuộc đời mình và giành lại quyền kiểm soát."
-        },
-        {
-            "name": "Ngọa Long: Thiên Tài Quân Sư",
-            "year": 2026,
-            "slug": "ngoa-long-thien-tai-quan-su",
-            "thumb": "https://phimimg.com/uploads/movies/20260912/ngoa-long-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260912/ngoa-long-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (6/6)",
-            "total_episodes": "6",
-            "country": "Trung Quốc",
-            "description": "Linh hồn của quân sư Gia Cát Lượng xuyên không từ thời Tam Quốc, nhập vào thân xác một người đàn ông đang chật vật với cuộc sống hiện đại."
         }
     ],
     "le_au_my": [
@@ -2731,6 +2731,18 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Tiểu Thành Lương Phương",
+            "year": 2026,
+            "slug": "tieu-thanh-luong-phuong",
+            "thumb": "https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 4",
+            "total_episodes": "29",
+            "country": "Trung Quốc",
+            "description": "Sau một biến cố nghiêm trọng trong sự nghiệp, bác sĩ thiên tài Lưu Tranh Lượng buộc phải trở về quê nhà và làm việc tại một bệnh viện tuyến cơ sở. Tại đây, anh cùng đồng nghiệp thường xuyên đối mặt với các ca bệnh oái oăm và những tình huống dở khóc dở cười. Tiểu Thành Lương Phương chính là hành trình tìm lại ý nghĩa của nghề y và giá trị của cuộc sống của Lưu Tranh Lượng qua từng ca bệnh ở thị trấn nhỏ."
+        },
+        {
             "name": "Ngọc Điệm Thu",
             "year": 2026,
             "slug": "ngoc-diem-thu",
@@ -2897,18 +2909,6 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Giữa chốn giang hồ mênh mông đầy máu lửa, đao kiếm vô tình, Hữu Thân Bất Phá, hoàng tử nước Thương, ra tay như sấm chớp, cứu mạng Giang Ly, đệ tử Thái Nhất Tông, trong khoảnh khắc sinh tử. Một người mang thân phận hoàng tộc, một kẻ xuất thân tông môn, vốn chẳng chung đường, vậy mà chỉ sau một trận đao kiếm, đã xem nhau như tri kỷ. Từ đó, hai người sóng vai bước vào Đại Hoang Nguyên, nơi luật lệ chỉ được viết bằng thép lạnh và máu tươi. Họ cải trang trà trộn vào thương đội, vượt qua thiên kiếp giáng xuống như trời phạt, bị mãnh thú rình rập giữa đêm tối, lại nhiều lần vung kiếm đối đầu bọn cường đạo hung tàn. Mỗi lần thoát chết, tình nghĩa càng thêm bền chặt. Một lần vì nghĩa mà ra tay cứu mỹ nhân, số phận hai người càng bị cuốn sâu vào vòng xoáy giang hồ."
-        },
-        {
-            "name": "Ừ Thì Ly Hôn!",
-            "year": 2026,
-            "slug": "u-thi-ly-hon",
-            "thumb": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260821/u-thi-ly-hon-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (12/12)",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Bộ phim xoay quanh CEO của thương hiệu váy cưới J&White, Baek Mi Young và chồng cô, nhà thiết kế Ji Won Ho. Từng yêu nhau sâu đậm và cùng gây dựng sự nghiệp, họ tưởng như có một cuộc hôn nhân hạnh phúc, nhưng sau 7 năm chung sống, những mâu thuẫn và tổn thương âm thầm khiến Mi Young quyết định đề nghị ly hôn. Từ đây, cả hai bước vào cuộc chiến ly hôn đầy căng thẳng, buộc cả hai phải nhìn lại những biến cố trong quá khứ và đối mặt với những cảm xúc chưa được giải quyết."
         }
     ],
     "trending_phim_bo": [
@@ -2925,28 +2925,28 @@
             "description": "Giữa Trường An tráng lệ và kỳ ảo dưới triều Đường, nơi những cỗ máy cơ khí tinh xảo hòa quyện cùng mái ngói cong vút, con người và yêu quái cùng chung sống. Địch Thiếu, thiếu niên thiên tài luôn mơ ước trở thành “Đại Thám Tử Số Một Trường An”, sở hữu khả năng suy luận sắc bén cùng tài ăn nói hơn người. Đồng hành cùng cậu là A Sa, tân binh yêu sói của đội tuần tra, giỏi võ nhưng mang trong mình trái tim lương thiện. Một vụ án mạng bí ẩn bất ngờ khiến đôi oan gia này phải hợp tác. Vừa đấu khẩu, vừa phối hợp phá án, cả hai dấn thân vào hành trình điều tra đầy bất ngờ và hiểm nguy. Khi mọi manh mối đều dẫn về trung tâm Trường An, liệu họ có thể bảo vệ sự bình yên của thành? Và đằng sau vẻ phồn hoa của Trường An đang ẩn giấu bí mật kinh thiên động địa nào?"
         },
         {
-            "name": "Ván Cờ Của Cô Ấy",
+            "name": "Tiểu Thành Lương Phương",
             "year": 2026,
-            "slug": "van-co-cua-co-ay",
-            "thumb": "https://phimimg.com/uploads/movies/20261021/van-co-cua-co-ay-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261021/van-co-cua-co-ay-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 10",
-            "total_episodes": "24",
+            "slug": "tieu-thanh-luong-phuong",
+            "thumb": "https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 4",
+            "total_episodes": "29",
             "country": "Trung Quốc",
-            "description": "Vì muốn đòi lại công bằng cho cha, Dư Tụng bước chân vào nhà họ Tống với thân phận trợ lý. Bằng sự chân thành, cô dần chiếm được lòng tin của Tống Trừng, đồng thời liên minh với tài xế Tĩnh để cùng thu thập chứng cứ, vạch trần những tội ác của nhà họ Tống trước công chúng. Thế nhưng, Dư Tụng không để lòng thù hận nuốt chửng, cô quyết tâm thoát khỏi những xiềng xích của quá khứ và nhận ra rằng chiến thắng thực sự là giành lại quyền làm chủ cuộc đời mình. Cuối cùng, cô trở lại làm chính mình, hướng về tương lai tươi sáng."
+            "description": "Sau một biến cố nghiêm trọng trong sự nghiệp, bác sĩ thiên tài Lưu Tranh Lượng buộc phải trở về quê nhà và làm việc tại một bệnh viện tuyến cơ sở. Tại đây, anh cùng đồng nghiệp thường xuyên đối mặt với các ca bệnh oái oăm và những tình huống dở khóc dở cười. Tiểu Thành Lương Phương chính là hành trình tìm lại ý nghĩa của nghề y và giá trị của cuộc sống của Lưu Tranh Lượng qua từng ca bệnh ở thị trấn nhỏ."
         },
         {
-            "name": "Trò Chơi Bắt Cóc (Phần 1)",
+            "name": "Tình Yêu Trong Vỏ Bọc / Tình Yêu Ngụy Trang",
             "year": 2026,
-            "slug": "tro-choi-bat-coc-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
+            "slug": "tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang",
+            "thumb": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "11",
-            "country": "Nhật Bản",
-            "description": "Bộ phim xoay quanh một loạt các vụ bắt cóc đồng loạt tại 7 thành phố lớn ở châu Á (Tokyo, Seoul, Đài Bắc, Singapore, Bangkok, Naha, Manila), buộc các gia đình phải tham gia vào một trò chơi sinh tử thông qua các chỉ thị từ một email bí ẩn."
+            "current_episode": "Tập 2",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Tình Yêu Trong Vỏ Bọc (Love in Disguise) là một bộ phim truyền hình hài lãng mạn công sở của Hàn Quốc, với sự tham gia của các diễn viên Yim Si-wan, Seol In-ah, Kim Jung-hyun và Yeonwoo. Dựa trên tiểu thuyết mạng \"Tại Sao Bạn Không Biết Đó Là Con Gái?\""
         },
         {
             "name": "Yêu Nhân Thần Thám: Kỳ Án Trường An",
@@ -2985,28 +2985,28 @@
             "description": "Tại Hope Harbor, một ngôi làng hẻo lánh nằm gần khu vực phi quân sự, cảnh sát trưởng Bum-seok đã nhận được tin báo khẩn cấp từ người dân địa phương về sự xuất hiện của một con hổ. Khi cả ngôi làng chìm trong hoảng loạn, Bum-seok ngỡ ngàng khi phát hiện một sự thật nằm ngoài sức tưởng tượng của con người."
         },
         {
-            "name": "Tuý Mộng",
+            "name": "Dữ Thương Long",
             "year": 2026,
-            "slug": "tuy-mong",
-            "thumb": "https://phimimg.com/uploads/movies/20261017/tuy-mong-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261017/tuy-mong-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 12",
-            "total_episodes": "18",
-            "country": "Trung Quốc",
-            "description": "Nhiều năm trước, phóng viên Thẩm Lạc Thủy từng ghi lại cuộc sống của những công nhân tại nhà máy bia cũ ở thành phố La Thành. Giờ đây, cô trở lại La Thành, một lần nữa cầm máy quay để khám phá những góc khuất đã dần bị thời gian lãng quên. Tào Quân, Đồ Xuân Diễm, Tiền Nghĩa Xuyên, Trình Hữu Điền… từng là những nhân vật chính trong các thước phim của cô, nhưng theo dòng chảy năm tháng, mỗi người lại trải qua những thăng trầm, biến cố số phận khác nhau. Câu chuyện của họ tựa như những bí ẩn bị thời gian giấu kín. Lần theo những dấu vết đan xen giữa quá khứ và hiện tại, Thẩm Lạc Thủy từng bước đem những chuyện cũ đã bị chôn vùi suốt bao năm ra ánh sáng."
-        },
-        {
-            "name": "Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Phần 1)",
-            "year": 2026,
-            "slug": "tung-buoc-ben-nhau-tien-si-yeu-duong-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-poster.webp",
+            "slug": "du-thuong-long",
+            "thumb": "https://phimimg.com/uploads/movies/20261022/du-thuong-long-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261022/du-thuong-long-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Tập 6",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Min jae từng là vận động viên bơi lội thời trung học, cho đến khi bệnh tật khiến anh mất đi một chân. Giờ đây là nghiên cứu sinh tiến sĩ ngành người máy, anh tỏ ra là một người không màng thế sự—nhưng vẫn còn đó một khao khát giản đơn, nhức nhối: được yêu. Anh suy nghĩ quá nhiều và sợ bị tổn thương, cho đến một ngày, đúng người xuất hiện. Yujin đã từ bỏ chuyên ngành thời trang, lạc lối không có phương hướng rõ ràng, cho đến khi Minjae mở ra trước mắt cô thế giới người máy—và một giấc mơ mới. Mọi thứ về nó đều xa lạ và khó khăn, nhưng tình cảm cô dành cho anh chưa bao giờ dao động. Tia lửa ngay từ cái nhìn đầu tiên làm xáo trộn phòng thí nghiệm yên tĩnh, và sự theo đuổi không sợ hãi của Yujin đã phá vỡ lớp vỏ bọc bảo vệ trái tim Minjae. Dần dần, cả hai xích lại gần nhau hơn. Rắc rối và khó đoán hơn bất kỳ cỗ máy nào, một mối tình lãng mạn bắt đầu—mãnh liệt, ngọt ngào đắng cay và dịu dàng."
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Bộ phim kể về con gái nhà tướng Nhạc Vọng Thư bị hiến tế xuống Long Uyên, vô tình giải trừ phong ấn cho Long Quân Ly Chỉ. Hai người từ đối đầu chuyển sang thấu hiểu, lấy việc \"áp chế Ly Hỏa\" làm giao dịch để kết liên minh. Nàng mượn sức mạnh của Long Quân để phản kích lại âm mưu của nhà họ Nhạc và Tề vương, còn vì nàng mà chàng học được tình ái chốn nhân gian. Cuối cùng, Ly Chỉ quyết định lưu lại nhân gian, tạo nên một mối tình khắc cốt ghi tâm."
+        },
+        {
+            "name": "Dâu Tây Ngọt Ngào (Phần 1)",
+            "year": 2026,
+            "slug": "dau-tay-ngot-ngao-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 3",
+            "total_episodes": "10",
+            "country": "Nhật Bản",
+            "description": "Sau khi mất tất cả sau một đêm, Lee Yubin, một nhà thiết kế không gian người Hàn Quốc từng thành công, đã đến một hòn đảo nhỏ xinh đẹp của Nhật Bản. Tại đây, trên đảo Charo, anh gặp Shirahama Karin, một nữ nông dân kiên cường quyết tâm trồng dâu tây bất chấp căn bệnh bí ẩn của mình. Xuất thân từ hai thế giới khác nhau, cả hai vướng vào một sự hiểu lầm bất ngờ. Trong khi đó, một mối tình khác đang nảy nở trên đảo giữa một cặp đôi trái ngược. Park Kunam, một du khách làm việc kỳ nghỉ, quyết định ở lại sau khi đem lòng yêu Mizuno Mari, một người đọc bài tarot trớ trêu thay lại không thể đoán trước được đường tình duyên của chính mình. Khi họ vượt qua câu chuyện tình yêu của riêng mình, họ trở thành những người giúp đỡ đáng tin cậy cho Yubin và Karin."
         },
         {
             "name": "Tiên Nghịch Movie: Thí Tiên Chi Chiến",
@@ -3045,28 +3045,28 @@
             "description": "Khi một vụ lừa đảo qua điện thoại bất ngờ xảy ra, Đặng Thức - người từng nghĩ mình có một cuộc sống ổn định - bị cuốn vào vòng xoáy nguy hiểm của tiền bạc, gia đình và lòng tin, nơi mọi lựa chọn đều phải trả giá không chỉ bằng sự giàu có mà còn bằng cả những người anh yêu thương nhất."
         },
         {
-            "name": "Sở Ly",
+            "name": "Ván Cờ Của Cô Ấy",
             "year": 2026,
-            "slug": "so-ly",
-            "thumb": "https://phimimg.com/uploads/movies/20261008/so-ly-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261008/so-ly-poster.webp",
+            "slug": "van-co-cua-co-ay",
+            "thumb": "https://phimimg.com/uploads/movies/20261021/van-co-cua-co-ay-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261021/van-co-cua-co-ay-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 23",
+            "current_episode": "Tập 10",
             "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Tướng quân nước Tần Bạch Khởi đánh thành khiến ba mươi vạn bách tính Sính Đô của nước Sở bỏ mạng. Vu nữ Sở Ly thi triển \"Sở Phong Dẫn\" xoay chuyển thời gian, nhưng lại bị Tống Tử Uyên, một người vốn chẳng hề quen biết, giết chết bằng một nhát kiếm. Cả hai cùng tái sinh về thời điểm 49 ngày trước đó. Để giải cứu bách tính, họ buộc phải ràng buộc với nhau, cùng trải qua hàng loạt sự việc kỳ quái. Từ đây, mối duyên nợ từ nhiều kiếp trước của hai người dần dần hé lộ."
+            "description": "Vì muốn đòi lại công bằng cho cha, Dư Tụng bước chân vào nhà họ Tống với thân phận trợ lý. Bằng sự chân thành, cô dần chiếm được lòng tin của Tống Trừng, đồng thời liên minh với tài xế Tĩnh để cùng thu thập chứng cứ, vạch trần những tội ác của nhà họ Tống trước công chúng. Thế nhưng, Dư Tụng không để lòng thù hận nuốt chửng, cô quyết tâm thoát khỏi những xiềng xích của quá khứ và nhận ra rằng chiến thắng thực sự là giành lại quyền làm chủ cuộc đời mình. Cuối cùng, cô trở lại làm chính mình, hướng về tương lai tươi sáng."
         },
         {
-            "name": "Tình Yêu Trong Vỏ Bọc / Tình Yêu Ngụy Trang",
+            "name": "Trò Chơi Bắt Cóc (Phần 1)",
             "year": 2026,
-            "slug": "tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang",
-            "thumb": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-poster.webp",
+            "slug": "tro-choi-bat-coc-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 1",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Tình Yêu Trong Vỏ Bọc (Love in Disguise) là một bộ phim truyền hình hài lãng mạn công sở của Hàn Quốc, với sự tham gia của các diễn viên Yim Si-wan, Seol In-ah, Kim Jung-hyun và Yeonwoo. Dựa trên tiểu thuyết mạng \"Tại Sao Bạn Không Biết Đó Là Con Gái?\""
+            "current_episode": "Tập 3",
+            "total_episodes": "11",
+            "country": "Nhật Bản",
+            "description": "Bộ phim xoay quanh một loạt các vụ bắt cóc đồng loạt tại 7 thành phố lớn ở châu Á (Tokyo, Seoul, Đài Bắc, Singapore, Bangkok, Naha, Manila), buộc các gia đình phải tham gia vào một trò chơi sinh tử thông qua các chỉ thị từ một email bí ẩn."
         },
         {
             "name": "Mononoke – Phim điện ảnh: Chương III – Lời nguyền của rắn",
