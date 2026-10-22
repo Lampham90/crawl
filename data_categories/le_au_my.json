@@ -1,5 +1,17 @@
 [
     {
+        "name": "Bằng Mọi Giá",
+        "year": 2026,
+        "slug": "bang-moi-gia",
+        "thumb": "https://phimimg.com/uploads/movies/20261022/bang-moi-gia-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261022/bang-moi-gia-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Lấy bối cảnh bang Mississippi những năm 1960, một đặc vụ FBI trẻ tuổi người da màu buộc phải hợp tác cùng một sát thủ khét tiếng của băng đảng mafia để điều tra chuỗi vụ án sát hại các nhà hoạt động nhân quyền vô cùng dã man."
+    },
+    {
         "name": "Giả Thuyết Tình Yêu",
         "year": 2026,
         "slug": "gia-thuyet-tinh-yeu",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Thụy Điển",
         "description": "Chào mừng bạn đến với thế giới của Minecraft, nơi sự sáng tạo không chỉ giúp bạn chế tạo mà còn là yếu tố quan trọng để sống sót! Bốn kẻ lạc lõng - Garrett “The Garbage Man” Garrison (Momoa), Henry (Hansen), Natalie (Myers) và Dawn (Brooks) - bất ngờ gặp rắc rối khi họ bị kéo qua cánh cửa bí ẩn dẫn đến Overworld: một thế giới kỳ lạ được tạo bởi những khối lập phương và phát triển nhờ vào trí tưởng tượng. Để trở về nhà, họ cần phải làm chủ được thế giới này (và bảo vệ nó khỏi những thực thể tà ác như Piglins và Thây Ma) trong khi dấn thân vào chuyến phiêu lưu màu nhiệm với một thợ chế tạo chuyên nghiệp và khó lường - Steve (Black). Chuyến hành trình này sẽ thách thức sự can đảm của cả năm người, thúc đẩy họ tìm lại với những phẩm chất làm nên sự đặc biệt của riêng mình,… đồng thời là những kỹ năng cần thiết để trở lại với thế giới thật."
-    },
-    {
-        "name": "Ngày Tàn Của Phố Oak",
-        "year": 2026,
-        "slug": "ngay-tan-cua-pho-oak",
-        "thumb": "https://phimimg.com/uploads/movies/20260914/ngay-tan-cua-pho-oak-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260914/ngay-tan-cua-pho-oak-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Sau khi một thảm họa thiên nhiên xé toạc Phố Oak khỏi khu ngoại ô và đưa con phố đến một nơi xa lạ, gia đình Platt nhanh chóng nhận ra rằng chỉ bằng cách luôn đứng bên nhau, họ mới có thể vượt qua vận mệnh nghiệt ngã này."
     }
 ]

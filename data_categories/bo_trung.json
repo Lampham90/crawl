@@ -1,5 +1,29 @@
 [
     {
+        "name": "Tiểu Thành Lương Phương",
+        "year": 2026,
+        "slug": "tieu-thanh-luong-phuong",
+        "thumb": "https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 4",
+        "total_episodes": "29",
+        "country": "Trung Quốc",
+        "description": "Sau một biến cố nghiêm trọng trong sự nghiệp, bác sĩ thiên tài Lưu Tranh Lượng buộc phải trở về quê nhà và làm việc tại một bệnh viện tuyến cơ sở. Tại đây, anh cùng đồng nghiệp thường xuyên đối mặt với các ca bệnh oái oăm và những tình huống dở khóc dở cười. Tiểu Thành Lương Phương chính là hành trình tìm lại ý nghĩa của nghề y và giá trị của cuộc sống của Lưu Tranh Lượng qua từng ca bệnh ở thị trấn nhỏ."
+    },
+    {
+        "name": "Dữ Thương Long",
+        "year": 2026,
+        "slug": "du-thuong-long",
+        "thumb": "https://phimimg.com/uploads/movies/20261022/du-thuong-long-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261022/du-thuong-long-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "24",
+        "country": "Trung Quốc",
+        "description": "Bộ phim kể về con gái nhà tướng Nhạc Vọng Thư bị hiến tế xuống Long Uyên, vô tình giải trừ phong ấn cho Long Quân Ly Chỉ. Hai người từ đối đầu chuyển sang thấu hiểu, lấy việc \"áp chế Ly Hỏa\" làm giao dịch để kết liên minh. Nàng mượn sức mạnh của Long Quân để phản kích lại âm mưu của nhà họ Nhạc và Tề vương, còn vì nàng mà chàng học được tình ái chốn nhân gian. Cuối cùng, Ly Chỉ quyết định lưu lại nhân gian, tạo nên một mối tình khắc cốt ghi tâm."
+    },
+    {
         "name": "Ván Cờ Của Cô Ấy",
         "year": 2026,
         "slug": "van-co-cua-co-ay",
@@ -334,29 +358,5 @@
         "total_episodes": "30",
         "country": "Trung Quốc",
         "description": "Series ngoại truyện hài hước của \"Linh Cảnh Hành Giả\" được chắt lọc từ nguyên tác, mang đến góc nhìn mới mẻ và thú vị về cuộc sống đời thường với những tình huống tréo ngoe, dở khóc dở cười chưa từng được hé lộ của Trương Nguyên Thanh cùng người thân, bạn bè. Loạt phim sẽ đưa bạn bước vào một thế giới \"Linh Cảnh Hành Giả\" vô cùng trọn vẹn và nhiều màu sắc."
-    },
-    {
-        "name": "Thần Tài Đậu Chiêm Long",
-        "year": 2026,
-        "slug": "than-tai-dau-chiem-long",
-        "thumb": "https://phimimg.com/uploads/movies/20260818/than-tai-dau-chiem-long-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260818/than-tai-dau-chiem-long-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 12",
-        "total_episodes": "16",
-        "country": "Trung Quốc",
-        "description": "Ba mươi sáu bàng môn, bảy mươi hai tả đạo, trong đó “Bí Bảo” được xem là đứng đầu. Bước chân vào con đường phát tài, tranh đoạt tạo hóa của đất trời, cũng đồng nghĩa với việc đặt mình vào vô số hiểm cảnh. Đậu Chiêm Long – vị “Thần Tài” tà môn nhất lịch sử – mang trong mình một vận mệnh không thể thoát khỏi. Giữa những bí thuật dân gian, kỳ cảnh quỷ dị và vòng xoáy nhân quả, hắn buộc phải nghịch thiên cải mệnh, phá vỡ xiềng xích số phận và tìm ra con đường sống của chính mình."
-    },
-    {
-        "name": "Không Thể Thay Thế",
-        "year": 2026,
-        "slug": "khong-the-thay-the-2026",
-        "thumb": "https://phimimg.com/uploads/movies/20260929/khong-the-thay-the-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260929/khong-the-thay-the-phan-1-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (20/20)",
-        "total_episodes": "20",
-        "country": "Trung Quốc",
-        "description": "Từ Trì là cô gái xuất thân từ một thị trấn nhỏ, bước vào ngành tư vấn sau biến cố gia đình và luôn tâm niệm không để bản thân bị người khác thay thế. Cô gặp Diệp Tín Chi, một đối tác ưu tú từng bị hãm hại và đang lên kế hoạch trả thù, rồi từ mối quan hệ thầy trò dần trở thành cộng sự. Qua quá trình đồng hành và thấu hiểu, cả hai dần trở thành những người không thể thay thế trong cuộc đời của nhau."
     }
 ]

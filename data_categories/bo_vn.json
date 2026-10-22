@@ -1,5 +1,17 @@
 [
     {
+        "name": "Xóm Nhỏ",
+        "year": 2026,
+        "slug": "xom-nho",
+        "thumb": "https://phimimg.com/uploads/movies/20261022/xom-nho-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261022/xom-nho-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "35",
+        "country": "Việt Nam",
+        "description": "\"Xóm nhỏ\" xoay quanh câu chuyện của Trâm - cô gái 19 tuổi mang trong mình sự bồng bột và ngang bướng của tuổi trẻ. Sau cuộc tranh cãi gay gắt với bố, Trâm quyết định rời nhà lên Hà Nội với mong muốn tự lập và chứng minh bản thân. Không chỉ xoay quanh hành trình trưởng thành của những người trẻ, “Xóm nhỏ” còn khắc họa cuộc sống của cộng đồng lao động xa quê với nhiều số phận và hoàn cảnh khác nhau. Đằng sau những lo toan cơm áo, những vất vả thường nhật vẫn là sự sẻ chia, lòng tốt và tình cảm chân thành giữa những con người cùng cảnh ngộ."
+    },
+    {
         "name": "Căn Nhà Không Mái Che",
         "year": 2026,
         "slug": "can-nha-khong-mai-che",
@@ -327,17 +339,6 @@
         "sub_type": "Vietsub",
         "current_episode": "Hoàn Tất (9/9)",
         "total_episodes": "9",
-        "country": "viet-nam"
-    },
-    {
-        "name": "Có Anh Nơi Ấy Bình Yên",
-        "year": 2025,
-        "slug": "co-anh-noi-ay-binh-yen",
-        "thumb": "https://phimimg.com/upload/vod/20250903-1/283cfa8a25f279611242d5fd51a33cd3.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250903-1/ae822086f99ccc031e91b024e8b0230f.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (51/51)",
-        "total_episodes": "51",
         "country": "viet-nam"
     }
 ]
