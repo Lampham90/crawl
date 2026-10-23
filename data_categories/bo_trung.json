@@ -1,5 +1,41 @@
 [
     {
+        "name": "Ngọc Điệm Thu",
+        "year": 2026,
+        "slug": "ngoc-diem-thu",
+        "thumb": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 22",
+        "total_episodes": "40",
+        "country": "Trung Quốc",
+        "description": "Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp gỡ Ngu Sưởng Hiên, ngũ thiếu gia nhà họ Ngu. Sau giai đoạn đầu đầy toan tính và nghi kỵ, cả hai dần nảy sinh tình cảm sâu đậm. Nhưng rồi hàng loạt biến cố và bi kịch đẩy Bình Quân đến bờ vực tuyệt vọng, khiến cô phải rời xa Sưởng Hiên. Trải qua nhiều năm đau khổ và dằn vặt, họ gặp lại nhau, từng bước hóa giải hiểu lầm và đối mặt với những bí mật trong quá khứ."
+    },
+    {
+        "name": "Mối Tình Đầu Thứ Hai",
+        "year": 2026,
+        "slug": "moi-tinh-dau-thu-hai",
+        "thumb": "https://phimimg.com/uploads/movies/20261015/moi-tinh-dau-thu-hai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261015/moi-tinh-dau-thu-hai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (24/24)",
+        "total_episodes": "24",
+        "country": "Trung Quốc",
+        "description": "Cô nàng nguyên khí đầy nghị lực Zhou Xiangxiang và nam thần bóng đá học đường lạnh lùng, “tâm bất biến” Gu Han — hai người bạn thuở nhỏ đã nhiều năm mất liên lạc — nay bất ngờ hội ngộ sau một sự hiểu lầm. Trải qua những màn đấu khẩu “oan gia ngõ hẹp”, họ dần thấu hiểu và cùng nhau chứng kiến hành trình dũng cảm theo đuổi ước mơ, từ đó làm thay đổi lẫn nhau trong một câu chuyện ngọt ngào đến lịm tim, tiến hóa từ đôi oan gia thành \"giáo trình yêu đương\" mẫu mực."
+    },
+    {
+        "name": "Gả Kim Thoa / Gả trâm vàng",
+        "year": 2026,
+        "slug": "ga-kim-thoa-ga-tram-vang",
+        "thumb": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 16",
+        "total_episodes": "33",
+        "country": "Trung Quốc",
+        "description": "A Sửu vốn là thiếu nữ đổ phân ban đêm trên phố có thân phận thấp hèn, bị mọi người chà đạp và bắt nạt. Chỉ vì có khuôn mặt giống hệt tiểu thư Ngụy Nhiêu của Hầu Phủ, cô bất ngờ trở thành tân nương xung hỷ cho thế tử Lục Trạc của Quốc Công Phủ. A Sửu ôm đầy tham vọng, một lòng tranh thủ cơ hội để leo cao, nhưng phu quân mới cưới đang gần đất xa trời đột nhiên tỉnh lại, âm mưu tu hú chiếm tổ dẫn đến nhiều tai họa liên tiếp. Ngụy Nhiêu hận cô chiếm chỗ của mình, nôn nóng muốn trừ khử cô; Lục Trạc coi cô là người phụ nữ độc địa, tìm mọi cách phòng bị trước các toan tính. Quốc Công Phủ bề ngoài trông hòa thuận êm ấm, thực ra đầy rẫy cạm bẫy, nguy hiểm bủa vây. A Sửu nỗ lực xoay sở giữa cơn sóng ngầm, mưu tính con đường phía trước, vùng vẫy thoát khỏi xiềng xích của số phận, hơn nữa còn điều tra ra bí mật về thân thế của mình, cuối cùng cũng được đoàn tụ với người thân yêu nhất, đang từ cô gái đổ phân thấp hèn lội ngược dòng vươn lên cao, sống cuộc đời gấm hoa rực rỡ."
+    },
+    {
         "name": "Tiểu Thành Lương Phương",
         "year": 2026,
         "slug": "tieu-thanh-luong-phuong",
@@ -120,18 +156,6 @@
         "description": "Mười năm trước, sau ba ngày liên tiếp xuất hiện trăng máu thì hàng loạt sự kiện quỷ quái, thần linh, dị đồng, kinh dị liên tục xảy ra. Khi những điều bí ẩn và quỷ dị giáng xuống nhân gian, khi nỗi kinh hoàng và tuyệt vọng bao trùm khắp nơi, con người chúng ta nên quỳ gối cúi đầu, bật khóc trong tuyệt vọng, hay cầm vũ khí vùng lên chống trả? Đây là một thời đại hoàn toàn mới, và thời đại này thuộc về những kẻ siêu phàm! Khi cánh cửa dẫn đến thế giới siêu phàm mở ra, Tô Bạch đã nhìn thấy một thế giới hoàn toàn khác…"
     },
     {
-        "name": "Ngọc Điệm Thu",
-        "year": 2026,
-        "slug": "ngoc-diem-thu",
-        "thumb": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 21",
-        "total_episodes": "40",
-        "country": "Trung Quốc",
-        "description": "Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp gỡ Ngu Sưởng Hiên, ngũ thiếu gia nhà họ Ngu. Sau giai đoạn đầu đầy toan tính và nghi kỵ, cả hai dần nảy sinh tình cảm sâu đậm. Nhưng rồi hàng loạt biến cố và bi kịch đẩy Bình Quân đến bờ vực tuyệt vọng, khiến cô phải rời xa Sưởng Hiên. Trải qua nhiều năm đau khổ và dằn vặt, họ gặp lại nhau, từng bước hóa giải hiểu lầm và đối mặt với những bí mật trong quá khứ."
-    },
-    {
         "name": "Ngày Bạn Thân Giàu Có Chẳng Còn Xa",
         "year": 2026,
         "slug": "ngay-ban-than-giau-co-chang-con-xa",
@@ -142,18 +166,6 @@
         "total_episodes": "24",
         "country": "Trung Quốc",
         "description": "Đôi bạn thân thời hiện đại Điền Úc Viên và Lâm Thư Điều vô tình xuyên vào một cuốn tiểu thuyết đấu đá gia đình, trở thành hai chị em dâu thế mạng sắp bị hãm hại trên thuyền hoa, chết thảm ngay trong đêm tân hôn. Hai người bắt tay nhau vạch trần những âm mưu và cạm bẫy liên hoàn của chị dâu cả và cô con gái nuôi Thẩm Uyển Uyển để kiếm tiền tìm đường sống. Thế tử lạnh lùng Thẩm Trình bị trúng loại độc kỳ lạ, cần máu của nữ chính để duy trì mạng sống. Tam thiếu gia ăn chơi Thẩm Hòa âm thầm có chí hướng làm ngỗ tác. Tình cảm của hai cặp đôi dần nảy nở. Nữ chính nguyên tác Tống Chương trọng sinh cùng Tam hoàng tử mưu phản liên tục gây khó dễ, khiến bốn người phải bắt tay điều tra vụ án cũ Kỳ Vân Quan, tìm ra nhân chứng bị hàm oan, vạch trần tội ác tày trời của hoàng tử, rửa sạch tiếng xấu cho cả nhà họ Thẩm. Cuối cùng, họ thoát khỏi số phận bi kịch đã định sẵn, cùng nhau sống những ngày tháng bình yên."
-    },
-    {
-        "name": "Mối Tình Đầu Thứ Hai",
-        "year": 2026,
-        "slug": "moi-tinh-dau-thu-hai",
-        "thumb": "https://phimimg.com/uploads/movies/20261015/moi-tinh-dau-thu-hai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261015/moi-tinh-dau-thu-hai-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 22",
-        "total_episodes": "24",
-        "country": "Trung Quốc",
-        "description": "Cô nàng nguyên khí đầy nghị lực Zhou Xiangxiang và nam thần bóng đá học đường lạnh lùng, “tâm bất biến” Gu Han — hai người bạn thuở nhỏ đã nhiều năm mất liên lạc — nay bất ngờ hội ngộ sau một sự hiểu lầm. Trải qua những màn đấu khẩu “oan gia ngõ hẹp”, họ dần thấu hiểu và cùng nhau chứng kiến hành trình dũng cảm theo đuổi ước mơ, từ đó làm thay đổi lẫn nhau trong một câu chuyện ngọt ngào đến lịm tim, tiến hóa từ đôi oan gia thành \"giáo trình yêu đương\" mẫu mực."
     },
     {
         "name": "Linh Cảnh Hành Giả",
@@ -178,18 +190,6 @@
         "total_episodes": "24",
         "country": "Trung Quốc",
         "description": "Vạn Vật Sinh là một thứ công pháp cổ xưa thần kỳ và bí ẩn hơn tất cả những hiểu biết của con người thời hiện đại ngày nay, nhưng bằng một cách thần bí nào đó mà nó lại được truyền thừa và tái hiện trong cơ thể của một thiếu niên thời hiện đại là Tần Vũ. Vốn Tần Vũ được chọn để làm người kế thừa bởi anh mang trong mình những thiên bẩm vô cùng to lớn, có thể dễ kể đến nhất chính là linh căn phế. Tham gia rèn luyện tại Học Viện Cao Võ Đông Đại, Tần Vũ đã nâng cao những sức mạnh thiên bẩm của mình và cùng với các chiến hữu liều mình xả thân chiến đấu cho lẽ phải, đánh đuổi yêu ma, tạo nên một thế giới yên bình sau những biến cố liên tiếp xảy đến."
-    },
-    {
-        "name": "Gả Kim Thoa / Gả trâm vàng",
-        "year": 2026,
-        "slug": "ga-kim-thoa-ga-tram-vang",
-        "thumb": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 15",
-        "total_episodes": "33",
-        "country": "Trung Quốc",
-        "description": "A Sửu vốn là thiếu nữ đổ phân ban đêm trên phố có thân phận thấp hèn, bị mọi người chà đạp và bắt nạt. Chỉ vì có khuôn mặt giống hệt tiểu thư Ngụy Nhiêu của Hầu Phủ, cô bất ngờ trở thành tân nương xung hỷ cho thế tử Lục Trạc của Quốc Công Phủ. A Sửu ôm đầy tham vọng, một lòng tranh thủ cơ hội để leo cao, nhưng phu quân mới cưới đang gần đất xa trời đột nhiên tỉnh lại, âm mưu tu hú chiếm tổ dẫn đến nhiều tai họa liên tiếp. Ngụy Nhiêu hận cô chiếm chỗ của mình, nôn nóng muốn trừ khử cô; Lục Trạc coi cô là người phụ nữ độc địa, tìm mọi cách phòng bị trước các toan tính. Quốc Công Phủ bề ngoài trông hòa thuận êm ấm, thực ra đầy rẫy cạm bẫy, nguy hiểm bủa vây. A Sửu nỗ lực xoay sở giữa cơn sóng ngầm, mưu tính con đường phía trước, vùng vẫy thoát khỏi xiềng xích của số phận, hơn nữa còn điều tra ra bí mật về thân thế của mình, cuối cùng cũng được đoàn tụ với người thân yêu nhất, đang từ cô gái đổ phân thấp hèn lội ngược dòng vươn lên cao, sống cuộc đời gấm hoa rực rỡ."
     },
     {
         "name": "Đúng Là Một Cô Gái Ngoan Ngoãn",
