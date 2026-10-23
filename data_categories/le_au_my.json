@@ -1,5 +1,29 @@
 [
     {
+        "name": "Thợ Cắm Hoa",
+        "year": 2026,
+        "slug": "tho-cam-hoa",
+        "thumb": "https://phimimg.com/uploads/movies/20261023/tho-cam-hoa-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261023/tho-cam-hoa-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Ý",
+        "description": "Một chuyên gia làm vườn trầm lặng ẩn giấu thân phận thật là một sát thủ máu lạnh. Cuộc sống bí mật của anh đứng trước nguy cơ bị bại lộ khi anh nảy sinh một tình bạn bất ngờ với nhân chứng duy nhất của một vụ bê bối tham nhũng trong lực lượng cảnh sát."
+    },
+    {
+        "name": "Trọng Lượng",
+        "year": 2026,
+        "slug": "trong-luong",
+        "thumb": "https://phimimg.com/uploads/movies/20261023/trong-luong-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261023/trong-luong-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Khi Samuel bị tách khỏi con gái mình và bị đưa đến nhà tù tàn bạo, Warden Clancy đưa ra cho anh một đề nghị mạo hiểm: buôn lậu vàng ra khỏi một khu mỏ hẻo lánh cùng với một nhóm tù nhân nguy hiểm và anh sẽ giành được tự do."
+    },
+    {
         "name": "Bằng Mọi Giá",
         "year": 2026,
         "slug": "bang-moi-gia",
@@ -334,29 +358,5 @@
         "total_episodes": "1",
         "country": "Mỹ",
         "description": "Chuyến nghỉ dưỡng của một gia đình trở nên tồi tệ khi người con gái cùng các bạn của cô bị lạc trên biển khi đang ở trên một chiếc thuyền đánh cá. Khi chiếc thuyền đó bị phá hủy, họ phải sinh tồn trên một chiếc thuyền chèo rồi lênh đênh giữa đại dương mênh mông. Cha mẹ cô vội vã chạy đua với thời gian để tìm kiếm con gái trong khi bầy cá mập ngày càng áp sát trong một cuộc chiến sinh tồn đẫm máu."
-    },
-    {
-        "name": "Đội nhảy xuất sắc nhất / Đội nhảy số một",
-        "year": 2026,
-        "slug": "doi-nhay-xuat-sac-nhat-doi-nhay-so-mot",
-        "thumb": "https://phimimg.com/uploads/movies/20260921/doi-nhay-xuat-sac-nhat-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260921/doi-nhay-xuat-sac-nhat-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Trên hành trình chinh phục ngôi vị quán quân và vượt qua các vòng thi đấu căng thẳng, họ phải đối mặt với những đối thủ đáng gờm — nổi bật là Deepica (Shreya Navile), đội trưởng một đội nhảy đối thủ đầy tài năng. Bộ phim kết hợp giữa các màn vũ đạo hoành tráng, âm nhạc sôi động và những câu chuyện dở khóc dở cười tuổi sinh viên."
-    },
-    {
-        "name": "Một Bộ Phim Minecraft",
-        "year": 2025,
-        "slug": "mot-bo-phim-minecraft",
-        "thumb": "https://phimimg.com/upload/vod/20250513-1/7c40c5e1c5f88fdff52d54b03d084497.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250508-1/d43ada4cb5f9a1dbdb9d614406726a53.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Thụy Điển",
-        "description": "Chào mừng bạn đến với thế giới của Minecraft, nơi sự sáng tạo không chỉ giúp bạn chế tạo mà còn là yếu tố quan trọng để sống sót! Bốn kẻ lạc lõng - Garrett “The Garbage Man” Garrison (Momoa), Henry (Hansen), Natalie (Myers) và Dawn (Brooks) - bất ngờ gặp rắc rối khi họ bị kéo qua cánh cửa bí ẩn dẫn đến Overworld: một thế giới kỳ lạ được tạo bởi những khối lập phương và phát triển nhờ vào trí tưởng tượng. Để trở về nhà, họ cần phải làm chủ được thế giới này (và bảo vệ nó khỏi những thực thể tà ác như Piglins và Thây Ma) trong khi dấn thân vào chuyến phiêu lưu màu nhiệm với một thợ chế tạo chuyên nghiệp và khó lường - Steve (Black). Chuyến hành trình này sẽ thách thức sự can đảm của cả năm người, thúc đẩy họ tìm lại với những phẩm chất làm nên sự đặc biệt của riêng mình,… đồng thời là những kỹ năng cần thiết để trở lại với thế giới thật."
     }
 ]

@@ -1,5 +1,53 @@
 [
     {
+        "name": "Bảo Vệ Đất Mẹ",
+        "year": 2026,
+        "slug": "bao-ve-dat-me",
+        "thumb": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "24",
+        "country": "Thái Lan",
+        "description": "Mintada, chiến binh người Kase, học ở Thái Lan và phải lòng tiểu thư giàu có Punpussa, nhưng chiến tranh, sự ngăn cấm của gia đình và nghĩa vụ với quê hương chia cắt họ."
+    },
+    {
+        "name": "Trái tim của kẻ ký sinh",
+        "year": 2026,
+        "slug": "trai-tim-cua-ke-ky-sinh",
+        "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 29",
+        "total_episodes": "30",
+        "country": "Thái Lan",
+        "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
+    },
+    {
+        "name": "Di Sản Đen Tối",
+        "year": 2026,
+        "slug": "di-san-den-toi",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20261009/di-san-den-toi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Một gia đình tụ họp suốt một tháng để giành gia tài của người ông. Nhưng khi hàng loạt vụ án mạng xảy ra, họ phải tìm ra kẻ sát nhân đang ẩn mình trong số họ."
+    },
+    {
+        "name": "Mái Ấm Địa Ngục",
+        "year": 2026,
+        "slug": "mai-am-dia-nguc",
+        "thumb": "https://phimimg.com/uploads/movies/20261015/mai-am-dia-nguc-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261015/mai-am-dia-nguc-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 3",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Con trai của nữ nghệ sĩ nổi tiếng Marisa vướng vào mối quan hệ cấm kỵ, kéo theo hàng loạt biến cố và cuối cùng dẫn đến một vụ án mạng bí ẩn. Trong khi cô con dâu Tulaya quyết tâm tìm ra sự thật, Marisa lại bất chấp tất cả để bảo vệ con trai và danh tiếng gia đình. Sự xuất hiện của cô gái bí ẩn Nalin lại càng khiến mọi chuyện vượt khỏi tầm kiểm soát. Những bí mật của hiện tại dần hé lộ bi kịch trong quá khứ, vạch trần Mái Ấm Địa Ngục ẩn sau vẻ ngoài hoàn hảo của một gia đình danh giá."
+    },
+    {
         "name": "Chuyện Tình Đảo Thiên Đường",
         "year": 2026,
         "slug": "chuyen-tinh-dao-thien-duong",
@@ -10,18 +58,6 @@
         "total_episodes": "17",
         "country": "Thái Lan",
         "description": "Một thuyền trưởng mang lời nguyền và một YouTuber bỏ trốn cùng chạy đua tìm kiếm Mặt nạ Hồng ngọc Đen – cổ vật huyền thoại có thể ban một điều ước của thần biển."
-    },
-    {
-        "name": "Trái tim của kẻ ký sinh",
-        "year": 2026,
-        "slug": "trai-tim-cua-ke-ky-sinh",
-        "thumb": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260914/trai-tim-cua-ke-ky-sinh-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 28",
-        "total_episodes": "30",
-        "country": "Thái Lan",
-        "description": "Bị ràng buộc trong cuộc hôn nhân bất ngờ, Hataya và Ramil vốn bị chính gia đình họ ghẻ lạnh nhưng vẫn luôn sẵn lòng cứu người thân để chứng minh giá trị của bản thân."
     },
     {
         "name": "Phía Sau Dối Trá",
@@ -168,18 +204,6 @@
         "description": "Dean (William Jakrapatr) là một anh chàng hào hoa, thích tiệc tùng, tán tỉnh và kiên quyết không muốn bị ràng buộc trong một mối quan hệ lâu dài. Mọi chuyện bắt đầu rẽ hướng khi anh nhận lời giúp cậu bạn thân Ten (Barcode Tinnasit) để tiếp cận Pun (Kin Thanachai) – người mà Ten đang thầm thương trộm nhớ, nhưng ngặt nỗi Pun lại có tình cảm với Moth (Est Supha)."
     },
     {
-        "name": "Di Sản Đen Tối",
-        "year": 2026,
-        "slug": "di-san-den-toi",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20261009/di-san-den-toi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "8",
-        "country": "Thái Lan",
-        "description": "Một gia đình tụ họp suốt một tháng để giành gia tài của người ông. Nhưng khi hàng loạt vụ án mạng xảy ra, họ phải tìm ra kẻ sát nhân đang ẩn mình trong số họ."
-    },
-    {
         "name": "Hội quạ đen",
         "year": 2026,
         "slug": "hoi-qua-den",
@@ -214,18 +238,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
-    },
-    {
-        "name": "Mái Ấm Địa Ngục",
-        "year": 2026,
-        "slug": "mai-am-dia-nguc",
-        "thumb": "https://phimimg.com/uploads/movies/20261015/mai-am-dia-nguc-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261015/mai-am-dia-nguc-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 2",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Con trai của nữ nghệ sĩ nổi tiếng Marisa vướng vào mối quan hệ cấm kỵ, kéo theo hàng loạt biến cố và cuối cùng dẫn đến một vụ án mạng bí ẩn. Trong khi cô con dâu Tulaya quyết tâm tìm ra sự thật, Marisa lại bất chấp tất cả để bảo vệ con trai và danh tiếng gia đình. Sự xuất hiện của cô gái bí ẩn Nalin lại càng khiến mọi chuyện vượt khỏi tầm kiểm soát. Những bí mật của hiện tại dần hé lộ bi kịch trong quá khứ, vạch trần Mái Ấm Địa Ngục ẩn sau vẻ ngoài hoàn hảo của một gia đình danh giá."
     },
     {
         "name": "Bóng Dưới Trăng",
@@ -346,17 +358,5 @@
         "total_episodes": "16",
         "country": "Thái Lan",
         "description": "Được làm lại từ bộ phim Hàn Quốc đình đám cùng tên, Lâu Đài Tham Vọng (Bản Thái) xoay quanh cuộc chiến khốc liệt của những bậc cha mẹ giàu có tại khu biệt thự Sky Castle nhằm đưa con cái vào trường đại học danh giá. Fah, một người mẹ đang che giấu quá khứ nghèo khó, quyết tâm ép con gái phải đỗ Harvard để bảo vệ địa vị của bản thân. Áp lực ngày càng gia tăng với sự xuất hiện của một chuyên gia luyện thi khắc nghiệt và một học sinh thiên tài mang trong mình một bí mật có thể phá hủy mọi thứ mà Fah dày công gây dựng. Sau một sự cố gây chấn động tại một bữa tiệc, những sự thật bị chôn vùi ở Sky Castle lần lượt bị phơi bày."
-    },
-    {
-        "name": "Hãy Là Người Chơi Thứ Hai Của Tôi / Hãy Làm Người Chơi Số Hai Của Anh (Bản Uncut)",
-        "year": 2026,
-        "slug": "hay-la-nguoi-choi-thu-hai-cua-toi-hay-lam-nguoi-choi-so-hai-cua-anh-ban-uncut",
-        "thumb": "https://phimimg.com/uploads/movies/20260718/hay-la-nguoi-choi-thu-hai-cua-toi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260718/hay-la-nguoi-choi-thu-hai-cua-toi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Đây là một bộ phim hài lãng mạn vô cùng chữa lành. Chàng streamer game siêu nổi tiếng nhưng độc miệng tên \"Three\" bất ngờ thua trước một người chơi mới thanh thuần tên \"Soh\" ngay trên sóng livestream. Chuyện vốn dĩ bắt đầu từ một cuộc đi \"Tìm kiếm đối thủ cạnh tranh\" lại bất ngờ biến thành hành trình \"Tình cờ gặp gỡ tình yêu\". Người tưởng chừng như chỉ biết \"quấy rối tinh thần\" lại chính là người \"làm trái tim rung động\". Trên con đường theo đuổi ước mơ eSports, họ không chỉ phải đối mặt với thử thách từ các trận đấu game mà còn phải học cách đối diện với thứ tình cảm không thể dễ dàng nhấn nút \"khởi động lại\"."
     }
 ]

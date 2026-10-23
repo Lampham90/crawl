@@ -1,5 +1,53 @@
 [
     {
+        "name": "Tiểu Thành Lương Phương",
+        "year": 2026,
+        "slug": "tieu-thanh-luong-phuong",
+        "thumb": "https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 6",
+        "total_episodes": "29",
+        "country": "Trung Quốc",
+        "description": "Sau một biến cố nghiêm trọng trong sự nghiệp, bác sĩ thiên tài Lưu Tranh Lượng buộc phải trở về quê nhà và làm việc tại một bệnh viện tuyến cơ sở. Tại đây, anh cùng đồng nghiệp thường xuyên đối mặt với các ca bệnh oái oăm và những tình huống dở khóc dở cười. Tiểu Thành Lương Phương chính là hành trình tìm lại ý nghĩa của nghề y và giá trị của cuộc sống của Lưu Tranh Lượng qua từng ca bệnh ở thị trấn nhỏ."
+    },
+    {
+        "name": "Yêu Một Kẻ Ngốc",
+        "year": 2026,
+        "slug": "yeu-mot-ke-ngoc",
+        "thumb": "https://phimimg.com/uploads/movies/20261010/yeu-mot-ke-ngoc-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261010/yeu-mot-ke-ngoc-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "20",
+        "country": "Trung Quốc",
+        "description": "Ing — người thừa kế vô cùng tự tin của Tập đoàn Araya — tình cờ gặp gỡ Yok, người thừa kế của một gia đình quý tộc lâu đời, thông qua Itt (em cùng cha khác mẹ của Ing và cũng là bạn của Yok). Lấy cớ bàn chuyện công việc, Ing liên tục tìm mọi cách để bước vào cuộc sống của Yok. Thế rồi, trong một đêm hỗn loạn chìm đắm trong men rượu, cả hai vượt qua giới hạn và trở nên thân mật, khiến tình cảm mà Yok dành cho Ing dần dần thay đổi. Khi tình yêu bắt đầu chớm nở giữa họ, Ing hoàn toàn không hề hay biết rằng bản thân đã bước vào một cái bẫy do chính Yok giăng sẵn."
+    },
+    {
+        "name": "Đại Thiên Tiểu Trấn",
+        "year": 2026,
+        "slug": "dai-thien-tieu-tran",
+        "thumb": "https://phimimg.com/uploads/movies/20260726/dai-thien-tieu-tran-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260726/dai-thien-tieu-tran-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 26",
+        "total_episodes": "104",
+        "country": "Trung Quốc",
+        "description": "Thị Trấn Đại Thiên là một bộ phim hoạt hình ngắn ăn theo (derivative animated short) được phát triển dựa trên ba tác phẩm nổi tiếng của tác giả Thiên Tàm Thổ Đậu gồm: Đại Chúa Tể, Nguyên Tôn và Vạn Tướng Chi Vương."
+    },
+    {
+        "name": "Cuộc Trường Chinh Vĩ Đại",
+        "year": 2026,
+        "slug": "cuoc-truong-chinh-vi-dai",
+        "thumb": "https://phimimg.com/uploads/movies/20261021/cuoc-truong-chinh-vi-dai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261021/cuoc-truong-chinh-vi-dai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 23",
+        "total_episodes": "60",
+        "country": "Trung Quốc",
+        "description": "Lấy cuộc Trường Chinh của Hồng quân Trung ương làm tuyến truyện chủ đạo, tác phẩm tái hiện toàn diện tiến trình lịch sử từ sau thất bại của cuộc chống “vây quét” lần thứ năm, đến khi Phương Diện quân số 1, số 2, số 4 của Hồng quân và Quân đoàn số 25 lần lượt tiến hành chuyển dịch chiến lược dưới sự lãnh đạo của Trung ương Đảng Cộng sản Trung Quốc, trải qua cuộc Trường Chinh đầy gian khổ và cuối cùng giành được thắng lợi. Tác phẩm ca ngợi niềm tin lý tưởng kiên định, tinh thần cách mạng bất khuất của những người cộng sản Trung Quốc, tiêu biểu là đồng chí Mao Trạch Đông. Đồng thời, tác phẩm làm rõ nguyên nhân và logic lịch sử của quá trình hình thành, phát triển cách mạng Trung Quốc, cũng như khẳng định luận điểm sâu sắc rằng chủ nghĩa Mác chỉ có thể dẫn dắt cách mạng Trung Quốc giành thắng lợi khi được kết hợp với thực tiễn cụ thể của cách mạng Trung Quốc."
+    },
+    {
         "name": "Thái Cổ Thần Tôn",
         "year": 2026,
         "slug": "thai-co-than-ton",
@@ -10,18 +58,6 @@
         "total_episodes": "40",
         "country": "Trung Quốc",
         "description": "Thái tử tối cao của Linh Giới bị hãm hại oan uổng, thân vong đạo tiêu, trùng sinh rơi xuống phàm trần, biến thành một tên tạp dịch hèn mọn. Trong người mang thần đan tạo hóa tuyệt thế và công pháp nghịch thiên, chỉ với một thanh kiếm gỉ, hắn lật nhào cả võ đạo giới. Song võ hồn đồng thời thức tỉnh, luyện hóa vạn linh, tham ngộ cả hai con đường thần hồn. Kho báu Thiên Ma, bí cảnh Hóa Long, di tích Viễn Cổ đều bị hắn giẫm đạp khắp nơi, chiến giáp Ma Tôn, kính Đại Hoang, vô số bảo vật vô thượng đều thu vào tay. Các thiên kiêu khắp nơi, bọn sâu mọt trong tông môn, tà tộc ngoại vực lần lượt xông lên tìm chết, đều bị hắn một kiếm quét ngang, đè bẹp tại chỗ. Thu phục Long hồn và Linh khuyển thông linh, bảo vệ những người thân cận và mỹ nhân bên cạnh, đạp qua Võ Vương, phá Võ Hoàng, đăng lâm Võ Tôn, một mình đối đầu 2 kẻ thù truyền kiếp là Long Già Thiên và Nam Cung Lăng Thiên, vạch trần âm mưu bị chôn vùi của thời kỳ Hắc Ám cổ xưa."
-    },
-    {
-        "name": "Tiểu Thành Lương Phương",
-        "year": 2026,
-        "slug": "tieu-thanh-luong-phuong",
-        "thumb": "https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 4",
-        "total_episodes": "29",
-        "country": "Trung Quốc",
-        "description": "Sau một biến cố nghiêm trọng trong sự nghiệp, bác sĩ thiên tài Lưu Tranh Lượng buộc phải trở về quê nhà và làm việc tại một bệnh viện tuyến cơ sở. Tại đây, anh cùng đồng nghiệp thường xuyên đối mặt với các ca bệnh oái oăm và những tình huống dở khóc dở cười. Tiểu Thành Lương Phương chính là hành trình tìm lại ý nghĩa của nghề y và giá trị của cuộc sống của Lưu Tranh Lượng qua từng ca bệnh ở thị trấn nhỏ."
     },
     {
         "name": "Dữ Thương Long",
@@ -240,18 +276,6 @@
         "description": "Tại một quảng trường xảy ra hàng loạt vụ án mạng kỳ quái: kẻ nghiện rượu bị đông cứng thành tượng băng, người đàn ông cường tráng bị cắt cụt chi tàn nhẫn, kẻ côn đồ địa phương đột nhiên biến mất không dấu vết… Các vụ việc tưởng chừng không có mối liên hệ nào, nhưng thực ra số phận gắn kết chặt chẽ chúng với nhau, đồng thời mối quan hệ tình cảm giữa các nhân vật cũng đan xen đầy phức tạp."
     },
     {
-        "name": "Cuộc Trường Chinh Vĩ Đại",
-        "year": 2026,
-        "slug": "cuoc-truong-chinh-vi-dai",
-        "thumb": "https://phimimg.com/uploads/movies/20261021/cuoc-truong-chinh-vi-dai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261021/cuoc-truong-chinh-vi-dai-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 21",
-        "total_episodes": "60",
-        "country": "Trung Quốc",
-        "description": "Lấy cuộc Trường Chinh của Hồng quân Trung ương làm tuyến truyện chủ đạo, tác phẩm tái hiện toàn diện tiến trình lịch sử từ sau thất bại của cuộc chống “vây quét” lần thứ năm, đến khi Phương Diện quân số 1, số 2, số 4 của Hồng quân và Quân đoàn số 25 lần lượt tiến hành chuyển dịch chiến lược dưới sự lãnh đạo của Trung ương Đảng Cộng sản Trung Quốc, trải qua cuộc Trường Chinh đầy gian khổ và cuối cùng giành được thắng lợi. Tác phẩm ca ngợi niềm tin lý tưởng kiên định, tinh thần cách mạng bất khuất của những người cộng sản Trung Quốc, tiêu biểu là đồng chí Mao Trạch Đông. Đồng thời, tác phẩm làm rõ nguyên nhân và logic lịch sử của quá trình hình thành, phát triển cách mạng Trung Quốc, cũng như khẳng định luận điểm sâu sắc rằng chủ nghĩa Mác chỉ có thể dẫn dắt cách mạng Trung Quốc giành thắng lợi khi được kết hợp với thực tiễn cụ thể của cách mạng Trung Quốc."
-    },
-    {
         "name": "Thắp Sáng Đêm Đen",
         "year": 2026,
         "slug": "thap-sang-dem-den",
@@ -334,29 +358,5 @@
         "total_episodes": "40",
         "country": "Trung Quốc",
         "description": "Câu chuyện về những cuộc chiến với xác sống không còn mới mẻ nữa, nhưng Tôi Nộp Tận Thế Cho Quốc Gia thì lại hoàn toàn khác, xác sống ở đây không hiện hữu trong thế giới hiện đại của con người, mà ở một thế giới hoàn toàn khác, có lẽ thế giới ấy đã bị ăn mòn tới cùng cực, giống như là đã và đang ở giai đoạn tận thế ấy. Và thế giới tận thế ấy được phát hiện bởi anh thanh niên Trần Phong bằng thứ năng lực xuyên không kỳ lạ của mình, anh dễ dàng đi lại giữa hai thế giới mà chẳng vướng chút khó khăn nào. Trần Phong rất thật thà nên đã báo cáo ngay sự việc hệ trọng ấy tới quốc gia và rất nhanh chóng, quốc gia đã thành lập những đội quân hùng mạnh và được vũ trang bằng những vũ khí hiện đại nhất để đến và chinh phục thế giới xác sống tận thế ấy. Không nằm ngoài dự liệu, quân đội của quốc gia đã chiến được thế áp đảo hoàn toàn trước thế giới xác sống và các tên trùm sỏ nơi đây. Ngoài việc kiếm được những lợi ích từ công nghệ và khoa học nơi đây, thì quốc gia của Trần Phong cũng phải đứng trước sự ganh tị và dòm ngó từ những quốc gia xung quanh, sẵn sàng đưa mọi thứ trở nên căng thẳng, thậm chí là những cuộc giao tranh có thể nổ ra."
-    },
-    {
-        "name": "Pháp Sư Tử Linh: Ta Chính Là Thiên Tai",
-        "year": 2026,
-        "slug": "phap-su-tu-linh-ta-chinh-la-thien-tai",
-        "thumb": "https://phimimg.com/uploads/movies/20260807/phap-su-tu-linh-ta-chinh-la-thien-tai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260807/phap-su-tu-linh-ta-chinh-la-thien-tai-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 27",
-        "total_episodes": "60",
-        "country": "Trung Quốc",
-        "description": "Pháp Sư Tử Linh: Ta Chính Là Thiên Tai, một tác phẩm được chuyển thể từ cuốn tiểu thuyết nổi tiếng cùng tên, mang đến câu chuyện về hành trình trở thành một quân vương của một người có tên là Lâm Mặc Ngữ. Vốn không định làm vua, nhưng cuộc sống xô đẩy và Lâm Mặc Ngữ đã phải thuận theo thời thế. Nơi mà anh ta sống thực tế là đang bị những quy tắc của trò chơi giáng xuống và làm đảo lộn mọi thứ, con người và những sinh linh trên thế giới bị biến thành những phần của trò chơi, thậm chí là họ phải đối mặt với nạn xâm lăng từ những dị tộc như ma tộc và long tộc, mang đến những cuộc chiến không có hồi kết và vô cùng khốc liệt. Nhưng với Lâm Mặc Ngữ thì khác, anh ta mang trên mình những thiên phú bẩm sinh rất đặc biệt, những năng lực rất khác người, chỉ cần xua tay là có thể tạo ra một đội quân hùng mạnh. Nhờ vậy mà Lâm Mặc Ngữ đã đánh lui được những dị tộc và mang lại sự bình yên cho thế giới, phá vỡ thế chân vạc vốn tồn tại lâu năm giữa 3 nước để thống nhất thiên hạ, trở thành một vị quân vương chính hiệu."
-    },
-    {
-        "name": "Ngọa Long: Thiên Tài Quân Sư",
-        "year": 2026,
-        "slug": "ngoa-long-thien-tai-quan-su",
-        "thumb": "https://phimimg.com/uploads/movies/20260912/ngoa-long-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260912/ngoa-long-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (6/6)",
-        "total_episodes": "6",
-        "country": "Trung Quốc",
-        "description": "Linh hồn của quân sư Gia Cát Lượng xuyên không từ thời Tam Quốc, nhập vào thân xác một người đàn ông đang chật vật với cuộc sống hiện đại."
     }
 ]
