@@ -1,5 +1,17 @@
 [
     {
+        "name": "Vision Quest",
+        "year": 2026,
+        "slug": "vision-quest",
+        "thumb": "https://phimimg.com/uploads/movies/20261017/vision-quest-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261017/vision-quest-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Bị treo thưởng truy nã, Vision buộc phải đối diện với bản ngã của mình và chống lại sự thao túng từ Ultron để có thể sống sót."
+    },
+    {
         "name": "Lãnh Địa Tử Chiến (Phần 2)",
         "year": 2026,
         "slug": "lanh-dia-tu-chien-phan-2",
@@ -70,18 +82,6 @@
         "total_episodes": "8",
         "country": "Âu Mỹ",
         "description": "Hai tài tử Hollywood Matthew McConaughey và Woody Harrelson là đôi bạn thân nhiều năm—nhưng một bí mật gia đình chấn động cho thấy mối thâm tình này có thể còn khăng khít hơn thế."
-    },
-    {
-        "name": "Vision Quest",
-        "year": 2026,
-        "slug": "vision-quest",
-        "thumb": "https://phimimg.com/uploads/movies/20261017/vision-quest-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261017/vision-quest-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "8",
-        "country": "Âu Mỹ",
-        "description": "Bị treo thưởng truy nã, Vision buộc phải đối diện với bản ngã của mình và chống lại sự thao túng từ Ultron để có thể sống sót."
     },
     {
         "name": "Hồ Crystal",
