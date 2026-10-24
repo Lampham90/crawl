@@ -1,5 +1,17 @@
 [
     {
+        "name": "Lằn Ranh Tử Chiến",
+        "year": 2026,
+        "slug": "lan-ranh-tu-chien",
+        "thumb": "https://phimimg.com/uploads/movies/20261018/lan-ranh-tu-chien-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261018/lan-ranh-tu-chien-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Một người mẹ sống trong khu nhà xe phải liều mình bảo vệ gia đình khi một mối hiểm họa thoát ra từ căn cứ quân sự bí mật. Khi lực lượng lính đánh thuê kéo đến để phong tỏa mọi thứ, cuộc chiến sinh tồn của cô nhanh chóng biến thành cuộc đối đầu không lối thoát."
+    },
+    {
         "name": "Thợ Cắm Hoa",
         "year": 2026,
         "slug": "tho-cam-hoa",
@@ -94,18 +106,6 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Một tuyển tập kinh dị hỗn loạn theo phong cách băng VHS, nơi những đoạn phim kỳ quái, ghê rợn và đôi khi đen tối đến mức hài hước nối tiếp nhau như một cuộn băng bị nguyền rủa. Mỗi câu chuyện mở ra một cơn ác mộng khác, nhưng tất cả đều mang chung cảm giác méo mó, bẩn thỉu và không thể đoán trước."
-    },
-    {
-        "name": "Lằn Ranh Tử Chiến",
-        "year": 2026,
-        "slug": "lan-ranh-tu-chien",
-        "thumb": "https://phimimg.com/uploads/movies/20261018/lan-ranh-tu-chien-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261018/lan-ranh-tu-chien-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Một người mẹ sống trong khu nhà xe phải liều mình bảo vệ gia đình khi một mối hiểm họa thoát ra từ căn cứ quân sự bí mật. Khi lực lượng lính đánh thuê kéo đến để phong tỏa mọi thứ, cuộc chiến sinh tồn của cô nhanh chóng biến thành cuộc đối đầu không lối thoát."
     },
     {
         "name": "Cá Voi Nuốt Chửng",

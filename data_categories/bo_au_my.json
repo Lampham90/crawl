@@ -1,5 +1,29 @@
 [
     {
+        "name": "Chẳng Ai Tác Hợp (Phần 3)",
+        "year": 2026,
+        "slug": "chang-ai-tac-hop-phan-3",
+        "thumb": "https://phimimg.com/uploads/movies/20261024/chang-ai-tac-hop-phan-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261024/chang-ai-tac-hop-phan-3-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Một tác giả podcast về tình dục theo thuyết bất khả tri và một Thầy đạo mới độc thân yêu nhau. Liệu họ có vượt qua được lối sống hoàn toàn khác biệt và sự can thiệp của gia đình?"
+    },
+    {
+        "name": "Chẳng Ai Tác Hợp (Phần 2)",
+        "year": 2025,
+        "slug": "chang-ai-tac-hop-phan-2",
+        "thumb": "https://phimimg.com/upload/vod/20251023-1/3039205f111d7162f39ea620bab8eb75.jpg",
+        "poster": "https://phimimg.com/upload/vod/20251023-1/78b965a5f053df1fafe711c78ee43f15.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Một tác giả podcast về tình dục theo thuyết bất khả tri và một Thầy đạo mới độc thân yêu nhau. Liệu họ có vượt qua được lối sống hoàn toàn khác biệt và sự can thiệp của gia đình?"
+    },
+    {
         "name": "Vision Quest",
         "year": 2026,
         "slug": "vision-quest",
@@ -334,29 +358,5 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
-    },
-    {
-        "name": "Lực lượng Lanterns (Phần 1)",
-        "year": 2026,
-        "slug": "luc-luong-lanterns-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260817/luc-luong-lanterns-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Âu Mỹ",
-        "description": "Xoay quanh tân binh John Stewart và huyền thoại Hal Jordan — hai cảnh sát liên ngân hà bị cuốn vào một bí ẩn đen tối ngay tại Trái Đất khi họ điều tra một vụ án mạng ở vùng trung tâm nước Mỹ."
-    },
-    {
-        "name": "Tổng Thống Curtis (Phần 1)",
-        "year": 2026,
-        "slug": "tong-thong-curtis-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260906/tong-thong-curtis-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260906/tong-thong-curtis-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Tổng Thống Curtis theo chân Tổng tư lệnh và các nhân viên lập dị của ông điều tra những hiện tượng siêu nhiên chưa được giải thích."
     }
 ]
