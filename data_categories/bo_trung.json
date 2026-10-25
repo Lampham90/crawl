@@ -1,5 +1,29 @@
 [
     {
+        "name": "Thượng Công Chúa",
+        "year": 2026,
+        "slug": "thuong-cong-chua",
+        "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 7",
+        "total_episodes": "40",
+        "country": "Trung Quốc",
+        "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
+    },
+    {
+        "name": "Mỹ Nhân Dư",
+        "year": 2026,
+        "slug": "my-nhan-du",
+        "thumb": "https://phimimg.com/uploads/movies/20261010/my-nhan-du-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261010/my-nhan-du-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 25",
+        "total_episodes": "28",
+        "country": "Trung Quốc",
+        "description": "Dư Mộng là con gái độc nhất của gia đình ở khu vực Giang Tô-Chiết Giang-Thượng Hải, và là một blogger mạng, được nhiều người ca ngợi là \"cô gái tốt số\". Vào kỷ niệm 5 năm ngày cưới, cuộc sống tưởng chừng hoàn hảo, hạnh phúc của cô đột ngột tan vỡ: cuộc hôn nhân mỹ mãn với \"chàng rể mẫu mực\" bắt đầu rạn nứt, không những thế cô còn phải đối mặt với vô vàn nguy cơ bị \"hút máu\", vơ vét cạn kiệt tài sản. Nhờ sự giúp đỡ của bạn bè, Dư Mộng nhìn lại cuộc đời mình và giành lại quyền kiểm soát."
+    },
+    {
         "name": "Dấu Vết Phỏng Sinh",
         "year": 2026,
         "slug": "dau-vet-phong-sinh",
@@ -144,18 +168,6 @@
         "description": "Bắt Đầu Với Chí Tôn Đan Điền phiên bản 3D sẽ mang đến những khoảnh khắc thú vì hơn với việc khắc họa sinh động hành trình trở thành Đại Đế đầy gian khổ của một bán thần tên là Tần Thư. Bị coi là bán thần vì Tần Thư tuy mang cốt cách của một thần tử nhưng lại sống trong thân xác của một người phàm từ khi mới sinh ra. Điều này mang lại vô số điều bất lợi và sự khinh miệt đến với cậu, các thần nhân thì luôn tìm cách để chiếm đoạt lấy thân phận thần tử của mình bởi với họ thì điều đó quá dễ dàng. Nhưng khi giang trần để thực sự sống trong thân thế của một con người đích thực, Tần Thư đã đanh thép khẳng định được sức mạnh và ý chí không bao giờ khuất phục của mình. Nhờ có những nỗ lực và cả cơ duyên nên Tần Thư đã có được Đan Đình Vĩnh Động, sức mạnh nâng lên không ngừng. Tần Thư đã giao chiến và hạ gục cả quỷ Tu La lẫn tên Võ Đế với sức mạnh vô song."
     },
     {
-        "name": "Thượng Công Chúa",
-        "year": 2026,
-        "slug": "thuong-cong-chua",
-        "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 5",
-        "total_episodes": "40",
-        "country": "Trung Quốc",
-        "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
-    },
-    {
         "name": "Tiểu Thành Lương Phương",
         "year": 2026,
         "slug": "tieu-thanh-luong-phuong",
@@ -166,18 +178,6 @@
         "total_episodes": "29",
         "country": "Trung Quốc",
         "description": "Sau một biến cố nghiêm trọng trong sự nghiệp, bác sĩ thiên tài Lưu Tranh Lượng buộc phải trở về quê nhà và làm việc tại một bệnh viện tuyến cơ sở. Tại đây, anh cùng đồng nghiệp thường xuyên đối mặt với các ca bệnh oái oăm và những tình huống dở khóc dở cười. Tiểu Thành Lương Phương chính là hành trình tìm lại ý nghĩa của nghề y và giá trị của cuộc sống của Lưu Tranh Lượng qua từng ca bệnh ở thị trấn nhỏ."
-    },
-    {
-        "name": "Mỹ Nhân Dư",
-        "year": 2026,
-        "slug": "my-nhan-du",
-        "thumb": "https://phimimg.com/uploads/movies/20261010/my-nhan-du-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261010/my-nhan-du-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 24",
-        "total_episodes": "28",
-        "country": "Trung Quốc",
-        "description": "Dư Mộng là con gái độc nhất của gia đình ở khu vực Giang Tô-Chiết Giang-Thượng Hải, và là một blogger mạng, được nhiều người ca ngợi là \"cô gái tốt số\". Vào kỷ niệm 5 năm ngày cưới, cuộc sống tưởng chừng hoàn hảo, hạnh phúc của cô đột ngột tan vỡ: cuộc hôn nhân mỹ mãn với \"chàng rể mẫu mực\" bắt đầu rạn nứt, không những thế cô còn phải đối mặt với vô vàn nguy cơ bị \"hút máu\", vơ vét cạn kiệt tài sản. Nhờ sự giúp đỡ của bạn bè, Dư Mộng nhìn lại cuộc đời mình và giành lại quyền kiểm soát."
     },
     {
         "name": "Quang Âm Chi Ngoại",
