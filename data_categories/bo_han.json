@@ -1,5 +1,29 @@
 [
     {
+        "name": "Bác Sĩ X",
+        "year": 2026,
+        "slug": "bac-si-x",
+        "thumb": "https://phimimg.com/uploads/movies/20261010/bac-si-x-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261010/bac-si-x-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Ở một bệnh viện nơi cái tôi và tham nhũng lộng hành, một bác sĩ phẫu thuật bí ẩn nhưng tài năng xuất hiện – nhận những ca tưởng chừng bất khả thi bất chấp sự phản đối quyết liệt."
+    },
+    {
+        "name": "100 Ngày Lừa Dối",
+        "year": 2026,
+        "slug": "100-ngay-lua-doi",
+        "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "16",
+        "country": "Hàn Quốc",
+        "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
+    },
+    {
         "name": "Hương Vị Của Biển (Mùa 3)",
         "year": 2026,
         "slug": "huong-vi-cua-bien-mua-3",
@@ -10,18 +34,6 @@
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
-    },
-    {
-        "name": "Bác Sĩ X",
-        "year": 2026,
-        "slug": "bac-si-x",
-        "thumb": "https://phimimg.com/uploads/movies/20261010/bac-si-x-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261010/bac-si-x-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Ở một bệnh viện nơi cái tôi và tham nhũng lộng hành, một bác sĩ phẫu thuật bí ẩn nhưng tài năng xuất hiện – nhận những ca tưởng chừng bất khả thi bất chấp sự phản đối quyết liệt."
     },
     {
         "name": "Chuyện Tình Rung Cảm",
@@ -142,18 +154,6 @@
         "total_episodes": "12",
         "country": "Nhật Bản",
         "description": "Thoát khỏi cuộc sống thường nhật ảm đạm trong SATISFY — một trò chơi thực tế ảo nơi người chơi có thể gặt hái danh vọng cùng tiền tài ngoài đời thực. Tuy nhiên, một người chơi tên Grid dường như chưa từng gặp may mắn trong cả game lẫn cuộc sống đời thực. Mọi thứ chỉ hoàn toàn thay đổi khi một nhiệm vụ đầy thử thách đã dẫn lối đưa anh trở thành người thừa kế của một thợ rèn huyền thoại. Dù toàn bộ chỉ số bị đưa về số 0, anh vẫn đang thăng cấp thần tốc và tự tay chế tạo ra những trang bị cấp thần vô cùng bá đạo."
-    },
-    {
-        "name": "100 Ngày Lừa Dối",
-        "year": 2026,
-        "slug": "100-ngay-lua-doi",
-        "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "16",
-        "country": "Hàn Quốc",
-        "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
     },
     {
         "name": "Tiệm Bánh Gạo Vũ Trụ",
