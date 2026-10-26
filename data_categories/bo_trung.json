@@ -1,5 +1,41 @@
 [
     {
+        "name": "Thượng Công Chúa",
+        "year": 2026,
+        "slug": "thuong-cong-chua",
+        "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 9",
+        "total_episodes": "40",
+        "country": "Trung Quốc",
+        "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
+    },
+    {
+        "name": "Nhất Trảm Thương Khung",
+        "year": 2026,
+        "slug": "nhat-tram-thuong-khung",
+        "thumb": "https://phimimg.com/uploads/movies/20260729/nhat-tram-thuong-khung-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260729/nhat-tram-thuong-khung-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 15",
+        "total_episodes": "26",
+        "country": "Trung Quốc",
+        "description": "Từ nhỏ, Cốc An luôn nỗ lực tu luyện với khát vọng trở thành tiên nhân. Thế nhưng, vì trời sinh thiếu linh căn nên anh vô duyên với tiên đạo, lại còn bị lừa vào một khu lừa đảo của giới tu tiên, nhiều lần cận kề cái chết. Sau khi trải qua vô vàn đau khổ và bị dồn đến đường cùng, Cốc An quyết tâm vùng lên báo thù, từng bước nghịch thiên cải mệnh. Con đường thượng vị của anh bắt đầu từ đây, với lời thề một ngày sẽ một đao chém rách cả thương khung."
+    },
+    {
+        "name": "Vạn Cổ Chí Tôn: Lý Vân Tiêu Truyện",
+        "year": 2026,
+        "slug": "van-co-chi-ton-ly-van-tieu-truyen",
+        "thumb": "https://phimimg.com/uploads/movies/20260726/van-co-chi-ton-ly-van-tieu-truyen-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260726/van-co-chi-ton-ly-van-tieu-truyen-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 31",
+        "total_episodes": "50",
+        "country": "Trung Quốc",
+        "description": "Lý Vân Tiêu Truyện kể về hành trình đầy huyền thoại của Lý Vân Tiêu, người không chỉ thay đổi vận mệnh của nước Thiên Thủy mà còn tiếp tục theo đuổi khát vọng bước vào Thần cảnh còn dang dở từ kiếp trước. Ít ai biết rằng, ẩn sau thân phận thiếu niên ấy chính là Cổ Phi Dương, Phá Quân Võ Đế lừng danh, một trong ba cường giả mạnh nhất đại lục Thiên Võ. Dù đã đứng trên đỉnh cao võ đạo, Cổ Phi Dương vẫn mãi bị giam cầm ở cảnh giới Cửu Thiên Võ Đế bởi quy tắc của thiên địa. Không cam tâm dừng bước, hắn chấp nhận đánh đổi tất cả để chuyển thế, bắt đầu lại con đường tu luyện trong thân phận mới mang tên Lý Vân Tiêu. Thời điểm tái sinh cũng là lúc nước Thiên Thủy rơi vào cảnh nội ưu ngoại hoạn, chiến loạn liên miên. Với trí tuệ và kinh nghiệm tích lũy từ kiếp trước, Lý Vân Tiêu từng bước hóa giải những âm mưu, đánh lui cường địch, bảo vệ gia tộc và xoay chuyển vận mệnh của cả đất nước. Đồng thời, cậu cũng không ngừng hoàn thiện thực lực, tiếp tục con đường mà Cổ Phi Dương năm xưa chưa thể đi hết, từng bước hướng đến Thần cảnh, đỉnh cao mà cả đời hắn luôn khao khát chinh phục."
+    },
+    {
         "name": "Tiểu Thành Lương Phương",
         "year": 2026,
         "slug": "tieu-thanh-luong-phuong",
@@ -22,18 +58,6 @@
         "total_episodes": "28",
         "country": "Trung Quốc",
         "description": "Dư Mộng là con gái độc nhất của gia đình ở khu vực Giang Tô-Chiết Giang-Thượng Hải, và là một blogger mạng, được nhiều người ca ngợi là \"cô gái tốt số\". Vào kỷ niệm 5 năm ngày cưới, cuộc sống tưởng chừng hoàn hảo, hạnh phúc của cô đột ngột tan vỡ: cuộc hôn nhân mỹ mãn với \"chàng rể mẫu mực\" bắt đầu rạn nứt, không những thế cô còn phải đối mặt với vô vàn nguy cơ bị \"hút máu\", vơ vét cạn kiệt tài sản. Nhờ sự giúp đỡ của bạn bè, Dư Mộng nhìn lại cuộc đời mình và giành lại quyền kiểm soát."
-    },
-    {
-        "name": "Vạn Cổ Chí Tôn: Lý Vân Tiêu Truyện",
-        "year": 2026,
-        "slug": "van-co-chi-ton-ly-van-tieu-truyen",
-        "thumb": "https://phimimg.com/uploads/movies/20260726/van-co-chi-ton-ly-van-tieu-truyen-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260726/van-co-chi-ton-ly-van-tieu-truyen-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 30",
-        "total_episodes": "50",
-        "country": "Trung Quốc",
-        "description": "Lý Vân Tiêu Truyện kể về hành trình đầy huyền thoại của Lý Vân Tiêu, người không chỉ thay đổi vận mệnh của nước Thiên Thủy mà còn tiếp tục theo đuổi khát vọng bước vào Thần cảnh còn dang dở từ kiếp trước. Ít ai biết rằng, ẩn sau thân phận thiếu niên ấy chính là Cổ Phi Dương, Phá Quân Võ Đế lừng danh, một trong ba cường giả mạnh nhất đại lục Thiên Võ. Dù đã đứng trên đỉnh cao võ đạo, Cổ Phi Dương vẫn mãi bị giam cầm ở cảnh giới Cửu Thiên Võ Đế bởi quy tắc của thiên địa. Không cam tâm dừng bước, hắn chấp nhận đánh đổi tất cả để chuyển thế, bắt đầu lại con đường tu luyện trong thân phận mới mang tên Lý Vân Tiêu. Thời điểm tái sinh cũng là lúc nước Thiên Thủy rơi vào cảnh nội ưu ngoại hoạn, chiến loạn liên miên. Với trí tuệ và kinh nghiệm tích lũy từ kiếp trước, Lý Vân Tiêu từng bước hóa giải những âm mưu, đánh lui cường địch, bảo vệ gia tộc và xoay chuyển vận mệnh của cả đất nước. Đồng thời, cậu cũng không ngừng hoàn thiện thực lực, tiếp tục con đường mà Cổ Phi Dương năm xưa chưa thể đi hết, từng bước hướng đến Thần cảnh, đỉnh cao mà cả đời hắn luôn khao khát chinh phục."
     },
     {
         "name": "Ván Cờ Của Cô Ấy",
@@ -154,18 +178,6 @@
         "total_episodes": "60",
         "country": "Trung Quốc",
         "description": "Lấy cuộc Trường Chinh của Hồng quân Trung ương làm tuyến truyện chủ đạo, tác phẩm tái hiện toàn diện tiến trình lịch sử từ sau thất bại của cuộc chống “vây quét” lần thứ năm, đến khi Phương Diện quân số 1, số 2, số 4 của Hồng quân và Quân đoàn số 25 lần lượt tiến hành chuyển dịch chiến lược dưới sự lãnh đạo của Trung ương Đảng Cộng sản Trung Quốc, trải qua cuộc Trường Chinh đầy gian khổ và cuối cùng giành được thắng lợi. Tác phẩm ca ngợi niềm tin lý tưởng kiên định, tinh thần cách mạng bất khuất của những người cộng sản Trung Quốc, tiêu biểu là đồng chí Mao Trạch Đông. Đồng thời, tác phẩm làm rõ nguyên nhân và logic lịch sử của quá trình hình thành, phát triển cách mạng Trung Quốc, cũng như khẳng định luận điểm sâu sắc rằng chủ nghĩa Mác chỉ có thể dẫn dắt cách mạng Trung Quốc giành thắng lợi khi được kết hợp với thực tiễn cụ thể của cách mạng Trung Quốc."
-    },
-    {
-        "name": "Thượng Công Chúa",
-        "year": 2026,
-        "slug": "thuong-cong-chua",
-        "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 7",
-        "total_episodes": "40",
-        "country": "Trung Quốc",
-        "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
     },
     {
         "name": "Thần Tài Đậu Chiêm Long",
@@ -346,17 +358,5 @@
         "total_episodes": "59",
         "country": "Trung Quốc",
         "description": "Mười năm trước, sau ba ngày liên tiếp xuất hiện trăng máu thì hàng loạt sự kiện quỷ quái, thần linh, dị đồng, kinh dị liên tục xảy ra. Khi những điều bí ẩn và quỷ dị giáng xuống nhân gian, khi nỗi kinh hoàng và tuyệt vọng bao trùm khắp nơi, con người chúng ta nên quỳ gối cúi đầu, bật khóc trong tuyệt vọng, hay cầm vũ khí vùng lên chống trả? Đây là một thời đại hoàn toàn mới, và thời đại này thuộc về những kẻ siêu phàm! Khi cánh cửa dẫn đến thế giới siêu phàm mở ra, Tô Bạch đã nhìn thấy một thế giới hoàn toàn khác…"
-    },
-    {
-        "name": "Linh Cảnh Hành Giả",
-        "year": 2026,
-        "slug": "linh-canh-hanh-gia",
-        "thumb": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "30",
-        "country": "Trung Quốc",
-        "description": "Đây là một thế giới kỳ dị tồn tại song song với thế giới hiện thực, nơi người tham gia phải vượt qua những phó bản nguy hiểm, đối mặt với các nhiệm vụ sinh tử và những sinh vật siêu nhiên. Trong quá trình khám phá Linh Cảnh, Trương Nguyên Thanh từng bước thức tỉnh năng lực, trưởng thành qua những cuộc phiêu lưu và dần khám phá những bí mật ẩn giấu phía sau thế giới này."
     }
 ]
