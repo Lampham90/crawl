@@ -1,15 +1,39 @@
 [
     {
+        "name": "Cuộc Chiến Ẩm Thực",
+        "year": 2026,
+        "slug": "cuoc-chien-am-thuc",
+        "thumb": "https://phimimg.com/uploads/movies/20261026/cuoc-chien-am-thuc-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261026/cuoc-chien-am-thuc-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "The Table: K-Chef 2026 quy tụ các đầu bếp hàng đầu Hàn Quốc tranh tài cho danh hiệu đầu bếp xuất sắc nhất đất nước. Đầu bếp tầm cỡ thế giới đầy bí ẩn Chris K., hay còn gọi là Kang Han, Song-yi đang chiến đấu để cứu lấy nhà hàng của mình, đầu bếp ngôi sao cầu toàn Woo-jin và các đầu bếp mang câu chuyện riêng bước vào một trận chiến ẩm thực khốc liệt. Hơn cả một cuộc thi, họ tìm thấy sự vỗ về trong món ăn và ở nhau."
+    },
+    {
         "name": "Chìm Vào Mắt Em (Phần 1)",
         "year": 2026,
         "slug": "chim-vao-mat-em-phan-1",
         "thumb": "https://phimimg.com/uploads/movies/20260927/chim-vao-mat-em-phan-1-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20260927/chim-vao-mat-em-phan-1-poster.webp",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
+        "current_episode": "Tập 10",
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Xoay quanh Lee A-ran (Bona), một vận động viên lặn trẻ tuổi phải dừng lại sự nghiệp vì hội chứng sợ nước sau một tai nạn bí ẩn. Khi trở lại ngôi trường cấp 3 ven biển, cô gặp lại Jang Se-jin (Park Seo-ham) — người bạn thơ ấu nắm giữ khả năng đọc được ký ức của người khác thông qua va chạm nước. Cả hai cùng nhau khám phá ra bí mật liên quan đến biến cố năm xưa và hành trình chữa lành tổn thương tâm lý."
+    },
+    {
+        "name": "Yêu một người khác / Yêu Một Người Khác Không Phải Em",
+        "year": 2026,
+        "slug": "yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em",
+        "thumb": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 12",
+        "total_episodes": "14",
+        "country": "Hàn Quốc",
+        "description": "Phim khai thác câu chuyện thực tế và đầy cảm xúc về cặp đôi Namgoong Ho và Lee Mi-do đã gắn bó bên nhau suốt 10 năm. Khi sự quen thuộc dần lấn át những rung động ban đầu và họ đứng trước ngưỡng cửa hôn nhân, mối quan hệ bắt đầu xuất hiện những vết rạn và khoảng cách."
     },
     {
         "name": "100 Ngày Lừa Dối",
@@ -22,18 +46,6 @@
         "total_episodes": "16",
         "country": "Hàn Quốc",
         "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
-    },
-    {
-        "name": "Yêu một người khác / Yêu Một Người Khác Không Phải Em",
-        "year": 2026,
-        "slug": "yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em",
-        "thumb": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260914/yeu-mot-nguoi-khac-yeu-mot-nguoi-khac-khong-phai-em-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 11",
-        "total_episodes": "14",
-        "country": "Hàn Quốc",
-        "description": "Phim khai thác câu chuyện thực tế và đầy cảm xúc về cặp đôi Namgoong Ho và Lee Mi-do đã gắn bó bên nhau suốt 10 năm. Khi sự quen thuộc dần lấn át những rung động ban đầu và họ đứng trước ngưỡng cửa hôn nhân, mối quan hệ bắt đầu xuất hiện những vết rạn và khoảng cách."
     },
     {
         "name": "Bác Sĩ X",
@@ -346,17 +358,5 @@
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Min jae từng là vận động viên bơi lội thời trung học, cho đến khi bệnh tật khiến anh mất đi một chân. Giờ đây là nghiên cứu sinh tiến sĩ ngành người máy, anh tỏ ra là một người không màng thế sự—nhưng vẫn còn đó một khao khát giản đơn, nhức nhối: được yêu. Anh suy nghĩ quá nhiều và sợ bị tổn thương, cho đến một ngày, đúng người xuất hiện. Yujin đã từ bỏ chuyên ngành thời trang, lạc lối không có phương hướng rõ ràng, cho đến khi Minjae mở ra trước mắt cô thế giới người máy—và một giấc mơ mới. Mọi thứ về nó đều xa lạ và khó khăn, nhưng tình cảm cô dành cho anh chưa bao giờ dao động. Tia lửa ngay từ cái nhìn đầu tiên làm xáo trộn phòng thí nghiệm yên tĩnh, và sự theo đuổi không sợ hãi của Yujin đã phá vỡ lớp vỏ bọc bảo vệ trái tim Minjae. Dần dần, cả hai xích lại gần nhau hơn. Rắc rối và khó đoán hơn bất kỳ cỗ máy nào, một mối tình lãng mạn bắt đầu—mãnh liệt, ngọt ngào đắng cay và dịu dàng."
-    },
-    {
-        "name": "Sát Thủ Nội Trợ (Vợ Tôi Là Sát Thủ)",
-        "year": 2026,
-        "slug": "sat-thu-noi-tro-vo-toi-la-sat-thu",
-        "thumb": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260802/sat-thu-noi-tro-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (14/14)",
-        "total_episodes": "14",
-        "country": "Hàn Quốc",
-        "description": "Yoo Bo Na có một cuộc sống tưởng chừng bình thường bên chồng con và công việc quản lý bán hàng. Nhưng đằng sau vẻ ngoài của một người vợ, người mẹ mẫu mực, cô lại là “Kingfisher” – nữ sát thủ bắn tỉa khét tiếng chuyên xử lý những kẻ phạm tội thoát khỏi sự trừng phạt của pháp luật. Sau ba năm tạm rời nghề để sinh con, Bo Na buộc phải tái xuất và bước vào cuộc sống hai mặt đầy nguy hiểm. Trong lúc cố gắng giữ kín thân phận, cô không ngờ người chồng làm nghề phóng viên lại ngày càng tiến gần đến bí mật của mình."
     }
 ]

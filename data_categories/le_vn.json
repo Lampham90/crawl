@@ -1,5 +1,17 @@
 [
     {
+        "name": "Quỷ Bắt Hồn",
+        "year": 2026,
+        "slug": "quy-bat-hon",
+        "thumb": "https://phimimg.com/uploads/movies/20261026/quy-bat-hon-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261026/quy-bat-hon-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Việt Nam",
+        "description": "Quang Tuấn tái xuất trong phim kinh dị Quỷ Bắt Hồn, nơi một gia đình tưởng chừng bình thường dần bị bao vây bởi những hiện tượng quỷ dị. Khi nỗi sợ không còn dừng lại ở cảm giác… mà trở thành thứ có thể nghe thấy, có thể gọi tên: “Đúng tháng đúng ngày, hồn về theo quỷ”."
+    },
+    {
         "name": "Bẫy Tiền",
         "year": 2026,
         "slug": "bay-tien",
@@ -326,17 +338,6 @@
         "slug": "quy-nhap-trang",
         "thumb": "https://phimimg.com/upload/vod/20260129-1/3558b82723d946ca1a0fa9e36197ec70.jpg",
         "poster": "https://phimimg.com/upload/vod/20260129-1/4d420dcef0d8f183b115788140d02614.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "viet-nam"
-    },
-    {
-        "name": "Khế Ước Bán Dâu",
-        "year": 2025,
-        "slug": "khe-uoc-ban-dau",
-        "thumb": "https://phimimg.com/upload/vod/20260118-1/490d98873185f55f8be905ee3f01baf1.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260118-1/9876156c3ce357e76504844eea7fb38a.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",
