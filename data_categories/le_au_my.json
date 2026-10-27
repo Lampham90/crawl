@@ -1,5 +1,29 @@
 [
     {
+        "name": "Huyền Thoại Bạch Long",
+        "year": 2026,
+        "slug": "huyen-thoai-bach-long",
+        "thumb": "https://phimimg.com/uploads/movies/20261027/huyen-thoai-bach-long-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261027/huyen-thoai-bach-long-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Buộc phải ẩn mình trong bóng tối, người anh hùng đang bị truy nã Erik Reed phải tìm cách minh oan cho bản thân để có thể đoàn tụ với gia đình. Thế nhưng, ngáng đường anh là một kẻ phản diện bí ẩn với âm mưu lệch lạc: tiêu diệt Bạch Long vĩnh viễn."
+    },
+    {
+        "name": "Chòm Sao Bất Diệt",
+        "year": 2026,
+        "slug": "chom-sao-bat-diet",
+        "thumb": "https://phimimg.com/uploads/movies/20261027/chom-sao-bat-diet-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261027/chom-sao-bat-diet-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Sau khi đại dịch càn quét và tàn phá dân số thế giới, một người đàn ông sống cuộc đời cô độc trong một xưởng bảo dưỡng máy bay ở Colorado cùng chú chó của mình và một tay súng lầm lì mà anh kết bạn. Khi một tín hiệu vô tuyến bí ẩn cất lên qua chiếc đài radio trong lúc anh đang lái chiếc Cessna cũ kỹ của mình, nó đã nhen nhóm một cuộc truy tìm tung tích của âm thanh kỳ lạ ấy."
+    },
+    {
         "name": "Lằn Ranh Tử Chiến",
         "year": 2026,
         "slug": "lan-ranh-tu-chien",
@@ -334,29 +358,5 @@
         "total_episodes": "1",
         "country": "Anh",
         "description": "Sau nhiều năm chìm trong những phần phim hậu truyện chất lượng kém, thương hiệu kinh dị Camp Miasma được giao lại cho một nữ đạo diễn trẻ đầy nhiệt huyết với kỳ vọng hồi sinh dòng phim. Tuy nhiên, khi cô đến thăm nữ diễn viên chính của phần phim gốc — một minh tinh hiện sống ẩn dật và bao phủ bởi những bí ẩn — cả hai người phụ nữ đã rơi vào một thế giới ngập tràn máu, dục vọng, nỗi sợ hãi và những ảo giác cuồng loạn."
-    },
-    {
-        "name": "CHAT",
-        "year": 2026,
-        "slug": "chat",
-        "thumb": "https://phimimg.com/uploads/movies/20260922/chat-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260922/chat-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Khởi đầu mới của một gia đình tại ngôi nhà mới bỗng chốc sụp đổ khi đứa con trai của họ phát hiện ra một chiếc máy tính bảng tích hợp công nghệ trí tuệ nhân tạo (AI). Chiếc máy đã giải phóng một làn sóng kinh hoàng không chỉ liên quan đến các thế lực siêu nhiên mà còn dính líu đến những bí mật đen tối về lòng tham và sự tham nhũng đang bủa vằn quanh họ."
-    },
-    {
-        "name": "Cá Mập Cuồng Nộ",
-        "year": 2026,
-        "slug": "ca-map-cuong-no",
-        "thumb": "https://phimimg.com/uploads/movies/20260922/ca-map-cuong-no-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260922/ca-map-cuong-no-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Mỹ",
-        "description": "Chuyến nghỉ dưỡng của một gia đình trở nên tồi tệ khi người con gái cùng các bạn của cô bị lạc trên biển khi đang ở trên một chiếc thuyền đánh cá. Khi chiếc thuyền đó bị phá hủy, họ phải sinh tồn trên một chiếc thuyền chèo rồi lênh đênh giữa đại dương mênh mông. Cha mẹ cô vội vã chạy đua với thời gian để tìm kiếm con gái trong khi bầy cá mập ngày càng áp sát trong một cuộc chiến sinh tồn đẫm máu."
     }
 ]

@@ -1,5 +1,29 @@
 [
     {
+        "name": "Lương Tối Thiểu",
+        "year": 2026,
+        "slug": "luong-toi-thieu",
+        "thumb": "https://phimimg.com/uploads/movies/20261027/luong-toi-thieu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261027/luong-toi-thieu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (14/14)",
+        "total_episodes": "14",
+        "country": "Âu Mỹ",
+        "description": "Dựa trên loạt video ngắn ăn khách trên mạng xã hội, loạt phim theo chân các thiếu niên vừa đi học vừa chật vật vận hành tiệm pizza với ông chủ thất thường và đồng lương tối thiểu."
+    },
+    {
+        "name": "Tuổi Trẻ (Phần 1)",
+        "year": 2026,
+        "slug": "tuoi-tre-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "8",
+        "country": "Anh",
+        "description": "Xoay quanh cuộc sống đầy náo nhiệt, những trò quậy phá siêu lầy lội và những rung động đầu đời trong sáng của nhóm học sinh tại một trường học ở địa phương."
+    },
+    {
         "name": "Chẳng Ai Tác Hợp (Phần 3)",
         "year": 2026,
         "slug": "chang-ai-tac-hop-phan-3",
@@ -130,18 +154,6 @@
         "total_episodes": "10",
         "country": "Nhật Bản",
         "description": "Giữa cảnh loạn lạc đầy sự thối nát và siêu thiết bị điều khiển, tên nhóc đường phố tài ba mà liều lĩnh cố gắng trở thành edgerunner, lính đánh thuê ngoài vòng pháp luật."
-    },
-    {
-        "name": "Tuổi Trẻ (Phần 1)",
-        "year": 2026,
-        "slug": "tuoi-tre-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "8",
-        "country": "Anh",
-        "description": "Xoay quanh cuộc sống đầy náo nhiệt, những trò quậy phá siêu lầy lội và những rung động đầu đời trong sáng của nhóm học sinh tại một trường học ở địa phương."
     },
     {
         "name": "Truyện Kinh Dị Mỹ (Phần 13)",
@@ -346,17 +358,5 @@
         "total_episodes": "6",
         "country": "Úc",
         "description": "Khi nhân viên trực tổng đài khẩn cấp Ian Ridley nhận được cuộc gọi hoảng loạn từ một cô bé tuổi teen mà anh tin có thể là cô con gái mất tích từ lâu của mình, anh bất chấp tất cả để tìm ra cô bé."
-    },
-    {
-        "name": "Huấn Luyện Viên Ted Lasso (Phần 4)",
-        "year": 2026,
-        "slug": "huan-luyen-vien-ted-lasso-phan-4",
-        "thumb": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260816/huan-luyen-vien-ted-lasso-phan-4-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Ted Lasso là một huấn luyện viên bóng bầu dục đang dẫn dắt một đội bóng đá của Anh. Lỗ hổng kiến thức của anh được bù đắp bằng sự lạc quan... và bánh quy."
     }
 ]
