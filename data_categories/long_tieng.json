@@ -1,5 +1,29 @@
 [
     {
+        "name": "Thành Phố Rực Rỡ",
+        "year": 2026,
+        "slug": "thanh-pho-ruc-ro",
+        "thumb": "https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 12",
+        "total_episodes": "20",
+        "country": "Hồng Kông",
+        "description": "Thành Phố Rực Rỡ xoay quanh cuộc chiến tranh giành quyền lực giữa Quan Hiếu Hiền và Quan Hiếu Quân, hai người con trai của ông trùm quyền lực Quan Chí Sâm. Để triệt hạ Hiếu Quân và vợ là Vương Tuyết Oánh, Hiếu Hiền tuyên bố kết hôn với nữ công tố viên Hồng Hải Uyên. Trong quá khứ, Hải Uyên từng quen Hiếu Quân nhưng lại bị cô bạn thân Tuyết Oánh cướp đi tình yêu. Hiếu Hiền muốn lợi dụng mối hận trong lòng Hải Uyên, biến nó thành vũ khí để đối phó với vợ chồng Hiếu Quân. Giữa một gia đình mà ai cũng mang trong lòng những toan tính riêng, chiến thắng cuối cùng sẽ thuộc về tay ai?"
+    },
+    {
+        "name": "Thượng Công Chúa",
+        "year": 2026,
+        "slug": "thuong-cong-chua",
+        "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 11",
+        "total_episodes": "40",
+        "country": "Trung Quốc",
+        "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
+    },
+    {
         "name": "Siêu Trộm Lupin (Phần 4)",
         "year": 2026,
         "slug": "sieu-trom-lupin-phan-4",
@@ -22,18 +46,6 @@
         "total_episodes": "29",
         "country": "Nhật Bản",
         "description": "Năm 2026, khi series Ultraman kỷ niệm 60 năm, một người hùng mới xuất hiện để kế thừa ánh sáng: Ultraman Teo.\r\n\r\nSau khi hành tinh quê hương bị quái thú tấn công và hủy diệt, một sinh vật ngoài hành tinh cô độc trôi dạt đến Trái Đất.\r\n\r\n“Tôi không muốn chiến đấu… Nhưng tôi vẫn muốn bảo vệ!”\r\n\r\nMang theo quyết tâm mạnh mẽ đó, sinh vật cô đơn mang tên “Teo” sống giữa loài người dưới thân phận một sinh viên đại học tên Ibuki. Khi dần tạo dựng những mối liên kết với những người bạn mới, cậu bắt đầu hành trình trở thành Ultraman."
-    },
-    {
-        "name": "Thành Phố Rực Rỡ",
-        "year": 2026,
-        "slug": "thanh-pho-ruc-ro",
-        "thumb": "https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 11",
-        "total_episodes": "20",
-        "country": "Hồng Kông",
-        "description": "Thành Phố Rực Rỡ xoay quanh cuộc chiến tranh giành quyền lực giữa Quan Hiếu Hiền và Quan Hiếu Quân, hai người con trai của ông trùm quyền lực Quan Chí Sâm. Để triệt hạ Hiếu Quân và vợ là Vương Tuyết Oánh, Hiếu Hiền tuyên bố kết hôn với nữ công tố viên Hồng Hải Uyên. Trong quá khứ, Hải Uyên từng quen Hiếu Quân nhưng lại bị cô bạn thân Tuyết Oánh cướp đi tình yêu. Hiếu Hiền muốn lợi dụng mối hận trong lòng Hải Uyên, biến nó thành vũ khí để đối phó với vợ chồng Hiếu Quân. Giữa một gia đình mà ai cũng mang trong lòng những toan tính riêng, chiến thắng cuối cùng sẽ thuộc về tay ai?"
     },
     {
         "name": "Thợ Săn Giác Thú Omegahorn",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Nhật Bản",
         "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
-    },
-    {
-        "name": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
-        "year": 2026,
-        "slug": "tuyen-thu-de-mui-vi-chien-thang",
-        "thumb": "https://phimimg.com/upload/vod/20260325-1/57000b826e67c1db2727e310aec0b004.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260325-1/1f5f942c1627deb2064d8be37d172855.jpg",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Will là một chú dê nhỏ với những ước mơ lớn, người có được cơ hội duy nhất trong đời để gia nhập các vận động viên chuyên nghiệp và thi đấu môn rugebol — một môn thể thao cường độ cao, pha trộn và đối kháng toàn diện, nơi các loài động vật nhanh nhất và hung dữ nhất thế giới thống trị. Những đồng đội mới của Will không mấy hào hứng khi có một chú dê nhỏ trong đội hình, nhưng Will quyết tâm tạo nên một cuộc cách mạng cho môn thể thao này và chứng minh một lần và mãi mãi rằng: “Nhỏ bé cũng biết chơi!”"
     }
 ]
