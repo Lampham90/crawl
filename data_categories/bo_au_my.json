@@ -1,5 +1,17 @@
 [
     {
+        "name": "Matthew Perry: Những Năm Cuối Cùng",
+        "year": 2026,
+        "slug": "matthew-perry-nhung-nam-cuoi-cung",
+        "thumb": "https://phimimg.com/uploads/movies/20261028/matthew-perry-nhung-nam-cuoi-cung-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261028/matthew-perry-nhung-nam-cuoi-cung-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (3/3)",
+        "total_episodes": "3",
+        "country": "Âu Mỹ",
+        "description": "Loạt phim tài liệu ghi lại thành công ở Hollywood, sự ủng hộ công khai và cái chết bi thảm của ngôi sao \"Những người bạn\" được yêu mến, qua lời kể của những người thân cận nhất."
+    },
+    {
         "name": "Lương Tối Thiểu",
         "year": 2026,
         "slug": "luong-toi-thieu",
@@ -346,17 +358,5 @@
         "total_episodes": "6",
         "country": "Anh",
         "description": "Khi sinh vật biển bí ẩn gieo rắc nỗi kinh hoàng cho một thị trấn nhỏ ở Newfoundland, một ngư dân cứng cỏi và gia đình cùng chiến đấu để bảo vệ cộng đồng gắn bó của họ."
-    },
-    {
-        "name": "Manh Mối Cuối Cùng (Phần 1)",
-        "year": 2026,
-        "slug": "manh-moi-cuoi-cung-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260909/manh-moi-cuoi-cung-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260909/manh-moi-cuoi-cung-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (6/6)",
-        "total_episodes": "6",
-        "country": "Úc",
-        "description": "Khi nhân viên trực tổng đài khẩn cấp Ian Ridley nhận được cuộc gọi hoảng loạn từ một cô bé tuổi teen mà anh tin có thể là cô con gái mất tích từ lâu của mình, anh bất chấp tất cả để tìm ra cô bé."
     }
 ]
