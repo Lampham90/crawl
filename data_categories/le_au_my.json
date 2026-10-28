@@ -1,5 +1,17 @@
 [
     {
+        "name": "Shaun The Sheep: \"Quái Lạ\" Ghé Nhà",
+        "year": 2026,
+        "slug": "shaun-the-sheep-quai-la-ghe-nha",
+        "thumb": "https://phimimg.com/uploads/movies/20261028/shaun-the-sheep-quai-la-ghe-nha-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261028/shaun-the-sheep-quai-la-ghe-nha-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Anh",
+        "description": "Những chú cừu thông minh đã sẵn sàng cho một ngày bình thường… cho đến khi một vị khách không-mấy-bình-thường xuất hiện."
+    },
+    {
         "name": "Gail Daughtry Và Tấm Vé Ngoại Tình Với Người Nổi Tiếng",
         "year": 2026,
         "slug": "gail-daughtry-va-tam-ve-ngoai-tinh-voi-nguoi-noi-tieng",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Theo chân Jason — một cựu quân nhân đang thất sủng và vật lộn với chứng nghiện ngập. Trong một lần nhận chở khách qua ứng dụng rideshare, anh vô tình phát hiện ra nữ hành khách mà mình đang chở thực chất đang bị giam cầm và buôn bán bởi một đường dây tội phạm tàn ác."
-    },
-    {
-        "name": "Phi Vụ Sửa Sai",
-        "year": 2026,
-        "slug": "phi-vu-sua-sai",
-        "thumb": "https://phimimg.com/uploads/movies/20260923/phi-vu-sua-sai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260923/phi-vu-sua-sai-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Sau một nhiệm vụ giải cứu thất bại ở Afghanistan, một nhóm cựu đặc vụ CIA mang trong mình cảm giác tội lỗi và thất bại. Khi người chỉ huy Larry tiết lộ bí mật về 25 triệu USD được cất giấu tại Tehran, Tucker tập hợp cả nhóm trở lại Iran, vừa nhằm kiếm một khoản tiền khổng lồ, vừa tìm cách chuộc lại những sai lầm trong quá khứ. Nhưng nhiệm vụ nhanh chóng biến thành một cuộc giải cứu nguy hiểm với những âm mưu, phản bội và bí mật tình báo bị che giấu suốt nhiều năm."
     }
 ]
