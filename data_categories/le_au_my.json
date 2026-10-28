@@ -1,5 +1,29 @@
 [
     {
+        "name": "Kế Hoạch Hoàn Hảo",
+        "year": 2026,
+        "slug": "ke-hoach-hoan-hao-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20261028/ke-hoach-hoan-hao-2026-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261028/ke-hoach-hoan-hao-2026-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Pháp",
+        "description": "Khi một tên trộm huyền thoại nhắm đến bức tranh Mona Lisa, hắn chiêu mộ hai người lạ trẻ tuổi giúp mình trước khi tiết lộ họ là anh em ruột thất lạc từ lâu… và à vâng, hắn chính là cha của họ. Bị cuốn vào cuộc hội ngộ hỗn loạn mà họ không hề mong muốn, gia đình mới này phải học cách làm việc cùng nhau — và cố gắng không giết lẫn nhau — nếu họ muốn có cơ hội thực hiện vụ trộm thế kỷ."
+    },
+    {
+        "name": "Vòng Tội Lỗi / Vòng Lặp Định Mệnh",
+        "year": 2026,
+        "slug": "vong-toi-loi-vong-lap-dinh-menh",
+        "thumb": "https://phimimg.com/uploads/movies/20261028/vong-toi-loi-vong-lap-dinh-menh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261028/vong-toi-loi-vong-lap-dinh-menh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Một người con gái bóc tách những góc khuất đen tối của người cha quá cố, sau khi thi thể của ông – người đã mất tích bí ẩn suốt 36 năm – đột ngột được tìm thấy tại một hiện trường vụ án mạng kinh hoàng."
+    },
+    {
         "name": "Shaun The Sheep: \"Quái Lạ\" Ghé Nhà",
         "year": 2026,
         "slug": "shaun-the-sheep-quai-la-ghe-nha",
@@ -334,29 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Một cặp đôi đang hạnh phúc chuẩn bị kết hôn bất ngờ bị thử thách khi một biến cố ngoài dự kiến khiến cả tuần lễ cưới của họ rơi vào hỗn loạn."
-    },
-    {
-        "name": "Tony",
-        "year": 2026,
-        "slug": "tony",
-        "thumb": "https://phimimg.com/uploads/movies/20260923/tony-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260923/tony-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Bộ phim tái hiện thời thanh xuân năm 19 tuổi của cố đầu bếp, nhà văn và đầu bếp truyền hình lừng danh thế giới Anthony Bourdain."
-    },
-    {
-        "name": "Chuyến Xe Rượt Đuổi",
-        "year": 2026,
-        "slug": "chuyen-xe-ruot-duoi",
-        "thumb": "https://phimimg.com/uploads/movies/20260923/chuyen-xe-ruot-duoi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260923/chuyen-xe-ruot-duoi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Theo chân Jason — một cựu quân nhân đang thất sủng và vật lộn với chứng nghiện ngập. Trong một lần nhận chở khách qua ứng dụng rideshare, anh vô tình phát hiện ra nữ hành khách mà mình đang chở thực chất đang bị giam cầm và buôn bán bởi một đường dây tội phạm tàn ác."
     }
 ]
