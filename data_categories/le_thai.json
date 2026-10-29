@@ -1,5 +1,17 @@
 [
     {
+        "name": "Em Trong Khung Ảnh",
+        "year": 2026,
+        "slug": "em-trong-khung-anh",
+        "thumb": "https://phimimg.com/uploads/movies/20261029/em-trong-khung-anh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261029/em-trong-khung-anh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Thái Lan",
+        "description": "Một bức ảnh cũ kết nối giữa tiền kiếp và thực tại, thôi thúc chàng nhiếp ảnh gia trẻ chu du khắp Thái Lan để đi tìm người phụ nữ luôn xuất hiện trong giấc mơ của anh."
+    },
+    {
         "name": "Chuyện Ma Giảng Đường 4",
         "year": 2026,
         "slug": "chuyen-ma-giang-duong-4",
@@ -322,17 +334,6 @@
         "slug": "dai-ca-di-tu",
         "thumb": "https://phimimg.com/upload/vod/20250920-1/3bf72604573baf1c630fb6d21ca79906.jpg",
         "poster": "https://phimimg.com/upload/vod/20250920-1/76cad636fd5a37ddb2d27dc641970969.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "thai-lan"
-    },
-    {
-        "name": "Ngày Lặp Với Người Thương",
-        "year": 2025,
-        "slug": "ngay-lap-voi-nguoi-thuong",
-        "thumb": "https://phimimg.com/upload/vod/20250919-1/30183a6ea5f3989cec9257221624d25f.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250919-1/dd783660f9f98c344e07d2b4b1c515cd.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",
