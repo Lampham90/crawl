@@ -1,5 +1,17 @@
 [
     {
+        "name": "Dưới Đáy Hồ",
+        "year": 2025,
+        "slug": "duoi-day-ho",
+        "thumb": "https://phimimg.com/uploads/movies/20261030/duoi-day-ho-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261030/duoi-day-ho-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Việt Nam",
+        "description": "Dưới Đáy Hồ là bộ phim kinh dị siêu nhiên lấy cảm hứng từ truyền thuyết đô thị về Hồ Đá Tử Thần - nơi luôn bao phủ bởi những câu chuyện bí ẩn mà giới trẻ thường truyền tai nhau."
+    },
+    {
         "name": "Quỷ Bắt Hồn",
         "year": 2026,
         "slug": "quy-bat-hon",
@@ -327,17 +339,6 @@
         "slug": "tu-chien-tren-khong",
         "thumb": "https://phimimg.com/upload/vod/20260131-1/675f2fb9a0465602ff0599e16649c6ca.jpg",
         "poster": "https://phimimg.com/upload/vod/20260131-1/4e3b2c7d88c55d852dfe756e4acc56c1.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "viet-nam"
-    },
-    {
-        "name": "Quỷ Nhập Tràng",
-        "year": 2025,
-        "slug": "quy-nhap-trang",
-        "thumb": "https://phimimg.com/upload/vod/20260129-1/3558b82723d946ca1a0fa9e36197ec70.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260129-1/4d420dcef0d8f183b115788140d02614.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",
