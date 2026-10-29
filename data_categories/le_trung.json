@@ -1,5 +1,17 @@
 [
     {
+        "name": "Khoảng Cách Mong Manh",
+        "year": 2025,
+        "slug": "khoang-cach-mong-manh",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20261029/khoang-cach-mong-manh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Hồng Kông",
+        "description": "Junho là chủ một quán bar hoạt bát, hòa đồng và luôn thích tận hưởng bầu không khí náo nhiệt bên những người xung quanh. Thế nhưng, ẩn sau vẻ ngoài vui vẻ ấy là nỗi nhớ khôn nguôi dành cho người yêu đã qua đời cách đây mười năm. Dù thời gian trôi qua, anh vẫn chưa thể buông bỏ tình cảm dành cho cô và luôn cất giữ những ký ức về mối tình dang dở. Mỗi khi bắt gặp một người có nét giống người thương năm xưa, Junho lại không thể rời mắt, để rồi những cảm xúc tưởng chừng đã ngủ yên một lần nữa trỗi dậy."
+    },
+    {
         "name": "Địch Nhân Kiệt: Bất Tử Quân",
         "year": 2026,
         "slug": "dich-nhan-kiet-bat-tu-quan",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Trung Quốc",
         "description": "Lão Ngô từng là sát thủ hàng đầu, ẩn mình dưới tên giả và sống yên bình trong tiệm thuốc Nhân Tâm Đường. Tuy nhiên, sự bình yên bị phá vỡ khi người mẹ đơn thân Tống Tiểu Thiến bị băng đảng xã hội đen bắt cóc. Để cứu cô, lão Ngô phải trở lại giang hồ, quyết chiến sinh tử với các thế lực tàn ác do Tam gia và Tả Luân đứng đầu. Trong quá trình này, lão Ngô dần vạch trần sự thật về cái chết của vợ con mười năm trước và phát hiện ra thủ phạm đứng sau lại chính là Hướng gia, người mà anh tôn kính ngày xưa. Cuối cùng, với võ nghệ cao siêu và niềm tin kiên định, anh tự tay trừng trị kẻ thù, trả lại công lý cho gia đình và những người vô tội."
-    },
-    {
-        "name": "Liệt Diễm Cuồng Sa",
-        "year": 2026,
-        "slug": "liet-diem-cuong-sa",
-        "thumb": "https://phimimg.com/uploads/movies/20260801/liet-diem-cuong-sa-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260801/liet-diem-cuong-sa-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Trung Quốc",
-        "description": "Tiếp nối bối cảnh hoang mạc Gobi cằn cỗi, câu chuyện xoay quanh các chiến dịch chống ma túy xuyên biên giới đầy nguy hiểm, những trận đấu trí, đấu súng nghệt thở giữa lực lượng cảnh sát nằm vùng và các tập đoàn tội phạm ngầm."
     }
 ]
