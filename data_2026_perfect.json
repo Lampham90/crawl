@@ -547,6 +547,18 @@
     ],
     "phim_chieu_rap": [
         {
+            "name": "Dưới Đáy Hồ",
+            "year": 2025,
+            "slug": "duoi-day-ho",
+            "thumb": "https://phimimg.com/uploads/movies/20261030/duoi-day-ho-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261030/duoi-day-ho-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Việt Nam",
+            "description": "Dưới Đáy Hồ là bộ phim kinh dị siêu nhiên lấy cảm hứng từ truyền thuyết đô thị về Hồ Đá Tử Thần - nơi luôn bao phủ bởi những câu chuyện bí ẩn mà giới trẻ thường truyền tai nhau."
+        },
+        {
             "name": "Shaun The Sheep: \"Quái Lạ\" Ghé Nhà",
             "year": 2026,
             "slug": "shaun-the-sheep-quai-la-ghe-nha",
@@ -667,6 +679,18 @@
             "description": "Bị bọn côn đồ đe dọa, một chàng trai trẻ dàn dựng một đám tang giả cho mẹ mình để đòi tiền bảo hiểm. Nhưng kế hoạch điên rồ và bất hiếu của anh liên tục bị phá hoại — bởi cả người lạ, bạn bè, và đặc biệt là vì ngày anh định đưa mẹ vào quan tài lại trùng với sinh nhật lần thứ 60 của bà."
         },
         {
+            "name": "Cú Sốc",
+            "year": 2026,
+            "slug": "cu-soc",
+            "thumb": "https://phimimg.com/upload/vod/20260505-1/8d2f42eb4d2a2db443d7ad863d83ba51.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260505-1/aa5419bddec64990d591f77262fc2e42.jpg",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Âu Mỹ",
+            "description": "Một cặp đôi đang hạnh phúc chuẩn bị kết hôn bất ngờ bị thử thách khi một biến cố ngoài dự kiến khiến cả tuần lễ cưới của họ rơi vào hỗn loạn."
+        },
+        {
             "name": "Ma Xó",
             "year": 2026,
             "slug": "ma-xo",
@@ -701,33 +725,21 @@
             "total_episodes": "1",
             "country": "Việt Nam",
             "description": "Hai lễ cưới, một sang trọng sa hoa, một đạm bạc dân dã, đáng lý sẽ được tổ chức đối diện nhau. Rắc rối bắt đầu khi đội ngũ tổ chức của hai lễ cưới phát hiện ra danh sách khách mời của hai bên là giống nhau."
-        },
-        {
-            "name": "Ngày Tàn Của Phố Oak",
-            "year": 2026,
-            "slug": "ngay-tan-cua-pho-oak",
-            "thumb": "https://phimimg.com/uploads/movies/20260914/ngay-tan-cua-pho-oak-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260914/ngay-tan-cua-pho-oak-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Sau khi một thảm họa thiên nhiên xé toạc Phố Oak khỏi khu ngoại ô và đưa con phố đến một nơi xa lạ, gia đình Platt nhanh chóng nhận ra rằng chỉ bằng cách luôn đứng bên nhau, họ mới có thể vượt qua vận mệnh nghiệt ngã này."
-        },
-        {
-            "name": "Một Đêm Duy Nhất",
-            "year": 2026,
-            "slug": "mot-dem-duy-nhat",
-            "thumb": "https://phimimg.com/uploads/movies/20260914/mot-dem-duy-nhat-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260914/mot-dem-duy-nhat-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Âu Mỹ",
-            "description": "Sẽ ra sao nếu một đêm hỗn độn lại trở thành điều tuyệt vời nhất từng xảy ra trong đời bạn? Allie và Owen, hai kẻ xa lạ đang \"đói khát\" tình yêu, vô tình va vào nhau giữa lòng New York phiên bản được hư cấu đôi chút, vào đúng đêm duy nhất trong năm hội độc thân được phép \"làm chuyện ấy\". Chàng trai Owen vừa bị đá và cô nàng Allie mộng mơ có lẽ là hai kẻ độc thân duy nhất trong thành phố đang tìm kiếm điều gì đó ý nghĩa hơn là một cuộc tình chóng vánh. Cả hai dường như đã rung động ngay từ lần đầu gặp gỡ, nhưng hàng loạt tình huống dở khóc dở cười cùng những rắc rối phát sinh càng khiến đêm hôm đó trở nên phức tạp và đẩy họ ra xa nhau. Trong lúc mải miết đuổi theo rồi lại vuột mất nhau khắp thành phố, Owen và Allie dần nhận ra rằng, có lẽ điều bản thân khao khát nhất thực chất lại ở gần hơn họ tưởng."
         }
     ],
     "le_vn": [
+        {
+            "name": "Dưới Đáy Hồ",
+            "year": 2025,
+            "slug": "duoi-day-ho",
+            "thumb": "https://phimimg.com/uploads/movies/20261030/duoi-day-ho-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261030/duoi-day-ho-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Full",
+            "total_episodes": "1",
+            "country": "Việt Nam",
+            "description": "Dưới Đáy Hồ là bộ phim kinh dị siêu nhiên lấy cảm hứng từ truyền thuyết đô thị về Hồ Đá Tử Thần - nơi luôn bao phủ bởi những câu chuyện bí ẩn mà giới trẻ thường truyền tai nhau."
+        },
         {
             "name": "Quỷ Bắt Hồn",
             "year": 2026,
@@ -895,18 +907,6 @@
             "total_episodes": "1",
             "country": "Việt Nam",
             "description": "Tài đã trải qua hành trình đầy khó khăn, làm đủ mọi nghề, thậm chí là những phi vụ nguy hiểm phải đặt cược mạng sống để bảo vệ “tài sản” quý giá nhất đời mình. Liệu Tài có đủ nghị lực và tinh thần để vượt lên trên nghịch cảnh, trong gang tấc sự sống? Bộ phim đem đến tiếng cười, tình yêu và sự bao dung mạnh mẽ về những mối quan hệ tình thân và xã hội trong những ngày đầu xuân 2026."
-        },
-        {
-            "name": "Báu vật trời cho",
-            "year": 2026,
-            "slug": "bau-vat-troi-cho",
-            "thumb": "https://phimimg.com/upload/vod/20260618-1/4344fce68030e677b52a8da8e6eb2c81.jpg",
-            "poster": "https://phimimg.com/upload/vod/20260618-1/e2e53013ccd1944bf8570ee9dbc233f2.jpg",
-            "sub_type": "Vietsub",
-            "current_episode": "Full",
-            "total_episodes": "1",
-            "country": "Việt Nam",
-            "description": "Khi cậu bé sáu tuổi trong một gia đình đơn thân vô tình tìm được “người cha trời cho” của mình. Hàng loạt bí mật và định mệnh trớ trêu bị lật mở, để rồi mỗi người phải tự hỏi: Điều gì mới thật sự là báu vật trời cho trong đời mình?"
         }
     ],
     "bo_vn": [
@@ -1275,6 +1275,18 @@
     ],
     "bo_han": [
         {
+            "name": "Dâu Tây Ngọt Ngào (Phần 1)",
+            "year": 2026,
+            "slug": "dau-tay-ngot-ngao-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "10",
+            "country": "Nhật Bản",
+            "description": "Sau khi mất tất cả sau một đêm, Lee Yubin, một nhà thiết kế không gian người Hàn Quốc từng thành công, đã đến một hòn đảo nhỏ xinh đẹp của Nhật Bản. Tại đây, trên đảo Charo, anh gặp Shirahama Karin, một nữ nông dân kiên cường quyết tâm trồng dâu tây bất chấp căn bệnh bí ẩn của mình. Xuất thân từ hai thế giới khác nhau, cả hai vướng vào một sự hiểu lầm bất ngờ. Trong khi đó, một mối tình khác đang nảy nở trên đảo giữa một cặp đôi trái ngược. Park Kunam, một du khách làm việc kỳ nghỉ, quyết định ở lại sau khi đem lòng yêu Mizuno Mari, một người đọc bài tarot trớ trêu thay lại không thể đoán trước được đường tình duyên của chính mình. Khi họ vượt qua câu chuyện tình yêu của riêng mình, họ trở thành những người giúp đỡ đáng tin cậy cho Yubin và Karin."
+        },
+        {
             "name": "Chuyến Đi Chữa Lành",
             "year": 2026,
             "slug": "chuyen-di-chua-lanh",
@@ -1429,18 +1441,6 @@
             "total_episodes": "10",
             "country": "Hàn Quốc",
             "description": "Một nhân viên tiếp thị mang quan niệm truyền thống về tình yêu và hôn nhân nay phải chật vật tìm tiếng nói chung khi vướng vào mối quan hệ với vị CEO của một công ty sản xuất đồ chơi người lớn — người sở hữu những hệ giá trị hoàn toàn trái ngược."
-        },
-        {
-            "name": "Dâu Tây Ngọt Ngào (Phần 1)",
-            "year": 2026,
-            "slug": "dau-tay-ngot-ngao-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "10",
-            "country": "Nhật Bản",
-            "description": "Sau khi mất tất cả sau một đêm, Lee Yubin, một nhà thiết kế không gian người Hàn Quốc từng thành công, đã đến một hòn đảo nhỏ xinh đẹp của Nhật Bản. Tại đây, trên đảo Charo, anh gặp Shirahama Karin, một nữ nông dân kiên cường quyết tâm trồng dâu tây bất chấp căn bệnh bí ẩn của mình. Xuất thân từ hai thế giới khác nhau, cả hai vướng vào một sự hiểu lầm bất ngờ. Trong khi đó, một mối tình khác đang nảy nở trên đảo giữa một cặp đôi trái ngược. Park Kunam, một du khách làm việc kỳ nghỉ, quyết định ở lại sau khi đem lòng yêu Mizuno Mari, một người đọc bài tarot trớ trêu thay lại không thể đoán trước được đường tình duyên của chính mình. Khi họ vượt qua câu chuyện tình yêu của riêng mình, họ trở thành những người giúp đỡ đáng tin cậy cho Yubin và Karin."
         },
         {
             "name": "Chiếc Cà Vạt Rối Rắm",
@@ -2913,16 +2913,16 @@
     ],
     "trending_phim_bo": [
         {
-            "name": "Shaun The Sheep: \"Quái Lạ\" Ghé Nhà",
-            "year": 2026,
-            "slug": "shaun-the-sheep-quai-la-ghe-nha",
-            "thumb": "https://phimimg.com/uploads/movies/20261028/shaun-the-sheep-quai-la-ghe-nha-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261028/shaun-the-sheep-quai-la-ghe-nha-poster.webp",
+            "name": "Dưới Đáy Hồ",
+            "year": 2025,
+            "slug": "duoi-day-ho",
+            "thumb": "https://phimimg.com/uploads/movies/20261030/duoi-day-ho-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261030/duoi-day-ho-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Anh",
-            "description": "Những chú cừu thông minh đã sẵn sàng cho một ngày bình thường… cho đến khi một vị khách không-mấy-bình-thường xuất hiện."
+            "country": "Việt Nam",
+            "description": "Dưới Đáy Hồ là bộ phim kinh dị siêu nhiên lấy cảm hứng từ truyền thuyết đô thị về Hồ Đá Tử Thần - nơi luôn bao phủ bởi những câu chuyện bí ẩn mà giới trẻ thường truyền tai nhau."
         },
         {
             "name": "Ván Cờ Của Cô Ấy",
@@ -2937,16 +2937,16 @@
             "description": "Vì muốn đòi lại công bằng cho cha, Dư Tụng bước chân vào nhà họ Tống với thân phận trợ lý. Bằng sự chân thành, cô dần chiếm được lòng tin của Tống Trừng, đồng thời liên minh với tài xế Tĩnh để cùng thu thập chứng cứ, vạch trần những tội ác của nhà họ Tống trước công chúng. Thế nhưng, Dư Tụng không để lòng thù hận nuốt chửng, cô quyết tâm thoát khỏi những xiềng xích của quá khứ và nhận ra rằng chiến thắng thực sự là giành lại quyền làm chủ cuộc đời mình. Cuối cùng, cô trở lại làm chính mình, hướng về tương lai tươi sáng."
         },
         {
-            "name": "Chuyến Đi Chữa Lành",
+            "name": "Dâu Tây Ngọt Ngào (Phần 1)",
             "year": 2026,
-            "slug": "chuyen-di-chua-lanh",
-            "thumb": "https://phimimg.com/uploads/movies/20261029/chuyen-di-chua-lanh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261029/chuyen-di-chua-lanh-poster.webp",
+            "slug": "dau-tay-ngot-ngao-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 2",
+            "current_episode": "Tập 4",
             "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Kim Ha Yeon là một cô gái 18 tuổi bình thường, luôn mơ mộng về một cuộc đời đầy kịch tính như những gì cô thấy trên màn ảnh. Cuộc đời cô bước sang một ngã rẽ kỳ diệu và đầy bất ngờ khi cô đến ngôi làng đồng quê xa lạ Upo-ri để nghỉ hè. Tại đây, cô tình cờ gặp Jo Yu Gyeom, người thừa kế của một gia đình quý tộc truyền thống, và bạn gái của anh, Sae Ryeong. Dù sở hữu vẻ ngoài cuốn hút cùng tài năng bơi lội thiên bẩm, anh lại sống một cuộc đời tẻ nhạt, bị kìm hãm bởi những quy củ lỗi thời và nhịp sống lặp đi lặp lại. Khi hai con người trái ngược ấy gặp nhau giữa vẻ đẹp tĩnh lặng của Upo-ri, thế giới của họ va vào nhau, thắp lên một sự thay đổi trong cuộc sống thường nhật và mở đầu cho một mùa hè có một không hai trong đời."
+            "country": "Nhật Bản",
+            "description": "Sau khi mất tất cả sau một đêm, Lee Yubin, một nhà thiết kế không gian người Hàn Quốc từng thành công, đã đến một hòn đảo nhỏ xinh đẹp của Nhật Bản. Tại đây, trên đảo Charo, anh gặp Shirahama Karin, một nữ nông dân kiên cường quyết tâm trồng dâu tây bất chấp căn bệnh bí ẩn của mình. Xuất thân từ hai thế giới khác nhau, cả hai vướng vào một sự hiểu lầm bất ngờ. Trong khi đó, một mối tình khác đang nảy nở trên đảo giữa một cặp đôi trái ngược. Park Kunam, một du khách làm việc kỳ nghỉ, quyết định ở lại sau khi đem lòng yêu Mizuno Mari, một người đọc bài tarot trớ trêu thay lại không thể đoán trước được đường tình duyên của chính mình. Khi họ vượt qua câu chuyện tình yêu của riêng mình, họ trở thành những người giúp đỡ đáng tin cậy cho Yubin và Karin."
         },
         {
             "name": "Shaun The Sheep: \"Quái Lạ\" Ghé Nhà",
@@ -2973,16 +2973,16 @@
             "description": "Truyện kinh dị Mỹ (tựa gốc: American Horror Story) là loạt phim truyền hình nhiều tập ngắn kinh dị của Mỹ được sản xuất bởi Ryan Murphy và Brad Falchuk. Được biên kịch dưới dạng series, mỗi mùa được sản xuất dưới dạng phim truyền hình ngắn, khoảng 12 tập. Sau mỗi mùa, bối cảnh, cũng như các nhân vật được thay mới hoàn toàn, kể cả với các diễn viên từng tham gia mùa trước nên các mùa phim có cốt truyện độc lập với nhau, sở hữu cao trào và kết thúc riêng. Một số yếu tố trong phim lấy cảm hứng từ những câu chuyện và nhân vật có thật."
         },
         {
-            "name": "Quỷ Bắt Hồn",
+            "name": "Shaun The Sheep: \"Quái Lạ\" Ghé Nhà",
             "year": 2026,
-            "slug": "quy-bat-hon",
-            "thumb": "https://phimimg.com/uploads/movies/20261026/quy-bat-hon-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261026/quy-bat-hon-poster.webp",
+            "slug": "shaun-the-sheep-quai-la-ghe-nha",
+            "thumb": "https://phimimg.com/uploads/movies/20261028/shaun-the-sheep-quai-la-ghe-nha-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261028/shaun-the-sheep-quai-la-ghe-nha-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Việt Nam",
-            "description": "Quang Tuấn tái xuất trong phim kinh dị Quỷ Bắt Hồn, nơi một gia đình tưởng chừng bình thường dần bị bao vây bởi những hiện tượng quỷ dị. Khi nỗi sợ không còn dừng lại ở cảm giác… mà trở thành thứ có thể nghe thấy, có thể gọi tên: “Đúng tháng đúng ngày, hồn về theo quỷ”."
+            "country": "Anh",
+            "description": "Những chú cừu thông minh đã sẵn sàng cho một ngày bình thường… cho đến khi một vị khách không-mấy-bình-thường xuất hiện."
         },
         {
             "name": "Tuý Mộng",
@@ -2997,16 +2997,16 @@
             "description": "Nhiều năm trước, phóng viên Thẩm Lạc Thủy từng ghi lại cuộc sống của những công nhân tại nhà máy bia cũ ở thành phố La Thành. Giờ đây, cô trở lại La Thành, một lần nữa cầm máy quay để khám phá những góc khuất đã dần bị thời gian lãng quên. Tào Quân, Đồ Xuân Diễm, Tiền Nghĩa Xuyên, Trình Hữu Điền… từng là những nhân vật chính trong các thước phim của cô, nhưng theo dòng chảy năm tháng, mỗi người lại trải qua những thăng trầm, biến cố số phận khác nhau. Câu chuyện của họ tựa như những bí ẩn bị thời gian giấu kín. Lần theo những dấu vết đan xen giữa quá khứ và hiện tại, Thẩm Lạc Thủy từng bước đem những chuyện cũ đã bị chôn vùi suốt bao năm ra ánh sáng."
         },
         {
-            "name": "Trò Chơi Bắt Cóc (Phần 1)",
+            "name": "Chuyến Đi Chữa Lành",
             "year": 2026,
-            "slug": "tro-choi-bat-coc-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
+            "slug": "chuyen-di-chua-lanh",
+            "thumb": "https://phimimg.com/uploads/movies/20261029/chuyen-di-chua-lanh-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261029/chuyen-di-chua-lanh-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "11",
-            "country": "Nhật Bản",
-            "description": "Bộ phim xoay quanh một loạt các vụ bắt cóc đồng loạt tại 7 thành phố lớn ở châu Á (Tokyo, Seoul, Đài Bắc, Singapore, Bangkok, Naha, Manila), buộc các gia đình phải tham gia vào một trò chơi sinh tử thông qua các chỉ thị từ một email bí ẩn."
+            "current_episode": "Tập 2",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Kim Ha Yeon là một cô gái 18 tuổi bình thường, luôn mơ mộng về một cuộc đời đầy kịch tính như những gì cô thấy trên màn ảnh. Cuộc đời cô bước sang một ngã rẽ kỳ diệu và đầy bất ngờ khi cô đến ngôi làng đồng quê xa lạ Upo-ri để nghỉ hè. Tại đây, cô tình cờ gặp Jo Yu Gyeom, người thừa kế của một gia đình quý tộc truyền thống, và bạn gái của anh, Sae Ryeong. Dù sở hữu vẻ ngoài cuốn hút cùng tài năng bơi lội thiên bẩm, anh lại sống một cuộc đời tẻ nhạt, bị kìm hãm bởi những quy củ lỗi thời và nhịp sống lặp đi lặp lại. Khi hai con người trái ngược ấy gặp nhau giữa vẻ đẹp tĩnh lặng của Upo-ri, thế giới của họ va vào nhau, thắp lên một sự thay đổi trong cuộc sống thường nhật và mở đầu cho một mùa hè có một không hai trong đời."
         },
         {
             "name": "Doraemon: Nobita và Lâu Đài Dưới Đáy Biển (Phiên Bản Mới)",
@@ -3033,16 +3033,16 @@
             "description": "Loạt phim tài liệu ghi lại thành công ở Hollywood, sự ủng hộ công khai và cái chết bi thảm của ngôi sao \"Những người bạn\" được yêu mến, qua lời kể của những người thân cận nhất."
         },
         {
-            "name": "Doraemon: Nobita và Lâu Đài Dưới Đáy Biển (Phiên Bản Mới)",
+            "name": "Quỷ Bắt Hồn",
             "year": 2026,
-            "slug": "doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi",
-            "thumb": "https://phimimg.com/uploads/movies/20260829/doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260829/doraemon-nobita-va-lau-dai-duoi-day-bien-phien-ban-moi-poster.webp",
-            "sub_type": "Lồng Tiếng",
+            "slug": "quy-bat-hon",
+            "thumb": "https://phimimg.com/uploads/movies/20261026/quy-bat-hon-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261026/quy-bat-hon-poster.webp",
+            "sub_type": "Vietsub",
             "current_episode": "Full",
             "total_episodes": "1",
-            "country": "Nhật Bản",
-            "description": "\"Doraemon: Nobita và Lâu đài dưới đáy biển\" (tên khác là Lâu đài ma dưới đáy biển) là một trong những tác phẩm kinh điển thuộc loạt truyện dài và phim điện ảnh Doraemon. Hiện tại, tác phẩm này đang thu hút sự chú ý với phiên bản làm mới (remake) ra mắt vào năm 2026."
+            "country": "Việt Nam",
+            "description": "Quang Tuấn tái xuất trong phim kinh dị Quỷ Bắt Hồn, nơi một gia đình tưởng chừng bình thường dần bị bao vây bởi những hiện tượng quỷ dị. Khi nỗi sợ không còn dừng lại ở cảm giác… mà trở thành thứ có thể nghe thấy, có thể gọi tên: “Đúng tháng đúng ngày, hồn về theo quỷ”."
         },
         {
             "name": "Ngọc Điệm Thu",
@@ -3057,16 +3057,16 @@
             "description": "Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp gỡ Ngu Sưởng Hiên, ngũ thiếu gia nhà họ Ngu. Sau giai đoạn đầu đầy toan tính và nghi kỵ, cả hai dần nảy sinh tình cảm sâu đậm. Nhưng rồi hàng loạt biến cố và bi kịch đẩy Bình Quân đến bờ vực tuyệt vọng, khiến cô phải rời xa Sưởng Hiên. Trải qua nhiều năm đau khổ và dằn vặt, họ gặp lại nhau, từng bước hóa giải hiểu lầm và đối mặt với những bí mật trong quá khứ."
         },
         {
-            "name": "Tình Yêu Trong Vỏ Bọc / Tình Yêu Ngụy Trang",
+            "name": "Trò Chơi Bắt Cóc (Phần 1)",
             "year": 2026,
-            "slug": "tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang",
-            "thumb": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-poster.webp",
+            "slug": "tro-choi-bat-coc-phan-1",
+            "thumb": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
             "sub_type": "Vietsub",
             "current_episode": "Tập 4",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Tình Yêu Trong Vỏ Bọc (Love in Disguise) là một bộ phim truyền hình hài lãng mạn công sở của Hàn Quốc, với sự tham gia của các diễn viên Yim Si-wan, Seol In-ah, Kim Jung-hyun và Yeonwoo. Dựa trên tiểu thuyết mạng \"Tại Sao Bạn Không Biết Đó Là Con Gái?\""
+            "total_episodes": "11",
+            "country": "Nhật Bản",
+            "description": "Bộ phim xoay quanh một loạt các vụ bắt cóc đồng loạt tại 7 thành phố lớn ở châu Á (Tokyo, Seoul, Đài Bắc, Singapore, Bangkok, Naha, Manila), buộc các gia đình phải tham gia vào một trò chơi sinh tử thông qua các chỉ thị từ một email bí ẩn."
         },
         {
             "name": "Yêu Nhân Thần Thám: Kỳ Án Trường An",
