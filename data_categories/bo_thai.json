@@ -1,5 +1,65 @@
 [
     {
+        "name": "Tổ Ấm Tình Yêu / Kiến Tạo Trái Tim",
+        "year": 2026,
+        "slug": "to-am-tinh-yeu-kien-tao-trai-tim",
+        "thumb": "https://phimimg.com/uploads/movies/20261023/to-am-tinh-yeu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261023/to-am-tinh-yeu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Khi kiến trúc sư tài năng như \"Soul\" phải chạm trán với thầy phong thủy đối thủ chuyên gây rắc rối như \"Xin Xin\". Một người tin vào nguyên tắc, người kia lại tin vào phong thủy. Nghề nghiệp và niềm tin của họ hoàn toàn trái ngược, nhưng định mệnh lại đưa đẩy khiến cả hai phải làm việc cùng nhau. Liệu những bất đồng sẽ dần “gây dựng” nên một mối quan hệ, hay những xáo trộn trong trái tim sẽ dần “gây dựng tình yêu”?"
+    },
+    {
+        "name": "Hương Tình Miền Quê",
+        "year": 2026,
+        "slug": "huong-tinh-mien-que",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20261023/huong-tinh-mien-que-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "26",
+        "country": "Thái Lan",
+        "description": "Gánh khoản nợ sau khi cha mất, Auemdao đành bán đôi trâu yêu quý của gia đình, rồi cùng một chàng trai nuôi trâu cuốn hút tìm cách mua lại chúng."
+    },
+    {
+        "name": "Dịch Vụ Chia Tay Thuê",
+        "year": 2026,
+        "slug": "dich-vu-chia-tay-thue",
+        "thumb": "https://phimimg.com/uploads/movies/20261023/dich-vu-chia-tay-thue-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261023/dich-vu-chia-tay-thue-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Thitinan sẵn sàng nhận bất kỳ công việc nào — từ làm bạn gái hờ cho đến ra tay chia rẽ một mối quan hệ. Thế nhưng, riêng với cô Chat, anh lại có một dịch vụ vô cùng đặc biệt: trở thành \"huấn luyện viên chuyện phòng chiếu\"."
+    },
+    {
+        "name": "Di Sản Đen Tối",
+        "year": 2026,
+        "slug": "di-san-den-toi",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20261009/di-san-den-toi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 8",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Một gia đình tụ họp suốt một tháng để giành gia tài của người ông. Nhưng khi hàng loạt vụ án mạng xảy ra, họ phải tìm ra kẻ sát nhân đang ẩn mình trong số họ."
+    },
+    {
+        "name": "Bảo Vệ Đất Mẹ",
+        "year": 2026,
+        "slug": "bao-ve-dat-me",
+        "thumb": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "24",
+        "country": "Thái Lan",
+        "description": "Mintada, chiến binh người Kase, học ở Thái Lan và phải lòng tiểu thư giàu có Punpussa, nhưng chiến tranh, sự ngăn cấm của gia đình và nghĩa vụ với quê hương chia cắt họ."
+    },
+    {
         "name": "Mái Ấm Địa Ngục",
         "year": 2026,
         "slug": "mai-am-dia-nguc",
@@ -34,18 +94,6 @@
         "total_episodes": "16",
         "country": "Thái Lan",
         "description": "Thân như anh em ruột dù chẳng phải máu mủ, Rawee và Phakorn bị tình yêu cùng sự dối trá chia cắt. Khi Phakorn ngã bệnh, Rawee hy sinh tất cả – và phải trả một cái giá quá đắt."
-    },
-    {
-        "name": "Hương Tình Miền Quê",
-        "year": 2026,
-        "slug": "huong-tinh-mien-que",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20261023/huong-tinh-mien-que-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "26",
-        "country": "Thái Lan",
-        "description": "Gánh khoản nợ sau khi cha mất, Auemdao đành bán đôi trâu yêu quý của gia đình, rồi cùng một chàng trai nuôi trâu cuốn hút tìm cách mua lại chúng."
     },
     {
         "name": "Chiếc Nhẫn Tri Kỷ",
@@ -204,30 +252,6 @@
         "description": "Bốn cặp đôi cùng tham gia Hội quạ đen bí ẩn, nơi những vụ việc siêu nhiên và nhiệm vụ nguy hiểm dẫn đến những mối quan hệ lãng mạn không ngờ tới."
     },
     {
-        "name": "Tổ Ấm Tình Yêu / Kiến Tạo Trái Tim",
-        "year": 2026,
-        "slug": "to-am-tinh-yeu-kien-tao-trai-tim",
-        "thumb": "https://phimimg.com/uploads/movies/20261023/to-am-tinh-yeu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261023/to-am-tinh-yeu-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Khi kiến trúc sư tài năng như \"Soul\" phải chạm trán với thầy phong thủy đối thủ chuyên gây rắc rối như \"Xin Xin\". Một người tin vào nguyên tắc, người kia lại tin vào phong thủy. Nghề nghiệp và niềm tin của họ hoàn toàn trái ngược, nhưng định mệnh lại đưa đẩy khiến cả hai phải làm việc cùng nhau. Liệu những bất đồng sẽ dần “gây dựng” nên một mối quan hệ, hay những xáo trộn trong trái tim sẽ dần “gây dựng tình yêu”?"
-    },
-    {
-        "name": "Dịch Vụ Chia Tay Thuê",
-        "year": 2026,
-        "slug": "dich-vu-chia-tay-thue",
-        "thumb": "https://phimimg.com/uploads/movies/20261023/dich-vu-chia-tay-thue-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261023/dich-vu-chia-tay-thue-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Thitinan sẵn sàng nhận bất kỳ công việc nào — từ làm bạn gái hờ cho đến ra tay chia rẽ một mối quan hệ. Thế nhưng, riêng với cô Chat, anh lại có một dịch vụ vô cùng đặc biệt: trở thành \"huấn luyện viên chuyện phòng chiếu\"."
-    },
-    {
         "name": "Chạm Vào Anh / Dạy Tôi Cách Yêu",
         "year": 2026,
         "slug": "cham-vao-anh-day-toi-cach-yeu",
@@ -238,30 +262,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Bị người yêu đá vì quá \"nhạt nhẽo\", Gear quyết định thuê một tay ăn chơi chính hiệu về dạy cho mình biết thế nào là sự đam mê. Thế nhưng, những bài học thân mật ấy đã nhanh chóng vượt qua ranh giới giả vờ để biến thành một tình yêu thực sự."
-    },
-    {
-        "name": "Bảo Vệ Đất Mẹ",
-        "year": 2026,
-        "slug": "bao-ve-dat-me",
-        "thumb": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 1",
-        "total_episodes": "24",
-        "country": "Thái Lan",
-        "description": "Mintada, chiến binh người Kase, học ở Thái Lan và phải lòng tiểu thư giàu có Punpussa, nhưng chiến tranh, sự ngăn cấm của gia đình và nghĩa vụ với quê hương chia cắt họ."
-    },
-    {
-        "name": "Di Sản Đen Tối",
-        "year": 2026,
-        "slug": "di-san-den-toi",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20261009/di-san-den-toi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "8",
-        "country": "Thái Lan",
-        "description": "Một gia đình tụ họp suốt một tháng để giành gia tài của người ông. Nhưng khi hàng loạt vụ án mạng xảy ra, họ phải tìm ra kẻ sát nhân đang ẩn mình trong số họ."
     },
     {
         "name": "Chuyện Tình Đảo Thiên Đường",

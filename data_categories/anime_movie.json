@@ -1,5 +1,17 @@
 [
     {
+        "name": "Hòn Đảo Quên Lãng",
+        "year": 2026,
+        "slug": "hon-dao-quen-lang",
+        "thumb": "https://phimimg.com/uploads/movies/20261030/hon-dao-quen-lang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261030/hon-dao-quen-lang-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Trong đêm cuối cùng bên nhau, Jo và Raissa tình cờ phát hiện một cánh cổng bí ẩn đưa họ đến hòn đảo kỳ ảo Nakali – nơi tràn ngập những sinh vật thần thoại và phép thuật mà họ từng được nghe kể từ gia đình người Philippines của mình. Tại đây, có những sinh vật trở thành bạn đồng hành, nhưng cũng có những kẻ là mối đe dọa. Đồng hành cùng chú chó sói vụng về nhưng tốt bụng Raww và một nhóm bạn nhỏ nhưng “có võ”, Jo và Raissa phải đối mặt với The Dreaded Manananggal, sinh vật đáng sợ nhất trên đảo. Khi phát hiện rằng cái giá để trở về nhà chính là toàn bộ ký ức về tình bạn của mình, Jo và Raissa buộc phải chạy đua với thời gian để tìm cách rời khỏi hòn đảo trước khi họ quên mất nhau mãi mãi."
+    },
+    {
         "name": "Lời Nguyền Thư Viện Mikura",
         "year": 2025,
         "slug": "loi-nguyen-thu-vien-mikura",
@@ -339,16 +351,5 @@
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "Âu Mỹ"
-    },
-    {
-        "name": "Thôn Phệ Tinh Không Movie: Quyết Chiến Nguyên Thủy Tinh",
-        "year": 2026,
-        "slug": "thon-phe-tinh-khong-movie-quyet-chien-nguyen-thuy-tinh",
-        "thumb": "https://phimimg.com/upload/vod/20260505-1/1ed0d0dbd16e93cc0969ebf10d2a84b1.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260505-1/b1c0b05eb398b839f293dccdbaabe21d.jpg",
-        "sub_type": "Vietsub + Thuyết Minh",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Trung Quốc"
     }
 ]
