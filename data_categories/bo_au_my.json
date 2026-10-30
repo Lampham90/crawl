@@ -1,5 +1,29 @@
 [
     {
+        "name": "Vision: Hành Trình Tìm Lại Ký Ức",
+        "year": 2026,
+        "slug": "vision-hanh-trinh-tim-lai-ky-uc",
+        "thumb": "https://phimimg.com/uploads/movies/20261017/vision-quest-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261017/vision-quest-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Bị treo thưởng truy nã, Vision buộc phải đối diện với bản ngã của mình và chống lại sự thao túng từ Ultron để có thể sống sót."
+    },
+    {
+        "name": "Tình Anh Em (Phần 1)",
+        "year": 2026,
+        "slug": "tinh-anh-em-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Hai tài tử Hollywood Matthew McConaughey và Woody Harrelson là đôi bạn thân nhiều năm—nhưng một bí mật gia đình chấn động cho thấy mối thâm tình này có thể còn khăng khít hơn thế."
+    },
+    {
         "name": "Truyện Kinh Dị Mỹ (Phần 13)",
         "year": 2026,
         "slug": "truyen-kinh-di-my-phan-13",
@@ -72,18 +96,6 @@
         "description": "Một tác giả podcast về tình dục theo thuyết bất khả tri và một Thầy đạo mới độc thân yêu nhau. Liệu họ có vượt qua được lối sống hoàn toàn khác biệt và sự can thiệp của gia đình?"
     },
     {
-        "name": "Vision: Hành Trình Tìm Lại Ký Ức",
-        "year": 2026,
-        "slug": "vision-hanh-trinh-tim-lai-ky-uc",
-        "thumb": "https://phimimg.com/uploads/movies/20261017/vision-quest-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261017/vision-quest-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "8",
-        "country": "Âu Mỹ",
-        "description": "Bị treo thưởng truy nã, Vision buộc phải đối diện với bản ngã của mình và chống lại sự thao túng từ Ultron để có thể sống sót."
-    },
-    {
         "name": "Lãnh Địa Tử Chiến (Phần 2)",
         "year": 2026,
         "slug": "lanh-dia-tu-chien-phan-2",
@@ -142,18 +154,6 @@
         "total_episodes": "6",
         "country": "Anh",
         "description": "Bộ phim điệp viên hài hước theo chân hành trình của một nhóm đặc vụ MI5 vô tích sự và ông sếp đáng ghét của họ - Jackson Lamb khét tiếng - trong thế giới tình báo đầy lừa lọc nhằm bảo vệ nước Anh trước những thế lực xấu xa."
-    },
-    {
-        "name": "Tình Anh Em (Phần 1)",
-        "year": 2026,
-        "slug": "tinh-anh-em-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "8",
-        "country": "Âu Mỹ",
-        "description": "Hai tài tử Hollywood Matthew McConaughey và Woody Harrelson là đôi bạn thân nhiều năm—nhưng một bí mật gia đình chấn động cho thấy mối thâm tình này có thể còn khăng khít hơn thế."
     },
     {
         "name": "Hồ Crystal",

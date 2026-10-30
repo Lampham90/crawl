@@ -6,10 +6,22 @@
         "thumb": "https://phimimg.com/uploads/movies/20261022/xom-nho-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20261022/xom-nho-poster.webp",
         "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
+        "current_episode": "Tập 7",
         "total_episodes": "35",
         "country": "Việt Nam",
         "description": "\"Xóm nhỏ\" xoay quanh câu chuyện của Trâm - cô gái 19 tuổi mang trong mình sự bồng bột và ngang bướng của tuổi trẻ. Sau cuộc tranh cãi gay gắt với bố, Trâm quyết định rời nhà lên Hà Nội với mong muốn tự lập và chứng minh bản thân. Không chỉ xoay quanh hành trình trưởng thành của những người trẻ, “Xóm nhỏ” còn khắc họa cuộc sống của cộng đồng lao động xa quê với nhiều số phận và hoàn cảnh khác nhau. Đằng sau những lo toan cơm áo, những vất vả thường nhật vẫn là sự sẻ chia, lòng tốt và tình cảm chân thành giữa những con người cùng cảnh ngộ."
+    },
+    {
+        "name": "Đội Bóng Nữ Làng Xuân",
+        "year": 2026,
+        "slug": "doi-bong-nu-lang-xuan",
+        "thumb": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 16",
+        "total_episodes": "24",
+        "country": "Việt Nam",
+        "description": "Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn."
     },
     {
         "name": "Căn Nhà Không Mái Che",
@@ -22,18 +34,6 @@
         "total_episodes": "39",
         "country": "Việt Nam",
         "description": "Lấy bối cảnh một vùng trung du Bắc Bộ vào những năm 2010, \"Căn nhà không mái che\" mang tới câu chuyện của những con người lao động nhỏ bé, ngày ngày vật lộn với cơm áo, nợ nần và những lo toan đời thường. Ở đó, những người cha, người mẹ luôn đặt sự bình an và tương lai của con cái lên trước hạnh phúc riêng, chỉ mong dựng cho con một “mái che” đủ vững vàng trước những bất trắc của cuộc sống."
-    },
-    {
-        "name": "Đội Bóng Nữ Làng Xuân",
-        "year": 2026,
-        "slug": "doi-bong-nu-lang-xuan",
-        "thumb": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 15",
-        "total_episodes": "24",
-        "country": "Việt Nam",
-        "description": "Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn."
     },
     {
         "name": "Phù Sa",

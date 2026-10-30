@@ -1,5 +1,17 @@
 [
     {
+        "name": "Lời Nguyền Thư Viện Mikura",
+        "year": 2025,
+        "slug": "loi-nguyen-thu-vien-mikura",
+        "thumb": "https://phimimg.com/uploads/movies/20261030/loi-nguyen-thu-vien-mikura-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261030/loi-nguyen-thu-vien-mikura-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Nhật Bản",
+        "description": "Mifuyu là một nữ sinh trung học sống cùng bộ sưu tập sách khổng lồ do cụ cố để lại — thư viện đồ sộ mang tên Mikura Hall. Dù cha cô là người trông coi hiện tại, bản thân Mifuyu lại không chia sẻ niềm đam mê văn chương của gia đình. Nhưng khi nhiều cuốn sách bị đánh cắp khỏi thư viện, kích hoạt một lời nguyền cổ xưa, thị trấn biến đổi theo đủ loại câu chuyện — và cách duy nhất để mọi thứ trở lại bình thường là Mifuyu phải bắt được tên trộm. Với sự giúp đỡ của cô gái bí ẩn tên Mashiro, Mifuyu lên đường phiêu lưu qua các thế giới trong truyện!"
+    },
+    {
         "name": "Shaun The Sheep: \"Quái Lạ\" Ghé Nhà",
         "year": 2026,
         "slug": "shaun-the-sheep-quai-la-ghe-nha",
@@ -338,16 +350,5 @@
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "Trung Quốc"
-    },
-    {
-        "name": "Hoppers: Cú Nhảy Kỳ Diệu",
-        "year": 2026,
-        "slug": "hoppers-cu-nhay-ky-dieu",
-        "thumb": "https://phimimg.com/upload/vod/20260330-1/91d30de8c46d4b24ad2987c54376d54d.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260330-1/d8c96083ab5b6d8a2a3e1fdafc9d0bc0.jpg",
-        "sub_type": "Vietsub + Lồng Tiếng",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ"
     }
 ]
