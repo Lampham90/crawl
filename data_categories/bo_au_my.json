@@ -1,5 +1,17 @@
 [
     {
+        "name": "El Mayo Sa Lưới",
+        "year": 2026,
+        "slug": "el-mayo-sa-luoi",
+        "thumb": "https://phimimg.com/uploads/movies/20261031/el-mayo-sa-luoi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261031/el-mayo-sa-luoi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (3/3)",
+        "total_episodes": "3",
+        "country": "Âu Mỹ",
+        "description": "Ai mới thực sự nắm quyền ở Sinaloa? El Mayo Zambada hoạt động như một bóng ma phía sau đồng phạm El Chapo, cho đến khi một vụ phản bội đẩy ông vào tâm điểm chú ý của dư luận."
+    },
+    {
         "name": "Vision: Hành Trình Tìm Lại Ký Ức",
         "year": 2026,
         "slug": "vision-hanh-trinh-tim-lai-ky-uc",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Mỹ",
         "description": "Một cuộc tuyển chọn thần tượng K-pop hàng đầu thế giới tưởng chừng hào nhoáng, thực chất lại là cuộc chiến sinh tử đầy rẫy hiểm nguy. Bốn mươi thực tập sinh tham vọng bị đưa vào một thế giới mô phỏng ảo tàn khốc kết nối trực tiếp với thần kinh; hễ bị loại, não của họ ngoài đời sẽ chết ngay lập tức. Bốn người sống sót với hoàn cảnh hoàn toàn khác nhau — một kẻ vươn lên từ sang chấn, một tiểu thư nhà giàu được bao bọc, một sát thủ băng đảng đáng sợ và một tin tặc thiên tài — buộc phải lập nên một liên minh mong manh. Họ phải vượt qua những quái vật dị thường, đối thủ khát máu và các VIP đứng sau giật dây, rồi phá hủy hệ thống trước khi nó nuốt chửng linh hồn của tất cả."
-    },
-    {
-        "name": "Below: Ác Mộng Đại Dương",
-        "year": 2026,
-        "slug": "below-ac-mong-dai-duong",
-        "thumb": "https://phimimg.com/uploads/movies/20261009/below-ac-mong-dai-duong-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261009/below-ac-mong-dai-duong-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (6/6)",
-        "total_episodes": "6",
-        "country": "Anh",
-        "description": "Khi sinh vật biển bí ẩn gieo rắc nỗi kinh hoàng cho một thị trấn nhỏ ở Newfoundland, một ngư dân cứng cỏi và gia đình cùng chiến đấu để bảo vệ cộng đồng gắn bó của họ."
     }
 ]

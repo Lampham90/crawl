@@ -1,5 +1,17 @@
 [
     {
+        "name": "SCTV: Chương Trình Tuyệt Vời Nhất Mà Bạn Chưa Từng Nghe Đến",
+        "year": 2026,
+        "slug": "sctv-chuong-trinh-tuyet-voi-nhat-ma-ban-chua-tung-nghe-den",
+        "thumb": "https://phimimg.com/uploads/movies/20261031/sctv-chuong-trinh-tuyet-voi-nhat-ma-ban-chua-tung-nghe-den-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261031/sctv-chuong-trinh-tuyet-voi-nhat-ma-ban-chua-tung-nghe-den-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Mỹ",
+        "description": "Dàn diễn viên huyền thoại của \"SCTV\" tái ngộ trong bộ phim tài liệu hài hước và ấm áp, nhìn lại cách một chương trình hài tiểu phẩm Canada đầy máu lửa đã làm nên lịch sử hài kịch."
+    },
+    {
         "name": "Instadocs: Jane Doe Đối Đầu Đại Học Cornell",
         "year": 2026,
         "slug": "instadocs-jane-doe-doi-dau-dai-hoc-cornell",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Sau quá nhiều lần thất bại vì những món hàng lỗi của công ty Acme trong cuộc săn đuổi không ngừng nghỉ chú chim Roadrunner, Wile E. Coyote quyết định thuê một luật sư… từ biển quảng cáo, để kiện tập đoàn Acme ra tòa."
-    },
-    {
-        "name": "Tro Tàn Vùng Lên",
-        "year": 2026,
-        "slug": "tro-tan-vung-len",
-        "thumb": "https://phimimg.com/uploads/movies/20261001/tro-tan-vung-len-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261001/tro-tan-vung-len-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Đức",
-        "description": "Giữa nước Anh thế kỷ 14 bị dịch bệnh tàn phá, một người nông dân nghèo vô tình châm ngòi cho làn sóng phản kháng chống lại Vua Richard II. Từ một kẻ vô danh dưới đáy xã hội, ông trở thành huyền thoại của những con người không còn gì để mất."
     }
 ]

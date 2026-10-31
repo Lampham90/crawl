@@ -1,5 +1,29 @@
 [
     {
+        "name": "Thượng Công Chúa",
+        "year": 2026,
+        "slug": "thuong-cong-chua",
+        "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 17",
+        "total_episodes": "40",
+        "country": "Trung Quốc",
+        "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
+    },
+    {
+        "name": "Ngọc Điệm Thu",
+        "year": 2026,
+        "slug": "ngoc-diem-thu",
+        "thumb": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 33",
+        "total_episodes": "40",
+        "country": "Trung Quốc",
+        "description": "Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp gỡ Ngu Sưởng Hiên, ngũ thiếu gia nhà họ Ngu. Sau giai đoạn đầu đầy toan tính và nghi kỵ, cả hai dần nảy sinh tình cảm sâu đậm. Nhưng rồi hàng loạt biến cố và bi kịch đẩy Bình Quân đến bờ vực tuyệt vọng, khiến cô phải rời xa Sưởng Hiên. Trải qua nhiều năm đau khổ và dằn vặt, họ gặp lại nhau, từng bước hóa giải hiểu lầm và đối mặt với những bí mật trong quá khứ."
+    },
+    {
         "name": "Ván Cờ Của Cô Ấy",
         "year": 2026,
         "slug": "van-co-cua-co-ay",
@@ -46,18 +70,6 @@
         "total_episodes": "20",
         "country": "Trung Quốc",
         "description": "Bộ phim tập trung vào sự trưởng thành của thanh niên trong thời đại mới và công lý pháp luật, câu chuyện kể về chuyên gia tâm lý tội phạm Cố Ngôn và cộng sự Thẩm Duật giữ vững chính nghĩa và cùng phá giải các vụ án bí ẩn, tìm kiếm chân tướng sự thật. Kết hợp với các màn đấu trí hồi hộp và suy tư về nhân tính, bộ phim tập trung vào các vấn đề thực tế như lằn ranh đạo đức của con người, bảo vệ bản thân, nắm bắt nhịp điệu của thời đại, với cách kể chuyện mới mẻ và nhịp độ dồn dập."
-    },
-    {
-        "name": "Ngọc Điệm Thu",
-        "year": 2026,
-        "slug": "ngoc-diem-thu",
-        "thumb": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 33",
-        "total_episodes": "40",
-        "country": "Trung Quốc",
-        "description": "Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp gỡ Ngu Sưởng Hiên, ngũ thiếu gia nhà họ Ngu. Sau giai đoạn đầu đầy toan tính và nghi kỵ, cả hai dần nảy sinh tình cảm sâu đậm. Nhưng rồi hàng loạt biến cố và bi kịch đẩy Bình Quân đến bờ vực tuyệt vọng, khiến cô phải rời xa Sưởng Hiên. Trải qua nhiều năm đau khổ và dằn vặt, họ gặp lại nhau, từng bước hóa giải hiểu lầm và đối mặt với những bí mật trong quá khứ."
     },
     {
         "name": "Ngày Bạn Thân Giàu Có Chẳng Còn Xa",
@@ -166,18 +178,6 @@
         "total_episodes": "20",
         "country": "Trung Quốc",
         "description": "Ing — người thừa kế vô cùng tự tin của Tập đoàn Araya — tình cờ gặp gỡ Yok, người thừa kế của một gia đình quý tộc lâu đời, thông qua Itt (em cùng cha khác mẹ của Ing và cũng là bạn của Yok). Lấy cớ bàn chuyện công việc, Ing liên tục tìm mọi cách để bước vào cuộc sống của Yok. Thế rồi, trong một đêm hỗn loạn chìm đắm trong men rượu, cả hai vượt qua giới hạn và trở nên thân mật, khiến tình cảm mà Yok dành cho Ing dần dần thay đổi. Khi tình yêu bắt đầu chớm nở giữa họ, Ing hoàn toàn không hề hay biết rằng bản thân đã bước vào một cái bẫy do chính Yok giăng sẵn."
-    },
-    {
-        "name": "Thượng Công Chúa",
-        "year": 2026,
-        "slug": "thuong-cong-chua",
-        "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 15",
-        "total_episodes": "40",
-        "country": "Trung Quốc",
-        "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
     },
     {
         "name": "Tiểu Thành Lương Phương",
