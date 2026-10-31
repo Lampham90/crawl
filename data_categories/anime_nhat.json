@@ -1,5 +1,17 @@
 [
     {
+        "name": "Mặt Nạ Chu Sa",
+        "year": 2026,
+        "slug": "mat-na-chu-sa",
+        "thumb": "https://phimimg.com/uploads/movies/20261011/mat-na-chu-sa-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261011/mat-na-chu-sa-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Chiếc mặt nạ bí ẩn mang đến tai họa, sở hữu ý chí riêng và dường như bị cuốn hút bởi những cuộc tàn sát. Peru, một thương nhân lang bạt chuyên buôn bán mặt nạ, có khả năng chế tạo những vật phẩm kỳ lạ trao cho người đeo sức mạnh độc đáo. Khi đặt chân đến một thành phố phủ đầy bầu không khí u ám, anh gặp Sonah, cô gái trẻ bí ẩn che giấu nhiều điều chưa được hé lộ. Từ đây, những mâu thuẫn và bí mật dần trỗi dậy, mở màn cho cuộc chiến mặt nạ đầy kịch tính và những bước ngoặt khó lường."
+    },
+    {
         "name": "Ushiro no Shoumen Kamui-san",
         "year": 2026,
         "slug": "ushiro-no-shoumen-kamui-san",
@@ -346,17 +358,5 @@
         "total_episodes": "13",
         "country": "Nhật Bản",
         "description": "Một chàng trai vô tình bị chuyển sinh vào thế giới của \"Magiero\" – một tựa game hẹn hò giả tưởng vô cùng đình đám. Trớ trêu thay, thay vì trở thành nam chính đào hoa sở hữu dàn harem 24 mỹ nhân cùng sức mạnh bá đạo, cậu lại thức tỉnh trong thân xác của Kousuke Takioto, một nhân vật phụ làm nền chuyên đi cười cợt bên cạnh nam chính. Tuy nhiên, thay vì cam chịu số phận và bỏ mặc dàn nữ chính, Kousuke quyết định tận dụng kiến thức uyên thâm về trò chơi của mình để rèn luyện ma thuật, chinh phục các hầm ngục và phấn đấu trở thành người mạnh nhất."
-    },
-    {
-        "name": "Horror Collector / Kyoufu Collector",
-        "year": 2026,
-        "slug": "horror-collector-kyoufu-collector",
-        "thumb": "https://phimimg.com/uploads/movies/20261014/horror-collector-kyoufu-collector-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261014/horror-collector-kyoufu-collector-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "12",
-        "country": "Nhật Bản",
-        "description": "Internet tràn ngập những câu chuyện kinh dị, các báo cáo về sinh vật bí ẩn, những chuyện lạ siêu nhiên và các vụ mất tích chưa có lời giải. Phần lớn trong số đó chỉ là tin đồn hay trò đùa của những kẻ thích gây rối, những thứ mang tính giải trí đơn thuần. Tuy nhiên, một số ít người kém may mắn đã phải trả giá đắt khi nhận ra rằng có những truyền thuyết là sự thật. Nhiều nạn nhân xấu số ấy dường như đã cầm chắc cái chết, nhưng vận mệnh của họ có thể thay đổi nếu tình cờ chạm mặt cậu bé khoác chiếc áo choàng đỏ. Cậu lang thang qua khắp các thị trấn và luôn xuất hiện ở những nơi xảy ra chuyện kỳ ​​quái. Liệu cậu là tia sáng giữa màn đêm? Hay là minh chứng sống động cho thấy quái vật thực sự tồn tại...?"
     }
 ]
