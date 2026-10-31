@@ -183,6 +183,18 @@
     ],
     "anime_nhat": [
         {
+            "name": "Mặt Nạ Chu Sa",
+            "year": 2026,
+            "slug": "mat-na-chu-sa",
+            "thumb": "https://phimimg.com/uploads/movies/20261011/mat-na-chu-sa-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261011/mat-na-chu-sa-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "12",
+            "country": "Nhật Bản",
+            "description": "Chiếc mặt nạ bí ẩn mang đến tai họa, sở hữu ý chí riêng và dường như bị cuốn hút bởi những cuộc tàn sát. Peru, một thương nhân lang bạt chuyên buôn bán mặt nạ, có khả năng chế tạo những vật phẩm kỳ lạ trao cho người đeo sức mạnh độc đáo. Khi đặt chân đến một thành phố phủ đầy bầu không khí u ám, anh gặp Sonah, cô gái trẻ bí ẩn che giấu nhiều điều chưa được hé lộ. Từ đây, những mâu thuẫn và bí mật dần trỗi dậy, mở màn cho cuộc chiến mặt nạ đầy kịch tính và những bước ngoặt khó lường."
+        },
+        {
             "name": "Ushiro no Shoumen Kamui-san",
             "year": 2026,
             "slug": "ushiro-no-shoumen-kamui-san",
@@ -349,18 +361,6 @@
             "total_episodes": "12",
             "country": "Nhật Bản",
             "description": "Misaki luôn khao khát thoát khỏi nhịp sống tẻ nhạt thường ngày để bắt đầu một hành trình đến một nơi xa. Dù chưa biết tương lai mình sẽ trở thành ai, Misaki biết chắc một điều: cô muốn tìm thấy một niềm đam mê thực sự của đời mình. Ngay sau khi bước chân vào cánh cổng đại học, cô đã vô tình gặp gỡ các thành viên của Câu lạc bộ Du lịch Đường sắt. Giờ đây, trái tim Misaki đang rộn ràng đập những nhịp đập háo hức trước một thế giới hoàn toàn mới đang rộng mở trên những đường ray."
-        },
-        {
-            "name": "Tái Sinh Làm Lính Đánh Thuê Vũ Trụ: Tôi Tỉnh Dậy Trong Buồng Lái Của Phi Thuyền Mạnh Nhất!",
-            "year": 2026,
-            "slug": "tai-sinh-lam-linh-danh-thue-vu-tru-toi-tinh-day-trong-buong-lai-cua-phi-thuyen-manh-nhat",
-            "thumb": "https://phimimg.com/uploads/movies/20261030/tai-sinh-lam-linh-danh-thue-vu-tru-toi-tinh-day-trong-buong-lai-cua-phi-thuyen-manh-nhat-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261030/tai-sinh-lam-linh-danh-thue-vu-tru-toi-tinh-day-trong-buong-lai-cua-phi-thuyen-manh-nhat-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "13",
-            "country": "Nhật Bản",
-            "description": "Khi nhân viên văn phòng Takahiro Satou tỉnh dậy bên trong trò chơi khoa học viễn tưởng yêu thích của mình, anh thấy mình đang chỉ huy một con tàu vũ trụ hùng mạnh. Anh bước ra vũ trụ với tư cách Hiro — lính đánh thuê, chiến đấu với kẻ thù và thu thập đồng minh trên đường đi. Nhưng anh sớm gặp một vấn đề lớn: anh không có nhà, và quan trọng hơn — không có đồ uống có ga! Chỉ còn một cách… mua cho mình một ngôi nhà trên hành tinh!"
         }
     ],
     "hh_trung_quoc": [
@@ -1639,6 +1639,30 @@
     ],
     "bo_trung": [
         {
+            "name": "Thượng Công Chúa",
+            "year": 2026,
+            "slug": "thuong-cong-chua",
+            "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Tập 19",
+            "total_episodes": "40",
+            "country": "Trung Quốc",
+            "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
+        },
+        {
+            "name": "Tình Ca Kashgar",
+            "year": 2026,
+            "slug": "tinh-ca-kashgar",
+            "thumb": "https://phimimg.com/upload/vod/20260506-1/27680fc97bc7c7bfd9279325197fcfd0.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260506-1/5b969212efd973b56700ab36f264d2a7.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (8/8)",
+            "total_episodes": "8",
+            "country": "Trung Quốc",
+            "description": "Câu chuyện kể về ba chị em lớn lên trong thành cổ Kashgar, đối mặt với những khó khăn trong cuộc sống, trưởng thành từ sự va chạm giữa truyền thống và hiện đại, cùng nhau vượt qua bão tố cuộc đời, dùng tình yêu thương và hơi ấm để chữa lành cho nhau và bắt đầu lại cuộc sống của mình."
+        },
+        {
             "name": "Hoa Đăng Khởi",
             "year": 2026,
             "slug": "hoa-dang-khoi",
@@ -1649,18 +1673,6 @@
             "total_episodes": "26",
             "country": "Trung Quốc",
             "description": "Thượng Hải năm 1936, nữ thợ may Mai Dữ Hòa sống dưới gấu váy của tầng lớp quyền quý. Sau cái chết kỳ lạ của em gái, cô đã tự tay mổ khám tử thi và bắt tay cùng gã đòi nợ thuê Đinh Triệu, xe chỉ luồn kim, vạch trần những sự thật đồi trụy của giới thượng lưu, xé toạc mạng lưới tình bẩn thỉu ẩn sau ánh đèn neon."
-        },
-        {
-            "name": "Ván Cờ Của Cô Ấy",
-            "year": 2026,
-            "slug": "van-co-cua-co-ay",
-            "thumb": "https://phimimg.com/uploads/movies/20261021/van-co-cua-co-ay-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261021/van-co-cua-co-ay-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 21",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Vì muốn đòi lại công bằng cho cha, Dư Tụng bước chân vào nhà họ Tống với thân phận trợ lý. Bằng sự chân thành, cô dần chiếm được lòng tin của Tống Trừng, đồng thời liên minh với tài xế Tĩnh để cùng thu thập chứng cứ, vạch trần những tội ác của nhà họ Tống trước công chúng. Thế nhưng, Dư Tụng không để lòng thù hận nuốt chửng, cô quyết tâm thoát khỏi những xiềng xích của quá khứ và nhận ra rằng chiến thắng thực sự là giành lại quyền làm chủ cuộc đời mình. Cuối cùng, cô trở lại làm chính mình, hướng về tương lai tươi sáng."
         },
         {
             "name": "Tuý Mộng",
@@ -1769,18 +1781,6 @@
             "total_episodes": "60",
             "country": "Trung Quốc",
             "description": "Lấy cuộc Trường Chinh của Hồng quân Trung ương làm tuyến truyện chủ đạo, tác phẩm tái hiện toàn diện tiến trình lịch sử từ sau thất bại của cuộc chống “vây quét” lần thứ năm, đến khi Phương Diện quân số 1, số 2, số 4 của Hồng quân và Quân đoàn số 25 lần lượt tiến hành chuyển dịch chiến lược dưới sự lãnh đạo của Trung ương Đảng Cộng sản Trung Quốc, trải qua cuộc Trường Chinh đầy gian khổ và cuối cùng giành được thắng lợi. Tác phẩm ca ngợi niềm tin lý tưởng kiên định, tinh thần cách mạng bất khuất của những người cộng sản Trung Quốc, tiêu biểu là đồng chí Mao Trạch Đông. Đồng thời, tác phẩm làm rõ nguyên nhân và logic lịch sử của quá trình hình thành, phát triển cách mạng Trung Quốc, cũng như khẳng định luận điểm sâu sắc rằng chủ nghĩa Mác chỉ có thể dẫn dắt cách mạng Trung Quốc giành thắng lợi khi được kết hợp với thực tiễn cụ thể của cách mạng Trung Quốc."
-        },
-        {
-            "name": "Thượng Công Chúa",
-            "year": 2026,
-            "slug": "thuong-cong-chua",
-            "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Tập 17",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
         },
         {
             "name": "Luân Hồi",
@@ -2367,6 +2367,18 @@
     ],
     "bo_thai": [
         {
+            "name": "Ký Túc Xá \"Lắm Chiêu\" / Ký Túc Xá Bá Đạo",
+            "year": 2026,
+            "slug": "ky-tuc-xa-lam-chieu-ky-tuc-xa-ba-dao",
+            "thumb": "https://phimimg.com/uploads/movies/20260921/ky-tuc-xa-lam-chieu-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20260921/ky-tuc-xa-lam-chieu-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 7",
+            "total_episodes": "10",
+            "country": "Thái Lan",
+            "description": "Câu chuyện bắt đầu khi Dobby đưa ra quyết định bất ngờ là bán đi khu ký túc xá cũ của gia đình (The D Dorm). Tuy nhiên, để có được quyền bán tòa nhà này, anh vướng vào một nhiệm vụ dở khóc dở cười: phải giúp linh hồn của ông nội quá cố (A Kong) truy tìm lại người tình đầu tiên trong quá khứ."
+        },
+        {
             "name": "Chạm Vào Anh / Dạy Tôi Cách Yêu",
             "year": 2026,
             "slug": "cham-vao-anh-day-toi-cach-yeu",
@@ -2533,21 +2545,21 @@
             "total_episodes": "10",
             "country": "Thái Lan",
             "description": "Một nữ cảnh sát Bangkok bản tính đa nghi đang ráo riết truy lùng một tên trùm buôn người có năng lực kháng đạn. Cô lặn lội đến vùng Phop Phra, tỉnh Tak để tìm một vị cao nhân nhờ rèn những viên đạn yểm phép. Thế nhưng khi đến nơi, cô phát hiện ra người mình cất công tìm kiếm lại chính là mối duyên tiền định - người đã dành trọn cả cuộc đời chỉ để chờ đợi ngày được đoàn tụ cùng tình yêu đích thực."
-        },
-        {
-            "name": "Sân Golf Tình Yêu",
-            "year": 2026,
-            "slug": "san-golf-tinh-yeu",
-            "thumb": "https://phimimg.com/uploads/movies/20260904/san-golf-tinh-yeu-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260904/san-golf-tinh-yeu-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "10",
-            "country": "Thái Lan",
-            "description": "Cô con gái ông chủ sân golf mang trong mình giấc mơ thời trang bất ngờ được gọi về để tiếp quản việc kinh doanh của gia đình. Khởi đầu hoàn toàn mới này đã tạo cơ hội cho cô gặp gỡ một nữ vận động viên golf chuyên nghiệp. Sự xuất hiện của cô ấy đã âm thầm thay đổi cách cô nhìn nhận về cuộc đời, ước mơ và chính bản thân mình. Từ đó, một mối quan hệ ngoài dự liệu dần nảy nở từ sàn diễn thời trang đến sân golf."
         }
     ],
     "long_tieng": [
+        {
+            "name": "Thượng Công Chúa",
+            "year": 2026,
+            "slug": "thuong-cong-chua",
+            "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Tập 19",
+            "total_episodes": "40",
+            "country": "Trung Quốc",
+            "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
+        },
         {
             "name": "Chiến Binh Ánh Sáng TEO",
             "year": 2026,
@@ -2559,18 +2571,6 @@
             "total_episodes": "29",
             "country": "Nhật Bản",
             "description": "Năm 2026, khi series Ultraman kỷ niệm 60 năm, một người hùng mới xuất hiện để kế thừa ánh sáng: Ultraman Teo.\r\n\r\nSau khi hành tinh quê hương bị quái thú tấn công và hủy diệt, một sinh vật ngoài hành tinh cô độc trôi dạt đến Trái Đất.\r\n\r\n“Tôi không muốn chiến đấu… Nhưng tôi vẫn muốn bảo vệ!”\r\n\r\nMang theo quyết tâm mạnh mẽ đó, sinh vật cô đơn mang tên “Teo” sống giữa loài người dưới thân phận một sinh viên đại học tên Ibuki. Khi dần tạo dựng những mối liên kết với những người bạn mới, cậu bắt đầu hành trình trở thành Ultraman."
-        },
-        {
-            "name": "Thượng Công Chúa",
-            "year": 2026,
-            "slug": "thuong-cong-chua",
-            "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Tập 17",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
         },
         {
             "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
@@ -2731,6 +2731,30 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Thượng Công Chúa",
+            "year": 2026,
+            "slug": "thuong-cong-chua",
+            "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Tập 19",
+            "total_episodes": "40",
+            "country": "Trung Quốc",
+            "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
+        },
+        {
+            "name": "Tình Ca Kashgar",
+            "year": 2026,
+            "slug": "tinh-ca-kashgar",
+            "thumb": "https://phimimg.com/upload/vod/20260506-1/27680fc97bc7c7bfd9279325197fcfd0.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260506-1/5b969212efd973b56700ab36f264d2a7.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (8/8)",
+            "total_episodes": "8",
+            "country": "Trung Quốc",
+            "description": "Câu chuyện kể về ba chị em lớn lên trong thành cổ Kashgar, đối mặt với những khó khăn trong cuộc sống, trưởng thành từ sự va chạm giữa truyền thống và hiện đại, cùng nhau vượt qua bão tố cuộc đời, dùng tình yêu thương và hơi ấm để chữa lành cho nhau và bắt đầu lại cuộc sống của mình."
+        },
+        {
             "name": "Ngọc Điệm Thu",
             "year": 2026,
             "slug": "ngoc-diem-thu",
@@ -2753,18 +2777,6 @@
             "total_episodes": "33",
             "country": "Trung Quốc",
             "description": "A Sửu vốn là thiếu nữ đổ phân ban đêm trên phố có thân phận thấp hèn, bị mọi người chà đạp và bắt nạt. Chỉ vì có khuôn mặt giống hệt tiểu thư Ngụy Nhiêu của Hầu Phủ, cô bất ngờ trở thành tân nương xung hỷ cho thế tử Lục Trạc của Quốc Công Phủ. A Sửu ôm đầy tham vọng, một lòng tranh thủ cơ hội để leo cao, nhưng phu quân mới cưới đang gần đất xa trời đột nhiên tỉnh lại, âm mưu tu hú chiếm tổ dẫn đến nhiều tai họa liên tiếp. Ngụy Nhiêu hận cô chiếm chỗ của mình, nôn nóng muốn trừ khử cô; Lục Trạc coi cô là người phụ nữ độc địa, tìm mọi cách phòng bị trước các toan tính. Quốc Công Phủ bề ngoài trông hòa thuận êm ấm, thực ra đầy rẫy cạm bẫy, nguy hiểm bủa vây. A Sửu nỗ lực xoay sở giữa cơn sóng ngầm, mưu tính con đường phía trước, vùng vẫy thoát khỏi xiềng xích của số phận, hơn nữa còn điều tra ra bí mật về thân thế của mình, cuối cùng cũng được đoàn tụ với người thân yêu nhất, đang từ cô gái đổ phân thấp hèn lội ngược dòng vươn lên cao, sống cuộc đời gấm hoa rực rỡ."
-        },
-        {
-            "name": "Thượng Công Chúa",
-            "year": 2026,
-            "slug": "thuong-cong-chua",
-            "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Tập 17",
-            "total_episodes": "40",
-            "country": "Trung Quốc",
-            "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
         },
         {
             "name": "Tiểu Thành Lương Phương",
@@ -2897,18 +2909,6 @@
             "total_episodes": "8",
             "country": "Hàn Quốc",
             "description": "Mang màu sắc nhẹ nhàng, ấm áp và giàu tính nhân văn, phim kể về một tài xế taxi đặc biệt, người chuyên đưa các vị khách xa lạ đi qua những hành trình gắn liền với ký ức và câu chuyện riêng của họ. Mỗi chuyến xe là một câu chuyện về tình yêu, gia đình, những tiếc nuối hoặc những ước mơ chưa hoàn thành. Thông qua những cuộc trò chuyện và những bài hát do chính hành khách chọn, người tài xế giúp họ đối diện với quá khứ, tìm thấy sự an ủi và có thêm dũng khí để bước tiếp."
-        },
-        {
-            "name": "Nhất Âu Xuân",
-            "year": 2026,
-            "slug": "nhat-au-xuan",
-            "thumb": "https://phimimg.com/uploads/movies/20260917/nhat-au-xuan-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260917/nhat-au-xuan-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (30/30)",
-            "total_episodes": "30",
-            "country": "Trung Quốc",
-            "description": "\"Người đàn ông sát phạt quyết đoán, thâm sâu mưu mô\" Thẩm Nhuận và cô gái “thông minh tỉnh táo như bông sen đen” Tạ Thanh Viên trở thành lưỡi dao của nhau, cùng nhau bước trên con đường báo thù đan xen trong lý trí và tình cảm. Giữa những cuộc đấu đá công khai và âm thầm trong các gia tộc quyền quý, họ làm rung chuyển cả chính trường triều đình."
         }
     ],
     "trending_phim_bo": [
@@ -2925,16 +2925,16 @@
             "description": "Phí Phông, loài quỷ khát máu trong truyền thuyết dân gian của đồng bào miền núi gây ám ảnh bao đời nay. Phim xoay quanh Còn (Kiều Minh Tuấn) và Dương (Minh Anh), hai pháp sư tập sự lên núi cứu người mẹ đang bị lời nguyền Phí Phông đánh gục. Cùng lúc đó, trong bản sâu cũng xảy ra nhiều cái chết ghê rợn. Mọi nghi ngờ đổ dồn về hai mẹ con Mon (Diệp Bảo Ngọc) và Lua (Nina Nutthacha), những người mang đặc tính y hệt Phí Phông. Thế nhưng, vẫn còn những bí mật động trời bị chôn vùi trong chốn rừng thiêng nước độc, cuốn hai anh em Còn và Dương vào cuộc truy lùng “Phí Phông” không hồi kết."
         },
         {
-            "name": "Hoa Đăng Khởi",
+            "name": "Thượng Công Chúa",
             "year": 2026,
-            "slug": "hoa-dang-khoi",
-            "thumb": "https://phimimg.com/uploads/movies/20261031/hoa-dang-khoi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261031/hoa-dang-khoi-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 9",
-            "total_episodes": "26",
+            "slug": "thuong-cong-chua",
+            "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Tập 19",
+            "total_episodes": "40",
             "country": "Trung Quốc",
-            "description": "Thượng Hải năm 1936, nữ thợ may Mai Dữ Hòa sống dưới gấu váy của tầng lớp quyền quý. Sau cái chết kỳ lạ của em gái, cô đã tự tay mổ khám tử thi và bắt tay cùng gã đòi nợ thuê Đinh Triệu, xe chỉ luồn kim, vạch trần những sự thật đồi trụy của giới thượng lưu, xé toạc mạng lưới tình bẩn thỉu ẩn sau ánh đèn neon."
+            "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
         },
         {
             "name": "Việc Ma, Lương Quái",
@@ -2985,16 +2985,16 @@
             "description": "Dưới Đáy Hồ là bộ phim kinh dị siêu nhiên lấy cảm hứng từ truyền thuyết đô thị về Hồ Đá Tử Thần - nơi luôn bao phủ bởi những câu chuyện bí ẩn mà giới trẻ thường truyền tai nhau."
         },
         {
-            "name": "Ván Cờ Của Cô Ấy",
+            "name": "Tình Ca Kashgar",
             "year": 2026,
-            "slug": "van-co-cua-co-ay",
-            "thumb": "https://phimimg.com/uploads/movies/20261021/van-co-cua-co-ay-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261021/van-co-cua-co-ay-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 21",
-            "total_episodes": "24",
+            "slug": "tinh-ca-kashgar",
+            "thumb": "https://phimimg.com/upload/vod/20260506-1/27680fc97bc7c7bfd9279325197fcfd0.jpg",
+            "poster": "https://phimimg.com/upload/vod/20260506-1/5b969212efd973b56700ab36f264d2a7.jpg",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (8/8)",
+            "total_episodes": "8",
             "country": "Trung Quốc",
-            "description": "Vì muốn đòi lại công bằng cho cha, Dư Tụng bước chân vào nhà họ Tống với thân phận trợ lý. Bằng sự chân thành, cô dần chiếm được lòng tin của Tống Trừng, đồng thời liên minh với tài xế Tĩnh để cùng thu thập chứng cứ, vạch trần những tội ác của nhà họ Tống trước công chúng. Thế nhưng, Dư Tụng không để lòng thù hận nuốt chửng, cô quyết tâm thoát khỏi những xiềng xích của quá khứ và nhận ra rằng chiến thắng thực sự là giành lại quyền làm chủ cuộc đời mình. Cuối cùng, cô trở lại làm chính mình, hướng về tương lai tươi sáng."
+            "description": "Câu chuyện kể về ba chị em lớn lên trong thành cổ Kashgar, đối mặt với những khó khăn trong cuộc sống, trưởng thành từ sự va chạm giữa truyền thống và hiện đại, cùng nhau vượt qua bão tố cuộc đời, dùng tình yêu thương và hơi ấm để chữa lành cho nhau và bắt đầu lại cuộc sống của mình."
         },
         {
             "name": "Bác Sĩ X",
@@ -3045,16 +3045,16 @@
             "description": "Những chú cừu thông minh đã sẵn sàng cho một ngày bình thường… cho đến khi một vị khách không-mấy-bình-thường xuất hiện."
         },
         {
-            "name": "Tuý Mộng",
+            "name": "Hoa Đăng Khởi",
             "year": 2026,
-            "slug": "tuy-mong",
-            "thumb": "https://phimimg.com/uploads/movies/20261017/tuy-mong-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261017/tuy-mong-poster.webp",
+            "slug": "hoa-dang-khoi",
+            "thumb": "https://phimimg.com/uploads/movies/20261031/hoa-dang-khoi-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261031/hoa-dang-khoi-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 18",
-            "total_episodes": "18",
+            "current_episode": "Tập 9",
+            "total_episodes": "26",
             "country": "Trung Quốc",
-            "description": "Nhiều năm trước, phóng viên Thẩm Lạc Thủy từng ghi lại cuộc sống của những công nhân tại nhà máy bia cũ ở thành phố La Thành. Giờ đây, cô trở lại La Thành, một lần nữa cầm máy quay để khám phá những góc khuất đã dần bị thời gian lãng quên. Tào Quân, Đồ Xuân Diễm, Tiền Nghĩa Xuyên, Trình Hữu Điền… từng là những nhân vật chính trong các thước phim của cô, nhưng theo dòng chảy năm tháng, mỗi người lại trải qua những thăng trầm, biến cố số phận khác nhau. Câu chuyện của họ tựa như những bí ẩn bị thời gian giấu kín. Lần theo những dấu vết đan xen giữa quá khứ và hiện tại, Thẩm Lạc Thủy từng bước đem những chuyện cũ đã bị chôn vùi suốt bao năm ra ánh sáng."
+            "description": "Thượng Hải năm 1936, nữ thợ may Mai Dữ Hòa sống dưới gấu váy của tầng lớp quyền quý. Sau cái chết kỳ lạ của em gái, cô đã tự tay mổ khám tử thi và bắt tay cùng gã đòi nợ thuê Đinh Triệu, xe chỉ luồn kim, vạch trần những sự thật đồi trụy của giới thượng lưu, xé toạc mạng lưới tình bẩn thỉu ẩn sau ánh đèn neon."
         },
         {
             "name": "Chuyện Tình Rung Cảm",
