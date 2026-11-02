@@ -1,5 +1,41 @@
 [
     {
+        "name": "Người Tạo Mưa",
+        "year": 2025,
+        "slug": "nguoi-tao-mua",
+        "thumb": "https://phimimg.com/uploads/movies/20261102/nguoi-tao-mua-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261102/nguoi-tao-mua-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Làm việc tại một hãng luật nhỏ, Rudy đối đầu với bạn gái và hãng luật cũ trong một vụ kiện đe dọa cả sự nghiệp của anh lẫn mối quan hệ giữa hai người."
+    },
+    {
+        "name": "Lãnh Địa Tử Chiến (Phần 2)",
+        "year": 2026,
+        "slug": "lanh-dia-tu-chien-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Sau những biến động và cuộc chiến đẫm máu ở mùa đầu tiên, gia đình tội phạm quyền lực nhà Harrigan bước sang mùa 2 trong tình trạng rạn nứt nghiêm trọng. Sức ép đè nặng khi các thành viên bắt đầu đối đầu lẫn nhau, đứng trước nguy cơ xảy ra một cuộc nội chiến thực sự."
+    },
+    {
+        "name": "Người Chạy Xuyên Không Gian (Phần 2)",
+        "year": 2026,
+        "slug": "nguoi-chay-xuyen-khong-gian-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Gia đình Jason ban đầu tìm được một khoảng thời gian yên bình, tưởng chừng đã định cư an toàn tại một thực tại mới. Tuy nhiên, sự bình yên đó không kéo dài lâu khi những hiểm họa từ không gian đa vũ trụ và những rắc rối chưa được giải quyết từ thế giới cũ tiếp tục đeo bám, buộc họ phải một lần nữa dấn thân vào cuộc trốn chạy mới."
+    },
+    {
         "name": "El Mayo Sa Lưới",
         "year": 2026,
         "slug": "el-mayo-sa-luoi",
@@ -106,30 +142,6 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Một tác giả podcast về tình dục theo thuyết bất khả tri và một Thầy đạo mới độc thân yêu nhau. Liệu họ có vượt qua được lối sống hoàn toàn khác biệt và sự can thiệp của gia đình?"
-    },
-    {
-        "name": "Lãnh Địa Tử Chiến (Phần 2)",
-        "year": 2026,
-        "slug": "lanh-dia-tu-chien-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Sau những biến động và cuộc chiến đẫm máu ở mùa đầu tiên, gia đình tội phạm quyền lực nhà Harrigan bước sang mùa 2 trong tình trạng rạn nứt nghiêm trọng. Sức ép đè nặng khi các thành viên bắt đầu đối đầu lẫn nhau, đứng trước nguy cơ xảy ra một cuộc nội chiến thực sự."
-    },
-    {
-        "name": "Người Chạy Xuyên Không Gian (Phần 2)",
-        "year": 2026,
-        "slug": "nguoi-chay-xuyen-khong-gian-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "19",
-        "country": "Âu Mỹ",
-        "description": "Gia đình Jason ban đầu tìm được một khoảng thời gian yên bình, tưởng chừng đã định cư an toàn tại một thực tại mới. Tuy nhiên, sự bình yên đó không kéo dài lâu khi những hiểm họa từ không gian đa vũ trụ và những rắc rối chưa được giải quyết từ thế giới cũ tiếp tục đeo bám, buộc họ phải một lần nữa dấn thân vào cuộc trốn chạy mới."
     },
     {
         "name": "Cơn Thịnh Nộ của Carrie",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Âu Mỹ",
         "description": "Dõi theo Sophia và bạn bè khi họ bước vào cuộc phiêu lưu kỳ thú để khám phá những bí ẩn của đảo Kỳ Lân và đánh đuổi Grimoria và Ravenzella mãi mãi!"
-    },
-    {
-        "name": "Đếm Ngược Đến Ngày Debut",
-        "year": 2026,
-        "slug": "dem-nguoc-den-ngay-debut",
-        "thumb": "https://phimimg.com/uploads/movies/20261010/dem-nguoc-den-ngay-debut-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261010/dem-nguoc-den-ngay-debut-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Mỹ",
-        "description": "Một cuộc tuyển chọn thần tượng K-pop hàng đầu thế giới tưởng chừng hào nhoáng, thực chất lại là cuộc chiến sinh tử đầy rẫy hiểm nguy. Bốn mươi thực tập sinh tham vọng bị đưa vào một thế giới mô phỏng ảo tàn khốc kết nối trực tiếp với thần kinh; hễ bị loại, não của họ ngoài đời sẽ chết ngay lập tức. Bốn người sống sót với hoàn cảnh hoàn toàn khác nhau — một kẻ vươn lên từ sang chấn, một tiểu thư nhà giàu được bao bọc, một sát thủ băng đảng đáng sợ và một tin tặc thiên tài — buộc phải lập nên một liên minh mong manh. Họ phải vượt qua những quái vật dị thường, đối thủ khát máu và các VIP đứng sau giật dây, rồi phá hủy hệ thống trước khi nó nuốt chửng linh hồn của tất cả."
     }
 ]

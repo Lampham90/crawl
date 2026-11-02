@@ -1,5 +1,29 @@
 [
     {
+        "name": "Thượng Công Chúa",
+        "year": 2026,
+        "slug": "thuong-cong-chua",
+        "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 21",
+        "total_episodes": "40",
+        "country": "Trung Quốc",
+        "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
+    },
+    {
+        "name": "Cuộc Trường Chinh Vĩ Đại",
+        "year": 2026,
+        "slug": "cuoc-truong-chinh-vi-dai",
+        "thumb": "https://phimimg.com/uploads/movies/20261021/cuoc-truong-chinh-vi-dai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261021/cuoc-truong-chinh-vi-dai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 41",
+        "total_episodes": "60",
+        "country": "Trung Quốc",
+        "description": "Lấy cuộc Trường Chinh của Hồng quân Trung ương làm tuyến truyện chủ đạo, tác phẩm tái hiện toàn diện tiến trình lịch sử từ sau thất bại của cuộc chống “vây quét” lần thứ năm, đến khi Phương Diện quân số 1, số 2, số 4 của Hồng quân và Quân đoàn số 25 lần lượt tiến hành chuyển dịch chiến lược dưới sự lãnh đạo của Trung ương Đảng Cộng sản Trung Quốc, trải qua cuộc Trường Chinh đầy gian khổ và cuối cùng giành được thắng lợi. Tác phẩm ca ngợi niềm tin lý tưởng kiên định, tinh thần cách mạng bất khuất của những người cộng sản Trung Quốc, tiêu biểu là đồng chí Mao Trạch Đông. Đồng thời, tác phẩm làm rõ nguyên nhân và logic lịch sử của quá trình hình thành, phát triển cách mạng Trung Quốc, cũng như khẳng định luận điểm sâu sắc rằng chủ nghĩa Mác chỉ có thể dẫn dắt cách mạng Trung Quốc giành thắng lợi khi được kết hợp với thực tiễn cụ thể của cách mạng Trung Quốc."
+    },
+    {
         "name": "Bắt Đầu Với Chí Tôn Đan Điền",
         "year": 2025,
         "slug": "bat-dau-voi-chi-ton-dan-dien",
@@ -120,18 +144,6 @@
         "description": "Lâm Họa là con gái nuôi, bị người bạn thanh mai trúc mã Cố Trưng vứt bỏ vì lợi ích cá nhân. Theo đề nghị của cô bạn thân Tạ Bảo Nhi, cô quyết định ký hợp đồng hôn nhân với Tạ Chu Hàn, cha của Bảo Nhi. Trong quá trình chung sống, Tạ Chu Hàn âm thầm che chở cho Lâm Họa. Khi những mối duyên từ quá khứ dần được hé lộ, cô mới biết năm xưa anh từng được mẹ cô cưu mang, và suốt bao năm qua, anh vẫn luôn dành tình cảm sâu đậm cho cô. Lâm Họa dứt bỏ những vướng bận trong quá khứ, nhận ra tấm chân tình của anh. Cuối cùng, cả hai phá bỏ giao kèo hôn nhân, thành thật bày tỏ tình yêu và cùng nhau sống hạnh phúc trọn đời."
     },
     {
-        "name": "Cuộc Trường Chinh Vĩ Đại",
-        "year": 2026,
-        "slug": "cuoc-truong-chinh-vi-dai",
-        "thumb": "https://phimimg.com/uploads/movies/20261021/cuoc-truong-chinh-vi-dai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261021/cuoc-truong-chinh-vi-dai-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 39",
-        "total_episodes": "60",
-        "country": "Trung Quốc",
-        "description": "Lấy cuộc Trường Chinh của Hồng quân Trung ương làm tuyến truyện chủ đạo, tác phẩm tái hiện toàn diện tiến trình lịch sử từ sau thất bại của cuộc chống “vây quét” lần thứ năm, đến khi Phương Diện quân số 1, số 2, số 4 của Hồng quân và Quân đoàn số 25 lần lượt tiến hành chuyển dịch chiến lược dưới sự lãnh đạo của Trung ương Đảng Cộng sản Trung Quốc, trải qua cuộc Trường Chinh đầy gian khổ và cuối cùng giành được thắng lợi. Tác phẩm ca ngợi niềm tin lý tưởng kiên định, tinh thần cách mạng bất khuất của những người cộng sản Trung Quốc, tiêu biểu là đồng chí Mao Trạch Đông. Đồng thời, tác phẩm làm rõ nguyên nhân và logic lịch sử của quá trình hình thành, phát triển cách mạng Trung Quốc, cũng như khẳng định luận điểm sâu sắc rằng chủ nghĩa Mác chỉ có thể dẫn dắt cách mạng Trung Quốc giành thắng lợi khi được kết hợp với thực tiễn cụ thể của cách mạng Trung Quốc."
-    },
-    {
         "name": "Xin Chào 1983",
         "year": 2026,
         "slug": "xin-chao-1983",
@@ -142,18 +154,6 @@
         "total_episodes": "36",
         "country": "Trung Quốc",
         "description": "Ở tuổi 36, Hạ Hiểu Lan – nữ quản lý cấp cao – mất tất cả sau khi công ty phá sản. Trong lúc tuyệt vọng, cô xuyên không về quá khứ, trở thành cô gái nông thôn 18 tuổi. Không tiền bạc hay chỗ dựa, nhưng với trí tuệ, nhan sắc và nhiệt huyết tuổi trẻ, cô quyết tâm làm lại cuộc đời. Hiểu Lan vừa học tập, vừa khởi nghiệp từ con số 0, từng bước xây dựng sự nghiệp và theo đuổi ước mơ đại học. Trên hành trình đó, cô tìm thấy tình yêu, tình thân và những mối quan hệ đầy ý nghĩa, khẳng định bản thân và tạo nên một cuộc sống mới rực rỡ hơn xưa."
-    },
-    {
-        "name": "Thượng Công Chúa",
-        "year": 2026,
-        "slug": "thuong-cong-chua",
-        "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 19",
-        "total_episodes": "40",
-        "country": "Trung Quốc",
-        "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
     },
     {
         "name": "Tình Ca Kashgar",
