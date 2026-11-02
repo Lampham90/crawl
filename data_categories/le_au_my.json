@@ -1,5 +1,17 @@
 [
     {
+        "name": "Vùng Đất Quỷ Dữ",
+        "year": 2026,
+        "slug": "vung-dat-quy-du-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20261102/vung-dat-quy-du-2026-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261102/vung-dat-quy-du-2026-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Một phiên bản Resident Evil mới trở lại đầy kịch tính và kinh hoàng từ bộ óc quái kiệt của đạo diễn Zach Cregger đứng sau “Weapons” & “Barbarian”."
+    },
+    {
         "name": "SCTV: Chương Trình Tuyệt Vời Nhất Mà Bạn Chưa Từng Nghe Đến",
         "year": 2026,
         "slug": "sctv-chuong-trinh-tuyet-voi-nhat-ma-ban-chua-tung-nghe-den",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Khi lễ đính hôn phong cách Ấn Độ đầy khoa trương và náo nhiệt của Farva với em gái của Thorny rơi vào cảnh hỗn loạn, biệt đội cảnh sát siêu quậy phải tìm cách xoay xở trước những mưu đồ phá hoại tình cảm của Thorny, đồng thời nỗ lực phá giải một đường dây buôn bán ma túy mới đầy hiểm hóc — tất cả nhằm giải cứu tình thế và bảo vệ cho chính đám cưới này."
-    },
-    {
-        "name": "Coyote Đấu Với Acme",
-        "year": 2026,
-        "slug": "coyote-dau-voi-acme",
-        "thumb": "https://phimimg.com/uploads/movies/20261002/coyote-dau-voi-acme-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261002/coyote-dau-voi-acme-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Sau quá nhiều lần thất bại vì những món hàng lỗi của công ty Acme trong cuộc săn đuổi không ngừng nghỉ chú chim Roadrunner, Wile E. Coyote quyết định thuê một luật sư… từ biển quảng cáo, để kiện tập đoàn Acme ra tòa."
     }
 ]
