@@ -1,5 +1,41 @@
 [
     {
+        "name": "Tuổi Trẻ (Phần 1)",
+        "year": 2026,
+        "slug": "tuoi-tre-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Anh",
+        "description": "Xoay quanh cuộc sống đầy náo nhiệt, những trò quậy phá siêu lầy lội và những rung động đầu đời trong sáng của nhóm học sinh tại một trường học ở địa phương."
+    },
+    {
+        "name": "Ông Trùm Giang Hồ (Phần 4)",
+        "year": 2026,
+        "slug": "ong-trum-giang-ho-phan-4",
+        "thumb": "https://phimimg.com/uploads/movies/20261103/ong-trum-giang-ho-phan-4-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261103/ong-trum-giang-ho-phan-4-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 1",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Sau khi ra tù, thủ lĩnh mafia Dwight \"The General\" Manfredi bị đày đến Tulsa, Oklahoma, nơi hắn xây dựng một đế chế tội phạm mới với một nhóm gồm những nhân vật không có khả năng."
+    },
+    {
+        "name": "Ông Trùm Giang Hồ (Phần 3)",
+        "year": 2025,
+        "slug": "ong-trum-giang-ho-phan-3",
+        "thumb": "https://phimimg.com/upload/vod/20250923-1/7e29ec545c8e4f582bbc33913a312b0b.jpg",
+        "poster": "https://phimimg.com/uploads/movies/20261103/ong-trum-giang-ho-phan-3-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Sau khi ra tù, thủ lĩnh mafia Dwight &quot;The General&quot; Manfredi bị đày đến Tulsa, Oklahoma, nơi hắn xây dựng một đế chế tội phạm mới với một nhóm gồm những nhân vật không có khả năng."
+    },
+    {
         "name": "Người Tạo Mưa",
         "year": 2025,
         "slug": "nguoi-tao-mua",
@@ -106,18 +142,6 @@
         "total_episodes": "14",
         "country": "Âu Mỹ",
         "description": "Dựa trên loạt video ngắn ăn khách trên mạng xã hội, loạt phim theo chân các thiếu niên vừa đi học vừa chật vật vận hành tiệm pizza với ông chủ thất thường và đồng lương tối thiểu."
-    },
-    {
-        "name": "Tuổi Trẻ (Phần 1)",
-        "year": 2026,
-        "slug": "tuoi-tre-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260922/tuoi-tre-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
-        "total_episodes": "8",
-        "country": "Anh",
-        "description": "Xoay quanh cuộc sống đầy náo nhiệt, những trò quậy phá siêu lầy lội và những rung động đầu đời trong sáng của nhóm học sinh tại một trường học ở địa phương."
     },
     {
         "name": "Chẳng Ai Tác Hợp (Phần 3)",
@@ -334,29 +358,5 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Sau khi thừa kế một khách sạn từ anh trai quá cố, người mẹ đơn thân nọ chuyển đến sống cùng hồn ma tốt bụng của anh... và những vị khách hay đòi hỏi song không bao giờ trả phòng."
-    },
-    {
-        "name": "Học Viện Kỳ Lân: Bí Mật Hé Lộ (Phần 2)",
-        "year": 2026,
-        "slug": "hoc-vien-ky-lan-bi-mat-he-lo-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20261010/hoc-vien-ky-lan-bi-mat-he-lo-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261010/hoc-vien-ky-lan-bi-mat-he-lo-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (4/4)",
-        "total_episodes": "4",
-        "country": "Âu Mỹ",
-        "description": "Dõi theo Sophia và bạn bè khi họ bước vào cuộc phiêu lưu kỳ thú để khám phá những bí ẩn của đảo Kỳ Lân và đánh đuổi Grimoria và Ravenzella mãi mãi!"
-    },
-    {
-        "name": "Học Viện Kỳ Lân: Bí Mật Hé Lộ (Phần 1)",
-        "year": 2026,
-        "slug": "hoc-vien-ky-lan-bi-mat-he-lo-phan-1",
-        "thumb": "https://phimimg.com/upload/vod/20260320-1/525e03d6109014196a7e519d24269adb.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260320-1/de97078827607d9593d6b8fb13fb622e.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Âu Mỹ",
-        "description": "Dõi theo Sophia và bạn bè khi họ bước vào cuộc phiêu lưu kỳ thú để khám phá những bí ẩn của đảo Kỳ Lân và đánh đuổi Grimoria và Ravenzella mãi mãi!"
     }
 ]

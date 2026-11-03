@@ -1,5 +1,17 @@
 [
     {
+        "name": "Lý Trí Và Tình Cảm",
+        "year": 2026,
+        "slug": "ly-tri-va-tinh-cam-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20261103/ly-tri-va-tinh-cam-2026-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261103/ly-tri-va-tinh-cam-2026-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Anh",
+        "description": "Một câu chuyện duyên dáng, hóm hỉnh và đầy đồng cảm về tình yêu cùng tình chị em sâu sắc."
+    },
+    {
         "name": "Vùng Đất Quỷ Dữ",
         "year": 2026,
         "slug": "vung-dat-quy-du-2026",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Trong bộ phim chính kịch đô thị đầy kịch tính này, một cựu quản giáo trại giam và một người đàn ông từng ở tù tạo nên sợi dây liên kết kỳ lạ khiến cuộc đời cả hai thay đổi."
-    },
-    {
-        "name": "Đồn Cảnh Sát Nhí Nhố 3",
-        "year": 2026,
-        "slug": "don-canh-sat-nhi-nho-3",
-        "thumb": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261002/don-canh-sat-nhi-nho-3-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Khi lễ đính hôn phong cách Ấn Độ đầy khoa trương và náo nhiệt của Farva với em gái của Thorny rơi vào cảnh hỗn loạn, biệt đội cảnh sát siêu quậy phải tìm cách xoay xở trước những mưu đồ phá hoại tình cảm của Thorny, đồng thời nỗ lực phá giải một đường dây buôn bán ma túy mới đầy hiểm hóc — tất cả nhằm giải cứu tình thế và bảo vệ cho chính đám cưới này."
     }
 ]
