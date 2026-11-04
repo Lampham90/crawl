@@ -1,5 +1,17 @@
 [
     {
+        "name": "Bass X Machina",
+        "year": 2026,
+        "slug": "bass-x-machina",
+        "thumb": "https://phimimg.com/uploads/movies/20261104/bass-x-machina-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261104/bass-x-machina-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (6/6)",
+        "total_episodes": "6",
+        "country": "Hàn Quốc",
+        "description": "Giữa miền Viễn Tây mang phong cách steampunk, nơi những kẻ vô pháp, máy móc và thế lực siêu nhiên hoành hành, người cha nọ buộc phải làm quan tòa kiêm đao phủ để bảo vệ gia đình."
+    },
+    {
         "name": "Lời Nói Dối Hoàn Hảo",
         "year": 2026,
         "slug": "loi-noi-doi-hoan-hao-2026-kr",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Hàn Quốc",
         "description": "Yeo Eun Ho và Cha Do Hyeon là đôi bạn thân suốt 19 năm, nhưng Eun Ho không hề biết Do Hyeon luôn thầm yêu mình một cách mãnh liệt. Kế hoạch dần chiếm lấy trái tim bạn thân của Do Hyeon bị xáo trộn bởi sự xuất hiện của học sinh mới Kwon Yi Hyeon, buộc cậu phải tìm cách giữ Eun Ho ở bên cạnh mình."
-    },
-    {
-        "name": "Đế Chế Đại Hàn (Phần 2)",
-        "year": 2026,
-        "slug": "de-che-dai-han-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260910/de-che-dai-han-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260910/de-che-dai-han-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (6/6)",
-        "total_episodes": "6",
-        "country": "Hàn Quốc",
-        "description": "Phần 2 tiếp tục xoáy sâu vào những cuộc đấu đá quyền lực căng thẳng, lòng tham, sự trả thù và phản bội gia đình, đặt hai nhân vật chính ở các chiến tuyến đối lập giữa một bên là khát vọng quyền lực/tiền tài và một bên là công lý."
     }
 ]
