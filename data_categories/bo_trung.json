@@ -1,5 +1,17 @@
 [
     {
+        "name": "Gấp Ánh Trăng",
+        "year": 2026,
+        "slug": "gap-anh-trang",
+        "thumb": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 4",
+        "total_episodes": "27",
+        "country": "Trung Quốc",
+        "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học."
+    },
+    {
         "name": "Chuyện Cũ Miền Biên Ải",
         "year": 2026,
         "slug": "chuyen-cu-mien-bien-ai",
@@ -346,17 +358,5 @@
         "total_episodes": "36",
         "country": "Trung Quốc",
         "description": "Ở tuổi 36, Hạ Hiểu Lan – nữ quản lý cấp cao – mất tất cả sau khi công ty phá sản. Trong lúc tuyệt vọng, cô xuyên không về quá khứ, trở thành cô gái nông thôn 18 tuổi. Không tiền bạc hay chỗ dựa, nhưng với trí tuệ, nhan sắc và nhiệt huyết tuổi trẻ, cô quyết tâm làm lại cuộc đời. Hiểu Lan vừa học tập, vừa khởi nghiệp từ con số 0, từng bước xây dựng sự nghiệp và theo đuổi ước mơ đại học. Trên hành trình đó, cô tìm thấy tình yêu, tình thân và những mối quan hệ đầy ý nghĩa, khẳng định bản thân và tạo nên một cuộc sống mới rực rỡ hơn xưa."
-    },
-    {
-        "name": "Tình Ca Kashgar",
-        "year": 2026,
-        "slug": "tinh-ca-kashgar",
-        "thumb": "https://phimimg.com/upload/vod/20260506-1/27680fc97bc7c7bfd9279325197fcfd0.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260506-1/5b969212efd973b56700ab36f264d2a7.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Trung Quốc",
-        "description": "Câu chuyện kể về ba chị em lớn lên trong thành cổ Kashgar, đối mặt với những khó khăn trong cuộc sống, trưởng thành từ sự va chạm giữa truyền thống và hiện đại, cùng nhau vượt qua bão tố cuộc đời, dùng tình yêu thương và hơi ấm để chữa lành cho nhau và bắt đầu lại cuộc sống của mình."
     }
 ]
