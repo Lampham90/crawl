@@ -1275,6 +1275,30 @@
     ],
     "bo_han": [
         {
+            "name": "Chuyện Tình Rung Cảm",
+            "year": 2026,
+            "slug": "chuyen-tinh-rung-cam",
+            "thumb": "https://phimimg.com/uploads/movies/20261016/chuyen-tinh-rung-cam-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261016/chuyen-tinh-rung-cam-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Hoàn Tất (10/10)",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Một nhân viên tiếp thị mang quan niệm truyền thống về tình yêu và hôn nhân nay phải chật vật tìm tiếng nói chung khi vướng vào mối quan hệ với vị CEO của một công ty sản xuất đồ chơi người lớn — người sở hữu những hệ giá trị hoàn toàn trái ngược."
+        },
+        {
+            "name": "Hoàng Hậu Tái Hôn",
+            "year": 2026,
+            "slug": "hoang-hau-tai-hon",
+            "thumb": "https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Hoàng hậu Navier là người đứng đầu hoàn hảo của Đông Đế Quốc, cai trị đất nước cùng chồng là Hoàng đế Sovieshu. Tuy nhiên, cuộc sống và ngai vị của cô đảo lộn khi Sovieshu mang về cô hầu gái trốn chạy tên Rashta và sủng ái cô ta đến mức đòi ly hôn Navier. Thay vì gục ngã hay bi lụy, Navier đồng ý ly hôn với một điều kiện: cô được phép tái hôn với Hoàng tử Heinrey quyền lực của Tây Vương Quốc, từ đó bắt đầu hành động lật ngược thế cờ và làm chủ vận mệnh mới của mình."
+        },
+        {
             "name": "Chuyến Đi Chữa Lành",
             "year": 2026,
             "slug": "chuyen-di-chua-lanh",
@@ -1429,30 +1453,6 @@
             "total_episodes": "8",
             "country": "Hàn Quốc",
             "description": "Chìm trong nợ nần, chàng trai trẻ nhận những công việc làm thêm béo bở từ một công ty môi giới việc làm bí ẩn – nhưng rồi nhận ra cuộc sống mưu sinh dần biến thành ác mộng."
-        },
-        {
-            "name": "Chuyện Tình Rung Cảm",
-            "year": 2026,
-            "slug": "chuyen-tinh-rung-cam",
-            "thumb": "https://phimimg.com/uploads/movies/20261016/chuyen-tinh-rung-cam-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261016/chuyen-tinh-rung-cam-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Một nhân viên tiếp thị mang quan niệm truyền thống về tình yêu và hôn nhân nay phải chật vật tìm tiếng nói chung khi vướng vào mối quan hệ với vị CEO của một công ty sản xuất đồ chơi người lớn — người sở hữu những hệ giá trị hoàn toàn trái ngược."
-        },
-        {
-            "name": "Giác Quan Thứ Sáu: Mặt Trái",
-            "year": 2026,
-            "slug": "giac-quan-thu-sau-mat-trai",
-            "thumb": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260917/giac-quan-thu-sau-mat-trai-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Giác Quan Thứ Sáu trở lại với phiên bản hoàn toàn mới, truy tìm những thứ giả mạo ở những địa điểm khác thường và gặp gỡ những con người thú vị. Liệu giác quan nhạy bén của MC quốc dân Yoo Jae Suk, diễn viên hài Song Eun Yi, tài tử Go Kyung Pyo và BIBI có phanh phui được những thật giả lẫn lộn này?"
         }
     ],
     "le_trung": [
@@ -1639,6 +1639,18 @@
     ],
     "bo_trung": [
         {
+            "name": "Gấp Ánh Trăng",
+            "year": 2026,
+            "slug": "gap-anh-trang",
+            "thumb": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 4",
+            "total_episodes": "27",
+            "country": "Trung Quốc",
+            "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học."
+        },
+        {
             "name": "Chuyện Cũ Miền Biên Ải",
             "year": 2026,
             "slug": "chuyen-cu-mien-bien-ai",
@@ -1805,18 +1817,6 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Vì muốn đòi lại công bằng cho cha, Dư Tụng bước chân vào nhà họ Tống với thân phận trợ lý. Bằng sự chân thành, cô dần chiếm được lòng tin của Tống Trừng, đồng thời liên minh với tài xế Tĩnh để cùng thu thập chứng cứ, vạch trần những tội ác của nhà họ Tống trước công chúng. Thế nhưng, Dư Tụng không để lòng thù hận nuốt chửng, cô quyết tâm thoát khỏi những xiềng xích của quá khứ và nhận ra rằng chiến thắng thực sự là giành lại quyền làm chủ cuộc đời mình. Cuối cùng, cô trở lại làm chính mình, hướng về tương lai tươi sáng."
-        },
-        {
-            "name": "Yêu Một Kẻ Ngốc",
-            "year": 2026,
-            "slug": "yeu-mot-ke-ngoc",
-            "thumb": "https://phimimg.com/uploads/movies/20261010/yeu-mot-ke-ngoc-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261010/yeu-mot-ke-ngoc-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "20",
-            "country": "Trung Quốc",
-            "description": "Ing — người thừa kế vô cùng tự tin của Tập đoàn Araya — tình cờ gặp gỡ Yok, người thừa kế của một gia đình quý tộc lâu đời, thông qua Itt (em cùng cha khác mẹ của Ing và cũng là bạn của Yok). Lấy cớ bàn chuyện công việc, Ing liên tục tìm mọi cách để bước vào cuộc sống của Yok. Thế rồi, trong một đêm hỗn loạn chìm đắm trong men rượu, cả hai vượt qua giới hạn và trở nên thân mật, khiến tình cảm mà Yok dành cho Ing dần dần thay đổi. Khi tình yêu bắt đầu chớm nở giữa họ, Ing hoàn toàn không hề hay biết rằng bản thân đã bước vào một cái bẫy do chính Yok giăng sẵn."
         }
     ],
     "le_au_my": [
@@ -2731,6 +2731,18 @@
     ],
     "thuyet_minh": [
         {
+            "name": "Gấp Ánh Trăng",
+            "year": 2026,
+            "slug": "gap-anh-trang",
+            "thumb": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 4",
+            "total_episodes": "27",
+            "country": "Trung Quốc",
+            "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học."
+        },
+        {
             "name": "Mái Ấm Địa Ngục",
             "year": 2026,
             "slug": "mai-am-dia-nguc",
@@ -2897,18 +2909,6 @@
             "total_episodes": "24",
             "country": "Trung Quốc",
             "description": "Trường Phong Khởi là phim trinh thám huyền bí thời Dân Quốc do đạo diễn Dương Lỗi (đạo diễn \"Tam Thể\", \"Thái Bình Niên\") chỉ đạo và biên kịch Dương Triết chấp bút. Bộ phim chuyển thể từ tiểu thuyết \"Tôi Là Một Thầy Bói\" của tác giả Dịch Chi. Phim có sự tham gia diễn chính của Lý Hiện (từng đóng \"Cá Mực Hầm Mật\", \"Đi Đến Nơi Có Gió\"), Lý Nhất Đồng (từng đóng \"Cuồng Phong\", \"Vân Tú Hành\"), Lưu Quán Lân (từng đóng \"Khanh Khanh Nhật Thường\"), Quả Tĩnh Lâm (từng đóng \"Phong Dữ Triều\"), cùng sự tham gia đặc biệt của Ngô Cương. Thượng Quan Thành Minh tận mắt chứng kiến cả gia đình bị Thiên Tướng Phái bày kế sát hại. Anh đổi tên, âm thầm che giấu thân phận, quyết trả lại từng món nợ máu theo cách “ăn miếng trả miếng”. Anh đồng hành cùng Giang Phi Yến, một cô gái đang chìm trong nghịch cảnh nhưng vẫn quyết tâm thay đổi số phận. Hai người cùng giăng ra những màn lừa đảo liên hoàn để chống lại kẻ thù. Trên hành trình đó, họ từng bước vạch trần những góc khuất đen tối phía sau các trò lừa đào, cuối cùng phá tan Thiên Tướng Phái, giải cứu những người bị khống chế, trừng trị cái ác, bảo vệ chính nghĩa. Bộ phim sẽ được phát sóng trực tuyến trên nền tảng iQIYI Quốc tế (iQ.com)."
-        },
-        {
-            "name": "Tàn Thuốc",
-            "year": 2026,
-            "slug": "tan-thuoc",
-            "thumb": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (9/9)",
-            "total_episodes": "9",
-            "country": "Hồng Kông",
-            "description": "Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần được hé lộ, cả hai cùng bị kéo vào một vụ án làm tiền giả xuyên quốc gia và cuộc tranh giành quyền lực giữa các thế lực địa phương."
         }
     ],
     "trending_phim_bo": [
@@ -2925,28 +2925,28 @@
             "description": "Một phiên bản Resident Evil mới trở lại đầy kịch tính và kinh hoàng từ bộ óc quái kiệt của đạo diễn Zach Cregger đứng sau “Weapons” & “Barbarian”."
         },
         {
-            "name": "Chuyện Cũ Miền Biên Ải",
+            "name": "Gấp Ánh Trăng",
             "year": 2026,
-            "slug": "chuyen-cu-mien-bien-ai",
-            "thumb": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "24",
+            "slug": "gap-anh-trang",
+            "thumb": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Tập 4",
+            "total_episodes": "27",
             "country": "Trung Quốc",
-            "description": "Vào cuối thập niên 1970, chàng thanh niên vùng Tùng Liêu tên Lưu Hải Trụ vì ra tay nghĩa hiệp mà bị cuốn vào những cuộc phân tranh chốn giang hồ, từ đó kết nên tình nghĩa sinh tử với Đông Bá Thiên. Giữa những biến động của thời cuộc, từ một người công nhân bình thường rơi vào vòng xoáy giang hồ, anh đã trải qua tình bằng hữu, yêu hận đan xen cùng những lựa chọn giằng xé về nhân tính, để rồi cuối cùng hoàn thành hành trình trưởng thành và tự cứu rỗi bản thân giữa vùng đất đen băng tuyết."
+            "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học."
         },
         {
-            "name": "Chuyến Đi Chữa Lành",
+            "name": "Chuyện Tình Rung Cảm",
             "year": 2026,
-            "slug": "chuyen-di-chua-lanh",
-            "thumb": "https://phimimg.com/uploads/movies/20261029/chuyen-di-chua-lanh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261029/chuyen-di-chua-lanh-poster.webp",
+            "slug": "chuyen-tinh-rung-cam",
+            "thumb": "https://phimimg.com/uploads/movies/20261016/chuyen-tinh-rung-cam-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261016/chuyen-tinh-rung-cam-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
+            "current_episode": "Hoàn Tất (10/10)",
             "total_episodes": "10",
             "country": "Hàn Quốc",
-            "description": "Kim Ha Yeon là một cô gái 18 tuổi bình thường, luôn mơ mộng về một cuộc đời đầy kịch tính như những gì cô thấy trên màn ảnh. Cuộc đời cô bước sang một ngã rẽ kỳ diệu và đầy bất ngờ khi cô đến ngôi làng đồng quê xa lạ Upo-ri để nghỉ hè. Tại đây, cô tình cờ gặp Jo Yu Gyeom, người thừa kế của một gia đình quý tộc truyền thống, và bạn gái của anh, Sae Ryeong. Dù sở hữu vẻ ngoài cuốn hút cùng tài năng bơi lội thiên bẩm, anh lại sống một cuộc đời tẻ nhạt, bị kìm hãm bởi những quy củ lỗi thời và nhịp sống lặp đi lặp lại. Khi hai con người trái ngược ấy gặp nhau giữa vẻ đẹp tĩnh lặng của Upo-ri, thế giới của họ va vào nhau, thắp lên một sự thay đổi trong cuộc sống thường nhật và mở đầu cho một mùa hè có một không hai trong đời."
+            "description": "Một nhân viên tiếp thị mang quan niệm truyền thống về tình yêu và hôn nhân nay phải chật vật tìm tiếng nói chung khi vướng vào mối quan hệ với vị CEO của một công ty sản xuất đồ chơi người lớn — người sở hữu những hệ giá trị hoàn toàn trái ngược."
         },
         {
             "name": "Hòn Đảo Quên Lãng",
@@ -2985,28 +2985,28 @@
             "description": "Phí Phông, loài quỷ khát máu trong truyền thuyết dân gian của đồng bào miền núi gây ám ảnh bao đời nay. Phim xoay quanh Còn (Kiều Minh Tuấn) và Dương (Minh Anh), hai pháp sư tập sự lên núi cứu người mẹ đang bị lời nguyền Phí Phông đánh gục. Cùng lúc đó, trong bản sâu cũng xảy ra nhiều cái chết ghê rợn. Mọi nghi ngờ đổ dồn về hai mẹ con Mon (Diệp Bảo Ngọc) và Lua (Nina Nutthacha), những người mang đặc tính y hệt Phí Phông. Thế nhưng, vẫn còn những bí mật động trời bị chôn vùi trong chốn rừng thiêng nước độc, cuốn hai anh em Còn và Dương vào cuộc truy lùng “Phí Phông” không hồi kết."
         },
         {
-            "name": "Thượng Công Chúa",
+            "name": "Chuyện Cũ Miền Biên Ải",
             "year": 2026,
-            "slug": "thuong-cong-chua",
-            "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
-            "sub_type": "Lồng Tiếng",
-            "current_episode": "Tập 24",
-            "total_episodes": "40",
+            "slug": "chuyen-cu-mien-bien-ai",
+            "thumb": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
+            "description": "Vào cuối thập niên 1970, chàng thanh niên vùng Tùng Liêu tên Lưu Hải Trụ vì ra tay nghĩa hiệp mà bị cuốn vào những cuộc phân tranh chốn giang hồ, từ đó kết nên tình nghĩa sinh tử với Đông Bá Thiên. Giữa những biến động của thời cuộc, từ một người công nhân bình thường rơi vào vòng xoáy giang hồ, anh đã trải qua tình bằng hữu, yêu hận đan xen cùng những lựa chọn giằng xé về nhân tính, để rồi cuối cùng hoàn thành hành trình trưởng thành và tự cứu rỗi bản thân giữa vùng đất đen băng tuyết."
         },
         {
-            "name": "Dâu Tây Ngọt Ngào",
+            "name": "Hoàng Hậu Tái Hôn",
             "year": 2026,
-            "slug": "dau-tay-ngot-ngao",
-            "thumb": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-poster.webp",
+            "slug": "hoang-hau-tai-hon",
+            "thumb": "https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 5",
+            "current_episode": "Tập 4",
             "total_episodes": "10",
-            "country": "Nhật Bản",
-            "description": "Sau khi mất tất cả sau một đêm, Lee Yubin, một nhà thiết kế không gian người Hàn Quốc từng thành công, đã đến một hòn đảo nhỏ xinh đẹp của Nhật Bản. Tại đây, trên đảo Charo, anh gặp Shirahama Karin, một nữ nông dân kiên cường quyết tâm trồng dâu tây bất chấp căn bệnh bí ẩn của mình. Xuất thân từ hai thế giới khác nhau, cả hai vướng vào một sự hiểu lầm bất ngờ. Trong khi đó, một mối tình khác đang nảy nở trên đảo giữa một cặp đôi trái ngược. Park Kunam, một du khách làm việc kỳ nghỉ, quyết định ở lại sau khi đem lòng yêu Mizuno Mari, một người đọc bài tarot trớ trêu thay lại không thể đoán trước được đường tình duyên của chính mình. Khi họ vượt qua câu chuyện tình yêu của riêng mình, họ trở thành những người giúp đỡ đáng tin cậy cho Yubin và Karin."
+            "country": "Hàn Quốc",
+            "description": "Hoàng hậu Navier là người đứng đầu hoàn hảo của Đông Đế Quốc, cai trị đất nước cùng chồng là Hoàng đế Sovieshu. Tuy nhiên, cuộc sống và ngai vị của cô đảo lộn khi Sovieshu mang về cô hầu gái trốn chạy tên Rashta và sủng ái cô ta đến mức đòi ly hôn Navier. Thay vì gục ngã hay bi lụy, Navier đồng ý ly hôn với một điều kiện: cô được phép tái hôn với Hoàng tử Heinrey quyền lực của Tây Vương Quốc, từ đó bắt đầu hành động lật ngược thế cờ và làm chủ vận mệnh mới của mình."
         },
         {
             "name": "Lời Nguyền Thư Viện Mikura",
@@ -3045,28 +3045,28 @@
             "description": "Dưới Đáy Hồ là bộ phim kinh dị siêu nhiên lấy cảm hứng từ truyền thuyết đô thị về Hồ Đá Tử Thần - nơi luôn bao phủ bởi những câu chuyện bí ẩn mà giới trẻ thường truyền tai nhau."
         },
         {
-            "name": "Tiểu Thành Lương Phương",
+            "name": "Thượng Công Chúa",
             "year": 2026,
-            "slug": "tieu-thanh-luong-phuong",
-            "thumb": "https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (29/29)",
-            "total_episodes": "29",
+            "slug": "thuong-cong-chua",
+            "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
+            "sub_type": "Lồng Tiếng",
+            "current_episode": "Tập 24",
+            "total_episodes": "40",
             "country": "Trung Quốc",
-            "description": "Sau một biến cố nghiêm trọng trong sự nghiệp, bác sĩ thiên tài Lưu Tranh Lượng buộc phải trở về quê nhà và làm việc tại một bệnh viện tuyến cơ sở. Tại đây, anh cùng đồng nghiệp thường xuyên đối mặt với các ca bệnh oái oăm và những tình huống dở khóc dở cười. Tiểu Thành Lương Phương chính là hành trình tìm lại ý nghĩa của nghề y và giá trị của cuộc sống của Lưu Tranh Lượng qua từng ca bệnh ở thị trấn nhỏ."
+            "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
         },
         {
-            "name": "Trò Chơi Bắt Cóc (Phần 1)",
+            "name": "Chuyến Đi Chữa Lành",
             "year": 2026,
-            "slug": "tro-choi-bat-coc-phan-1",
-            "thumb": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
+            "slug": "chuyen-di-chua-lanh",
+            "thumb": "https://phimimg.com/uploads/movies/20261029/chuyen-di-chua-lanh-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261029/chuyen-di-chua-lanh-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 5",
-            "total_episodes": "11",
-            "country": "Nhật Bản",
-            "description": "Bộ phim xoay quanh một loạt các vụ bắt cóc đồng loạt tại 7 thành phố lớn ở châu Á (Tokyo, Seoul, Đài Bắc, Singapore, Bangkok, Naha, Manila), buộc các gia đình phải tham gia vào một trò chơi sinh tử thông qua các chỉ thị từ một email bí ẩn."
+            "current_episode": "Tập 4",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Kim Ha Yeon là một cô gái 18 tuổi bình thường, luôn mơ mộng về một cuộc đời đầy kịch tính như những gì cô thấy trên màn ảnh. Cuộc đời cô bước sang một ngã rẽ kỳ diệu và đầy bất ngờ khi cô đến ngôi làng đồng quê xa lạ Upo-ri để nghỉ hè. Tại đây, cô tình cờ gặp Jo Yu Gyeom, người thừa kế của một gia đình quý tộc truyền thống, và bạn gái của anh, Sae Ryeong. Dù sở hữu vẻ ngoài cuốn hút cùng tài năng bơi lội thiên bẩm, anh lại sống một cuộc đời tẻ nhạt, bị kìm hãm bởi những quy củ lỗi thời và nhịp sống lặp đi lặp lại. Khi hai con người trái ngược ấy gặp nhau giữa vẻ đẹp tĩnh lặng của Upo-ri, thế giới của họ va vào nhau, thắp lên một sự thay đổi trong cuộc sống thường nhật và mở đầu cho một mùa hè có một không hai trong đời."
         },
         {
             "name": "Shaun The Sheep: \"Quái Lạ\" Ghé Nhà",
