@@ -1,5 +1,17 @@
 [
     {
+        "name": "Đội Diễn Quá Đà",
+        "year": 2026,
+        "slug": "doi-dien-qua-da",
+        "thumb": "https://phimimg.com/uploads/movies/20261106/doi-dien-qua-da-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261106/doi-dien-qua-da-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Thái Lan",
+        "description": "Khi ông bố cựu cảnh sát tỉnh dậy và tưởng mình vẫn đang thực hiện nhiệm vụ, Nuch lựa chọn điều ai cũng sẽ làm – rủ hội bạn bá đạo của mình lập đội cảnh sát giả."
+    },
+    {
         "name": "Em Trong Khung Ảnh",
         "year": 2026,
         "slug": "em-trong-khung-anh",
@@ -323,17 +335,6 @@
         "slug": "gia-tai-cua-nguoi-chet",
         "thumb": "https://phimimg.com/upload/vod/20251014-1/6333b71cd4fb5a33fef099e722eb79fa.jpg",
         "poster": "https://phimimg.com/upload/vod/20251014-1/3f4604584f8a0eec85d75966353c4cc7.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "thai-lan"
-    },
-    {
-        "name": "Đại Ca Đi Tu",
-        "year": 2025,
-        "slug": "dai-ca-di-tu",
-        "thumb": "https://phimimg.com/upload/vod/20250920-1/3bf72604573baf1c630fb6d21ca79906.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250920-1/76cad636fd5a37ddb2d27dc641970969.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",

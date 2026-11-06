@@ -1,5 +1,77 @@
 [
     {
+        "name": "Lằn Ranh Máu",
+        "year": 2026,
+        "slug": "lan-ranh-mau",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20261106/lan-ranh-mau-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "10",
+        "country": "Mỹ",
+        "description": "Trong hoàn cảnh tuyệt vọng mẹ lâm bệnh nặng và em trai ngập trong nợ nần, Mia Carter – điều phối viên tổng đài 911 kỳ cựu của OEMC Chicago – đã giấu kín một cuộc gọi cầu cứu sinh tử, đánh liều dùng một túi \"tiền đen\" để cứu gia đình. Nhưng ngay trong đêm đó, cô và em trai không chỉ bị cuốn vào cuộc truy sát khốc liệt đan xen giữa băng đảng ngầm, cảnh sát biến chất và hệ thống đô thị, mà còn buộc phải đối mặt với vết thương lòng đã xé nát gia đình họ suốt nhiều năm qua."
+    },
+    {
+        "name": "Bồ Câu Đen (Phần 2)",
+        "year": 2026,
+        "slug": "bo-cau-den-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20261106/bo-cau-den-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261106/bo-cau-den-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (6/6)",
+        "total_episodes": "6",
+        "country": "Anh",
+        "description": "Đóng giả làm vợ của một chính trị gia, nữ gián điệp nọ biết rằng người tình của mình đã bị sát hại. Một người bạn cũ là sát thủ bèn cùng cô đi tìm sự thật và trả thù."
+    },
+    {
+        "name": "Cuộc Gọi Khẩn Cấp 9-1-1 (Phần 9)",
+        "year": 2025,
+        "slug": "cuoc-goi-khan-cap-9-1-1-phan-9",
+        "thumb": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-9-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-9-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (18/18)",
+        "total_episodes": "18",
+        "country": "Âu Mỹ",
+        "description": "Khám phá những trải nghiệm đầy áp lực của các sĩ quan cảnh sát, nhân viên y tế và lính cứu hỏa, những người bị đẩy vào các tình huống đáng sợ, gây sốc và thót tim nhất. Những người ứng phó khẩn cấp này phải cố gắng cân bằng giữa việc cứu những người đang ở trong tình trạng dễ bị tổn thương nhất với việc giải quyết các vấn đề trong cuộc sống của chính họ."
+    },
+    {
+        "name": "Bảy Hiệp Sĩ Của Vương Quốc Marronnier",
+        "year": 2026,
+        "slug": "bay-hiep-si-cua-vuong-quoc-marronnier",
+        "thumb": "https://phimimg.com/uploads/movies/20261007/bay-hiep-si-cua-vuong-quoc-marronnier-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261007/bay-hiep-si-cua-vuong-quoc-marronnier-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "24",
+        "country": "Nhật Bản",
+        "description": "Nằm tại trung tâm của một lục địa gồm tám vương quốc là Vương quốc Marronnier. Nữ tướng Baribara của vương quốc có bảy người con trai, mỗi người đều sở hữu một tài năng thiên bẩm độc đáo và đang đảm nhận vị trí đoàn trưởng hiệp sĩ. Cùng chung một mục tiêu cao quí là giải cứu công chúa một cách anh hùng vào một ngày nào đó, bảy anh em lên đường đến bảy vương quốc láng giềng với vai trò là sứ giả hòa bình. Những cuộc gặp gỡ, thử thách và định mệnh nào đang chờ đón họ ở những vùng đất xa lạ này?"
+    },
+    {
+        "name": "Vision: Hành Trình Tìm Lại Ký Ức",
+        "year": 2026,
+        "slug": "vision-hanh-trinh-tim-lai-ky-uc",
+        "thumb": "https://phimimg.com/uploads/movies/20261017/vision-quest-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261017/vision-quest-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Bị treo thưởng truy nã, Vision buộc phải đối diện với bản ngã của mình và chống lại sự thao túng từ Ultron để có thể sống sót."
+    },
+    {
+        "name": "Tình Anh Em (Phần 1)",
+        "year": 2026,
+        "slug": "tinh-anh-em-phan-1",
+        "thumb": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Hai tài tử Hollywood Matthew McConaughey và Woody Harrelson là đôi bạn thân nhiều năm—nhưng một bí mật gia đình chấn động cho thấy mối thâm tình này có thể còn khăng khít hơn thế."
+    },
+    {
         "name": "Cuộc Đời Bị Lấy Mất: Natalee Holloway",
         "year": 2026,
         "slug": "cuoc-doi-bi-lay-mat-natalee-holloway",
@@ -108,30 +180,6 @@
         "description": "Ai mới thực sự nắm quyền ở Sinaloa? El Mayo Zambada hoạt động như một bóng ma phía sau đồng phạm El Chapo, cho đến khi một vụ phản bội đẩy ông vào tâm điểm chú ý của dư luận."
     },
     {
-        "name": "Vision: Hành Trình Tìm Lại Ký Ức",
-        "year": 2026,
-        "slug": "vision-hanh-trinh-tim-lai-ky-uc",
-        "thumb": "https://phimimg.com/uploads/movies/20261017/vision-quest-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261017/vision-quest-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "8",
-        "country": "Âu Mỹ",
-        "description": "Bị treo thưởng truy nã, Vision buộc phải đối diện với bản ngã của mình và chống lại sự thao túng từ Ultron để có thể sống sót."
-    },
-    {
-        "name": "Tình Anh Em (Phần 1)",
-        "year": 2026,
-        "slug": "tinh-anh-em-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 7",
-        "total_episodes": "8",
-        "country": "Âu Mỹ",
-        "description": "Hai tài tử Hollywood Matthew McConaughey và Woody Harrelson là đôi bạn thân nhiều năm—nhưng một bí mật gia đình chấn động cho thấy mối thâm tình này có thể còn khăng khít hơn thế."
-    },
-    {
         "name": "Matthew Perry: Những Năm Cuối Cùng",
         "year": 2026,
         "slug": "matthew-perry-nhung-nam-cuoi-cung",
@@ -190,18 +238,6 @@
         "total_episodes": "8",
         "country": "Âu Mỹ",
         "description": "Sau cái chết đột ngột, tai quái của người cha đẩy cô vào hệ sinh thái nghiệt ngã của trường cấp ba công lập, Carrie buộc phải đối mặt với một bê bối bắt nạt lan truyền chóng mặt làm xé xoáy cả cộng đồng, áp lực tàn nhẫn cùng sự độc ác dường như vô tình của thời đại mạng xã hội, và sự thức tỉnh của thứ năng lượng dịch chuyển đồ vật bằng tâm trí (telekinesis) đầy bí ẩn đang lớn dần cùng tuổi dậy thì của cô."
-    },
-    {
-        "name": "Bảy Hiệp Sĩ Của Vương Quốc Marronnier",
-        "year": 2026,
-        "slug": "bay-hiep-si-cua-vuong-quoc-marronnier",
-        "thumb": "https://phimimg.com/uploads/movies/20261007/bay-hiep-si-cua-vuong-quoc-marronnier-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261007/bay-hiep-si-cua-vuong-quoc-marronnier-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "24",
-        "country": "Nhật Bản",
-        "description": "Nằm tại trung tâm của một lục địa gồm tám vương quốc là Vương quốc Marronnier. Nữ tướng Baribara của vương quốc có bảy người con trai, mỗi người đều sở hữu một tài năng thiên bẩm độc đáo và đang đảm nhận vị trí đoàn trưởng hiệp sĩ. Cùng chung một mục tiêu cao quí là giải cứu công chúa một cách anh hùng vào một ngày nào đó, bảy anh em lên đường đến bảy vương quốc láng giềng với vai trò là sứ giả hòa bình. Những cuộc gặp gỡ, thử thách và định mệnh nào đang chờ đón họ ở những vùng đất xa lạ này?"
     },
     {
         "name": "Những Điệp Viên Hết Thời (Phần 6)",
@@ -264,18 +300,6 @@
         "description": "Khi cặp đôi trẻ thừa kế một dinh thự hàng trăm tuổi, hội hồn ma đủ thành phần trú ngụ tại đây cản trở kế hoạch biến nơi này thành nhà nghỉ của họ."
     },
     {
-        "name": "Cuộc Gọi Khẩn Cấp 9-1-1 (Phần 9",
-        "year": 2025,
-        "slug": "cuoc-goi-khan-cap-9-1-1-phan-9",
-        "thumb": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-9-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260815/cuoc-goi-khan-cap-9-1-1-phan-9-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 14",
-        "total_episodes": "18",
-        "country": "Âu Mỹ",
-        "description": "Khám phá những trải nghiệm đầy áp lực của các sĩ quan cảnh sát, nhân viên y tế và lính cứu hỏa, những người bị đẩy vào các tình huống đáng sợ, gây sốc và thót tim nhất. Những người ứng phó khẩn cấp này phải cố gắng cân bằng giữa việc cứu những người đang ở trong tình trạng dễ bị tổn thương nhất với việc giải quyết các vấn đề trong cuộc sống của chính họ."
-    },
-    {
         "name": "Nhà Ngoại Giao (Phần 4)",
         "year": 2026,
         "slug": "nha-ngoai-giao-phan-4",
@@ -334,29 +358,5 @@
         "total_episodes": "16",
         "country": "Âu Mỹ",
         "description": "Bị thôi thúc bởi nỗi bất công cá nhân, luật sư đã về hưu Madeline Matlock quay trở lại nghề, dựa vào vẻ ngoài hiền lành cùng tư duy pháp lý sắc bén để xử lý các vụ án."
-    },
-    {
-        "name": "Tro Tàn Và Lễ Phục",
-        "year": 2026,
-        "slug": "tro-tan-va-le-phuc",
-        "thumb": "https://phimimg.com/uploads/movies/20261010/tro-tan-va-le-phuc-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261010/tro-tan-va-le-phuc-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Mỹ",
-        "description": "Nhà thiết kế thiên tài Astrid bị nàng thơ Bella và vị hôn phu Julian bắt tay phản bội, từ đỉnh cao rơi xuống tận đáy. Tại một quán ăn bình dân, cô phát hiện ra cô phục vụ Sophia và rèn giũa cô ấy thành quân bài báo thù. Cả hai trải qua nhục nhã, rạn nứt và biển lửa, rồi gây chấn động tại show diễn chính của Vance với chiếc váy rực cháy, đồng thời phơi bày âm mưu phóng hỏa của Bella. Cuối cùng, Sophia giành lại cuộc đời vốn là của mình, Astrid buông bỏ chấp niệm, và cả hai cùng bước sang một khởi đầu mới."
-    },
-    {
-        "name": "Khách Sạn Có Ma (Phần 2)",
-        "year": 2026,
-        "slug": "khach-san-co-ma-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20261010/khach-san-co-ma-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261010/khach-san-co-ma-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Âu Mỹ",
-        "description": "Sau khi thừa kế một khách sạn từ anh trai quá cố, người mẹ đơn thân nọ chuyển đến sống cùng hồn ma tốt bụng của anh... và những vị khách hay đòi hỏi song không bao giờ trả phòng."
     }
 ]
