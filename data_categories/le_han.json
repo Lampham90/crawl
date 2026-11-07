@@ -1,5 +1,17 @@
 [
     {
+        "name": "Khả Thể Của Tình Yêu",
+        "year": 2026,
+        "slug": "kha-the-cua-tinh-yeu",
+        "thumb": "https://phimimg.com/uploads/movies/20261107/kha-the-cua-tinh-yeu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261107/kha-the-cua-tinh-yeu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Hàn Quốc",
+        "description": "Tình yêu. Đố kỵ. Ham muốn. Khi một người phụ nữ có chồng mất việc đồng ý tham gia một bộ phim tài liệu, cuộc sống của họ đan xen với cuộc sống của đạo diễn và người bạn đời của cô."
+    },
+    {
         "name": "Vùng Tử Địa",
         "year": 2026,
         "slug": "vung-tu-dia",
@@ -320,17 +332,6 @@
         "thumb": "https://phimimg.com/upload/vod/20250927-1/a78cc05861f16028e314f1f9f3b26a7c.jpg",
         "poster": "https://phimimg.com/upload/vod/20250927-1/d95d5531b3e25c78438ae09f57d4aad2.jpg",
         "sub_type": "Vietsub + Thuyết Minh + Lồng Tiếng",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "han-quoc"
-    },
-    {
-        "name": "Tuổi Trẻ Bất Trị",
-        "year": 2025,
-        "slug": "tuoi-tre-bat-tri",
-        "thumb": "https://phimimg.com/upload/vod/20260105-1/00bc9203a71c78a2669a4045ad5b16e9.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260105-1/8b91bb22855c8d67346b14db4697857d.jpg",
-        "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "han-quoc"
