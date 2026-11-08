@@ -1,5 +1,17 @@
 [
     {
+        "name": "Bản Hợp Xướng",
+        "year": 2025,
+        "slug": "ban-hop-xuong",
+        "thumb": "https://phimimg.com/upload/vod/20260105-1/c102a5b185ced8c4332d6ea604782de0.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260105-1/61f1728beca8cd4573496fef568c0da5.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Anh",
+        "description": "Trong bối cảnh chiến tranh, một cộng đồng mất mát tìm thấy sự chữa lành và hy vọng thông qua âm nhạc hợp xướng."
+    },
+    {
         "name": "Lưỡi Hái Tử Thần: Huyết thống",
         "year": 2025,
         "slug": "luoi-hai-tu-than-huyet-thong",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Cuộc hội ngộ của một nhóm bạn thuở nhỏ bỗng rẽ vào một bước ngoặt bất ngờ khi cả bọn rơi vào một âm mưu quốc tế nguy hiểm và phải đứng lên cứu thế giới."
-    },
-    {
-        "name": "Cú Rơi Tử Thần 2: Điểm Chết",
-        "year": 2026,
-        "slug": "cu-roi-tu-than-2-diem-chet",
-        "thumb": "https://phimimg.com/uploads/movies/20261010/cu-roi-tu-than-2-diem-chet-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261010/cu-roi-tu-than-2-diem-chet-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Anh",
-        "description": "Sau cái chết của chị gái Hunter, Jax tìm thấy chút an ủi nơi Luce, người bạn gan dạ từng thân thiết với Hunter. Để đối diện nỗi mất mát, họ cùng thử thách cung đường ván treo khét tiếng trên núi Kwan ở Thái Lan, nhưng một vụ sạt lở bất ngờ khiến Jax mắc kẹt ở độ cao 3,000 feet, nơi chỉ một bước sai cũng có thể là dấu chấm hết."
     }
 ]
