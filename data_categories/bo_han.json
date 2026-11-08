@@ -1,5 +1,29 @@
 [
     {
+        "name": "Bác Sĩ X",
+        "year": 2026,
+        "slug": "bac-si-x",
+        "thumb": "https://phimimg.com/uploads/movies/20261010/bac-si-x-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261010/bac-si-x-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 10",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Ở một bệnh viện nơi cái tôi và tham nhũng lộng hành, một bác sĩ phẫu thuật bí ẩn nhưng tài năng xuất hiện – nhận những ca tưởng chừng bất khả thi bất chấp sự phản đối quyết liệt."
+    },
+    {
+        "name": "100 Ngày Lừa Dối",
+        "year": 2026,
+        "slug": "100-ngay-lua-doi",
+        "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 9",
+        "total_episodes": "16",
+        "country": "Hàn Quốc",
+        "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
+    },
+    {
         "name": "Lời Nói Dối Hoàn Hảo",
         "year": 2026,
         "slug": "loi-noi-doi-hoan-hao-2026-kr",
@@ -10,18 +34,6 @@
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Joonho, một bác sĩ phẫu thuật tim với nụ cười hoàn hảo, và Jisun, một thủ thư kiêm giáo viên phóng khoáng, đã trải qua một đêm đặc biệt sau một buổi hẹn hò rung động trái tim. Ngày hôm sau, họ đối mặt với nhau tại đồn cảnh sát với những ký ức hoàn toàn khác nhau. Một trong số họ đang nói dối. Không có bằng chứng hay nhân chứng, ngay cả kết quả máy phát hiện nói dối cũng đi ngược lại mong đợi, và sự nghi ngờ lẫn nhau đã đẩy cuộc sống của họ vào hỗn loạn. Những câu hỏi về người vợ quá cố của Joonho tiết lộ rằng vụ án vượt ra ngoài tầm kiểm soát của hai người. Khi những lời khai mâu thuẫn và các mối quan hệ ẩn giấu lộ diện, sự thật càng trở nên mờ mịt, và một lời nói dối châm ngòi cho trò chơi nguy hiểm mà không ai có thể tin tưởng."
-    },
-    {
-        "name": "Bác Sĩ X",
-        "year": 2026,
-        "slug": "bac-si-x",
-        "thumb": "https://phimimg.com/uploads/movies/20261010/bac-si-x-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261010/bac-si-x-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Ở một bệnh viện nơi cái tôi và tham nhũng lộng hành, một bác sĩ phẫu thuật bí ẩn nhưng tài năng xuất hiện – nhận những ca tưởng chừng bất khả thi bất chấp sự phản đối quyết liệt."
     },
     {
         "name": "Bạn Học Ma Cà Rồng",
@@ -214,18 +226,6 @@
         "total_episodes": "16",
         "country": "Hàn Quốc",
         "description": "Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự nghiệp. Mọi chuyện đảo lộn khi anh gặp Oh Hae Ra, một cô gái luôn tin rằng mình là nhân vật chính trong phim truyền hình. Anh Là Nam Chính Đời Em (Oh! My Guard) theo chân Tae Bong và Hae Ra trong hành trình tình yêu oái oăm, đầy những tình huống dở khóc dở cười, làm lu mờ ranh giới giữa đời thực và thế giới lãng mạn trên màn ảnh."
-    },
-    {
-        "name": "100 Ngày Lừa Dối",
-        "year": 2026,
-        "slug": "100-ngay-lua-doi",
-        "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "16",
-        "country": "Hàn Quốc",
-        "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
     },
     {
         "name": "Việc Ma, Lương Quái",
