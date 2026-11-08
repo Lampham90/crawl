@@ -1275,6 +1275,30 @@
     ],
     "bo_han": [
         {
+            "name": "Cuộc Chiến Ẩm Thực",
+            "year": 2026,
+            "slug": "cuoc-chien-am-thuc",
+            "thumb": "https://phimimg.com/uploads/movies/20261026/cuoc-chien-am-thuc-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261026/cuoc-chien-am-thuc-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 5",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "The Table: K-Chef 2026 quy tụ các đầu bếp hàng đầu Hàn Quốc tranh tài cho danh hiệu đầu bếp xuất sắc nhất đất nước. Đầu bếp tầm cỡ thế giới đầy bí ẩn Chris K., hay còn gọi là Kang Han, Song-yi đang chiến đấu để cứu lấy nhà hàng của mình, đầu bếp ngôi sao cầu toàn Woo-jin và các đầu bếp mang câu chuyện riêng bước vào một trận chiến ẩm thực khốc liệt. Hơn cả một cuộc thi, họ tìm thấy sự vỗ về trong món ăn và ở nhau."
+        },
+        {
+            "name": "Lời Nói Dối Hoàn Hảo",
+            "year": 2026,
+            "slug": "loi-noi-doi-hoan-hao-2026-kr",
+            "thumb": "https://phimimg.com/uploads/movies/20261103/loi-noi-doi-hoan-hao-2026-kr-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261103/loi-noi-doi-hoan-hao-2026-kr-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 4",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Joonho, một bác sĩ phẫu thuật tim với nụ cười hoàn hảo, và Jisun, một thủ thư kiêm giáo viên phóng khoáng, đã trải qua một đêm đặc biệt sau một buổi hẹn hò rung động trái tim. Ngày hôm sau, họ đối mặt với nhau tại đồn cảnh sát với những ký ức hoàn toàn khác nhau. Một trong số họ đang nói dối. Không có bằng chứng hay nhân chứng, ngay cả kết quả máy phát hiện nói dối cũng đi ngược lại mong đợi, và sự nghi ngờ lẫn nhau đã đẩy cuộc sống của họ vào hỗn loạn. Những câu hỏi về người vợ quá cố của Joonho tiết lộ rằng vụ án vượt ra ngoài tầm kiểm soát của hai người. Khi những lời khai mâu thuẫn và các mối quan hệ ẩn giấu lộ diện, sự thật càng trở nên mờ mịt, và một lời nói dối châm ngòi cho trò chơi nguy hiểm mà không ai có thể tin tưởng."
+        },
+        {
             "name": "Bác Sĩ X",
             "year": 2026,
             "slug": "bac-si-x",
@@ -1297,18 +1321,6 @@
             "total_episodes": "16",
             "country": "Hàn Quốc",
             "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
-        },
-        {
-            "name": "Lời Nói Dối Hoàn Hảo",
-            "year": 2026,
-            "slug": "loi-noi-doi-hoan-hao-2026-kr",
-            "thumb": "https://phimimg.com/uploads/movies/20261103/loi-noi-doi-hoan-hao-2026-kr-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261103/loi-noi-doi-hoan-hao-2026-kr-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "Joonho, một bác sĩ phẫu thuật tim với nụ cười hoàn hảo, và Jisun, một thủ thư kiêm giáo viên phóng khoáng, đã trải qua một đêm đặc biệt sau một buổi hẹn hò rung động trái tim. Ngày hôm sau, họ đối mặt với nhau tại đồn cảnh sát với những ký ức hoàn toàn khác nhau. Một trong số họ đang nói dối. Không có bằng chứng hay nhân chứng, ngay cả kết quả máy phát hiện nói dối cũng đi ngược lại mong đợi, và sự nghi ngờ lẫn nhau đã đẩy cuộc sống của họ vào hỗn loạn. Những câu hỏi về người vợ quá cố của Joonho tiết lộ rằng vụ án vượt ra ngoài tầm kiểm soát của hai người. Khi những lời khai mâu thuẫn và các mối quan hệ ẩn giấu lộ diện, sự thật càng trở nên mờ mịt, và một lời nói dối châm ngòi cho trò chơi nguy hiểm mà không ai có thể tin tưởng."
         },
         {
             "name": "Bạn Học Ma Cà Rồng",
@@ -1417,18 +1429,6 @@
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Min jae từng là vận động viên bơi lội thời trung học, cho đến khi bệnh tật khiến anh mất đi một chân. Giờ đây là nghiên cứu sinh tiến sĩ ngành người máy, anh tỏ ra là một người không màng thế sự—nhưng vẫn còn đó một khao khát giản đơn, nhức nhối: được yêu. Anh suy nghĩ quá nhiều và sợ bị tổn thương, cho đến một ngày, đúng người xuất hiện. Yujin đã từ bỏ chuyên ngành thời trang, lạc lối không có phương hướng rõ ràng, cho đến khi Minjae mở ra trước mắt cô thế giới người máy—và một giấc mơ mới. Mọi thứ về nó đều xa lạ và khó khăn, nhưng tình cảm cô dành cho anh chưa bao giờ dao động. Tia lửa ngay từ cái nhìn đầu tiên làm xáo trộn phòng thí nghiệm yên tĩnh, và sự theo đuổi không sợ hãi của Yujin đã phá vỡ lớp vỏ bọc bảo vệ trái tim Minjae. Dần dần, cả hai xích lại gần nhau hơn. Rắc rối và khó đoán hơn bất kỳ cỗ máy nào, một mối tình lãng mạn bắt đầu—mãnh liệt, ngọt ngào đắng cay và dịu dàng."
-        },
-        {
-            "name": "Cuộc Chiến Ẩm Thực",
-            "year": 2026,
-            "slug": "cuoc-chien-am-thuc",
-            "thumb": "https://phimimg.com/uploads/movies/20261026/cuoc-chien-am-thuc-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261026/cuoc-chien-am-thuc-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "12",
-            "country": "Hàn Quốc",
-            "description": "The Table: K-Chef 2026 quy tụ các đầu bếp hàng đầu Hàn Quốc tranh tài cho danh hiệu đầu bếp xuất sắc nhất đất nước. Đầu bếp tầm cỡ thế giới đầy bí ẩn Chris K., hay còn gọi là Kang Han, Song-yi đang chiến đấu để cứu lấy nhà hàng của mình, đầu bếp ngôi sao cầu toàn Woo-jin và các đầu bếp mang câu chuyện riêng bước vào một trận chiến ẩm thực khốc liệt. Hơn cả một cuộc thi, họ tìm thấy sự vỗ về trong món ăn và ở nhau."
         },
         {
             "name": "Chìm Vào Mắt Em (Phần 1)",
@@ -2937,16 +2937,16 @@
             "description": "Để cứu vị hôn thê Lâm Đóa đang mắc bệnh nặng, nhân viên giao hàng Trương Vĩnh Sâm được kết nối ý thức vào không gian song song. Anh du hành qua năm thế giới hoàn toàn khác biệt để gặp cô. Qua từng lần lựa chọn và mất mát, anh dần thấu hiểu ý nghĩa của tình yêu và sự cứu rỗi, để rồi tại điểm tận cùng của thời gian, anh đã đón nhận được bước ngoặt hoàn toàn mới giúp phá vỡ số mệnh."
         },
         {
-            "name": "Bác Sĩ X",
+            "name": "Cuộc Chiến Ẩm Thực",
             "year": 2026,
-            "slug": "bac-si-x",
-            "thumb": "https://phimimg.com/uploads/movies/20261010/bac-si-x-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261010/bac-si-x-poster.webp",
+            "slug": "cuoc-chien-am-thuc",
+            "thumb": "https://phimimg.com/uploads/movies/20261026/cuoc-chien-am-thuc-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261026/cuoc-chien-am-thuc-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 10",
+            "current_episode": "Tập 5",
             "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Ở một bệnh viện nơi cái tôi và tham nhũng lộng hành, một bác sĩ phẫu thuật bí ẩn nhưng tài năng xuất hiện – nhận những ca tưởng chừng bất khả thi bất chấp sự phản đối quyết liệt."
+            "description": "The Table: K-Chef 2026 quy tụ các đầu bếp hàng đầu Hàn Quốc tranh tài cho danh hiệu đầu bếp xuất sắc nhất đất nước. Đầu bếp tầm cỡ thế giới đầy bí ẩn Chris K., hay còn gọi là Kang Han, Song-yi đang chiến đấu để cứu lấy nhà hàng của mình, đầu bếp ngôi sao cầu toàn Woo-jin và các đầu bếp mang câu chuyện riêng bước vào một trận chiến ẩm thực khốc liệt. Hơn cả một cuộc thi, họ tìm thấy sự vỗ về trong món ăn và ở nhau."
         },
         {
             "name": "Hòn Đảo Quên Lãng",
@@ -2997,16 +2997,16 @@
             "description": "Câu chuyện kể về việc Trái Đất bị tiểu hành tinh đe dọa, quốc gia đã khởi động \"Kế hoạch Bàn Thạch\" nhằm thiết lập tiền đồn không gian sâu trên sao Bàn Thạch. Những mảnh vỡ phát sinh từ một nhiệm vụ sau 5 năm trôi nổi sẽ gây ra trận mưa thiên thạch, hủy diệt căn cứ sao Bàn Thạch – nơi lưu giữ thành quả nghiên cứu của toàn nhân loại. Lãnh Mai nhận mệnh lúc lâm nguy, đảm nhận vị trí tổng chỉ huy chiến dịch, dẫn dắt Vương Tam Phu và Trương Mãnh điều khiển tàu Viễn Chinh 7 xuyên qua vành đai mảnh vỡ chí mạng, hạ cánh xuống vùng địch. Trong lúc nguy nan, hệ thống trí tuệ nhân tạo tại căn cứ đồng loạt sập nguồn và robot phỏng sinh học nổi loạn, họ phải giành lại máy chủ \"Song Tử\" cùng robot \"Thiên Cầm\". Chặng đường vượt muôn vàn hiểm trở ấy chính là tiếng vọng từ tinh thần Trường Chinh băng qua thảo nguyên của người ông cố dưới bầu trời sao tương lai."
         },
         {
-            "name": "100 Ngày Lừa Dối",
+            "name": "Lời Nói Dối Hoàn Hảo",
             "year": 2026,
-            "slug": "100-ngay-lua-doi",
-            "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
+            "slug": "loi-noi-doi-hoan-hao-2026-kr",
+            "thumb": "https://phimimg.com/uploads/movies/20261103/loi-noi-doi-hoan-hao-2026-kr-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261103/loi-noi-doi-hoan-hao-2026-kr-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 9",
-            "total_episodes": "16",
+            "current_episode": "Tập 4",
+            "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
+            "description": "Joonho, một bác sĩ phẫu thuật tim với nụ cười hoàn hảo, và Jisun, một thủ thư kiêm giáo viên phóng khoáng, đã trải qua một đêm đặc biệt sau một buổi hẹn hò rung động trái tim. Ngày hôm sau, họ đối mặt với nhau tại đồn cảnh sát với những ký ức hoàn toàn khác nhau. Một trong số họ đang nói dối. Không có bằng chứng hay nhân chứng, ngay cả kết quả máy phát hiện nói dối cũng đi ngược lại mong đợi, và sự nghi ngờ lẫn nhau đã đẩy cuộc sống của họ vào hỗn loạn. Những câu hỏi về người vợ quá cố của Joonho tiết lộ rằng vụ án vượt ra ngoài tầm kiểm soát của hai người. Khi những lời khai mâu thuẫn và các mối quan hệ ẩn giấu lộ diện, sự thật càng trở nên mờ mịt, và một lời nói dối châm ngòi cho trò chơi nguy hiểm mà không ai có thể tin tưởng."
         },
         {
             "name": "Lời Nguyền Thư Viện Mikura",
@@ -3057,16 +3057,16 @@
             "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
         },
         {
-            "name": "Lời Nói Dối Hoàn Hảo",
+            "name": "Bác Sĩ X",
             "year": 2026,
-            "slug": "loi-noi-doi-hoan-hao-2026-kr",
-            "thumb": "https://phimimg.com/uploads/movies/20261103/loi-noi-doi-hoan-hao-2026-kr-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261103/loi-noi-doi-hoan-hao-2026-kr-poster.webp",
+            "slug": "bac-si-x",
+            "thumb": "https://phimimg.com/uploads/movies/20261010/bac-si-x-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261010/bac-si-x-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 3",
+            "current_episode": "Tập 10",
             "total_episodes": "12",
             "country": "Hàn Quốc",
-            "description": "Joonho, một bác sĩ phẫu thuật tim với nụ cười hoàn hảo, và Jisun, một thủ thư kiêm giáo viên phóng khoáng, đã trải qua một đêm đặc biệt sau một buổi hẹn hò rung động trái tim. Ngày hôm sau, họ đối mặt với nhau tại đồn cảnh sát với những ký ức hoàn toàn khác nhau. Một trong số họ đang nói dối. Không có bằng chứng hay nhân chứng, ngay cả kết quả máy phát hiện nói dối cũng đi ngược lại mong đợi, và sự nghi ngờ lẫn nhau đã đẩy cuộc sống của họ vào hỗn loạn. Những câu hỏi về người vợ quá cố của Joonho tiết lộ rằng vụ án vượt ra ngoài tầm kiểm soát của hai người. Khi những lời khai mâu thuẫn và các mối quan hệ ẩn giấu lộ diện, sự thật càng trở nên mờ mịt, và một lời nói dối châm ngòi cho trò chơi nguy hiểm mà không ai có thể tin tưởng."
+            "description": "Ở một bệnh viện nơi cái tôi và tham nhũng lộng hành, một bác sĩ phẫu thuật bí ẩn nhưng tài năng xuất hiện – nhận những ca tưởng chừng bất khả thi bất chấp sự phản đối quyết liệt."
         },
         {
             "name": "Shaun The Sheep: \"Quái Lạ\" Ghé Nhà",
