@@ -6,10 +6,34 @@
         "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
         "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 31",
+        "current_episode": "Tập 34",
         "total_episodes": "40",
         "country": "Trung Quốc",
         "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
+    },
+    {
+        "name": "Thợ Săn Giác Thú Omegahorn",
+        "year": 2026,
+        "slug": "tho-san-giac-thu-omegahorn",
+        "thumb": "https://phimimg.com/uploads/movies/20260726/tho-san-giac-thu-omegahorn-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260726/tho-san-giac-thu-omegahorn-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 15",
+        "total_episodes": "25",
+        "country": "Nhật Bản",
+        "description": "Thời cổ đại, các Giác thú khổng lồ từng thống trị thế giới trước khi bị phong ấn vào các Egorgear và biến mất. Đến thời hiện đại, một nhóm người gọi là Thợ săn bắt đầu sử dụng Máy Khởi Giác để giải phóng sức mạnh của chúng. Tình cờ tìm thấy một Máy Khởi Giác kỳ lạ tên Omegahorn cùng một Egorgear cổ xưa, Shout đã đánh thức con thú khổng lồ có sừng mang tên Viêm Giác. Nhận ra tố chất của một vị vua trong cậu, Viêm Giác mời Shout làm Đội Trưởng Omegahorn, kề vai sát cánh chiến đấu cùng mình và trở thành Thợ Săn Giác Thú Omegahorn."
+    },
+    {
+        "name": "Hiệp Sĩ Mặt Nạ MY-TH: Huyền Thoại 12 Con Giáp",
+        "year": 2026,
+        "slug": "hiep-si-mat-na-my-th-huyen-thoai-12-con-giap",
+        "thumb": "https://phimimg.com/uploads/movies/20260907/hiep-si-mat-na-my-th-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260907/hiep-si-mat-na-my-th-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 9",
+        "total_episodes": "48",
+        "country": "Nhật Bản",
+        "description": "Nhân vật trung tâm của phần phim mang hình tượng lấy cảm hứng từ loài chuột – đứng đầu trong chu kỳ 12 con giáp. Câu chuyện theo chân Sora, một thanh niên mang thân phận bề ngoài là người hầu dưới quyền của tiểu thư Yuna. Thế nhưng, đằng sau vỏ bọc đó, Sora thực chất chính là Kamen Rider MY-TH, một chiến binh thầm lặng đã dành nhiều năm trời để săn đuổi và tiêu diệt lũ quái vật bí ẩn mang tên Fukashigi."
     },
     {
         "name": "Song Mệnh Cõi Hoàng Tuyền",
@@ -70,30 +94,6 @@
         "total_episodes": "8",
         "country": "Pháp",
         "description": "Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công lý cho cha."
-    },
-    {
-        "name": "Thợ Săn Giác Thú Omegahorn",
-        "year": 2026,
-        "slug": "tho-san-giac-thu-omegahorn",
-        "thumb": "https://phimimg.com/uploads/movies/20260726/tho-san-giac-thu-omegahorn-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260726/tho-san-giac-thu-omegahorn-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 14",
-        "total_episodes": "25",
-        "country": "Nhật Bản",
-        "description": "Thời cổ đại, các Giác thú khổng lồ từng thống trị thế giới trước khi bị phong ấn vào các Egorgear và biến mất. Đến thời hiện đại, một nhóm người gọi là Thợ săn bắt đầu sử dụng Máy Khởi Giác để giải phóng sức mạnh của chúng. Tình cờ tìm thấy một Máy Khởi Giác kỳ lạ tên Omegahorn cùng một Egorgear cổ xưa, Shout đã đánh thức con thú khổng lồ có sừng mang tên Viêm Giác. Nhận ra tố chất của một vị vua trong cậu, Viêm Giác mời Shout làm Đội Trưởng Omegahorn, kề vai sát cánh chiến đấu cùng mình và trở thành Thợ Săn Giác Thú Omegahorn."
-    },
-    {
-        "name": "Hiệp Sĩ Mặt Nạ MY-TH: Huyền Thoại 12 Con Giáp",
-        "year": 2026,
-        "slug": "hiep-si-mat-na-my-th-huyen-thoai-12-con-giap",
-        "thumb": "https://phimimg.com/uploads/movies/20260907/hiep-si-mat-na-my-th-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260907/hiep-si-mat-na-my-th-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 8",
-        "total_episodes": "48",
-        "country": "Nhật Bản",
-        "description": "Nhân vật trung tâm của phần phim mang hình tượng lấy cảm hứng từ loài chuột – đứng đầu trong chu kỳ 12 con giáp. Câu chuyện theo chân Sora, một thanh niên mang thân phận bề ngoài là người hầu dưới quyền của tiểu thư Yuna. Thế nhưng, đằng sau vỏ bọc đó, Sora thực chất chính là Kamen Rider MY-TH, một chiến binh thầm lặng đã dành nhiều năm trời để săn đuổi và tiêu diệt lũ quái vật bí ẩn mang tên Fukashigi."
     },
     {
         "name": "Doraemon: Nobita và Lâu Đài Dưới Đáy Biển (Phiên Bản Mới)",

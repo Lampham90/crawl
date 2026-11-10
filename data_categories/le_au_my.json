@@ -1,5 +1,29 @@
 [
     {
+        "name": "Trái Tim Quái Thú",
+        "year": 2026,
+        "slug": "trai-tim-quai-thu",
+        "thumb": "https://phimimg.com/uploads/movies/20261109/trai-tim-quai-thu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261109/trai-tim-quai-thu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Sau một vụ tai nạn máy bay kinh hoàng, sĩ quan Lực lượng Đặc nhiệm James Belmont (Brad Pitt) và chú chó chiến đấu Odin bị mắc kẹt giữa vùng hoang dã sâu thẳm của Alaska. Từ đó, họ buộc phải cùng nhau bước vào cuộc chiến sinh tồn khốc liệt trước thiên nhiên khắc nghiệt. Từ đạo diễn danh tiếng David Ayer, Trái Tim Quái Thú là một bộ phim phiêu lưu đầy căng thẳng, khai thác mối gắn kết không thể tách rời giữa một người đàn ông và người bạn thân thiết nhất của mình, khi cả hai phải đối mặt với trận chiến lớn nhất cuộc đời."
+    },
+    {
+        "name": "Câu Chuyện Về Derry",
+        "year": 2026,
+        "slug": "cau-chuyen-ve-derry",
+        "thumb": "https://phimimg.com/uploads/movies/20261109/cau-chuyen-ve-derry-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261109/cau-chuyen-ve-derry-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Lấy bối cảnh hàng trăm năm trước khi thực thể ma quái Pennywise xuất hiện tại thị trấn Derry, ba người trẻ tuổi mạo hiểm bước vào khu rừng Western Wood và đối đầu với một linh hồn cổ xưa đầy kinh hoàng."
+    },
+    {
         "name": "Bản Hợp Xướng",
         "year": 2025,
         "slug": "ban-hop-xuong",
@@ -334,29 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Một thợ lặn biển đang tìm kiếm hài cốt của người cha quá cố thì bị một con cá nhà táng dài 80 foot, nặng 60 tấn nuốt chửng, và chỉ còn 1 giờ để thoát ra trước khi cạn oxy. Sau khi gần như buông xuôi mạng sống, chàng trai trẻ bất ngờ tìm lại được lý do để tiếp tục sống ở nơi nguy hiểm và không tưởng nhất."
-    },
-    {
-        "name": "Instadocs: AI mất kiểm soát",
-        "year": 2026,
-        "slug": "instadocs-ai-mat-kiem-soat",
-        "thumb": "https://phimimg.com/uploads/movies/20261016/instadocs-ai-mat-kiem-soat-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261016/instadocs-ai-mat-kiem-soat-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Có phải AI đã phạm trọng tội? \"Instadocs\" điều tra vụ hack Hugging Face và lý do vụ tấn công mạng này có thể là phát súng cảnh báo cho tương lai của nhân loại."
-    },
-    {
-        "name": "Matchbox: Phim Điện Ảnh",
-        "year": 2026,
-        "slug": "matchbox-phim-dien-anh",
-        "thumb": "https://phimimg.com/uploads/movies/20261011/matchbox-phim-dien-anh-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261011/matchbox-phim-dien-anh-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Cuộc hội ngộ của một nhóm bạn thuở nhỏ bỗng rẽ vào một bước ngoặt bất ngờ khi cả bọn rơi vào một âm mưu quốc tế nguy hiểm và phải đứng lên cứu thế giới."
     }
 ]

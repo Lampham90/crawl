@@ -1,5 +1,29 @@
 [
     {
+        "name": "Kẻ Hồi Sinh",
+        "year": 2026,
+        "slug": "ke-hoi-sinh",
+        "thumb": "https://phimimg.com/uploads/movies/20261109/ke-hoi-sinh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261109/ke-hoi-sinh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Hàn Quốc",
+        "description": "Bộ phim xoay quanh Seok Hwan, một thanh niên thất nghiệp bất ngờ bị sát hại sau một buổi phỏng vấn xin việc thất bại. Kỳ tích xảy ra khi anh đột ngột sống lại sau đúng 72 giờ và phát hiện ra bản thân sở hữu năng lực hồi sinh vô hạn, đồng thời cơ thể sẽ trở nên mạnh mẽ hơn sau mỗi lần cận kề cái chết. Tuy nhiên, món quà này sớm biến thành lời nguyền khi anh lọt vào tầm ngắm và bị săn lùng gắt gao bởi một tổ chức bí ẩn."
+    },
+    {
+        "name": "Đền La Sát",
+        "year": 2026,
+        "slug": "den-la-sat",
+        "thumb": "https://phimimg.com/uploads/movies/20261109/den-la-sat-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261109/den-la-sat-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Hàn Quốc",
+        "description": "The Shrine là dự án kinh dị tâm linh giao thoa tín ngưỡng tâm linh Hàn - Nhật điên rồ và quỷ dị!  Nhóm sinh viên quốc tế đang làm khảo sát tại ngôi đền bỏ hoang ở Kobe (Nhật Bản) thì một thành viên bỗng chốc hóa rồ rồi đột ngột mất tích bí ẩn kéo theo chuỗi sự kiện kinh hoàng sau đó. Người quản lý dự án - Yu-mi, đành cầu cứu tiền bối cũ Myung-jin - một pháp sư có khả năng nghe thấy tiếng nói của quỷ dữ. Tại hiện trường, Myung-jin đã chạm trán với một thực thể tà ác vô cùng tàn bạo mà anh chưa từng nghĩ tới. Liệu Myung-jin có thể đánh bại được thế lực tà ác ấy và hạ gục được con quỷ đang ngự trị ngay bên trong mình?"
+    },
+    {
         "name": "Khả Thể Của Tình Yêu",
         "year": 2026,
         "slug": "kha-the-cua-tinh-yeu",
@@ -310,28 +334,6 @@
         "thumb": "https://phimimg.com/upload/vod/20260122-1/433dff0c657c6f0d337e7a2164578d42.jpg",
         "poster": "https://phimimg.com/upload/vod/20260122-1/66d38b21cd564b7eeb45b239aa8f0b58.jpg",
         "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "han-quoc"
-    },
-    {
-        "name": "Em Xinh Tinh Quái",
-        "year": 2025,
-        "slug": "em-xinh-tinh-quai",
-        "thumb": "https://phimimg.com/upload/vod/20250919-1/a411be29d10f55b5a12d4bcbf536f4a8.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250919-1/41084afc0b52fd447a989fdab5d54817.jpg",
-        "sub_type": "Vietsub + Thuyết Minh",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "han-quoc"
-    },
-    {
-        "name": "Zombie Cưng Của Ba",
-        "year": 2025,
-        "slug": "zombie-cung-cua-ba",
-        "thumb": "https://phimimg.com/upload/vod/20250927-1/a78cc05861f16028e314f1f9f3b26a7c.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250927-1/d95d5531b3e25c78438ae09f57d4aad2.jpg",
-        "sub_type": "Vietsub + Thuyết Minh + Lồng Tiếng",
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "han-quoc"
