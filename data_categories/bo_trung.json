@@ -1,5 +1,41 @@
 [
     {
+        "name": "Gấp Ánh Trăng",
+        "year": 2026,
+        "slug": "gap-anh-trang",
+        "thumb": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 14",
+        "total_episodes": "27",
+        "country": "Trung Quốc",
+        "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học."
+    },
+    {
+        "name": "Cuộc Trường Chinh Vĩ Đại",
+        "year": 2026,
+        "slug": "cuoc-truong-chinh-vi-dai",
+        "thumb": "https://phimimg.com/uploads/movies/20261021/cuoc-truong-chinh-vi-dai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261021/cuoc-truong-chinh-vi-dai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (60/60)",
+        "total_episodes": "60",
+        "country": "Trung Quốc",
+        "description": "Lấy cuộc Trường Chinh của Hồng quân Trung ương làm tuyến truyện chủ đạo, tác phẩm tái hiện toàn diện tiến trình lịch sử từ sau thất bại của cuộc chống “vây quét” lần thứ năm, đến khi Phương Diện quân số 1, số 2, số 4 của Hồng quân và Quân đoàn số 25 lần lượt tiến hành chuyển dịch chiến lược dưới sự lãnh đạo của Trung ương Đảng Cộng sản Trung Quốc, trải qua cuộc Trường Chinh đầy gian khổ và cuối cùng giành được thắng lợi. Tác phẩm ca ngợi niềm tin lý tưởng kiên định, tinh thần cách mạng bất khuất của những người cộng sản Trung Quốc, tiêu biểu là đồng chí Mao Trạch Đông. Đồng thời, tác phẩm làm rõ nguyên nhân và logic lịch sử của quá trình hình thành, phát triển cách mạng Trung Quốc, cũng như khẳng định luận điểm sâu sắc rằng chủ nghĩa Mác chỉ có thể dẫn dắt cách mạng Trung Quốc giành thắng lợi khi được kết hợp với thực tiễn cụ thể của cách mạng Trung Quốc."
+    },
+    {
+        "name": "Thượng Công Chúa",
+        "year": 2026,
+        "slug": "thuong-cong-chua",
+        "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 35",
+        "total_episodes": "40",
+        "country": "Trung Quốc",
+        "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
+    },
+    {
         "name": "Quý Phi Được Nước Lấn Tới",
         "year": 2026,
         "slug": "quy-phi-duoc-nuoc-lan-toi",
@@ -60,18 +96,6 @@
         "description": "Thượng Hải năm 1936, nữ thợ may Mai Dữ Hòa sống dưới gấu váy của tầng lớp quyền quý. Sau cái chết kỳ lạ của em gái, cô đã tự tay mổ khám tử thi và bắt tay cùng gã đòi nợ thuê Đinh Triệu, xe chỉ luồn kim, vạch trần những sự thật đồi trụy của giới thượng lưu, xé toạc mạng lưới tình bẩn thỉu ẩn sau ánh đèn neon."
     },
     {
-        "name": "Cuộc Trường Chinh Vĩ Đại",
-        "year": 2026,
-        "slug": "cuoc-truong-chinh-vi-dai",
-        "thumb": "https://phimimg.com/uploads/movies/20261021/cuoc-truong-chinh-vi-dai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261021/cuoc-truong-chinh-vi-dai-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 55",
-        "total_episodes": "60",
-        "country": "Trung Quốc",
-        "description": "Lấy cuộc Trường Chinh của Hồng quân Trung ương làm tuyến truyện chủ đạo, tác phẩm tái hiện toàn diện tiến trình lịch sử từ sau thất bại của cuộc chống “vây quét” lần thứ năm, đến khi Phương Diện quân số 1, số 2, số 4 của Hồng quân và Quân đoàn số 25 lần lượt tiến hành chuyển dịch chiến lược dưới sự lãnh đạo của Trung ương Đảng Cộng sản Trung Quốc, trải qua cuộc Trường Chinh đầy gian khổ và cuối cùng giành được thắng lợi. Tác phẩm ca ngợi niềm tin lý tưởng kiên định, tinh thần cách mạng bất khuất của những người cộng sản Trung Quốc, tiêu biểu là đồng chí Mao Trạch Đông. Đồng thời, tác phẩm làm rõ nguyên nhân và logic lịch sử của quá trình hình thành, phát triển cách mạng Trung Quốc, cũng như khẳng định luận điểm sâu sắc rằng chủ nghĩa Mác chỉ có thể dẫn dắt cách mạng Trung Quốc giành thắng lợi khi được kết hợp với thực tiễn cụ thể của cách mạng Trung Quốc."
-    },
-    {
         "name": "Yêu Một Kẻ Ngốc",
         "year": 2026,
         "slug": "yeu-mot-ke-ngoc",
@@ -82,18 +106,6 @@
         "total_episodes": "20",
         "country": "Trung Quốc",
         "description": "Ing — người thừa kế vô cùng tự tin của Tập đoàn Araya — tình cờ gặp gỡ Yok, người thừa kế của một gia đình quý tộc lâu đời, thông qua Itt (em cùng cha khác mẹ của Ing và cũng là bạn của Yok). Lấy cớ bàn chuyện công việc, Ing liên tục tìm mọi cách để bước vào cuộc sống của Yok. Thế rồi, trong một đêm hỗn loạn chìm đắm trong men rượu, cả hai vượt qua giới hạn và trở nên thân mật, khiến tình cảm mà Yok dành cho Ing dần dần thay đổi. Khi tình yêu bắt đầu chớm nở giữa họ, Ing hoàn toàn không hề hay biết rằng bản thân đã bước vào một cái bẫy do chính Yok giăng sẵn."
-    },
-    {
-        "name": "Thượng Công Chúa",
-        "year": 2026,
-        "slug": "thuong-cong-chua",
-        "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 34",
-        "total_episodes": "40",
-        "country": "Trung Quốc",
-        "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
     },
     {
         "name": "Nhất Trảm Thương Khung",
@@ -118,18 +130,6 @@
         "total_episodes": "25",
         "country": "Trung Quốc",
         "description": "Hãy cùng đón xem hành trình thiếu niên chiêu hồn đối đầu trực diện với tà phái Cửu Cúc, liều mình bảo vệ chúng sinh Lam Hải trước nguy cơ sụp đổ ranh giới hai giới. Trong thế giới này, ý thức của muôn loài đều được cấu tạo từ các hạt vi mô. Thiếu niên Lâm Dã ở đảo Lam Hải bẩm sinh sở hữu thể chất \"chiêu hồn\" đặc biệt, được giới \"Du Hồn\" coi là \"khách sạn di động\", suốt ngày bị linh hồn nhập xác gây rối và phải bỏ chạy thục mạng. Sau khi tình cờ gặp gỡ Trần Quả — cô gái mang dị năng có khả năng thu phục \"Du Hồn\", Lâm Dã bước chân vào tổ chức siêu nhiên Học viện Hoa Tịnh, từ đó cuốn vào cuộc tranh đấu kéo dài hàng thế kỷ với tà phái \"Cửu Cúc Nhất Phái\" đến từ Đông Doanh. Trong hành trình này, cậu liên tục đối mặt với những âm mưu ly gián, hãm hại, và sự sụp đổ niềm tin. Cho đến khi cánh cổng ranh giới sắp mở ra, toàn thành phố rơi vào cảnh nguy vong, Lâm Dã đã dùng chấp niệm của một người bình thường để quyết đấu đến cùng với bản sao hoàn hảo của chính mình, dốc hết sức tàn bảo vệ Lam Hải. Tuy nhiên, ngay khi đại chiến khép lại và anh hùng ngã xuống, một âm mưu mới của Cửu Cúc Nhất Phái lại âm thầm lan rộng nơi sâu thẳm của dãy Côn Lôn..."
-    },
-    {
-        "name": "Gấp Ánh Trăng",
-        "year": 2026,
-        "slug": "gap-anh-trang",
-        "thumb": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 12",
-        "total_episodes": "27",
-        "country": "Trung Quốc",
-        "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học."
     },
     {
         "name": "Chuyện Cũ Miền Biên Ải",
