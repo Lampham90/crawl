@@ -1,5 +1,17 @@
 [
     {
+        "name": "Sử Thi Odyssey",
+        "year": 2026,
+        "slug": "su-thi-odyssey",
+        "thumb": "https://phimimg.com/uploads/movies/20260829/su-thi-odyssey-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260829/su-thi-odyssey-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Anh",
+        "description": "Câu chuyện theo chân Odysseus trong hành trình kéo dài 10 năm trở về nhà sau cuộc chiến thành Troy, nơi ông phải đối mặt với các vị thần, quái vật và vô vàn thử thách, đồng thời nỗ lực đoàn tụ với vợ và giành lại vương quốc của mình."
+    },
+    {
         "name": "Trái Tim Quái Thú",
         "year": 2026,
         "slug": "trai-tim-quai-thu",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Một tuyển tập kinh dị hỗn loạn theo phong cách băng VHS, nơi những đoạn phim kỳ quái, ghê rợn và đôi khi đen tối đến mức hài hước nối tiếp nhau như một cuộn băng bị nguyền rủa. Mỗi câu chuyện mở ra một cơn ác mộng khác, nhưng tất cả đều mang chung cảm giác méo mó, bẩn thỉu và không thể đoán trước."
-    },
-    {
-        "name": "Cá Voi Nuốt Chửng",
-        "year": 2026,
-        "slug": "ca-voi-nuot-chung",
-        "thumb": "https://phimimg.com/uploads/movies/20261018/ca-voi-nuot-chung-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261018/ca-voi-nuot-chung-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Một thợ lặn biển đang tìm kiếm hài cốt của người cha quá cố thì bị một con cá nhà táng dài 80 foot, nặng 60 tấn nuốt chửng, và chỉ còn 1 giờ để thoát ra trước khi cạn oxy. Sau khi gần như buông xuôi mạng sống, chàng trai trẻ bất ngờ tìm lại được lý do để tiếp tục sống ở nơi nguy hiểm và không tưởng nhất."
     }
 ]

@@ -1,5 +1,65 @@
 [
     {
+        "name": "Psyren",
+        "year": 2026,
+        "slug": "psyren",
+        "thumb": "https://phimimg.com/uploads/movies/20261006/psyren-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261006/psyren-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "13",
+        "country": "Nhật Bản",
+        "description": "Một ngày nọ, nam sinh trung học Ageha Yoshina vô tình nhặt được một chiếc thẻ điện thoại màu đỏ bí ẩn. Ít ngày sau, cô bạn thanh mai trúc mã của anh là Sakurako Amamiya — người cũng sở hữu chiếc thẻ tương tự — đột ngột mất tích. Trong lúc nỗ lực tìm kiếm cô, Ageha bị cuốn vào những lời đồn đại về hàng loạt vụ mất tích bí ẩn trên toàn quốc liên quan đến một tổ chức ngầm mang tên Psyren. Khi truy cập vào hệ thống của tổ chức này, một trò chơi sinh tử làm thay đổi hoàn toàn số phận của anh chính thức bắt đầu."
+    },
+    {
+        "name": "Dự Án Nuôi Dưỡng Cô Gái Phép Thuật: Khởi Động Lại",
+        "year": 2026,
+        "slug": "du-an-nuoi-duong-co-gai-phep-thuat-khoi-dong-lai",
+        "thumb": "https://phimimg.com/uploads/movies/20261008/du-an-nuoi-duong-co-gai-phep-thuat-khoi-dong-lai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261008/du-an-nuoi-duong-co-gai-phep-thuat-khoi-dong-lai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Một lần nữa, mười sáu Ma Pháp Thiếu Nữ lại được tập hợp cho một thử thách đầy rủi ro và chết chóc. Cứ sau mỗi ba ngày, chiếc Điện thoại Ma pháp sẽ kéo họ vào một thế giới mô phỏng mang phong cách trò chơi nhập vai (RPG), nơi họ phải hợp tác để chiến đấu với kẻ thù, giải các câu đố và thu thập Kẹo Ma Pháp để tiến lên phía trước. Phần thưởng khổng lồ trị giá 10 tỷ yên đang chờ đón họ ở cuối chặng đường — nhưng chỉ dành riêng cho những người chơi tung ra đòn kết liễu cuối cùng. Với một giải thưởng quá đỗi hấp dẫn như vậy, việc các cô gái quay sang tàn sát lẫn nhau chỉ còn là vấn đề thời gian — và nếu điểm máu (HP) của họ giảm về số 0, một màn \"Game Over\" sẽ là điều ít tồi tệ nhất mà họ phải lo lắng..."
+    },
+    {
+        "name": "Xin Chào, Tôi Là Một Phù Thủy, Và Người Tôi Thầm Yêu Muốn Tôi Pha Chế Một Loại Thuốc Tình Yêu!",
+        "year": 2026,
+        "slug": "xin-chao-toi-la-mot-phu-thuy-va-nguoi-toi-tham-yeu-muon-toi-pha-che-mot-loai-thuoc-tinh-yeu",
+        "thumb": "https://phimimg.com/uploads/movies/20261006/xin-chao-toi-la-mot-phu-thuy-va-nguoi-toi-tham-yeu-muon-toi-pha-che-mot-loai-thuoc-tinh-yeu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261006/xin-chao-toi-la-mot-phu-thuy-va-nguoi-toi-tham-yeu-muon-toi-pha-che-mot-loai-thuoc-tinh-yeu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Rose, một phù thủy cô đơn sống lặng lẽ bên hồ nước, bất ngờ nhận được lời nhờ vả từ chàng hiệp sĩ mà cô đơn phương thầm yêu: chế tạo một lọ thuốc tình yêu — dành cho một người phụ nữ khác. Dù vô cùng đau đớn và tan vỡ, cô vẫn không thể từ chối anh, thay vào đó cô trân trọng từng khoảnh khắc ngắn ngủi cùng anh đi thu thập các nguyên liệu. Và khi những ngày tháng êm đềm chậm rãi trôi qua, Rose nhận ra mình đang bám víu vào từng khoảnh khắc chung đôi, lo sợ ngày lọ thuốc tình yêu chính thức hoàn thành."
+    },
+    {
+        "name": "Devils' Crest",
+        "year": 2026,
+        "slug": "devils-crest",
+        "thumb": "https://phimimg.com/uploads/movies/20261110/devils-crest-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261110/devils-crest-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Yuma Ashihara đã sẵn sàng tận hưởng buổi chơi thử Actual Magic (AM) — VRMMO-RPG fulldive đầu tiên trên thế giới — cùng các bạn học Sawa Ashihara, Kenji Kondo và Minagi Sano. Kế hoạch rất đơn giản: đánh bại boss với đội bốn người, đăng xuất và kết thúc buổi chơi thử an toàn — hay ít nhất, mọi chuyện đáng lẽ phải diễn ra như vậy."
+    },
+    {
+        "name": "Thương Sắc Truyền Thừa",
+        "year": 2026,
+        "slug": "thuong-sac-truyen-thua",
+        "thumb": "https://phimimg.com/uploads/movies/20261007/thuong-sac-truyen-thua-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261007/thuong-sac-truyen-thua-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "13",
+        "country": "Nhật Bản",
+        "description": "Zabelle Sheran Sharm, Nữ hoàng xứ Bonta và là người canh giữ Trứng Rồng Đen (Ebony Dofus), luôn khao khát hợp nhất các quốc gia thuộc Thế Giới Mười Hai (World of Twelve). Tuy nhiên, sự trị vì bạo ngược cùng tham vọng quyền lực tột cùng của bà đã đẩy toàn bộ vùng đất vào cảnh lầm than. Một lời tiên tri do chính con trai bà là Shedar tuyên bố đã phán truyền về sự sụp đổ của Nữ hoàng, đồng thời báo trước rằng một cậu bé có đôi mắt màu xanh lam thăm thẳm sẽ chấm dứt triều đại tàn bạo này. Cậu bé đó chính là Welsh, một phụ bếp trẻ tuổi đến từ làng Brassica. Cuộc sống bình yên của Welsh hoàn toàn bị đảo lộn khi hắc long Asalar tấn công ngôi làng của cậu. Để cứu lấy thế giới, Welsh phải lên đường tìm kiếm Trứng Rồng Trắng (Ivory Dofus) — cổ vật duy nhất có đủ sức mạnh đánh bại Zabelle. Đồng hành cùng người bạn tri kỷ Béchamel và hai nhà phiêu lưu nổi tiếng Joris cùng Khan Karkass, Welsh dần khám phá ra thân thế thực sự của mình và chấp nhận sứ mệnh trở thành người anh hùng cứu thế. Họ phải cùng nhau đối mặt với những nguy hiểm khôn lường để giải thoát Thế Giới Mười Hai khỏi ách thống trị của Zabelle."
+    },
+    {
         "name": "Vùng Đất Xa Xăm",
         "year": 2026,
         "slug": "vung-dat-xa-xam",
@@ -298,65 +358,5 @@
         "total_episodes": "19",
         "country": "Nhật Bản",
         "description": "Khi Thần Hủy Diệt Beerus thức giấc để tìm kiếm một đối thủ xứng tầm, Goku cùng những người bạn của mình phải đối mặt với một trận chiến hoành tráng nhằm ngăn chặn hắn phá hủy Trái Đất. Đây là phiên bản được chỉnh sửa và tinh chỉnh lại từ series Dragon Ball Super."
-    },
-    {
-        "name": "Sự Trả Thù Của Dự Khuyết Thánh Nữ (Phần 2)",
-        "year": 2026,
-        "slug": "su-tra-thu-cua-du-khuyet-thanh-nu-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20261002/su-tra-thu-cua-du-khuyet-thanh-nu-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261002/su-tra-thu-cua-du-khuyet-thanh-nu-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "13",
-        "country": "Nhật Bản",
-        "description": "Lua là một ứng viên Thánh nữ sở hữu năng lực trị thương kỳ diệu. Tuy nhiên, khả năng của cô có một khuyết điểm lớn: cô chỉ có thể chữa lành cho người khác bằng cách chuyển toàn bộ vết thương của họ sang chính cơ thể mình. Vì điều này, cô bị mọi người bắt giạt, gọi là \"Thánh Nữ Sa Ngã\". Dù vậy, Lua không mấy bận tâm vì người bạn thân nhất của cô, Arianne, luôn đứng ra bảo vệ cô. Một ngày nọ, Garrett — vị chỉ huy mà Lua thầm thương — rơi vào cảnh cận kề cái chết do bị ma thú tấn công. Lua đã chữa lành cho anh, chấp nhận chịu đựng thương tàn khiến bản thân suýt chết. Thế nhưng khi tỉnh dậy, cô bàng hoàng phát hiện toàn bộ công trạng đã bị Arianne cướp mất, qua đó nhận ra bộ mặt thật độc ác của người bạn thân. Trong lúc tuyệt vọng và lạc lối, Nhị Hoàng tử bất ngờ xuất hiện trước mặt Lua cùng một lời đề nghị đầy cám dỗ. Điều gì sẽ chờ đón Lua khi cô bắt đầu cuộc sống mới với tư cách là một nữ phụ phản diện?"
-    },
-    {
-        "name": "Tái Sinh Làm Lính Đánh Thuê Vũ Trụ: Tôi Tỉnh Dậy Trong Buồng Lái Của Phi Thuyền Mạnh Nhất!",
-        "year": 2026,
-        "slug": "tai-sinh-lam-linh-danh-thue-vu-tru-toi-tinh-day-trong-buong-lai-cua-phi-thuyen-manh-nhat",
-        "thumb": "https://phimimg.com/uploads/movies/20261030/tai-sinh-lam-linh-danh-thue-vu-tru-toi-tinh-day-trong-buong-lai-cua-phi-thuyen-manh-nhat-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261030/tai-sinh-lam-linh-danh-thue-vu-tru-toi-tinh-day-trong-buong-lai-cua-phi-thuyen-manh-nhat-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "13",
-        "country": "Nhật Bản",
-        "description": "Khi nhân viên văn phòng Takahiro Satou tỉnh dậy bên trong trò chơi khoa học viễn tưởng yêu thích của mình, anh thấy mình đang chỉ huy một con tàu vũ trụ hùng mạnh. Anh bước ra vũ trụ với tư cách Hiro — lính đánh thuê, chiến đấu với kẻ thù và thu thập đồng minh trên đường đi. Nhưng anh sớm gặp một vấn đề lớn: anh không có nhà, và quan trọng hơn — không có đồ uống có ga! Chỉ còn một cách… mua cho mình một ngôi nhà trên hành tinh!"
-    },
-    {
-        "name": "Bảy Hiệp Sĩ Của Vương Quốc Marronnier",
-        "year": 2026,
-        "slug": "bay-hiep-si-cua-vuong-quoc-marronnier",
-        "thumb": "https://phimimg.com/uploads/movies/20261007/bay-hiep-si-cua-vuong-quoc-marronnier-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261007/bay-hiep-si-cua-vuong-quoc-marronnier-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "24",
-        "country": "Nhật Bản",
-        "description": "Nằm tại trung tâm của một lục địa gồm tám vương quốc là Vương quốc Marronnier. Nữ tướng Baribara của vương quốc có bảy người con trai, mỗi người đều sở hữu một tài năng thiên bẩm độc đáo và đang đảm nhận vị trí đoàn trưởng hiệp sĩ. Cùng chung một mục tiêu cao quí là giải cứu công chúa một cách anh hùng vào một ngày nào đó, bảy anh em lên đường đến bảy vương quốc láng giềng với vai trò là sứ giả hòa bình. Những cuộc gặp gỡ, thử thách và định mệnh nào đang chờ đón họ ở những vùng đất xa lạ này?"
-    },
-    {
-        "name": "Pháp Sư Băng Kiếm / Pháp Sư Băng Kiếm Sẽ Thống Trị Thế Giới (Phần 2)",
-        "year": 2026,
-        "slug": "phap-su-bang-kiem-phap-su-bang-kiem-se-thong-tri-the-gioi-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20261009/phap-su-bang-kiem-phap-su-bang-kiem-se-thong-tri-the-gioi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261009/phap-su-bang-kiem-phap-su-bang-kiem-se-thong-tri-the-gioi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "24",
-        "country": "Nhật Bản",
-        "description": "Mọi người đều biết về người lính mạnh nhất, Magician Iceblade, Ray White. Sau khi vượt qua một cuộc chiến đẫm máu, Ray đăng ký vào Học viện Arnold, sẵn sàng trải nghiệm một cuộc sống bình thường—một điều xa xỉ mà anh chưa từng có. Để đạt được mục tiêu này, anh ta giữ bí mật danh tính của mình là Pháp sư Băng kiếm. Mặc dù bị tẩy chay vì là thường dân, Ray kết bạn với Amelia Rose kiêu hãnh nhưng tốt bụng, Evy Armstrong cơ bắp và Elisa nhút nhát và mọt sách. Tuy nhiên, Ray được giao nhiệm vụ săn lùng một điệp viên có động cơ vẫn chưa rõ ràng..."
-    },
-    {
-        "name": "Tetsuryo! Gặp Gỡ Tetsudo Musume",
-        "year": 2026,
-        "slug": "tetsuryo-gap-go-tetsudo-musume",
-        "thumb": "https://phimimg.com/uploads/movies/20261010/tetsuryo-gap-go-tetsudo-musume-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261010/tetsuryo-gap-go-tetsudo-musume-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "12",
-        "country": "Nhật Bản",
-        "description": "Misaki luôn khao khát thoát khỏi nhịp sống tẻ nhạt thường ngày để bắt đầu một hành trình đến một nơi xa. Dù chưa biết tương lai mình sẽ trở thành ai, Misaki biết chắc một điều: cô muốn tìm thấy một niềm đam mê thực sự của đời mình. Ngay sau khi bước chân vào cánh cổng đại học, cô đã vô tình gặp gỡ các thành viên của Câu lạc bộ Du lịch Đường sắt. Giờ đây, trái tim Misaki đang rộn ràng đập những nhịp đập háo hức trước một thế giới hoàn toàn mới đang rộng mở trên những đường ray."
     }
 ]

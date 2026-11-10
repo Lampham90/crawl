@@ -1,5 +1,29 @@
 [
     {
+        "name": "Ngọc Nữ Báo Thù",
+        "year": 2026,
+        "slug": "ngoc-nu-bao-thu",
+        "thumb": "https://phimimg.com/uploads/movies/20261110/ngoc-nu-bao-thu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261110/ngoc-nu-bao-thu-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 5",
+        "total_episodes": "16",
+        "country": "Thái Lan",
+        "description": "Munin bàng hoàng phát hiện thi thể chị gái sinh đôi Mutta, người bị sát hại sau khi tố cáo Nopnapha, vợ Bộ trưởng Giáo dục, đứng sau âm mưu giết mình. Quyết tâm tìm ra sự thật và báo thù, Munin giả danh chị gái, trở lại Bộ và sử dụng tài năng IT để lần theo dấu vết hung thủ. Cuộc chiến quyền lực ngày càng khốc liệt khi Munin liên tiếp tung ra những scandal nhằm vạch trần đối thủ, còn Nopnapha không ngừng phản công bằng thế lực của mình. Đỉnh điểm là lễ cưới của Jenphop và Mutta giả, nơi sự xuất hiện bất ngờ của Munin làm đảo lộn tất cả, phơi bày bí mật kinh hoàng đằng sau cái chết của Mutta. Khi sự thật dần hé lộ, Munin phải đối mặt với lựa chọn nghiệt ngã giữa thù hận và danh tính thật sự, bởi bí mật về hai chị em sinh đôi còn tàn khốc hơn cô tưởng."
+    },
+    {
+        "name": "Sử Thi Odyssey",
+        "year": 2026,
+        "slug": "su-thi-odyssey",
+        "thumb": "https://phimimg.com/uploads/movies/20260829/su-thi-odyssey-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260829/su-thi-odyssey-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Anh",
+        "description": "Câu chuyện theo chân Odysseus trong hành trình kéo dài 10 năm trở về nhà sau cuộc chiến thành Troy, nơi ông phải đối mặt với các vị thần, quái vật và vô vàn thử thách, đồng thời nỗ lực đoàn tụ với vợ và giành lại vương quốc của mình."
+    },
+    {
         "name": "Thượng Công Chúa",
         "year": 2026,
         "slug": "thuong-cong-chua",
@@ -334,29 +358,5 @@
         "total_episodes": "14",
         "country": "Hàn Quốc",
         "description": "Sau Season 1, Yi-soo đã thực sự nhận ra mình muốn trở thành một cảnh sát, chứ không còn xem công việc này như trò chơi của một thiếu gia. Anh hoàn thành khóa đào tạo chính thức tại Học viện Cảnh sát, sau đó quay trở lại Đội Trọng án 1. Lần này, Yi-soo đã trưởng thành và chuyên nghiệp hơn, nhưng vẫn giữ phong cách điều tra rất đặc biệt: khi cảnh sát gặp bế tắc, anh có thể dùng tiền bạc, các mối quan hệ và nguồn lực khổng lồ của gia đình tài phiệt để mở ra những hướng điều tra mà người bình thường không thể tiếp cận."
-    },
-    {
-        "name": "Một Bộ Phim Minecraft",
-        "year": 2025,
-        "slug": "mot-bo-phim-minecraft",
-        "thumb": "https://phimimg.com/upload/vod/20250513-1/7c40c5e1c5f88fdff52d54b03d084497.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250508-1/d43ada4cb5f9a1dbdb9d614406726a53.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Thụy Điển",
-        "description": "Chào mừng bạn đến với thế giới của Minecraft, nơi sự sáng tạo không chỉ giúp bạn chế tạo mà còn là yếu tố quan trọng để sống sót! Bốn kẻ lạc lõng - Garrett “The Garbage Man” Garrison (Momoa), Henry (Hansen), Natalie (Myers) và Dawn (Brooks) - bất ngờ gặp rắc rối khi họ bị kéo qua cánh cửa bí ẩn dẫn đến Overworld: một thế giới kỳ lạ được tạo bởi những khối lập phương và phát triển nhờ vào trí tưởng tượng. Để trở về nhà, họ cần phải làm chủ được thế giới này (và bảo vệ nó khỏi những thực thể tà ác như Piglins và Thây Ma) trong khi dấn thân vào chuyến phiêu lưu màu nhiệm với một thợ chế tạo chuyên nghiệp và khó lường - Steve (Black). Chuyến hành trình này sẽ thách thức sự can đảm của cả năm người, thúc đẩy họ tìm lại với những phẩm chất làm nên sự đặc biệt của riêng mình,… đồng thời là những kỹ năng cần thiết để trở lại với thế giới thật."
-    },
-    {
-        "name": "Vân Tú Hành",
-        "year": 2026,
-        "slug": "van-tu-hanh",
-        "thumb": "https://phimimg.com/upload/vod/20260620-1/00083387b890aaac69f0490b3fda8c13.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260620-1/6b7cf552ac9b66e18a5382c922d2bd0d.jpg",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (36/36)",
-        "total_episodes": "36",
-        "country": "Trung Quốc",
-        "description": "&quot;Vân Tú Hành&quot; là một bộ phim cổ trang do Chu Thiếu Kiệt (Chúc Khanh Hảo) đạo diễn, Lý Nhất Đồng (Cuồng Tiêu), Tăng Thuấn Hy (Liên Hoa Lâu), Đặng Vi (Tiêu Sái Giai Nhân Đạm Đạm Trang&quot;) đóng vai chính. Cửu Thành trong truyền thuyết có một vị tiểu thư nghèo xuất thân danh môn Phạm Vân (Lý Nhất Đồng thủ vai) và một vị thành chủ Tề Tranh (Tăng Thuấn Hy thủ vai). Họ từ việc thử thách đối phương cho đến sự tin tưởng lẫn nhau, hai người cùng nhau vượt qua khó khăn để phục vụ nhân dân, cuối cùng họ có được cả tình bằng hữu và tình yêu; Phạm Vân cũng giúp Tề Tranh bình thiên hạ, phá bỏ lễ giáo cũ và giải quyết khủng hoảng ở Cửu Thành, cùng nhau xây dựng một Cửu Thành phồn thịnh."
     }
 ]

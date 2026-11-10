@@ -1,5 +1,53 @@
 [
     {
+        "name": "Ngọc Nữ Báo Thù",
+        "year": 2026,
+        "slug": "ngoc-nu-bao-thu",
+        "thumb": "https://phimimg.com/uploads/movies/20261110/ngoc-nu-bao-thu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261110/ngoc-nu-bao-thu-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 5",
+        "total_episodes": "16",
+        "country": "Thái Lan",
+        "description": "Munin bàng hoàng phát hiện thi thể chị gái sinh đôi Mutta, người bị sát hại sau khi tố cáo Nopnapha, vợ Bộ trưởng Giáo dục, đứng sau âm mưu giết mình. Quyết tâm tìm ra sự thật và báo thù, Munin giả danh chị gái, trở lại Bộ và sử dụng tài năng IT để lần theo dấu vết hung thủ. Cuộc chiến quyền lực ngày càng khốc liệt khi Munin liên tiếp tung ra những scandal nhằm vạch trần đối thủ, còn Nopnapha không ngừng phản công bằng thế lực của mình. Đỉnh điểm là lễ cưới của Jenphop và Mutta giả, nơi sự xuất hiện bất ngờ của Munin làm đảo lộn tất cả, phơi bày bí mật kinh hoàng đằng sau cái chết của Mutta. Khi sự thật dần hé lộ, Munin phải đối mặt với lựa chọn nghiệt ngã giữa thù hận và danh tính thật sự, bởi bí mật về hai chị em sinh đôi còn tàn khốc hơn cô tưởng."
+    },
+    {
+        "name": "Phía Sau Dối Trá",
+        "year": 2026,
+        "slug": "phia-sau-doi-tra",
+        "thumb": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 10",
+        "total_episodes": "16",
+        "country": "Thái Lan",
+        "description": "Thân như anh em ruột dù chẳng phải máu mủ, Rawee và Phakorn bị tình yêu cùng sự dối trá chia cắt. Khi Phakorn ngã bệnh, Rawee hy sinh tất cả – và phải trả một cái giá quá đắt."
+    },
+    {
+        "name": "Bùa Ngải Trói Buộc / Trấn Yểm",
+        "year": 2026,
+        "slug": "bua-ngai-troi-buoc-tran-yem",
+        "thumb": "https://phimimg.com/uploads/movies/20260907/khom-khlang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260907/khom-khlang-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (10/10)",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Một nữ cảnh sát Bangkok bản tính đa nghi đang ráo riết truy lùng một tên trùm buôn người có năng lực kháng đạn. Cô lặn lội đến vùng Phop Phra, tỉnh Tak để tìm một vị cao nhân nhờ rèn những viên đạn yểm phép. Thế nhưng khi đến nơi, cô phát hiện ra người mình cất công tìm kiếm lại chính là mối duyên tiền định - người đã dành trọn cả cuộc đời chỉ để chờ đợi ngày được đoàn tụ cùng tình yêu đích thực."
+    },
+    {
+        "name": "Hương Tình Miền Quê",
+        "year": 2026,
+        "slug": "huong-tinh-mien-que",
+        "thumb": "https://phimimg.com/uploads/movies/20261106/huong-tinh-mien-que-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261023/huong-tinh-mien-que-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 10",
+        "total_episodes": "26",
+        "country": "Thái Lan",
+        "description": "Gánh khoản nợ sau khi cha mất, Auemdao đành bán đôi trâu yêu quý của gia đình, rồi cùng một chàng trai nuôi trâu cuốn hút tìm cách mua lại chúng."
+    },
+    {
         "name": "Giáo Trình Tình Yêu Bắt Buộc",
         "year": 2026,
         "slug": "giao-trinh-tinh-yeu-bat-buoc",
@@ -108,18 +156,6 @@
         "description": "Thất vọng với hệ thống, một cựu quân nhân tinh nhuệ trở thành sát thủ. Nhưng một nhiệm vụ mới bất ngờ đẩy người y tá chăm sóc bà của anh vào nguy hiểm."
     },
     {
-        "name": "Hương Tình Miền Quê",
-        "year": 2026,
-        "slug": "huong-tinh-mien-que",
-        "thumb": "https://phimimg.com/uploads/movies/20261106/huong-tinh-mien-que-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261023/huong-tinh-mien-que-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "26",
-        "country": "Thái Lan",
-        "description": "Gánh khoản nợ sau khi cha mất, Auemdao đành bán đôi trâu yêu quý của gia đình, rồi cùng một chàng trai nuôi trâu cuốn hút tìm cách mua lại chúng."
-    },
-    {
         "name": "Dịch Vụ Chia Tay Thuê",
         "year": 2026,
         "slug": "dich-vu-chia-tay-thue",
@@ -192,18 +228,6 @@
         "description": "Khi kiến trúc sư tài năng như \"Soul\" phải chạm trán với thầy phong thủy đối thủ chuyên gây rắc rối như \"Xin Xin\". Một người tin vào nguyên tắc, người kia lại tin vào phong thủy. Nghề nghiệp và niềm tin của họ hoàn toàn trái ngược, nhưng định mệnh lại đưa đẩy khiến cả hai phải làm việc cùng nhau. Liệu những bất đồng sẽ dần “gây dựng” nên một mối quan hệ, hay những xáo trộn trong trái tim sẽ dần “gây dựng tình yêu”?"
     },
     {
-        "name": "Phía Sau Dối Trá",
-        "year": 2026,
-        "slug": "phia-sau-doi-tra",
-        "thumb": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "16",
-        "country": "Thái Lan",
-        "description": "Thân như anh em ruột dù chẳng phải máu mủ, Rawee và Phakorn bị tình yêu cùng sự dối trá chia cắt. Khi Phakorn ngã bệnh, Rawee hy sinh tất cả – và phải trả một cái giá quá đắt."
-    },
-    {
         "name": "Chiếc Nhẫn Tri Kỷ",
         "year": 2026,
         "slug": "chiec-nhan-tri-ky",
@@ -226,18 +250,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Cô con gái ông chủ sân golf mang trong mình giấc mơ thời trang bất ngờ được gọi về để tiếp quản việc kinh doanh của gia đình. Khởi đầu hoàn toàn mới này đã tạo cơ hội cho cô gặp gỡ một nữ vận động viên golf chuyên nghiệp. Sự xuất hiện của cô ấy đã âm thầm thay đổi cách cô nhìn nhận về cuộc đời, ước mơ và chính bản thân mình. Từ đó, một mối quan hệ ngoài dự liệu dần nảy nở từ sàn diễn thời trang đến sân golf."
-    },
-    {
-        "name": "Bùa Ngải Trói Buộc / Trấn Yểm",
-        "year": 2026,
-        "slug": "bua-ngai-troi-buoc-tran-yem",
-        "thumb": "https://phimimg.com/uploads/movies/20260907/khom-khlang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260907/khom-khlang-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 9",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Một nữ cảnh sát Bangkok bản tính đa nghi đang ráo riết truy lùng một tên trùm buôn người có năng lực kháng đạn. Cô lặn lội đến vùng Phop Phra, tỉnh Tak để tìm một vị cao nhân nhờ rèn những viên đạn yểm phép. Thế nhưng khi đến nơi, cô phát hiện ra người mình cất công tìm kiếm lại chính là mối duyên tiền định - người đã dành trọn cả cuộc đời chỉ để chờ đợi ngày được đoàn tụ cùng tình yêu đích thực."
     },
     {
         "name": "Yêu Nhầm Cảnh Sát / Thanh Tra Theer Yêu Dấu / Vợ Sắp Cưới Của Thanh Tra",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
-    },
-    {
-        "name": "Bóng Dưới Trăng",
-        "year": 2026,
-        "slug": "bong-duoi-trang",
-        "thumb": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260813/bong-duoi-trang-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Một thỏa thuận không giống ai sau tình một đêm dần phát triển thành tình yêu chân thành giữa hai người phụ nữ. Thế nhưng, mối quan hệ của họ gặp phải thử thách lớn khi mối tình đầu của một trong hai người bất ngờ quay trở lại."
     }
 ]
