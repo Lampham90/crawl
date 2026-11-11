@@ -1,5 +1,17 @@
 [
     {
+        "name": "The Rules",
+        "year": 2026,
+        "slug": "the-rules",
+        "thumb": "https://phimimg.com/uploads/movies/20261112/the-rules-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261112/the-rules-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Metha, một người đàn ông bị ám ảnh bởi quá khứ chôn vùi, cố gắng bắt đầu lại cuộc sống bằng cách nhận công việc ca đêm tại một cửa hàng tiện lợi bí ẩn. Tuy nhiên, cửa hàng này hoạt động theo một bộ quy tắc kỳ lạ, bất khả xâm phạm—những quy tắc mà khi bị phá vỡ sẽ giải phóng cái chết siêu nhiên. Đêm này qua đêm khác, Metha buộc phải đối mặt với những thế lực kỳ dị bên trong cửa hàng… và những tội lỗi mà anh ta từng phạm phải, những tội lỗi không thể trốn thoát."
+    },
+    {
         "name": "Phía Sau Dối Trá",
         "year": 2026,
         "slug": "phia-sau-doi-tra",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Thái Lan",
         "description": "Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi Kat vô tình quay được cảnh ông trùm Tongyang giết người, cả gia đình cô rơi vào cảnh nhà tan cửa nát. Được cứu sống nhờ sự hy sinh cuối cùng của mẹ, Kat biến mất khỏi thế giới và trở lại với thân phận mới là Hatta. Mang trong mình mối hận khôn nguôi, Hatta dùng Liệu Pháp Chết Người để làm vũ khí trả thù, âm thầm chờ đến ngày sự thật được phơi bày."
-    },
-    {
-        "name": "NOUR",
-        "year": 2026,
-        "slug": "nour",
-        "thumb": "https://phimimg.com/uploads/movies/20260826/nour-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260826/nour-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Giữa thành phố chìm trong sương mù, hàng loạt vụ phóng hỏa bí ẩn dần hé lộ những bí mật bị chôn vùi suốt nhiều thập kỷ. Trong quá trình điều tra, cảnh sát James và Ken cùng bác sĩ pháp y Jirat và trợ lý Chita phát hiện các vụ án có liên quan đến một lời nguyền truyền qua nhiều thế hệ."
     }
 ]
