@@ -1275,6 +1275,30 @@
     ],
     "bo_han": [
         {
+            "name": "Hoàng Hậu Tái Hôn",
+            "year": 2026,
+            "slug": "hoang-hau-tai-hon",
+            "thumb": "https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Hoàng hậu Navier là người đứng đầu hoàn hảo của Đông Đế Quốc, cai trị đất nước cùng chồng là Hoàng đế Sovieshu. Tuy nhiên, cuộc sống và ngai vị của cô đảo lộn khi Sovieshu mang về cô hầu gái trốn chạy tên Rashta và sủng ái cô ta đến mức đòi ly hôn Navier. Thay vì gục ngã hay bi lụy, Navier đồng ý ly hôn với một điều kiện: cô được phép tái hôn với Hoàng tử Heinrey quyền lực của Tây Vương Quốc, từ đó bắt đầu hành động lật ngược thế cờ và làm chủ vận mệnh mới của mình."
+        },
+        {
+            "name": "Chuyến Đi Chữa Lành",
+            "year": 2026,
+            "slug": "chuyen-di-chua-lanh",
+            "thumb": "https://phimimg.com/uploads/movies/20261029/chuyen-di-chua-lanh-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261029/chuyen-di-chua-lanh-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 6",
+            "total_episodes": "10",
+            "country": "Hàn Quốc",
+            "description": "Kim Ha Yeon là một cô gái 18 tuổi bình thường, luôn mơ mộng về một cuộc đời đầy kịch tính như những gì cô thấy trên màn ảnh. Cuộc đời cô bước sang một ngã rẽ kỳ diệu và đầy bất ngờ khi cô đến ngôi làng đồng quê xa lạ Upo-ri để nghỉ hè. Tại đây, cô tình cờ gặp Jo Yu Gyeom, người thừa kế của một gia đình quý tộc truyền thống, và bạn gái của anh, Sae Ryeong. Dù sở hữu vẻ ngoài cuốn hút cùng tài năng bơi lội thiên bẩm, anh lại sống một cuộc đời tẻ nhạt, bị kìm hãm bởi những quy củ lỗi thời và nhịp sống lặp đi lặp lại. Khi hai con người trái ngược ấy gặp nhau giữa vẻ đẹp tĩnh lặng của Upo-ri, thế giới của họ va vào nhau, thắp lên một sự thay đổi trong cuộc sống thường nhật và mở đầu cho một mùa hè có một không hai trong đời."
+        },
+        {
             "name": "Tình Yêu Trong Vỏ Bọc / Tình Yêu Ngụy Trang",
             "year": 2026,
             "slug": "tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang",
@@ -1321,18 +1345,6 @@
             "total_episodes": "12",
             "country": "Hàn Quốc",
             "description": "Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ hãi vì bị bám đuôi. Khi trở thành quản lý của anh, Yu Il phát hiện cuốn tiểu thuyết mình từng viết chính là ánh sáng đã nâng đỡ Mu I trong những ngày tăm tối. Từ những tổn thương giấu kín, hai trái tim dần tìm thấy nhau, viết nên một tình yêu vừa mong manh, vừa duy nhất."
-        },
-        {
-            "name": "Chuyến Đi Chữa Lành",
-            "year": 2026,
-            "slug": "chuyen-di-chua-lanh",
-            "thumb": "https://phimimg.com/uploads/movies/20261029/chuyen-di-chua-lanh-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261029/chuyen-di-chua-lanh-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 5",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Kim Ha Yeon là một cô gái 18 tuổi bình thường, luôn mơ mộng về một cuộc đời đầy kịch tính như những gì cô thấy trên màn ảnh. Cuộc đời cô bước sang một ngã rẽ kỳ diệu và đầy bất ngờ khi cô đến ngôi làng đồng quê xa lạ Upo-ri để nghỉ hè. Tại đây, cô tình cờ gặp Jo Yu Gyeom, người thừa kế của một gia đình quý tộc truyền thống, và bạn gái của anh, Sae Ryeong. Dù sở hữu vẻ ngoài cuốn hút cùng tài năng bơi lội thiên bẩm, anh lại sống một cuộc đời tẻ nhạt, bị kìm hãm bởi những quy củ lỗi thời và nhịp sống lặp đi lặp lại. Khi hai con người trái ngược ấy gặp nhau giữa vẻ đẹp tĩnh lặng của Upo-ri, thế giới của họ va vào nhau, thắp lên một sự thay đổi trong cuộc sống thường nhật và mở đầu cho một mùa hè có một không hai trong đời."
         },
         {
             "name": "Giác Quan Thứ Sáu: Mặt Trái",
@@ -1441,18 +1453,6 @@
             "total_episodes": "10",
             "country": "Hàn Quốc",
             "description": "Một nhân viên tiếp thị mang quan niệm truyền thống về tình yêu và hôn nhân nay phải chật vật tìm tiếng nói chung khi vướng vào mối quan hệ với vị CEO của một công ty sản xuất đồ chơi người lớn — người sở hữu những hệ giá trị hoàn toàn trái ngược."
-        },
-        {
-            "name": "Hoàng Hậu Tái Hôn",
-            "year": 2026,
-            "slug": "hoang-hau-tai-hon",
-            "thumb": "https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 4",
-            "total_episodes": "10",
-            "country": "Hàn Quốc",
-            "description": "Hoàng hậu Navier là người đứng đầu hoàn hảo của Đông Đế Quốc, cai trị đất nước cùng chồng là Hoàng đế Sovieshu. Tuy nhiên, cuộc sống và ngai vị của cô đảo lộn khi Sovieshu mang về cô hầu gái trốn chạy tên Rashta và sủng ái cô ta đến mức đòi ly hôn Navier. Thay vì gục ngã hay bi lụy, Navier đồng ý ly hôn với một điều kiện: cô được phép tái hôn với Hoàng tử Heinrey quyền lực của Tây Vương Quốc, từ đó bắt đầu hành động lật ngược thế cờ và làm chủ vận mệnh mới của mình."
         }
     ],
     "le_trung": [
@@ -1639,6 +1639,18 @@
     ],
     "bo_trung": [
         {
+            "name": "Chuyện Cũ Miền Biên Ải",
+            "year": 2026,
+            "slug": "chuyen-cu-mien-bien-ai",
+            "thumb": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 18",
+            "total_episodes": "24",
+            "country": "Trung Quốc",
+            "description": "Vào cuối thập niên 1970, chàng thanh niên vùng Tùng Liêu tên Lưu Hải Trụ vì ra tay nghĩa hiệp mà bị cuốn vào những cuộc phân tranh chốn giang hồ, từ đó kết nên tình nghĩa sinh tử với Đông Bá Thiên. Giữa những biến động của thời cuộc, từ một người công nhân bình thường rơi vào vòng xoáy giang hồ, anh đã trải qua tình bằng hữu, yêu hận đan xen cùng những lựa chọn giằng xé về nhân tính, để rồi cuối cùng hoàn thành hành trình trưởng thành và tự cứu rỗi bản thân giữa vùng đất đen băng tuyết."
+        },
+        {
             "name": "Gả Kim Thoa / Gả trâm vàng",
             "year": 2026,
             "slug": "ga-kim-thoa-ga-tram-vang",
@@ -1649,18 +1661,6 @@
             "total_episodes": "30",
             "country": "Trung Quốc",
             "description": "A Sửu vốn là thiếu nữ đổ phân ban đêm trên phố có thân phận thấp hèn, bị mọi người chà đạp và bắt nạt. Chỉ vì có khuôn mặt giống hệt tiểu thư Ngụy Nhiêu của Hầu Phủ, cô bất ngờ trở thành tân nương xung hỷ cho thế tử Lục Trạc của Quốc Công Phủ. A Sửu ôm đầy tham vọng, một lòng tranh thủ cơ hội để leo cao, nhưng phu quân mới cưới đang gần đất xa trời đột nhiên tỉnh lại, âm mưu tu hú chiếm tổ dẫn đến nhiều tai họa liên tiếp. Ngụy Nhiêu hận cô chiếm chỗ của mình, nôn nóng muốn trừ khử cô; Lục Trạc coi cô là người phụ nữ độc địa, tìm mọi cách phòng bị trước các toan tính. Quốc Công Phủ bề ngoài trông hòa thuận êm ấm, thực ra đầy rẫy cạm bẫy, nguy hiểm bủa vây. A Sửu nỗ lực xoay sở giữa cơn sóng ngầm, mưu tính con đường phía trước, vùng vẫy thoát khỏi xiềng xích của số phận, hơn nữa còn điều tra ra bí mật về thân thế của mình, cuối cùng cũng được đoàn tụ với người thân yêu nhất, đang từ cô gái đổ phân thấp hèn lội ngược dòng vươn lên cao, sống cuộc đời gấm hoa rực rỡ."
-        },
-        {
-            "name": "Chuyện Cũ Miền Biên Ải",
-            "year": 2026,
-            "slug": "chuyen-cu-mien-bien-ai",
-            "thumb": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 16",
-            "total_episodes": "24",
-            "country": "Trung Quốc",
-            "description": "Vào cuối thập niên 1970, chàng thanh niên vùng Tùng Liêu tên Lưu Hải Trụ vì ra tay nghĩa hiệp mà bị cuốn vào những cuộc phân tranh chốn giang hồ, từ đó kết nên tình nghĩa sinh tử với Đông Bá Thiên. Giữa những biến động của thời cuộc, từ một người công nhân bình thường rơi vào vòng xoáy giang hồ, anh đã trải qua tình bằng hữu, yêu hận đan xen cùng những lựa chọn giằng xé về nhân tính, để rồi cuối cùng hoàn thành hành trình trưởng thành và tự cứu rỗi bản thân giữa vùng đất đen băng tuyết."
         },
         {
             "name": "Cuộc Chiến Hoa Hồng",
@@ -2925,28 +2925,28 @@
             "description": "Một phiên bản Resident Evil mới trở lại đầy kịch tính và kinh hoàng từ bộ óc quái kiệt của đạo diễn Zach Cregger đứng sau “Weapons” & “Barbarian”."
         },
         {
-            "name": "Gả Kim Thoa / Gả trâm vàng",
+            "name": "Chuyện Cũ Miền Biên Ải",
             "year": 2026,
-            "slug": "ga-kim-thoa-ga-tram-vang",
-            "thumb": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-poster.webp",
-            "sub_type": "Thuyết Minh",
-            "current_episode": "Hoàn Tất (30/30)",
-            "total_episodes": "30",
+            "slug": "chuyen-cu-mien-bien-ai",
+            "thumb": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-poster.webp",
+            "sub_type": "Vietsub",
+            "current_episode": "Tập 18",
+            "total_episodes": "24",
             "country": "Trung Quốc",
-            "description": "A Sửu vốn là thiếu nữ đổ phân ban đêm trên phố có thân phận thấp hèn, bị mọi người chà đạp và bắt nạt. Chỉ vì có khuôn mặt giống hệt tiểu thư Ngụy Nhiêu của Hầu Phủ, cô bất ngờ trở thành tân nương xung hỷ cho thế tử Lục Trạc của Quốc Công Phủ. A Sửu ôm đầy tham vọng, một lòng tranh thủ cơ hội để leo cao, nhưng phu quân mới cưới đang gần đất xa trời đột nhiên tỉnh lại, âm mưu tu hú chiếm tổ dẫn đến nhiều tai họa liên tiếp. Ngụy Nhiêu hận cô chiếm chỗ của mình, nôn nóng muốn trừ khử cô; Lục Trạc coi cô là người phụ nữ độc địa, tìm mọi cách phòng bị trước các toan tính. Quốc Công Phủ bề ngoài trông hòa thuận êm ấm, thực ra đầy rẫy cạm bẫy, nguy hiểm bủa vây. A Sửu nỗ lực xoay sở giữa cơn sóng ngầm, mưu tính con đường phía trước, vùng vẫy thoát khỏi xiềng xích của số phận, hơn nữa còn điều tra ra bí mật về thân thế của mình, cuối cùng cũng được đoàn tụ với người thân yêu nhất, đang từ cô gái đổ phân thấp hèn lội ngược dòng vươn lên cao, sống cuộc đời gấm hoa rực rỡ."
+            "description": "Vào cuối thập niên 1970, chàng thanh niên vùng Tùng Liêu tên Lưu Hải Trụ vì ra tay nghĩa hiệp mà bị cuốn vào những cuộc phân tranh chốn giang hồ, từ đó kết nên tình nghĩa sinh tử với Đông Bá Thiên. Giữa những biến động của thời cuộc, từ một người công nhân bình thường rơi vào vòng xoáy giang hồ, anh đã trải qua tình bằng hữu, yêu hận đan xen cùng những lựa chọn giằng xé về nhân tính, để rồi cuối cùng hoàn thành hành trình trưởng thành và tự cứu rỗi bản thân giữa vùng đất đen băng tuyết."
         },
         {
-            "name": "Tình Yêu Trong Vỏ Bọc / Tình Yêu Ngụy Trang",
+            "name": "Hoàng Hậu Tái Hôn",
             "year": 2026,
-            "slug": "tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang",
-            "thumb": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-poster.webp",
+            "slug": "hoang-hau-tai-hon",
+            "thumb": "https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 8",
-            "total_episodes": "12",
+            "current_episode": "Tập 6",
+            "total_episodes": "10",
             "country": "Hàn Quốc",
-            "description": "Tình Yêu Trong Vỏ Bọc (Love in Disguise) là một bộ phim truyền hình hài lãng mạn công sở của Hàn Quốc, với sự tham gia của các diễn viên Yim Si-wan, Seol In-ah, Kim Jung-hyun và Yeonwoo. Dựa trên tiểu thuyết mạng \"Tại Sao Bạn Không Biết Đó Là Con Gái?\""
+            "description": "Hoàng hậu Navier là người đứng đầu hoàn hảo của Đông Đế Quốc, cai trị đất nước cùng chồng là Hoàng đế Sovieshu. Tuy nhiên, cuộc sống và ngai vị của cô đảo lộn khi Sovieshu mang về cô hầu gái trốn chạy tên Rashta và sủng ái cô ta đến mức đòi ly hôn Navier. Thay vì gục ngã hay bi lụy, Navier đồng ý ly hôn với một điều kiện: cô được phép tái hôn với Hoàng tử Heinrey quyền lực của Tây Vương Quốc, từ đó bắt đầu hành động lật ngược thế cờ và làm chủ vận mệnh mới của mình."
         },
         {
             "name": "Hòn Đảo Quên Lãng",
@@ -2985,28 +2985,28 @@
             "description": "Phí Phông, loài quỷ khát máu trong truyền thuyết dân gian của đồng bào miền núi gây ám ảnh bao đời nay. Phim xoay quanh Còn (Kiều Minh Tuấn) và Dương (Minh Anh), hai pháp sư tập sự lên núi cứu người mẹ đang bị lời nguyền Phí Phông đánh gục. Cùng lúc đó, trong bản sâu cũng xảy ra nhiều cái chết ghê rợn. Mọi nghi ngờ đổ dồn về hai mẹ con Mon (Diệp Bảo Ngọc) và Lua (Nina Nutthacha), những người mang đặc tính y hệt Phí Phông. Thế nhưng, vẫn còn những bí mật động trời bị chôn vùi trong chốn rừng thiêng nước độc, cuốn hai anh em Còn và Dương vào cuộc truy lùng “Phí Phông” không hồi kết."
         },
         {
-            "name": "Chuyện Cũ Miền Biên Ải",
+            "name": "Gả Kim Thoa / Gả trâm vàng",
             "year": 2026,
-            "slug": "chuyen-cu-mien-bien-ai",
-            "thumb": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-poster.webp",
-            "sub_type": "Vietsub",
-            "current_episode": "Tập 16",
-            "total_episodes": "24",
+            "slug": "ga-kim-thoa-ga-tram-vang",
+            "thumb": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-poster.webp",
+            "sub_type": "Thuyết Minh",
+            "current_episode": "Hoàn Tất (30/30)",
+            "total_episodes": "30",
             "country": "Trung Quốc",
-            "description": "Vào cuối thập niên 1970, chàng thanh niên vùng Tùng Liêu tên Lưu Hải Trụ vì ra tay nghĩa hiệp mà bị cuốn vào những cuộc phân tranh chốn giang hồ, từ đó kết nên tình nghĩa sinh tử với Đông Bá Thiên. Giữa những biến động của thời cuộc, từ một người công nhân bình thường rơi vào vòng xoáy giang hồ, anh đã trải qua tình bằng hữu, yêu hận đan xen cùng những lựa chọn giằng xé về nhân tính, để rồi cuối cùng hoàn thành hành trình trưởng thành và tự cứu rỗi bản thân giữa vùng đất đen băng tuyết."
+            "description": "A Sửu vốn là thiếu nữ đổ phân ban đêm trên phố có thân phận thấp hèn, bị mọi người chà đạp và bắt nạt. Chỉ vì có khuôn mặt giống hệt tiểu thư Ngụy Nhiêu của Hầu Phủ, cô bất ngờ trở thành tân nương xung hỷ cho thế tử Lục Trạc của Quốc Công Phủ. A Sửu ôm đầy tham vọng, một lòng tranh thủ cơ hội để leo cao, nhưng phu quân mới cưới đang gần đất xa trời đột nhiên tỉnh lại, âm mưu tu hú chiếm tổ dẫn đến nhiều tai họa liên tiếp. Ngụy Nhiêu hận cô chiếm chỗ của mình, nôn nóng muốn trừ khử cô; Lục Trạc coi cô là người phụ nữ độc địa, tìm mọi cách phòng bị trước các toan tính. Quốc Công Phủ bề ngoài trông hòa thuận êm ấm, thực ra đầy rẫy cạm bẫy, nguy hiểm bủa vây. A Sửu nỗ lực xoay sở giữa cơn sóng ngầm, mưu tính con đường phía trước, vùng vẫy thoát khỏi xiềng xích của số phận, hơn nữa còn điều tra ra bí mật về thân thế của mình, cuối cùng cũng được đoàn tụ với người thân yêu nhất, đang từ cô gái đổ phân thấp hèn lội ngược dòng vươn lên cao, sống cuộc đời gấm hoa rực rỡ."
         },
         {
-            "name": "Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương",
+            "name": "Chuyến Đi Chữa Lành",
             "year": 2026,
-            "slug": "tung-buoc-ben-nhau-tien-si-yeu-duong",
-            "thumb": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-poster.webp",
+            "slug": "chuyen-di-chua-lanh",
+            "thumb": "https://phimimg.com/uploads/movies/20261029/chuyen-di-chua-lanh-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261029/chuyen-di-chua-lanh-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Hoàn Tất (12/12)",
-            "total_episodes": "12",
+            "current_episode": "Tập 6",
+            "total_episodes": "10",
             "country": "Hàn Quốc",
-            "description": "Min jae từng là vận động viên bơi lội thời trung học, cho đến khi bệnh tật khiến anh mất đi một chân. Giờ đây là nghiên cứu sinh tiến sĩ ngành người máy, anh tỏ ra là một người không màng thế sự—nhưng vẫn còn đó một khao khát giản đơn, nhức nhối: được yêu. Anh suy nghĩ quá nhiều và sợ bị tổn thương, cho đến một ngày, đúng người xuất hiện. Yujin đã từ bỏ chuyên ngành thời trang, lạc lối không có phương hướng rõ ràng, cho đến khi Minjae mở ra trước mắt cô thế giới người máy—và một giấc mơ mới. Mọi thứ về nó đều xa lạ và khó khăn, nhưng tình cảm cô dành cho anh chưa bao giờ dao động. Tia lửa ngay từ cái nhìn đầu tiên làm xáo trộn phòng thí nghiệm yên tĩnh, và sự theo đuổi không sợ hãi của Yujin đã phá vỡ lớp vỏ bọc bảo vệ trái tim Minjae. Dần dần, cả hai xích lại gần nhau hơn. Rắc rối và khó đoán hơn bất kỳ cỗ máy nào, một mối tình lãng mạn bắt đầu—mãnh liệt, ngọt ngào đắng cay và dịu dàng."
+            "description": "Kim Ha Yeon là một cô gái 18 tuổi bình thường, luôn mơ mộng về một cuộc đời đầy kịch tính như những gì cô thấy trên màn ảnh. Cuộc đời cô bước sang một ngã rẽ kỳ diệu và đầy bất ngờ khi cô đến ngôi làng đồng quê xa lạ Upo-ri để nghỉ hè. Tại đây, cô tình cờ gặp Jo Yu Gyeom, người thừa kế của một gia đình quý tộc truyền thống, và bạn gái của anh, Sae Ryeong. Dù sở hữu vẻ ngoài cuốn hút cùng tài năng bơi lội thiên bẩm, anh lại sống một cuộc đời tẻ nhạt, bị kìm hãm bởi những quy củ lỗi thời và nhịp sống lặp đi lặp lại. Khi hai con người trái ngược ấy gặp nhau giữa vẻ đẹp tĩnh lặng của Upo-ri, thế giới của họ va vào nhau, thắp lên một sự thay đổi trong cuộc sống thường nhật và mở đầu cho một mùa hè có một không hai trong đời."
         },
         {
             "name": "Lời Nguyền Thư Viện Mikura",
@@ -3057,16 +3057,16 @@
             "description": "Nữ nghệ sĩ Quan Tử Doanh đột ngột qua đời, khiến người bạn thân Hạ Vô Song đau buồn đến mức phải giải nghệ. Bảy năm sau, cô bất ngờ trở lại để hàn gắn quan hệ với nhóm bạn gái cũ trong giới giải trí. Vừa giả vờ thân thiết với họ, Hạ Vô Song vừa âm thầm khơi dậy những hiềm khích và sự nghi kỵ giữa các chị em năm xưa, buộc họ phải đối mặt với những bí mật mà ai cũng muốn che giấu. Khi Cuộc Chiến Hoa Hồng ngày càng khốc liệt, sự thật về cái chết của Tử Doanh cũng dần được hé lộ."
         },
         {
-            "name": "Trò Chơi Bắt Cóc",
+            "name": "Tình Yêu Trong Vỏ Bọc / Tình Yêu Ngụy Trang",
             "year": 2026,
-            "slug": "tro-choi-bat-coc",
-            "thumb": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp",
-            "poster": "https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-poster.webp",
+            "slug": "tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang",
+            "thumb": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-thumb.webp",
+            "poster": "https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-poster.webp",
             "sub_type": "Vietsub",
-            "current_episode": "Tập 6",
-            "total_episodes": "11",
-            "country": "Nhật Bản",
-            "description": "Bộ phim xoay quanh một loạt các vụ bắt cóc đồng loạt tại 7 thành phố lớn ở châu Á (Tokyo, Seoul, Đài Bắc, Singapore, Bangkok, Naha, Manila), buộc các gia đình phải tham gia vào một trò chơi sinh tử thông qua các chỉ thị từ một email bí ẩn."
+            "current_episode": "Tập 8",
+            "total_episodes": "12",
+            "country": "Hàn Quốc",
+            "description": "Tình Yêu Trong Vỏ Bọc (Love in Disguise) là một bộ phim truyền hình hài lãng mạn công sở của Hàn Quốc, với sự tham gia của các diễn viên Yim Si-wan, Seol In-ah, Kim Jung-hyun và Yeonwoo. Dựa trên tiểu thuyết mạng \"Tại Sao Bạn Không Biết Đó Là Con Gái?\""
         },
         {
             "name": "Shaun The Sheep: \"Quái Lạ\" Ghé Nhà",
