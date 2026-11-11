@@ -1,5 +1,17 @@
 [
     {
+        "name": "Cuộc Chiến Hoa Hồng",
+        "year": 2026,
+        "slug": "cuoc-chien-hoa-hong-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 2",
+        "total_episodes": "25",
+        "country": "Trung Quốc",
+        "description": "Nữ nghệ sĩ Quan Tử Doanh đột ngột qua đời, khiến người bạn thân Hạ Vô Song đau buồn đến mức phải giải nghệ. Bảy năm sau, cô bất ngờ trở lại để hàn gắn quan hệ với nhóm bạn gái cũ trong giới giải trí. Vừa giả vờ thân thiết với họ, Hạ Vô Song vừa âm thầm khơi dậy những hiềm khích và sự nghi kỵ giữa các chị em năm xưa, buộc họ phải đối mặt với những bí mật mà ai cũng muốn che giấu. Khi Cuộc Chiến Hoa Hồng ngày càng khốc liệt, sự thật về cái chết của Tử Doanh cũng dần được hé lộ."
+    },
+    {
         "name": "Thượng Công Chúa",
         "year": 2026,
         "slug": "thuong-cong-chua",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Mỹ",
         "description": "Bùng nổ mùa hè này tại Camp CrunchLabs, nơi Mark Rober mang đến những thí nghiệm khoa học theo chủ đề vũ trụ cực kỳ hấp dẫn, cùng dàn khách mời đặc biệt và vô số thử thách thú vị có thể tự làm ngay tại nhà!"
-    },
-    {
-        "name": "Phim Super Mario Thiên Hà",
-        "year": 2026,
-        "slug": "phim-super-mario-thien-ha",
-        "thumb": "https://phimimg.com/upload/vod/20260508-1/b9482988285cb67c118bc092404d804a.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260508-1/6bf821d68045c5310a192c5244992ac0.jpg",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Nhật Bản",
-        "description": "Nối tiếp thành công của phần phim đầu tiên, Mario và Luigi dấn thân vào một cuộc phiêu lưu ngoài sức tưởng tượng khi họ bị cuốn vào không gian sâu thẳm. Lần này, họ gặp gỡ Rosalina, người bảo vệ các vì sao và là &quot;mẹ&quot; của những sinh vật Luma đáng yêu. Cả nhóm phải hợp sức để ngăn chặn âm mưu thôn tính toàn bộ vũ trụ của Bowser, khi hắn đang thu thập các Grand Stars để xây dựng một đế chế thiên hà hùng mạnh. Phim hứa hẹn mang đến những màn rượt đuổi nghẹt thở giữa các hành tinh với trọng lực siêu thực và hình ảnh rực rỡ."
     }
 ]

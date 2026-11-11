@@ -1,5 +1,17 @@
 [
     {
+        "name": "Tình Yêu Độc Nhất",
+        "year": 2026,
+        "slug": "tinh-yeu-doc-nhat",
+        "thumb": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 2",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ hãi vì bị bám đuôi. Khi trở thành quản lý của anh, Yu Il phát hiện cuốn tiểu thuyết mình từng viết chính là ánh sáng đã nâng đỡ Mu I trong những ngày tăm tối. Từ những tổn thương giấu kín, hai trái tim dần tìm thấy nhau, viết nên một tình yêu vừa mong manh, vừa duy nhất."
+    },
+    {
         "name": "Chuyến Đi Chữa Lành",
         "year": 2026,
         "slug": "chuyen-di-chua-lanh",
@@ -346,17 +358,5 @@
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Khi hai nghệ sĩ piano trẻ đến từ hai thế giới hoàn toàn khác biệt gặp gỡ tại ngôi trường trung học âm nhạc danh giá, khúc nhạc cuộc đời của họ bắt đầu gắn kết chặt chẽ."
-    },
-    {
-        "name": "Chuyến Xe Tâm Tình (Phần 1)",
-        "year": 2026,
-        "slug": "chuyen-xe-tam-tinh-phan-1",
-        "thumb": "https://phimimg.com/uploads/movies/20261002/chuyen-xe-tam-tinh-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261002/chuyen-xe-tam-tinh-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Hàn Quốc",
-        "description": "Mang màu sắc nhẹ nhàng, ấm áp và giàu tính nhân văn, phim kể về một tài xế taxi đặc biệt, người chuyên đưa các vị khách xa lạ đi qua những hành trình gắn liền với ký ức và câu chuyện riêng của họ. Mỗi chuyến xe là một câu chuyện về tình yêu, gia đình, những tiếc nuối hoặc những ước mơ chưa hoàn thành. Thông qua những cuộc trò chuyện và những bài hát do chính hành khách chọn, người tài xế giúp họ đối diện với quá khứ, tìm thấy sự an ủi và có thêm dũng khí để bước tiếp."
     }
 ]

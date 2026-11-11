@@ -1,5 +1,41 @@
 [
     {
+        "name": "Ngọc Nữ Báo Thù",
+        "year": 2026,
+        "slug": "ngoc-nu-bao-thu",
+        "thumb": "https://phimimg.com/uploads/movies/20261110/ngoc-nu-bao-thu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261110/ngoc-nu-bao-thu-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 6",
+        "total_episodes": "16",
+        "country": "Thái Lan",
+        "description": "Munin bàng hoàng phát hiện thi thể chị gái sinh đôi Mutta, người bị sát hại sau khi tố cáo Nopnapha, vợ Bộ trưởng Giáo dục, đứng sau âm mưu giết mình. Quyết tâm tìm ra sự thật và báo thù, Munin giả danh chị gái, trở lại Bộ và sử dụng tài năng IT để lần theo dấu vết hung thủ. Cuộc chiến quyền lực ngày càng khốc liệt khi Munin liên tiếp tung ra những scandal nhằm vạch trần đối thủ, còn Nopnapha không ngừng phản công bằng thế lực của mình. Đỉnh điểm là lễ cưới của Jenphop và Mutta giả, nơi sự xuất hiện bất ngờ của Munin làm đảo lộn tất cả, phơi bày bí mật kinh hoàng đằng sau cái chết của Mutta. Khi sự thật dần hé lộ, Munin phải đối mặt với lựa chọn nghiệt ngã giữa thù hận và danh tính thật sự, bởi bí mật về hai chị em sinh đôi còn tàn khốc hơn cô tưởng."
+    },
+    {
+        "name": "Gả Kim Thoa / Gả trâm vàng",
+        "year": 2026,
+        "slug": "ga-kim-thoa-ga-tram-vang",
+        "thumb": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Hoàn Tất (30/30)",
+        "total_episodes": "30",
+        "country": "Trung Quốc",
+        "description": "A Sửu vốn là thiếu nữ đổ phân ban đêm trên phố có thân phận thấp hèn, bị mọi người chà đạp và bắt nạt. Chỉ vì có khuôn mặt giống hệt tiểu thư Ngụy Nhiêu của Hầu Phủ, cô bất ngờ trở thành tân nương xung hỷ cho thế tử Lục Trạc của Quốc Công Phủ. A Sửu ôm đầy tham vọng, một lòng tranh thủ cơ hội để leo cao, nhưng phu quân mới cưới đang gần đất xa trời đột nhiên tỉnh lại, âm mưu tu hú chiếm tổ dẫn đến nhiều tai họa liên tiếp. Ngụy Nhiêu hận cô chiếm chỗ của mình, nôn nóng muốn trừ khử cô; Lục Trạc coi cô là người phụ nữ độc địa, tìm mọi cách phòng bị trước các toan tính. Quốc Công Phủ bề ngoài trông hòa thuận êm ấm, thực ra đầy rẫy cạm bẫy, nguy hiểm bủa vây. A Sửu nỗ lực xoay sở giữa cơn sóng ngầm, mưu tính con đường phía trước, vùng vẫy thoát khỏi xiềng xích của số phận, hơn nữa còn điều tra ra bí mật về thân thế của mình, cuối cùng cũng được đoàn tụ với người thân yêu nhất, đang từ cô gái đổ phân thấp hèn lội ngược dòng vươn lên cao, sống cuộc đời gấm hoa rực rỡ."
+    },
+    {
+        "name": "Tình Yêu Độc Nhất",
+        "year": 2026,
+        "slug": "tinh-yeu-doc-nhat",
+        "thumb": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 2",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ hãi vì bị bám đuôi. Khi trở thành quản lý của anh, Yu Il phát hiện cuốn tiểu thuyết mình từng viết chính là ánh sáng đã nâng đỡ Mu I trong những ngày tăm tối. Từ những tổn thương giấu kín, hai trái tim dần tìm thấy nhau, viết nên một tình yêu vừa mong manh, vừa duy nhất."
+    },
+    {
         "name": "Gấp Ánh Trăng",
         "year": 2026,
         "slug": "gap-anh-trang",
@@ -22,18 +58,6 @@
         "total_episodes": "40",
         "country": "Trung Quốc",
         "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
-    },
-    {
-        "name": "Ngọc Nữ Báo Thù",
-        "year": 2026,
-        "slug": "ngoc-nu-bao-thu",
-        "thumb": "https://phimimg.com/uploads/movies/20261110/ngoc-nu-bao-thu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261110/ngoc-nu-bao-thu-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 5",
-        "total_episodes": "16",
-        "country": "Thái Lan",
-        "description": "Munin bàng hoàng phát hiện thi thể chị gái sinh đôi Mutta, người bị sát hại sau khi tố cáo Nopnapha, vợ Bộ trưởng Giáo dục, đứng sau âm mưu giết mình. Quyết tâm tìm ra sự thật và báo thù, Munin giả danh chị gái, trở lại Bộ và sử dụng tài năng IT để lần theo dấu vết hung thủ. Cuộc chiến quyền lực ngày càng khốc liệt khi Munin liên tiếp tung ra những scandal nhằm vạch trần đối thủ, còn Nopnapha không ngừng phản công bằng thế lực của mình. Đỉnh điểm là lễ cưới của Jenphop và Mutta giả, nơi sự xuất hiện bất ngờ của Munin làm đảo lộn tất cả, phơi bày bí mật kinh hoàng đằng sau cái chết của Mutta. Khi sự thật dần hé lộ, Munin phải đối mặt với lựa chọn nghiệt ngã giữa thù hận và danh tính thật sự, bởi bí mật về hai chị em sinh đôi còn tàn khốc hơn cô tưởng."
     },
     {
         "name": "Sử Thi Odyssey",
@@ -70,18 +94,6 @@
         "total_episodes": "40",
         "country": "Trung Quốc",
         "description": "Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp gỡ Ngu Sưởng Hiên, ngũ thiếu gia nhà họ Ngu. Sau giai đoạn đầu đầy toan tính và nghi kỵ, cả hai dần nảy sinh tình cảm sâu đậm. Nhưng rồi hàng loạt biến cố và bi kịch đẩy Bình Quân đến bờ vực tuyệt vọng, khiến cô phải rời xa Sưởng Hiên. Trải qua nhiều năm đau khổ và dằn vặt, họ gặp lại nhau, từng bước hóa giải hiểu lầm và đối mặt với những bí mật trong quá khứ."
-    },
-    {
-        "name": "Gả Kim Thoa / Gả trâm vàng",
-        "year": 2026,
-        "slug": "ga-kim-thoa-ga-tram-vang",
-        "thumb": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (30/30)",
-        "total_episodes": "30",
-        "country": "Trung Quốc",
-        "description": "A Sửu vốn là thiếu nữ đổ phân ban đêm trên phố có thân phận thấp hèn, bị mọi người chà đạp và bắt nạt. Chỉ vì có khuôn mặt giống hệt tiểu thư Ngụy Nhiêu của Hầu Phủ, cô bất ngờ trở thành tân nương xung hỷ cho thế tử Lục Trạc của Quốc Công Phủ. A Sửu ôm đầy tham vọng, một lòng tranh thủ cơ hội để leo cao, nhưng phu quân mới cưới đang gần đất xa trời đột nhiên tỉnh lại, âm mưu tu hú chiếm tổ dẫn đến nhiều tai họa liên tiếp. Ngụy Nhiêu hận cô chiếm chỗ của mình, nôn nóng muốn trừ khử cô; Lục Trạc coi cô là người phụ nữ độc địa, tìm mọi cách phòng bị trước các toan tính. Quốc Công Phủ bề ngoài trông hòa thuận êm ấm, thực ra đầy rẫy cạm bẫy, nguy hiểm bủa vây. A Sửu nỗ lực xoay sở giữa cơn sóng ngầm, mưu tính con đường phía trước, vùng vẫy thoát khỏi xiềng xích của số phận, hơn nữa còn điều tra ra bí mật về thân thế của mình, cuối cùng cũng được đoàn tụ với người thân yêu nhất, đang từ cô gái đổ phân thấp hèn lội ngược dòng vươn lên cao, sống cuộc đời gấm hoa rực rỡ."
     },
     {
         "name": "Bạn Học Ma Cà Rồng",
@@ -346,17 +358,5 @@
         "total_episodes": "16",
         "country": "Thái Lan",
         "description": "Được làm lại từ bộ phim Hàn Quốc đình đám cùng tên, Lâu Đài Tham Vọng (Bản Thái) xoay quanh cuộc chiến khốc liệt của những bậc cha mẹ giàu có tại khu biệt thự Sky Castle nhằm đưa con cái vào trường đại học danh giá. Fah, một người mẹ đang che giấu quá khứ nghèo khó, quyết tâm ép con gái phải đỗ Harvard để bảo vệ địa vị của bản thân. Áp lực ngày càng gia tăng với sự xuất hiện của một chuyên gia luyện thi khắc nghiệt và một học sinh thiên tài mang trong mình một bí mật có thể phá hủy mọi thứ mà Fah dày công gây dựng. Sau một sự cố gây chấn động tại một bữa tiệc, những sự thật bị chôn vùi ở Sky Castle lần lượt bị phơi bày."
-    },
-    {
-        "name": "Tài phiệt và Cảnh sát (Phần 2)",
-        "year": 2026,
-        "slug": "tai-phiet-va-canh-sat-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260810/tai-phiet-va-canh-sat-phan-2-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (14/14)",
-        "total_episodes": "14",
-        "country": "Hàn Quốc",
-        "description": "Sau Season 1, Yi-soo đã thực sự nhận ra mình muốn trở thành một cảnh sát, chứ không còn xem công việc này như trò chơi của một thiếu gia. Anh hoàn thành khóa đào tạo chính thức tại Học viện Cảnh sát, sau đó quay trở lại Đội Trọng án 1. Lần này, Yi-soo đã trưởng thành và chuyên nghiệp hơn, nhưng vẫn giữ phong cách điều tra rất đặc biệt: khi cảnh sát gặp bế tắc, anh có thể dùng tiền bạc, các mối quan hệ và nguồn lực khổng lồ của gia đình tài phiệt để mở ra những hướng điều tra mà người bình thường không thể tiếp cận."
     }
 ]

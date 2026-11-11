@@ -1,5 +1,41 @@
 [
     {
+        "name": "Gả Kim Thoa / Gả trâm vàng",
+        "year": 2026,
+        "slug": "ga-kim-thoa-ga-tram-vang",
+        "thumb": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Hoàn Tất (30/30)",
+        "total_episodes": "30",
+        "country": "Trung Quốc",
+        "description": "A Sửu vốn là thiếu nữ đổ phân ban đêm trên phố có thân phận thấp hèn, bị mọi người chà đạp và bắt nạt. Chỉ vì có khuôn mặt giống hệt tiểu thư Ngụy Nhiêu của Hầu Phủ, cô bất ngờ trở thành tân nương xung hỷ cho thế tử Lục Trạc của Quốc Công Phủ. A Sửu ôm đầy tham vọng, một lòng tranh thủ cơ hội để leo cao, nhưng phu quân mới cưới đang gần đất xa trời đột nhiên tỉnh lại, âm mưu tu hú chiếm tổ dẫn đến nhiều tai họa liên tiếp. Ngụy Nhiêu hận cô chiếm chỗ của mình, nôn nóng muốn trừ khử cô; Lục Trạc coi cô là người phụ nữ độc địa, tìm mọi cách phòng bị trước các toan tính. Quốc Công Phủ bề ngoài trông hòa thuận êm ấm, thực ra đầy rẫy cạm bẫy, nguy hiểm bủa vây. A Sửu nỗ lực xoay sở giữa cơn sóng ngầm, mưu tính con đường phía trước, vùng vẫy thoát khỏi xiềng xích của số phận, hơn nữa còn điều tra ra bí mật về thân thế của mình, cuối cùng cũng được đoàn tụ với người thân yêu nhất, đang từ cô gái đổ phân thấp hèn lội ngược dòng vươn lên cao, sống cuộc đời gấm hoa rực rỡ."
+    },
+    {
+        "name": "Chuyện Cũ Miền Biên Ải",
+        "year": 2026,
+        "slug": "chuyen-cu-mien-bien-ai",
+        "thumb": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 16",
+        "total_episodes": "24",
+        "country": "Trung Quốc",
+        "description": "Vào cuối thập niên 1970, chàng thanh niên vùng Tùng Liêu tên Lưu Hải Trụ vì ra tay nghĩa hiệp mà bị cuốn vào những cuộc phân tranh chốn giang hồ, từ đó kết nên tình nghĩa sinh tử với Đông Bá Thiên. Giữa những biến động của thời cuộc, từ một người công nhân bình thường rơi vào vòng xoáy giang hồ, anh đã trải qua tình bằng hữu, yêu hận đan xen cùng những lựa chọn giằng xé về nhân tính, để rồi cuối cùng hoàn thành hành trình trưởng thành và tự cứu rỗi bản thân giữa vùng đất đen băng tuyết."
+    },
+    {
+        "name": "Cuộc Chiến Hoa Hồng",
+        "year": 2026,
+        "slug": "cuoc-chien-hoa-hong-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 2",
+        "total_episodes": "25",
+        "country": "Trung Quốc",
+        "description": "Nữ nghệ sĩ Quan Tử Doanh đột ngột qua đời, khiến người bạn thân Hạ Vô Song đau buồn đến mức phải giải nghệ. Bảy năm sau, cô bất ngờ trở lại để hàn gắn quan hệ với nhóm bạn gái cũ trong giới giải trí. Vừa giả vờ thân thiết với họ, Hạ Vô Song vừa âm thầm khơi dậy những hiềm khích và sự nghi kỵ giữa các chị em năm xưa, buộc họ phải đối mặt với những bí mật mà ai cũng muốn che giấu. Khi Cuộc Chiến Hoa Hồng ngày càng khốc liệt, sự thật về cái chết của Tử Doanh cũng dần được hé lộ."
+    },
+    {
         "name": "Gấp Ánh Trăng",
         "year": 2026,
         "slug": "gap-anh-trang",
@@ -130,18 +166,6 @@
         "total_episodes": "25",
         "country": "Trung Quốc",
         "description": "Hãy cùng đón xem hành trình thiếu niên chiêu hồn đối đầu trực diện với tà phái Cửu Cúc, liều mình bảo vệ chúng sinh Lam Hải trước nguy cơ sụp đổ ranh giới hai giới. Trong thế giới này, ý thức của muôn loài đều được cấu tạo từ các hạt vi mô. Thiếu niên Lâm Dã ở đảo Lam Hải bẩm sinh sở hữu thể chất \"chiêu hồn\" đặc biệt, được giới \"Du Hồn\" coi là \"khách sạn di động\", suốt ngày bị linh hồn nhập xác gây rối và phải bỏ chạy thục mạng. Sau khi tình cờ gặp gỡ Trần Quả — cô gái mang dị năng có khả năng thu phục \"Du Hồn\", Lâm Dã bước chân vào tổ chức siêu nhiên Học viện Hoa Tịnh, từ đó cuốn vào cuộc tranh đấu kéo dài hàng thế kỷ với tà phái \"Cửu Cúc Nhất Phái\" đến từ Đông Doanh. Trong hành trình này, cậu liên tục đối mặt với những âm mưu ly gián, hãm hại, và sự sụp đổ niềm tin. Cho đến khi cánh cổng ranh giới sắp mở ra, toàn thành phố rơi vào cảnh nguy vong, Lâm Dã đã dùng chấp niệm của một người bình thường để quyết đấu đến cùng với bản sao hoàn hảo của chính mình, dốc hết sức tàn bảo vệ Lam Hải. Tuy nhiên, ngay khi đại chiến khép lại và anh hùng ngã xuống, một âm mưu mới của Cửu Cúc Nhất Phái lại âm thầm lan rộng nơi sâu thẳm của dãy Côn Lôn..."
-    },
-    {
-        "name": "Chuyện Cũ Miền Biên Ải",
-        "year": 2026,
-        "slug": "chuyen-cu-mien-bien-ai",
-        "thumb": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 14",
-        "total_episodes": "24",
-        "country": "Trung Quốc",
-        "description": "Vào cuối thập niên 1970, chàng thanh niên vùng Tùng Liêu tên Lưu Hải Trụ vì ra tay nghĩa hiệp mà bị cuốn vào những cuộc phân tranh chốn giang hồ, từ đó kết nên tình nghĩa sinh tử với Đông Bá Thiên. Giữa những biến động của thời cuộc, từ một người công nhân bình thường rơi vào vòng xoáy giang hồ, anh đã trải qua tình bằng hữu, yêu hận đan xen cùng những lựa chọn giằng xé về nhân tính, để rồi cuối cùng hoàn thành hành trình trưởng thành và tự cứu rỗi bản thân giữa vùng đất đen băng tuyết."
     },
     {
         "name": "Vạn Cổ Chí Tôn: Lý Vân Tiêu Truyện",
@@ -312,18 +336,6 @@
         "description": "Linh hồn của quân sư Gia Cát Lượng xuyên không từ thời Tam Quốc, nhập vào thân xác một người đàn ông đang chật vật với cuộc sống hiện đại."
     },
     {
-        "name": "Gả Kim Thoa / Gả trâm vàng",
-        "year": 2026,
-        "slug": "ga-kim-thoa-ga-tram-vang",
-        "thumb": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (30/30)",
-        "total_episodes": "30",
-        "country": "Trung Quốc",
-        "description": "A Sửu vốn là thiếu nữ đổ phân ban đêm trên phố có thân phận thấp hèn, bị mọi người chà đạp và bắt nạt. Chỉ vì có khuôn mặt giống hệt tiểu thư Ngụy Nhiêu của Hầu Phủ, cô bất ngờ trở thành tân nương xung hỷ cho thế tử Lục Trạc của Quốc Công Phủ. A Sửu ôm đầy tham vọng, một lòng tranh thủ cơ hội để leo cao, nhưng phu quân mới cưới đang gần đất xa trời đột nhiên tỉnh lại, âm mưu tu hú chiếm tổ dẫn đến nhiều tai họa liên tiếp. Ngụy Nhiêu hận cô chiếm chỗ của mình, nôn nóng muốn trừ khử cô; Lục Trạc coi cô là người phụ nữ độc địa, tìm mọi cách phòng bị trước các toan tính. Quốc Công Phủ bề ngoài trông hòa thuận êm ấm, thực ra đầy rẫy cạm bẫy, nguy hiểm bủa vây. A Sửu nỗ lực xoay sở giữa cơn sóng ngầm, mưu tính con đường phía trước, vùng vẫy thoát khỏi xiềng xích của số phận, hơn nữa còn điều tra ra bí mật về thân thế của mình, cuối cùng cũng được đoàn tụ với người thân yêu nhất, đang từ cô gái đổ phân thấp hèn lội ngược dòng vươn lên cao, sống cuộc đời gấm hoa rực rỡ."
-    },
-    {
         "name": "Đại Thiên Tiểu Trấn",
         "year": 2026,
         "slug": "dai-thien-tieu-tran",
@@ -346,17 +358,5 @@
         "total_episodes": "60",
         "country": "Trung Quốc",
         "description": "Pháp Sư Tử Linh: Ta Chính Là Thiên Tai, một tác phẩm được chuyển thể từ cuốn tiểu thuyết nổi tiếng cùng tên, mang đến câu chuyện về hành trình trở thành một quân vương của một người có tên là Lâm Mặc Ngữ. Vốn không định làm vua, nhưng cuộc sống xô đẩy và Lâm Mặc Ngữ đã phải thuận theo thời thế. Nơi mà anh ta sống thực tế là đang bị những quy tắc của trò chơi giáng xuống và làm đảo lộn mọi thứ, con người và những sinh linh trên thế giới bị biến thành những phần của trò chơi, thậm chí là họ phải đối mặt với nạn xâm lăng từ những dị tộc như ma tộc và long tộc, mang đến những cuộc chiến không có hồi kết và vô cùng khốc liệt. Nhưng với Lâm Mặc Ngữ thì khác, anh ta mang trên mình những thiên phú bẩm sinh rất đặc biệt, những năng lực rất khác người, chỉ cần xua tay là có thể tạo ra một đội quân hùng mạnh. Nhờ vậy mà Lâm Mặc Ngữ đã đánh lui được những dị tộc và mang lại sự bình yên cho thế giới, phá vỡ thế chân vạc vốn tồn tại lâu năm giữa 3 nước để thống nhất thiên hạ, trở thành một vị quân vương chính hiệu."
-    },
-    {
-        "name": "Dữ Thương Long",
-        "year": 2026,
-        "slug": "du-thuong-long",
-        "thumb": "https://phimimg.com/uploads/movies/20261022/du-thuong-long-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261022/du-thuong-long-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (24/24)",
-        "total_episodes": "24",
-        "country": "Trung Quốc",
-        "description": "Bộ phim kể về con gái nhà tướng Nhạc Vọng Thư bị hiến tế xuống Long Uyên, vô tình giải trừ phong ấn cho Long Quân Ly Chỉ. Hai người từ đối đầu chuyển sang thấu hiểu, lấy việc \"áp chế Ly Hỏa\" làm giao dịch để kết liên minh. Nàng mượn sức mạnh của Long Quân để phản kích lại âm mưu của nhà họ Nhạc và Tề vương, còn vì nàng mà chàng học được tình ái chốn nhân gian. Cuối cùng, Ly Chỉ quyết định lưu lại nhân gian, tạo nên một mối tình khắc cốt ghi tâm."
     }
 ]
