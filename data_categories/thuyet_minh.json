@@ -1,5 +1,29 @@
 [
     {
+        "name": "Kế Hoạch Của Quỷ Dữ (Phần 2)",
+        "year": 2025,
+        "slug": "ke-hoach-cua-quy-du-phan-2",
+        "thumb": "https://phimimg.com/upload/vod/20250508-1/68f8403fbb61eef00c848e6ae9f8ddcd.jpg",
+        "poster": "https://phimimg.com/uploads/movies/20261112/ke-hoach-cua-quy-du-phan-2-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Hoàn Tất (12/12)",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "12 thí sinh đối đầu trong các trò chơi trí tuệ, chiến lược và sáng suốt trong 6 đêm 7 ngày. Ai sẽ trở thành người chiến thắng cuối cùng?"
+    },
+    {
+        "name": "Gấp Ánh Trăng",
+        "year": 2026,
+        "slug": "gap-anh-trang",
+        "thumb": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 18",
+        "total_episodes": "27",
+        "country": "Trung Quốc",
+        "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học."
+    },
+    {
         "name": "Thượng Công Chúa",
         "year": 2026,
         "slug": "thuong-cong-chua",
@@ -10,18 +34,6 @@
         "total_episodes": "40",
         "country": "Trung Quốc",
         "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
-    },
-    {
-        "name": "Gấp Ánh Trăng",
-        "year": 2026,
-        "slug": "gap-anh-trang",
-        "thumb": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 16",
-        "total_episodes": "27",
-        "country": "Trung Quốc",
-        "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học."
     },
     {
         "name": "Ngọc Nữ Báo Thù",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Yothaka phát hiện chồng mình là Nat có quan hệ bất chính với Pam, nữ cấp trên của anh. Cuộc hôn nhân vốn đã rạn nứt càng trở nên phức tạp khi hai vợ chồng quyết định chuyển đến căn nhà cổ được thừa kế từ gia đình Nat và đối mặt với hàng loạt những hiện tượng kỳ lạ. Căn nhà tưởng như sẽ là nơi bắt đầu cuộc sống mới của Yothaka và Nat hóa ra lại ẩn chứa một quá khứ vô cùng đen tối. Oán Linh Dục Vọng là câu chuyện về tình yêu, sự phản bội, và cái giá đắt phải trả cho những lời nói dối trong quá khứ."
-    },
-    {
-        "name": "Lâu Đài Tham Vọng (Bản Thái)",
-        "year": 2026,
-        "slug": "lau-dai-tham-vong-ban-thai",
-        "thumb": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260805/lau-dai-tham-vong-ban-thai-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Hoàn Tất (16/16)",
-        "total_episodes": "16",
-        "country": "Thái Lan",
-        "description": "Được làm lại từ bộ phim Hàn Quốc đình đám cùng tên, Lâu Đài Tham Vọng (Bản Thái) xoay quanh cuộc chiến khốc liệt của những bậc cha mẹ giàu có tại khu biệt thự Sky Castle nhằm đưa con cái vào trường đại học danh giá. Fah, một người mẹ đang che giấu quá khứ nghèo khó, quyết tâm ép con gái phải đỗ Harvard để bảo vệ địa vị của bản thân. Áp lực ngày càng gia tăng với sự xuất hiện của một chuyên gia luyện thi khắc nghiệt và một học sinh thiên tài mang trong mình một bí mật có thể phá hủy mọi thứ mà Fah dày công gây dựng. Sau một sự cố gây chấn động tại một bữa tiệc, những sự thật bị chôn vùi ở Sky Castle lần lượt bị phơi bày."
     }
 ]

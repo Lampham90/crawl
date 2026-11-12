@@ -1,5 +1,41 @@
 [
     {
+        "name": "Phúc Âm Giáng Sinh",
+        "year": 2026,
+        "slug": "phuc-am-giang-sinh",
+        "thumb": "https://phimimg.com/uploads/movies/20261112/phuc-am-giang-sinh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261112/phuc-am-giang-sinh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Một mục sư đầy trăn trở cùng gia đình chuyển đến một khu phố gặp nhiều khó khăn ở New York. Tại đây, họ phải cứu một nhà thờ bị bỏ bê khỏi nguy cơ bị siết nợ trước lễ Giáng sinh."
+    },
+    {
+        "name": "Người Mẹ Khác",
+        "year": 2026,
+        "slug": "nguoi-me-khac",
+        "thumb": "https://phimimg.com/uploads/movies/20261112/nguoi-me-khac-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261112/nguoi-me-khac-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Một cô bé cùng gia đình và ngôi nhà của mình bị ám bởi một thực thể tà ác, kẻ quyết tâm chiếm lấy thân xác cô để trú ngụ vĩnh viễn. Nhưng trước hết, nó cần thuyết phục cô bé tự nguyện mở cửa — và cho phép nó bước vào."
+    },
+    {
+        "name": "Avedon",
+        "year": 2026,
+        "slug": "avedon",
+        "thumb": "https://phimimg.com/uploads/movies/20261112/avedon-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261112/avedon-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Trong bộ phim tài liệu gần gũi này, cuộc đời và sự nghiệp của nhiếp ảnh gia huyền thoại Richard Avedon hiện lên rõ nét qua các thước phim tư liệu và các cuộc phỏng vấn mới."
+    },
+    {
         "name": "Sử Thi Odyssey",
         "year": 2026,
         "slug": "su-thi-odyssey",
@@ -322,41 +358,5 @@
         "total_episodes": "1",
         "country": "Úc",
         "description": "Một người đàn ông quyết chí dấn thân vào một sứ mệnh rủi ro—và vượt qua những khó khăn không tưởng để hoàn thành ước mơ trở thành người đầu tiên lên đỉnh Everest."
-    },
-    {
-        "name": "Đừng Di Chuyển",
-        "year": 2026,
-        "slug": "dung-di-chuyen",
-        "thumb": "https://phimimg.com/uploads/movies/20261019/dung-di-chuyen-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261019/dung-di-chuyen-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Canada",
-        "description": "Sâu trong khu rừng rậm rạp được bao phủ bởi một mê cung tơ nhện, cả nhóm bị săn đuổi bởi một loài nhện tiền sử đáng sợ — sinh vật săn mồi dựa vào độ rung cảm. Khi mỗi bước đi đều có thể là bước đi cuối cùng, họ chỉ có duy nhất một lựa chọn: Đứng yên. Mọi hy vọng giờ đây đè nặng lên vai Megan để kết nối những người còn sống sót và dẫn dắt họ thoát khỏi vùng đất chết."
-    },
-    {
-        "name": "Buddy",
-        "year": 2026,
-        "slug": "buddy",
-        "thumb": "https://phimimg.com/uploads/movies/20261019/buddy-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261019/buddy-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Một kỳ lân màu cam kỳ diệu, biết hát đang bắt giữ dàn diễn viên của mình làm con tin trong một chiều không gian chương trình truyền hình siêu thực, khi hắn ngày càng trở nên điên loạn và quái đản hơn."
-    },
-    {
-        "name": "V/H/S/Mixtape",
-        "year": 2026,
-        "slug": "v-h-s-mixtape",
-        "thumb": "https://phimimg.com/uploads/movies/20261018/v-h-s-mixtape-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261018/v-h-s-mixtape-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Một tuyển tập kinh dị hỗn loạn theo phong cách băng VHS, nơi những đoạn phim kỳ quái, ghê rợn và đôi khi đen tối đến mức hài hước nối tiếp nhau như một cuộn băng bị nguyền rủa. Mỗi câu chuyện mở ra một cơn ác mộng khác, nhưng tất cả đều mang chung cảm giác méo mó, bẩn thỉu và không thể đoán trước."
     }
 ]

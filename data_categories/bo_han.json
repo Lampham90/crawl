@@ -1,5 +1,53 @@
 [
     {
+        "name": "Kế Hoạch Của Quỷ Dữ (Phần 3)",
+        "year": 2026,
+        "slug": "ke-hoach-cua-quy-du-phan-3",
+        "thumb": "https://phimimg.com/uploads/movies/20261112/ke-hoach-cua-quy-du-phan-3-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261112/ke-hoach-cua-quy-du-phan-3-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "14",
+        "country": "Hàn Quốc",
+        "description": "12 thí sinh đối đầu trong các trò chơi trí tuệ, chiến lược và sáng suốt trong 6 đêm 7 ngày. Ai sẽ trở thành người chiến thắng cuối cùng?"
+    },
+    {
+        "name": "Kế Hoạch Của Quỷ Dữ (Phần 2)",
+        "year": 2025,
+        "slug": "ke-hoach-cua-quy-du-phan-2",
+        "thumb": "https://phimimg.com/upload/vod/20250508-1/68f8403fbb61eef00c848e6ae9f8ddcd.jpg",
+        "poster": "https://phimimg.com/uploads/movies/20261112/ke-hoach-cua-quy-du-phan-2-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Hoàn Tất (12/12)",
+        "total_episodes": "12",
+        "country": "Hàn Quốc",
+        "description": "12 thí sinh đối đầu trong các trò chơi trí tuệ, chiến lược và sáng suốt trong 6 đêm 7 ngày. Ai sẽ trở thành người chiến thắng cuối cùng?"
+    },
+    {
+        "name": "Ma Thuật Đặc Biệt Của Phù Thủy Quay Ngược Thời Gian (Phần 2)",
+        "year": 2026,
+        "slug": "ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20261009/ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261009/ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "12",
+        "country": "Nhật Bản",
+        "description": "Thế giới đứng trước bờ vực diệt vong sau cuộc chiến tàn khốc kéo dài 10 năm trong \"mê cung bóng tối\". Desir Arman là một trong những pháp sư tài giỏi cuối cùng còn sót lại, nhưng ngay cả anh ấy cũng không phải là đối thủ của kẻ địch ghê gớm đang đe dọa sự tồn tại của nhân loại. Ngay thời khắc anh ấy nghĩ rằng tất cả đã chấm dứt, anh ấy được gửi ngược về thời gian, tới những ngày đầu học phép thuật tại Học viện Hebrion danh giá! Với cơ hội hiếm hoi thứ hai này, Desir quyết tâm cứu không chỉ bản thân mà còn cả những người bạn và đồng đội đã mất. Với kiến thức về tương lai, sự nỗ lực của anh ấy có thể tạo ra sự khác biệt hay tất cả họ đều cam chịu sống lại cùng một số phận khủng khiếp? Dựa trên một cuốn tiểu thuyết ăn khách."
+    },
+    {
+        "name": "Dâu Tây Ngọt Ngào",
+        "year": 2026,
+        "slug": "dau-tay-ngot-ngao",
+        "thumb": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "10",
+        "country": "Nhật Bản",
+        "description": "Sau khi mất tất cả sau một đêm, Lee Yubin, một nhà thiết kế không gian người Hàn Quốc từng thành công, đã đến một hòn đảo nhỏ xinh đẹp của Nhật Bản. Tại đây, trên đảo Charo, anh gặp Shirahama Karin, một nữ nông dân kiên cường quyết tâm trồng dâu tây bất chấp căn bệnh bí ẩn của mình. Xuất thân từ hai thế giới khác nhau, cả hai vướng vào một sự hiểu lầm bất ngờ. Trong khi đó, một mối tình khác đang nảy nở trên đảo giữa một cặp đôi trái ngược. Park Kunam, một du khách làm việc kỳ nghỉ, quyết định ở lại sau khi đem lòng yêu Mizuno Mari, một người đọc bài tarot trớ trêu thay lại không thể đoán trước được đường tình duyên của chính mình. Khi họ vượt qua câu chuyện tình yêu của riêng mình, họ trở thành những người giúp đỡ đáng tin cậy cho Yubin và Karin."
+    },
+    {
         "name": "Hoàng Hậu Tái Hôn",
         "year": 2026,
         "slug": "hoang-hau-tai-hon",
@@ -192,30 +240,6 @@
         "description": "Một nhân viên tiếp thị mang quan niệm truyền thống về tình yêu và hôn nhân nay phải chật vật tìm tiếng nói chung khi vướng vào mối quan hệ với vị CEO của một công ty sản xuất đồ chơi người lớn — người sở hữu những hệ giá trị hoàn toàn trái ngược."
     },
     {
-        "name": "Dâu Tây Ngọt Ngào",
-        "year": 2026,
-        "slug": "dau-tay-ngot-ngao",
-        "thumb": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261008/dau-tay-ngot-ngao-phan-1-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "10",
-        "country": "Nhật Bản",
-        "description": "Sau khi mất tất cả sau một đêm, Lee Yubin, một nhà thiết kế không gian người Hàn Quốc từng thành công, đã đến một hòn đảo nhỏ xinh đẹp của Nhật Bản. Tại đây, trên đảo Charo, anh gặp Shirahama Karin, một nữ nông dân kiên cường quyết tâm trồng dâu tây bất chấp căn bệnh bí ẩn của mình. Xuất thân từ hai thế giới khác nhau, cả hai vướng vào một sự hiểu lầm bất ngờ. Trong khi đó, một mối tình khác đang nảy nở trên đảo giữa một cặp đôi trái ngược. Park Kunam, một du khách làm việc kỳ nghỉ, quyết định ở lại sau khi đem lòng yêu Mizuno Mari, một người đọc bài tarot trớ trêu thay lại không thể đoán trước được đường tình duyên của chính mình. Khi họ vượt qua câu chuyện tình yêu của riêng mình, họ trở thành những người giúp đỡ đáng tin cậy cho Yubin và Karin."
-    },
-    {
-        "name": "Ma Thuật Đặc Biệt Của Phù Thủy Quay Ngược Thời Gian (Phần 2)",
-        "year": 2026,
-        "slug": "ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20261009/ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261009/ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "12",
-        "country": "Nhật Bản",
-        "description": "Thế giới đứng trước bờ vực diệt vong sau cuộc chiến tàn khốc kéo dài 10 năm trong \"mê cung bóng tối\". Desir Arman là một trong những pháp sư tài giỏi cuối cùng còn sót lại, nhưng ngay cả anh ấy cũng không phải là đối thủ của kẻ địch ghê gớm đang đe dọa sự tồn tại của nhân loại. Ngay thời khắc anh ấy nghĩ rằng tất cả đã chấm dứt, anh ấy được gửi ngược về thời gian, tới những ngày đầu học phép thuật tại Học viện Hebrion danh giá! Với cơ hội hiếm hoi thứ hai này, Desir quyết tâm cứu không chỉ bản thân mà còn cả những người bạn và đồng đội đã mất. Với kiến thức về tương lai, sự nỗ lực của anh ấy có thể tạo ra sự khác biệt hay tất cả họ đều cam chịu sống lại cùng một số phận khủng khiếp? Dựa trên một cuốn tiểu thuyết ăn khách."
-    },
-    {
         "name": "Bass X Machina",
         "year": 2026,
         "slug": "bass-x-machina",
@@ -334,29 +358,5 @@
         "total_episodes": "10",
         "country": "Hàn Quốc",
         "description": "Một người thừa kế tập đoàn với trái tim nhân tạo gặp một cô gái thực sự mang điện. Họ lập một thỏa thuận khiến tim anh đập – theo nhiều nghĩa."
-    },
-    {
-        "name": "Trúng Số Độc Đắc Vẫn Phải Đi Làm",
-        "year": 2026,
-        "slug": "trung-so-doc-dac-van-phai-di-lam",
-        "thumb": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260910/trung-so-doc-dac-van-phai-di-lam-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Hàn Quốc",
-        "description": "Coi tấm séc trúng thưởng như một dạng \"bảo hiểm tinh thần\", Eun-tae mang theo một thái độ tự tin, thoải mái và không còn sợ sệt bất cứ điều gì tại công sở. Sự thay đổi ngầm này vô tình tạo ra hàng loạt tình huống dở khóc dở cười, làm đảo lộn trật tự phân cấp công sở và thay đổi cách nhìn của các đồng nghiệp cũng như cấp trên đối với anh."
-    },
-    {
-        "name": "Bốn Bàn Tay, Hai Bản Sonata",
-        "year": 2026,
-        "slug": "bon-ban-tay-hai-ban-sonata",
-        "thumb": "https://phimimg.com/uploads/movies/20260829/bon-ban-tay-hai-ban-sonata-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260829/bon-ban-tay-hai-ban-sonata-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (12/12)",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Khi hai nghệ sĩ piano trẻ đến từ hai thế giới hoàn toàn khác biệt gặp gỡ tại ngôi trường trung học âm nhạc danh giá, khúc nhạc cuộc đời của họ bắt đầu gắn kết chặt chẽ."
     }
 ]
