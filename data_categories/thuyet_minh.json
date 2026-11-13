@@ -1,5 +1,17 @@
 [
     {
+        "name": "Gấp Ánh Trăng",
+        "year": 2026,
+        "slug": "gap-anh-trang",
+        "thumb": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 20",
+        "total_episodes": "27",
+        "country": "Trung Quốc",
+        "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học."
+    },
+    {
         "name": "Bạn Học Ma Cà Rồng",
         "year": 2026,
         "slug": "ban-hoc-ma-ca-rong",
@@ -22,18 +34,6 @@
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "12 thí sinh đối đầu trong các trò chơi trí tuệ, chiến lược và sáng suốt trong 6 đêm 7 ngày. Ai sẽ trở thành người chiến thắng cuối cùng?"
-    },
-    {
-        "name": "Gấp Ánh Trăng",
-        "year": 2026,
-        "slug": "gap-anh-trang",
-        "thumb": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 18",
-        "total_episodes": "27",
-        "country": "Trung Quốc",
-        "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học."
     },
     {
         "name": "Thượng Công Chúa",

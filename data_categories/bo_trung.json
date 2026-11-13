@@ -1,5 +1,41 @@
 [
     {
+        "name": "Gấp Ánh Trăng",
+        "year": 2026,
+        "slug": "gap-anh-trang",
+        "thumb": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 20",
+        "total_episodes": "27",
+        "country": "Trung Quốc",
+        "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học."
+    },
+    {
+        "name": "Chuyện Cũ Miền Biên Ải",
+        "year": 2026,
+        "slug": "chuyen-cu-mien-bien-ai",
+        "thumb": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 22",
+        "total_episodes": "24",
+        "country": "Trung Quốc",
+        "description": "Vào cuối thập niên 1970, chàng thanh niên vùng Tùng Liêu tên Lưu Hải Trụ vì ra tay nghĩa hiệp mà bị cuốn vào những cuộc phân tranh chốn giang hồ, từ đó kết nên tình nghĩa sinh tử với Đông Bá Thiên. Giữa những biến động của thời cuộc, từ một người công nhân bình thường rơi vào vòng xoáy giang hồ, anh đã trải qua tình bằng hữu, yêu hận đan xen cùng những lựa chọn giằng xé về nhân tính, để rồi cuối cùng hoàn thành hành trình trưởng thành và tự cứu rỗi bản thân giữa vùng đất đen băng tuyết."
+    },
+    {
+        "name": "Cuộc Chiến Hoa Hồng",
+        "year": 2026,
+        "slug": "cuoc-chien-hoa-hong-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 5",
+        "total_episodes": "25",
+        "country": "Trung Quốc",
+        "description": "Nữ nghệ sĩ Quan Tử Doanh đột ngột qua đời, khiến người bạn thân Hạ Vô Song đau buồn đến mức phải giải nghệ. Bảy năm sau, cô bất ngờ trở lại để hàn gắn quan hệ với nhóm bạn gái cũ trong giới giải trí. Vừa giả vờ thân thiết với họ, Hạ Vô Song vừa âm thầm khơi dậy những hiềm khích và sự nghi kỵ giữa các chị em năm xưa, buộc họ phải đối mặt với những bí mật mà ai cũng muốn che giấu. Khi Cuộc Chiến Hoa Hồng ngày càng khốc liệt, sự thật về cái chết của Tử Doanh cũng dần được hé lộ."
+    },
+    {
         "name": "Mười Ba Kiểu Tình Yêu",
         "year": 2026,
         "slug": "muoi-ba-kieu-tinh-yeu",
@@ -120,30 +156,6 @@
         "description": "Trịnh Vũ chật vật mưu sinh, phải làm việc quần quật. Cuộc gặp tình cờ đầy khó xử vào một ngày mưa khiến cô dè chừng Trần Nghiễn Châu, nam sinh viên vừa trở lại trường."
     },
     {
-        "name": "Chuyện Cũ Miền Biên Ải",
-        "year": 2026,
-        "slug": "chuyen-cu-mien-bien-ai",
-        "thumb": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 20",
-        "total_episodes": "24",
-        "country": "Trung Quốc",
-        "description": "Vào cuối thập niên 1970, chàng thanh niên vùng Tùng Liêu tên Lưu Hải Trụ vì ra tay nghĩa hiệp mà bị cuốn vào những cuộc phân tranh chốn giang hồ, từ đó kết nên tình nghĩa sinh tử với Đông Bá Thiên. Giữa những biến động của thời cuộc, từ một người công nhân bình thường rơi vào vòng xoáy giang hồ, anh đã trải qua tình bằng hữu, yêu hận đan xen cùng những lựa chọn giằng xé về nhân tính, để rồi cuối cùng hoàn thành hành trình trưởng thành và tự cứu rỗi bản thân giữa vùng đất đen băng tuyết."
-    },
-    {
-        "name": "Cuộc Chiến Hoa Hồng",
-        "year": 2026,
-        "slug": "cuoc-chien-hoa-hong-2026",
-        "thumb": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 4",
-        "total_episodes": "25",
-        "country": "Trung Quốc",
-        "description": "Nữ nghệ sĩ Quan Tử Doanh đột ngột qua đời, khiến người bạn thân Hạ Vô Song đau buồn đến mức phải giải nghệ. Bảy năm sau, cô bất ngờ trở lại để hàn gắn quan hệ với nhóm bạn gái cũ trong giới giải trí. Vừa giả vờ thân thiết với họ, Hạ Vô Song vừa âm thầm khơi dậy những hiềm khích và sự nghi kỵ giữa các chị em năm xưa, buộc họ phải đối mặt với những bí mật mà ai cũng muốn che giấu. Khi Cuộc Chiến Hoa Hồng ngày càng khốc liệt, sự thật về cái chết của Tử Doanh cũng dần được hé lộ."
-    },
-    {
         "name": "36 Kế Đoạt Mạng",
         "year": 2026,
         "slug": "36-ke-doat-mang",
@@ -154,18 +166,6 @@
         "total_episodes": "31",
         "country": "Trung Quốc",
         "description": "Tháp chỉ huy eo biển bị đâm sập, Nhan Tử Châu (mật danh Dạ Nhận) nhận lệnh mở cuộc điều tra thì đúng lúc này, em gái Tiểu Tiểu bất ngờ ngã lầu! Nhan Tử Châu liền bày ra ba mươi sáu kế, dẫn theo em trai thứ hai là Tông Tiểu Quyền và Lê Ly – chị gái song sinh thất lạc của Tiểu Tiểu, hỗ trợ sở cảnh sát địa phương vạch trần vụ án cha mẹ bị sát hại 18 năm trước thông qua Lê Lạc, đưa những kẻ đầu sỏ là chị em Hà Hoan cùng đám người Khang Khánh Điền ra trước pháp luật."
-    },
-    {
-        "name": "Gấp Ánh Trăng",
-        "year": 2026,
-        "slug": "gap-anh-trang",
-        "thumb": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 18",
-        "total_episodes": "27",
-        "country": "Trung Quốc",
-        "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học."
     },
     {
         "name": "Thượng Công Chúa",
