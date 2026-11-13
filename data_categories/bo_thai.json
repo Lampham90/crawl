@@ -1,5 +1,41 @@
 [
     {
+        "name": "Hương Tình Miền Quê",
+        "year": 2026,
+        "slug": "huong-tinh-mien-que",
+        "thumb": "https://phimimg.com/uploads/movies/20261106/huong-tinh-mien-que-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261023/huong-tinh-mien-que-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 13",
+        "total_episodes": "26",
+        "country": "Thái Lan",
+        "description": "Gánh khoản nợ sau khi cha mất, Auemdao đành bán đôi trâu yêu quý của gia đình, rồi cùng một chàng trai nuôi trâu cuốn hút tìm cách mua lại chúng."
+    },
+    {
+        "name": "Dịch Vụ Chia Tay Thuê",
+        "year": 2026,
+        "slug": "dich-vu-chia-tay-thue",
+        "thumb": "https://phimimg.com/uploads/movies/20261023/dich-vu-chia-tay-thue-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261023/dich-vu-chia-tay-thue-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 5",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Thitinan sẵn sàng nhận bất kỳ công việc nào — từ làm bạn gái hờ cho đến ra tay chia rẽ một mối quan hệ. Thế nhưng, riêng với cô Chat, anh lại có một dịch vụ vô cùng đặc biệt: trở thành \"huấn luyện viên chuyện phòng chiếu\"."
+    },
+    {
+        "name": "Bảo Vệ Đất Mẹ",
+        "year": 2026,
+        "slug": "bao-ve-dat-me",
+        "thumb": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 7",
+        "total_episodes": "24",
+        "country": "Thái Lan",
+        "description": "Mintada, chiến binh người Kase, học ở Thái Lan và phải lòng tiểu thư giàu có Punpussa, nhưng chiến tranh, sự ngăn cấm của gia đình và nghĩa vụ với quê hương chia cắt họ."
+    },
+    {
         "name": "Tổ Ấm Tình Yêu / Kiến Tạo Trái Tim",
         "year": 2026,
         "slug": "to-am-tinh-yeu-kien-tao-trai-tim",
@@ -24,18 +60,6 @@
         "description": "Thất vọng với hệ thống, một cựu quân nhân tinh nhuệ trở thành sát thủ. Nhưng một nhiệm vụ mới bất ngờ đẩy người y tá chăm sóc bà của anh vào nguy hiểm."
     },
     {
-        "name": "Hương Tình Miền Quê",
-        "year": 2026,
-        "slug": "huong-tinh-mien-que",
-        "thumb": "https://phimimg.com/uploads/movies/20261106/huong-tinh-mien-que-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261023/huong-tinh-mien-que-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 12",
-        "total_episodes": "26",
-        "country": "Thái Lan",
-        "description": "Gánh khoản nợ sau khi cha mất, Auemdao đành bán đôi trâu yêu quý của gia đình, rồi cùng một chàng trai nuôi trâu cuốn hút tìm cách mua lại chúng."
-    },
-    {
         "name": "Chạm Vào Anh / Dạy Tôi Cách Yêu",
         "year": 2026,
         "slug": "cham-vao-anh-day-toi-cach-yeu",
@@ -46,18 +70,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Bị người yêu đá vì quá \"nhạt nhẽo\", Gear quyết định thuê một tay ăn chơi chính hiệu về dạy cho mình biết thế nào là sự đam mê. Thế nhưng, những bài học thân mật ấy đã nhanh chóng vượt qua ranh giới giả vờ để biến thành một tình yêu thực sự."
-    },
-    {
-        "name": "Bảo Vệ Đất Mẹ",
-        "year": 2026,
-        "slug": "bao-ve-dat-me",
-        "thumb": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "24",
-        "country": "Thái Lan",
-        "description": "Mintada, chiến binh người Kase, học ở Thái Lan và phải lòng tiểu thư giàu có Punpussa, nhưng chiến tranh, sự ngăn cấm của gia đình và nghĩa vụ với quê hương chia cắt họ."
     },
     {
         "name": "The Rules",
@@ -214,18 +226,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Chemistry - phản ứng hóa học giữa các nhân vật, là cảm giác đặc biệt nảy sinh khi hai người ở bên nhau, khiến ngay cả những khoảnh khắc bình thường nhất cũng trở nên đặc biệt."
-    },
-    {
-        "name": "Dịch Vụ Chia Tay Thuê",
-        "year": 2026,
-        "slug": "dich-vu-chia-tay-thue",
-        "thumb": "https://phimimg.com/uploads/movies/20261023/dich-vu-chia-tay-thue-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261023/dich-vu-chia-tay-thue-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 4",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Thitinan sẵn sàng nhận bất kỳ công việc nào — từ làm bạn gái hờ cho đến ra tay chia rẽ một mối quan hệ. Thế nhưng, riêng với cô Chat, anh lại có một dịch vụ vô cùng đặc biệt: trở thành \"huấn luyện viên chuyện phòng chiếu\"."
     },
     {
         "name": "Mái Ấm Địa Ngục",
