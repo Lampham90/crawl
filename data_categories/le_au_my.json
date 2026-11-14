@@ -1,5 +1,17 @@
 [
     {
+        "name": "Heartland",
+        "year": 2026,
+        "slug": "heartland",
+        "thumb": "https://phimimg.com/uploads/movies/20261114/heartland-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261114/heartland-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Huyền thoại nhạc đồng quê một thời Misty Jones (Jessica Chastain) trở lại Nashville để lật mở sự thật đằng sau vụ mất tích của cô cháu gái – một ngôi sao đang lên."
+    },
+    {
         "name": "Phúc Âm Giáng Sinh",
         "year": 2026,
         "slug": "phuc-am-giang-sinh",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Olive Smith, một nghiên cứu sinh tiến sĩ ngành sinh học, cùng Tiến sĩ Adam Carlsen — một giáo sư tài năng nhưng nổi tiếng là vị \"bạo quân\" gắt gao — cùng nhau bước vào một mối quan hệ giả tạo. Để rồi từ đây, cả hai đành bất lực nhìn những lý thuyết về tình yêu được tính toán kỹ lưỡng của mình hoàn toàn bị đảo lộn trong hỗn loạn."
-    },
-    {
-        "name": "Tenzing: Vươn Tới Đỉnh Everest",
-        "year": 2026,
-        "slug": "tenzing-vuon-toi-dinh-everest",
-        "thumb": "https://phimimg.com/uploads/movies/20261019/tenzing-vuon-toi-dinh-everest-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261019/tenzing-vuon-toi-dinh-everest-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Úc",
-        "description": "Một người đàn ông quyết chí dấn thân vào một sứ mệnh rủi ro—và vượt qua những khó khăn không tưởng để hoàn thành ước mơ trở thành người đầu tiên lên đỉnh Everest."
     }
 ]
