@@ -1,5 +1,17 @@
 [
     {
+        "name": "Gấp Ánh Trăng",
+        "year": 2026,
+        "slug": "gap-anh-trang",
+        "thumb": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 22",
+        "total_episodes": "27",
+        "country": "Trung Quốc",
+        "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học."
+    },
+    {
         "name": "Thượng Công Chúa",
         "year": 2026,
         "slug": "thuong-cong-chua",
@@ -118,18 +130,6 @@
         "total_episodes": "12",
         "country": "Trung Quốc",
         "description": "Linh lực của trái đất được hồi sinh, Lữ Thụ và cô nhi Lữ Tiểu Ngư nương tựa nhau mà sống, trong một lần tai nạn xe đã thức tỉnh dị năng. Trong thế giới đang thay đổi, Lữ Thụ sử dụng những lợi thế bẩm sinh của bản thân để tạo ra những cảm xúc tiêu cực, có được nguồn tinh thần và cùng Lữ Tiểu Ngư trở nên mạnh mẽ hơn, nổi bật nhất trong những người đã thức tỉnh dị năng."
-    },
-    {
-        "name": "Gấp Ánh Trăng",
-        "year": 2026,
-        "slug": "gap-anh-trang",
-        "thumb": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 20",
-        "total_episodes": "27",
-        "country": "Trung Quốc",
-        "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học."
     },
     {
         "name": "Cuộc Chiến Hoa Hồng",
