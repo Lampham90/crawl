@@ -1,5 +1,41 @@
 [
     {
+        "name": "Ông Trùm Giang Hồ (Phần 4)",
+        "year": 2026,
+        "slug": "ong-trum-giang-ho-phan-4",
+        "thumb": "https://phimimg.com/uploads/movies/20261103/ong-trum-giang-ho-phan-4-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261103/ong-trum-giang-ho-phan-4-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Sau khi ra tù, thủ lĩnh mafia Dwight \"The General\" Manfredi bị đày đến Tulsa, Oklahoma, nơi hắn xây dựng một đế chế tội phạm mới với một nhóm gồm những nhân vật không có khả năng."
+    },
+    {
+        "name": "Lãnh Địa Tử Chiến (Phần 2)",
+        "year": 2026,
+        "slug": "lanh-dia-tu-chien-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 9",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Sau những biến động và cuộc chiến đẫm máu ở mùa đầu tiên, gia đình tội phạm quyền lực nhà Harrigan bước sang mùa 2 trong tình trạng rạn nứt nghiêm trọng. Sức ép đè nặng khi các thành viên bắt đầu đối đầu lẫn nhau, đứng trước nguy cơ xảy ra một cuộc nội chiến thực sự."
+    },
+    {
+        "name": "Hot Ones: Tăng Độ Cay",
+        "year": 2026,
+        "slug": "hot-ones-tang-do-cay",
+        "thumb": "https://phimimg.com/uploads/movies/20260715/hot-ones-tang-do-cay-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260715/hot-ones-tang-do-cay-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "10",
+        "country": "Âu Mỹ",
+        "description": "Trong loạt chương trình đặc biệt hoàn toàn mới và độc quyền này, các khách mời là những người nổi tiếng sẽ bị thách thức trả lời những câu hỏi \"hóc búa\" trong khi thưởng thức những chiếc cánh gà còn \"cay nóng\" hơn thế."
+    },
+    {
         "name": "Đặc Vụ Will Trent (Phần 3)",
         "year": 2025,
         "slug": "dac-vu-will-trent-phan-3",
@@ -120,18 +156,6 @@
         "description": "Lấy bối cảnh tại Nam Jamaica, Queens vào năm 1991, phần tiền truyện của “Power” xoay quanh hành trình trưởng thành đầy sóng gió của Kanan Stark giữa thế giới ngầm tàn khốc."
     },
     {
-        "name": "Ông Trùm Giang Hồ (Phần 4)",
-        "year": 2026,
-        "slug": "ong-trum-giang-ho-phan-4",
-        "thumb": "https://phimimg.com/uploads/movies/20261103/ong-trum-giang-ho-phan-4-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261103/ong-trum-giang-ho-phan-4-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Sau khi ra tù, thủ lĩnh mafia Dwight \"The General\" Manfredi bị đày đến Tulsa, Oklahoma, nơi hắn xây dựng một đế chế tội phạm mới với một nhóm gồm những nhân vật không có khả năng."
-    },
-    {
         "name": "Ông Trùm Giang Hồ (Phần 3)",
         "year": 2025,
         "slug": "ong-trum-giang-ho-phan-3",
@@ -142,18 +166,6 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Sau khi ra tù, thủ lĩnh mafia Dwight &quot;The General&quot; Manfredi bị đày đến Tulsa, Oklahoma, nơi hắn xây dựng một đế chế tội phạm mới với một nhóm gồm những nhân vật không có khả năng."
-    },
-    {
-        "name": "Lãnh Địa Tử Chiến (Phần 2)",
-        "year": 2026,
-        "slug": "lanh-dia-tu-chien-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260921/lanh-dia-tu-chien-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 8",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Sau những biến động và cuộc chiến đẫm máu ở mùa đầu tiên, gia đình tội phạm quyền lực nhà Harrigan bước sang mùa 2 trong tình trạng rạn nứt nghiêm trọng. Sức ép đè nặng khi các thành viên bắt đầu đối đầu lẫn nhau, đứng trước nguy cơ xảy ra một cuộc nội chiến thực sự."
     },
     {
         "name": "Bồ Câu Đen (Phần 2)",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Âu Mỹ",
         "description": "Pam Voorhees, một người mẹ đơn thân, vẫn chưa thể nguôi ngoai nỗi đau mất con sau khi Jason — đứa con trai nhỏ ốm yếu của bà — đuối nước thảm thương dưới hồ nước của thị trấn gần một năm trước. Khi hai kẻ xa lạ tìm đến tận nhà Pam để bới móc quá khứ của bà, một chuỗi sự kiện đáng sợ bắt đầu bùng nổ, khiến người dân thị trấn Crystal Lake phải bàng hoàng tự hỏi: Rốt cuộc Pam Voorhees là ai?"
-    },
-    {
-        "name": "Cyberpunk Edgerunners (Phần 2)",
-        "year": 2026,
-        "slug": "cyberpunk-edgerunners-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Nhật Bản",
-        "description": "Giữa cảnh loạn lạc đầy sự thối nát và siêu thiết bị điều khiển, tên nhóc đường phố tài ba mà liều lĩnh cố gắng trở thành edgerunner, lính đánh thuê ngoài vòng pháp luật."
     }
 ]
