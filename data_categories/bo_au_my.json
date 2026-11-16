@@ -1,5 +1,17 @@
 [
     {
+        "name": "Cunk Nói Về Điện Ảnh",
+        "year": 2026,
+        "slug": "cunk-noi-ve-dien-anh",
+        "thumb": "https://phimimg.com/uploads/movies/20261116/cunk-noi-ve-dien-anh-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261116/cunk-noi-ve-dien-anh-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (6/6)",
+        "total_episodes": "6",
+        "country": "Anh",
+        "description": "Philomena Cunk bước vào hành trình khám phá lịch sử điện ảnh đầy hoành tráng trong loạt phim giả tài liệu tinh quái này, khiến các chuyên gia điện ảnh nhiều phen bối rối."
+    },
+    {
         "name": "Ông Trùm Giang Hồ (Phần 4)",
         "year": 2026,
         "slug": "ong-trum-giang-ho-phan-4",
@@ -346,17 +358,5 @@
         "total_episodes": "6",
         "country": "Anh",
         "description": "Bộ phim điệp viên hài hước theo chân hành trình của một nhóm đặc vụ MI5 vô tích sự và ông sếp đáng ghét của họ - Jackson Lamb khét tiếng - trong thế giới tình báo đầy lừa lọc nhằm bảo vệ nước Anh trước những thế lực xấu xa."
-    },
-    {
-        "name": "Hồ Crystal",
-        "year": 2026,
-        "slug": "ho-crystal",
-        "thumb": "https://phimimg.com/uploads/movies/20261021/ho-crystal-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261021/ho-crystal-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (8/8)",
-        "total_episodes": "8",
-        "country": "Âu Mỹ",
-        "description": "Pam Voorhees, một người mẹ đơn thân, vẫn chưa thể nguôi ngoai nỗi đau mất con sau khi Jason — đứa con trai nhỏ ốm yếu của bà — đuối nước thảm thương dưới hồ nước của thị trấn gần một năm trước. Khi hai kẻ xa lạ tìm đến tận nhà Pam để bới móc quá khứ của bà, một chuỗi sự kiện đáng sợ bắt đầu bùng nổ, khiến người dân thị trấn Crystal Lake phải bàng hoàng tự hỏi: Rốt cuộc Pam Voorhees là ai?"
     }
 ]
