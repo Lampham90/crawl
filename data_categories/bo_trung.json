@@ -1,5 +1,29 @@
 [
     {
+        "name": "Thập Vạn Cuồng Hoa Nhập Mộng Lai",
+        "year": 2026,
+        "slug": "thap-van-cuong-hoa-nhap-mong-lai",
+        "thumb": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 9",
+        "total_episodes": "30",
+        "country": "Trung Quốc",
+        "description": "Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc này vừa chán ghét nhau mà cũng cứu rỗi lẫn nhau. Trải qua sáu vụ án kì quái: bộ xương khô tóc dài, sáng làm người tối làm yêu, thuồng luồng hóa rồng, bể máu trả hồn, hồng nhan moi tim và pháo hoa cá vàng, họ phá giải các âm mưu phía sau, cuối cùng giúp nhau rửa sạch tiếng xấu, trả lại tự do cho thế gian, giúp những người có tình được về bên nhau."
+    },
+    {
+        "name": "Cuộc Chiến Hoa Hồng",
+        "year": 2026,
+        "slug": "cuoc-chien-hoa-hong-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 10",
+        "total_episodes": "25",
+        "country": "Trung Quốc",
+        "description": "Nữ nghệ sĩ Quan Tử Doanh đột ngột qua đời, khiến người bạn thân Hạ Vô Song đau buồn đến mức phải giải nghệ. Bảy năm sau, cô bất ngờ trở lại để hàn gắn quan hệ với nhóm bạn gái cũ trong giới giải trí. Vừa giả vờ thân thiết với họ, Hạ Vô Song vừa âm thầm khơi dậy những hiềm khích và sự nghi kỵ giữa các chị em năm xưa, buộc họ phải đối mặt với những bí mật mà ai cũng muốn che giấu. Khi Cuộc Chiến Hoa Hồng ngày càng khốc liệt, sự thật về cái chết của Tử Doanh cũng dần được hé lộ."
+    },
+    {
         "name": "Thượng Công Chúa",
         "year": 2026,
         "slug": "thuong-cong-chua",
@@ -106,18 +130,6 @@
         "total_episodes": "26",
         "country": "Trung Quốc",
         "description": "Từ nhỏ, Cốc An luôn nỗ lực tu luyện với khát vọng trở thành tiên nhân. Thế nhưng, vì trời sinh thiếu linh căn nên anh vô duyên với tiên đạo, lại còn bị lừa vào một khu lừa đảo của giới tu tiên, nhiều lần cận kề cái chết. Sau khi trải qua vô vàn đau khổ và bị dồn đến đường cùng, Cốc An quyết tâm vùng lên báo thù, từng bước nghịch thiên cải mệnh. Con đường thượng vị của anh bắt đầu từ đây, với lời thề một ngày sẽ một đao chém rách cả thương khung."
-    },
-    {
-        "name": "Cuộc Chiến Hoa Hồng",
-        "year": 2026,
-        "slug": "cuoc-chien-hoa-hong-2026",
-        "thumb": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 9",
-        "total_episodes": "25",
-        "country": "Trung Quốc",
-        "description": "Nữ nghệ sĩ Quan Tử Doanh đột ngột qua đời, khiến người bạn thân Hạ Vô Song đau buồn đến mức phải giải nghệ. Bảy năm sau, cô bất ngờ trở lại để hàn gắn quan hệ với nhóm bạn gái cũ trong giới giải trí. Vừa giả vờ thân thiết với họ, Hạ Vô Song vừa âm thầm khơi dậy những hiềm khích và sự nghi kỵ giữa các chị em năm xưa, buộc họ phải đối mặt với những bí mật mà ai cũng muốn che giấu. Khi Cuộc Chiến Hoa Hồng ngày càng khốc liệt, sự thật về cái chết của Tử Doanh cũng dần được hé lộ."
     },
     {
         "name": "Yêu Một Kẻ Ngốc",
@@ -346,17 +358,5 @@
         "total_episodes": "104",
         "country": "Trung Quốc",
         "description": "Thị Trấn Đại Thiên là một bộ phim hoạt hình ngắn ăn theo (derivative animated short) được phát triển dựa trên ba tác phẩm nổi tiếng của tác giả Thiên Tàm Thổ Đậu gồm: Đại Chúa Tể, Nguyên Tôn và Vạn Tướng Chi Vương."
-    },
-    {
-        "name": "Cuồng Vương (Phần 2)",
-        "year": 2026,
-        "slug": "cuong-vuong-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20261014/cuong-vuong-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261014/cuong-vuong-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 10",
-        "total_episodes": "14",
-        "country": "Trung Quốc",
-        "description": "Bộ phim kể về con đường xưng vương của A Tu La Vương – Cuồng Vương La Hầu vang danh Tam giới. Thiếu niên tộc A Tu La tên Hữu Ngư từ nhỏ đã yếu ớt, lúc nhỏ cả tộc đột nhiên bị người thần bí thảm sát, dù không tình nguyện nhưng bản thân cũng bị mang đi, tiến hành những bài rèn luyện không khác gì địa ngục. Sau vô số lần chết đi sống lại, thiếu niên Hữu Ngư lột xác, cuối cùng gánh trên vai tín niệm của bằng hữu thân thiết, trở thành A Tu La Vương - Cuồng Vương, đổi tên là La Hầu. Trận đại chiến trăm năm giữa Thiên giới và A Tu La bùng nổ bất cứ lúc nào, tân vương trẻ tuổi liệu có thể gánh vác được trọng trách nặng nề này hay không đây?"
     }
 ]
