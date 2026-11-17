@@ -1,5 +1,41 @@
 [
     {
+        "name": "Nhất Trảm Thương Khung",
+        "year": 2026,
+        "slug": "nhat-tram-thuong-khung",
+        "thumb": "https://phimimg.com/uploads/movies/20260729/nhat-tram-thuong-khung-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260729/nhat-tram-thuong-khung-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 18",
+        "total_episodes": "26",
+        "country": "Trung Quốc",
+        "description": "Từ nhỏ, Cốc An luôn nỗ lực tu luyện với khát vọng trở thành tiên nhân. Thế nhưng, vì trời sinh thiếu linh căn nên anh vô duyên với tiên đạo, lại còn bị lừa vào một khu lừa đảo của giới tu tiên, nhiều lần cận kề cái chết. Sau khi trải qua vô vàn đau khổ và bị dồn đến đường cùng, Cốc An quyết tâm vùng lên báo thù, từng bước nghịch thiên cải mệnh. Con đường thượng vị của anh bắt đầu từ đây, với lời thề một ngày sẽ một đao chém rách cả thương khung."
+    },
+    {
+        "name": "Thượng Công Chúa",
+        "year": 2026,
+        "slug": "thuong-cong-chua",
+        "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 37",
+        "total_episodes": "40",
+        "country": "Trung Quốc",
+        "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
+    },
+    {
+        "name": "Cuộc Chiến Hoa Hồng",
+        "year": 2026,
+        "slug": "cuoc-chien-hoa-hong-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 9",
+        "total_episodes": "25",
+        "country": "Trung Quốc",
+        "description": "Nữ nghệ sĩ Quan Tử Doanh đột ngột qua đời, khiến người bạn thân Hạ Vô Song đau buồn đến mức phải giải nghệ. Bảy năm sau, cô bất ngờ trở lại để hàn gắn quan hệ với nhóm bạn gái cũ trong giới giải trí. Vừa giả vờ thân thiết với họ, Hạ Vô Song vừa âm thầm khơi dậy những hiềm khích và sự nghi kỵ giữa các chị em năm xưa, buộc họ phải đối mặt với những bí mật mà ai cũng muốn che giấu. Khi Cuộc Chiến Hoa Hồng ngày càng khốc liệt, sự thật về cái chết của Tử Doanh cũng dần được hé lộ."
+    },
+    {
         "name": "Tình Gửi Cuối Thu",
         "year": 2026,
         "slug": "tinh-gui-cuoi-thu",
@@ -84,18 +120,6 @@
         "description": "Ing — người thừa kế vô cùng tự tin của Tập đoàn Araya — tình cờ gặp gỡ Yok, người thừa kế của một gia đình quý tộc lâu đời, thông qua Itt (em cùng cha khác mẹ của Ing và cũng là bạn của Yok). Lấy cớ bàn chuyện công việc, Ing liên tục tìm mọi cách để bước vào cuộc sống của Yok. Thế rồi, trong một đêm hỗn loạn chìm đắm trong men rượu, cả hai vượt qua giới hạn và trở nên thân mật, khiến tình cảm mà Yok dành cho Ing dần dần thay đổi. Khi tình yêu bắt đầu chớm nở giữa họ, Ing hoàn toàn không hề hay biết rằng bản thân đã bước vào một cái bẫy do chính Yok giăng sẵn."
     },
     {
-        "name": "Thượng Công Chúa",
-        "year": 2026,
-        "slug": "thuong-cong-chua",
-        "thumb": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 36",
-        "total_episodes": "40",
-        "country": "Trung Quốc",
-        "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp."
-    },
-    {
         "name": "Học Viện Cao Võ Đông Đại",
         "year": 2026,
         "slug": "hoc-vien-cao-vo-dong-dai",
@@ -118,18 +142,6 @@
         "total_episodes": "25",
         "country": "Trung Quốc",
         "description": "Hãy cùng đón xem hành trình thiếu niên chiêu hồn đối đầu trực diện với tà phái Cửu Cúc, liều mình bảo vệ chúng sinh Lam Hải trước nguy cơ sụp đổ ranh giới hai giới. Trong thế giới này, ý thức của muôn loài đều được cấu tạo từ các hạt vi mô. Thiếu niên Lâm Dã ở đảo Lam Hải bẩm sinh sở hữu thể chất \"chiêu hồn\" đặc biệt, được giới \"Du Hồn\" coi là \"khách sạn di động\", suốt ngày bị linh hồn nhập xác gây rối và phải bỏ chạy thục mạng. Sau khi tình cờ gặp gỡ Trần Quả — cô gái mang dị năng có khả năng thu phục \"Du Hồn\", Lâm Dã bước chân vào tổ chức siêu nhiên Học viện Hoa Tịnh, từ đó cuốn vào cuộc tranh đấu kéo dài hàng thế kỷ với tà phái \"Cửu Cúc Nhất Phái\" đến từ Đông Doanh. Trong hành trình này, cậu liên tục đối mặt với những âm mưu ly gián, hãm hại, và sự sụp đổ niềm tin. Cho đến khi cánh cổng ranh giới sắp mở ra, toàn thành phố rơi vào cảnh nguy vong, Lâm Dã đã dùng chấp niệm của một người bình thường để quyết đấu đến cùng với bản sao hoàn hảo của chính mình, dốc hết sức tàn bảo vệ Lam Hải. Tuy nhiên, ngay khi đại chiến khép lại và anh hùng ngã xuống, một âm mưu mới của Cửu Cúc Nhất Phái lại âm thầm lan rộng nơi sâu thẳm của dãy Côn Lôn..."
-    },
-    {
-        "name": "Cuộc Chiến Hoa Hồng",
-        "year": 2026,
-        "slug": "cuoc-chien-hoa-hong-2026",
-        "thumb": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 7",
-        "total_episodes": "25",
-        "country": "Trung Quốc",
-        "description": "Nữ nghệ sĩ Quan Tử Doanh đột ngột qua đời, khiến người bạn thân Hạ Vô Song đau buồn đến mức phải giải nghệ. Bảy năm sau, cô bất ngờ trở lại để hàn gắn quan hệ với nhóm bạn gái cũ trong giới giải trí. Vừa giả vờ thân thiết với họ, Hạ Vô Song vừa âm thầm khơi dậy những hiềm khích và sự nghi kỵ giữa các chị em năm xưa, buộc họ phải đối mặt với những bí mật mà ai cũng muốn che giấu. Khi Cuộc Chiến Hoa Hồng ngày càng khốc liệt, sự thật về cái chết của Tử Doanh cũng dần được hé lộ."
     },
     {
         "name": "Thái Cổ Thần Tôn",
@@ -346,17 +358,5 @@
         "total_episodes": "24",
         "country": "Trung Quốc",
         "description": "Gấu Trúc Lý, hay còn được viết đến với cái tên khác là Lý Hùng Miêu, một tác phẩm được kết hợp tinh tế giữa phong cách võ hiệp của Trung Quốc và những nét viễn tưởng mang tầm vóc vũ trụ của Nhật Bản. Tác giả Văn Chu mang đến câu chuyện về hành trình đầy lâm li bi đát nhưng cũng không kém phần thú vị của một cậu bé đến từ nhân tộc có tên Lý Hùng Miêu, cậu được Yêu tộc nuôi dưỡng và cưu mang từ nhỏ, học tập, rèn luyện và mang trên mình những tinh túy của võ thuật vô cùng tiềm năng. Theo sự dẫn dắt của sư phụ mình, Lý Hùng Miêu xuống núi và truy tìm để hỏi tội 3 kẻ thù đã nhẫn tâm thảm sát Yêu tộc thời gian trước đó. Hành trình truy tìm kẻ thù ấy không hề dễ dàng bởi thiên hạ rộng lớn bao la và ẩn chứa vô vàn những biến số khôn lường. Những sự thật về trận chiến giữa Nhân tộc và Yêu tộc dần được vén màn, cũng như những bị ẩn về thời kỳ đó, số phận của bản thân Gấu trúc Lý cũng được phơi bày."
-    },
-    {
-        "name": "Vạn Cổ Thần Đế",
-        "year": 2026,
-        "slug": "van-co-than-de",
-        "thumb": "https://phimimg.com/uploads/movies/20260721/van-co-than-de-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260721/van-co-than-de-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 35",
-        "total_episodes": "60",
-        "country": "Trung Quốc",
-        "description": "Tám trăm năm trước, Trương Nhược Trần là nhi tử duy nhất của Minh Đế. Tuy sở hữu tài năng tuyệt thế, chàng lại bị thanh mai trúc mã là công chúa Trì Dao sát hại. Tám trăm năm sau, chàng trọng sinh trong thân xác của Trương Nhược Trần - Cửu vương tử vô dụng của Vân Vũ Quận Quốc. Thân thể mới này ốm yếu, bệnh tật, không có chút linh lực nào, khiến chàng cùng mẫu thân là Lâm Phi phải chịu đủ mọi sự chèn ép trong phủ Quận Vương. Sau khi nhớ lại kiếp trước, Trương Nhược Trần thề sẽ trả thù Trì Dao nữ vương - nay đã trở thành chúa tể của Côn Luân Giới, đồng thời bảo vệ Lâm Phi, người mẹ hết lòng yêu thương mình. Sau khi thức tỉnh ấn ký Thần Võ Thời Không, Trương Nhược Trần dựa vào kinh nghiệm từ kiếp trước cùng sự khổ luyện để nhanh chóng trở nên mạnh mẽ."
     }
 ]

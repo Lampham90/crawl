@@ -1,5 +1,17 @@
 [
     {
+        "name": "Alan's Universe",
+        "year": 2026,
+        "slug": "alan-s-universe",
+        "thumb": "https://phimimg.com/uploads/movies/20261117/alan-s-universe-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261117/alan-s-universe-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (32/32)",
+        "total_episodes": "32",
+        "country": "Mỹ",
+        "description": "Alan cùng nhóm bạn du hành qua các vũ trụ kỳ ảo và nhận ra sức mạnh của tình yêu có thể chiến thắng tất cả."
+    },
+    {
         "name": "Cunk Nói Về Điện Ảnh",
         "year": 2026,
         "slug": "cunk-noi-ve-dien-anh",
@@ -346,17 +358,5 @@
         "total_episodes": "8",
         "country": "Âu Mỹ",
         "description": "Sau cái chết đột ngột, tai quái của người cha đẩy cô vào hệ sinh thái nghiệt ngã của trường cấp ba công lập, Carrie buộc phải đối mặt với một bê bối bắt nạt lan truyền chóng mặt làm xé xoáy cả cộng đồng, áp lực tàn nhẫn cùng sự độc ác dường như vô tình của thời đại mạng xã hội, và sự thức tỉnh của thứ năng lượng dịch chuyển đồ vật bằng tâm trí (telekinesis) đầy bí ẩn đang lớn dần cùng tuổi dậy thì của cô."
-    },
-    {
-        "name": "Những Điệp Viên Hết Thời (Phần 6)",
-        "year": 2026,
-        "slug": "nhung-diep-vien-het-thoi-phan-6",
-        "thumb": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260925/nhung-diep-vien-het-thoi-phan-6-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "6",
-        "country": "Anh",
-        "description": "Bộ phim điệp viên hài hước theo chân hành trình của một nhóm đặc vụ MI5 vô tích sự và ông sếp đáng ghét của họ - Jackson Lamb khét tiếng - trong thế giới tình báo đầy lừa lọc nhằm bảo vệ nước Anh trước những thế lực xấu xa."
     }
 ]
