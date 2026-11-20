@@ -1,5 +1,29 @@
 [
     {
+        "name": "Lằn Ranh Máu",
+        "year": 2026,
+        "slug": "lan-ranh-mau",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20261106/lan-ranh-mau-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 8",
+        "total_episodes": "10",
+        "country": "Mỹ",
+        "description": "Trong hoàn cảnh tuyệt vọng mẹ lâm bệnh nặng và em trai ngập trong nợ nần, Mia Carter – điều phối viên tổng đài 911 kỳ cựu của OEMC Chicago – đã giấu kín một cuộc gọi cầu cứu sinh tử, đánh liều dùng một túi \"tiền đen\" để cứu gia đình. Nhưng ngay trong đêm đó, cô và em trai không chỉ bị cuốn vào cuộc truy sát khốc liệt đan xen giữa băng đảng ngầm, cảnh sát biến chất và hệ thống đô thị, mà còn buộc phải đối mặt với vết thương lòng đã xé nát gia đình họ suốt nhiều năm qua."
+    },
+    {
+        "name": "Những Kẻ Vị Tha",
+        "year": 2026,
+        "slug": "nhung-ke-vi-tha",
+        "thumb": "https://phimimg.com/uploads/movies/20261120/nhung-ke-vi-tha-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261120/nhung-ke-vi-tha-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Trẻ trung, giàu lý tưởng và bỗng trị giá hàng tỷ đô, họ muốn làm điều tốt nhưng lại khiến nhau bộc lộ những mặt xấu xa nhất. Mối tình độc hại lấy cảm hứng từ vụ lừa đảo có thật."
+    },
+    {
         "name": "Bảy Hiệp Sĩ Của Vương Quốc Marronnier",
         "year": 2026,
         "slug": "bay-hiep-si-cua-vuong-quoc-marronnier",
@@ -154,18 +178,6 @@
         "total_episodes": "20",
         "country": "Mexico",
         "description": "Khi cuộc sống vun vén bấy lâu nay đổ vỡ, Alicia trở lại hành nghề luật sư và nhận ra việc gây dựng lại sự nghiệp cũng đồng nghĩa với việc thay đổi chính bản thân mình."
-    },
-    {
-        "name": "Lằn Ranh Máu",
-        "year": 2026,
-        "slug": "lan-ranh-mau",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20261106/lan-ranh-mau-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 6",
-        "total_episodes": "10",
-        "country": "Mỹ",
-        "description": "Trong hoàn cảnh tuyệt vọng mẹ lâm bệnh nặng và em trai ngập trong nợ nần, Mia Carter – điều phối viên tổng đài 911 kỳ cựu của OEMC Chicago – đã giấu kín một cuộc gọi cầu cứu sinh tử, đánh liều dùng một túi \"tiền đen\" để cứu gia đình. Nhưng ngay trong đêm đó, cô và em trai không chỉ bị cuốn vào cuộc truy sát khốc liệt đan xen giữa băng đảng ngầm, cảnh sát biến chất và hệ thống đô thị, mà còn buộc phải đối mặt với vết thương lòng đã xé nát gia đình họ suốt nhiều năm qua."
     },
     {
         "name": "Vision: Hành Trình Tìm Lại Ký Ức",
@@ -346,17 +358,5 @@
         "total_episodes": "3",
         "country": "Âu Mỹ",
         "description": "Loạt phim tài liệu ghi lại thành công ở Hollywood, sự ủng hộ công khai và cái chết bi thảm của ngôi sao \"Những người bạn\" được yêu mến, qua lời kể của những người thân cận nhất."
-    },
-    {
-        "name": "Lương Tối Thiểu",
-        "year": 2026,
-        "slug": "luong-toi-thieu",
-        "thumb": "https://phimimg.com/uploads/movies/20261027/luong-toi-thieu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261027/luong-toi-thieu-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (14/14)",
-        "total_episodes": "14",
-        "country": "Âu Mỹ",
-        "description": "Dựa trên loạt video ngắn ăn khách trên mạng xã hội, loạt phim theo chân các thiếu niên vừa đi học vừa chật vật vận hành tiệm pizza với ông chủ thất thường và đồng lương tối thiểu."
     }
 ]

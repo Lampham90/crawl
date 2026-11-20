@@ -1,5 +1,17 @@
 [
     {
+        "name": "Chị Em Kế",
+        "year": 2026,
+        "slug": "chi-em-ke",
+        "thumb": "https://phimimg.com/uploads/movies/20261120/chi-em-ke-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261120/chi-em-ke-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Hoàn Tất (1/1)",
+        "total_episodes": "1",
+        "country": "Âu Mỹ",
+        "description": "Sẽ ra sao nếu các chị em kế của Lọ Lem không hề độc ác… mà đó chỉ là những hiểu lầm tai hại? \"Ngày xửa ngày xưa\" bỗng trở nên thú vị hơn bao giờ hết."
+    },
+    {
         "name": "Hòn Đảo Quên Lãng",
         "year": 2026,
         "slug": "hon-dao-quen-lang",
@@ -340,16 +352,5 @@
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "Nhật Bản"
-    },
-    {
-        "name": "Cuộc phiêu lưu biến hóa",
-        "year": 2026,
-        "slug": "cuoc-phieu-luu-bien-hoa",
-        "thumb": "https://phimimg.com/upload/vod/20260501-1/dd3d18996e71bb0abb422536a22067fc.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260501-1/3b00f1bfd126dcedfb1836352be31f7e.jpg",
-        "sub_type": "Vietsub + Lồng Tiếng",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ"
     }
 ]

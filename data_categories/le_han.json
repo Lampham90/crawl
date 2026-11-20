@@ -1,5 +1,17 @@
 [
     {
+        "name": "Điểm Mù",
+        "year": 2026,
+        "slug": "diem-mu-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20261120/diem-mu-2026-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261120/diem-mu-2026-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Hàn Quốc",
+        "description": "Phát hiện người chị em song sinh qua đời bất thường dưới vỏ bọc tự sát, Seo-jin (Shin Min-A) quyết tâm dấn thân vào cuộc săn đuổi vạch mặt kẻ thủ ác. Đối mặt với căn bệnh di truyền đang rút cạn thị lực từng ngày và chính bản thân cô trở thành mục tiêu tiếp theo của kẻ sát nhân, hành trình giải mã ma trận tâm lý và truy lùng hung thủ của Seo-jin trở nên căng thẳng và nguy cấp hơn bao giờ hết."
+    },
+    {
         "name": "Kẻ Hồi Sinh",
         "year": 2026,
         "slug": "ke-hoi-sinh",
@@ -323,17 +335,6 @@
         "thumb": "https://phimimg.com/upload/vod/20251208-1/4d466b18eaaac0bf28cac405ba22b4e7.jpg",
         "poster": "https://phimimg.com/upload/vod/20251208-1/84eb1a74d6a6eabbb83e99d93b3edc47.jpg",
         "sub_type": "Vietsub + Thuyết Minh + Lồng Tiếng",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "han-quoc"
-    },
-    {
-        "name": "Ánh Dương Trong Đêm",
-        "year": 2025,
-        "slug": "anh-duong-trong-dem",
-        "thumb": "https://phimimg.com/upload/vod/20260122-1/433dff0c657c6f0d337e7a2164578d42.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260122-1/66d38b21cd564b7eeb45b239aa8f0b58.jpg",
-        "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "han-quoc"

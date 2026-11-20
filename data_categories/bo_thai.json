@@ -1,5 +1,29 @@
 [
     {
+        "name": "Phản Ứng Tình Yêu",
+        "year": 2026,
+        "slug": "phan-ung-tinh-yeu",
+        "thumb": "https://phimimg.com/uploads/movies/20261101/phan-ung-tinh-yeu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261101/phan-ung-tinh-yeu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 4",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Chemistry - phản ứng hóa học giữa các nhân vật, là cảm giác đặc biệt nảy sinh khi hai người ở bên nhau, khiến ngay cả những khoảnh khắc bình thường nhất cũng trở nên đặc biệt."
+    },
+    {
+        "name": "Dịch Vụ Chia Tay Thuê",
+        "year": 2026,
+        "slug": "dich-vu-chia-tay-thue",
+        "thumb": "https://phimimg.com/uploads/movies/20261023/dich-vu-chia-tay-thue-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261023/dich-vu-chia-tay-thue-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 6",
+        "total_episodes": "10",
+        "country": "Thái Lan",
+        "description": "Thitinan sẵn sàng nhận bất kỳ công việc nào — từ làm bạn gái hờ cho đến ra tay chia rẽ một mối quan hệ. Thế nhưng, riêng với cô Chat, anh lại có một dịch vụ vô cùng đặc biệt: trở thành \"huấn luyện viên chuyện phòng chiếu\"."
+    },
+    {
         "name": "Tổ Ấm Tình Yêu / Kiến Tạo Trái Tim",
         "year": 2026,
         "slug": "to-am-tinh-yeu-kien-tao-trai-tim",
@@ -216,18 +240,6 @@
         "description": "Câu chuyện bắt đầu khi Dobby đưa ra quyết định bất ngờ là bán đi khu ký túc xá cũ của gia đình (The D Dorm). Tuy nhiên, để có được quyền bán tòa nhà này, anh vướng vào một nhiệm vụ dở khóc dở cười: phải giúp linh hồn của ông nội quá cố (A Kong) truy tìm lại người tình đầu tiên trong quá khứ."
     },
     {
-        "name": "Phản Ứng Tình Yêu",
-        "year": 2026,
-        "slug": "phan-ung-tinh-yeu",
-        "thumb": "https://phimimg.com/uploads/movies/20261101/phan-ung-tinh-yeu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261101/phan-ung-tinh-yeu-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 3",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Chemistry - phản ứng hóa học giữa các nhân vật, là cảm giác đặc biệt nảy sinh khi hai người ở bên nhau, khiến ngay cả những khoảnh khắc bình thường nhất cũng trở nên đặc biệt."
-    },
-    {
         "name": "Lắng Nghe Thanh Âm",
         "year": 2026,
         "slug": "lang-nghe-thanh-am",
@@ -250,18 +262,6 @@
         "total_episodes": "16",
         "country": "Thái Lan",
         "description": "Bốn cặp đôi cùng tham gia Hội quạ đen bí ẩn, nơi những vụ việc siêu nhiên và nhiệm vụ nguy hiểm dẫn đến những mối quan hệ lãng mạn không ngờ tới."
-    },
-    {
-        "name": "Dịch Vụ Chia Tay Thuê",
-        "year": 2026,
-        "slug": "dich-vu-chia-tay-thue",
-        "thumb": "https://phimimg.com/uploads/movies/20261023/dich-vu-chia-tay-thue-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261023/dich-vu-chia-tay-thue-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 5",
-        "total_episodes": "10",
-        "country": "Thái Lan",
-        "description": "Thitinan sẵn sàng nhận bất kỳ công việc nào — từ làm bạn gái hờ cho đến ra tay chia rẽ một mối quan hệ. Thế nhưng, riêng với cô Chat, anh lại có một dịch vụ vô cùng đặc biệt: trở thành \"huấn luyện viên chuyện phòng chiếu\"."
     },
     {
         "name": "Chạm Vào Anh / Dạy Tôi Cách Yêu",

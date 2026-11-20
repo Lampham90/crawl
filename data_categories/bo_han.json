@@ -1,5 +1,17 @@
 [
     {
+        "name": "Con Đường Buồn Đau",
+        "year": 2026,
+        "slug": "con-duong-buon-dau",
+        "thumb": "https://phimimg.com/uploads/movies/20261120/con-duong-buon-dau-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261120/con-duong-buon-dau-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Hàn Quốc",
+        "description": "Giữa World Cup 2002, vụ giết người ghê rợn tại Tokyo đẩy Inose Hiroshi đối đầu với Kim Seok, một thanh tra đa nghi người Hàn Quốc – cho đến khi họ bất đắc dĩ phải bắt tay hợp tác."
+    },
+    {
         "name": "Ma Thuật Đặc Biệt Của Phù Thủy Quay Ngược Thời Gian (Phần 2)",
         "year": 2026,
         "slug": "ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2",
@@ -346,17 +358,5 @@
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Cuộc chiến sinh tồn của những đầu bếp và chủ nhà hàng nổi tiếng của Hàn Quốc, nơi danh tiếng và sự nghiệp được cất giấu, họ cạnh tranh hoàn toàn bằng tay nghề và kỹ năng kinh doanh. Giám khảo chính là khách hàng. Sân khấu thực sự dành cho các đầu bếp không phải là phim trường mà chính là đường phố."
-    },
-    {
-        "name": "Hương Vị Của Biển (Mùa 3)",
-        "year": 2026,
-        "slug": "huong-vi-cua-bien-mua-3",
-        "thumb": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260802/huong-vi-cua-bien-mua-3-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (12/12)",
-        "total_episodes": "12",
-        "country": "Hàn Quốc",
-        "description": "Mùa thứ hai trở lại với chị đẹp Yum Jung Ah, \"cây hài\" Park Jun Myun cùng hai thành viên mới là diễn viên Lim Ji Yeon và Lee Jae Wook. Họ sẽ cùng khám phá những điểm đến mới, tự tay khai thác những nguyên liệu tươi ngon theo mùa và quây quần bên những bữa ăn ấm cúng."
     }
 ]
