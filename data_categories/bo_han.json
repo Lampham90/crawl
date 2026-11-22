@@ -1,5 +1,41 @@
 [
     {
+        "name": "Văn Vũ Vương",
+        "year": 2026,
+        "slug": "van-vu-vuong",
+        "thumb": "https://phimimg.com/uploads/movies/20261115/van-vu-vuong-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261115/van-vu-vuong-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "28",
+        "country": "Hàn Quốc",
+        "description": "Sáu thế kỷ chiến tranh khiến Tam Quốc chìm trong loạn lạc. Đối mặt với những đối thủ hùng mạnh, một tiểu quốc đấu tranh để thống nhất vùng đất bị chia cắt."
+    },
+    {
+        "name": "Anh Là Nam Chính Đời Em",
+        "year": 2026,
+        "slug": "anh-la-nam-chinh-doi-em",
+        "thumb": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 9",
+        "total_episodes": "16",
+        "country": "Hàn Quốc",
+        "description": "Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự nghiệp. Mọi chuyện đảo lộn khi anh gặp Oh Hae Ra, một cô gái luôn tin rằng mình là nhân vật chính trong phim truyền hình. Anh Là Nam Chính Đời Em (Oh! My Guard) theo chân Tae Bong và Hae Ra trong hành trình tình yêu oái oăm, đầy những tình huống dở khóc dở cười, làm lu mờ ranh giới giữa đời thực và thế giới lãng mạn trên màn ảnh."
+    },
+    {
+        "name": "100 Ngày Lừa Dối",
+        "year": 2026,
+        "slug": "100-ngay-lua-doi",
+        "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 13",
+        "total_episodes": "16",
+        "country": "Hàn Quốc",
+        "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
+    },
+    {
         "name": "Cộng Sự Hoàn Hảo (Phần 2)",
         "year": 2026,
         "slug": "cong-su-hoan-hao-phan-2",
@@ -46,18 +82,6 @@
         "total_episodes": "12",
         "country": "Nhật Bản",
         "description": "Thế giới đứng trước bờ vực diệt vong sau cuộc chiến tàn khốc kéo dài 10 năm trong \"mê cung bóng tối\". Desir Arman là một trong những pháp sư tài giỏi cuối cùng còn sót lại, nhưng ngay cả anh ấy cũng không phải là đối thủ của kẻ địch ghê gớm đang đe dọa sự tồn tại của nhân loại. Ngay thời khắc anh ấy nghĩ rằng tất cả đã chấm dứt, anh ấy được gửi ngược về thời gian, tới những ngày đầu học phép thuật tại Học viện Hebrion danh giá! Với cơ hội hiếm hoi thứ hai này, Desir quyết tâm cứu không chỉ bản thân mà còn cả những người bạn và đồng đội đã mất. Với kiến thức về tương lai, sự nỗ lực của anh ấy có thể tạo ra sự khác biệt hay tất cả họ đều cam chịu sống lại cùng một số phận khủng khiếp? Dựa trên một cuốn tiểu thuyết ăn khách."
-    },
-    {
-        "name": "100 Ngày Lừa Dối",
-        "year": 2026,
-        "slug": "100-ngay-lua-doi",
-        "thumb": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261011/100-ngay-lua-doi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 12",
-        "total_episodes": "16",
-        "country": "Hàn Quốc",
-        "description": "Khao khát tự do, cô nàng móc túi số một của Gyeongseong thâm nhập vào chính quyền thực dân Nhật để đánh cắp bí mật, nhưng lại phải lòng con trai của mục tiêu."
     },
     {
         "name": "Chuyến Đi Chữa Lành",
@@ -120,18 +144,6 @@
         "description": "The Table: K-Chef 2026 quy tụ các đầu bếp hàng đầu Hàn Quốc tranh tài cho danh hiệu đầu bếp xuất sắc nhất đất nước. Đầu bếp tầm cỡ thế giới đầy bí ẩn Chris K., hay còn gọi là Kang Han, Song-yi đang chiến đấu để cứu lấy nhà hàng của mình, đầu bếp ngôi sao cầu toàn Woo-jin và các đầu bếp mang câu chuyện riêng bước vào một trận chiến ẩm thực khốc liệt. Hơn cả một cuộc thi, họ tìm thấy sự vỗ về trong món ăn và ở nhau."
     },
     {
-        "name": "Văn Vũ Vương",
-        "year": 2026,
-        "slug": "van-vu-vuong",
-        "thumb": "https://phimimg.com/uploads/movies/20261115/van-vu-vuong-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261115/van-vu-vuong-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "28",
-        "country": "Hàn Quốc",
-        "description": "Sáu thế kỷ chiến tranh khiến Tam Quốc chìm trong loạn lạc. Đối mặt với những đối thủ hùng mạnh, một tiểu quốc đấu tranh để thống nhất vùng đất bị chia cắt."
-    },
-    {
         "name": "Thợ Rèn Huyền Thoại",
         "year": 2026,
         "slug": "tho-ren-huyen-thoai",
@@ -142,18 +154,6 @@
         "total_episodes": "12",
         "country": "Nhật Bản",
         "description": "Thoát khỏi cuộc sống thường nhật ảm đạm trong SATISFY — một trò chơi thực tế ảo nơi người chơi có thể gặt hái danh vọng cùng tiền tài ngoài đời thực. Tuy nhiên, một người chơi tên Grid dường như chưa từng gặp may mắn trong cả game lẫn cuộc sống đời thực. Mọi thứ chỉ hoàn toàn thay đổi khi một nhiệm vụ đầy thử thách đã dẫn lối đưa anh trở thành người thừa kế của một thợ rèn huyền thoại. Dù toàn bộ chỉ số bị đưa về số 0, anh vẫn đang thăng cấp thần tốc và tự tay chế tạo ra những trang bị cấp thần vô cùng bá đạo."
-    },
-    {
-        "name": "Anh Là Nam Chính Đời Em",
-        "year": 2026,
-        "slug": "anh-la-nam-chinh-doi-em",
-        "thumb": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 8",
-        "total_episodes": "16",
-        "country": "Hàn Quốc",
-        "description": "Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự nghiệp. Mọi chuyện đảo lộn khi anh gặp Oh Hae Ra, một cô gái luôn tin rằng mình là nhân vật chính trong phim truyền hình. Anh Là Nam Chính Đời Em (Oh! My Guard) theo chân Tae Bong và Hae Ra trong hành trình tình yêu oái oăm, đầy những tình huống dở khóc dở cười, làm lu mờ ranh giới giữa đời thực và thế giới lãng mạn trên màn ảnh."
     },
     {
         "name": "Bác Sĩ X",
