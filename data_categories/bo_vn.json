@@ -1,5 +1,17 @@
 [
     {
+        "name": "Thần Nguyện Vì Bệ Hạ",
+        "year": 2026,
+        "slug": "than-nguyen-vi-be-ha",
+        "thumb": "https://phimimg.com/uploads/movies/20261123/than-nguyen-vi-be-ha-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261123/than-nguyen-vi-be-ha-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 2",
+        "total_episodes": "8",
+        "country": "Việt Nam",
+        "description": "Bát hoàng tử Nam Cung Minh có một sở thích bí mật mà người ngoài không ai hay biết. Chàng không mê mỹ nhân, cũng chẳng màng châu báu; điều duy nhất chàng say mê là để lại dấu vết trên người ta. Mỗi vết thương mới chồng lên sẹo cũ, chàng còn nhớ rõ hơn cả ta. Trớ trêu thay, vị điện hạ có ham muốn chiếm hữu đến mức bệnh hoạn ấy vẫn chưa biết rằng vị mưu sĩ trước mặt mình, luôn cúi đầu ngoan ngoãn, mỗi đêm trước khi ngủ đều thầm nhẩm cùng một cái tên: Nam Cung Vấn. Phụ hoàng của chàng. Kẻ thù của ta."
+    },
+    {
         "name": "Xóm Nhỏ",
         "year": 2026,
         "slug": "xom-nho",
@@ -328,17 +340,6 @@
         "sub_type": "Vietsub",
         "current_episode": "Hoàn Tất (48/48)",
         "total_episodes": "48",
-        "country": "viet-nam"
-    },
-    {
-        "name": "Khmer Đỏ",
-        "year": 2025,
-        "slug": "khmer-do",
-        "thumb": "https://phimimg.com/upload/vod/20250702-1/9f0429257af6e70d645a8dba33a89354.jpg",
-        "poster": "https://phimimg.com/upload/vod/20250702-1/4197fba9cd1ad05d5ec61753221c0f6c.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (9/9)",
-        "total_episodes": "9",
         "country": "viet-nam"
     }
 ]

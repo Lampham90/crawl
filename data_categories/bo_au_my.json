@@ -1,5 +1,17 @@
 [
     {
+        "name": "Bá Chủ Khu Thương Mại",
+        "year": 2026,
+        "slug": "ba-chu-khu-thuong-mai",
+        "thumb": "https://phimimg.com/uploads/movies/20261123/ba-chu-khu-thuong-mai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261123/ba-chu-khu-thuong-mai-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Mười đội chơi cùng dọn vào sống trong một trung tâm thương mại — nơi họ phải chinh phục các gian hàng, bắt tay lập liên minh và đấu trí vượt mặt đối thủ để giành lấy giải thưởng trị giá 1 triệu đô la trong chương trình truyền hình thực tế đầy kịch tính này."
+    },
+    {
         "name": "Bảy Hiệp Sĩ Của Vương Quốc Marronnier",
         "year": 2026,
         "slug": "bay-hiep-si-cua-vuong-quoc-marronnier",
@@ -346,17 +358,5 @@
         "total_episodes": "3",
         "country": "Âu Mỹ",
         "description": "Ai mới thực sự nắm quyền ở Sinaloa? El Mayo Zambada hoạt động như một bóng ma phía sau đồng phạm El Chapo, cho đến khi một vụ phản bội đẩy ông vào tâm điểm chú ý của dư luận."
-    },
-    {
-        "name": "Matthew Perry: Những Năm Cuối Cùng",
-        "year": 2026,
-        "slug": "matthew-perry-nhung-nam-cuoi-cung",
-        "thumb": "https://phimimg.com/uploads/movies/20261028/matthew-perry-nhung-nam-cuoi-cung-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261028/matthew-perry-nhung-nam-cuoi-cung-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (3/3)",
-        "total_episodes": "3",
-        "country": "Âu Mỹ",
-        "description": "Loạt phim tài liệu ghi lại thành công ở Hollywood, sự ủng hộ công khai và cái chết bi thảm của ngôi sao \"Những người bạn\" được yêu mến, qua lời kể của những người thân cận nhất."
     }
 ]
