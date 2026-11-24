@@ -1,5 +1,53 @@
 [
     {
+        "name": "Dưới Ánh Trăng Của Nàng",
+        "year": 2026,
+        "slug": "duoi-anh-trang-cua-nang",
+        "thumb": "https://phimimg.com/uploads/movies/20261115/duoi-anh-trang-cua-nang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261115/duoi-anh-trang-cua-nang-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Alice, một cô gái vừa tốt nghiệp, gặp gỡ sếp của mình là Nannalin - một người đầy nhiệt huyết và sức hút. Khi ranh giới giữa công việc, khao khát và quyền lực trở nên mờ nhạt, Alice phải đưa ra quyết định: thoát khỏi người sếp đòi hỏi khắt khe hay đầu hàng theo luật lệ của cô ấy?"
+    },
+    {
+        "name": "Phía Sau Dối Trá",
+        "year": 2026,
+        "slug": "phia-sau-doi-tra",
+        "thumb": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 14",
+        "total_episodes": "16",
+        "country": "Thái Lan",
+        "description": "Thân như anh em ruột dù chẳng phải máu mủ, Rawee và Phakorn bị tình yêu cùng sự dối trá chia cắt. Khi Phakorn ngã bệnh, Rawee hy sinh tất cả – và phải trả một cái giá quá đắt."
+    },
+    {
+        "name": "Dấu Ấn Tình Yêu",
+        "year": 2026,
+        "slug": "dau-an-tinh-yeu",
+        "thumb": "https://phimimg.com/uploads/movies/20261117/dau-an-tinh-yeu-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261117/dau-an-tinh-yeu-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 3",
+        "total_episodes": "8",
+        "country": "Thái Lan",
+        "description": "Những vết rạn nứt chực chờ vỡ vụn; ba con đường tình yêu bị định mệnh \"xé toạc\". Tình yêu bắt đầu tựa như một tia sáng... nhưng lại bị vấy bẩn bởi những vết thương từ quá khứ. Tình yêu thuần khiết sẵn sàng bảo vệ và chữa lành một trái tim tan vỡ. Tình yêu tựa như một sợi dây gắn kết, nhưng lại đầu hàng trước trái tim của tình yêu đích thực."
+    },
+    {
+        "name": "Chiếc Nhẫn Tri Kỷ",
+        "year": 2026,
+        "slug": "chiec-nhan-tri-ky",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20261006/chiec-nhan-tri-ky-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 15",
+        "total_episodes": "24",
+        "country": "Thái Lan",
+        "description": "Một người nổi tiếng có tầm ảnh hưởng chuẩn bị kết hôn với anh bạn trai chân chất. Nhưng cặp đôi một lần nữa phải chứng minh tình yêu của mình khi cặp nhẫn đưa họ quay về quá khứ."
+    },
+    {
         "name": "Hương Tình Miền Quê",
         "year": 2026,
         "slug": "huong-tinh-mien-que",
@@ -204,42 +252,6 @@
         "description": "Khi kiến trúc sư tài năng như \"Soul\" phải chạm trán với thầy phong thủy đối thủ chuyên gây rắc rối như \"Xin Xin\". Một người tin vào nguyên tắc, người kia lại tin vào phong thủy. Nghề nghiệp và niềm tin của họ hoàn toàn trái ngược, nhưng định mệnh lại đưa đẩy khiến cả hai phải làm việc cùng nhau. Liệu những bất đồng sẽ dần “gây dựng” nên một mối quan hệ, hay những xáo trộn trong trái tim sẽ dần “gây dựng tình yêu”?"
     },
     {
-        "name": "Phía Sau Dối Trá",
-        "year": 2026,
-        "slug": "phia-sau-doi-tra",
-        "thumb": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 13",
-        "total_episodes": "16",
-        "country": "Thái Lan",
-        "description": "Thân như anh em ruột dù chẳng phải máu mủ, Rawee và Phakorn bị tình yêu cùng sự dối trá chia cắt. Khi Phakorn ngã bệnh, Rawee hy sinh tất cả – và phải trả một cái giá quá đắt."
-    },
-    {
-        "name": "Chiếc Nhẫn Tri Kỷ",
-        "year": 2026,
-        "slug": "chiec-nhan-tri-ky",
-        "thumb": null,
-        "poster": "https://phimimg.com/uploads/movies/20261006/chiec-nhan-tri-ky-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 14",
-        "total_episodes": "24",
-        "country": "Thái Lan",
-        "description": "Một người nổi tiếng có tầm ảnh hưởng chuẩn bị kết hôn với anh bạn trai chân chất. Nhưng cặp đôi một lần nữa phải chứng minh tình yêu của mình khi cặp nhẫn đưa họ quay về quá khứ."
-    },
-    {
-        "name": "Dấu Ấn Tình Yêu",
-        "year": 2026,
-        "slug": "dau-an-tinh-yeu",
-        "thumb": "https://phimimg.com/uploads/movies/20261117/dau-an-tinh-yeu-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261117/dau-an-tinh-yeu-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "8",
-        "country": "Thái Lan",
-        "description": "Những vết rạn nứt chực chờ vỡ vụn; ba con đường tình yêu bị định mệnh \"xé toạc\". Tình yêu bắt đầu tựa như một tia sáng... nhưng lại bị vấy bẩn bởi những vết thương từ quá khứ. Tình yêu thuần khiết sẵn sàng bảo vệ và chữa lành một trái tim tan vỡ. Tình yêu tựa như một sợi dây gắn kết, nhưng lại đầu hàng trước trái tim của tình yêu đích thực."
-    },
-    {
         "name": "Đầu Bếp Đấu Giá",
         "year": 2026,
         "slug": "dau-bep-dau-gia",
@@ -250,18 +262,6 @@
         "total_episodes": "10",
         "country": "Thái Lan",
         "description": "Những đầu bếp hàng đầu bước vào cuộc thi nấu ăn khốc liệt, nơi họ phải đối đầu, đấu trí và trả giá vượt mặt nhau để khẳng định bản lĩnh ẩm thực."
-    },
-    {
-        "name": "Dưới Ánh Trăng Của Nàng",
-        "year": 2026,
-        "slug": "duoi-anh-trang-cua-nang",
-        "thumb": "https://phimimg.com/uploads/movies/20261115/duoi-anh-trang-cua-nang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261115/duoi-anh-trang-cua-nang-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 2",
-        "total_episodes": "8",
-        "country": "Thái Lan",
-        "description": "Alice, một cô gái vừa tốt nghiệp, gặp gỡ sếp của mình là Nannalin - một người đầy nhiệt huyết và sức hút. Khi ranh giới giữa công việc, khao khát và quyền lực trở nên mờ nhạt, Alice phải đưa ra quyết định: thoát khỏi người sếp đòi hỏi khắt khe hay đầu hàng theo luật lệ của cô ấy?"
     },
     {
         "name": "Yêu Hết Lòng Chàng Fanboy",

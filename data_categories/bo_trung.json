@@ -1,5 +1,29 @@
 [
     {
+        "name": "Lưỡng Kinh Thập Ngũ Nhật",
+        "year": 2026,
+        "slug": "luong-kinh-thap-ngu-nhat",
+        "thumb": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 10",
+        "total_episodes": "26",
+        "country": "Trung Quốc",
+        "description": "Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm."
+    },
+    {
+        "name": "Cuộc Chiến Hoa Hồng",
+        "year": 2026,
+        "slug": "cuoc-chien-hoa-hong-2026",
+        "thumb": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-poster.webp",
+        "sub_type": "Lồng Tiếng",
+        "current_episode": "Tập 20",
+        "total_episodes": "25",
+        "country": "Trung Quốc",
+        "description": "Nữ nghệ sĩ Quan Tử Doanh đột ngột qua đời, khiến người bạn thân Hạ Vô Song đau buồn đến mức phải giải nghệ. Bảy năm sau, cô bất ngờ trở lại để hàn gắn quan hệ với nhóm bạn gái cũ trong giới giải trí. Vừa giả vờ thân thiết với họ, Hạ Vô Song vừa âm thầm khơi dậy những hiềm khích và sự nghi kỵ giữa các chị em năm xưa, buộc họ phải đối mặt với những bí mật mà ai cũng muốn che giấu. Khi Cuộc Chiến Hoa Hồng ngày càng khốc liệt, sự thật về cái chết của Tử Doanh cũng dần được hé lộ."
+    },
+    {
         "name": "Thập Vạn Cuồng Hoa Nhập Mộng Lai",
         "year": 2026,
         "slug": "thap-van-cuong-hoa-nhap-mong-lai",
@@ -118,30 +142,6 @@
         "total_episodes": "13",
         "country": "Trung Quốc",
         "description": "Linh hồn của quân sư Gia Cát Lượng xuyên không từ thời Tam Quốc, nhập vào thân xác một người đàn ông đang chật vật với cuộc sống hiện đại."
-    },
-    {
-        "name": "Lưỡng Kinh Thập Ngũ Nhật",
-        "year": 2026,
-        "slug": "luong-kinh-thap-ngu-nhat",
-        "thumb": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 8",
-        "total_episodes": "26",
-        "country": "Trung Quốc",
-        "description": "Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm."
-    },
-    {
-        "name": "Cuộc Chiến Hoa Hồng",
-        "year": 2026,
-        "slug": "cuoc-chien-hoa-hong-2026",
-        "thumb": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-poster.webp",
-        "sub_type": "Lồng Tiếng",
-        "current_episode": "Tập 19",
-        "total_episodes": "25",
-        "country": "Trung Quốc",
-        "description": "Nữ nghệ sĩ Quan Tử Doanh đột ngột qua đời, khiến người bạn thân Hạ Vô Song đau buồn đến mức phải giải nghệ. Bảy năm sau, cô bất ngờ trở lại để hàn gắn quan hệ với nhóm bạn gái cũ trong giới giải trí. Vừa giả vờ thân thiết với họ, Hạ Vô Song vừa âm thầm khơi dậy những hiềm khích và sự nghi kỵ giữa các chị em năm xưa, buộc họ phải đối mặt với những bí mật mà ai cũng muốn che giấu. Khi Cuộc Chiến Hoa Hồng ngày càng khốc liệt, sự thật về cái chết của Tử Doanh cũng dần được hé lộ."
     },
     {
         "name": "Bắt Đầu Với Chí Tôn Đan Điền",
