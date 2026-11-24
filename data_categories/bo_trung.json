@@ -6,10 +6,22 @@
         "thumb": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
         "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
         "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 10",
+        "current_episode": "Tập 12",
         "total_episodes": "26",
         "country": "Trung Quốc",
         "description": "Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm."
+    },
+    {
+        "name": "Nhất Trảm Thương Khung",
+        "year": 2026,
+        "slug": "nhat-tram-thuong-khung",
+        "thumb": "https://phimimg.com/uploads/movies/20260729/nhat-tram-thuong-khung-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20260729/nhat-tram-thuong-khung-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Tập 19",
+        "total_episodes": "26",
+        "country": "Trung Quốc",
+        "description": "Từ nhỏ, Cốc An luôn nỗ lực tu luyện với khát vọng trở thành tiên nhân. Thế nhưng, vì trời sinh thiếu linh căn nên anh vô duyên với tiên đạo, lại còn bị lừa vào một khu lừa đảo của giới tu tiên, nhiều lần cận kề cái chết. Sau khi trải qua vô vàn đau khổ và bị dồn đến đường cùng, Cốc An quyết tâm vùng lên báo thù, từng bước nghịch thiên cải mệnh. Con đường thượng vị của anh bắt đầu từ đây, với lời thề một ngày sẽ một đao chém rách cả thương khung."
     },
     {
         "name": "Cuộc Chiến Hoa Hồng",
@@ -346,17 +358,5 @@
         "total_episodes": "30",
         "country": "Trung Quốc",
         "description": "Đây là một thế giới kỳ dị tồn tại song song với thế giới hiện thực, nơi người tham gia phải vượt qua những phó bản nguy hiểm, đối mặt với các nhiệm vụ sinh tử và những sinh vật siêu nhiên. Trong quá trình khám phá Linh Cảnh, Trương Nguyên Thanh từng bước thức tỉnh năng lực, trưởng thành qua những cuộc phiêu lưu và dần khám phá những bí mật ẩn giấu phía sau thế giới này."
-    },
-    {
-        "name": "Cuồng Vương (Phần 2)",
-        "year": 2026,
-        "slug": "cuong-vuong-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20261014/cuong-vuong-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261014/cuong-vuong-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Tập 11",
-        "total_episodes": "14",
-        "country": "Trung Quốc",
-        "description": "Bộ phim kể về con đường xưng vương của A Tu La Vương – Cuồng Vương La Hầu vang danh Tam giới. Thiếu niên tộc A Tu La tên Hữu Ngư từ nhỏ đã yếu ớt, lúc nhỏ cả tộc đột nhiên bị người thần bí thảm sát, dù không tình nguyện nhưng bản thân cũng bị mang đi, tiến hành những bài rèn luyện không khác gì địa ngục. Sau vô số lần chết đi sống lại, thiếu niên Hữu Ngư lột xác, cuối cùng gánh trên vai tín niệm của bằng hữu thân thiết, trở thành A Tu La Vương - Cuồng Vương, đổi tên là La Hầu. Trận đại chiến trăm năm giữa Thiên giới và A Tu La bùng nổ bất cứ lúc nào, tân vương trẻ tuổi liệu có thể gánh vác được trọng trách nặng nề này hay không đây?"
     }
 ]
