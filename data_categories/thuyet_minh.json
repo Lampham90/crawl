@@ -1,5 +1,29 @@
 [
     {
+        "name": "Thập Vạn Cuồng Hoa Nhập Mộng Lai",
+        "year": 2026,
+        "slug": "thap-van-cuong-hoa-nhap-mong-lai",
+        "thumb": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 20",
+        "total_episodes": "30",
+        "country": "Trung Quốc",
+        "description": "Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc này vừa chán ghét nhau mà cũng cứu rỗi lẫn nhau. Trải qua sáu vụ án kì quái: bộ xương khô tóc dài, sáng làm người tối làm yêu, thuồng luồng hóa rồng, bể máu trả hồn, hồng nhan moi tim và pháo hoa cá vàng, họ phá giải các âm mưu phía sau, cuối cùng giúp nhau rửa sạch tiếng xấu, trả lại tự do cho thế gian, giúp những người có tình được về bên nhau."
+    },
+    {
+        "name": "Bề Tôi Dưới Váy Nàng",
+        "year": 2026,
+        "slug": "be-toi-duoi-vay-nang",
+        "thumb": "https://phimimg.com/uploads/movies/20261120/be-toi-duoi-vay-nang-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261120/be-toi-duoi-vay-nang-poster.webp",
+        "sub_type": "Thuyết Minh",
+        "current_episode": "Tập 16",
+        "total_episodes": "24",
+        "country": "Trung Quốc",
+        "description": "Kiếp trước, Nhiếp chính vương Lục Kình Thương và Hoàng hậu Thẩm Sơ Ảnh chia đôi thiên hạ, thế lực ngang nhau. Cổ Âm Dương trói buộc sinh tử của họ; bị gian thần xúi giục, cả hai cùng chết. Trọng sinh, họ vẫn đối đầu."
+    },
+    {
         "name": "Lưỡng Kinh Thập Ngũ Nhật",
         "year": 2026,
         "slug": "luong-kinh-thap-ngu-nhat",
@@ -34,30 +58,6 @@
         "total_episodes": "12",
         "country": "Hàn Quốc",
         "description": "Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ hãi vì bị bám đuôi. Khi trở thành quản lý của anh, Yu Il phát hiện cuốn tiểu thuyết mình từng viết chính là ánh sáng đã nâng đỡ Mu I trong những ngày tăm tối. Từ những tổn thương giấu kín, hai trái tim dần tìm thấy nhau, viết nên một tình yêu vừa mong manh, vừa duy nhất."
-    },
-    {
-        "name": "Thập Vạn Cuồng Hoa Nhập Mộng Lai",
-        "year": 2026,
-        "slug": "thap-van-cuong-hoa-nhap-mong-lai",
-        "thumb": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 19",
-        "total_episodes": "30",
-        "country": "Trung Quốc",
-        "description": "Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc này vừa chán ghét nhau mà cũng cứu rỗi lẫn nhau. Trải qua sáu vụ án kì quái: bộ xương khô tóc dài, sáng làm người tối làm yêu, thuồng luồng hóa rồng, bể máu trả hồn, hồng nhan moi tim và pháo hoa cá vàng, họ phá giải các âm mưu phía sau, cuối cùng giúp nhau rửa sạch tiếng xấu, trả lại tự do cho thế gian, giúp những người có tình được về bên nhau."
-    },
-    {
-        "name": "Bề Tôi Dưới Váy Nàng",
-        "year": 2026,
-        "slug": "be-toi-duoi-vay-nang",
-        "thumb": "https://phimimg.com/uploads/movies/20261120/be-toi-duoi-vay-nang-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261120/be-toi-duoi-vay-nang-poster.webp",
-        "sub_type": "Thuyết Minh",
-        "current_episode": "Tập 14",
-        "total_episodes": "24",
-        "country": "Trung Quốc",
-        "description": "Kiếp trước, Nhiếp chính vương Lục Kình Thương và Hoàng hậu Thẩm Sơ Ảnh chia đôi thiên hạ, thế lực ngang nhau. Cổ Âm Dương trói buộc sinh tử của họ; bị gian thần xúi giục, cả hai cùng chết. Trọng sinh, họ vẫn đối đầu."
     },
     {
         "name": "Anh Là Nam Chính Đời Em",
