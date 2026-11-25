@@ -1,5 +1,17 @@
 [
     {
+        "name": "Vụ Án Karen Read",
+        "year": 2026,
+        "slug": "vu-an-karen-read",
+        "thumb": "https://phimimg.com/uploads/movies/20261125/vu-an-karen-read-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261125/vu-an-karen-read-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (3/3)",
+        "total_episodes": "3",
+        "country": "Mỹ",
+        "description": "Tai nạn, ẩu đả chết người hay âm mưu được che đậy tinh vi? Loạt phim tội phạm có thật đào sâu vào các phiên tòa xét xử Karen Read trong vụ án mạng làm dấy lên vô số thuyết âm mưu."
+    },
+    {
         "name": "Bá Chủ Khu Thương Mại",
         "year": 2026,
         "slug": "ba-chu-khu-thuong-mai",
@@ -346,17 +358,5 @@
         "total_episodes": "10",
         "country": "Âu Mỹ",
         "description": "Gia đình Jason ban đầu tìm được một khoảng thời gian yên bình, tưởng chừng đã định cư an toàn tại một thực tại mới. Tuy nhiên, sự bình yên đó không kéo dài lâu khi những hiểm họa từ không gian đa vũ trụ và những rắc rối chưa được giải quyết từ thế giới cũ tiếp tục đeo bám, buộc họ phải một lần nữa dấn thân vào cuộc trốn chạy mới."
-    },
-    {
-        "name": "El Mayo Sa Lưới",
-        "year": 2026,
-        "slug": "el-mayo-sa-luoi",
-        "thumb": "https://phimimg.com/uploads/movies/20261031/el-mayo-sa-luoi-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261031/el-mayo-sa-luoi-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (3/3)",
-        "total_episodes": "3",
-        "country": "Âu Mỹ",
-        "description": "Ai mới thực sự nắm quyền ở Sinaloa? El Mayo Zambada hoạt động như một bóng ma phía sau đồng phạm El Chapo, cho đến khi một vụ phản bội đẩy ông vào tâm điểm chú ý của dư luận."
     }
 ]
