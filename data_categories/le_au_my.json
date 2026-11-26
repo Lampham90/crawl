@@ -1,5 +1,17 @@
 [
     {
+        "name": "Trận Bóng Cuối Cùng",
+        "year": 2026,
+        "slug": "tran-bong-cuoi-cung",
+        "thumb": "https://phimimg.com/uploads/movies/20261126/tran-bong-cuoi-cung-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261126/tran-bong-cuoi-cung-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Mỹ",
+        "description": "Sau trận chiến Trân Châu Cảng, bốn ngôi sao bóng bầu dục gia nhập Thuỷ quân lục chiến Hoa Kỳ. Ở đó, họ nhận ra sức mạnh của tình đồng đội và cái giá của chiến tranh."
+    },
+    {
         "name": "Rob Lowe: Kẻ Ngoại Đạo",
         "year": 2026,
         "slug": "rob-lowe-ke-ngoai-dao",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Anh",
         "description": "Những chú cừu thông minh đã sẵn sàng cho một ngày bình thường… cho đến khi một vị khách không-mấy-bình-thường xuất hiện."
-    },
-    {
-        "name": "Gail Daughtry Và Tấm Vé Ngoại Tình Với Người Nổi Tiếng",
-        "year": 2026,
-        "slug": "gail-daughtry-va-tam-ve-ngoai-tinh-voi-nguoi-noi-tieng",
-        "thumb": "https://phimimg.com/uploads/movies/20260815/gail-daughtry-va-tam-ve-quan-he-voi-nguoi-noi-tieng-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260815/gail-daughtry-va-tam-ve-quan-he-voi-nguoi-noi-tieng-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Âu Mỹ",
-        "description": "Gail Daughtry, một thợ làm tóc sống tại thị trấn nhỏ ở tiểu bang Kansas, rơi vào cảnh trớ trêu khi hôn phu của cô sử dụng \"thẻ ngoại tình với người nổi tiếng\" (celebrity sex pass) để ngủ với Jennifer Aniston. Uất ức và muốn đòi lại sự bằng phẳng, Gail quyết định cùng người bạn Otto khăn gói đến Los Angeles để tìm kiếm đối tượng trong chiếc \"thẻ quyền lực\" của riêng mình — nam tài tử Jon Hamm — nhằm san bằng tỷ số."
     }
 ]
