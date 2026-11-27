@@ -1,5 +1,29 @@
 [
     {
+        "name": "Những Quý Bà Thợ Săn (Phần 2)",
+        "year": 2026,
+        "slug": "nhung-quy-ba-tho-san-phan-2",
+        "thumb": "https://phimimg.com/uploads/movies/20261127/nhung-quy-ba-tho-san-phan-2-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261127/nhung-quy-ba-tho-san-phan-2-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Mỹ",
+        "description": "Trong loạt phim chính kịch đầy nút thắt này chuyển thể từ tiểu thuyết của May Cobb, một bà nội trợ buồn chán vướng vào một nhóm phụ nữ giàu có chuyên bắn súng và tiệc tùng."
+    },
+    {
+        "name": "Những Quý Bà Thợ Săn (Phần 1)",
+        "year": 2025,
+        "slug": "nhung-quy-ba-tho-san-phan-1",
+        "thumb": "https://phimimg.com/upload/vod/20250727-1/aabacccc9e6f0b70a41171eb9fe4b712.jpg",
+        "poster": "https://phimimg.com/upload/vod/20250727-1/be683343836da100d2fcc4f41b703590.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Hoàn Tất (8/8)",
+        "total_episodes": "8",
+        "country": "Âu Mỹ",
+        "description": "Từ bỏ ánh đèn thành phố, Sophie chuyển đến miền Đông Texas yên ả để bắt đầu cuộc sống mới. Tại đây, cô nhanh chóng bị cuốn vào thế giới hào nhoáng của một nữ xã hội thượng lưu và nhóm bạn nội trợ xinh đẹp, sang trọng. Nhưng đằng sau vẻ ngoài hoàn hảo ấy là những bí mật đen tối đến chết người."
+    },
+    {
         "name": "Vụ Án Karen Read",
         "year": 2026,
         "slug": "vu-an-karen-read",
@@ -334,29 +358,5 @@
         "total_episodes": "8",
         "country": "Anh",
         "description": "Xoay quanh cuộc sống đầy náo nhiệt, những trò quậy phá siêu lầy lội và những rung động đầu đời trong sáng của nhóm học sinh tại một trường học ở địa phương."
-    },
-    {
-        "name": "Người Tạo Mưa",
-        "year": 2025,
-        "slug": "nguoi-tao-mua",
-        "thumb": "https://phimimg.com/uploads/movies/20261102/nguoi-tao-mua-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261102/nguoi-tao-mua-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Làm việc tại một hãng luật nhỏ, Rudy đối đầu với bạn gái và hãng luật cũ trong một vụ kiện đe dọa cả sự nghiệp của anh lẫn mối quan hệ giữa hai người."
-    },
-    {
-        "name": "Người Chạy Xuyên Không Gian (Phần 2)",
-        "year": 2026,
-        "slug": "nguoi-chay-xuyen-khong-gian-phan-2",
-        "thumb": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20260829/nguoi-chay-xuyen-khong-gian-phan-2-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Hoàn Tất (10/10)",
-        "total_episodes": "10",
-        "country": "Âu Mỹ",
-        "description": "Gia đình Jason ban đầu tìm được một khoảng thời gian yên bình, tưởng chừng đã định cư an toàn tại một thực tại mới. Tuy nhiên, sự bình yên đó không kéo dài lâu khi những hiểm họa từ không gian đa vũ trụ và những rắc rối chưa được giải quyết từ thế giới cũ tiếp tục đeo bám, buộc họ phải một lần nữa dấn thân vào cuộc trốn chạy mới."
     }
 ]
