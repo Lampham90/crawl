@@ -1,5 +1,17 @@
 [
     {
+        "name": "Nhà Ma Xó",
+        "year": 2025,
+        "slug": "nha-ma-xo",
+        "thumb": "https://phimimg.com/upload/vod/20260517-1/6afbc74dcc0c363fe03b227e08b583ac.jpg",
+        "poster": "https://phimimg.com/upload/vod/20260517-1/36b8ba62a91578879b6ee80f0cd8fa6f.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Việt Nam",
+        "description": "Nhà Ma Xó xoay quanh câu chuyện về bà Hiền, người phụ nữ một mình nuôi 3 người con sau tai nạn chồng qua đời. Mọi chuyện bắt đầu khi người con trai giữa trong một lần thả lưới bắt cá vớt được một cái khạp bằng sành, nắp đậy kín. Từ đó, những hiện tượng kỳ quái liên tiếp xảy ra trong gia đình."
+    },
+    {
         "name": "Phí Phông: Quỷ Máu Rừng Thiêng",
         "year": 2026,
         "slug": "phi-phong-quy-mau-rung-thieng",
@@ -328,17 +340,6 @@
         "slug": "nu-hon-bac-ty",
         "thumb": "https://phimimg.com/upload/vod/20260305-1/edeff022ca9b19a349f3b899467df1f5.jpg",
         "poster": "https://phimimg.com/upload/vod/20260305-1/277fff3f8a3f09efd03218b2ba176e5e.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "viet-nam"
-    },
-    {
-        "name": "Tử Chiến Trên Không",
-        "year": 2025,
-        "slug": "tu-chien-tren-khong",
-        "thumb": "https://phimimg.com/upload/vod/20260131-1/675f2fb9a0465602ff0599e16649c6ca.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260131-1/4e3b2c7d88c55d852dfe756e4acc56c1.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",

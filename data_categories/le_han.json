@@ -1,5 +1,17 @@
 [
     {
+        "name": "Nhân Diện",
+        "year": 2025,
+        "slug": "nhan-dien",
+        "thumb": "https://phimimg.com/upload/vod/20251030-1/d356f12e06f1977d3eba2ef8811f5491.jpg",
+        "poster": "https://phimimg.com/upload/vod/20251030-1/8054fab9c57958ab8911519d740650aa.jpg",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Hàn Quốc",
+        "description": "Im Dong-hwan, chàng trai chưa từng biết mặt mẹ mình, bàng hoàng khi cảnh sát thông báo đã tìm thấy hài cốt của bà – người mất tích suốt 40 năm – với nghi ngờ bị sát hại. Anh quyết tâm đi tìm sự thật cùng nữ đạo diễn Kim Soo-jin, người đang thực hiện phim tài liệu về cha anh – nghệ nhân làm dấu mù lòa từ khi sinh ra. Họ lần theo ký ức của những người từng làm việc với bà tại xưởng may năm xưa, để dần vén màn bí mật được chôn giấu suốt bốn thập kỷ."
+    },
+    {
         "name": "Điểm Mù",
         "year": 2026,
         "slug": "diem-mu-2026",
@@ -324,17 +336,6 @@
         "thumb": "https://phimimg.com/upload/vod/20260204-1/eb87122248a7305d2b5eb86a48bc5014.jpg",
         "poster": "https://phimimg.com/upload/vod/20260204-1/46596119a12881859c77a748449c10e7.jpg",
         "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "han-quoc"
-    },
-    {
-        "name": "Anh Trai Say Xe",
-        "year": 2025,
-        "slug": "anh-trai-say-xe",
-        "thumb": "https://phimimg.com/upload/vod/20251208-1/4d466b18eaaac0bf28cac405ba22b4e7.jpg",
-        "poster": "https://phimimg.com/upload/vod/20251208-1/84eb1a74d6a6eabbb83e99d93b3edc47.jpg",
-        "sub_type": "Vietsub + Thuyết Minh + Lồng Tiếng",
         "current_episode": "Full",
         "total_episodes": "1",
         "country": "han-quoc"
