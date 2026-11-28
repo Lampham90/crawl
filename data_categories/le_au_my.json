@@ -1,5 +1,17 @@
 [
     {
+        "name": "Tyson Fury",
+        "year": 2026,
+        "slug": "tyson-fury",
+        "thumb": "https://phimimg.com/uploads/movies/20261128/tyson-fury-thumb.webp",
+        "poster": "https://phimimg.com/uploads/movies/20261128/tyson-fury-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Anh",
+        "description": "Từng là nhà vô địch hạng nặng, Tyson Fury suýt gục ngã trước biến cố cuộc đời. Trong phim tài liệu này, huyền thoại quyền Anh Tyson Fury kể lại hành trình thăng trầm và vực dậy."
+    },
+    {
         "name": "Trận Bóng Cuối Cùng",
         "year": 2026,
         "slug": "tran-bong-cuoi-cung",
@@ -346,17 +358,5 @@
         "total_episodes": "1",
         "country": "Âu Mỹ",
         "description": "Một người con gái bóc tách những góc khuất đen tối của người cha quá cố, sau khi thi thể của ông – người đã mất tích bí ẩn suốt 36 năm – đột ngột được tìm thấy tại một hiện trường vụ án mạng kinh hoàng."
-    },
-    {
-        "name": "Shaun The Sheep: \"Quái Lạ\" Ghé Nhà",
-        "year": 2026,
-        "slug": "shaun-the-sheep-quai-la-ghe-nha",
-        "thumb": "https://phimimg.com/uploads/movies/20261028/shaun-the-sheep-quai-la-ghe-nha-thumb.webp",
-        "poster": "https://phimimg.com/uploads/movies/20261028/shaun-the-sheep-quai-la-ghe-nha-poster.webp",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "Anh",
-        "description": "Những chú cừu thông minh đã sẵn sàng cho một ngày bình thường… cho đến khi một vị khách không-mấy-bình-thường xuất hiện."
     }
 ]

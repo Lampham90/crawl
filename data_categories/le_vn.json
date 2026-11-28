@@ -1,5 +1,17 @@
 [
     {
+        "name": "Cô Dâu Ma",
+        "year": 2025,
+        "slug": "co-dau-ma",
+        "thumb": null,
+        "poster": "https://phimimg.com/uploads/movies/20261128/co-dau-ma-poster.webp",
+        "sub_type": "Vietsub",
+        "current_episode": "Full",
+        "total_episodes": "1",
+        "country": "Việt Nam",
+        "description": "Một chiếc váy cưới gia truyền, một cô dâu đã khuất, một cô gái Việt vô tình đánh thức lời nguyền bị chôn vùi suốt nhiều thập kỷ, mở ra những bí mật kinh hoàng của gia tộc vị hôn phu."
+    },
+    {
         "name": "Nhà Ma Xó",
         "year": 2025,
         "slug": "nha-ma-xo",
@@ -329,17 +341,6 @@
         "slug": "truy-tim-long-dien-huong",
         "thumb": "https://phimimg.com/upload/vod/20260305-1/0ed392d57a9e67bce3fee7955a903441.jpg",
         "poster": "https://phimimg.com/upload/vod/20260305-1/f27e602f78ac25f30a12c985e91ede32.jpg",
-        "sub_type": "Vietsub",
-        "current_episode": "Full",
-        "total_episodes": "1",
-        "country": "viet-nam"
-    },
-    {
-        "name": "Nụ Hôn Bạc Tỷ",
-        "year": 2025,
-        "slug": "nu-hon-bac-ty",
-        "thumb": "https://phimimg.com/upload/vod/20260305-1/edeff022ca9b19a349f3b899467df1f5.jpg",
-        "poster": "https://phimimg.com/upload/vod/20260305-1/277fff3f8a3f09efd03218b2ba176e5e.jpg",
         "sub_type": "Vietsub",
         "current_episode": "Full",
         "total_episodes": "1",
